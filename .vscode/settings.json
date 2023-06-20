@@ -1,0 +1,4 @@
+{
+  "i18n-ally.localesPaths": ["src/public/i18n", "src/lib/i18n"],
+  "cSpell.words": ["Resquarify"]
+}

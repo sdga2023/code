@@ -1,0 +1,18 @@
+<script>
+  export let color;
+</script>
+
+<svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M1.8328 1.68372L1.60547 1.92171L6.15097 6.68372L1.60547 11.4457L1.8328 11.6837L6.60547 6.68372L1.8328 1.68372Z"
+    fill={color}
+    stroke={color}
+  />
+</svg>
+
+<style>
+  svg {
+    display: inline-block;
+    margin: 0 var(--space-xs);
+  }
+</style>
