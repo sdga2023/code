@@ -1,0 +1,3242 @@
+[
+  {
+    "year": 1990,
+    "welfare": 0.5,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.5367524,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.60065675,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.65153444,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.69,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.72021967,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.76004553,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.78999996,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.81957984,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.85000002,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.88020921,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.90999997,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.94051385,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.97000003,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.000387,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.03,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.05,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.0800107,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.11,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.13,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.15,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.17,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.1999482,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.23,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.25,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.27,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.3000187,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.33,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.35,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.37,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.39,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.419982,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.45,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.47,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.499964,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.53,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.55,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.5798849,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.61,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.6399257,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.67,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.6999013,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.73,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.7599021,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.7996466,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.8398851,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.8799495,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.91,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.9399379,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.9883317,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.0405006,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.0812852,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.1257446,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.1791832,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.231318,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.2764289,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.3335359,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.392422,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.4522867,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.5133667,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.5773971,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.6552639,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.7357199,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.8187926,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.9046891,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.0057695,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.1142414,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.2237604,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.3706269,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.5259154,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.6871624,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.8939662,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.1333823,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.4306879,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.795979,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.2379074,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.8493528,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 6.6808243,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.8614297,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 9.4860649,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 11.736134,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 14.292041,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 17.075075,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 20.064611,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 23.265488,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 27.120321,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 31.437904,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 36.432281,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 43.180958,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 54.023205,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 92.584396,
+    "region": "EAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.5,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.94225544,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.3435774,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.6751046,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.952974,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.2016044,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.4272211,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.6456075,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.8507462,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.042125,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.2414796,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.4594033,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.6528196,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.8433964,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.0543194,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.2617087,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.4539042,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.6841574,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.8996491,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.1226373,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.3577433,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.5716424,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.8009882,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 6.0353723,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 6.2822442,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 6.5370736,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 6.8009696,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.078701,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.3597889,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.6627245,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.9683342,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 8.2992268,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 8.6340809,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 8.9434948,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 9.2595778,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 9.6296968,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 10.020982,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 10.431801,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 10.861978,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 11.300585,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 11.702208,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 12.111737,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 12.602488,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 13.110452,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 13.649524,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 14.191086,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 14.776371,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 15.379167,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 15.918874,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 16.481245,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 17.156006,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 17.851225,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 18.485634,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 19.144848,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 19.916157,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 20.728449,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 21.455429,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 22.218449,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 23.139811,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 23.942366,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 24.80143,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 25.80331,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 26.715315,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 27.655312,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 28.777908,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 29.953205,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 31.011881,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 32.118313,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 33.437393,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 34.758732,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 36.192127,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 37.466599,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 38.775032,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 40.359177,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 42.213322,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 44.146595,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 45.935825,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 48.020195,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 50.461964,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 52.789078,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 55.478897,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 58.60289,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 61.859337,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 65.753098,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 70.074516,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 75.422951,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 82.149796,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 90.725395,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 102.83516,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 123.17169,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 200.47983,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.65436506,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.87633425,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.98217583,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.0510762,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.1110804,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.1704093,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.2200989,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.2702252,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.3200449,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.3601152,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.4001266,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.4398794,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.4800829,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.5200754,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.5601494,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.5997342,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.6397085,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.6800084,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.7198923,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.7601632,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.800179,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.8398286,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.8801711,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.9200649,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.9696848,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.0200179,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.060106,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.1016235,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.1443627,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.1981645,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.2534399,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.2989557,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.3453863,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.4044867,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.4645457,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.5262976,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.5905545,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.6556256,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.7229996,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.7917552,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.861412,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.9333732,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.0222421,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.1290309,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.2409024,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.3554468,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.4903233,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.6489463,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.8170669,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.0117168,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.2584891,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.5422392,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.9134564,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.4264865,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 6.1928582,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.6130843,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 14.036249,
+    "region": "SAS"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.5,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.51636344,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.67199463,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.8113175,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 0.92999673,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.0403075,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.1605369,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.2792988,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.4105093,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.5399014,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.6791729,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.8294985,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 1.9890791,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.1766641,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.3777101,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.6151979,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 2.8898845,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.2267413,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 3.6335239,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.1145935,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 4.7509465,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 5.6417837,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 7.0070195,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 9.5899162,
+    "region": "SSF"
+  },
+  {
+    "year": 1990,
+    "welfare": 23.634842,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.6755816,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.2357652,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.5621483,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.8112352,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.0278616,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.2116439,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.3742766,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.5452952,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.6884687,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.8193078,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.954057,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.0750976,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.1974959,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.3249063,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.4564438,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.5920238,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.7063408,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.8249874,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.9459429,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.0458922,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.1729474,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.3032589,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.4103351,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.519362,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.6295857,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.7427897,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.8580866,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.9758372,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.0962257,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.2179523,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.3757811,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.5030003,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.6009288,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.7336955,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.8692579,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.0069399,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.1486278,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.2915201,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.401,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.5131211,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.6627507,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.7784996,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.8951206,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.0541935,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.2239237,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.3818617,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.5074997,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.6351719,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.808568,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.9873524,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.1210003,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.2584839,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.4443445,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.5865002,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.7302914,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.9260149,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.12554,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.278,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.433398,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.642305,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.854966,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.019,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.185461,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.409666,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.640559,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.814,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.990639,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.234649,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.477856,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.729038,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.986991,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 13.247454,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 13.513453,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 13.783358,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.062531,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.343778,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.631099,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.923935,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 15.22431,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 15.532042,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 15.844131,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.242546,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.650515,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.986023,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 17.41514,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 17.850805,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 18.299231,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 18.767225,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 19.234842,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 19.823952,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 20.420811,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 21.032326,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 21.67696,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 22.332027,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 23.017792,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 23.706974,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 24.548582,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 25.414349,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 26.3113,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 27.393038,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 28.488787,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 29.671661,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 30.99264,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 32.588852,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 34.11253,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 35.608829,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 37.457615,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 39.550076,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 41.852539,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 44.374104,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 47.306488,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 50.515297,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 54.570534,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 59.773346,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 66.198593,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 75.569336,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 90.832596,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 151.74315,
+    "region": "EAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 0.62103665,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.2682995,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.657313,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.0173473,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.3548548,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.6746149,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.9825609,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.278209,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.5485258,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.8044751,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.0530796,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.2836413,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.5240669,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.7788582,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.9950709,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.2265468,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.4603233,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.6879945,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.9149485,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.1587787,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.4088683,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.6351094,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.8701272,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.149353,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.4024644,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.6243324,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.8605676,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.0943317,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.3822107,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.6803188,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.9393539,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.1644974,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.398221,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.6840649,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.9727297,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.274755,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.535868,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.800336,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.129361,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.409068,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.700494,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.051545,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.357441,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.664905,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 13.053101,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 13.37081,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 13.712347,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.056508,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.419219,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.852044,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 15.232113,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 15.619664,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.003588,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.401033,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.89842,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 17.410671,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 17.850943,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 18.305515,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 18.859983,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 19.327127,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 19.830936,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 20.419268,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 21.043556,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 21.560957,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 22.108984,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 22.792988,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 23.471502,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 24.183149,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 24.931978,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 25.673822,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 26.321451,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 26.985844,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 27.794737,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 28.636465,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 29.518909,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 30.404762,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 31.329765,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 32.292389,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 33.266006,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 34.263351,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 35.30941,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 36.367149,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 37.458374,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 38.402412,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 39.368038,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 40.578644,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 41.827637,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 43.093857,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 44.378372,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 45.493576,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 46.628822,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 48.062065,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 49.520714,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 51.01001,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 52.552872,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 54.149452,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 56.062958,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 58.055256,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 59.782993,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 61.609772,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 63.833881,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 66.074036,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 68.384087,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 71.190475,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 73.701103,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 76.268341,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 79.785004,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 83.505356,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 87.237663,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 91.81916,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 96.897079,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 102.73281,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 109.67088,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 118.23756,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 128.54561,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 141.72704,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 161.23358,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 197.46738,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 351.01541,
+    "region": "RESTOFWORLD"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.1599458,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.4873741,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.6542063,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.7811471,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.8813407,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.9600422,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.0400255,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.1155353,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.1796951,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.2431147,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.2990353,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.357105,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.4156196,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.4646518,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.5136013,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.5647533,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.6174846,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.6697772,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.7227361,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.7635,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.8046186,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.8615406,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.9045,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.9485495,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.993,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.0378203,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.0834999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.1145,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.16154,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.2084999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.2565615,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.3055,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.3385,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.3890376,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.4400001,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.4745002,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.5267894,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.5795,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.6149998,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.6692584,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.7245002,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.7620001,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.8188815,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.8759999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.9145,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.9740911,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.0339999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.0739999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.1351895,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.197,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.2601919,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.3245001,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.3895593,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.4555001,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.5004997,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.5669923,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.6364999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.7061348,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.777,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.8477945,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.9464417,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.0209999,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.0968814,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.19941,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.3039427,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.4098129,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.5177979,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.6297069,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.7430601,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.8578959,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.9750791,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.1266069,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.2791147,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.4373598,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.6334128,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.8015327,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.0054283,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.2547617,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.5076795,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.8160954,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.1344633,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.5040798,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.9370575,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 9.439702,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.023027,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.686681,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 11.571907,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.713873,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 14.191593,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.349737,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 20.148865,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 34.992992,
+    "region": "SAS"
+  },
+  {
+    "year": 2019,
+    "welfare": 0.5,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 0.62305278,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 0.76215756,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 0.88056564,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 0.98967826,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.0801606,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.160742,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.24054,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.3199501,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.3991683,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.4791837,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.5502836,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.6204002,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.6895918,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.759191,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.8408512,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 1.9194638,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.0004988,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.0708146,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.1445982,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.2306972,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.3217905,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.4053175,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.4900277,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.5775688,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.6562767,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.7509098,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.8479426,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 2.94859,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.053653,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.1610649,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.2895918,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.4063528,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.527065,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.6511998,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.7810683,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 3.933887,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.094821,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.2606087,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.4333091,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.6140227,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 4.8229156,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.0459495,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.3002329,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.5989742,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 5.9155173,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.3093405,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 6.7628202,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 7.3189559,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.0118322,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 8.8767643,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 10.201488,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 12.22959,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 16.100452,
+    "region": "SSF"
+  },
+  {
+    "year": 2019,
+    "welfare": 39.199444,
+    "region": "SSF"
+  }
+]

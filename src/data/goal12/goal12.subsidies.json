@@ -1,0 +1,2204 @@
+[
+  {
+    "year": 2020,
+    "number": 16,
+    "code": "ARE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 4,
+    "code": "ARE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 10,
+    "code": "ARE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 6,
+    "code": "ARE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 9,
+    "code": "ARE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 24,
+    "code": "ARG",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 24,
+    "code": "ARG",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 6,
+    "code": "ARG",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 12,
+    "code": "ARG",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 22,
+    "code": "ARG",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 180,
+    "code": "AUS",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 105,
+    "code": "AUS",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 217,
+    "code": "AUS",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 119,
+    "code": "AUS",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 131,
+    "code": "AUS",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 34,
+    "code": "AUT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 36,
+    "code": "AUT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 16,
+    "code": "AUT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 30,
+    "code": "AUT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 18,
+    "code": "AUT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 18,
+    "code": "BEL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 41,
+    "code": "BEL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 21,
+    "code": "BEL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 37,
+    "code": "BEL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 44,
+    "code": "BEL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "BHR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "BHR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 15,
+    "code": "BMU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 27,
+    "code": "BMU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 22,
+    "code": "BMU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 3,
+    "code": "BMU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 7,
+    "code": "BMU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 64,
+    "code": "BRA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 59,
+    "code": "BRA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 91,
+    "code": "BRA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 82,
+    "code": "BRA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 67,
+    "code": "BRA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 108,
+    "code": "CAN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 178,
+    "code": "CAN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 132,
+    "code": "CAN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 225,
+    "code": "CAN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 94,
+    "code": "CAN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 102,
+    "code": "CHE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 87,
+    "code": "CHE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 128,
+    "code": "CHE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 64,
+    "code": "CHE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 55,
+    "code": "CHE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 30,
+    "code": "CHL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 23,
+    "code": "CHL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 24,
+    "code": "CHL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 28,
+    "code": "CHL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 34,
+    "code": "CHL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 533,
+    "code": "CHN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 107,
+    "code": "CHN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 248,
+    "code": "CHN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 302,
+    "code": "CHN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 631,
+    "code": "CHN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 20,
+    "code": "COL",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 11,
+    "code": "COL",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 16,
+    "code": "COL",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 15,
+    "code": "COL",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 20,
+    "code": "COL",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 2,
+    "code": "CYM",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "CYM",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 4,
+    "code": "CYM",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 4,
+    "code": "CYM",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "CYM",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 8,
+    "code": "CYP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "CYP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 2,
+    "code": "CYP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 9,
+    "code": "CYP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 4,
+    "code": "CYP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 2,
+    "code": "CZE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 4,
+    "code": "CZE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 4,
+    "code": "CZE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 4,
+    "code": "CZE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 4,
+    "code": "CZE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 136,
+    "code": "DEU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 95,
+    "code": "DEU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 207,
+    "code": "DEU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 151,
+    "code": "DEU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 70,
+    "code": "DEU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 56,
+    "code": "DNK",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 44,
+    "code": "DNK",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 35,
+    "code": "DNK",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 28,
+    "code": "DNK",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 25,
+    "code": "DNK",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 2,
+    "code": "EGY",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 2,
+    "code": "EGY",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "EGY",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "EGY",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 62,
+    "code": "ESP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 68,
+    "code": "ESP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 39,
+    "code": "ESP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 64,
+    "code": "ESP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 44,
+    "code": "ESP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 24,
+    "code": "FIN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 71,
+    "code": "FIN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 44,
+    "code": "FIN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 35,
+    "code": "FIN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 27,
+    "code": "FIN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 90,
+    "code": "FRA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 131,
+    "code": "FRA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 100,
+    "code": "FRA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 138,
+    "code": "FRA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 140,
+    "code": "FRA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "FRO",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "FRO",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "FRO",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 279,
+    "code": "GBR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 490,
+    "code": "GBR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 264,
+    "code": "GBR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 343,
+    "code": "GBR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 310,
+    "code": "GBR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "GEO",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "GEO",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "GEO",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "GIB",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "GIB",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "GIB",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "GIB",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "GIB",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 19,
+    "code": "GRC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 8,
+    "code": "GRC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 13,
+    "code": "GRC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 15,
+    "code": "GRC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 19,
+    "code": "GRC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 141,
+    "code": "HKG",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 140,
+    "code": "HKG",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 78,
+    "code": "HKG",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 118,
+    "code": "HKG",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 105,
+    "code": "HKG",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 3,
+    "code": "HUN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 3,
+    "code": "HUN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 3,
+    "code": "HUN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 3,
+    "code": "HUN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 3,
+    "code": "HUN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 31,
+    "code": "IDN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 28,
+    "code": "IDN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 35,
+    "code": "IDN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 43,
+    "code": "IDN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 31,
+    "code": "IDN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "IMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 3,
+    "code": "IMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 3,
+    "code": "IMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 3,
+    "code": "IMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 4,
+    "code": "IMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 138,
+    "code": "IND",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 88,
+    "code": "IND",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 82,
+    "code": "IND",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 154,
+    "code": "IND",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 95,
+    "code": "IND",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 28,
+    "code": "IRL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 35,
+    "code": "IRL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 21,
+    "code": "IRL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 39,
+    "code": "IRL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 25,
+    "code": "IRL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 8,
+    "code": "ISL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 5,
+    "code": "ISR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 7,
+    "code": "ISR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 6,
+    "code": "ISR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 7,
+    "code": "ISR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 10,
+    "code": "ISR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 32,
+    "code": "ITA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 49,
+    "code": "ITA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 92,
+    "code": "ITA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 86,
+    "code": "ITA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 98,
+    "code": "ITA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "JOR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "JOR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "JOR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "JOR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 4,
+    "code": "JOR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 323,
+    "code": "JPN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 356,
+    "code": "JPN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 287,
+    "code": "JPN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 298,
+    "code": "JPN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 369,
+    "code": "JPN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 2,
+    "code": "KAZ",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 2,
+    "code": "KAZ",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "KAZ",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "KAZ",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "KEN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "KEN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "KEN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "KEN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "KEN",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "KHM",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "KHM",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 82,
+    "code": "KOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 55,
+    "code": "KOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 64,
+    "code": "KOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 74,
+    "code": "KOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 60,
+    "code": "KOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 3,
+    "code": "KWT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 5,
+    "code": "KWT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 2,
+    "code": "KWT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 4,
+    "code": "KWT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 4,
+    "code": "KWT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 2,
+    "code": "LIE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "LIE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "LIE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "LKA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "LKA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "LKA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "LKA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "LKA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 21,
+    "code": "LUX",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 15,
+    "code": "LUX",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 11,
+    "code": "LUX",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 9,
+    "code": "LUX",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 31,
+    "code": "LUX",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 3,
+    "code": "MAC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 3,
+    "code": "MAC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 3,
+    "code": "MAC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 3,
+    "code": "MAC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 3,
+    "code": "MAC",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "MAR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "MAR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "MAR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "MAR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 3,
+    "code": "MCO",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 3,
+    "code": "MCO",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 37,
+    "code": "MEX",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 42,
+    "code": "MEX",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 34,
+    "code": "MEX",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 29,
+    "code": "MEX",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 32,
+    "code": "MEX",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 3,
+    "code": "MLT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "MLT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 5,
+    "code": "MLT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 3,
+    "code": "MLT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "MNG",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 59,
+    "code": "MYS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 62,
+    "code": "MYS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 52,
+    "code": "MYS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 40,
+    "code": "MYS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 54,
+    "code": "MYS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "NGA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "NGA",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 37,
+    "code": "NLD",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 60,
+    "code": "NLD",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 55,
+    "code": "NLD",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 49,
+    "code": "NLD",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 35,
+    "code": "NLD",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 45,
+    "code": "NOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 53,
+    "code": "NOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 17,
+    "code": "NOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 20,
+    "code": "NOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 76,
+    "code": "NOR",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 22,
+    "code": "NZL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 30,
+    "code": "NZL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 37,
+    "code": "NZL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 20,
+    "code": "NZL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 27,
+    "code": "NZL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "OMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "OMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "OMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "OMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "OMN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "PAK",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "PAK",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "PAN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "PAN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "PAN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "PAN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "PAN",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 13,
+    "code": "PER",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 9,
+    "code": "PER",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 13,
+    "code": "PER",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 10,
+    "code": "PER",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 14,
+    "code": "PER",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 19,
+    "code": "PHL",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 24,
+    "code": "PHL",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 15,
+    "code": "PHL",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 27,
+    "code": "PHL",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 14,
+    "code": "PHL",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "PNG",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "PNG",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "PNG",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "PNG",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "PNG",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 32,
+    "code": "POL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 37,
+    "code": "POL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 35,
+    "code": "POL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 25,
+    "code": "POL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 17,
+    "code": "POL",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "PRI",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 3,
+    "code": "PRI",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 6,
+    "code": "PRT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 14,
+    "code": "PRT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 14,
+    "code": "PRT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 14,
+    "code": "PRT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 9,
+    "code": "PRT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 4,
+    "code": "QAT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 5,
+    "code": "QAT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 3,
+    "code": "QAT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 2,
+    "code": "QAT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 3,
+    "code": "QAT",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "ROU",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 2,
+    "code": "ROU",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "ROU",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 3,
+    "code": "ROU",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 27,
+    "code": "RUS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 42,
+    "code": "RUS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 30,
+    "code": "RUS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 41,
+    "code": "RUS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 41,
+    "code": "RUS",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 2,
+    "code": "SAU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 9,
+    "code": "SAU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 12,
+    "code": "SAU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 3,
+    "code": "SAU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 11,
+    "code": "SAU",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 90,
+    "code": "SGP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 75,
+    "code": "SGP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 41,
+    "code": "SGP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 34,
+    "code": "SGP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 24,
+    "code": "SGP",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "SVN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "SVN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "SVN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "SVN",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 105,
+    "code": "SWE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 137,
+    "code": "SWE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 60,
+    "code": "SWE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 49,
+    "code": "SWE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 205,
+    "code": "SWE",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 76,
+    "code": "THA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 32,
+    "code": "THA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 34,
+    "code": "THA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 89,
+    "code": "THA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 40,
+    "code": "THA",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2017,
+    "number": 24,
+    "code": "TUR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 40,
+    "code": "TUR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 46,
+    "code": "TUR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 21,
+    "code": "TUR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 64,
+    "code": "TUR",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "UGA",
+    "incgroup_current": "Low income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "UGA",
+    "incgroup_current": "Low income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "UGA",
+    "incgroup_current": "Low income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "UKR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "UKR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "UKR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "UKR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "UKR",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "URY",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "URY",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "URY",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "URY",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "URY",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2017,
+    "number": 468,
+    "code": "USA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2020,
+    "number": 1096,
+    "code": "USA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2018,
+    "number": 583,
+    "code": "USA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2016,
+    "number": 412,
+    "code": "USA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 837,
+    "code": "USA",
+    "incgroup_current": "High income"
+  },
+  {
+    "year": 2019,
+    "number": 2,
+    "code": "VNM",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 2,
+    "code": "VNM",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 94,
+    "code": "ZAF",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2020,
+    "number": 107,
+    "code": "ZAF",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2016,
+    "number": 96,
+    "code": "ZAF",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2019,
+    "number": 106,
+    "code": "ZAF",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 97,
+    "code": "ZAF",
+    "incgroup_current": "Upper middle income"
+  },
+  {
+    "year": 2018,
+    "number": 1,
+    "code": "ZWE",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2020,
+    "number": 1,
+    "code": "ZWE",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2019,
+    "number": 1,
+    "code": "ZWE",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2016,
+    "number": 1,
+    "code": "ZWE",
+    "incgroup_current": "Lower middle income"
+  },
+  {
+    "year": 2017,
+    "number": 1,
+    "code": "ZWE",
+    "incgroup_current": "Lower middle income"
+  }
+]

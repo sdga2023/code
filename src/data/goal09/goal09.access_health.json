@@ -1,0 +1,23 @@
+[
+  {
+    "category": "transport",
+    "not": 20,
+    "minor": 24.5,
+    "main": 46.3,
+    "most": 9.3
+  },
+  {
+    "category": "availability",
+    "not": 18.2,
+    "minor": 17.1,
+    "main": 32,
+    "most": 32.7
+  },
+  {
+    "category": "physical",
+    "not": 45.2,
+    "minor": 28.2,
+    "main": 19.5,
+    "most": 7.2
+  }
+]

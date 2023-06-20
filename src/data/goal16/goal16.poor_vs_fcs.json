@@ -1,0 +1,219 @@
+[
+  {
+    "year": 2000,
+    "fcs_pct": 16.37631078,
+    "others": 83.62368922,
+    "fcs_population": 612000000,
+    "others_population": 5530000000
+  },
+  {
+    "year": 2001,
+    "fcs_pct": 16.49451807,
+    "others": 83.50548193,
+    "fcs_population": 626000000,
+    "others_population": 5600000000
+  },
+  {
+    "year": 2002,
+    "fcs_pct": 17.11663055,
+    "others": 82.88336945,
+    "fcs_population": 642000000,
+    "others_population": 5670000000
+  },
+  {
+    "year": 2003,
+    "fcs_pct": 17.6053402,
+    "others": 82.3946598,
+    "fcs_population": 658000000,
+    "others_population": 5730000000
+  },
+  {
+    "year": 2004,
+    "fcs_pct": 18.00209621,
+    "others": 81.99790379,
+    "fcs_population": 674000000,
+    "others_population": 5800000000
+  },
+  {
+    "year": 2005,
+    "fcs_pct": 18.99557401,
+    "others": 81.00442599,
+    "fcs_population": 690000000,
+    "others_population": 5860000000
+  },
+  {
+    "year": 2006,
+    "fcs_pct": 19.21914946,
+    "others": 80.78085054,
+    "fcs_population": 707000000,
+    "others_population": 5930000000
+  },
+  {
+    "year": 2007,
+    "fcs_pct": 19.94256108,
+    "others": 80.05743892,
+    "fcs_population": 724000000,
+    "others_population": 5990000000
+  },
+  {
+    "year": 2008,
+    "fcs_pct": 20.27517607,
+    "others": 79.72482393,
+    "fcs_population": 741000000,
+    "others_population": 6060000000
+  },
+  {
+    "year": 2009,
+    "fcs_pct": 20.97617399,
+    "others": 79.02382601,
+    "fcs_population": 760000000,
+    "others_population": 6130000000
+  },
+  {
+    "year": 2010,
+    "fcs_pct": 22.01109383,
+    "others": 77.98890617,
+    "fcs_population": 778000000,
+    "others_population": 6190000000
+  },
+  {
+    "year": 2011,
+    "fcs_pct": 24.82796448,
+    "others": 75.17203552,
+    "fcs_population": 797000000,
+    "others_population": 6260000000
+  },
+  {
+    "year": 2012,
+    "fcs_pct": 26.46872082,
+    "others": 73.53127918,
+    "fcs_population": 817000000,
+    "others_population": 6320000000
+  },
+  {
+    "year": 2013,
+    "fcs_pct": 29.37773334,
+    "others": 70.62226666,
+    "fcs_population": 837000000,
+    "others_population": 6390000000
+  },
+  {
+    "year": 2014,
+    "fcs_pct": 30.15327245,
+    "others": 69.84672755,
+    "fcs_population": 857000000,
+    "others_population": 6460000000
+  },
+  {
+    "year": 2015,
+    "fcs_pct": 32.31072073,
+    "others": 67.68927927,
+    "fcs_population": 876000000,
+    "others_population": 6530000000
+  },
+  {
+    "year": 2016,
+    "fcs_pct": 33.61113164,
+    "others": 66.38886836,
+    "fcs_population": 896000000,
+    "others_population": 6600000000
+  },
+  {
+    "year": 2017,
+    "fcs_pct": 36.39320965,
+    "others": 63.60679035,
+    "fcs_population": 916000000,
+    "others_population": 6660000000
+  },
+  {
+    "year": 2018,
+    "fcs_pct": 39.79656063,
+    "others": 60.20343937,
+    "fcs_population": 936000000,
+    "others_population": 6730000000
+  },
+  {
+    "year": 2019,
+    "fcs_pct": 42.49354719,
+    "others": 57.50645281,
+    "fcs_population": 957000000,
+    "others_population": 6790000000
+  },
+  {
+    "year": 2020,
+    "fcs_pct": 40.61950464,
+    "others": 59.38049536,
+    "fcs_population": 979000000,
+    "others_population": 6840000000
+  },
+  {
+    "year": 2021,
+    "fcs_pct": 43.36969169,
+    "others": 56.63030831,
+    "fcs_population": 1000000000,
+    "others_population": 6890000000
+  },
+  {
+    "year": 2022,
+    "fcs_pct": 45.81211461,
+    "others": 54.18788539,
+    "fcs_population": 1020000000,
+    "others_population": 6940000000
+  },
+  {
+    "year": 2023,
+    "fcs_pct": 47.87386773,
+    "others": 52.12613227,
+    "fcs_population": 1040000000,
+    "others_population": 6980000000
+  },
+  {
+    "year": 2024,
+    "fcs_pct": 49.94586406,
+    "others": 50.05413594,
+    "fcs_population": 1070000000,
+    "others_population": 7030000000
+  },
+  {
+    "year": 2025,
+    "fcs_pct": 52.34375957,
+    "others": 47.65624043,
+    "fcs_population": 1100000000,
+    "others_population": 7080000000
+  },
+  {
+    "year": 2026,
+    "fcs_pct": 54.06701557,
+    "others": 45.93298443,
+    "fcs_population": 1120000000,
+    "others_population": 7120000000
+  },
+  {
+    "year": 2027,
+    "fcs_pct": 55.62708555,
+    "others": 44.37291445,
+    "fcs_population": 1150000000,
+    "others_population": 7170000000
+  },
+  {
+    "year": 2028,
+    "fcs_pct": 56.6712483,
+    "others": 43.3287517,
+    "fcs_population": 1170000000,
+    "others_population": 7210000000
+  },
+  {
+    "year": 2029,
+    "fcs_pct": 58.03102367,
+    "others": 41.96897633,
+    "fcs_population": 1200000000,
+    "others_population": 7260000000
+  },
+  {
+    "year": 2030,
+    "fcs_pct": 59.13168707,
+    "others": 40.86831293,
+    "fcs_population": 1220000000,
+    "others_population": 7300000000
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "Iso3_code": "USA",
+    "Country": "United States of America",
+    "region_iso3c": "NAC",
+    "abs.diff": 4901,
+    "perc.diff": 29.40188374,
+    "value_2019": 16669,
+    "value_2020": 21570,
+    "": null,
+    "TMP": 0
+  },
+  {
+    "Iso3_code": "BRA",
+    "Country": "Brazil",
+    "region_iso3c": "LCN",
+    "abs.diff": 3649,
+    "perc.diff": 8.279445465,
+    "value_2019": 44073,
+    "value_2020": 47722,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "PAK",
+    "Country": "Pakistan",
+    "region_iso3c": "SAS",
+    "abs.diff": 337,
+    "perc.diff": 4.133447811,
+    "value_2019": 8153,
+    "value_2020": 8490,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "KEN",
+    "Country": "Kenya",
+    "region_iso3c": "SSF",
+    "abs.diff": 283,
+    "perc.diff": 17.95685279,
+    "value_2019": 1576,
+    "value_2020": 1859,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "ECU",
+    "Country": "Ecuador",
+    "region_iso3c": "LCN",
+    "abs.diff": 185,
+    "perc.diff": 15.58550969,
+    "value_2019": 1187,
+    "value_2020": 1372,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "CHL",
+    "Country": "Chile",
+    "region_iso3c": "LCN",
+    "abs.diff": 175,
+    "perc.diff": 23.30226365,
+    "value_2019": 751,
+    "value_2020": 926,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "IND",
+    "Country": "India",
+    "region_iso3c": "SAS",
+    "abs.diff": 172,
+    "perc.diff": 0.4249116826,
+    "value_2019": 40479,
+    "value_2020": 40651,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "DEU",
+    "Country": "Germany",
+    "region_iso3c": "ECS",
+    "abs.diff": 159,
+    "perc.diff": 25.52166934,
+    "value_2019": 623,
+    "value_2020": 782,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "ARG",
+    "Country": "Argentina",
+    "region_iso3c": "LCN",
+    "abs.diff": 113,
+    "perc.diff": 4.906643508,
+    "value_2019": 2303,
+    "value_2020": 2416,
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "TUR",
+    "Country": "Türkiye",
+    "region_iso3c": "ECS",
+    "abs.diff": 89,
+    "perc.diff": 4.43668993,
+    "value_2019": 2006,
+    "value_2020": 2095,
+    "": null,
+    "TMP": null
+  }
+]

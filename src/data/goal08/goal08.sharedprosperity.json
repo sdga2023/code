@@ -1,0 +1,452 @@
+[
+  {
+    "iso3c": "CHN",
+    "growthb40": 8.38,
+    "growthtotal": 7.12
+  },
+  {
+    "iso3c": "IDN",
+    "growthb40": 5.06,
+    "growthtotal": 4.93
+  },
+  {
+    "iso3c": "MNG",
+    "growthb40": 1.11,
+    "growthtotal": 0.77
+  },
+  {
+    "iso3c": "MYS",
+    "growthb40": 7.01,
+    "growthtotal": 4.97
+  },
+  {
+    "iso3c": "PHL",
+    "growthb40": 5.18,
+    "growthtotal": 2.87
+  },
+  {
+    "iso3c": "THA",
+    "growthb40": 1.45,
+    "growthtotal": 1.15
+  },
+  {
+    "iso3c": "VNM",
+    "growthb40": 5.15,
+    "growthtotal": 5.26
+  },
+  {
+    "iso3c": "ALB",
+    "growthb40": 8.81,
+    "growthtotal": 6.96
+  },
+  {
+    "iso3c": "ARM",
+    "growthb40": 1.26,
+    "growthtotal": 2.4
+  },
+  {
+    "iso3c": "BLR",
+    "growthb40": 0.71,
+    "growthtotal": -0.02
+  },
+  {
+    "iso3c": "CZE",
+    "growthb40": 3.53,
+    "growthtotal": 2.82
+  },
+  {
+    "iso3c": "EST",
+    "growthb40": 7.98,
+    "growthtotal": 7.2
+  },
+  {
+    "iso3c": "GEO",
+    "growthb40": 2.65,
+    "growthtotal": 1.42
+  },
+  {
+    "iso3c": "GRC",
+    "growthb40": 1.8,
+    "growthtotal": 0.11
+  },
+  {
+    "iso3c": "HRV",
+    "growthb40": 5.47,
+    "growthtotal": 4.28
+  },
+  {
+    "iso3c": "HUN",
+    "growthb40": 4.84,
+    "growthtotal": 4.6
+  },
+  {
+    "iso3c": "KAZ",
+    "growthb40": 0,
+    "growthtotal": -0.55
+  },
+  {
+    "iso3c": "KGZ",
+    "growthb40": 3.15,
+    "growthtotal": 2.44
+  },
+  {
+    "iso3c": "LTU",
+    "growthb40": 6.33,
+    "growthtotal": 7.43
+  },
+  {
+    "iso3c": "LVA",
+    "growthb40": 7.91,
+    "growthtotal": 8.23
+  },
+  {
+    "iso3c": "MDA",
+    "growthb40": 1.9,
+    "growthtotal": 0.32
+  },
+  {
+    "iso3c": "MKD",
+    "growthb40": 7.06,
+    "growthtotal": 4.31
+  },
+  {
+    "iso3c": "MNE",
+    "growthb40": 4.72,
+    "growthtotal": 1.35
+  },
+  {
+    "iso3c": "POL",
+    "growthb40": 6.01,
+    "growthtotal": 4.02
+  },
+  {
+    "iso3c": "ROU",
+    "growthb40": 10.02,
+    "growthtotal": 9.96
+  },
+  {
+    "iso3c": "RUS",
+    "growthb40": 6.1,
+    "growthtotal": 4.13
+  },
+  {
+    "iso3c": "SRB",
+    "growthb40": 3.89,
+    "growthtotal": 1.48
+  },
+  {
+    "iso3c": "SVK",
+    "growthb40": -0.58,
+    "growthtotal": -1.08
+  },
+  {
+    "iso3c": "SVN",
+    "growthb40": 2.2,
+    "growthtotal": 1.52
+  },
+  {
+    "iso3c": "TUR",
+    "growthb40": 2.14,
+    "growthtotal": 2.67
+  },
+  {
+    "iso3c": "UKR",
+    "growthb40": -0.59,
+    "growthtotal": 0.14
+  },
+  {
+    "iso3c": "XKX",
+    "growthb40": 2.36,
+    "growthtotal": 1.89
+  },
+  {
+    "iso3c": "AUT",
+    "growthb40": 1.44,
+    "growthtotal": 1.2
+  },
+  {
+    "iso3c": "BEL",
+    "growthb40": 0.44,
+    "growthtotal": 0.42
+  },
+  {
+    "iso3c": "CHE",
+    "growthb40": -0.26,
+    "growthtotal": 0.34
+  },
+  {
+    "iso3c": "CYP",
+    "growthb40": 0.29,
+    "growthtotal": -0.78
+  },
+  {
+    "iso3c": "DEU",
+    "growthb40": 0.54,
+    "growthtotal": 1.14
+  },
+  {
+    "iso3c": "DNK",
+    "growthb40": 1.34,
+    "growthtotal": 1.68
+  },
+  {
+    "iso3c": "ESP",
+    "growthb40": 1.75,
+    "growthtotal": 1.12
+  },
+  {
+    "iso3c": "FIN",
+    "growthb40": 0.58,
+    "growthtotal": 0.65
+  },
+  {
+    "iso3c": "FRA",
+    "growthb40": 0.61,
+    "growthtotal": 0.19
+  },
+  {
+    "iso3c": "GBR",
+    "growthb40": 1.76,
+    "growthtotal": 2.42
+  },
+  {
+    "iso3c": "IRL",
+    "growthb40": 3.43,
+    "growthtotal": 3.05
+  },
+  {
+    "iso3c": "ISL",
+    "growthb40": 3.15,
+    "growthtotal": 3.31
+  },
+  {
+    "iso3c": "ITA",
+    "growthb40": 0.48,
+    "growthtotal": 1.04
+  },
+  {
+    "iso3c": "LUX",
+    "growthb40": -0.08,
+    "growthtotal": 0.33
+  },
+  {
+    "iso3c": "MLT",
+    "growthb40": 3.8,
+    "growthtotal": 3.74
+  },
+  {
+    "iso3c": "NLD",
+    "growthb40": 1.53,
+    "growthtotal": 1.89
+  },
+  {
+    "iso3c": "NOR",
+    "growthb40": 0.44,
+    "growthtotal": 1.02
+  },
+  {
+    "iso3c": "PRT",
+    "growthb40": 3.32,
+    "growthtotal": 2
+  },
+  {
+    "iso3c": "SWE",
+    "growthb40": 1.39,
+    "growthtotal": 1.98
+  },
+  {
+    "iso3c": "ISR",
+    "growthb40": 4.18,
+    "growthtotal": 2.55
+  },
+  {
+    "iso3c": "USA",
+    "growthb40": 1.27,
+    "growthtotal": 1.64
+  },
+  {
+    "iso3c": "ARG",
+    "growthb40": -1.53,
+    "growthtotal": -1.43
+  },
+  {
+    "iso3c": "BOL",
+    "growthb40": 1.43,
+    "growthtotal": -1.72
+  },
+  {
+    "iso3c": "BRA",
+    "growthb40": -0.72,
+    "growthtotal": 0.46
+  },
+  {
+    "iso3c": "CHL",
+    "growthb40": 4.92,
+    "growthtotal": 3.83
+  },
+  {
+    "iso3c": "COL",
+    "growthb40": 2.19,
+    "growthtotal": 0.39
+  },
+  {
+    "iso3c": "CRI",
+    "growthb40": 1.07,
+    "growthtotal": 0.14
+  },
+  {
+    "iso3c": "DOM",
+    "growthb40": 5.19,
+    "growthtotal": 4.25
+  },
+  {
+    "iso3c": "ECU",
+    "growthb40": 1.26,
+    "growthtotal": 0.47
+  },
+  {
+    "iso3c": "HND",
+    "growthb40": 1.11,
+    "growthtotal": 0.89
+  },
+  {
+    "iso3c": "PAN",
+    "growthb40": 5.29,
+    "growthtotal": 3.87
+  },
+  {
+    "iso3c": "PER",
+    "growthb40": 2.42,
+    "growthtotal": 1.25
+  },
+  {
+    "iso3c": "PRY",
+    "growthb40": 1.88,
+    "growthtotal": 0.41
+  },
+  {
+    "iso3c": "SLV",
+    "growthb40": 3.93,
+    "growthtotal": 1.79
+  },
+  {
+    "iso3c": "URY",
+    "growthb40": 2,
+    "growthtotal": 1.43
+  },
+  {
+    "iso3c": "EGY",
+    "growthb40": -2.5,
+    "growthtotal": -1.13
+  },
+  {
+    "iso3c": "IRN",
+    "growthb40": 0.32,
+    "growthtotal": 2.34
+  },
+  {
+    "iso3c": "PSE",
+    "growthb40": -0.89,
+    "growthtotal": -0.55
+  },
+  {
+    "iso3c": "TUN",
+    "growthb40": 5.36,
+    "growthtotal": 3.38
+  },
+  {
+    "iso3c": "BGD",
+    "growthb40": 1.35,
+    "growthtotal": 1.54
+  },
+  {
+    "iso3c": "BTN",
+    "growthb40": 1.63,
+    "growthtotal": 1.67
+  },
+  {
+    "iso3c": "LKA",
+    "growthb40": 3.65,
+    "growthtotal": 4.12
+  },
+  {
+    "iso3c": "PAK",
+    "growthb40": 2.46,
+    "growthtotal": 3.57
+  },
+  {
+    "iso3c": "BEN",
+    "growthb40": -5.19,
+    "growthtotal": 0.07
+  },
+  {
+    "iso3c": "BWA",
+    "growthb40": 0.42,
+    "growthtotal": -3.3
+  },
+  {
+    "iso3c": "ETH",
+    "growthb40": 0.92,
+    "growthtotal": 2.14
+  },
+  {
+    "iso3c": "GHA",
+    "growthb40": -0.2,
+    "growthtotal": 1.27
+  },
+  {
+    "iso3c": "MUS",
+    "growthb40": 2.71,
+    "growthtotal": 2.02
+  },
+  {
+    "iso3c": "MWI",
+    "growthb40": 3.05,
+    "growthtotal": 1.57
+  },
+  {
+    "iso3c": "NAM",
+    "growthb40": 5.73,
+    "growthtotal": 6.64
+  },
+  {
+    "iso3c": "RWA",
+    "growthb40": 0.31,
+    "growthtotal": -0.16
+  },
+  {
+    "iso3c": "SLE",
+    "growthb40": 2.67,
+    "growthtotal": 2.86
+  },
+  {
+    "iso3c": "SWZ",
+    "growthb40": 4.67,
+    "growthtotal": 6.14
+  },
+  {
+    "iso3c": "TGO",
+    "growthb40": 2.55,
+    "growthtotal": 0.62
+  },
+  {
+    "iso3c": "TZA",
+    "growthb40": -0.15,
+    "growthtotal": 0.92
+  },
+  {
+    "iso3c": "UGA",
+    "growthb40": -2.15,
+    "growthtotal": -0.96
+  },
+  {
+    "iso3c": "ZMB",
+    "growthb40": -0.59,
+    "growthtotal": 2.93
+  },
+  {
+    "iso3c": "ZWE",
+    "growthb40": -3.75,
+    "growthtotal": -3.5
+  }
+]

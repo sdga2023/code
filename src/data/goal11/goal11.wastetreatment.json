@@ -1,0 +1,46 @@
+[
+  {
+    "income": "HIC",
+    "digestion": 0.0001,
+    "compost": 0.0632,
+    "landfill_controlled": 0.03,
+    "incineration": 0.23,
+    "landfill_unspecified": 0.35,
+    "dump": 0.02,
+    "recycling": 0.29,
+    "landfill_sanitary": 0
+  },
+  {
+    "income": "UMC",
+    "digestion": 0.0001,
+    "compost": 0.02,
+    "landfill_controlled": 0.07,
+    "incineration": 0.1,
+    "landfill_unspecified": 0.24,
+    "dump": 0.3,
+    "recycling": 0.04,
+    "landfill_sanitary": 0.23
+  },
+  {
+    "income": "LMC",
+    "digestion": 0,
+    "compost": 0.08,
+    "landfill_controlled": 0.01,
+    "incineration": 0,
+    "landfill_unspecified": 0.2,
+    "dump": 0.63,
+    "recycling": 0.06,
+    "landfill_sanitary": 0.01
+  },
+  {
+    "income": "LIC",
+    "digestion": 0,
+    "compost": 0,
+    "landfill_controlled": 0.01,
+    "incineration": 0,
+    "landfill_unspecified": 0.02,
+    "dump": 0.93,
+    "recycling": 0.03,
+    "landfill_sanitary": 0.01
+  }
+]

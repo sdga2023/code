@@ -1,0 +1,952 @@
+[
+  {
+    "iso3c": "QAT",
+    "emissions": 114.76,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BHR",
+    "emissions": 54.41,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "KWT",
+    "emissions": 136.69,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TKM",
+    "emissions": 157.33,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ARE",
+    "emissions": 243.55,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "AUS",
+    "emissions": 585.98,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "BRN",
+    "emissions": 9.3,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GRD",
+    "emissions": 2.39,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SAU",
+    "emissions": 723.15,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "TTO",
+    "emissions": 28.34,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "OMN",
+    "emissions": 100.26,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CAN",
+    "emissions": 736.93,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "LBY",
+    "emissions": 126.69,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "USA",
+    "emissions": 6001.21,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "MNG",
+    "emissions": 56.05,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "RUS",
+    "emissions": 2476.84,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "LUX",
+    "emissions": 10.48,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "NZL",
+    "emissions": 83.2,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "PLW",
+    "emissions": 0.29,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "KAZ",
+    "emissions": 274.67,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "KOR",
+    "emissions": 698.46,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "BRB",
+    "emissions": 3.79,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "ATG",
+    "emissions": 1.22,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "IRL",
+    "emissions": 61.48,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "SGP",
+    "emissions": 67.23,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "CZE",
+    "emissions": 116.59,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "IRN",
+    "emissions": 893.72,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "URY",
+    "emissions": 36.12,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "NLD",
+    "emissions": 172.23,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "MYS",
+    "emissions": 313.02,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "EST",
+    "emissions": 12.87,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "ISR",
+    "emissions": 87.18,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "ZAF",
+    "emissions": 555.43,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "BEL",
+    "emissions": 108.06,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "FIN",
+    "emissions": 51.48,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "POL",
+    "emissions": 353.14,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "JPN",
+    "emissions": 1166.51,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "BLR",
+    "emissions": 86.83,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CHN",
+    "emissions": 12705.09,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "DEU",
+    "emissions": 749.71,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "VEN",
+    "emissions": 255.74,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SRB",
+    "emissions": 61.93,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "AUT",
+    "emissions": 76.92,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "NOR",
+    "emissions": 45.9,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GNQ",
+    "emissions": 11.41,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ARG",
+    "emissions": 369.05,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "AND",
+    "emissions": 0.63,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "IRQ",
+    "emissions": 320.82,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BHS",
+    "emissions": 3.16,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SYC",
+    "emissions": 0.78,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "BIH",
+    "emissions": 26.23,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ISL",
+    "emissions": 2.85,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "SVN",
+    "emissions": 16.46,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "SUR",
+    "emissions": 4.46,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "DNK",
+    "emissions": 43.2,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "BGR",
+    "emissions": 51.28,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "GRC",
+    "emissions": 78.5,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "GUY",
+    "emissions": 5.68,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "CYP",
+    "emissions": 8.54,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "PRY",
+    "emissions": 49.55,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SVK",
+    "emissions": 38.06,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "LTU",
+    "emissions": 18.93,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "KNA",
+    "emissions": 0.35,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GBR",
+    "emissions": 440.08,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "DZA",
+    "emissions": 282.01,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ITA",
+    "emissions": 389,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "ESP",
+    "emissions": 306.95,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "NRU",
+    "emissions": 0.07,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "HUN",
+    "emissions": 60.59,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "MNE",
+    "emissions": 3.83,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "FRA",
+    "emissions": 414.04,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "LVA",
+    "emissions": 11.7,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "THA",
+    "emissions": 422.09,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "GAB",
+    "emissions": 13.17,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "PRT",
+    "emissions": 61.38,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "CHL",
+    "emissions": 113.02,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "TUR",
+    "emissions": 488.47,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "UZB",
+    "emissions": 188.76,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "HRV",
+    "emissions": 22.26,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "AZE",
+    "emissions": 54.8,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CHE",
+    "emissions": 46.5,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "MKD",
+    "emissions": 11.25,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MUS",
+    "emissions": 6.85,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "BOL",
+    "emissions": 60.79,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "UKR",
+    "emissions": 233.26,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "ROU",
+    "emissions": 101.24,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "LBN",
+    "emissions": 35.21,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MEX",
+    "emissions": 653.87,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TCD",
+    "emissions": 81.65,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MDA",
+    "emissions": 13.39,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BRA",
+    "emissions": 1057.26,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "PAN",
+    "emissions": 20.88,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "MDV",
+    "emissions": 2.6,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "LCA",
+    "emissions": 0.88,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BWA",
+    "emissions": 11,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GEO",
+    "emissions": 17.6,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "VNM",
+    "emissions": 450.15,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "SSD",
+    "emissions": 50.91,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TLS",
+    "emissions": 5.91,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SWE",
+    "emissions": 46.19,
+    "status": "In Law"
+  },
+  {
+    "iso3c": "NAM",
+    "emissions": 10.66,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "MLT",
+    "emissions": 2.14,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "LIE",
+    "emissions": 0.16,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ECU",
+    "emissions": 72.53,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CAF",
+    "emissions": 19.73,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "LAO",
+    "emissions": 29.28,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "BLZ",
+    "emissions": 1.55,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MHL",
+    "emissions": 0.23,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "DOM",
+    "emissions": 41.32,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "COL",
+    "emissions": 187.34,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "IDN",
+    "emissions": 1002.37,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "CUB",
+    "emissions": 41.24,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "JOR",
+    "emissions": 36.57,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "COG",
+    "emissions": 19.2,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TUN",
+    "emissions": 41.59,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "EGY",
+    "emissions": 351.77,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CMR",
+    "emissions": 90.12,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "WSM",
+    "emissions": 0.68,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "JAM",
+    "emissions": 9.97,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "ARM",
+    "emissions": 9.96,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "DMA",
+    "emissions": 0.23,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MRT",
+    "emissions": 14.29,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "ALB",
+    "emissions": 9.01,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CRI",
+    "emissions": 15.75,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "PER",
+    "emissions": 100.73,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "PRK",
+    "emissions": 79.34,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "VCT",
+    "emissions": 0.34,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TON",
+    "emissions": 0.31,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "VUT",
+    "emissions": 0.87,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "NIC",
+    "emissions": 18.8,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SYR",
+    "emissions": 48.48,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "FJI",
+    "emissions": 2.38,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "KGZ",
+    "emissions": 16.91,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TUV",
+    "emissions": 0.03,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "PNG",
+    "emissions": 22.41,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "MAR",
+    "emissions": 93.08,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "AGO",
+    "emissions": 79.68,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "IND",
+    "emissions": 3394.87,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "SDN",
+    "emissions": 106.06,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MMR",
+    "emissions": 133.25,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SWZ",
+    "emissions": 2.79,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "KHM",
+    "emissions": 40.06,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "HND",
+    "emissions": 22.39,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "FSM",
+    "emissions": 0.26,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MLI",
+    "emissions": 44.15,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GIN",
+    "emissions": 28.33,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BTN",
+    "emissions": 1.68,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "PHL",
+    "emissions": 234.28,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GTM",
+    "emissions": 35.1,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ZMB",
+    "emissions": 37.57,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "ZWE",
+    "emissions": 30.53,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "PAK",
+    "emissions": 432.5,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SLV",
+    "emissions": 12.82,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TJK",
+    "emissions": 17.51,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "NER",
+    "emissions": 42.72,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SEN",
+    "emissions": 29.23,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "LKA",
+    "emissions": 35.99,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "SOM",
+    "emissions": 25.15,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BFA",
+    "emissions": 32.21,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "NPL",
+    "emissions": 44.22,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "KEN",
+    "emissions": 81.01,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "NGA",
+    "emissions": 308.18,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "CPV",
+    "emissions": 0.81,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "TZA",
+    "emissions": 84,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "DJI",
+    "emissions": 1.38,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SLB",
+    "emissions": 0.94,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "ETH",
+    "emissions": 150.96,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GNB",
+    "emissions": 2.58,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BGD",
+    "emissions": 215.94,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "BEN",
+    "emissions": 15.02,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GHA",
+    "emissions": 37.65,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "LSO",
+    "emissions": 2.53,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MOZ",
+    "emissions": 35.4,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MDG",
+    "emissions": 29.58,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "KIR",
+    "emissions": 0.12,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "GMB",
+    "emissions": 2.34,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "UGA",
+    "emissions": 43.29,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "TGO",
+    "emissions": 7.89,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "CIV",
+    "emissions": 24.86,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "HTI",
+    "emissions": 10.5,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "YEM",
+    "emissions": 25.26,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "STP",
+    "emissions": 0.18,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "SLE",
+    "emissions": 6.08,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "AFG",
+    "emissions": 28.64,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "COM",
+    "emissions": 0.64,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "COD",
+    "emissions": 55,
+    "status": "No Document Submitted"
+  },
+  {
+    "iso3c": "MWI",
+    "emissions": 10.95,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "LBR",
+    "emissions": 2.22,
+    "status": "In Policy Document"
+  },
+  {
+    "iso3c": "RWA",
+    "emissions": 5.34,
+    "status": "In Political Pledge"
+  },
+  {
+    "iso3c": "BDI",
+    "emissions": 4.56,
+    "status": "No Document Submitted"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "walkingbiking",
+    "low": 0,
+    "high": 5
+  },
+  {
+    "mode": "rail",
+    "low": 40,
+    "high": 110
+  },
+  {
+    "mode": "bus",
+    "low": 30,
+    "high": 140
+  },
+  {
+    "mode": "car",
+    "low": 80,
+    "high": 215
+  },
+  {
+    "mode": "wheelers",
+    "low": 75,
+    "high": 220
+  },
+  {
+    "mode": "taxi",
+    "low": 145,
+    "high": 510
+  }
+]

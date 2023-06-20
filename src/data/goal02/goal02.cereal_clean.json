@@ -1,0 +1,653 @@
+[
+  {
+    "country_name": "USA",
+    "value_of_wheat_exports": 7433703826,
+    "rank": 1,
+    "total": 49303467662,
+    "share_of_wheat_exports": 15.07744623
+  },
+  {
+    "country_name": "Australia",
+    "value_of_wheat_exports": 7118177828,
+    "rank": 2,
+    "total": 49303467662,
+    "share_of_wheat_exports": 14.43747908
+  },
+  {
+    "country_name": "Canada",
+    "value_of_wheat_exports": 6758447777,
+    "rank": 3,
+    "total": 49303467662,
+    "share_of_wheat_exports": 13.70785484
+  },
+  {
+    "country_name": "Ukraine",
+    "value_of_wheat_exports": 4758616794,
+    "rank": 4,
+    "total": 49303467662,
+    "share_of_wheat_exports": 9.651687842
+  },
+  {
+    "country_name": "France",
+    "value_of_wheat_exports": 4634133050,
+    "rank": 5,
+    "total": 49303467662,
+    "share_of_wheat_exports": 9.399203078
+  },
+  {
+    "country_name": "Argentina",
+    "value_of_wheat_exports": 2636847670,
+    "rank": 6,
+    "total": 49303467662,
+    "share_of_wheat_exports": 5.348199214
+  },
+  {
+    "country_name": "Germany",
+    "value_of_wheat_exports": 2369883708,
+    "rank": 7,
+    "total": 49303467662,
+    "share_of_wheat_exports": 4.806728249
+  },
+  {
+    "country_name": "India",
+    "value_of_wheat_exports": 1911569017,
+    "rank": 8,
+    "total": 49303467662,
+    "share_of_wheat_exports": 3.87714923
+  },
+  {
+    "country_name": "Romania",
+    "value_of_wheat_exports": 1823485353,
+    "rank": 9,
+    "total": 49303467662,
+    "share_of_wheat_exports": 3.698493107
+  },
+  {
+    "country_name": "Turkey",
+    "value_of_wheat_exports": 1204107070,
+    "rank": 10,
+    "total": 49303467662,
+    "share_of_wheat_exports": 2.442236068
+  },
+  {
+    "country_name": "Poland",
+    "value_of_wheat_exports": 1040434163,
+    "rank": 11,
+    "total": 49303467662,
+    "share_of_wheat_exports": 2.110265692
+  },
+  {
+    "country_name": "Lithuania",
+    "value_of_wheat_exports": 834012649,
+    "rank": 12,
+    "total": 49303467662,
+    "share_of_wheat_exports": 1.691590244
+  },
+  {
+    "country_name": "Hungary",
+    "value_of_wheat_exports": 738743546,
+    "rank": 13,
+    "total": 49303467662,
+    "share_of_wheat_exports": 1.498360219
+  },
+  {
+    "country_name": "Latvia",
+    "value_of_wheat_exports": 619412915,
+    "rank": 14,
+    "total": 49303467662,
+    "share_of_wheat_exports": 1.256327282
+  },
+  {
+    "country_name": "Czechia",
+    "value_of_wheat_exports": 606163833,
+    "rank": 15,
+    "total": 49303467662,
+    "share_of_wheat_exports": 1.229454766
+  },
+  {
+    "country_name": "Slovakia",
+    "value_of_wheat_exports": 373621523,
+    "rank": 16,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.7577996857
+  },
+  {
+    "country_name": "Serbia",
+    "value_of_wheat_exports": 310006608,
+    "rank": 17,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.6287724225
+  },
+  {
+    "country_name": "Brazil",
+    "value_of_wheat_exports": 307975489,
+    "rank": 18,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.6246527954
+  },
+  {
+    "country_name": "Uzbekistan",
+    "value_of_wheat_exports": 287632090,
+    "rank": 19,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.5833911967
+  },
+  {
+    "country_name": "Italy",
+    "value_of_wheat_exports": 285614143,
+    "rank": 20,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.5792982858
+  },
+  {
+    "country_name": "Austria",
+    "value_of_wheat_exports": 283900349,
+    "rank": 21,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.5758222747
+  },
+  {
+    "country_name": "Belgium",
+    "value_of_wheat_exports": 258360190,
+    "rank": 22,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.524020322
+  },
+  {
+    "country_name": "Greece",
+    "value_of_wheat_exports": 227334276,
+    "rank": 23,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.4610918598
+  },
+  {
+    "country_name": "Rep. of Moldova",
+    "value_of_wheat_exports": 208344577,
+    "rank": 24,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.4225759097
+  },
+  {
+    "country_name": "Egypt",
+    "value_of_wheat_exports": 195630213,
+    "rank": 25,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.3967879386
+  },
+  {
+    "country_name": "Spain",
+    "value_of_wheat_exports": 179914517,
+    "rank": 26,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.3649125012
+  },
+  {
+    "country_name": "Sweden",
+    "value_of_wheat_exports": 173511383,
+    "rank": 27,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.3519253132
+  },
+  {
+    "country_name": "United Kingdom",
+    "value_of_wheat_exports": 165726929,
+    "rank": 28,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.3361364562
+  },
+  {
+    "country_name": "Croatia",
+    "value_of_wheat_exports": 153642923,
+    "rank": 29,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.3116270118
+  },
+  {
+    "country_name": "Denmark",
+    "value_of_wheat_exports": 152891888,
+    "rank": 30,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.3101037214
+  },
+  {
+    "country_name": "Netherlands",
+    "value_of_wheat_exports": 139143017,
+    "rank": 31,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.2822175064
+  },
+  {
+    "country_name": "Estonia",
+    "value_of_wheat_exports": 128600609,
+    "rank": 32,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.2608348157
+  },
+  {
+    "country_name": "Mexico",
+    "value_of_wheat_exports": 123128081,
+    "rank": 33,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.2497351339
+  },
+  {
+    "country_name": "Oman",
+    "value_of_wheat_exports": 102832615,
+    "rank": 34,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.2085707555
+  },
+  {
+    "country_name": "Paraguay",
+    "value_of_wheat_exports": 94163682,
+    "rank": 35,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.1909879497
+  },
+  {
+    "country_name": "Japan",
+    "value_of_wheat_exports": 91417608,
+    "rank": 36,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.1854182116
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "value_of_wheat_exports": 68887917,
+    "rank": 37,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.1397222554
+  },
+  {
+    "country_name": "China",
+    "value_of_wheat_exports": 43011891,
+    "rank": 38,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.08723907879
+  },
+  {
+    "country_name": "Rwanda",
+    "value_of_wheat_exports": 39118269,
+    "rank": 39,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.07934182088
+  },
+  {
+    "country_name": "Sri Lanka",
+    "value_of_wheat_exports": 36309810,
+    "rank": 40,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.07364555014
+  },
+  {
+    "country_name": "Dominican Rep.",
+    "value_of_wheat_exports": 34709740,
+    "rank": 41,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.07040020032
+  },
+  {
+    "country_name": "Slovenia",
+    "value_of_wheat_exports": 33092953,
+    "rank": 42,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.06712094416
+  },
+  {
+    "country_name": "Malaysia",
+    "value_of_wheat_exports": 27263430,
+    "rank": 43,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.05529718556
+  },
+  {
+    "country_name": "Indonesia",
+    "value_of_wheat_exports": 24315917,
+    "rank": 44,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.04931887787
+  },
+  {
+    "country_name": "Luxembourg",
+    "value_of_wheat_exports": 24234702,
+    "rank": 45,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.04915415314
+  },
+  {
+    "country_name": "Portugal",
+    "value_of_wheat_exports": 22568959,
+    "rank": 46,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.04577560174
+  },
+  {
+    "country_name": "Bosnia Herzegovina",
+    "value_of_wheat_exports": 18917480,
+    "rank": 47,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.03836947155
+  },
+  {
+    "country_name": "United Rep. of Tanzania",
+    "value_of_wheat_exports": 18438334,
+    "rank": 48,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.03739764133
+  },
+  {
+    "country_name": "El Salvador",
+    "value_of_wheat_exports": 18001648,
+    "rank": 49,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.03651193081
+  },
+  {
+    "country_name": "Senegal",
+    "value_of_wheat_exports": 17110139,
+    "rank": 50,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.03470372331
+  },
+  {
+    "country_name": "Other Asia, nes",
+    "value_of_wheat_exports": 16096273,
+    "rank": 51,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.03264734463
+  },
+  {
+    "country_name": "Togo",
+    "value_of_wheat_exports": 13680924,
+    "rank": 52,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.02774840117
+  },
+  {
+    "country_name": "Finland",
+    "value_of_wheat_exports": 13031238,
+    "rank": 53,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.02643067236
+  },
+  {
+    "country_name": "Belarus",
+    "value_of_wheat_exports": 12631100,
+    "rank": 54,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0256190905
+  },
+  {
+    "country_name": "Fiji",
+    "value_of_wheat_exports": 12486052,
+    "rank": 55,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.02532489618
+  },
+  {
+    "country_name": "Philippines",
+    "value_of_wheat_exports": 11281190,
+    "rank": 56,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.02288112892
+  },
+  {
+    "country_name": "Switzerland",
+    "value_of_wheat_exports": 9161027,
+    "rank": 57,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.01858089793
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "value_of_wheat_exports": 9066043,
+    "rank": 58,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.01838824616
+  },
+  {
+    "country_name": "China, Hong Kong SAR",
+    "value_of_wheat_exports": 6641959,
+    "rank": 59,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0134715859
+  },
+  {
+    "country_name": "Colombia",
+    "value_of_wheat_exports": 6409728,
+    "rank": 60,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.01300056224
+  },
+  {
+    "country_name": "Mauritius",
+    "value_of_wheat_exports": 4772811,
+    "rank": 61,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.00968047731
+  },
+  {
+    "country_name": "Guatemala",
+    "value_of_wheat_exports": 4199335,
+    "rank": 62,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.008517321801
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "value_of_wheat_exports": 4181162,
+    "rank": 63,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.008480462325
+  },
+  {
+    "country_name": "Grenada",
+    "value_of_wheat_exports": 3870787,
+    "rank": 64,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.00785094271
+  },
+  {
+    "country_name": "New Zealand",
+    "value_of_wheat_exports": 3761585,
+    "rank": 65,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.007629453218
+  },
+  {
+    "country_name": "Nicaragua",
+    "value_of_wheat_exports": 2617821,
+    "rank": 66,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.005309608277
+  },
+  {
+    "country_name": "Cyprus",
+    "value_of_wheat_exports": 2239242,
+    "rank": 67,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.004541753565
+  },
+  {
+    "country_name": "Tunisia",
+    "value_of_wheat_exports": 1868803,
+    "rank": 68,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.003790408847
+  },
+  {
+    "country_name": "Barbados",
+    "value_of_wheat_exports": 1534059,
+    "rank": 69,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.003111462688
+  },
+  {
+    "country_name": "Benin",
+    "value_of_wheat_exports": 1323389,
+    "rank": 70,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.002684170227
+  },
+  {
+    "country_name": "Lebanon",
+    "value_of_wheat_exports": 1208485,
+    "rank": 71,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.002451115626
+  },
+  {
+    "country_name": "Kenya",
+    "value_of_wheat_exports": 1109288,
+    "rank": 72,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.002249918824
+  },
+  {
+    "country_name": "Armenia",
+    "value_of_wheat_exports": 599417,
+    "rank": 73,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.001215770469
+  },
+  {
+    "country_name": "Israel",
+    "value_of_wheat_exports": 578000,
+    "rank": 74,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.001172331334
+  },
+  {
+    "country_name": "Pakistan",
+    "value_of_wheat_exports": 443930,
+    "rank": 75,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0009004031989
+  },
+  {
+    "country_name": "Georgia",
+    "value_of_wheat_exports": 419999,
+    "rank": 76,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0008518650308
+  },
+  {
+    "country_name": "Ecuador",
+    "value_of_wheat_exports": 260499,
+    "rank": 77,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0005283583739
+  },
+  {
+    "country_name": "Botswana",
+    "value_of_wheat_exports": 218958,
+    "rank": 78,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.000444102637
+  },
+  {
+    "country_name": "Norway",
+    "value_of_wheat_exports": 160711,
+    "rank": 79,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0003259628736
+  },
+  {
+    "country_name": "Chile",
+    "value_of_wheat_exports": 133755,
+    "rank": 80,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0002712892345
+  },
+  {
+    "country_name": "Qatar",
+    "value_of_wheat_exports": 120879,
+    "rank": 81,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0002451734244
+  },
+  {
+    "country_name": "Suriname",
+    "value_of_wheat_exports": 119179,
+    "rank": 82,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.000241725391
+  },
+  {
+    "country_name": "China, Macao SAR",
+    "value_of_wheat_exports": 48029,
+    "rank": 83,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0000974
+  },
+  {
+    "country_name": "Iceland",
+    "value_of_wheat_exports": 32926,
+    "rank": 84,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0000668
+  },
+  {
+    "country_name": "Nigeria",
+    "value_of_wheat_exports": 24726,
+    "rank": 85,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0000502
+  },
+  {
+    "country_name": "Guyana",
+    "value_of_wheat_exports": 8708,
+    "rank": 86,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0000177
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "value_of_wheat_exports": 5757,
+    "rank": 87,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.0000117
+  },
+  {
+    "country_name": "Panama",
+    "value_of_wheat_exports": 3851,
+    "rank": 88,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.00000781
+  },
+  {
+    "country_name": "Samoa",
+    "value_of_wheat_exports": 2338,
+    "rank": 89,
+    "total": 49303467662,
+    "share_of_wheat_exports": 0.00000474
+  },
+  {
+    "country_name": "Montenegro",
+    "value_of_wheat_exports": 317,
+    "rank": 90,
+    "total": 49303467662,
+    "share_of_wheat_exports": 6.43e-7
+  },
+  {
+    "country_name": "Azerbaijan",
+    "value_of_wheat_exports": 184,
+    "rank": 91,
+    "total": 49303467662,
+    "share_of_wheat_exports": 3.73e-7
+  },
+  {
+    "country_name": "Mongolia",
+    "value_of_wheat_exports": 65,
+    "rank": 92,
+    "total": 49303467662,
+    "share_of_wheat_exports": 1.32e-7
+  },
+  {
+    "country_name": "Maldives",
+    "value_of_wheat_exports": 35,
+    "rank": 93,
+    "total": 49303467662,
+    "share_of_wheat_exports": 7.1e-8
+  }
+]

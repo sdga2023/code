@@ -1,0 +1,754 @@
+[
+  {
+    "subsidies": 0.72134,
+    "code": "AFG"
+  },
+  {
+    "subsidies": 0,
+    "code": "ALB"
+  },
+  {
+    "subsidies": 7.01864,
+    "code": "DZA"
+  },
+  {
+    "subsidies": 1.02424,
+    "code": "AGO"
+  },
+  {
+    "subsidies": 2.19398,
+    "code": "ATG"
+  },
+  {
+    "subsidies": 1.46575,
+    "code": "AZE"
+  },
+  {
+    "subsidies": 1.14782,
+    "code": "ARG"
+  },
+  {
+    "subsidies": 0.55392,
+    "code": "AUS"
+  },
+  {
+    "subsidies": 0.21789,
+    "code": "AUT"
+  },
+  {
+    "subsidies": 0.97833,
+    "code": "BHS"
+  },
+  {
+    "subsidies": 2.26603,
+    "code": "BHR"
+  },
+  {
+    "subsidies": 0.72524,
+    "code": "BGD"
+  },
+  {
+    "subsidies": 0.03566,
+    "code": "ARM"
+  },
+  {
+    "subsidies": 0,
+    "code": "BRB"
+  },
+  {
+    "subsidies": 0.72468,
+    "code": "BEL"
+  },
+  {
+    "subsidies": 0,
+    "code": "BTN"
+  },
+  {
+    "subsidies": 1.6988,
+    "code": "BOL"
+  },
+  {
+    "subsidies": 0.21814,
+    "code": "BIH"
+  },
+  {
+    "subsidies": 0,
+    "code": "BWA"
+  },
+  {
+    "subsidies": 0.44079,
+    "code": "BRA"
+  },
+  {
+    "subsidies": 0,
+    "code": "BLZ"
+  },
+  {
+    "subsidies": 0,
+    "code": "SLB"
+  },
+  {
+    "subsidies": 1.3317,
+    "code": "BRN"
+  },
+  {
+    "subsidies": 4.13414,
+    "code": "BGR"
+  },
+  {
+    "subsidies": 1.04075,
+    "code": "MMR"
+  },
+  {
+    "subsidies": 0.12616,
+    "code": "BDI"
+  },
+  {
+    "subsidies": 0.14274,
+    "code": "BLR"
+  },
+  {
+    "subsidies": 0.15731,
+    "code": "KHM"
+  },
+  {
+    "subsidies": 0.21165,
+    "code": "CMR"
+  },
+  {
+    "subsidies": 0.13133,
+    "code": "CAN"
+  },
+  {
+    "subsidies": 0,
+    "code": "CPV"
+  },
+  {
+    "subsidies": 0.01151,
+    "code": "CAF"
+  },
+  {
+    "subsidies": 0.39502,
+    "code": "LKA"
+  },
+  {
+    "subsidies": 0.42236,
+    "code": "TCD"
+  },
+  {
+    "subsidies": 0.51761,
+    "code": "CHL"
+  },
+  {
+    "subsidies": 0.1896,
+    "code": "CHN"
+  },
+  {
+    "subsidies": 0.4528,
+    "code": "COL"
+  },
+  {
+    "subsidies": 0.04532,
+    "code": "COM"
+  },
+  {
+    "subsidies": 0.04065,
+    "code": "COG"
+  },
+  {
+    "subsidies": 0,
+    "code": "COD"
+  },
+  {
+    "subsidies": 0.13578,
+    "code": "CRI"
+  },
+  {
+    "subsidies": 0.13665,
+    "code": "HRV"
+  },
+  {
+    "subsidies": 0,
+    "code": "CYP"
+  },
+  {
+    "subsidies": 0.14984,
+    "code": "CZE"
+  },
+  {
+    "subsidies": 1.27828,
+    "code": "BEN"
+  },
+  {
+    "subsidies": 0.39504,
+    "code": "DNK"
+  },
+  {
+    "subsidies": 0,
+    "code": "DMA"
+  },
+  {
+    "subsidies": 0.01463,
+    "code": "DOM"
+  },
+  {
+    "subsidies": 2.54171,
+    "code": "ECU"
+  },
+  {
+    "subsidies": 1.32163,
+    "code": "SLV"
+  },
+  {
+    "subsidies": 0.59925,
+    "code": "GNQ"
+  },
+  {
+    "subsidies": 1.07542,
+    "code": "ETH"
+  },
+  {
+    "subsidies": 0.00258,
+    "code": "ERI"
+  },
+  {
+    "subsidies": 0.18789,
+    "code": "EST"
+  },
+  {
+    "subsidies": 0.66517,
+    "code": "FJI"
+  },
+  {
+    "subsidies": 0.57659,
+    "code": "FIN"
+  },
+  {
+    "subsidies": 0.36064,
+    "code": "FRA"
+  },
+  {
+    "subsidies": 2.65407,
+    "code": "DJI"
+  },
+  {
+    "subsidies": 0.18083,
+    "code": "GAB"
+  },
+  {
+    "subsidies": 0.05233,
+    "code": "GEO"
+  },
+  {
+    "subsidies": 0,
+    "code": "GMB"
+  },
+  {
+    "subsidies": 6.32373,
+    "code": "PSE"
+  },
+  {
+    "subsidies": 0.24309,
+    "code": "DEU"
+  },
+  {
+    "subsidies": 0.19819,
+    "code": "GHA"
+  },
+  {
+    "subsidies": 0,
+    "code": "KIR"
+  },
+  {
+    "subsidies": 1.08306,
+    "code": "GRC"
+  },
+  {
+    "subsidies": 0,
+    "code": "GRD"
+  },
+  {
+    "subsidies": 0.13192,
+    "code": "GTM"
+  },
+  {
+    "subsidies": 0.01118,
+    "code": "GIN"
+  },
+  {
+    "subsidies": 0.00096,
+    "code": "GUY"
+  },
+  {
+    "subsidies": 1.37572,
+    "code": "HTI"
+  },
+  {
+    "subsidies": 0.29499,
+    "code": "HND"
+  },
+  {
+    "subsidies": 0.55886,
+    "code": "HKG"
+  },
+  {
+    "subsidies": 0.20669,
+    "code": "HUN"
+  },
+  {
+    "subsidies": 0,
+    "code": "ISL"
+  },
+  {
+    "subsidies": 0.36045,
+    "code": "IND"
+  },
+  {
+    "subsidies": 1.15297,
+    "code": "IDN"
+  },
+  {
+    "subsidies": 19.2038,
+    "code": "IRN"
+  },
+  {
+    "subsidies": 3.77942,
+    "code": "IRQ"
+  },
+  {
+    "subsidies": 0.71175,
+    "code": "IRL"
+  },
+  {
+    "subsidies": 0.32988,
+    "code": "ISR"
+  },
+  {
+    "subsidies": 0.59093,
+    "code": "ITA"
+  },
+  {
+    "subsidies": 0,
+    "code": "CIV"
+  },
+  {
+    "subsidies": 0.00279,
+    "code": "JAM"
+  },
+  {
+    "subsidies": 0.05283,
+    "code": "JPN"
+  },
+  {
+    "subsidies": 2.8957,
+    "code": "KAZ"
+  },
+  {
+    "subsidies": 0.37097,
+    "code": "JOR"
+  },
+  {
+    "subsidies": 0,
+    "code": "KEN"
+  },
+  {
+    "subsidies": 0.08532,
+    "code": "KOR"
+  },
+  {
+    "subsidies": 3.79516,
+    "code": "KWT"
+  },
+  {
+    "subsidies": 7.01922,
+    "code": "KGZ"
+  },
+  {
+    "subsidies": 0.33311,
+    "code": "LAO"
+  },
+  {
+    "subsidies": 13.13085,
+    "code": "LBN"
+  },
+  {
+    "subsidies": 0.08023,
+    "code": "LSO"
+  },
+  {
+    "subsidies": 0.58814,
+    "code": "LVA"
+  },
+  {
+    "subsidies": 0,
+    "code": "LBR"
+  },
+  {
+    "subsidies": 8.52451,
+    "code": "LBY"
+  },
+  {
+    "subsidies": 0.65355,
+    "code": "LTU"
+  },
+  {
+    "subsidies": 0.00333,
+    "code": "LUX"
+  },
+  {
+    "subsidies": 0,
+    "code": "MAC"
+  },
+  {
+    "subsidies": 0.46468,
+    "code": "MDG"
+  },
+  {
+    "subsidies": 0,
+    "code": "MWI"
+  },
+  {
+    "subsidies": 0.30979,
+    "code": "MYS"
+  },
+  {
+    "subsidies": 2.49223,
+    "code": "MDV"
+  },
+  {
+    "subsidies": 0.25806,
+    "code": "MLI"
+  },
+  {
+    "subsidies": 0,
+    "code": "MLT"
+  },
+  {
+    "subsidies": 3.16842,
+    "code": "MRT"
+  },
+  {
+    "subsidies": 0.71263,
+    "code": "MUS"
+  },
+  {
+    "subsidies": 1.5861,
+    "code": "MEX"
+  },
+  {
+    "subsidies": 0.20964,
+    "code": "MNG"
+  },
+  {
+    "subsidies": 0.73697,
+    "code": "MDA"
+  },
+  {
+    "subsidies": 0,
+    "code": "MNE"
+  },
+  {
+    "subsidies": 0,
+    "code": "MSR"
+  },
+  {
+    "subsidies": 0.13343,
+    "code": "MAR"
+  },
+  {
+    "subsidies": 0,
+    "code": "MOZ"
+  },
+  {
+    "subsidies": 0.1584,
+    "code": "OMN"
+  },
+  {
+    "subsidies": 0,
+    "code": "NAM"
+  },
+  {
+    "subsidies": 0,
+    "code": "NRU"
+  },
+  {
+    "subsidies": 0.08031,
+    "code": "NPL"
+  },
+  {
+    "subsidies": 0.0424,
+    "code": "NLD"
+  },
+  {
+    "subsidies": 0.00067,
+    "code": "ABW"
+  },
+  {
+    "subsidies": 0,
+    "code": "VUT"
+  },
+  {
+    "subsidies": 0.00676,
+    "code": "NZL"
+  },
+  {
+    "subsidies": 0.18175,
+    "code": "NIC"
+  },
+  {
+    "subsidies": 1.0794,
+    "code": "NER"
+  },
+  {
+    "subsidies": 0.34195,
+    "code": "NGA"
+  },
+  {
+    "subsidies": 0.09139,
+    "code": "NOR"
+  },
+  {
+    "subsidies": 0,
+    "code": "FSM"
+  },
+  {
+    "subsidies": 0.51992,
+    "code": "PAK"
+  },
+  {
+    "subsidies": 0,
+    "code": "PAN"
+  },
+  {
+    "subsidies": 1.15925,
+    "code": "PNG"
+  },
+  {
+    "subsidies": 0.10182,
+    "code": "PRY"
+  },
+  {
+    "subsidies": 0.11317,
+    "code": "PER"
+  },
+  {
+    "subsidies": 0.00544,
+    "code": "PHL"
+  },
+  {
+    "subsidies": 0.28857,
+    "code": "POL"
+  },
+  {
+    "subsidies": 0.2291,
+    "code": "PRT"
+  },
+  {
+    "subsidies": 0.14046,
+    "code": "GNB"
+  },
+  {
+    "subsidies": 4.70623,
+    "code": "TLS"
+  },
+  {
+    "subsidies": 0,
+    "code": "PRI"
+  },
+  {
+    "subsidies": 0.31664,
+    "code": "QAT"
+  },
+  {
+    "subsidies": 0.33139,
+    "code": "ROU"
+  },
+  {
+    "subsidies": 1.02659,
+    "code": "RUS"
+  },
+  {
+    "subsidies": 0.04931,
+    "code": "RWA"
+  },
+  {
+    "subsidies": 0.38432,
+    "code": "KNA"
+  },
+  {
+    "subsidies": 0.01082,
+    "code": "LCA"
+  },
+  {
+    "subsidies": 0.5515,
+    "code": "VCT"
+  },
+  {
+    "subsidies": 1.41101,
+    "code": "STP"
+  },
+  {
+    "subsidies": 4.02535,
+    "code": "SAU"
+  },
+  {
+    "subsidies": 0.28954,
+    "code": "SEN"
+  },
+  {
+    "subsidies": 1.01711,
+    "code": "SRB"
+  },
+  {
+    "subsidies": 0,
+    "code": "SYC"
+  },
+  {
+    "subsidies": 0.08621,
+    "code": "SLE"
+  },
+  {
+    "subsidies": 2.26649,
+    "code": "SGP"
+  },
+  {
+    "subsidies": 0.27283,
+    "code": "SVK"
+  },
+  {
+    "subsidies": 0.12234,
+    "code": "VNM"
+  },
+  {
+    "subsidies": 0.26991,
+    "code": "SVN"
+  },
+  {
+    "subsidies": 0.00518,
+    "code": "SOM"
+  },
+  {
+    "subsidies": 1.28776,
+    "code": "ZAF"
+  },
+  {
+    "subsidies": 0,
+    "code": "ZWE"
+  },
+  {
+    "subsidies": 0.134,
+    "code": "ESP"
+  },
+  {
+    "subsidies": 0,
+    "code": "SSD"
+  },
+  {
+    "subsidies": 1.92474,
+    "code": "SDN"
+  },
+  {
+    "subsidies": 3.55473,
+    "code": "SUR"
+  },
+  {
+    "subsidies": 0,
+    "code": "SWZ"
+  },
+  {
+    "subsidies": 0.30977,
+    "code": "SWE"
+  },
+  {
+    "subsidies": 0.34084,
+    "code": "CHE"
+  },
+  {
+    "subsidies": 5.9269,
+    "code": "TJK"
+  },
+  {
+    "subsidies": 0.09383,
+    "code": "THA"
+  },
+  {
+    "subsidies": 1.43618,
+    "code": "TGO"
+  },
+  {
+    "subsidies": 0,
+    "code": "TON"
+  },
+  {
+    "subsidies": 2.27679,
+    "code": "TTO"
+  },
+  {
+    "subsidies": 1.95563,
+    "code": "ARE"
+  },
+  {
+    "subsidies": 1.8475,
+    "code": "TUN"
+  },
+  {
+    "subsidies": 0.44688,
+    "code": "TUR"
+  },
+  {
+    "subsidies": 8.90922,
+    "code": "TKM"
+  },
+  {
+    "subsidies": 0,
+    "code": "UGA"
+  },
+  {
+    "subsidies": 1.9901,
+    "code": "UKR"
+  },
+  {
+    "subsidies": 1.41647,
+    "code": "MKD"
+  },
+  {
+    "subsidies": 3.73367,
+    "code": "EGY"
+  },
+  {
+    "subsidies": 0.43898,
+    "code": "GBR"
+  },
+  {
+    "subsidies": 0.04835,
+    "code": "USA"
+  },
+  {
+    "subsidies": 0.14709,
+    "code": "BFA"
+  },
+  {
+    "subsidies": 0,
+    "code": "URY"
+  },
+  {
+    "subsidies": 5.26905,
+    "code": "UZB"
+  },
+  {
+    "subsidies": 5.8667,
+    "code": "VEN"
+  },
+  {
+    "subsidies": 0,
+    "code": "WSM"
+  },
+  {
+    "subsidies": 0,
+    "code": "YEM"
+  },
+  {
+    "subsidies": 0.8487,
+    "code": "ZMB"
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "iso3c": "WLD",
+    "GDP_growth_rate": -3.1
+  },
+  {
+    "iso3c": "GUY",
+    "GDP_growth_rate": 43.5
+  },
+  {
+    "iso3c": "TLS",
+    "GDP_growth_rate": 31.9
+  },
+  {
+    "iso3c": "IRL",
+    "GDP_growth_rate": 6.2
+  },
+  {
+    "iso3c": "ETH",
+    "GDP_growth_rate": 6.1
+  },
+  {
+    "iso3c": "ASM",
+    "GDP_growth_rate": 5.1
+  },
+  {
+    "iso3c": "GIN",
+    "GDP_growth_rate": 4.9
+  },
+  {
+    "iso3c": "TJK",
+    "GDP_growth_rate": 4.4
+  },
+  {
+    "iso3c": "BEN",
+    "GDP_growth_rate": 3.8
+  },
+  {
+    "iso3c": "EGY",
+    "GDP_growth_rate": 3.6
+  },
+  {
+    "iso3c": "NER",
+    "GDP_growth_rate": 3.6
+  },
+  {
+    "iso3c": "BGD",
+    "GDP_growth_rate": 3.4
+  },
+  {
+    "iso3c": "IRN",
+    "GDP_growth_rate": 3.3
+  },
+  {
+    "iso3c": "MMR",
+    "GDP_growth_rate": 3.2
+  },
+  {
+    "iso3c": "STP",
+    "GDP_growth_rate": 3
+  },
+  {
+    "iso3c": "UGA",
+    "GDP_growth_rate": 3
+  },
+  {
+    "iso3c": "VNM",
+    "GDP_growth_rate": 2.9
+  },
+  {
+    "iso3c": "SOM",
+    "GDP_growth_rate": 2.5
+  },
+  {
+    "iso3c": "CHN",
+    "GDP_growth_rate": 2.2
+  },
+  {
+    "iso3c": "CIV",
+    "GDP_growth_rate": 2
+  },
+  {
+    "iso3c": "TZA",
+    "GDP_growth_rate": 2
+  },
+  {
+    "iso3c": "BFA",
+    "GDP_growth_rate": 1.9
+  },
+  {
+    "iso3c": "TUR",
+    "GDP_growth_rate": 1.9
+  },
+  {
+    "iso3c": "UZB",
+    "GDP_growth_rate": 1.9
+  },
+  {
+    "iso3c": "TGO",
+    "GDP_growth_rate": 1.8
+  },
+  {
+    "iso3c": "COD",
+    "GDP_growth_rate": 1.7
+  },
+  {
+    "iso3c": "TUV",
+    "GDP_growth_rate": 1.5
+  },
+  {
+    "iso3c": "SEN",
+    "GDP_growth_rate": 1.3
+  },
+  {
+    "iso3c": "DJI",
+    "GDP_growth_rate": 1.2
+  },
+  {
+    "iso3c": "BRN",
+    "GDP_growth_rate": 1.1
+  },
+  {
+    "iso3c": "NRU",
+    "GDP_growth_rate": 1.1
+  },
+  {
+    "iso3c": "CAF",
+    "GDP_growth_rate": 0.9
+  },
+  {
+    "iso3c": "MWI",
+    "GDP_growth_rate": 0.8
+  },
+  {
+    "iso3c": "GMB",
+    "GDP_growth_rate": 0.6
+  },
+  {
+    "iso3c": "GHA",
+    "GDP_growth_rate": 0.5
+  },
+  {
+    "iso3c": "LAO",
+    "GDP_growth_rate": 0.5
+  },
+  {
+    "iso3c": "TON",
+    "GDP_growth_rate": 0.5
+  },
+  {
+    "iso3c": "GRL",
+    "GDP_growth_rate": 0.4
+  },
+  {
+    "iso3c": "BDI",
+    "GDP_growth_rate": 0.3
+  },
+  {
+    "iso3c": "CMR",
+    "GDP_growth_rate": 0.3
+  },
+  {
+    "iso3c": "LTU",
+    "GDP_growth_rate": 0
+  },
+  {
+    "iso3c": "AUS",
+    "GDP_growth_rate": -0.1
+  },
+  {
+    "iso3c": "COM",
+    "GDP_growth_rate": -0.2
+  },
+  {
+    "iso3c": "KEN",
+    "GDP_growth_rate": -0.3
+  },
+  {
+    "iso3c": "KIR",
+    "GDP_growth_rate": -0.5
+  },
+  {
+    "iso3c": "EST",
+    "GDP_growth_rate": -0.6
+  },
+  {
+    "iso3c": "BLR",
+    "GDP_growth_rate": -0.7
+  },
+  {
+    "iso3c": "KOR",
+    "GDP_growth_rate": -0.7
+  },
+  {
+    "iso3c": "NOR",
+    "GDP_growth_rate": -0.7
+  },
+  {
+    "iso3c": "LUX",
+    "GDP_growth_rate": -0.8
+  },
+  {
+    "iso3c": "PRY",
+    "GDP_growth_rate": -0.8
+  },
+  {
+    "iso3c": "MRT",
+    "GDP_growth_rate": -0.9
+  },
+  {
+    "iso3c": "SRB",
+    "GDP_growth_rate": -0.9
+  },
+  {
+    "iso3c": "MLI",
+    "GDP_growth_rate": -1.2
+  },
+  {
+    "iso3c": "MOZ",
+    "GDP_growth_rate": -1.2
+  },
+  {
+    "iso3c": "NZL",
+    "GDP_growth_rate": -1.3
+  },
+  {
+    "iso3c": "PAK",
+    "GDP_growth_rate": -1.3
+  },
+  {
+    "iso3c": "TCD",
+    "GDP_growth_rate": -1.6
+  },
+  {
+    "iso3c": "SWZ",
+    "GDP_growth_rate": -1.6
+  },
+  {
+    "iso3c": "JOR",
+    "GDP_growth_rate": -1.6
+  },
+  {
+    "iso3c": "GAB",
+    "GDP_growth_rate": -1.8
+  },
+  {
+    "iso3c": "GTM",
+    "GDP_growth_rate": -1.8
+  },
+  {
+    "iso3c": "MHL",
+    "GDP_growth_rate": -1.8
+  },
+  {
+    "iso3c": "FSM",
+    "GDP_growth_rate": -1.8
+  },
+  {
+    "iso3c": "NIC",
+    "GDP_growth_rate": -1.8
+  },
+  {
+    "iso3c": "NGA",
+    "GDP_growth_rate": -1.8
+  },
+  {
+    "iso3c": "ISR",
+    "GDP_growth_rate": -1.9
+  },
+  {
+    "iso3c": "DNK",
+    "GDP_growth_rate": -2
+  },
+  {
+    "iso3c": "POL",
+    "GDP_growth_rate": -2
+  },
+  {
+    "iso3c": "SLE",
+    "GDP_growth_rate": -2
+  },
+  {
+    "iso3c": "IDN",
+    "GDP_growth_rate": -2.1
+  },
+  {
+    "iso3c": "VIR",
+    "GDP_growth_rate": -2.1
+  },
+  {
+    "iso3c": "FIN",
+    "GDP_growth_rate": -2.2
+  },
+  {
+    "iso3c": "LVA",
+    "GDP_growth_rate": -2.2
+  },
+  {
+    "iso3c": "SWE",
+    "GDP_growth_rate": -2.2
+  },
+  {
+    "iso3c": "AFG",
+    "GDP_growth_rate": -2.4
+  },
+  {
+    "iso3c": "GNB",
+    "GDP_growth_rate": -2.4
+  },
+  {
+    "iso3c": "NPL",
+    "GDP_growth_rate": -2.4
+  },
+  {
+    "iso3c": "CHE",
+    "GDP_growth_rate": -2.4
+  },
+  {
+    "iso3c": "KAZ",
+    "GDP_growth_rate": -2.5
+  },
+  {
+    "iso3c": "RUS",
+    "GDP_growth_rate": -2.7
+  },
+  {
+    "iso3c": "USA",
+    "GDP_growth_rate": -2.8
+  },
+  {
+    "iso3c": "ZMB",
+    "GDP_growth_rate": -2.8
+  },
+  {
+    "iso3c": "LBR",
+    "GDP_growth_rate": -3
+  },
+  {
+    "iso3c": "BIH",
+    "GDP_growth_rate": -3.1
+  },
+  {
+    "iso3c": "KHM",
+    "GDP_growth_rate": -3.1
+  },
+  {
+    "iso3c": "WSM",
+    "GDP_growth_rate": -3.1
+  },
+  {
+    "iso3c": "PNG",
+    "GDP_growth_rate": -3.2
+  },
+  {
+    "iso3c": "HTI",
+    "GDP_growth_rate": -3.3
+  },
+  {
+    "iso3c": "OMN",
+    "GDP_growth_rate": -3.4
+  },
+  {
+    "iso3c": "RWA",
+    "GDP_growth_rate": -3.4
+  },
+  {
+    "iso3c": "SVK",
+    "GDP_growth_rate": -3.4
+  },
+  {
+    "iso3c": "SLB",
+    "GDP_growth_rate": -3.4
+  },
+  {
+    "iso3c": "ALB",
+    "GDP_growth_rate": -3.5
+  },
+  {
+    "iso3c": "LKA",
+    "GDP_growth_rate": -3.5
+  },
+  {
+    "iso3c": "QAT",
+    "GDP_growth_rate": -3.6
+  },
+  {
+    "iso3c": "SDN",
+    "GDP_growth_rate": -3.6
+  },
+  {
+    "iso3c": "DEU",
+    "GDP_growth_rate": -3.7
+  },
+  {
+    "iso3c": "ROU",
+    "GDP_growth_rate": -3.7
+  },
+  {
+    "iso3c": "UKR",
+    "GDP_growth_rate": -3.8
+  },
+  {
+    "iso3c": "BRA",
+    "GDP_growth_rate": -3.9
+  },
+  {
+    "iso3c": "NLD",
+    "GDP_growth_rate": -3.9
+  },
+  {
+    "iso3c": "SYR",
+    "GDP_growth_rate": -3.9
+  },
+  {
+    "iso3c": "BGR",
+    "GDP_growth_rate": -4
+  },
+  {
+    "iso3c": "CRI",
+    "GDP_growth_rate": -4.1
+  },
+  {
+    "iso3c": "SAU",
+    "GDP_growth_rate": -4.1
+  },
+  {
+    "iso3c": "SGP",
+    "GDP_growth_rate": -4.1
+  },
+  {
+    "iso3c": "GNQ",
+    "GDP_growth_rate": -4.2
+  },
+  {
+    "iso3c": "AZE",
+    "GDP_growth_rate": -4.3
+  },
+  {
+    "iso3c": "SVN",
+    "GDP_growth_rate": -4.3
+  },
+  {
+    "iso3c": "CYP",
+    "GDP_growth_rate": -4.4
+  },
+  {
+    "iso3c": "PRI",
+    "GDP_growth_rate": -4.4
+  },
+  {
+    "iso3c": "HUN",
+    "GDP_growth_rate": -4.5
+  },
+  {
+    "iso3c": "JPN",
+    "GDP_growth_rate": -4.5
+  },
+  {
+    "iso3c": "MNG",
+    "GDP_growth_rate": -4.6
+  },
+  {
+    "iso3c": "BHR",
+    "GDP_growth_rate": -4.9
+  },
+  {
+    "iso3c": "ARE",
+    "GDP_growth_rate": -5
+  },
+  {
+    "iso3c": "DZA",
+    "GDP_growth_rate": -5.1
+  },
+  {
+    "iso3c": "CAN",
+    "GDP_growth_rate": -5.2
+  },
+  {
+    "iso3c": "XKX",
+    "GDP_growth_rate": -5.3
+  },
+  {
+    "iso3c": "VCT",
+    "GDP_growth_rate": -5.3
+  },
+  {
+    "iso3c": "BEL",
+    "GDP_growth_rate": -5.4
+  },
+  {
+    "iso3c": "VUT",
+    "GDP_growth_rate": -5.4
+  },
+  {
+    "iso3c": "CZE",
+    "GDP_growth_rate": -5.5
+  },
+  {
+    "iso3c": "MYS",
+    "GDP_growth_rate": -5.5
+  },
+  {
+    "iso3c": "AGO",
+    "GDP_growth_rate": -5.6
+  },
+  {
+    "iso3c": "CYM",
+    "GDP_growth_rate": -5.7
+  },
+  {
+    "iso3c": "CHL",
+    "GDP_growth_rate": -6
+  },
+  {
+    "iso3c": "MKD",
+    "GDP_growth_rate": -6.1
+  },
+  {
+    "iso3c": "URY",
+    "GDP_growth_rate": -6.1
+  },
+  {
+    "iso3c": "COG",
+    "GDP_growth_rate": -6.2
+  },
+  {
+    "iso3c": "THA",
+    "GDP_growth_rate": -6.2
+  },
+  {
+    "iso3c": "ZAF",
+    "GDP_growth_rate": -6.3
+  },
+  {
+    "iso3c": "AUT",
+    "GDP_growth_rate": -6.5
+  },
+  {
+    "iso3c": "HKG",
+    "GDP_growth_rate": -6.5
+  },
+  {
+    "iso3c": "IND",
+    "GDP_growth_rate": -6.6
+  },
+  {
+    "iso3c": "SMR",
+    "GDP_growth_rate": -6.6
+  },
+  {
+    "iso3c": "DOM",
+    "GDP_growth_rate": -6.7
+  },
+  {
+    "iso3c": "BMU",
+    "GDP_growth_rate": -6.8
+  },
+  {
+    "iso3c": "GEO",
+    "GDP_growth_rate": -6.8
+  },
+  {
+    "iso3c": "ISL",
+    "GDP_growth_rate": -6.8
+  },
+  {
+    "iso3c": "COL",
+    "GDP_growth_rate": -7
+  },
+  {
+    "iso3c": "MDG",
+    "GDP_growth_rate": -7.1
+  },
+  {
+    "iso3c": "ARM",
+    "GDP_growth_rate": -7.2
+  },
+  {
+    "iso3c": "MAR",
+    "GDP_growth_rate": -7.2
+  },
+  {
+    "iso3c": "MDA",
+    "GDP_growth_rate": -7.4
+  },
+  {
+    "iso3c": "SYC",
+    "GDP_growth_rate": -7.7
+  },
+  {
+    "iso3c": "TTO",
+    "GDP_growth_rate": -7.7
+  },
+  {
+    "iso3c": "ECU",
+    "GDP_growth_rate": -7.8
+  },
+  {
+    "iso3c": "FRA",
+    "GDP_growth_rate": -7.8
+  },
+  {
+    "iso3c": "ZWE",
+    "GDP_growth_rate": -7.8
+  },
+  {
+    "iso3c": "MEX",
+    "GDP_growth_rate": -8
+  },
+  {
+    "iso3c": "NAM",
+    "GDP_growth_rate": -8
+  },
+  {
+    "iso3c": "SLV",
+    "GDP_growth_rate": -8.2
+  },
+  {
+    "iso3c": "MLT",
+    "GDP_growth_rate": -8.3
+  },
+  {
+    "iso3c": "PRT",
+    "GDP_growth_rate": -8.3
+  },
+  {
+    "iso3c": "KGZ",
+    "GDP_growth_rate": -8.4
+  },
+  {
+    "iso3c": "LSO",
+    "GDP_growth_rate": -8.4
+  },
+  {
+    "iso3c": "HRV",
+    "GDP_growth_rate": -8.6
+  },
+  {
+    "iso3c": "TUN",
+    "GDP_growth_rate": -8.6
+  },
+  {
+    "iso3c": "BOL",
+    "GDP_growth_rate": -8.7
+  },
+  {
+    "iso3c": "BWA",
+    "GDP_growth_rate": -8.7
+  },
+  {
+    "iso3c": "KWT",
+    "GDP_growth_rate": -8.9
+  },
+  {
+    "iso3c": "GRC",
+    "GDP_growth_rate": -9
+  },
+  {
+    "iso3c": "HND",
+    "GDP_growth_rate": -9
+  },
+  {
+    "iso3c": "ITA",
+    "GDP_growth_rate": -9
+  },
+  {
+    "iso3c": "PLW",
+    "GDP_growth_rate": -9.1
+  },
+  {
+    "iso3c": "PHL",
+    "GDP_growth_rate": -9.5
+  },
+  {
+    "iso3c": "ARG",
+    "GDP_growth_rate": -9.9
+  },
+  {
+    "iso3c": "BTN",
+    "GDP_growth_rate": -10
+  },
+  {
+    "iso3c": "PYF",
+    "GDP_growth_rate": -10
+  },
+  {
+    "iso3c": "JAM",
+    "GDP_growth_rate": -10
+  },
+  {
+    "iso3c": "CUB",
+    "GDP_growth_rate": -10.9
+  },
+  {
+    "iso3c": "PER",
+    "GDP_growth_rate": -11
+  },
+  {
+    "iso3c": "GBR",
+    "GDP_growth_rate": -11
+  },
+  {
+    "iso3c": "AND",
+    "GDP_growth_rate": -11.2
+  },
+  {
+    "iso3c": "IRQ",
+    "GDP_growth_rate": -11.3
+  },
+  {
+    "iso3c": "ESP",
+    "GDP_growth_rate": -11.3
+  },
+  {
+    "iso3c": "PSE",
+    "GDP_growth_rate": -11.3
+  },
+  {
+    "iso3c": "GUM",
+    "GDP_growth_rate": -11.4
+  },
+  {
+    "iso3c": "MCO",
+    "GDP_growth_rate": -13
+  },
+  {
+    "iso3c": "BRB",
+    "GDP_growth_rate": -13.3
+  },
+  {
+    "iso3c": "BLZ",
+    "GDP_growth_rate": -13.4
+  },
+  {
+    "iso3c": "GRD",
+    "GDP_growth_rate": -13.8
+  },
+  {
+    "iso3c": "KNA",
+    "GDP_growth_rate": -14.5
+  },
+  {
+    "iso3c": "MUS",
+    "GDP_growth_rate": -14.6
+  },
+  {
+    "iso3c": "CPV",
+    "GDP_growth_rate": -14.8
+  },
+  {
+    "iso3c": "MNE",
+    "GDP_growth_rate": -15.3
+  },
+  {
+    "iso3c": "SUR",
+    "GDP_growth_rate": -16
+  },
+  {
+    "iso3c": "DMA",
+    "GDP_growth_rate": -16.6
+  },
+  {
+    "iso3c": "FJI",
+    "GDP_growth_rate": -17
+  },
+  {
+    "iso3c": "PAN",
+    "GDP_growth_rate": -17.9
+  },
+  {
+    "iso3c": "CUW",
+    "GDP_growth_rate": -18.4
+  },
+  {
+    "iso3c": "ABW",
+    "GDP_growth_rate": -18.6
+  },
+  {
+    "iso3c": "ATG",
+    "GDP_growth_rate": -20.2
+  },
+  {
+    "iso3c": "LBN",
+    "GDP_growth_rate": -21.4
+  },
+  {
+    "iso3c": "BHS",
+    "GDP_growth_rate": -23.8
+  },
+  {
+    "iso3c": "LBY",
+    "GDP_growth_rate": -23.9
+  },
+  {
+    "iso3c": "LCA",
+    "GDP_growth_rate": -24.4
+  },
+  {
+    "iso3c": "TCA",
+    "GDP_growth_rate": -26.8
+  },
+  {
+    "iso3c": "MDV",
+    "GDP_growth_rate": -33.5
+  },
+  {
+    "iso3c": "MAC",
+    "GDP_growth_rate": -54.2
+  }
+]

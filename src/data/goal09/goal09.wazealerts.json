@@ -1,0 +1,2812 @@
+[
+  {
+    "week": "2019-04-21T00:00:00.000Z",
+    "alerts": 102060,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-04-28T00:00:00.000Z",
+    "alerts": 79867,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-05-05T00:00:00.000Z",
+    "alerts": 27807,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-05-12T00:00:00.000Z",
+    "alerts": 37321,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-05-19T00:00:00.000Z",
+    "alerts": 35362,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-05-26T00:00:00.000Z",
+    "alerts": 33222,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-06-02T00:00:00.000Z",
+    "alerts": 35229,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-06-09T00:00:00.000Z",
+    "alerts": 34358,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-06-16T00:00:00.000Z",
+    "alerts": 37539,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-06-23T00:00:00.000Z",
+    "alerts": 35224,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-06-30T00:00:00.000Z",
+    "alerts": 86056,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-07-07T00:00:00.000Z",
+    "alerts": 98547,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-07-14T00:00:00.000Z",
+    "alerts": 97621,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-07-21T00:00:00.000Z",
+    "alerts": 96492,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-07-28T00:00:00.000Z",
+    "alerts": 88848,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-08-04T00:00:00.000Z",
+    "alerts": 88460,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-08-11T00:00:00.000Z",
+    "alerts": 63609,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-08-18T00:00:00.000Z",
+    "alerts": 74215,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-08-25T00:00:00.000Z",
+    "alerts": 83809,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-09-01T00:00:00.000Z",
+    "alerts": 89094,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-09-08T00:00:00.000Z",
+    "alerts": 97338,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-09-15T00:00:00.000Z",
+    "alerts": 89385,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-09-22T00:00:00.000Z",
+    "alerts": 65261,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-09-29T00:00:00.000Z",
+    "alerts": 68804,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-10-06T00:00:00.000Z",
+    "alerts": 67654,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-10-13T00:00:00.000Z",
+    "alerts": 5690,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-11-03T00:00:00.000Z",
+    "alerts": 107408,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-11-10T00:00:00.000Z",
+    "alerts": 156262,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-11-17T00:00:00.000Z",
+    "alerts": 163112,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-11-24T00:00:00.000Z",
+    "alerts": 138294,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-12-01T00:00:00.000Z",
+    "alerts": 147657,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-12-08T00:00:00.000Z",
+    "alerts": 182294,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-12-15T00:00:00.000Z",
+    "alerts": 171929,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-12-22T00:00:00.000Z",
+    "alerts": 103358,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-12-29T00:00:00.000Z",
+    "alerts": 83924,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-01-05T00:00:00.000Z",
+    "alerts": 92095,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-01-12T00:00:00.000Z",
+    "alerts": 124343,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-01-19T00:00:00.000Z",
+    "alerts": 112809,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-01-26T00:00:00.000Z",
+    "alerts": 116863,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-02-02T00:00:00.000Z",
+    "alerts": 125154,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-02-09T00:00:00.000Z",
+    "alerts": 138449,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-02-16T00:00:00.000Z",
+    "alerts": 111823,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-02-23T00:00:00.000Z",
+    "alerts": 145260,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-03-01T00:00:00.000Z",
+    "alerts": 145300,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-03-08T00:00:00.000Z",
+    "alerts": 110064,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-03-15T00:00:00.000Z",
+    "alerts": 42046,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-03-22T00:00:00.000Z",
+    "alerts": 21632,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-03-29T00:00:00.000Z",
+    "alerts": 21210,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-04-05T00:00:00.000Z",
+    "alerts": 18758,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-04-12T00:00:00.000Z",
+    "alerts": 23841,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-04-19T00:00:00.000Z",
+    "alerts": 26871,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-04-26T00:00:00.000Z",
+    "alerts": 29994,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-05-03T00:00:00.000Z",
+    "alerts": 37443,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-05-10T00:00:00.000Z",
+    "alerts": 46993,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-05-17T00:00:00.000Z",
+    "alerts": 50350,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-05-24T00:00:00.000Z",
+    "alerts": 55275,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-05-31T00:00:00.000Z",
+    "alerts": 63060,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-06-07T00:00:00.000Z",
+    "alerts": 75743,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-06-14T00:00:00.000Z",
+    "alerts": 82583,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-06-21T00:00:00.000Z",
+    "alerts": 93602,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-06-28T00:00:00.000Z",
+    "alerts": 91604,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-07-05T00:00:00.000Z",
+    "alerts": 95894,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-07-12T00:00:00.000Z",
+    "alerts": 103849,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-07-19T00:00:00.000Z",
+    "alerts": 75032,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-07-26T00:00:00.000Z",
+    "alerts": 111280,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-08-02T00:00:00.000Z",
+    "alerts": 122387,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-08-09T00:00:00.000Z",
+    "alerts": 120905,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-08-16T00:00:00.000Z",
+    "alerts": 122870,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-08-23T00:00:00.000Z",
+    "alerts": 119725,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-08-30T00:00:00.000Z",
+    "alerts": 128649,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-09-06T00:00:00.000Z",
+    "alerts": 127795,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-09-13T00:00:00.000Z",
+    "alerts": 139942,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-09-20T00:00:00.000Z",
+    "alerts": 139120,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-09-27T00:00:00.000Z",
+    "alerts": 134340,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-10-04T00:00:00.000Z",
+    "alerts": 135279,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-10-11T00:00:00.000Z",
+    "alerts": 126424,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-10-18T00:00:00.000Z",
+    "alerts": 132368,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-10-25T00:00:00.000Z",
+    "alerts": 125498,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-11-01T00:00:00.000Z",
+    "alerts": 108312,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-11-08T00:00:00.000Z",
+    "alerts": 112022,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-11-15T00:00:00.000Z",
+    "alerts": 111744,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-11-22T00:00:00.000Z",
+    "alerts": 80977,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-11-29T00:00:00.000Z",
+    "alerts": 90978,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-12-06T00:00:00.000Z",
+    "alerts": 97229,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-12-13T00:00:00.000Z",
+    "alerts": 89410,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-12-20T00:00:00.000Z",
+    "alerts": 103589,
+    "city": "newyork"
+  },
+  {
+    "week": "2020-12-27T00:00:00.000Z",
+    "alerts": 83849,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-01-03T00:00:00.000Z",
+    "alerts": 84191,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-01-10T00:00:00.000Z",
+    "alerts": 88104,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-01-17T00:00:00.000Z",
+    "alerts": 83620,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-01-24T00:00:00.000Z",
+    "alerts": 86914,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-01-31T00:00:00.000Z",
+    "alerts": 84129,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-02-07T00:00:00.000Z",
+    "alerts": 91724,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-02-14T00:00:00.000Z",
+    "alerts": 78030,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-02-21T00:00:00.000Z",
+    "alerts": 116180,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-02-28T00:00:00.000Z",
+    "alerts": 112995,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-03-07T00:00:00.000Z",
+    "alerts": 117808,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-03-14T00:00:00.000Z",
+    "alerts": 112561,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-03-21T00:00:00.000Z",
+    "alerts": 126952,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-03-28T00:00:00.000Z",
+    "alerts": 114287,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-04-04T00:00:00.000Z",
+    "alerts": 133387,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-04-11T00:00:00.000Z",
+    "alerts": 142496,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-04-18T00:00:00.000Z",
+    "alerts": 151160,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-04-25T00:00:00.000Z",
+    "alerts": 148535,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-05-02T00:00:00.000Z",
+    "alerts": 157324,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-05-09T00:00:00.000Z",
+    "alerts": 162260,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-05-16T00:00:00.000Z",
+    "alerts": 163947,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-05-23T00:00:00.000Z",
+    "alerts": 168492,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-05-30T00:00:00.000Z",
+    "alerts": 154576,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-06-06T00:00:00.000Z",
+    "alerts": 196816,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-06-13T00:00:00.000Z",
+    "alerts": 195044,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-06-20T00:00:00.000Z",
+    "alerts": 197921,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-06-27T00:00:00.000Z",
+    "alerts": 164681,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-07-04T00:00:00.000Z",
+    "alerts": 166152,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-07-11T00:00:00.000Z",
+    "alerts": 176908,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-07-18T00:00:00.000Z",
+    "alerts": 165903,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-07-25T00:00:00.000Z",
+    "alerts": 161970,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-08-01T00:00:00.000Z",
+    "alerts": 163294,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-08-08T00:00:00.000Z",
+    "alerts": 167108,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-08-15T00:00:00.000Z",
+    "alerts": 160951,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-08-22T00:00:00.000Z",
+    "alerts": 162544,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-08-29T00:00:00.000Z",
+    "alerts": 207862,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-09-05T00:00:00.000Z",
+    "alerts": 170415,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-09-12T00:00:00.000Z",
+    "alerts": 204839,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-09-19T00:00:00.000Z",
+    "alerts": 203174,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-09-26T00:00:00.000Z",
+    "alerts": 203970,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-10-03T00:00:00.000Z",
+    "alerts": 212790,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-10-10T00:00:00.000Z",
+    "alerts": 193162,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-10-17T00:00:00.000Z",
+    "alerts": 211944,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-10-24T00:00:00.000Z",
+    "alerts": 197788,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-10-31T00:00:00.000Z",
+    "alerts": 181805,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-11-07T00:00:00.000Z",
+    "alerts": 187383,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-11-14T00:00:00.000Z",
+    "alerts": 188510,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-11-21T00:00:00.000Z",
+    "alerts": 165133,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-11-28T00:00:00.000Z",
+    "alerts": 159840,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-12-05T00:00:00.000Z",
+    "alerts": 160609,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-12-12T00:00:00.000Z",
+    "alerts": 169113,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-12-19T00:00:00.000Z",
+    "alerts": 131128,
+    "city": "newyork"
+  },
+  {
+    "week": "2021-12-26T00:00:00.000Z",
+    "alerts": 105703,
+    "city": "newyork"
+  },
+  {
+    "week": "2019-04-21T00:00:00.000Z",
+    "alerts": 123383,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-04-28T00:00:00.000Z",
+    "alerts": 118592,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-05-05T00:00:00.000Z",
+    "alerts": 81326,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-05-12T00:00:00.000Z",
+    "alerts": 132957,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-05-19T00:00:00.000Z",
+    "alerts": 119390,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-05-26T00:00:00.000Z",
+    "alerts": 127995,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-06-02T00:00:00.000Z",
+    "alerts": 124825,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-06-09T00:00:00.000Z",
+    "alerts": 143197,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-06-16T00:00:00.000Z",
+    "alerts": 118804,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-06-23T00:00:00.000Z",
+    "alerts": 100040,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-06-30T00:00:00.000Z",
+    "alerts": 100687,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-07-07T00:00:00.000Z",
+    "alerts": 114363,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-07-14T00:00:00.000Z",
+    "alerts": 126095,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-07-21T00:00:00.000Z",
+    "alerts": 122585,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-07-28T00:00:00.000Z",
+    "alerts": 128744,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-08-04T00:00:00.000Z",
+    "alerts": 119452,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-08-11T00:00:00.000Z",
+    "alerts": 149748,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-08-18T00:00:00.000Z",
+    "alerts": 126374,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-08-25T00:00:00.000Z",
+    "alerts": 143146,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-09-01T00:00:00.000Z",
+    "alerts": 136090,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-09-08T00:00:00.000Z",
+    "alerts": 137919,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-09-15T00:00:00.000Z",
+    "alerts": 137850,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-09-22T00:00:00.000Z",
+    "alerts": 119963,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-09-29T00:00:00.000Z",
+    "alerts": 145730,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-10-06T00:00:00.000Z",
+    "alerts": 112469,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-10-13T00:00:00.000Z",
+    "alerts": 83147,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-10-20T00:00:00.000Z",
+    "alerts": 173305,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-10-27T00:00:00.000Z",
+    "alerts": 151991,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-11-03T00:00:00.000Z",
+    "alerts": 138533,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-11-10T00:00:00.000Z",
+    "alerts": 148014,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-11-17T00:00:00.000Z",
+    "alerts": 139064,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-11-24T00:00:00.000Z",
+    "alerts": 150325,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-12-01T00:00:00.000Z",
+    "alerts": 188561,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-12-08T00:00:00.000Z",
+    "alerts": 208045,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-12-15T00:00:00.000Z",
+    "alerts": 195920,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-12-22T00:00:00.000Z",
+    "alerts": 137520,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-12-29T00:00:00.000Z",
+    "alerts": 50807,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-01-05T00:00:00.000Z",
+    "alerts": 50391,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-01-12T00:00:00.000Z",
+    "alerts": 108752,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-01-19T00:00:00.000Z",
+    "alerts": 124023,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-01-26T00:00:00.000Z",
+    "alerts": 128524,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-02-02T00:00:00.000Z",
+    "alerts": 124466,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-02-09T00:00:00.000Z",
+    "alerts": 126549,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-02-16T00:00:00.000Z",
+    "alerts": 120076,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-02-23T00:00:00.000Z",
+    "alerts": 148397,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-03-01T00:00:00.000Z",
+    "alerts": 130494,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-03-08T00:00:00.000Z",
+    "alerts": 103635,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-03-15T00:00:00.000Z",
+    "alerts": 45259,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-03-22T00:00:00.000Z",
+    "alerts": 1956,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-03-29T00:00:00.000Z",
+    "alerts": 1984,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-04-05T00:00:00.000Z",
+    "alerts": 2657,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-04-12T00:00:00.000Z",
+    "alerts": 4748,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-04-19T00:00:00.000Z",
+    "alerts": 6289,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-04-26T00:00:00.000Z",
+    "alerts": 7522,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-05-03T00:00:00.000Z",
+    "alerts": 17028,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-05-10T00:00:00.000Z",
+    "alerts": 17370,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-05-17T00:00:00.000Z",
+    "alerts": 22387,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-05-24T00:00:00.000Z",
+    "alerts": 25667,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-05-31T00:00:00.000Z",
+    "alerts": 25938,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-06-07T00:00:00.000Z",
+    "alerts": 29573,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-06-14T00:00:00.000Z",
+    "alerts": 34018,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-06-21T00:00:00.000Z",
+    "alerts": 40864,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-06-28T00:00:00.000Z",
+    "alerts": 44194,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-07-05T00:00:00.000Z",
+    "alerts": 48766,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-07-12T00:00:00.000Z",
+    "alerts": 35118,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-07-19T00:00:00.000Z",
+    "alerts": 29335,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-07-26T00:00:00.000Z",
+    "alerts": 34211,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-08-02T00:00:00.000Z",
+    "alerts": 24700,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-08-09T00:00:00.000Z",
+    "alerts": 39216,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-08-16T00:00:00.000Z",
+    "alerts": 44422,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-08-23T00:00:00.000Z",
+    "alerts": 49110,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-08-30T00:00:00.000Z",
+    "alerts": 78626,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-09-06T00:00:00.000Z",
+    "alerts": 75224,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-09-13T00:00:00.000Z",
+    "alerts": 91790,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-09-20T00:00:00.000Z",
+    "alerts": 76726,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-09-27T00:00:00.000Z",
+    "alerts": 81744,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-10-04T00:00:00.000Z",
+    "alerts": 86223,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-10-11T00:00:00.000Z",
+    "alerts": 78149,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-10-18T00:00:00.000Z",
+    "alerts": 85019,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-10-25T00:00:00.000Z",
+    "alerts": 98856,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-11-01T00:00:00.000Z",
+    "alerts": 88702,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-11-08T00:00:00.000Z",
+    "alerts": 103452,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-11-15T00:00:00.000Z",
+    "alerts": 96163,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-11-22T00:00:00.000Z",
+    "alerts": 121972,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-11-29T00:00:00.000Z",
+    "alerts": 124052,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-12-06T00:00:00.000Z",
+    "alerts": 106974,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-12-13T00:00:00.000Z",
+    "alerts": 126493,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-12-20T00:00:00.000Z",
+    "alerts": 113145,
+    "city": "bogota"
+  },
+  {
+    "week": "2020-12-27T00:00:00.000Z",
+    "alerts": 59457,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-01-03T00:00:00.000Z",
+    "alerts": 29134,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-01-10T00:00:00.000Z",
+    "alerts": 28125,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-01-17T00:00:00.000Z",
+    "alerts": 41921,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-01-24T00:00:00.000Z",
+    "alerts": 57834,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-01-31T00:00:00.000Z",
+    "alerts": 67995,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-02-07T00:00:00.000Z",
+    "alerts": 74152,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-02-14T00:00:00.000Z",
+    "alerts": 80082,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-02-21T00:00:00.000Z",
+    "alerts": 90475,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-02-28T00:00:00.000Z",
+    "alerts": 96819,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-03-07T00:00:00.000Z",
+    "alerts": 100796,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-03-14T00:00:00.000Z",
+    "alerts": 110839,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-03-21T00:00:00.000Z",
+    "alerts": 97447,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-03-28T00:00:00.000Z",
+    "alerts": 65657,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-04-04T00:00:00.000Z",
+    "alerts": 86259,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-04-11T00:00:00.000Z",
+    "alerts": 65386,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-04-18T00:00:00.000Z",
+    "alerts": 77245,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-04-25T00:00:00.000Z",
+    "alerts": 68308,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-05-02T00:00:00.000Z",
+    "alerts": 72852,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-05-09T00:00:00.000Z",
+    "alerts": 83305,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-05-16T00:00:00.000Z",
+    "alerts": 83698,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-05-23T00:00:00.000Z",
+    "alerts": 87530,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-05-30T00:00:00.000Z",
+    "alerts": 111031,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-06-06T00:00:00.000Z",
+    "alerts": 106928,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-06-13T00:00:00.000Z",
+    "alerts": 103492,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-06-20T00:00:00.000Z",
+    "alerts": 102753,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-06-27T00:00:00.000Z",
+    "alerts": 99837,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-07-04T00:00:00.000Z",
+    "alerts": 98576,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-07-11T00:00:00.000Z",
+    "alerts": 108695,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-07-18T00:00:00.000Z",
+    "alerts": 104280,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-07-25T00:00:00.000Z",
+    "alerts": 120137,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-08-01T00:00:00.000Z",
+    "alerts": 109173,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-08-08T00:00:00.000Z",
+    "alerts": 130100,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-08-15T00:00:00.000Z",
+    "alerts": 126971,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-08-22T00:00:00.000Z",
+    "alerts": 127999,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-08-29T00:00:00.000Z",
+    "alerts": 137481,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-09-05T00:00:00.000Z",
+    "alerts": 128129,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-09-12T00:00:00.000Z",
+    "alerts": 133940,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-09-19T00:00:00.000Z",
+    "alerts": 124854,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-09-26T00:00:00.000Z",
+    "alerts": 129286,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-10-03T00:00:00.000Z",
+    "alerts": 132698,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-10-10T00:00:00.000Z",
+    "alerts": 115314,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-10-17T00:00:00.000Z",
+    "alerts": 133310,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-10-24T00:00:00.000Z",
+    "alerts": 169881,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-10-31T00:00:00.000Z",
+    "alerts": 142344,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-11-07T00:00:00.000Z",
+    "alerts": 154107,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-11-14T00:00:00.000Z",
+    "alerts": 139949,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-11-21T00:00:00.000Z",
+    "alerts": 162197,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-11-28T00:00:00.000Z",
+    "alerts": 165998,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-12-05T00:00:00.000Z",
+    "alerts": 156458,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-12-12T00:00:00.000Z",
+    "alerts": 175964,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-12-19T00:00:00.000Z",
+    "alerts": 149338,
+    "city": "bogota"
+  },
+  {
+    "week": "2021-12-26T00:00:00.000Z",
+    "alerts": 97422,
+    "city": "bogota"
+  },
+  {
+    "week": "2019-04-21T00:00:00.000Z",
+    "alerts": 191,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-04-28T00:00:00.000Z",
+    "alerts": 222,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-05-05T00:00:00.000Z",
+    "alerts": 102,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-05-12T00:00:00.000Z",
+    "alerts": 187,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-05-19T00:00:00.000Z",
+    "alerts": 143,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-05-26T00:00:00.000Z",
+    "alerts": 266,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-06-02T00:00:00.000Z",
+    "alerts": 256,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-06-09T00:00:00.000Z",
+    "alerts": 253,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-06-16T00:00:00.000Z",
+    "alerts": 217,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-06-23T00:00:00.000Z",
+    "alerts": 290,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-06-30T00:00:00.000Z",
+    "alerts": 392,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-07-07T00:00:00.000Z",
+    "alerts": 336,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-07-14T00:00:00.000Z",
+    "alerts": 347,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-07-21T00:00:00.000Z",
+    "alerts": 502,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-07-28T00:00:00.000Z",
+    "alerts": 408,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-08-04T00:00:00.000Z",
+    "alerts": 537,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-08-11T00:00:00.000Z",
+    "alerts": 519,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-08-18T00:00:00.000Z",
+    "alerts": 419,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-08-25T00:00:00.000Z",
+    "alerts": 382,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-09-01T00:00:00.000Z",
+    "alerts": 652,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-09-08T00:00:00.000Z",
+    "alerts": 437,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-09-15T00:00:00.000Z",
+    "alerts": 431,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-09-22T00:00:00.000Z",
+    "alerts": 316,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-09-29T00:00:00.000Z",
+    "alerts": 254,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-10-06T00:00:00.000Z",
+    "alerts": 240,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-10-13T00:00:00.000Z",
+    "alerts": 131,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-10-20T00:00:00.000Z",
+    "alerts": 288,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-10-27T00:00:00.000Z",
+    "alerts": 131,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-11-03T00:00:00.000Z",
+    "alerts": 223,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-11-10T00:00:00.000Z",
+    "alerts": 488,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-11-17T00:00:00.000Z",
+    "alerts": 258,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-11-24T00:00:00.000Z",
+    "alerts": 314,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-12-01T00:00:00.000Z",
+    "alerts": 429,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-12-08T00:00:00.000Z",
+    "alerts": 274,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-12-15T00:00:00.000Z",
+    "alerts": 246,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-12-22T00:00:00.000Z",
+    "alerts": 302,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-12-29T00:00:00.000Z",
+    "alerts": 197,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-01-05T00:00:00.000Z",
+    "alerts": 147,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-01-12T00:00:00.000Z",
+    "alerts": 502,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-01-19T00:00:00.000Z",
+    "alerts": 228,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-01-26T00:00:00.000Z",
+    "alerts": 225,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-02-02T00:00:00.000Z",
+    "alerts": 409,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-02-09T00:00:00.000Z",
+    "alerts": 209,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-02-16T00:00:00.000Z",
+    "alerts": 171,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-02-23T00:00:00.000Z",
+    "alerts": 208,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-03-01T00:00:00.000Z",
+    "alerts": 160,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-03-08T00:00:00.000Z",
+    "alerts": 85,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-03-15T00:00:00.000Z",
+    "alerts": 35,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-03-22T00:00:00.000Z",
+    "alerts": 4,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-03-29T00:00:00.000Z",
+    "alerts": 5,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-04-05T00:00:00.000Z",
+    "alerts": 101,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-04-12T00:00:00.000Z",
+    "alerts": 169,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-04-19T00:00:00.000Z",
+    "alerts": 78,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-04-26T00:00:00.000Z",
+    "alerts": 2,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-05-03T00:00:00.000Z",
+    "alerts": 5,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-05-10T00:00:00.000Z",
+    "alerts": 7,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-05-17T00:00:00.000Z",
+    "alerts": 10,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-05-24T00:00:00.000Z",
+    "alerts": 14,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-05-31T00:00:00.000Z",
+    "alerts": 3,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-06-07T00:00:00.000Z",
+    "alerts": 9,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-06-14T00:00:00.000Z",
+    "alerts": 7,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-06-21T00:00:00.000Z",
+    "alerts": 14,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-06-28T00:00:00.000Z",
+    "alerts": 12,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-07-05T00:00:00.000Z",
+    "alerts": 16,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-07-12T00:00:00.000Z",
+    "alerts": 20,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-07-19T00:00:00.000Z",
+    "alerts": 12,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-07-26T00:00:00.000Z",
+    "alerts": 10,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-08-02T00:00:00.000Z",
+    "alerts": 29,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-08-09T00:00:00.000Z",
+    "alerts": 26,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-08-16T00:00:00.000Z",
+    "alerts": 23,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-08-23T00:00:00.000Z",
+    "alerts": 42,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-08-30T00:00:00.000Z",
+    "alerts": 26,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-09-06T00:00:00.000Z",
+    "alerts": 16,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-09-13T00:00:00.000Z",
+    "alerts": 36,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-09-20T00:00:00.000Z",
+    "alerts": 31,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-09-27T00:00:00.000Z",
+    "alerts": 56,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-10-04T00:00:00.000Z",
+    "alerts": 35,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-10-11T00:00:00.000Z",
+    "alerts": 67,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-10-18T00:00:00.000Z",
+    "alerts": 63,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-10-25T00:00:00.000Z",
+    "alerts": 76,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-11-01T00:00:00.000Z",
+    "alerts": 90,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-11-08T00:00:00.000Z",
+    "alerts": 42,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-11-15T00:00:00.000Z",
+    "alerts": 59,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-11-22T00:00:00.000Z",
+    "alerts": 61,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-11-29T00:00:00.000Z",
+    "alerts": 87,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-12-06T00:00:00.000Z",
+    "alerts": 91,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-12-13T00:00:00.000Z",
+    "alerts": 75,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-12-20T00:00:00.000Z",
+    "alerts": 73,
+    "city": "mumbai"
+  },
+  {
+    "week": "2020-12-27T00:00:00.000Z",
+    "alerts": 101,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-01-03T00:00:00.000Z",
+    "alerts": 109,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-01-10T00:00:00.000Z",
+    "alerts": 70,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-01-17T00:00:00.000Z",
+    "alerts": 56,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-01-24T00:00:00.000Z",
+    "alerts": 174,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-01-31T00:00:00.000Z",
+    "alerts": 88,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-02-07T00:00:00.000Z",
+    "alerts": 71,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-02-14T00:00:00.000Z",
+    "alerts": 61,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-02-21T00:00:00.000Z",
+    "alerts": 74,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-02-28T00:00:00.000Z",
+    "alerts": 65,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-03-07T00:00:00.000Z",
+    "alerts": 56,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-03-14T00:00:00.000Z",
+    "alerts": 43,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-03-21T00:00:00.000Z",
+    "alerts": 43,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-03-28T00:00:00.000Z",
+    "alerts": 26,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-04-04T00:00:00.000Z",
+    "alerts": 17,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-04-11T00:00:00.000Z",
+    "alerts": 14,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-04-18T00:00:00.000Z",
+    "alerts": 5,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-04-25T00:00:00.000Z",
+    "alerts": 3,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-05-02T00:00:00.000Z",
+    "alerts": 4,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-05-09T00:00:00.000Z",
+    "alerts": 10,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-05-16T00:00:00.000Z",
+    "alerts": 24,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-05-23T00:00:00.000Z",
+    "alerts": 20,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-05-30T00:00:00.000Z",
+    "alerts": 34,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-06-06T00:00:00.000Z",
+    "alerts": 59,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-06-13T00:00:00.000Z",
+    "alerts": 64,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-06-20T00:00:00.000Z",
+    "alerts": 76,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-06-27T00:00:00.000Z",
+    "alerts": 41,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-07-04T00:00:00.000Z",
+    "alerts": 43,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-07-11T00:00:00.000Z",
+    "alerts": 55,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-07-18T00:00:00.000Z",
+    "alerts": 71,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-07-25T00:00:00.000Z",
+    "alerts": 57,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-08-01T00:00:00.000Z",
+    "alerts": 98,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-08-08T00:00:00.000Z",
+    "alerts": 72,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-08-15T00:00:00.000Z",
+    "alerts": 135,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-08-22T00:00:00.000Z",
+    "alerts": 88,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-08-29T00:00:00.000Z",
+    "alerts": 80,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-09-05T00:00:00.000Z",
+    "alerts": 80,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-09-12T00:00:00.000Z",
+    "alerts": 89,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-09-19T00:00:00.000Z",
+    "alerts": 95,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-09-26T00:00:00.000Z",
+    "alerts": 71,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-10-03T00:00:00.000Z",
+    "alerts": 77,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-10-10T00:00:00.000Z",
+    "alerts": 74,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-10-17T00:00:00.000Z",
+    "alerts": 82,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-10-24T00:00:00.000Z",
+    "alerts": 84,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-10-31T00:00:00.000Z",
+    "alerts": 50,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-11-07T00:00:00.000Z",
+    "alerts": 61,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-11-14T00:00:00.000Z",
+    "alerts": 85,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-11-21T00:00:00.000Z",
+    "alerts": 109,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-11-28T00:00:00.000Z",
+    "alerts": 91,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-12-05T00:00:00.000Z",
+    "alerts": 101,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-12-12T00:00:00.000Z",
+    "alerts": 115,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-12-19T00:00:00.000Z",
+    "alerts": 84,
+    "city": "mumbai"
+  },
+  {
+    "week": "2021-12-26T00:00:00.000Z",
+    "alerts": 74,
+    "city": "mumbai"
+  },
+  {
+    "week": "2019-04-21T00:00:00.000Z",
+    "alerts": 108657,
+    "city": "manila"
+  },
+  {
+    "week": "2019-04-28T00:00:00.000Z",
+    "alerts": 108224,
+    "city": "manila"
+  },
+  {
+    "week": "2019-05-05T00:00:00.000Z",
+    "alerts": 73696,
+    "city": "manila"
+  },
+  {
+    "week": "2019-05-12T00:00:00.000Z",
+    "alerts": 96367,
+    "city": "manila"
+  },
+  {
+    "week": "2019-05-19T00:00:00.000Z",
+    "alerts": 114965,
+    "city": "manila"
+  },
+  {
+    "week": "2019-05-26T00:00:00.000Z",
+    "alerts": 125721,
+    "city": "manila"
+  },
+  {
+    "week": "2019-06-02T00:00:00.000Z",
+    "alerts": 108695,
+    "city": "manila"
+  },
+  {
+    "week": "2019-06-09T00:00:00.000Z",
+    "alerts": 113612,
+    "city": "manila"
+  },
+  {
+    "week": "2019-06-16T00:00:00.000Z",
+    "alerts": 127389,
+    "city": "manila"
+  },
+  {
+    "week": "2019-06-23T00:00:00.000Z",
+    "alerts": 138953,
+    "city": "manila"
+  },
+  {
+    "week": "2019-06-30T00:00:00.000Z",
+    "alerts": 117814,
+    "city": "manila"
+  },
+  {
+    "week": "2019-07-07T00:00:00.000Z",
+    "alerts": 132332,
+    "city": "manila"
+  },
+  {
+    "week": "2019-07-14T00:00:00.000Z",
+    "alerts": 136896,
+    "city": "manila"
+  },
+  {
+    "week": "2019-07-21T00:00:00.000Z",
+    "alerts": 143848,
+    "city": "manila"
+  },
+  {
+    "week": "2019-07-28T00:00:00.000Z",
+    "alerts": 150552,
+    "city": "manila"
+  },
+  {
+    "week": "2019-08-04T00:00:00.000Z",
+    "alerts": 168453,
+    "city": "manila"
+  },
+  {
+    "week": "2019-08-11T00:00:00.000Z",
+    "alerts": 163636,
+    "city": "manila"
+  },
+  {
+    "week": "2019-08-18T00:00:00.000Z",
+    "alerts": 153334,
+    "city": "manila"
+  },
+  {
+    "week": "2019-08-25T00:00:00.000Z",
+    "alerts": 157743,
+    "city": "manila"
+  },
+  {
+    "week": "2019-09-01T00:00:00.000Z",
+    "alerts": 166814,
+    "city": "manila"
+  },
+  {
+    "week": "2019-09-08T00:00:00.000Z",
+    "alerts": 169938,
+    "city": "manila"
+  },
+  {
+    "week": "2019-09-15T00:00:00.000Z",
+    "alerts": 156799,
+    "city": "manila"
+  },
+  {
+    "week": "2019-09-22T00:00:00.000Z",
+    "alerts": 148236,
+    "city": "manila"
+  },
+  {
+    "week": "2019-09-29T00:00:00.000Z",
+    "alerts": 143540,
+    "city": "manila"
+  },
+  {
+    "week": "2019-10-06T00:00:00.000Z",
+    "alerts": 144344,
+    "city": "manila"
+  },
+  {
+    "week": "2019-10-13T00:00:00.000Z",
+    "alerts": 80828,
+    "city": "manila"
+  },
+  {
+    "week": "2019-10-20T00:00:00.000Z",
+    "alerts": 154563,
+    "city": "manila"
+  },
+  {
+    "week": "2019-10-27T00:00:00.000Z",
+    "alerts": 107313,
+    "city": "manila"
+  },
+  {
+    "week": "2019-11-03T00:00:00.000Z",
+    "alerts": 121049,
+    "city": "manila"
+  },
+  {
+    "week": "2019-11-10T00:00:00.000Z",
+    "alerts": 137317,
+    "city": "manila"
+  },
+  {
+    "week": "2019-11-17T00:00:00.000Z",
+    "alerts": 157965,
+    "city": "manila"
+  },
+  {
+    "week": "2019-11-24T00:00:00.000Z",
+    "alerts": 149925,
+    "city": "manila"
+  },
+  {
+    "week": "2019-12-01T00:00:00.000Z",
+    "alerts": 129029,
+    "city": "manila"
+  },
+  {
+    "week": "2019-12-08T00:00:00.000Z",
+    "alerts": 188278,
+    "city": "manila"
+  },
+  {
+    "week": "2019-12-15T00:00:00.000Z",
+    "alerts": 176050,
+    "city": "manila"
+  },
+  {
+    "week": "2019-12-22T00:00:00.000Z",
+    "alerts": 88818,
+    "city": "manila"
+  },
+  {
+    "week": "2019-12-29T00:00:00.000Z",
+    "alerts": 45351,
+    "city": "manila"
+  },
+  {
+    "week": "2020-01-05T00:00:00.000Z",
+    "alerts": 98583,
+    "city": "manila"
+  },
+  {
+    "week": "2020-01-12T00:00:00.000Z",
+    "alerts": 107524,
+    "city": "manila"
+  },
+  {
+    "week": "2020-01-19T00:00:00.000Z",
+    "alerts": 127012,
+    "city": "manila"
+  },
+  {
+    "week": "2020-01-26T00:00:00.000Z",
+    "alerts": 122427,
+    "city": "manila"
+  },
+  {
+    "week": "2020-02-02T00:00:00.000Z",
+    "alerts": 121569,
+    "city": "manila"
+  },
+  {
+    "week": "2020-02-09T00:00:00.000Z",
+    "alerts": 126505,
+    "city": "manila"
+  },
+  {
+    "week": "2020-02-16T00:00:00.000Z",
+    "alerts": 119737,
+    "city": "manila"
+  },
+  {
+    "week": "2020-02-23T00:00:00.000Z",
+    "alerts": 116829,
+    "city": "manila"
+  },
+  {
+    "week": "2020-03-01T00:00:00.000Z",
+    "alerts": 116611,
+    "city": "manila"
+  },
+  {
+    "week": "2020-03-08T00:00:00.000Z",
+    "alerts": 76430,
+    "city": "manila"
+  },
+  {
+    "week": "2020-03-15T00:00:00.000Z",
+    "alerts": 10598,
+    "city": "manila"
+  },
+  {
+    "week": "2020-03-22T00:00:00.000Z",
+    "alerts": 1761,
+    "city": "manila"
+  },
+  {
+    "week": "2020-03-29T00:00:00.000Z",
+    "alerts": 1484,
+    "city": "manila"
+  },
+  {
+    "week": "2020-04-05T00:00:00.000Z",
+    "alerts": 2187,
+    "city": "manila"
+  },
+  {
+    "week": "2020-04-12T00:00:00.000Z",
+    "alerts": 4214,
+    "city": "manila"
+  },
+  {
+    "week": "2020-04-19T00:00:00.000Z",
+    "alerts": 3917,
+    "city": "manila"
+  },
+  {
+    "week": "2020-04-26T00:00:00.000Z",
+    "alerts": 3244,
+    "city": "manila"
+  },
+  {
+    "week": "2020-05-03T00:00:00.000Z",
+    "alerts": 4127,
+    "city": "manila"
+  },
+  {
+    "week": "2020-05-10T00:00:00.000Z",
+    "alerts": 5241,
+    "city": "manila"
+  },
+  {
+    "week": "2020-05-17T00:00:00.000Z",
+    "alerts": 11163,
+    "city": "manila"
+  },
+  {
+    "week": "2020-05-24T00:00:00.000Z",
+    "alerts": 11343,
+    "city": "manila"
+  },
+  {
+    "week": "2020-05-31T00:00:00.000Z",
+    "alerts": 24954,
+    "city": "manila"
+  },
+  {
+    "week": "2020-06-07T00:00:00.000Z",
+    "alerts": 29961,
+    "city": "manila"
+  },
+  {
+    "week": "2020-06-14T00:00:00.000Z",
+    "alerts": 39512,
+    "city": "manila"
+  },
+  {
+    "week": "2020-06-21T00:00:00.000Z",
+    "alerts": 37467,
+    "city": "manila"
+  },
+  {
+    "week": "2020-06-28T00:00:00.000Z",
+    "alerts": 42938,
+    "city": "manila"
+  },
+  {
+    "week": "2020-07-05T00:00:00.000Z",
+    "alerts": 39827,
+    "city": "manila"
+  },
+  {
+    "week": "2020-07-12T00:00:00.000Z",
+    "alerts": 39047,
+    "city": "manila"
+  },
+  {
+    "week": "2020-07-19T00:00:00.000Z",
+    "alerts": 35095,
+    "city": "manila"
+  },
+  {
+    "week": "2020-07-26T00:00:00.000Z",
+    "alerts": 33460,
+    "city": "manila"
+  },
+  {
+    "week": "2020-08-02T00:00:00.000Z",
+    "alerts": 27395,
+    "city": "manila"
+  },
+  {
+    "week": "2020-08-09T00:00:00.000Z",
+    "alerts": 13663,
+    "city": "manila"
+  },
+  {
+    "week": "2020-08-16T00:00:00.000Z",
+    "alerts": 29416,
+    "city": "manila"
+  },
+  {
+    "week": "2020-08-23T00:00:00.000Z",
+    "alerts": 44701,
+    "city": "manila"
+  },
+  {
+    "week": "2020-08-30T00:00:00.000Z",
+    "alerts": 38156,
+    "city": "manila"
+  },
+  {
+    "week": "2020-09-06T00:00:00.000Z",
+    "alerts": 45580,
+    "city": "manila"
+  },
+  {
+    "week": "2020-09-13T00:00:00.000Z",
+    "alerts": 45009,
+    "city": "manila"
+  },
+  {
+    "week": "2020-09-20T00:00:00.000Z",
+    "alerts": 46064,
+    "city": "manila"
+  },
+  {
+    "week": "2020-09-27T00:00:00.000Z",
+    "alerts": 50550,
+    "city": "manila"
+  },
+  {
+    "week": "2020-10-04T00:00:00.000Z",
+    "alerts": 48347,
+    "city": "manila"
+  },
+  {
+    "week": "2020-10-11T00:00:00.000Z",
+    "alerts": 63207,
+    "city": "manila"
+  },
+  {
+    "week": "2020-10-18T00:00:00.000Z",
+    "alerts": 61594,
+    "city": "manila"
+  },
+  {
+    "week": "2020-10-25T00:00:00.000Z",
+    "alerts": 67498,
+    "city": "manila"
+  },
+  {
+    "week": "2020-11-01T00:00:00.000Z",
+    "alerts": 51105,
+    "city": "manila"
+  },
+  {
+    "week": "2020-11-08T00:00:00.000Z",
+    "alerts": 55781,
+    "city": "manila"
+  },
+  {
+    "week": "2020-11-15T00:00:00.000Z",
+    "alerts": 72508,
+    "city": "manila"
+  },
+  {
+    "week": "2020-11-22T00:00:00.000Z",
+    "alerts": 70865,
+    "city": "manila"
+  },
+  {
+    "week": "2020-11-29T00:00:00.000Z",
+    "alerts": 68945,
+    "city": "manila"
+  },
+  {
+    "week": "2020-12-06T00:00:00.000Z",
+    "alerts": 70242,
+    "city": "manila"
+  },
+  {
+    "week": "2020-12-13T00:00:00.000Z",
+    "alerts": 92109,
+    "city": "manila"
+  },
+  {
+    "week": "2020-12-20T00:00:00.000Z",
+    "alerts": 77733,
+    "city": "manila"
+  },
+  {
+    "week": "2020-12-27T00:00:00.000Z",
+    "alerts": 38783,
+    "city": "manila"
+  },
+  {
+    "week": "2021-01-03T00:00:00.000Z",
+    "alerts": 37733,
+    "city": "manila"
+  },
+  {
+    "week": "2021-01-10T00:00:00.000Z",
+    "alerts": 42060,
+    "city": "manila"
+  },
+  {
+    "week": "2021-01-17T00:00:00.000Z",
+    "alerts": 43261,
+    "city": "manila"
+  },
+  {
+    "week": "2021-01-24T00:00:00.000Z",
+    "alerts": 43617,
+    "city": "manila"
+  },
+  {
+    "week": "2021-01-31T00:00:00.000Z",
+    "alerts": 40694,
+    "city": "manila"
+  },
+  {
+    "week": "2021-02-07T00:00:00.000Z",
+    "alerts": 42611,
+    "city": "manila"
+  },
+  {
+    "week": "2021-02-14T00:00:00.000Z",
+    "alerts": 43394,
+    "city": "manila"
+  },
+  {
+    "week": "2021-02-21T00:00:00.000Z",
+    "alerts": 41408,
+    "city": "manila"
+  },
+  {
+    "week": "2021-02-28T00:00:00.000Z",
+    "alerts": 42187,
+    "city": "manila"
+  },
+  {
+    "week": "2021-03-07T00:00:00.000Z",
+    "alerts": 37134,
+    "city": "manila"
+  },
+  {
+    "week": "2021-03-14T00:00:00.000Z",
+    "alerts": 31285,
+    "city": "manila"
+  },
+  {
+    "week": "2021-03-21T00:00:00.000Z",
+    "alerts": 18181,
+    "city": "manila"
+  },
+  {
+    "week": "2021-03-28T00:00:00.000Z",
+    "alerts": 7623,
+    "city": "manila"
+  },
+  {
+    "week": "2021-04-04T00:00:00.000Z",
+    "alerts": 12398,
+    "city": "manila"
+  },
+  {
+    "week": "2021-04-11T00:00:00.000Z",
+    "alerts": 20011,
+    "city": "manila"
+  },
+  {
+    "week": "2021-04-18T00:00:00.000Z",
+    "alerts": 20191,
+    "city": "manila"
+  },
+  {
+    "week": "2021-04-25T00:00:00.000Z",
+    "alerts": 23022,
+    "city": "manila"
+  },
+  {
+    "week": "2021-05-02T00:00:00.000Z",
+    "alerts": 27526,
+    "city": "manila"
+  },
+  {
+    "week": "2021-05-09T00:00:00.000Z",
+    "alerts": 28594,
+    "city": "manila"
+  },
+  {
+    "week": "2021-05-16T00:00:00.000Z",
+    "alerts": 34351,
+    "city": "manila"
+  },
+  {
+    "week": "2021-05-23T00:00:00.000Z",
+    "alerts": 37534,
+    "city": "manila"
+  },
+  {
+    "week": "2021-05-30T00:00:00.000Z",
+    "alerts": 36856,
+    "city": "manila"
+  },
+  {
+    "week": "2021-06-06T00:00:00.000Z",
+    "alerts": 39918,
+    "city": "manila"
+  },
+  {
+    "week": "2021-06-13T00:00:00.000Z",
+    "alerts": 44834,
+    "city": "manila"
+  },
+  {
+    "week": "2021-06-20T00:00:00.000Z",
+    "alerts": 38229,
+    "city": "manila"
+  },
+  {
+    "week": "2021-06-27T00:00:00.000Z",
+    "alerts": 40825,
+    "city": "manila"
+  },
+  {
+    "week": "2021-07-04T00:00:00.000Z",
+    "alerts": 40512,
+    "city": "manila"
+  },
+  {
+    "week": "2021-07-11T00:00:00.000Z",
+    "alerts": 42922,
+    "city": "manila"
+  },
+  {
+    "week": "2021-07-18T00:00:00.000Z",
+    "alerts": 41139,
+    "city": "manila"
+  },
+  {
+    "week": "2021-07-25T00:00:00.000Z",
+    "alerts": 53390,
+    "city": "manila"
+  },
+  {
+    "week": "2021-08-01T00:00:00.000Z",
+    "alerts": 42266,
+    "city": "manila"
+  },
+  {
+    "week": "2021-08-08T00:00:00.000Z",
+    "alerts": 11871,
+    "city": "manila"
+  },
+  {
+    "week": "2021-08-15T00:00:00.000Z",
+    "alerts": 13865,
+    "city": "manila"
+  },
+  {
+    "week": "2021-08-22T00:00:00.000Z",
+    "alerts": 25826,
+    "city": "manila"
+  },
+  {
+    "week": "2021-08-29T00:00:00.000Z",
+    "alerts": 21422,
+    "city": "manila"
+  },
+  {
+    "week": "2021-09-05T00:00:00.000Z",
+    "alerts": 27083,
+    "city": "manila"
+  },
+  {
+    "week": "2021-09-12T00:00:00.000Z",
+    "alerts": 25605,
+    "city": "manila"
+  },
+  {
+    "week": "2021-09-19T00:00:00.000Z",
+    "alerts": 26856,
+    "city": "manila"
+  },
+  {
+    "week": "2021-09-26T00:00:00.000Z",
+    "alerts": 30047,
+    "city": "manila"
+  },
+  {
+    "week": "2021-10-03T00:00:00.000Z",
+    "alerts": 33339,
+    "city": "manila"
+  },
+  {
+    "week": "2021-10-10T00:00:00.000Z",
+    "alerts": 37249,
+    "city": "manila"
+  },
+  {
+    "week": "2021-10-17T00:00:00.000Z",
+    "alerts": 40637,
+    "city": "manila"
+  },
+  {
+    "week": "2021-10-24T00:00:00.000Z",
+    "alerts": 47953,
+    "city": "manila"
+  },
+  {
+    "week": "2021-10-31T00:00:00.000Z",
+    "alerts": 43531,
+    "city": "manila"
+  },
+  {
+    "week": "2021-11-07T00:00:00.000Z",
+    "alerts": 48605,
+    "city": "manila"
+  },
+  {
+    "week": "2021-11-14T00:00:00.000Z",
+    "alerts": 51622,
+    "city": "manila"
+  },
+  {
+    "week": "2021-11-21T00:00:00.000Z",
+    "alerts": 53552,
+    "city": "manila"
+  },
+  {
+    "week": "2021-11-28T00:00:00.000Z",
+    "alerts": 46524,
+    "city": "manila"
+  },
+  {
+    "week": "2021-12-05T00:00:00.000Z",
+    "alerts": 58219,
+    "city": "manila"
+  },
+  {
+    "week": "2021-12-12T00:00:00.000Z",
+    "alerts": 74080,
+    "city": "manila"
+  },
+  {
+    "week": "2021-12-19T00:00:00.000Z",
+    "alerts": 70894,
+    "city": "manila"
+  },
+  {
+    "week": "2021-12-26T00:00:00.000Z",
+    "alerts": 37210,
+    "city": "manila"
+  }
+]

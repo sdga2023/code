@@ -1,0 +1,102 @@
+[
+  {
+    "var": "Year.2017",
+    "value": 5.906906,
+    "ind": "rate"
+  },
+  {
+    "var": "Year.2018",
+    "value": 5.774734,
+    "ind": "rate"
+  },
+  {
+    "var": "Year.2019",
+    "value": 5.564134,
+    "ind": "rate"
+  },
+  {
+    "var": "Year.2020",
+    "value": 5.60531,
+    "ind": "rate"
+  },
+  {
+    "var": "perc.2017.2018",
+    "value": -2.23759,
+    "ind": "rate"
+  },
+  {
+    "var": "perc.2018.2019",
+    "value": -3.64691,
+    "ind": "rate"
+  },
+  {
+    "var": "perc.2019.2020",
+    "value": 0.740025,
+    "ind": "rate"
+  },
+  {
+    "var": "abs.diff.2017.2018",
+    "value": -0.13217,
+    "ind": "rate"
+  },
+  {
+    "var": "abs.diff.2018.2019",
+    "value": -0.2106,
+    "ind": "rate"
+  },
+  {
+    "var": "abs.diff.2019.2020",
+    "value": 0.041176,
+    "ind": "rate"
+  },
+  {
+    "var": "Year.2017",
+    "value": 445800,
+    "ind": "number"
+  },
+  {
+    "var": "Year.2018",
+    "value": 440700,
+    "ind": "number"
+  },
+  {
+    "var": "Year.2019",
+    "value": 429200,
+    "ind": "number"
+  },
+  {
+    "var": "Year.2020",
+    "value": 436900,
+    "ind": "number"
+  },
+  {
+    "var": "perc.2017.2018",
+    "value": -1.14401,
+    "ind": "number"
+  },
+  {
+    "var": "perc.2018.2019",
+    "value": -2.60948,
+    "ind": "number"
+  },
+  {
+    "var": "perc.2019.2020",
+    "value": 1.794035,
+    "ind": "number"
+  },
+  {
+    "var": "abs.diff.2017.2018",
+    "value": -5100,
+    "ind": "number"
+  },
+  {
+    "var": "abs.diff.2018.2019",
+    "value": -11500,
+    "ind": "number"
+  },
+  {
+    "var": "abs.diff.2019.2020",
+    "value": 7700,
+    "ind": "number"
+  }
+]

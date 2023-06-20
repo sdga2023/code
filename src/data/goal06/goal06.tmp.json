@@ -1,0 +1,290 @@
+[
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "EAS",
+    "region_name": "East Asia & Pacific"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "EAS",
+    "region_name": "East Asia & Pacific"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "EAS",
+    "region_name": "East Asia & Pacific"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "EAS",
+    "region_name": "East Asia & Pacific"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "ECS",
+    "region_name": "Europe & Central Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "ECS",
+    "region_name": "Europe & Central Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "ECS",
+    "region_name": "Europe & Central Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "ECS",
+    "region_name": "Europe & Central Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "LCN",
+    "region_name": "Latin America & Caribbean"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "LCN",
+    "region_name": "Latin America & Caribbean"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "LCN",
+    "region_name": "Latin America & Caribbean"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "LCN",
+    "region_name": "Latin America & Caribbean"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "MEA",
+    "region_name": "Middle East & North Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "MEA",
+    "region_name": "Middle East & North Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "MEA",
+    "region_name": "Middle East & North Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "MEA",
+    "region_name": "Middle East & North Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "NAC",
+    "region_name": "North America"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "NAC",
+    "region_name": "North America"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "NAC",
+    "region_name": "North America"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "NAC",
+    "region_name": "North America"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "SAS",
+    "region_name": "South Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "SAS",
+    "region_name": "South Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "SAS",
+    "region_name": "South Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "SAS",
+    "region_name": "South Asia"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "SSF",
+    "region_name": "Sub-Saharan Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "SSF",
+    "region_name": "Sub-Saharan Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "SSF",
+    "region_name": "Sub-Saharan Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "SSF",
+    "region_name": "Sub-Saharan Africa"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWAG.ZS",
+    "series_name": "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "WLD",
+    "region_name": "World"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWDM.ZS",
+    "series_name": "Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "WLD",
+    "region_name": "World"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWIN.ZS",
+    "series_name": "Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",
+    "value": null,
+    "region": "WLD",
+    "region_name": "World"
+  },
+  {
+    "time": "YR2017",
+    "time_name": 2017,
+    "series": "ER.H2O.FWTL.K3",
+    "series_name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "value": null,
+    "region": "WLD",
+    "region_name": "World"
+  }
+]

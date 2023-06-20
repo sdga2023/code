@@ -1,0 +1,27 @@
+[
+  {
+    "category": "road",
+    "emissions": 5.86,
+    "share": 76.6
+  },
+  {
+    "category": "rail",
+    "emissions": 0.09,
+    "share": 1.2
+  },
+  {
+    "category": "shipping",
+    "emissions": 0.84,
+    "share": 11
+  },
+  {
+    "category": "aviation",
+    "emissions": 0.71,
+    "share": 9.3
+  },
+  {
+    "category": "pipelines",
+    "emissions": 0.15,
+    "share": 2
+  }
+]

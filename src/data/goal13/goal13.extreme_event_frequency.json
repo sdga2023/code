@@ -1,0 +1,22 @@
+[
+  {
+    "warming_level": 1,
+    "frequency": 4.81
+  },
+  {
+    "warming_level": 1.5,
+    "frequency": 8.64
+  },
+  {
+    "warming_level": 2,
+    "frequency": 13.92
+  },
+  {
+    "warming_level": 3,
+    "frequency": 27.4
+  },
+  {
+    "warming_level": 4,
+    "frequency": 39.19
+  }
+]

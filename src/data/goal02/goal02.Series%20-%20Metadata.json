@@ -1,0 +1,128 @@
+[
+  {
+    "Code": "CoCA",
+    "Indicator Name": "Cost of an energy sufficient diet",
+    "Long definition": "The cost to meet average dietary energy requirements (2329 kcal) from the least expensive locally-available starchy staple, per capita, per day (2017 USD)",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoNA",
+    "Indicator Name": "Cost of a nutrient adequate diet",
+    "Long definition": "The cost of the least expensive locally-available foods to meet average requirements for dietary energy and 23 essential macro- and micro-nutrients, per capita, per day (2017 USD)",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoRD",
+    "Indicator Name": "Cost of a healthy diet",
+    "Long definition": "The cost of the least expensive locally-available foods to meet requirements for energy and food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Adapted from Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoRD_f",
+    "Indicator Name": "Cost of fruits",
+    "Long definition": "The cost of the least expensive locally-available foods to meet fruit recommendations in food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Food Prices for Nutrition project"
+  },
+  {
+    "Code": "CoRD_v",
+    "Indicator Name": "Cost of vegetables",
+    "Long definition": "The cost of the least expensive locally-available foods to meet vegetable recommendations in food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Food Prices for Nutrition project"
+  },
+  {
+    "Code": "CoRD_ss",
+    "Indicator Name": "Cost of starchy staples",
+    "Long definition": "The cost of the least expensive locally-available foods to meet starchy staple recommendations in food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Food Prices for Nutrition project"
+  },
+  {
+    "Code": "CoRD_asf",
+    "Indicator Name": "Cost of animal-source foods",
+    "Long definition": "The cost of the least expensive locally-available foods to meet animal-source food recommendations in food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Food Prices for Nutrition project"
+  },
+  {
+    "Code": "CoRD_lns",
+    "Indicator Name": "Cost of legumes, nuts and seeds",
+    "Long definition": "The cost of the least expensive locally-available foods to meet legumes, nuts and seeds recommendations in food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Food Prices for Nutrition project"
+  },
+  {
+    "Code": "CoRD_of",
+    "Indicator Name": "Cost of oils and fats",
+    "Long definition": "The cost of the least expensive locally-available foods to meet fat or oil recommendations in food-based dietary guidelines, per capita, per day (2017 USD)",
+    "Source": "Food Prices for Nutrition project"
+  },
+  {
+    "Code": "CoCA_pov",
+    "Indicator Name": "Affordability of an energy sufficient diet: ratio of cost to the food poverty line",
+    "Long definition": "The ratio of the cost of an energy sufficient diet to the food poverty line (63% of the international poverty line of 1.90/day in 2017 USD)",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoNA_pov",
+    "Indicator Name": "Affordability of a nutrient adequate diet: ratio of cost to the food poverty line",
+    "Long definition": "The ratio of the cost of a nutrient adequate diet to the food poverty line (63% of the international poverty line of 1.90/day in 2017 USD)",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoRD_pov",
+    "Indicator Name": "Affordability of a healthy diet: ratio of cost to the food poverty line",
+    "Long definition": "The ratio of the cost of a healthy diet to the food poverty line (63% of the international poverty line of 1.90/day in 2017 USD)",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoCA_fexp",
+    "Indicator Name": "Affordability of an energy sufficient diet: ratio of cost to food expenditures",
+    "Long definition": "The ratio of the cost of an energy sufficient diet to observed per capita food expenditure from national accounts",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoNA_fexp",
+    "Indicator Name": "Affordability of a nutrient adequate diet: ratio of cost to food expenditures",
+    "Long definition": "The ratio of the cost of a nutrient adequate diet to observed per capita food expenditures from national accounts",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoRD_fexp",
+    "Indicator Name": "Affordability of a healthy diet: ratio of cost to food expenditures",
+    "Long definition": "The ratio of the cost of a healthy diet to observed per capita food expenditures from national accounts",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoCA_headcount",
+    "Indicator Name": "Percent of the population who cannot afford sufficient calories",
+    "Long definition": "The percent of the population who cannot afford the cost of an energy sufficient diet, where the food budget is defined as 63% of income (the share low-income consumers in low-income countries spend on food); income distribution is from PovcalNet",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoNA_headcount",
+    "Indicator Name": "Percent of the population who cannot afford nutrient adequacy",
+    "Long definition": "The percent of the population who cannot afford the cost of a nutrient adequate diet, where the food budget is defined as 63% of income (the share low-income consumers in low-income countries spend on food); income distribution is from PovcalNet",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoRD_headcount",
+    "Indicator Name": "Percent of the population who cannot afford a healthy diet",
+    "Long definition": "The percent of the population who cannot afford the Cost of a Healthy diet, where the food budget is defined as 63% of income (the share low-income consumers in low-income countries spend on food); income distribution is from PovcalNet",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoCA_unafford_n",
+    "Indicator Name": "Number of people who cannot afford sufficient calories (millions)",
+    "Long definition": "The number of people who cannot afford the cost of an energy sufficient diet, where the food budget is defined as 63% of income (the share low-income consumers in low-income countries spend on food); income distribution from PovcalNet",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoNA_unafford_n",
+    "Indicator Name": "Number of people who cannot afford nutrient adequacy (millions)",
+    "Long definition": "The number of people who cannot afford the cost of a nutrient adequate diet, where the food budget is defined as 63% of income (the share low-income consumers in low-income countries spend on food); income distribution from PovcalNet",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  },
+  {
+    "Code": "CoRD_unafford_n",
+    "Indicator Name": "Number of people who cannot afford a healthy diet (millions)",
+    "Long definition": "The number of people who cannot afford the cost of a healthy diet, where the food budget is defined as 63% of income (the share low-income consumers in low-income countries spend on food); income distribution from PovcalNet",
+    "Source": "Herforth, A., Bai, Y., Venkat, A., Mahrt, K., Ebel, A. & Masters, W.A. 2020. Cost and affordability of healthy diets across and within countries. Background paper for The State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome, FAO. https://doi.org/10.4060/cb2431en"
+  }
+]

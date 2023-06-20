@@ -1,0 +1,8202 @@
+[
+  {
+    "year": 1937,
+    "month": "Aug",
+    "elevation_ft": 1099.6,
+    "elevation_m": 335.15808,
+    "pct_of_full_capacity": 46.6590842,
+    "month_nr": 8
+  },
+  {
+    "year": 1937,
+    "month": "Dec",
+    "elevation_ft": 1095.75,
+    "elevation_m": 333.9846,
+    "pct_of_full_capacity": 45.3014931,
+    "month_nr": 12
+  },
+  {
+    "year": 1937,
+    "month": "Jul",
+    "elevation_ft": 1102.8,
+    "elevation_m": 336.13344,
+    "pct_of_full_capacity": 47.8441149,
+    "month_nr": 7
+  },
+  {
+    "year": 1937,
+    "month": "Jun",
+    "elevation_ft": 1096.6,
+    "elevation_m": 334.24368,
+    "pct_of_full_capacity": 45.5792218,
+    "month_nr": 6
+  },
+  {
+    "year": 1937,
+    "month": "May",
+    "elevation_ft": 1078.7,
+    "elevation_m": 328.78776,
+    "pct_of_full_capacity": 39.4412582,
+    "month_nr": 5
+  },
+  {
+    "year": 1937,
+    "month": "Nov",
+    "elevation_ft": 1096,
+    "elevation_m": 334.0608,
+    "pct_of_full_capacity": 45.3833774,
+    "month_nr": 11
+  },
+  {
+    "year": 1937,
+    "month": "Oct",
+    "elevation_ft": 1096.7,
+    "elevation_m": 334.27416,
+    "pct_of_full_capacity": 45.6468502,
+    "month_nr": 10
+  },
+  {
+    "year": 1937,
+    "month": "Sep",
+    "elevation_ft": 1097.6,
+    "elevation_m": 334.54848,
+    "pct_of_full_capacity": 45.9804835,
+    "month_nr": 9
+  },
+  {
+    "year": 1938,
+    "month": "Apr",
+    "elevation_ft": 1109.2,
+    "elevation_m": 338.08416,
+    "pct_of_full_capacity": 50.2365818,
+    "month_nr": 4
+  },
+  {
+    "year": 1938,
+    "month": "Aug",
+    "elevation_ft": 1171.95,
+    "elevation_m": 357.21036,
+    "pct_of_full_capacity": 77.0994355,
+    "month_nr": 8
+  },
+  {
+    "year": 1938,
+    "month": "Dec",
+    "elevation_ft": 1168.65,
+    "elevation_m": 356.20452,
+    "pct_of_full_capacity": 75.5197377,
+    "month_nr": 12
+  },
+  {
+    "year": 1938,
+    "month": "Feb",
+    "elevation_ft": 1094.85,
+    "elevation_m": 333.71028,
+    "pct_of_full_capacity": 44.9739124,
+    "month_nr": 2
+  },
+  {
+    "year": 1938,
+    "month": "Jan",
+    "elevation_ft": 1095,
+    "elevation_m": 333.756,
+    "pct_of_full_capacity": 45.0344564,
+    "month_nr": 1
+  },
+  {
+    "year": 1938,
+    "month": "Jul",
+    "elevation_ft": 1173.5,
+    "elevation_m": 357.6828,
+    "pct_of_full_capacity": 77.8755073,
+    "month_nr": 7
+  },
+  {
+    "year": 1938,
+    "month": "Jun",
+    "elevation_ft": 1165.6,
+    "elevation_m": 355.27488,
+    "pct_of_full_capacity": 74.0612442,
+    "month_nr": 6
+  },
+  {
+    "year": 1938,
+    "month": "Mar",
+    "elevation_ft": 1100.2,
+    "elevation_m": 335.34096,
+    "pct_of_full_capacity": 46.8300153,
+    "month_nr": 3
+  },
+  {
+    "year": 1938,
+    "month": "May",
+    "elevation_ft": 1134.4,
+    "elevation_m": 345.76512,
+    "pct_of_full_capacity": 60.2017815,
+    "month_nr": 5
+  },
+  {
+    "year": 1938,
+    "month": "Nov",
+    "elevation_ft": 1168.7,
+    "elevation_m": 356.21976,
+    "pct_of_full_capacity": 75.524528,
+    "month_nr": 11
+  },
+  {
+    "year": 1938,
+    "month": "Oct",
+    "elevation_ft": 1171.45,
+    "elevation_m": 357.05796,
+    "pct_of_full_capacity": 76.8611937,
+    "month_nr": 10
+  },
+  {
+    "year": 1938,
+    "month": "Sep",
+    "elevation_ft": 1173.8,
+    "elevation_m": 357.77424,
+    "pct_of_full_capacity": 78.0236335,
+    "month_nr": 9
+  },
+  {
+    "year": 1939,
+    "month": "Apr",
+    "elevation_ft": 1162.9,
+    "elevation_m": 354.45192,
+    "pct_of_full_capacity": 72.8033896,
+    "month_nr": 4
+  },
+  {
+    "year": 1939,
+    "month": "Aug",
+    "elevation_ft": 1177.35,
+    "elevation_m": 358.85628,
+    "pct_of_full_capacity": 79.7685127,
+    "month_nr": 8
+  },
+  {
+    "year": 1939,
+    "month": "Dec",
+    "elevation_ft": 1169.95,
+    "elevation_m": 356.60076,
+    "pct_of_full_capacity": 76.1227286,
+    "month_nr": 12
+  },
+  {
+    "year": 1939,
+    "month": "Feb",
+    "elevation_ft": 1157.4,
+    "elevation_m": 352.77552,
+    "pct_of_full_capacity": 70.263377,
+    "month_nr": 2
+  },
+  {
+    "year": 1939,
+    "month": "Jan",
+    "elevation_ft": 1165.4,
+    "elevation_m": 355.21392,
+    "pct_of_full_capacity": 73.9623729,
+    "month_nr": 1
+  },
+  {
+    "year": 1939,
+    "month": "Jul",
+    "elevation_ft": 1181.3,
+    "elevation_m": 360.06024,
+    "pct_of_full_capacity": 81.7671332,
+    "month_nr": 7
+  },
+  {
+    "year": 1939,
+    "month": "Jun",
+    "elevation_ft": 1183.45,
+    "elevation_m": 360.71556,
+    "pct_of_full_capacity": 82.8845561,
+    "month_nr": 6
+  },
+  {
+    "year": 1939,
+    "month": "Mar",
+    "elevation_ft": 1158.2,
+    "elevation_m": 353.01936,
+    "pct_of_full_capacity": 70.4866114,
+    "month_nr": 3
+  },
+  {
+    "year": 1939,
+    "month": "May",
+    "elevation_ft": 1176.2,
+    "elevation_m": 358.50576,
+    "pct_of_full_capacity": 79.1948407,
+    "month_nr": 5
+  },
+  {
+    "year": 1939,
+    "month": "Nov",
+    "elevation_ft": 1173.05,
+    "elevation_m": 357.54564,
+    "pct_of_full_capacity": 77.6483444,
+    "month_nr": 11
+  },
+  {
+    "year": 1939,
+    "month": "Oct",
+    "elevation_ft": 1176.1,
+    "elevation_m": 358.47528,
+    "pct_of_full_capacity": 79.1550463,
+    "month_nr": 10
+  },
+  {
+    "year": 1939,
+    "month": "Sep",
+    "elevation_ft": 1178.95,
+    "elevation_m": 359.34396,
+    "pct_of_full_capacity": 80.5695524,
+    "month_nr": 9
+  },
+  {
+    "year": 1940,
+    "month": "Apr",
+    "elevation_ft": 1164.85,
+    "elevation_m": 355.04628,
+    "pct_of_full_capacity": 73.7080666,
+    "month_nr": 4
+  },
+  {
+    "year": 1940,
+    "month": "Aug",
+    "elevation_ft": 1176.1,
+    "elevation_m": 358.47528,
+    "pct_of_full_capacity": 79.1351188,
+    "month_nr": 8
+  },
+  {
+    "year": 1940,
+    "month": "Dec",
+    "elevation_ft": 1168.05,
+    "elevation_m": 356.02164,
+    "pct_of_full_capacity": 75.2278228,
+    "month_nr": 12
+  },
+  {
+    "year": 1940,
+    "month": "Feb",
+    "elevation_ft": 1166,
+    "elevation_m": 355.3968,
+    "pct_of_full_capacity": 74.2591211,
+    "month_nr": 2
+  },
+  {
+    "year": 1940,
+    "month": "Jan",
+    "elevation_ft": 1166.9,
+    "elevation_m": 355.67112,
+    "pct_of_full_capacity": 74.6721356,
+    "month_nr": 1
+  },
+  {
+    "year": 1940,
+    "month": "Jul",
+    "elevation_ft": 1179.8,
+    "elevation_m": 359.60304,
+    "pct_of_full_capacity": 81.0041545,
+    "month_nr": 7
+  },
+  {
+    "year": 1940,
+    "month": "Jun",
+    "elevation_ft": 1182.15,
+    "elevation_m": 360.31932,
+    "pct_of_full_capacity": 82.2056021,
+    "month_nr": 6
+  },
+  {
+    "year": 1940,
+    "month": "Mar",
+    "elevation_ft": 1164.65,
+    "elevation_m": 354.98532,
+    "pct_of_full_capacity": 73.6233362,
+    "month_nr": 3
+  },
+  {
+    "year": 1940,
+    "month": "May",
+    "elevation_ft": 1175.35,
+    "elevation_m": 358.24668,
+    "pct_of_full_capacity": 78.7792758,
+    "month_nr": 5
+  },
+  {
+    "year": 1940,
+    "month": "Nov",
+    "elevation_ft": 1170.8,
+    "elevation_m": 356.85984,
+    "pct_of_full_capacity": 76.0653037,
+    "month_nr": 11
+  },
+  {
+    "year": 1940,
+    "month": "Oct",
+    "elevation_ft": 1173.75,
+    "elevation_m": 357.759,
+    "pct_of_full_capacity": 77.9890888,
+    "month_nr": 10
+  },
+  {
+    "year": 1940,
+    "month": "Sep",
+    "elevation_ft": 1174.45,
+    "elevation_m": 357.97236,
+    "pct_of_full_capacity": 78.2755143,
+    "month_nr": 9
+  },
+  {
+    "year": 1941,
+    "month": "Apr",
+    "elevation_ft": 1175.85,
+    "elevation_m": 358.39908,
+    "pct_of_full_capacity": 81.6998469,
+    "month_nr": 4
+  },
+  {
+    "year": 1941,
+    "month": "Aug",
+    "elevation_ft": 1216.5,
+    "elevation_m": 370.7892,
+    "pct_of_full_capacity": 104.019908,
+    "month_nr": 8
+  },
+  {
+    "year": 1941,
+    "month": "Dec",
+    "elevation_ft": 1195.8,
+    "elevation_m": 364.47984,
+    "pct_of_full_capacity": 92.2281776,
+    "month_nr": 12
+  },
+  {
+    "year": 1941,
+    "month": "Feb",
+    "elevation_ft": 1167.55,
+    "elevation_m": 355.86924,
+    "pct_of_full_capacity": 77.5267994,
+    "month_nr": 2
+  },
+  {
+    "year": 1941,
+    "month": "Jan",
+    "elevation_ft": 1167.1,
+    "elevation_m": 355.73208,
+    "pct_of_full_capacity": 77.3353752,
+    "month_nr": 1
+  },
+  {
+    "year": 1941,
+    "month": "Jul",
+    "elevation_ft": 1220.4,
+    "elevation_m": 371.97792,
+    "pct_of_full_capacity": 106.355283,
+    "month_nr": 7
+  },
+  {
+    "year": 1941,
+    "month": "Jun",
+    "elevation_ft": 1215.55,
+    "elevation_m": 370.49964,
+    "pct_of_full_capacity": 103.445636,
+    "month_nr": 6
+  },
+  {
+    "year": 1941,
+    "month": "Mar",
+    "elevation_ft": 1170.35,
+    "elevation_m": 356.72268,
+    "pct_of_full_capacity": 78.9433384,
+    "month_nr": 3
+  },
+  {
+    "year": 1941,
+    "month": "May",
+    "elevation_ft": 1201.25,
+    "elevation_m": 366.141,
+    "pct_of_full_capacity": 95.2143951,
+    "month_nr": 5
+  },
+  {
+    "year": 1941,
+    "month": "Nov",
+    "elevation_ft": 1205.6,
+    "elevation_m": 367.46688,
+    "pct_of_full_capacity": 97.6646248,
+    "month_nr": 11
+  },
+  {
+    "year": 1941,
+    "month": "Oct",
+    "elevation_ft": 1211.25,
+    "elevation_m": 369.189,
+    "pct_of_full_capacity": 100.918836,
+    "month_nr": 10
+  },
+  {
+    "year": 1941,
+    "month": "Sep",
+    "elevation_ft": 1209.85,
+    "elevation_m": 368.76228,
+    "pct_of_full_capacity": 100.114855,
+    "month_nr": 9
+  },
+  {
+    "year": 1942,
+    "month": "Apr",
+    "elevation_ft": 1182.9,
+    "elevation_m": 360.54792,
+    "pct_of_full_capacity": 85.2986217,
+    "month_nr": 4
+  },
+  {
+    "year": 1942,
+    "month": "Aug",
+    "elevation_ft": 1210.4,
+    "elevation_m": 368.92992,
+    "pct_of_full_capacity": 112.70291,
+    "month_nr": 8
+  },
+  {
+    "year": 1942,
+    "month": "Dec",
+    "elevation_ft": 1188.4,
+    "elevation_m": 362.22432,
+    "pct_of_full_capacity": 100.543645,
+    "month_nr": 12
+  },
+  {
+    "year": 1942,
+    "month": "Feb",
+    "elevation_ft": 1176.75,
+    "elevation_m": 358.6734,
+    "pct_of_full_capacity": 82.1592649,
+    "month_nr": 2
+  },
+  {
+    "year": 1942,
+    "month": "Jan",
+    "elevation_ft": 1184.8,
+    "elevation_m": 361.12704,
+    "pct_of_full_capacity": 86.2940276,
+    "month_nr": 1
+  },
+  {
+    "year": 1942,
+    "month": "Jul",
+    "elevation_ft": 1213.2,
+    "elevation_m": 369.78336,
+    "pct_of_full_capacity": 114.345329,
+    "month_nr": 7
+  },
+  {
+    "year": 1942,
+    "month": "Jun",
+    "elevation_ft": 1213.15,
+    "elevation_m": 369.76812,
+    "pct_of_full_capacity": 114.188361,
+    "month_nr": 6
+  },
+  {
+    "year": 1942,
+    "month": "Mar",
+    "elevation_ft": 1171.25,
+    "elevation_m": 356.997,
+    "pct_of_full_capacity": 79.3644717,
+    "month_nr": 3
+  },
+  {
+    "year": 1942,
+    "month": "May",
+    "elevation_ft": 1195.5,
+    "elevation_m": 364.3884,
+    "pct_of_full_capacity": 92.0367534,
+    "month_nr": 5
+  },
+  {
+    "year": 1942,
+    "month": "Nov",
+    "elevation_ft": 1194.05,
+    "elevation_m": 363.94644,
+    "pct_of_full_capacity": 103.529862,
+    "month_nr": 11
+  },
+  {
+    "year": 1942,
+    "month": "Oct",
+    "elevation_ft": 1199.25,
+    "elevation_m": 365.5314,
+    "pct_of_full_capacity": 106.378254,
+    "month_nr": 10
+  },
+  {
+    "year": 1942,
+    "month": "Sep",
+    "elevation_ft": 1205,
+    "elevation_m": 367.284,
+    "pct_of_full_capacity": 109.624809,
+    "month_nr": 9
+  },
+  {
+    "year": 1943,
+    "month": "Apr",
+    "elevation_ft": 1180.6,
+    "elevation_m": 359.84688,
+    "pct_of_full_capacity": 96.3973966,
+    "month_nr": 4
+  },
+  {
+    "year": 1943,
+    "month": "Aug",
+    "elevation_ft": 1199.65,
+    "elevation_m": 365.65332,
+    "pct_of_full_capacity": 106.600306,
+    "month_nr": 8
+  },
+  {
+    "year": 1943,
+    "month": "Dec",
+    "elevation_ft": 1178.35,
+    "elevation_m": 359.16108,
+    "pct_of_full_capacity": 95.2258806,
+    "month_nr": 12
+  },
+  {
+    "year": 1943,
+    "month": "Feb",
+    "elevation_ft": 1179.6,
+    "elevation_m": 359.54208,
+    "pct_of_full_capacity": 95.8805513,
+    "month_nr": 2
+  },
+  {
+    "year": 1943,
+    "month": "Jan",
+    "elevation_ft": 1182.45,
+    "elevation_m": 360.41076,
+    "pct_of_full_capacity": 97.6225115,
+    "month_nr": 1
+  },
+  {
+    "year": 1943,
+    "month": "Jul",
+    "elevation_ft": 1201.55,
+    "elevation_m": 366.23244,
+    "pct_of_full_capacity": 107.67611,
+    "month_nr": 7
+  },
+  {
+    "year": 1943,
+    "month": "Jun",
+    "elevation_ft": 1199.4,
+    "elevation_m": 365.57712,
+    "pct_of_full_capacity": 106.477795,
+    "month_nr": 6
+  },
+  {
+    "year": 1943,
+    "month": "Mar",
+    "elevation_ft": 1177,
+    "elevation_m": 358.7496,
+    "pct_of_full_capacity": 94.5597243,
+    "month_nr": 3
+  },
+  {
+    "year": 1943,
+    "month": "May",
+    "elevation_ft": 1188.75,
+    "elevation_m": 362.331,
+    "pct_of_full_capacity": 100.689127,
+    "month_nr": 5
+  },
+  {
+    "year": 1943,
+    "month": "Nov",
+    "elevation_ft": 1184.5,
+    "elevation_m": 361.0356,
+    "pct_of_full_capacity": 98.4264931,
+    "month_nr": 11
+  },
+  {
+    "year": 1943,
+    "month": "Oct",
+    "elevation_ft": 1189.9,
+    "elevation_m": 362.68152,
+    "pct_of_full_capacity": 101.290199,
+    "month_nr": 10
+  },
+  {
+    "year": 1943,
+    "month": "Sep",
+    "elevation_ft": 1195.7,
+    "elevation_m": 364.44936,
+    "pct_of_full_capacity": 104.433384,
+    "month_nr": 9
+  },
+  {
+    "year": 1944,
+    "month": "Apr",
+    "elevation_ft": 1158.1,
+    "elevation_m": 352.98888,
+    "pct_of_full_capacity": 85.2526799,
+    "month_nr": 4
+  },
+  {
+    "year": 1944,
+    "month": "Aug",
+    "elevation_ft": 1193.9,
+    "elevation_m": 363.90072,
+    "pct_of_full_capacity": 103.460949,
+    "month_nr": 8
+  },
+  {
+    "year": 1944,
+    "month": "Dec",
+    "elevation_ft": 1168,
+    "elevation_m": 356.0064,
+    "pct_of_full_capacity": 90.0382848,
+    "month_nr": 12
+  },
+  {
+    "year": 1944,
+    "month": "Feb",
+    "elevation_ft": 1164.2,
+    "elevation_m": 354.84816,
+    "pct_of_full_capacity": 88.1891271,
+    "month_nr": 2
+  },
+  {
+    "year": 1944,
+    "month": "Jan",
+    "elevation_ft": 1170.9,
+    "elevation_m": 356.89032,
+    "pct_of_full_capacity": 91.6117917,
+    "month_nr": 1
+  },
+  {
+    "year": 1944,
+    "month": "Jul",
+    "elevation_ft": 1199.55,
+    "elevation_m": 365.62284,
+    "pct_of_full_capacity": 106.546708,
+    "month_nr": 7
+  },
+  {
+    "year": 1944,
+    "month": "Jun",
+    "elevation_ft": 1194.85,
+    "elevation_m": 364.19028,
+    "pct_of_full_capacity": 103.966309,
+    "month_nr": 6
+  },
+  {
+    "year": 1944,
+    "month": "Mar",
+    "elevation_ft": 1158.4,
+    "elevation_m": 353.08032,
+    "pct_of_full_capacity": 85.4019908,
+    "month_nr": 3
+  },
+  {
+    "year": 1944,
+    "month": "May",
+    "elevation_ft": 1173.2,
+    "elevation_m": 357.59136,
+    "pct_of_full_capacity": 92.6225115,
+    "month_nr": 5
+  },
+  {
+    "year": 1944,
+    "month": "Nov",
+    "elevation_ft": 1174.55,
+    "elevation_m": 358.00284,
+    "pct_of_full_capacity": 93.3116386,
+    "month_nr": 11
+  },
+  {
+    "year": 1944,
+    "month": "Oct",
+    "elevation_ft": 1180.6,
+    "elevation_m": 359.84688,
+    "pct_of_full_capacity": 96.3973966,
+    "month_nr": 10
+  },
+  {
+    "year": 1944,
+    "month": "Sep",
+    "elevation_ft": 1187.1,
+    "elevation_m": 361.82808,
+    "pct_of_full_capacity": 99.8124043,
+    "month_nr": 9
+  },
+  {
+    "year": 1945,
+    "month": "Apr",
+    "elevation_ft": 1147.4,
+    "elevation_m": 349.72752,
+    "pct_of_full_capacity": 80.3139357,
+    "month_nr": 4
+  },
+  {
+    "year": 1945,
+    "month": "Aug",
+    "elevation_ft": 1177.95,
+    "elevation_m": 359.03916,
+    "pct_of_full_capacity": 97.1209801,
+    "month_nr": 8
+  },
+  {
+    "year": 1945,
+    "month": "Dec",
+    "elevation_ft": 1163.35,
+    "elevation_m": 354.58908,
+    "pct_of_full_capacity": 87.7718224,
+    "month_nr": 12
+  },
+  {
+    "year": 1945,
+    "month": "Feb",
+    "elevation_ft": 1155.75,
+    "elevation_m": 352.2726,
+    "pct_of_full_capacity": 84.1462481,
+    "month_nr": 2
+  },
+  {
+    "year": 1945,
+    "month": "Jan",
+    "elevation_ft": 1161.25,
+    "elevation_m": 353.949,
+    "pct_of_full_capacity": 86.7649311,
+    "month_nr": 1
+  },
+  {
+    "year": 1945,
+    "month": "Jul",
+    "elevation_ft": 1180.7,
+    "elevation_m": 359.87736,
+    "pct_of_full_capacity": 96.4433384,
+    "month_nr": 7
+  },
+  {
+    "year": 1945,
+    "month": "Jun",
+    "elevation_ft": 1174.55,
+    "elevation_m": 358.00284,
+    "pct_of_full_capacity": 93.3039816,
+    "month_nr": 6
+  },
+  {
+    "year": 1945,
+    "month": "Mar",
+    "elevation_ft": 1149.6,
+    "elevation_m": 350.39808,
+    "pct_of_full_capacity": 81.31317,
+    "month_nr": 3
+  },
+  {
+    "year": 1945,
+    "month": "May",
+    "elevation_ft": 1161.3,
+    "elevation_m": 353.96424,
+    "pct_of_full_capacity": 86.7764165,
+    "month_nr": 5
+  },
+  {
+    "year": 1945,
+    "month": "Nov",
+    "elevation_ft": 1168.95,
+    "elevation_m": 356.29596,
+    "pct_of_full_capacity": 90.5091884,
+    "month_nr": 11
+  },
+  {
+    "year": 1945,
+    "month": "Oct",
+    "elevation_ft": 1173.6,
+    "elevation_m": 357.71328,
+    "pct_of_full_capacity": 92.8330781,
+    "month_nr": 10
+  },
+  {
+    "year": 1945,
+    "month": "Sep",
+    "elevation_ft": 1177.95,
+    "elevation_m": 359.03916,
+    "pct_of_full_capacity": 95.0306279,
+    "month_nr": 9
+  },
+  {
+    "year": 1946,
+    "month": "Apr",
+    "elevation_ft": 1148.2,
+    "elevation_m": 349.97136,
+    "pct_of_full_capacity": 80.6661562,
+    "month_nr": 4
+  },
+  {
+    "year": 1946,
+    "month": "Aug",
+    "elevation_ft": 1161.25,
+    "elevation_m": 353.949,
+    "pct_of_full_capacity": 86.7611026,
+    "month_nr": 8
+  },
+  {
+    "year": 1946,
+    "month": "Dec",
+    "elevation_ft": 1148.55,
+    "elevation_m": 350.07804,
+    "pct_of_full_capacity": 80.8154671,
+    "month_nr": 12
+  },
+  {
+    "year": 1946,
+    "month": "Feb",
+    "elevation_ft": 1151.65,
+    "elevation_m": 351.02292,
+    "pct_of_full_capacity": 82.2358346,
+    "month_nr": 2
+  },
+  {
+    "year": 1946,
+    "month": "Jan",
+    "elevation_ft": 1157.55,
+    "elevation_m": 352.82124,
+    "pct_of_full_capacity": 84.9885145,
+    "month_nr": 1
+  },
+  {
+    "year": 1946,
+    "month": "Jul",
+    "elevation_ft": 1163.3,
+    "elevation_m": 354.57384,
+    "pct_of_full_capacity": 87.7833078,
+    "month_nr": 7
+  },
+  {
+    "year": 1946,
+    "month": "Jun",
+    "elevation_ft": 1163.95,
+    "elevation_m": 354.77196,
+    "pct_of_full_capacity": 88.0589587,
+    "month_nr": 6
+  },
+  {
+    "year": 1946,
+    "month": "Mar",
+    "elevation_ft": 1147.45,
+    "elevation_m": 349.74276,
+    "pct_of_full_capacity": 80.3330781,
+    "month_nr": 3
+  },
+  {
+    "year": 1946,
+    "month": "May",
+    "elevation_ft": 1155.15,
+    "elevation_m": 352.08972,
+    "pct_of_full_capacity": 83.8629403,
+    "month_nr": 5
+  },
+  {
+    "year": 1946,
+    "month": "Nov",
+    "elevation_ft": 1151.65,
+    "elevation_m": 351.02292,
+    "pct_of_full_capacity": 82.2511485,
+    "month_nr": 11
+  },
+  {
+    "year": 1946,
+    "month": "Oct",
+    "elevation_ft": 1153.9,
+    "elevation_m": 351.70872,
+    "pct_of_full_capacity": 83.2848392,
+    "month_nr": 10
+  },
+  {
+    "year": 1946,
+    "month": "Sep",
+    "elevation_ft": 1157.65,
+    "elevation_m": 352.85172,
+    "pct_of_full_capacity": 85.0421133,
+    "month_nr": 9
+  },
+  {
+    "year": 1947,
+    "month": "Apr",
+    "elevation_ft": 1134.49,
+    "elevation_m": 345.792552,
+    "pct_of_full_capacity": 74.6171516,
+    "month_nr": 4
+  },
+  {
+    "year": 1947,
+    "month": "Aug",
+    "elevation_ft": 1180.13,
+    "elevation_m": 359.703624,
+    "pct_of_full_capacity": 96.1562021,
+    "month_nr": 8
+  },
+  {
+    "year": 1947,
+    "month": "Dec",
+    "elevation_ft": 1170.58,
+    "elevation_m": 356.792784,
+    "pct_of_full_capacity": 91.31317,
+    "month_nr": 12
+  },
+  {
+    "year": 1947,
+    "month": "Feb",
+    "elevation_ft": 1133.1,
+    "elevation_m": 345.36888,
+    "pct_of_full_capacity": 76.1830015,
+    "month_nr": 2
+  },
+  {
+    "year": 1947,
+    "month": "Jan",
+    "elevation_ft": 1142.6,
+    "elevation_m": 348.26448,
+    "pct_of_full_capacity": 78.1546708,
+    "month_nr": 1
+  },
+  {
+    "year": 1947,
+    "month": "Jul",
+    "elevation_ft": 1177.18,
+    "elevation_m": 358.804464,
+    "pct_of_full_capacity": 94.6401225,
+    "month_nr": 7
+  },
+  {
+    "year": 1947,
+    "month": "Jun",
+    "elevation_ft": 1169.64,
+    "elevation_m": 356.506272,
+    "pct_of_full_capacity": 90.8460949,
+    "month_nr": 6
+  },
+  {
+    "year": 1947,
+    "month": "Mar",
+    "elevation_ft": 1135.38,
+    "elevation_m": 346.063824,
+    "pct_of_full_capacity": 75,
+    "month_nr": 3
+  },
+  {
+    "year": 1947,
+    "month": "May",
+    "elevation_ft": 1151.93,
+    "elevation_m": 351.108264,
+    "pct_of_full_capacity": 82.3698315,
+    "month_nr": 5
+  },
+  {
+    "year": 1947,
+    "month": "Nov",
+    "elevation_ft": 1175.24,
+    "elevation_m": 358.213152,
+    "pct_of_full_capacity": 93.6523737,
+    "month_nr": 11
+  },
+  {
+    "year": 1947,
+    "month": "Oct",
+    "elevation_ft": 1177.88,
+    "elevation_m": 359.017824,
+    "pct_of_full_capacity": 94.9961715,
+    "month_nr": 10
+  },
+  {
+    "year": 1947,
+    "month": "Sep",
+    "elevation_ft": 1178.02,
+    "elevation_m": 359.060496,
+    "pct_of_full_capacity": 95.0689127,
+    "month_nr": 9
+  },
+  {
+    "year": 1948,
+    "month": "Apr",
+    "elevation_ft": 1158.77,
+    "elevation_m": 353.193096,
+    "pct_of_full_capacity": 85.5704441,
+    "month_nr": 4
+  },
+  {
+    "year": 1948,
+    "month": "Aug",
+    "elevation_ft": 1186.95,
+    "elevation_m": 361.78236,
+    "pct_of_full_capacity": 99.7205207,
+    "month_nr": 8
+  },
+  {
+    "year": 1948,
+    "month": "Dec",
+    "elevation_ft": 1164.85,
+    "elevation_m": 355.04628,
+    "pct_of_full_capacity": 88.568147,
+    "month_nr": 12
+  },
+  {
+    "year": 1948,
+    "month": "Feb",
+    "elevation_ft": 1158.8,
+    "elevation_m": 353.20224,
+    "pct_of_full_capacity": 85.585758,
+    "month_nr": 2
+  },
+  {
+    "year": 1948,
+    "month": "Jan",
+    "elevation_ft": 1164.52,
+    "elevation_m": 354.945696,
+    "pct_of_full_capacity": 88.3346095,
+    "month_nr": 1
+  },
+  {
+    "year": 1948,
+    "month": "Jul",
+    "elevation_ft": 1190.32,
+    "elevation_m": 362.809536,
+    "pct_of_full_capacity": 101.512251,
+    "month_nr": 7
+  },
+  {
+    "year": 1948,
+    "month": "Jun",
+    "elevation_ft": 1192.15,
+    "elevation_m": 363.36732,
+    "pct_of_full_capacity": 102.503828,
+    "month_nr": 6
+  },
+  {
+    "year": 1948,
+    "month": "Mar",
+    "elevation_ft": 1154.51,
+    "elevation_m": 351.894648,
+    "pct_of_full_capacity": 83.5643185,
+    "month_nr": 3
+  },
+  {
+    "year": 1948,
+    "month": "May",
+    "elevation_ft": 1175.95,
+    "elevation_m": 358.42956,
+    "pct_of_full_capacity": 94.0122511,
+    "month_nr": 5
+  },
+  {
+    "year": 1948,
+    "month": "Nov",
+    "elevation_ft": 1170.91,
+    "elevation_m": 356.893368,
+    "pct_of_full_capacity": 91.550536,
+    "month_nr": 11
+  },
+  {
+    "year": 1948,
+    "month": "Oct",
+    "elevation_ft": 1175.89,
+    "elevation_m": 358.411272,
+    "pct_of_full_capacity": 94.0352221,
+    "month_nr": 10
+  },
+  {
+    "year": 1948,
+    "month": "Sep",
+    "elevation_ft": 1180.82,
+    "elevation_m": 359.913936,
+    "pct_of_full_capacity": 96.5122511,
+    "month_nr": 9
+  },
+  {
+    "year": 1949,
+    "month": "Apr",
+    "elevation_ft": 1148.28,
+    "elevation_m": 349.995744,
+    "pct_of_full_capacity": 80.6891271,
+    "month_nr": 4
+  },
+  {
+    "year": 1949,
+    "month": "Aug",
+    "elevation_ft": 1193.17,
+    "elevation_m": 363.678216,
+    "pct_of_full_capacity": 103.05513,
+    "month_nr": 8
+  },
+  {
+    "year": 1949,
+    "month": "Dec",
+    "elevation_ft": 1170.06,
+    "elevation_m": 356.634288,
+    "pct_of_full_capacity": 76.2136294,
+    "month_nr": 12
+  },
+  {
+    "year": 1949,
+    "month": "Feb",
+    "elevation_ft": 1150.99,
+    "elevation_m": 350.821752,
+    "pct_of_full_capacity": 81.9410413,
+    "month_nr": 2
+  },
+  {
+    "year": 1949,
+    "month": "Jan",
+    "elevation_ft": 1158.04,
+    "elevation_m": 352.970592,
+    "pct_of_full_capacity": 85.2258806,
+    "month_nr": 1
+  },
+  {
+    "year": 1949,
+    "month": "Jul",
+    "elevation_ft": 1196.61,
+    "elevation_m": 364.726728,
+    "pct_of_full_capacity": 104.934916,
+    "month_nr": 7
+  },
+  {
+    "year": 1949,
+    "month": "Jun",
+    "elevation_ft": 1189.07,
+    "elevation_m": 362.428536,
+    "pct_of_full_capacity": 100.834609,
+    "month_nr": 6
+  },
+  {
+    "year": 1949,
+    "month": "Mar",
+    "elevation_ft": 1147.17,
+    "elevation_m": 349.657416,
+    "pct_of_full_capacity": 80.1761103,
+    "month_nr": 3
+  },
+  {
+    "year": 1949,
+    "month": "May",
+    "elevation_ft": 1164.51,
+    "elevation_m": 354.942648,
+    "pct_of_full_capacity": 88.2924962,
+    "month_nr": 5
+  },
+  {
+    "year": 1949,
+    "month": "Nov",
+    "elevation_ft": 1176.93,
+    "elevation_m": 358.728264,
+    "pct_of_full_capacity": 79.5788668,
+    "month_nr": 11
+  },
+  {
+    "year": 1949,
+    "month": "Oct",
+    "elevation_ft": 1181.19,
+    "elevation_m": 360.026712,
+    "pct_of_full_capacity": 81.7228178,
+    "month_nr": 10
+  },
+  {
+    "year": 1949,
+    "month": "Sep",
+    "elevation_ft": 1186.86,
+    "elevation_m": 361.754928,
+    "pct_of_full_capacity": 99.6707504,
+    "month_nr": 9
+  },
+  {
+    "year": 1950,
+    "month": "Apr",
+    "elevation_ft": 1152.13,
+    "elevation_m": 351.169224,
+    "pct_of_full_capacity": 67.8790199,
+    "month_nr": 4
+  },
+  {
+    "year": 1950,
+    "month": "Aug",
+    "elevation_ft": 1173.36,
+    "elevation_m": 357.640128,
+    "pct_of_full_capacity": 77.8215926,
+    "month_nr": 8
+  },
+  {
+    "year": 1950,
+    "month": "Dec",
+    "elevation_ft": 1156.62,
+    "elevation_m": 352.537776,
+    "pct_of_full_capacity": 69.9042879,
+    "month_nr": 12
+  },
+  {
+    "year": 1950,
+    "month": "Feb",
+    "elevation_ft": 1156.7,
+    "elevation_m": 352.56216,
+    "pct_of_full_capacity": 69.9387443,
+    "month_nr": 2
+  },
+  {
+    "year": 1950,
+    "month": "Jan",
+    "elevation_ft": 1163.4,
+    "elevation_m": 354.60432,
+    "pct_of_full_capacity": 72.5918836,
+    "month_nr": 1
+  },
+  {
+    "year": 1950,
+    "month": "Jul",
+    "elevation_ft": 1177.15,
+    "elevation_m": 358.79532,
+    "pct_of_full_capacity": 79.6745789,
+    "month_nr": 7
+  },
+  {
+    "year": 1950,
+    "month": "Jun",
+    "elevation_ft": 1173.95,
+    "elevation_m": 357.81996,
+    "pct_of_full_capacity": 80.3866769,
+    "month_nr": 6
+  },
+  {
+    "year": 1950,
+    "month": "Mar",
+    "elevation_ft": 1151.75,
+    "elevation_m": 351.0534,
+    "pct_of_full_capacity": 67.7105666,
+    "month_nr": 3
+  },
+  {
+    "year": 1950,
+    "month": "May",
+    "elevation_ft": 1158.57,
+    "elevation_m": 353.132136,
+    "pct_of_full_capacity": 70.7924962,
+    "month_nr": 5
+  },
+  {
+    "year": 1950,
+    "month": "Nov",
+    "elevation_ft": 1160.19,
+    "elevation_m": 353.625912,
+    "pct_of_full_capacity": 71.5390505,
+    "month_nr": 11
+  },
+  {
+    "year": 1950,
+    "month": "Oct",
+    "elevation_ft": 1164.43,
+    "elevation_m": 354.918264,
+    "pct_of_full_capacity": 73.5107198,
+    "month_nr": 10
+  },
+  {
+    "year": 1950,
+    "month": "Sep",
+    "elevation_ft": 1168.77,
+    "elevation_m": 356.241096,
+    "pct_of_full_capacity": 75.6163859,
+    "month_nr": 9
+  },
+  {
+    "year": 1951,
+    "month": "Apr",
+    "elevation_ft": 1141.34,
+    "elevation_m": 347.880432,
+    "pct_of_full_capacity": 63.1699847,
+    "month_nr": 4
+  },
+  {
+    "year": 1951,
+    "month": "Aug",
+    "elevation_ft": 1167,
+    "elevation_m": 355.7016,
+    "pct_of_full_capacity": 74.7243492,
+    "month_nr": 8
+  },
+  {
+    "year": 1951,
+    "month": "Dec",
+    "elevation_ft": 1153.12,
+    "elevation_m": 351.470976,
+    "pct_of_full_capacity": 68.323124,
+    "month_nr": 12
+  },
+  {
+    "year": 1951,
+    "month": "Feb",
+    "elevation_ft": 1168.02,
+    "elevation_m": 356.012496,
+    "pct_of_full_capacity": 66.06049,
+    "month_nr": 2
+  },
+  {
+    "year": 1951,
+    "month": "Jan",
+    "elevation_ft": 1151.47,
+    "elevation_m": 350.968056,
+    "pct_of_full_capacity": 67.5880551,
+    "month_nr": 1
+  },
+  {
+    "year": 1951,
+    "month": "Jul",
+    "elevation_ft": 1168.19,
+    "elevation_m": 356.064312,
+    "pct_of_full_capacity": 75.2794793,
+    "month_nr": 7
+  },
+  {
+    "year": 1951,
+    "month": "Jun",
+    "elevation_ft": 1163.53,
+    "elevation_m": 354.643944,
+    "pct_of_full_capacity": 73.0895865,
+    "month_nr": 6
+  },
+  {
+    "year": 1951,
+    "month": "Mar",
+    "elevation_ft": 1144.07,
+    "elevation_m": 348.712536,
+    "pct_of_full_capacity": 64.3415008,
+    "month_nr": 3
+  },
+  {
+    "year": 1951,
+    "month": "May",
+    "elevation_ft": 1146.16,
+    "elevation_m": 349.349568,
+    "pct_of_full_capacity": 65.2488515,
+    "month_nr": 5
+  },
+  {
+    "year": 1951,
+    "month": "Nov",
+    "elevation_ft": 1157.25,
+    "elevation_m": 352.7298,
+    "pct_of_full_capacity": 70.1914242,
+    "month_nr": 11
+  },
+  {
+    "year": 1951,
+    "month": "Oct",
+    "elevation_ft": 1160.42,
+    "elevation_m": 353.696016,
+    "pct_of_full_capacity": 71.6424196,
+    "month_nr": 10
+  },
+  {
+    "year": 1951,
+    "month": "Sep",
+    "elevation_ft": 1163.75,
+    "elevation_m": 354.711,
+    "pct_of_full_capacity": 73.1929556,
+    "month_nr": 9
+  },
+  {
+    "year": 1952,
+    "month": "Apr",
+    "elevation_ft": 1141.96,
+    "elevation_m": 348.069408,
+    "pct_of_full_capacity": 63.4379786,
+    "month_nr": 4
+  },
+  {
+    "year": 1952,
+    "month": "Aug",
+    "elevation_ft": 1195.74,
+    "elevation_m": 364.461552,
+    "pct_of_full_capacity": 89.406585,
+    "month_nr": 8
+  },
+  {
+    "year": 1952,
+    "month": "Dec",
+    "elevation_ft": 1169.1,
+    "elevation_m": 356.34168,
+    "pct_of_full_capacity": 75.7388974,
+    "month_nr": 12
+  },
+  {
+    "year": 1952,
+    "month": "Feb",
+    "elevation_ft": 1143,
+    "elevation_m": 348.3864,
+    "pct_of_full_capacity": 63.4532925,
+    "month_nr": 2
+  },
+  {
+    "year": 1952,
+    "month": "Jan",
+    "elevation_ft": 1149.06,
+    "elevation_m": 350.233488,
+    "pct_of_full_capacity": 66.5199081,
+    "month_nr": 1
+  },
+  {
+    "year": 1952,
+    "month": "Jul",
+    "elevation_ft": 1199.88,
+    "elevation_m": 365.723424,
+    "pct_of_full_capacity": 91.676876,
+    "month_nr": 7
+  },
+  {
+    "year": 1952,
+    "month": "Jun",
+    "elevation_ft": 1198.06,
+    "elevation_m": 365.168688,
+    "pct_of_full_capacity": 90.6699847,
+    "month_nr": 6
+  },
+  {
+    "year": 1952,
+    "month": "Mar",
+    "elevation_ft": 1133.99,
+    "elevation_m": 345.640152,
+    "pct_of_full_capacity": 60.0727412,
+    "month_nr": 3
+  },
+  {
+    "year": 1952,
+    "month": "May",
+    "elevation_ft": 1171.53,
+    "elevation_m": 357.082344,
+    "pct_of_full_capacity": 76.898928,
+    "month_nr": 5
+  },
+  {
+    "year": 1952,
+    "month": "Nov",
+    "elevation_ft": 1176.39,
+    "elevation_m": 358.563672,
+    "pct_of_full_capacity": 79.3376723,
+    "month_nr": 11
+  },
+  {
+    "year": 1952,
+    "month": "Oct",
+    "elevation_ft": 1183.13,
+    "elevation_m": 360.618024,
+    "pct_of_full_capacity": 82.745023,
+    "month_nr": 10
+  },
+  {
+    "year": 1952,
+    "month": "Sep",
+    "elevation_ft": 1190,
+    "elevation_m": 362.712,
+    "pct_of_full_capacity": 86.305513,
+    "month_nr": 9
+  },
+  {
+    "year": 1953,
+    "month": "Apr",
+    "elevation_ft": 1148.4,
+    "elevation_m": 350.03232,
+    "pct_of_full_capacity": 66.2289433,
+    "month_nr": 4
+  },
+  {
+    "year": 1953,
+    "month": "Aug",
+    "elevation_ft": 1163.38,
+    "elevation_m": 354.598224,
+    "pct_of_full_capacity": 73.0168453,
+    "month_nr": 8
+  },
+  {
+    "year": 1953,
+    "month": "Dec",
+    "elevation_ft": 1145.78,
+    "elevation_m": 349.233744,
+    "pct_of_full_capacity": 65.0842266,
+    "month_nr": 12
+  },
+  {
+    "year": 1953,
+    "month": "Feb",
+    "elevation_ft": 1157.12,
+    "elevation_m": 352.690176,
+    "pct_of_full_capacity": 70.1301685,
+    "month_nr": 2
+  },
+  {
+    "year": 1953,
+    "month": "Jan",
+    "elevation_ft": 1162.56,
+    "elevation_m": 354.348288,
+    "pct_of_full_capacity": 72.6339969,
+    "month_nr": 1
+  },
+  {
+    "year": 1953,
+    "month": "Jul",
+    "elevation_ft": 1165.87,
+    "elevation_m": 355.357176,
+    "pct_of_full_capacity": 74.1462481,
+    "month_nr": 7
+  },
+  {
+    "year": 1953,
+    "month": "Jun",
+    "elevation_ft": 1165.11,
+    "elevation_m": 355.125528,
+    "pct_of_full_capacity": 73.8016845,
+    "month_nr": 6
+  },
+  {
+    "year": 1953,
+    "month": "Mar",
+    "elevation_ft": 1152.42,
+    "elevation_m": 351.257616,
+    "pct_of_full_capacity": 68.0091884,
+    "month_nr": 3
+  },
+  {
+    "year": 1953,
+    "month": "May",
+    "elevation_ft": 1147.33,
+    "elevation_m": 349.706184,
+    "pct_of_full_capacity": 65.7618683,
+    "month_nr": 5
+  },
+  {
+    "year": 1953,
+    "month": "Nov",
+    "elevation_ft": 1150.06,
+    "elevation_m": 350.538288,
+    "pct_of_full_capacity": 67.0520674,
+    "month_nr": 11
+  },
+  {
+    "year": 1953,
+    "month": "Oct",
+    "elevation_ft": 1152.99,
+    "elevation_m": 351.431352,
+    "pct_of_full_capacity": 68.2886677,
+    "month_nr": 10
+  },
+  {
+    "year": 1953,
+    "month": "Sep",
+    "elevation_ft": 1157.67,
+    "elevation_m": 352.857816,
+    "pct_of_full_capacity": 70.3828484,
+    "month_nr": 9
+  },
+  {
+    "year": 1954,
+    "month": "Apr",
+    "elevation_ft": 1130.26,
+    "elevation_m": 344.503248,
+    "pct_of_full_capacity": 58.5336907,
+    "month_nr": 4
+  },
+  {
+    "year": 1954,
+    "month": "Aug",
+    "elevation_ft": 1120.82,
+    "elevation_m": 341.625936,
+    "pct_of_full_capacity": 54.7243492,
+    "month_nr": 8
+  },
+  {
+    "year": 1954,
+    "month": "Dec",
+    "elevation_ft": 1105.4,
+    "elevation_m": 336.92592,
+    "pct_of_full_capacity": 48.8437979,
+    "month_nr": 12
+  },
+  {
+    "year": 1954,
+    "month": "Feb",
+    "elevation_ft": 1138.22,
+    "elevation_m": 346.929456,
+    "pct_of_full_capacity": 61.8453292,
+    "month_nr": 2
+  },
+  {
+    "year": 1954,
+    "month": "Jan",
+    "elevation_ft": 1141.44,
+    "elevation_m": 347.910912,
+    "pct_of_full_capacity": 63.212098,
+    "month_nr": 1
+  },
+  {
+    "year": 1954,
+    "month": "Jul",
+    "elevation_ft": 1126.25,
+    "elevation_m": 343.281,
+    "pct_of_full_capacity": 56.898928,
+    "month_nr": 7
+  },
+  {
+    "year": 1954,
+    "month": "Jun",
+    "elevation_ft": 1129.88,
+    "elevation_m": 344.387424,
+    "pct_of_full_capacity": 58.3767228,
+    "month_nr": 6
+  },
+  {
+    "year": 1954,
+    "month": "Mar",
+    "elevation_ft": 1134.08,
+    "elevation_m": 345.667584,
+    "pct_of_full_capacity": 60.111026,
+    "month_nr": 3
+  },
+  {
+    "year": 1954,
+    "month": "May",
+    "elevation_ft": 1130.76,
+    "elevation_m": 344.655648,
+    "pct_of_full_capacity": 58.7366003,
+    "month_nr": 5
+  },
+  {
+    "year": 1954,
+    "month": "Nov",
+    "elevation_ft": 1109.74,
+    "elevation_m": 338.248752,
+    "pct_of_full_capacity": 50.4402757,
+    "month_nr": 11
+  },
+  {
+    "year": 1954,
+    "month": "Oct",
+    "elevation_ft": 1112.9,
+    "elevation_m": 339.21192,
+    "pct_of_full_capacity": 51.6424196,
+    "month_nr": 10
+  },
+  {
+    "year": 1954,
+    "month": "Sep",
+    "elevation_ft": 1115.39,
+    "elevation_m": 339.970872,
+    "pct_of_full_capacity": 52.5995406,
+    "month_nr": 9
+  },
+  {
+    "year": 1955,
+    "month": "Apr",
+    "elevation_ft": 1089.72,
+    "elevation_m": 332.146656,
+    "pct_of_full_capacity": 43.1508423,
+    "month_nr": 4
+  },
+  {
+    "year": 1955,
+    "month": "Aug",
+    "elevation_ft": 1102.78,
+    "elevation_m": 336.127344,
+    "pct_of_full_capacity": 47.8177642,
+    "month_nr": 8
+  },
+  {
+    "year": 1955,
+    "month": "Dec",
+    "elevation_ft": 1090.99,
+    "elevation_m": 332.533752,
+    "pct_of_full_capacity": 43.6408882,
+    "month_nr": 12
+  },
+  {
+    "year": 1955,
+    "month": "Feb",
+    "elevation_ft": 1096.14,
+    "elevation_m": 334.103472,
+    "pct_of_full_capacity": 45.4402757,
+    "month_nr": 2
+  },
+  {
+    "year": 1955,
+    "month": "Jan",
+    "elevation_ft": 1100.77,
+    "elevation_m": 335.514696,
+    "pct_of_full_capacity": 47.1094946,
+    "month_nr": 1
+  },
+  {
+    "year": 1955,
+    "month": "Jul",
+    "elevation_ft": 1103.65,
+    "elevation_m": 336.39252,
+    "pct_of_full_capacity": 48.101072,
+    "month_nr": 7
+  },
+  {
+    "year": 1955,
+    "month": "Jun",
+    "elevation_ft": 1105.91,
+    "elevation_m": 337.081368,
+    "pct_of_full_capacity": 48.9701378,
+    "month_nr": 6
+  },
+  {
+    "year": 1955,
+    "month": "Mar",
+    "elevation_ft": 1092.85,
+    "elevation_m": 333.10068,
+    "pct_of_full_capacity": 44.2496172,
+    "month_nr": 3
+  },
+  {
+    "year": 1955,
+    "month": "May",
+    "elevation_ft": 1095.9,
+    "elevation_m": 334.03032,
+    "pct_of_full_capacity": 45.3139357,
+    "month_nr": 5
+  },
+  {
+    "year": 1955,
+    "month": "Nov",
+    "elevation_ft": 1092.63,
+    "elevation_m": 333.033624,
+    "pct_of_full_capacity": 44.2151608,
+    "month_nr": 11
+  },
+  {
+    "year": 1955,
+    "month": "Oct",
+    "elevation_ft": 1095.11,
+    "elevation_m": 333.789528,
+    "pct_of_full_capacity": 45.0727412,
+    "month_nr": 10
+  },
+  {
+    "year": 1955,
+    "month": "Sep",
+    "elevation_ft": 1098.5,
+    "elevation_m": 334.8228,
+    "pct_of_full_capacity": 46.2863706,
+    "month_nr": 9
+  },
+  {
+    "year": 1956,
+    "month": "Apr",
+    "elevation_ft": 1083.81,
+    "elevation_m": 330.345288,
+    "pct_of_full_capacity": 41.1485452,
+    "month_nr": 4
+  },
+  {
+    "year": 1956,
+    "month": "Aug",
+    "elevation_ft": 1110.66,
+    "elevation_m": 338.529168,
+    "pct_of_full_capacity": 50.7886677,
+    "month_nr": 8
+  },
+  {
+    "year": 1956,
+    "month": "Dec",
+    "elevation_ft": 1097.02,
+    "elevation_m": 334.371696,
+    "pct_of_full_capacity": 45.8460949,
+    "month_nr": 12
+  },
+  {
+    "year": 1956,
+    "month": "Feb",
+    "elevation_ft": 1087.06,
+    "elevation_m": 331.335888,
+    "pct_of_full_capacity": 42.2588055,
+    "month_nr": 2
+  },
+  {
+    "year": 1956,
+    "month": "Jan",
+    "elevation_ft": 1089.2,
+    "elevation_m": 331.98816,
+    "pct_of_full_capacity": 42.9977029,
+    "month_nr": 1
+  },
+  {
+    "year": 1956,
+    "month": "Jul",
+    "elevation_ft": 1114.58,
+    "elevation_m": 339.723984,
+    "pct_of_full_capacity": 52.2166922,
+    "month_nr": 7
+  },
+  {
+    "year": 1956,
+    "month": "Jun",
+    "elevation_ft": 1116.62,
+    "elevation_m": 340.345776,
+    "pct_of_full_capacity": 53.0245023,
+    "month_nr": 6
+  },
+  {
+    "year": 1956,
+    "month": "Mar",
+    "elevation_ft": 1083.57,
+    "elevation_m": 330.272136,
+    "pct_of_full_capacity": 41.0413476,
+    "month_nr": 3
+  },
+  {
+    "year": 1956,
+    "month": "May",
+    "elevation_ft": 1098,
+    "elevation_m": 334.6704,
+    "pct_of_full_capacity": 46.1064319,
+    "month_nr": 5
+  },
+  {
+    "year": 1956,
+    "month": "Nov",
+    "elevation_ft": 1099.14,
+    "elevation_m": 335.017872,
+    "pct_of_full_capacity": 46.5926493,
+    "month_nr": 11
+  },
+  {
+    "year": 1956,
+    "month": "Oct",
+    "elevation_ft": 1102.05,
+    "elevation_m": 335.90484,
+    "pct_of_full_capacity": 47.6301685,
+    "month_nr": 10
+  },
+  {
+    "year": 1956,
+    "month": "Sep",
+    "elevation_ft": 1105.76,
+    "elevation_m": 337.035648,
+    "pct_of_full_capacity": 48.9701378,
+    "month_nr": 9
+  },
+  {
+    "year": 1957,
+    "month": "Apr",
+    "elevation_ft": 1091,
+    "elevation_m": 332.5368,
+    "pct_of_full_capacity": 43.6255743,
+    "month_nr": 4
+  },
+  {
+    "year": 1957,
+    "month": "Aug",
+    "elevation_ft": 1182.34,
+    "elevation_m": 360.377232,
+    "pct_of_full_capacity": 82.3047473,
+    "month_nr": 8
+  },
+  {
+    "year": 1957,
+    "month": "Dec",
+    "elevation_ft": 1177.39,
+    "elevation_m": 358.868472,
+    "pct_of_full_capacity": 79.87366,
+    "month_nr": 12
+  },
+  {
+    "year": 1957,
+    "month": "Feb",
+    "elevation_ft": 1094.32,
+    "elevation_m": 333.548736,
+    "pct_of_full_capacity": 44.7932619,
+    "month_nr": 2
+  },
+  {
+    "year": 1957,
+    "month": "Jan",
+    "elevation_ft": 1095.05,
+    "elevation_m": 333.77124,
+    "pct_of_full_capacity": 45.0535988,
+    "month_nr": 1
+  },
+  {
+    "year": 1957,
+    "month": "Jul",
+    "elevation_ft": 1176.08,
+    "elevation_m": 358.469184,
+    "pct_of_full_capacity": 79.0849923,
+    "month_nr": 7
+  },
+  {
+    "year": 1957,
+    "month": "Jun",
+    "elevation_ft": 1150.81,
+    "elevation_m": 350.766888,
+    "pct_of_full_capacity": 67.2664625,
+    "month_nr": 6
+  },
+  {
+    "year": 1957,
+    "month": "Mar",
+    "elevation_ft": 1092.24,
+    "elevation_m": 332.914752,
+    "pct_of_full_capacity": 44.0352221,
+    "month_nr": 3
+  },
+  {
+    "year": 1957,
+    "month": "May",
+    "elevation_ft": 1109.31,
+    "elevation_m": 338.117688,
+    "pct_of_full_capacity": 50.2794793,
+    "month_nr": 5
+  },
+  {
+    "year": 1957,
+    "month": "Nov",
+    "elevation_ft": 1181.61,
+    "elevation_m": 360.154728,
+    "pct_of_full_capacity": 81.9869832,
+    "month_nr": 11
+  },
+  {
+    "year": 1957,
+    "month": "Oct",
+    "elevation_ft": 1182.5,
+    "elevation_m": 360.426,
+    "pct_of_full_capacity": 82.4310873,
+    "month_nr": 10
+  },
+  {
+    "year": 1957,
+    "month": "Sep",
+    "elevation_ft": 1182.52,
+    "elevation_m": 360.432096,
+    "pct_of_full_capacity": 82.3966309,
+    "month_nr": 9
+  },
+  {
+    "year": 1958,
+    "month": "Apr",
+    "elevation_ft": 1164.61,
+    "elevation_m": 354.973128,
+    "pct_of_full_capacity": 73.5949464,
+    "month_nr": 4
+  },
+  {
+    "year": 1958,
+    "month": "Aug",
+    "elevation_ft": 1198.97,
+    "elevation_m": 365.446056,
+    "pct_of_full_capacity": 91.1715161,
+    "month_nr": 8
+  },
+  {
+    "year": 1958,
+    "month": "Dec",
+    "elevation_ft": 1185.85,
+    "elevation_m": 361.44708,
+    "pct_of_full_capacity": 84.1539051,
+    "month_nr": 12
+  },
+  {
+    "year": 1958,
+    "month": "Feb",
+    "elevation_ft": 1168.56,
+    "elevation_m": 356.177088,
+    "pct_of_full_capacity": 75.467075,
+    "month_nr": 2
+  },
+  {
+    "year": 1958,
+    "month": "Jan",
+    "elevation_ft": 1170.95,
+    "elevation_m": 356.90556,
+    "pct_of_full_capacity": 76.6194487,
+    "month_nr": 1
+  },
+  {
+    "year": 1958,
+    "month": "Jul",
+    "elevation_ft": 1203.39,
+    "elevation_m": 366.793272,
+    "pct_of_full_capacity": 93.6370597,
+    "month_nr": 7
+  },
+  {
+    "year": 1958,
+    "month": "Jun",
+    "elevation_ft": 1205.43,
+    "elevation_m": 367.415064,
+    "pct_of_full_capacity": 94.7932619,
+    "month_nr": 6
+  },
+  {
+    "year": 1958,
+    "month": "Mar",
+    "elevation_ft": 1163.64,
+    "elevation_m": 354.677472,
+    "pct_of_full_capacity": 73.093415,
+    "month_nr": 3
+  },
+  {
+    "year": 1958,
+    "month": "May",
+    "elevation_ft": 1185.52,
+    "elevation_m": 361.346496,
+    "pct_of_full_capacity": 83.8705972,
+    "month_nr": 5
+  },
+  {
+    "year": 1958,
+    "month": "Nov",
+    "elevation_ft": 1189.59,
+    "elevation_m": 362.587032,
+    "pct_of_full_capacity": 86.0949464,
+    "month_nr": 11
+  },
+  {
+    "year": 1958,
+    "month": "Oct",
+    "elevation_ft": 1192.45,
+    "elevation_m": 363.45876,
+    "pct_of_full_capacity": 87.6531394,
+    "month_nr": 10
+  },
+  {
+    "year": 1958,
+    "month": "Sep",
+    "elevation_ft": 1195.57,
+    "elevation_m": 364.409736,
+    "pct_of_full_capacity": 89.3032159,
+    "month_nr": 9
+  },
+  {
+    "year": 1959,
+    "month": "Apr",
+    "elevation_ft": 1172.83,
+    "elevation_m": 357.478584,
+    "pct_of_full_capacity": 77.4502297,
+    "month_nr": 4
+  },
+  {
+    "year": 1959,
+    "month": "Aug",
+    "elevation_ft": 1175.65,
+    "elevation_m": 358.33812,
+    "pct_of_full_capacity": 78.931853,
+    "month_nr": 8
+  },
+  {
+    "year": 1959,
+    "month": "Dec",
+    "elevation_ft": 1167.28,
+    "elevation_m": 355.786944,
+    "pct_of_full_capacity": 74.7856049,
+    "month_nr": 12
+  },
+  {
+    "year": 1959,
+    "month": "Feb",
+    "elevation_ft": 1182.03,
+    "elevation_m": 360.282744,
+    "pct_of_full_capacity": 81.1408882,
+    "month_nr": 2
+  },
+  {
+    "year": 1959,
+    "month": "Jan",
+    "elevation_ft": 1182.31,
+    "elevation_m": 360.368088,
+    "pct_of_full_capacity": 82.3698315,
+    "month_nr": 1
+  },
+  {
+    "year": 1959,
+    "month": "Jul",
+    "elevation_ft": 1179.27,
+    "elevation_m": 359.441496,
+    "pct_of_full_capacity": 80.7656968,
+    "month_nr": 7
+  },
+  {
+    "year": 1959,
+    "month": "Jun",
+    "elevation_ft": 1179.84,
+    "elevation_m": 359.615232,
+    "pct_of_full_capacity": 81.0451761,
+    "month_nr": 6
+  },
+  {
+    "year": 1959,
+    "month": "Mar",
+    "elevation_ft": 1176.6,
+    "elevation_m": 358.62768,
+    "pct_of_full_capacity": 79.3836141,
+    "month_nr": 3
+  },
+  {
+    "year": 1959,
+    "month": "May",
+    "elevation_ft": 1172.59,
+    "elevation_m": 357.405432,
+    "pct_of_full_capacity": 77.4119449,
+    "month_nr": 5
+  },
+  {
+    "year": 1959,
+    "month": "Nov",
+    "elevation_ft": 1168.85,
+    "elevation_m": 356.26548,
+    "pct_of_full_capacity": 75.5283308,
+    "month_nr": 11
+  },
+  {
+    "year": 1959,
+    "month": "Oct",
+    "elevation_ft": 1169.35,
+    "elevation_m": 356.41788,
+    "pct_of_full_capacity": 75.8575804,
+    "month_nr": 10
+  },
+  {
+    "year": 1959,
+    "month": "Sep",
+    "elevation_ft": 1171.13,
+    "elevation_m": 356.960424,
+    "pct_of_full_capacity": 76.7075038,
+    "month_nr": 9
+  },
+  {
+    "year": 1960,
+    "month": "Apr",
+    "elevation_ft": 1169.94,
+    "elevation_m": 356.597712,
+    "pct_of_full_capacity": 76.0949464,
+    "month_nr": 4
+  },
+  {
+    "year": 1960,
+    "month": "Aug",
+    "elevation_ft": 1175.25,
+    "elevation_m": 358.2162,
+    "pct_of_full_capacity": 78.702144,
+    "month_nr": 8
+  },
+  {
+    "year": 1960,
+    "month": "Dec",
+    "elevation_ft": 1165.12,
+    "elevation_m": 355.128576,
+    "pct_of_full_capacity": 73.8667688,
+    "month_nr": 12
+  },
+  {
+    "year": 1960,
+    "month": "Feb",
+    "elevation_ft": 1163.78,
+    "elevation_m": 354.720144,
+    "pct_of_full_capacity": 73.2159265,
+    "month_nr": 2
+  },
+  {
+    "year": 1960,
+    "month": "Jan",
+    "elevation_ft": 1165.09,
+    "elevation_m": 355.119432,
+    "pct_of_full_capacity": 73.8246554,
+    "month_nr": 1
+  },
+  {
+    "year": 1960,
+    "month": "Jul",
+    "elevation_ft": 1181.32,
+    "elevation_m": 360.066336,
+    "pct_of_full_capacity": 81.7725881,
+    "month_nr": 7
+  },
+  {
+    "year": 1960,
+    "month": "Jun",
+    "elevation_ft": 1183.71,
+    "elevation_m": 360.794808,
+    "pct_of_full_capacity": 82.9709035,
+    "month_nr": 6
+  },
+  {
+    "year": 1960,
+    "month": "Mar",
+    "elevation_ft": 1164.26,
+    "elevation_m": 354.866448,
+    "pct_of_full_capacity": 73.3958652,
+    "month_nr": 3
+  },
+  {
+    "year": 1960,
+    "month": "May",
+    "elevation_ft": 1175.09,
+    "elevation_m": 358.167432,
+    "pct_of_full_capacity": 78.6255743,
+    "month_nr": 5
+  },
+  {
+    "year": 1960,
+    "month": "Nov",
+    "elevation_ft": 1167.46,
+    "elevation_m": 355.841808,
+    "pct_of_full_capacity": 74.9655436,
+    "month_nr": 11
+  },
+  {
+    "year": 1960,
+    "month": "Oct",
+    "elevation_ft": 1168.47,
+    "elevation_m": 356.149656,
+    "pct_of_full_capacity": 75.4479326,
+    "month_nr": 10
+  },
+  {
+    "year": 1960,
+    "month": "Sep",
+    "elevation_ft": 1170.36,
+    "elevation_m": 356.725728,
+    "pct_of_full_capacity": 76.3399694,
+    "month_nr": 9
+  },
+  {
+    "year": 1961,
+    "month": "Apr",
+    "elevation_ft": 1153.56,
+    "elevation_m": 351.605088,
+    "pct_of_full_capacity": 68.4724349,
+    "month_nr": 4
+  },
+  {
+    "year": 1961,
+    "month": "Aug",
+    "elevation_ft": 1154.05,
+    "elevation_m": 351.75444,
+    "pct_of_full_capacity": 68.7633997,
+    "month_nr": 8
+  },
+  {
+    "year": 1961,
+    "month": "Dec",
+    "elevation_ft": 1154.64,
+    "elevation_m": 351.934272,
+    "pct_of_full_capacity": 69.0007657,
+    "month_nr": 12
+  },
+  {
+    "year": 1961,
+    "month": "Feb",
+    "elevation_ft": 1160.75,
+    "elevation_m": 353.7966,
+    "pct_of_full_capacity": 71.8032159,
+    "month_nr": 2
+  },
+  {
+    "year": 1961,
+    "month": "Jan",
+    "elevation_ft": 1162.67,
+    "elevation_m": 354.381816,
+    "pct_of_full_capacity": 72.6569678,
+    "month_nr": 1
+  },
+  {
+    "year": 1961,
+    "month": "Jul",
+    "elevation_ft": 1157.62,
+    "elevation_m": 352.842576,
+    "pct_of_full_capacity": 70.3675345,
+    "month_nr": 7
+  },
+  {
+    "year": 1961,
+    "month": "Jun",
+    "elevation_ft": 1161.19,
+    "elevation_m": 353.930712,
+    "pct_of_full_capacity": 72.0137825,
+    "month_nr": 6
+  },
+  {
+    "year": 1961,
+    "month": "Mar",
+    "elevation_ft": 1156.19,
+    "elevation_m": 352.406712,
+    "pct_of_full_capacity": 69.7243492,
+    "month_nr": 3
+  },
+  {
+    "year": 1961,
+    "month": "May",
+    "elevation_ft": 1154.45,
+    "elevation_m": 351.87636,
+    "pct_of_full_capacity": 68.8629403,
+    "month_nr": 5
+  },
+  {
+    "year": 1961,
+    "month": "Nov",
+    "elevation_ft": 1155.22,
+    "elevation_m": 352.111056,
+    "pct_of_full_capacity": 69.2725881,
+    "month_nr": 11
+  },
+  {
+    "year": 1961,
+    "month": "Oct",
+    "elevation_ft": 1155.15,
+    "elevation_m": 352.08972,
+    "pct_of_full_capacity": 69.2419602,
+    "month_nr": 10
+  },
+  {
+    "year": 1961,
+    "month": "Sep",
+    "elevation_ft": 1153.74,
+    "elevation_m": 351.659952,
+    "pct_of_full_capacity": 68.6370597,
+    "month_nr": 9
+  },
+  {
+    "year": 1962,
+    "month": "Apr",
+    "elevation_ft": 1165.75,
+    "elevation_m": 355.3206,
+    "pct_of_full_capacity": 74.1079632,
+    "month_nr": 4
+  },
+  {
+    "year": 1962,
+    "month": "Aug",
+    "elevation_ft": 1200.87,
+    "elevation_m": 366.025176,
+    "pct_of_full_capacity": 92.2243492,
+    "month_nr": 8
+  },
+  {
+    "year": 1962,
+    "month": "Dec",
+    "elevation_ft": 1193.12,
+    "elevation_m": 363.662976,
+    "pct_of_full_capacity": 88.0168453,
+    "month_nr": 12
+  },
+  {
+    "year": 1962,
+    "month": "Feb",
+    "elevation_ft": 1156.51,
+    "elevation_m": 352.504248,
+    "pct_of_full_capacity": 69.8660031,
+    "month_nr": 2
+  },
+  {
+    "year": 1962,
+    "month": "Jan",
+    "elevation_ft": 1153.56,
+    "elevation_m": 351.605088,
+    "pct_of_full_capacity": 68.5336907,
+    "month_nr": 1
+  },
+  {
+    "year": 1962,
+    "month": "Jul",
+    "elevation_ft": 1203.98,
+    "elevation_m": 366.973104,
+    "pct_of_full_capacity": 93.9816233,
+    "month_nr": 7
+  },
+  {
+    "year": 1962,
+    "month": "Jun",
+    "elevation_ft": 1198.17,
+    "elevation_m": 365.202216,
+    "pct_of_full_capacity": 90.719755,
+    "month_nr": 6
+  },
+  {
+    "year": 1962,
+    "month": "Mar",
+    "elevation_ft": 1154.69,
+    "elevation_m": 351.949512,
+    "pct_of_full_capacity": 69.0696784,
+    "month_nr": 3
+  },
+  {
+    "year": 1962,
+    "month": "May",
+    "elevation_ft": 1185.56,
+    "elevation_m": 361.358688,
+    "pct_of_full_capacity": 83.9203675,
+    "month_nr": 5
+  },
+  {
+    "year": 1962,
+    "month": "Nov",
+    "elevation_ft": 1195.05,
+    "elevation_m": 364.25124,
+    "pct_of_full_capacity": 89.042879,
+    "month_nr": 11
+  },
+  {
+    "year": 1962,
+    "month": "Oct",
+    "elevation_ft": 1196.65,
+    "elevation_m": 364.73892,
+    "pct_of_full_capacity": 89.9196018,
+    "month_nr": 10
+  },
+  {
+    "year": 1962,
+    "month": "Sep",
+    "elevation_ft": 1197.64,
+    "elevation_m": 365.040672,
+    "pct_of_full_capacity": 90.4441041,
+    "month_nr": 9
+  },
+  {
+    "year": 1963,
+    "month": "Apr",
+    "elevation_ft": 1179.06,
+    "elevation_m": 359.377488,
+    "pct_of_full_capacity": 80.6049005,
+    "month_nr": 4
+  },
+  {
+    "year": 1963,
+    "month": "Aug",
+    "elevation_ft": 1153.88,
+    "elevation_m": 351.702624,
+    "pct_of_full_capacity": 68.6715161,
+    "month_nr": 8
+  },
+  {
+    "year": 1963,
+    "month": "Dec",
+    "elevation_ft": 1136.93,
+    "elevation_m": 346.536264,
+    "pct_of_full_capacity": 61.3016845,
+    "month_nr": 12
+  },
+  {
+    "year": 1963,
+    "month": "Feb",
+    "elevation_ft": 1189.67,
+    "elevation_m": 362.611416,
+    "pct_of_full_capacity": 86.1255743,
+    "month_nr": 2
+  },
+  {
+    "year": 1963,
+    "month": "Jan",
+    "elevation_ft": 1190.98,
+    "elevation_m": 363.010704,
+    "pct_of_full_capacity": 86.8147014,
+    "month_nr": 1
+  },
+  {
+    "year": 1963,
+    "month": "Jul",
+    "elevation_ft": 1160.27,
+    "elevation_m": 353.650296,
+    "pct_of_full_capacity": 71.5888208,
+    "month_nr": 7
+  },
+  {
+    "year": 1963,
+    "month": "Jun",
+    "elevation_ft": 1167.16,
+    "elevation_m": 355.750368,
+    "pct_of_full_capacity": 74.8009188,
+    "month_nr": 6
+  },
+  {
+    "year": 1963,
+    "month": "Mar",
+    "elevation_ft": 1185.07,
+    "elevation_m": 361.209336,
+    "pct_of_full_capacity": 83.7059724,
+    "month_nr": 3
+  },
+  {
+    "year": 1963,
+    "month": "May",
+    "elevation_ft": 1172.43,
+    "elevation_m": 357.356664,
+    "pct_of_full_capacity": 77.3238897,
+    "month_nr": 5
+  },
+  {
+    "year": 1963,
+    "month": "Nov",
+    "elevation_ft": 1141.5,
+    "elevation_m": 347.9292,
+    "pct_of_full_capacity": 63.2388974,
+    "month_nr": 11
+  },
+  {
+    "year": 1963,
+    "month": "Oct",
+    "elevation_ft": 1144.99,
+    "elevation_m": 348.992952,
+    "pct_of_full_capacity": 64.7396631,
+    "month_nr": 10
+  },
+  {
+    "year": 1963,
+    "month": "Sep",
+    "elevation_ft": 1149.04,
+    "elevation_m": 350.227392,
+    "pct_of_full_capacity": 66.6041348,
+    "month_nr": 9
+  },
+  {
+    "year": 1964,
+    "month": "Apr",
+    "elevation_ft": 1123.41,
+    "elevation_m": 342.415368,
+    "pct_of_full_capacity": 55.7580398,
+    "month_nr": 4
+  },
+  {
+    "year": 1964,
+    "month": "Aug",
+    "elevation_ft": 1098.58,
+    "elevation_m": 334.847184,
+    "pct_of_full_capacity": 46.3169985,
+    "month_nr": 8
+  },
+  {
+    "year": 1964,
+    "month": "Dec",
+    "elevation_ft": 1088.14,
+    "elevation_m": 331.665072,
+    "pct_of_full_capacity": 42.6339969,
+    "month_nr": 12
+  },
+  {
+    "year": 1964,
+    "month": "Feb",
+    "elevation_ft": 1128.4,
+    "elevation_m": 343.93632,
+    "pct_of_full_capacity": 57.7718224,
+    "month_nr": 2
+  },
+  {
+    "year": 1964,
+    "month": "Jan",
+    "elevation_ft": 1131.74,
+    "elevation_m": 344.954352,
+    "pct_of_full_capacity": 59.1424196,
+    "month_nr": 1
+  },
+  {
+    "year": 1964,
+    "month": "Jul",
+    "elevation_ft": 1103.84,
+    "elevation_m": 336.450432,
+    "pct_of_full_capacity": 48.2350689,
+    "month_nr": 7
+  },
+  {
+    "year": 1964,
+    "month": "Jun",
+    "elevation_ft": 1112.47,
+    "elevation_m": 339.080856,
+    "pct_of_full_capacity": 51.4777948,
+    "month_nr": 6
+  },
+  {
+    "year": 1964,
+    "month": "Mar",
+    "elevation_ft": 1123.85,
+    "elevation_m": 342.54948,
+    "pct_of_full_capacity": 55.9303216,
+    "month_nr": 3
+  },
+  {
+    "year": 1964,
+    "month": "May",
+    "elevation_ft": 1119.32,
+    "elevation_m": 341.168736,
+    "pct_of_full_capacity": 54.1347626,
+    "month_nr": 5
+  },
+  {
+    "year": 1964,
+    "month": "Nov",
+    "elevation_ft": 1089.02,
+    "elevation_m": 331.933296,
+    "pct_of_full_capacity": 42.9364472,
+    "month_nr": 11
+  },
+  {
+    "year": 1964,
+    "month": "Oct",
+    "elevation_ft": 1090.12,
+    "elevation_m": 332.268576,
+    "pct_of_full_capacity": 43.3192956,
+    "month_nr": 10
+  },
+  {
+    "year": 1964,
+    "month": "Sep",
+    "elevation_ft": 1093.49,
+    "elevation_m": 333.295752,
+    "pct_of_full_capacity": 44.4984686,
+    "month_nr": 9
+  },
+  {
+    "year": 1965,
+    "month": "Apr",
+    "elevation_ft": 1094.57,
+    "elevation_m": 333.624936,
+    "pct_of_full_capacity": 44.881317,
+    "month_nr": 4
+  },
+  {
+    "year": 1965,
+    "month": "Aug",
+    "elevation_ft": 1124.32,
+    "elevation_m": 342.692736,
+    "pct_of_full_capacity": 56.1217458,
+    "month_nr": 8
+  },
+  {
+    "year": 1965,
+    "month": "Dec",
+    "elevation_ft": 1129.74,
+    "elevation_m": 344.344752,
+    "pct_of_full_capacity": 58.3192956,
+    "month_nr": 12
+  },
+  {
+    "year": 1965,
+    "month": "Feb",
+    "elevation_ft": 1090.63,
+    "elevation_m": 332.424024,
+    "pct_of_full_capacity": 43.4954058,
+    "month_nr": 2
+  },
+  {
+    "year": 1965,
+    "month": "Jan",
+    "elevation_ft": 1089.83,
+    "elevation_m": 332.180184,
+    "pct_of_full_capacity": 43.219755,
+    "month_nr": 1
+  },
+  {
+    "year": 1965,
+    "month": "Jul",
+    "elevation_ft": 1124.33,
+    "elevation_m": 342.695784,
+    "pct_of_full_capacity": 56.1255743,
+    "month_nr": 7
+  },
+  {
+    "year": 1965,
+    "month": "Jun",
+    "elevation_ft": 1125.69,
+    "elevation_m": 343.110312,
+    "pct_of_full_capacity": 56.669219,
+    "month_nr": 6
+  },
+  {
+    "year": 1965,
+    "month": "Mar",
+    "elevation_ft": 1088.31,
+    "elevation_m": 331.716888,
+    "pct_of_full_capacity": 42.6914242,
+    "month_nr": 3
+  },
+  {
+    "year": 1965,
+    "month": "May",
+    "elevation_ft": 1110.08,
+    "elevation_m": 338.352384,
+    "pct_of_full_capacity": 50.5704441,
+    "month_nr": 5
+  },
+  {
+    "year": 1965,
+    "month": "Nov",
+    "elevation_ft": 1127.93,
+    "elevation_m": 343.793064,
+    "pct_of_full_capacity": 57.5803982,
+    "month_nr": 11
+  },
+  {
+    "year": 1965,
+    "month": "Oct",
+    "elevation_ft": 1125.9,
+    "elevation_m": 343.17432,
+    "pct_of_full_capacity": 56.7534456,
+    "month_nr": 10
+  },
+  {
+    "year": 1965,
+    "month": "Sep",
+    "elevation_ft": 1124.79,
+    "elevation_m": 342.835992,
+    "pct_of_full_capacity": 56.3093415,
+    "month_nr": 9
+  },
+  {
+    "year": 1966,
+    "month": "Apr",
+    "elevation_ft": 1132.15,
+    "elevation_m": 345.07932,
+    "pct_of_full_capacity": 59.3108729,
+    "month_nr": 4
+  },
+  {
+    "year": 1966,
+    "month": "Aug",
+    "elevation_ft": 1128.21,
+    "elevation_m": 343.878408,
+    "pct_of_full_capacity": 57.6914242,
+    "month_nr": 8
+  },
+  {
+    "year": 1966,
+    "month": "Dec",
+    "elevation_ft": 1132.05,
+    "elevation_m": 345.04884,
+    "pct_of_full_capacity": 59.2687596,
+    "month_nr": 12
+  },
+  {
+    "year": 1966,
+    "month": "Feb",
+    "elevation_ft": 1133.05,
+    "elevation_m": 345.35364,
+    "pct_of_full_capacity": 59.6822358,
+    "month_nr": 2
+  },
+  {
+    "year": 1966,
+    "month": "Jan",
+    "elevation_ft": 1132.24,
+    "elevation_m": 345.106752,
+    "pct_of_full_capacity": 59.3491577,
+    "month_nr": 1
+  },
+  {
+    "year": 1966,
+    "month": "Jul",
+    "elevation_ft": 1130.32,
+    "elevation_m": 344.521536,
+    "pct_of_full_capacity": 58.5566616,
+    "month_nr": 7
+  },
+  {
+    "year": 1966,
+    "month": "Jun",
+    "elevation_ft": 1132.7,
+    "elevation_m": 345.24696,
+    "pct_of_full_capacity": 59.5405819,
+    "month_nr": 6
+  },
+  {
+    "year": 1966,
+    "month": "Mar",
+    "elevation_ft": 1132.24,
+    "elevation_m": 345.106752,
+    "pct_of_full_capacity": 59.3491577,
+    "month_nr": 3
+  },
+  {
+    "year": 1966,
+    "month": "May",
+    "elevation_ft": 1133.07,
+    "elevation_m": 345.359736,
+    "pct_of_full_capacity": 59.6937213,
+    "month_nr": 5
+  },
+  {
+    "year": 1966,
+    "month": "Nov",
+    "elevation_ft": 1129.72,
+    "elevation_m": 344.338656,
+    "pct_of_full_capacity": 58.3116386,
+    "month_nr": 11
+  },
+  {
+    "year": 1966,
+    "month": "Oct",
+    "elevation_ft": 1128.42,
+    "elevation_m": 343.942416,
+    "pct_of_full_capacity": 57.7794793,
+    "month_nr": 10
+  },
+  {
+    "year": 1966,
+    "month": "Sep",
+    "elevation_ft": 1127.59,
+    "elevation_m": 343.689432,
+    "pct_of_full_capacity": 57.4425727,
+    "month_nr": 9
+  },
+  {
+    "year": 1967,
+    "month": "Apr",
+    "elevation_ft": 1131.72,
+    "elevation_m": 344.948256,
+    "pct_of_full_capacity": 55.6278714,
+    "month_nr": 4
+  },
+  {
+    "year": 1967,
+    "month": "Aug",
+    "elevation_ft": 1128.44,
+    "elevation_m": 343.948512,
+    "pct_of_full_capacity": 54.3491577,
+    "month_nr": 8
+  },
+  {
+    "year": 1967,
+    "month": "Dec",
+    "elevation_ft": 1129.84,
+    "elevation_m": 344.375232,
+    "pct_of_full_capacity": 54.8928025,
+    "month_nr": 12
+  },
+  {
+    "year": 1967,
+    "month": "Feb",
+    "elevation_ft": 1133.31,
+    "elevation_m": 345.432888,
+    "pct_of_full_capacity": 59.7894334,
+    "month_nr": 2
+  },
+  {
+    "year": 1967,
+    "month": "Jan",
+    "elevation_ft": 1133.42,
+    "elevation_m": 345.466416,
+    "pct_of_full_capacity": 59.8353752,
+    "month_nr": 1
+  },
+  {
+    "year": 1967,
+    "month": "Jul",
+    "elevation_ft": 1128.81,
+    "elevation_m": 344.061288,
+    "pct_of_full_capacity": 54.4908116,
+    "month_nr": 7
+  },
+  {
+    "year": 1967,
+    "month": "Jun",
+    "elevation_ft": 1130.4,
+    "elevation_m": 344.54592,
+    "pct_of_full_capacity": 55.111026,
+    "month_nr": 6
+  },
+  {
+    "year": 1967,
+    "month": "Mar",
+    "elevation_ft": 1131.65,
+    "elevation_m": 344.92692,
+    "pct_of_full_capacity": 59.1041348,
+    "month_nr": 3
+  },
+  {
+    "year": 1967,
+    "month": "May",
+    "elevation_ft": 1131.49,
+    "elevation_m": 344.878152,
+    "pct_of_full_capacity": 55.5359877,
+    "month_nr": 5
+  },
+  {
+    "year": 1967,
+    "month": "Nov",
+    "elevation_ft": 1127.71,
+    "elevation_m": 343.726008,
+    "pct_of_full_capacity": 54.0658499,
+    "month_nr": 11
+  },
+  {
+    "year": 1967,
+    "month": "Oct",
+    "elevation_ft": 1128.67,
+    "elevation_m": 344.018616,
+    "pct_of_full_capacity": 54.4372129,
+    "month_nr": 10
+  },
+  {
+    "year": 1967,
+    "month": "Sep",
+    "elevation_ft": 1130.2,
+    "elevation_m": 344.48496,
+    "pct_of_full_capacity": 55.0344564,
+    "month_nr": 9
+  },
+  {
+    "year": 1968,
+    "month": "Apr",
+    "elevation_ft": 1134.15,
+    "elevation_m": 345.68892,
+    "pct_of_full_capacity": 56.5849923,
+    "month_nr": 4
+  },
+  {
+    "year": 1968,
+    "month": "Aug",
+    "elevation_ft": 1136.89,
+    "elevation_m": 346.524072,
+    "pct_of_full_capacity": 57.6761103,
+    "month_nr": 8
+  },
+  {
+    "year": 1968,
+    "month": "Dec",
+    "elevation_ft": 1139.65,
+    "elevation_m": 347.36532,
+    "pct_of_full_capacity": 58.7863706,
+    "month_nr": 12
+  },
+  {
+    "year": 1968,
+    "month": "Feb",
+    "elevation_ft": 1132.54,
+    "elevation_m": 345.198192,
+    "pct_of_full_capacity": 55.949464,
+    "month_nr": 2
+  },
+  {
+    "year": 1968,
+    "month": "Jan",
+    "elevation_ft": 1132.07,
+    "elevation_m": 345.054936,
+    "pct_of_full_capacity": 55.7656968,
+    "month_nr": 1
+  },
+  {
+    "year": 1968,
+    "month": "Jul",
+    "elevation_ft": 1136.76,
+    "elevation_m": 346.484448,
+    "pct_of_full_capacity": 57.62634,
+    "month_nr": 7
+  },
+  {
+    "year": 1968,
+    "month": "Jun",
+    "elevation_ft": 1136.23,
+    "elevation_m": 346.322904,
+    "pct_of_full_capacity": 57.4119449,
+    "month_nr": 6
+  },
+  {
+    "year": 1968,
+    "month": "Mar",
+    "elevation_ft": 1132.79,
+    "elevation_m": 345.274392,
+    "pct_of_full_capacity": 56.0490046,
+    "month_nr": 3
+  },
+  {
+    "year": 1968,
+    "month": "May",
+    "elevation_ft": 1135.18,
+    "elevation_m": 346.002864,
+    "pct_of_full_capacity": 56.9946401,
+    "month_nr": 5
+  },
+  {
+    "year": 1968,
+    "month": "Nov",
+    "elevation_ft": 1139.05,
+    "elevation_m": 347.18244,
+    "pct_of_full_capacity": 58.5451761,
+    "month_nr": 11
+  },
+  {
+    "year": 1968,
+    "month": "Oct",
+    "elevation_ft": 1137.46,
+    "elevation_m": 346.697808,
+    "pct_of_full_capacity": 57.9058193,
+    "month_nr": 10
+  },
+  {
+    "year": 1968,
+    "month": "Sep",
+    "elevation_ft": 1136.44,
+    "elevation_m": 346.386912,
+    "pct_of_full_capacity": 57.4961715,
+    "month_nr": 9
+  },
+  {
+    "year": 1969,
+    "month": "Apr",
+    "elevation_ft": 1140.79,
+    "elevation_m": 347.712792,
+    "pct_of_full_capacity": 59.2496172,
+    "month_nr": 4
+  },
+  {
+    "year": 1969,
+    "month": "Aug",
+    "elevation_ft": 1145.31,
+    "elevation_m": 349.090488,
+    "pct_of_full_capacity": 61.1102603,
+    "month_nr": 8
+  },
+  {
+    "year": 1969,
+    "month": "Dec",
+    "elevation_ft": 1152.5,
+    "elevation_m": 351.282,
+    "pct_of_full_capacity": 64.1653905,
+    "month_nr": 12
+  },
+  {
+    "year": 1969,
+    "month": "Feb",
+    "elevation_ft": 1140.67,
+    "elevation_m": 347.676216,
+    "pct_of_full_capacity": 59.2036753,
+    "month_nr": 2
+  },
+  {
+    "year": 1969,
+    "month": "Jan",
+    "elevation_ft": 1140.46,
+    "elevation_m": 347.612208,
+    "pct_of_full_capacity": 59.1156202,
+    "month_nr": 1
+  },
+  {
+    "year": 1969,
+    "month": "Jul",
+    "elevation_ft": 1143.32,
+    "elevation_m": 348.483936,
+    "pct_of_full_capacity": 60.2871363,
+    "month_nr": 7
+  },
+  {
+    "year": 1969,
+    "month": "Jun",
+    "elevation_ft": 1141.79,
+    "elevation_m": 348.017592,
+    "pct_of_full_capacity": 59.6592649,
+    "month_nr": 6
+  },
+  {
+    "year": 1969,
+    "month": "Mar",
+    "elevation_ft": 1139.34,
+    "elevation_m": 347.270832,
+    "pct_of_full_capacity": 58.9050536,
+    "month_nr": 3
+  },
+  {
+    "year": 1969,
+    "month": "May",
+    "elevation_ft": 1141.26,
+    "elevation_m": 347.856048,
+    "pct_of_full_capacity": 59.4410413,
+    "month_nr": 5
+  },
+  {
+    "year": 1969,
+    "month": "Nov",
+    "elevation_ft": 1149.71,
+    "elevation_m": 350.431608,
+    "pct_of_full_capacity": 62.9632466,
+    "month_nr": 11
+  },
+  {
+    "year": 1969,
+    "month": "Oct",
+    "elevation_ft": 1147.22,
+    "elevation_m": 349.672656,
+    "pct_of_full_capacity": 61.8759571,
+    "month_nr": 10
+  },
+  {
+    "year": 1969,
+    "month": "Sep",
+    "elevation_ft": 1146.86,
+    "elevation_m": 349.562928,
+    "pct_of_full_capacity": 61.7649311,
+    "month_nr": 9
+  },
+  {
+    "year": 1970,
+    "month": "Apr",
+    "elevation_ft": 1150.8,
+    "elevation_m": 350.76384,
+    "pct_of_full_capacity": 63.4303216,
+    "month_nr": 4
+  },
+  {
+    "year": 1970,
+    "month": "Aug",
+    "elevation_ft": 1151.33,
+    "elevation_m": 350.925384,
+    "pct_of_full_capacity": 63.6600306,
+    "month_nr": 8
+  },
+  {
+    "year": 1970,
+    "month": "Dec",
+    "elevation_ft": 1152.95,
+    "elevation_m": 351.41916,
+    "pct_of_full_capacity": 64.3606432,
+    "month_nr": 12
+  },
+  {
+    "year": 1970,
+    "month": "Feb",
+    "elevation_ft": 1153.32,
+    "elevation_m": 351.531936,
+    "pct_of_full_capacity": 64.5214395,
+    "month_nr": 2
+  },
+  {
+    "year": 1970,
+    "month": "Jan",
+    "elevation_ft": 1153.65,
+    "elevation_m": 351.63252,
+    "pct_of_full_capacity": 64.6630934,
+    "month_nr": 1
+  },
+  {
+    "year": 1970,
+    "month": "Jul",
+    "elevation_ft": 1150.53,
+    "elevation_m": 350.681544,
+    "pct_of_full_capacity": 63.3154671,
+    "month_nr": 7
+  },
+  {
+    "year": 1970,
+    "month": "Jun",
+    "elevation_ft": 1150.73,
+    "elevation_m": 350.742504,
+    "pct_of_full_capacity": 63.3996937,
+    "month_nr": 6
+  },
+  {
+    "year": 1970,
+    "month": "Mar",
+    "elevation_ft": 1151.06,
+    "elevation_m": 350.843088,
+    "pct_of_full_capacity": 63.5413476,
+    "month_nr": 3
+  },
+  {
+    "year": 1970,
+    "month": "May",
+    "elevation_ft": 1150.87,
+    "elevation_m": 350.785176,
+    "pct_of_full_capacity": 63.4609495,
+    "month_nr": 5
+  },
+  {
+    "year": 1970,
+    "month": "Nov",
+    "elevation_ft": 1151.75,
+    "elevation_m": 351.0534,
+    "pct_of_full_capacity": 63.8399694,
+    "month_nr": 11
+  },
+  {
+    "year": 1970,
+    "month": "Oct",
+    "elevation_ft": 1151.77,
+    "elevation_m": 351.059496,
+    "pct_of_full_capacity": 63.8476263,
+    "month_nr": 10
+  },
+  {
+    "year": 1970,
+    "month": "Sep",
+    "elevation_ft": 1152.58,
+    "elevation_m": 351.306384,
+    "pct_of_full_capacity": 64.1998469,
+    "month_nr": 9
+  },
+  {
+    "year": 1971,
+    "month": "Apr",
+    "elevation_ft": 1148.63,
+    "elevation_m": 350.102424,
+    "pct_of_full_capacity": 62.5038285,
+    "month_nr": 4
+  },
+  {
+    "year": 1971,
+    "month": "Aug",
+    "elevation_ft": 1152.85,
+    "elevation_m": 351.38868,
+    "pct_of_full_capacity": 64.3147014,
+    "month_nr": 8
+  },
+  {
+    "year": 1971,
+    "month": "Dec",
+    "elevation_ft": 1160.13,
+    "elevation_m": 353.607624,
+    "pct_of_full_capacity": 67.5535988,
+    "month_nr": 12
+  },
+  {
+    "year": 1971,
+    "month": "Feb",
+    "elevation_ft": 1150.4,
+    "elevation_m": 350.64192,
+    "pct_of_full_capacity": 63.2580398,
+    "month_nr": 2
+  },
+  {
+    "year": 1971,
+    "month": "Jan",
+    "elevation_ft": 1152.87,
+    "elevation_m": 351.394776,
+    "pct_of_full_capacity": 64.3223583,
+    "month_nr": 1
+  },
+  {
+    "year": 1971,
+    "month": "Jul",
+    "elevation_ft": 1151.22,
+    "elevation_m": 350.891856,
+    "pct_of_full_capacity": 63.6102603,
+    "month_nr": 7
+  },
+  {
+    "year": 1971,
+    "month": "Jun",
+    "elevation_ft": 1149.85,
+    "elevation_m": 350.47428,
+    "pct_of_full_capacity": 63.0245023,
+    "month_nr": 6
+  },
+  {
+    "year": 1971,
+    "month": "Mar",
+    "elevation_ft": 1148.29,
+    "elevation_m": 349.998792,
+    "pct_of_full_capacity": 62.3621746,
+    "month_nr": 3
+  },
+  {
+    "year": 1971,
+    "month": "May",
+    "elevation_ft": 1149.06,
+    "elevation_m": 350.233488,
+    "pct_of_full_capacity": 62.6875957,
+    "month_nr": 5
+  },
+  {
+    "year": 1971,
+    "month": "Nov",
+    "elevation_ft": 1156.84,
+    "elevation_m": 352.604832,
+    "pct_of_full_capacity": 66.0719755,
+    "month_nr": 11
+  },
+  {
+    "year": 1971,
+    "month": "Oct",
+    "elevation_ft": 1154.4,
+    "elevation_m": 351.86112,
+    "pct_of_full_capacity": 64.992343,
+    "month_nr": 10
+  },
+  {
+    "year": 1971,
+    "month": "Sep",
+    "elevation_ft": 1153.61,
+    "elevation_m": 351.620328,
+    "pct_of_full_capacity": 64.6477795,
+    "month_nr": 9
+  },
+  {
+    "year": 1972,
+    "month": "Apr",
+    "elevation_ft": 1154.74,
+    "elevation_m": 351.964752,
+    "pct_of_full_capacity": 65.1071975,
+    "month_nr": 4
+  },
+  {
+    "year": 1972,
+    "month": "Aug",
+    "elevation_ft": 1156.28,
+    "elevation_m": 352.434144,
+    "pct_of_full_capacity": 65.823124,
+    "month_nr": 8
+  },
+  {
+    "year": 1972,
+    "month": "Dec",
+    "elevation_ft": 1168.35,
+    "elevation_m": 356.11308,
+    "pct_of_full_capacity": 71.3820827,
+    "month_nr": 12
+  },
+  {
+    "year": 1972,
+    "month": "Feb",
+    "elevation_ft": 1160.94,
+    "elevation_m": 353.854512,
+    "pct_of_full_capacity": 67.9211332,
+    "month_nr": 2
+  },
+  {
+    "year": 1972,
+    "month": "Jan",
+    "elevation_ft": 1162.27,
+    "elevation_m": 354.259896,
+    "pct_of_full_capacity": 68.5336907,
+    "month_nr": 1
+  },
+  {
+    "year": 1972,
+    "month": "Jul",
+    "elevation_ft": 1154.84,
+    "elevation_m": 351.995232,
+    "pct_of_full_capacity": 65.1875957,
+    "month_nr": 7
+  },
+  {
+    "year": 1972,
+    "month": "Jun",
+    "elevation_ft": 1154.6,
+    "elevation_m": 351.92208,
+    "pct_of_full_capacity": 65.0803982,
+    "month_nr": 6
+  },
+  {
+    "year": 1972,
+    "month": "Mar",
+    "elevation_ft": 1156.12,
+    "elevation_m": 352.385376,
+    "pct_of_full_capacity": 65.7503828,
+    "month_nr": 3
+  },
+  {
+    "year": 1972,
+    "month": "May",
+    "elevation_ft": 1154.35,
+    "elevation_m": 351.84588,
+    "pct_of_full_capacity": 64.9693721,
+    "month_nr": 5
+  },
+  {
+    "year": 1972,
+    "month": "Nov",
+    "elevation_ft": 1163.82,
+    "elevation_m": 354.732336,
+    "pct_of_full_capacity": 69.2496172,
+    "month_nr": 11
+  },
+  {
+    "year": 1972,
+    "month": "Oct",
+    "elevation_ft": 1161.59,
+    "elevation_m": 354.052632,
+    "pct_of_full_capacity": 68.219755,
+    "month_nr": 10
+  },
+  {
+    "year": 1972,
+    "month": "Sep",
+    "elevation_ft": 1158.49,
+    "elevation_m": 353.107752,
+    "pct_of_full_capacity": 66.8108729,
+    "month_nr": 9
+  },
+  {
+    "year": 1973,
+    "month": "Apr",
+    "elevation_ft": 1186.14,
+    "elevation_m": 361.535472,
+    "pct_of_full_capacity": 80.2679939,
+    "month_nr": 4
+  },
+  {
+    "year": 1973,
+    "month": "Aug",
+    "elevation_ft": 1182.28,
+    "elevation_m": 360.358944,
+    "pct_of_full_capacity": 78.2733538,
+    "month_nr": 8
+  },
+  {
+    "year": 1973,
+    "month": "Dec",
+    "elevation_ft": 1176.92,
+    "elevation_m": 358.725216,
+    "pct_of_full_capacity": 75.5627871,
+    "month_nr": 12
+  },
+  {
+    "year": 1973,
+    "month": "Feb",
+    "elevation_ft": 1174.73,
+    "elevation_m": 358.057704,
+    "pct_of_full_capacity": 74.4754977,
+    "month_nr": 2
+  },
+  {
+    "year": 1973,
+    "month": "Jan",
+    "elevation_ft": 1172.75,
+    "elevation_m": 357.4542,
+    "pct_of_full_capacity": 73.5068913,
+    "month_nr": 1
+  },
+  {
+    "year": 1973,
+    "month": "Jul",
+    "elevation_ft": 1184.89,
+    "elevation_m": 361.154472,
+    "pct_of_full_capacity": 79.6171516,
+    "month_nr": 7
+  },
+  {
+    "year": 1973,
+    "month": "Jun",
+    "elevation_ft": 1186.34,
+    "elevation_m": 361.596432,
+    "pct_of_full_capacity": 80.3713629,
+    "month_nr": 6
+  },
+  {
+    "year": 1973,
+    "month": "Mar",
+    "elevation_ft": 1178.78,
+    "elevation_m": 359.292144,
+    "pct_of_full_capacity": 76.4931087,
+    "month_nr": 3
+  },
+  {
+    "year": 1973,
+    "month": "May",
+    "elevation_ft": 1185.93,
+    "elevation_m": 361.471464,
+    "pct_of_full_capacity": 80.1569678,
+    "month_nr": 5
+  },
+  {
+    "year": 1973,
+    "month": "Nov",
+    "elevation_ft": 1178.7,
+    "elevation_m": 359.26776,
+    "pct_of_full_capacity": 76.4548239,
+    "month_nr": 11
+  },
+  {
+    "year": 1973,
+    "month": "Oct",
+    "elevation_ft": 1179.47,
+    "elevation_m": 359.502456,
+    "pct_of_full_capacity": 76.8415008,
+    "month_nr": 10
+  },
+  {
+    "year": 1973,
+    "month": "Sep",
+    "elevation_ft": 1180.26,
+    "elevation_m": 359.743248,
+    "pct_of_full_capacity": 77.2434916,
+    "month_nr": 9
+  },
+  {
+    "year": 1974,
+    "month": "Apr",
+    "elevation_ft": 1171.35,
+    "elevation_m": 357.02748,
+    "pct_of_full_capacity": 72.8254211,
+    "month_nr": 4
+  },
+  {
+    "year": 1974,
+    "month": "Aug",
+    "elevation_ft": 1173.3,
+    "elevation_m": 357.62184,
+    "pct_of_full_capacity": 73.7748851,
+    "month_nr": 8
+  },
+  {
+    "year": 1974,
+    "month": "Dec",
+    "elevation_ft": 1176.8,
+    "elevation_m": 358.68864,
+    "pct_of_full_capacity": 75.5015314,
+    "month_nr": 12
+  },
+  {
+    "year": 1974,
+    "month": "Feb",
+    "elevation_ft": 1178.08,
+    "elevation_m": 359.078784,
+    "pct_of_full_capacity": 76.1408882,
+    "month_nr": 2
+  },
+  {
+    "year": 1974,
+    "month": "Jan",
+    "elevation_ft": 1180.14,
+    "elevation_m": 359.706672,
+    "pct_of_full_capacity": 77.1822358,
+    "month_nr": 1
+  },
+  {
+    "year": 1974,
+    "month": "Jul",
+    "elevation_ft": 1171.87,
+    "elevation_m": 357.185976,
+    "pct_of_full_capacity": 73.0781011,
+    "month_nr": 7
+  },
+  {
+    "year": 1974,
+    "month": "Jun",
+    "elevation_ft": 1169.6,
+    "elevation_m": 356.49408,
+    "pct_of_full_capacity": 71.9793262,
+    "month_nr": 6
+  },
+  {
+    "year": 1974,
+    "month": "Mar",
+    "elevation_ft": 1174.95,
+    "elevation_m": 358.12476,
+    "pct_of_full_capacity": 74.5865237,
+    "month_nr": 3
+  },
+  {
+    "year": 1974,
+    "month": "May",
+    "elevation_ft": 1169.68,
+    "elevation_m": 356.518464,
+    "pct_of_full_capacity": 72.017611,
+    "month_nr": 5
+  },
+  {
+    "year": 1974,
+    "month": "Nov",
+    "elevation_ft": 1175.67,
+    "elevation_m": 358.344216,
+    "pct_of_full_capacity": 74.9425727,
+    "month_nr": 11
+  },
+  {
+    "year": 1974,
+    "month": "Oct",
+    "elevation_ft": 1173.83,
+    "elevation_m": 357.783384,
+    "pct_of_full_capacity": 74.0352221,
+    "month_nr": 10
+  },
+  {
+    "year": 1974,
+    "month": "Sep",
+    "elevation_ft": 1173.99,
+    "elevation_m": 357.832152,
+    "pct_of_full_capacity": 74.1117917,
+    "month_nr": 9
+  },
+  {
+    "year": 1975,
+    "month": "Apr",
+    "elevation_ft": 1174.18,
+    "elevation_m": 357.890064,
+    "pct_of_full_capacity": 74.2075038,
+    "month_nr": 4
+  },
+  {
+    "year": 1975,
+    "month": "Aug",
+    "elevation_ft": 1178.16,
+    "elevation_m": 359.103168,
+    "pct_of_full_capacity": 76.1830015,
+    "month_nr": 8
+  },
+  {
+    "year": 1975,
+    "month": "Dec",
+    "elevation_ft": 1179.63,
+    "elevation_m": 359.551224,
+    "pct_of_full_capacity": 76.9218989,
+    "month_nr": 12
+  },
+  {
+    "year": 1975,
+    "month": "Feb",
+    "elevation_ft": 1178.38,
+    "elevation_m": 359.170224,
+    "pct_of_full_capacity": 76.2940276,
+    "month_nr": 2
+  },
+  {
+    "year": 1975,
+    "month": "Jan",
+    "elevation_ft": 1178.74,
+    "elevation_m": 359.279952,
+    "pct_of_full_capacity": 76.4739663,
+    "month_nr": 1
+  },
+  {
+    "year": 1975,
+    "month": "Jul",
+    "elevation_ft": 1176.97,
+    "elevation_m": 358.740456,
+    "pct_of_full_capacity": 75.585758,
+    "month_nr": 7
+  },
+  {
+    "year": 1975,
+    "month": "Jun",
+    "elevation_ft": 1174.48,
+    "elevation_m": 357.981504,
+    "pct_of_full_capacity": 74.3529862,
+    "month_nr": 6
+  },
+  {
+    "year": 1975,
+    "month": "Mar",
+    "elevation_ft": 1177.13,
+    "elevation_m": 358.789224,
+    "pct_of_full_capacity": 75.6661562,
+    "month_nr": 3
+  },
+  {
+    "year": 1975,
+    "month": "May",
+    "elevation_ft": 1173.66,
+    "elevation_m": 357.731568,
+    "pct_of_full_capacity": 73.9509954,
+    "month_nr": 5
+  },
+  {
+    "year": 1975,
+    "month": "Nov",
+    "elevation_ft": 1179.64,
+    "elevation_m": 359.554272,
+    "pct_of_full_capacity": 76.9295559,
+    "month_nr": 11
+  },
+  {
+    "year": 1975,
+    "month": "Oct",
+    "elevation_ft": 1180.41,
+    "elevation_m": 359.788968,
+    "pct_of_full_capacity": 77.3200613,
+    "month_nr": 10
+  },
+  {
+    "year": 1975,
+    "month": "Sep",
+    "elevation_ft": 1180.1,
+    "elevation_m": 359.69448,
+    "pct_of_full_capacity": 77.1592649,
+    "month_nr": 9
+  },
+  {
+    "year": 1976,
+    "month": "Apr",
+    "elevation_ft": 1179.68,
+    "elevation_m": 359.566464,
+    "pct_of_full_capacity": 76.9486983,
+    "month_nr": 4
+  },
+  {
+    "year": 1976,
+    "month": "Aug",
+    "elevation_ft": 1177.84,
+    "elevation_m": 359.005632,
+    "pct_of_full_capacity": 76.0222052,
+    "month_nr": 8
+  },
+  {
+    "year": 1976,
+    "month": "Dec",
+    "elevation_ft": 1187.87,
+    "elevation_m": 362.062776,
+    "pct_of_full_capacity": 81.3859112,
+    "month_nr": 12
+  },
+  {
+    "year": 1976,
+    "month": "Feb",
+    "elevation_ft": 1182.9,
+    "elevation_m": 360.54792,
+    "pct_of_full_capacity": 78.5911179,
+    "month_nr": 2
+  },
+  {
+    "year": 1976,
+    "month": "Jan",
+    "elevation_ft": 1180.93,
+    "elevation_m": 359.947464,
+    "pct_of_full_capacity": 77.5842266,
+    "month_nr": 1
+  },
+  {
+    "year": 1976,
+    "month": "Jul",
+    "elevation_ft": 1179.85,
+    "elevation_m": 359.61828,
+    "pct_of_full_capacity": 77.032925,
+    "month_nr": 7
+  },
+  {
+    "year": 1976,
+    "month": "Jun",
+    "elevation_ft": 1180.47,
+    "elevation_m": 359.807256,
+    "pct_of_full_capacity": 77.3506891,
+    "month_nr": 6
+  },
+  {
+    "year": 1976,
+    "month": "Mar",
+    "elevation_ft": 1181.25,
+    "elevation_m": 360.045,
+    "pct_of_full_capacity": 77.745023,
+    "month_nr": 3
+  },
+  {
+    "year": 1976,
+    "month": "May",
+    "elevation_ft": 1180.39,
+    "elevation_m": 359.782872,
+    "pct_of_full_capacity": 77.3085758,
+    "month_nr": 5
+  },
+  {
+    "year": 1976,
+    "month": "Nov",
+    "elevation_ft": 1185.94,
+    "elevation_m": 361.474512,
+    "pct_of_full_capacity": 80.3713629,
+    "month_nr": 11
+  },
+  {
+    "year": 1976,
+    "month": "Oct",
+    "elevation_ft": 1182.16,
+    "elevation_m": 360.322368,
+    "pct_of_full_capacity": 78.3882083,
+    "month_nr": 10
+  },
+  {
+    "year": 1976,
+    "month": "Sep",
+    "elevation_ft": 1179.4,
+    "elevation_m": 359.48112,
+    "pct_of_full_capacity": 76.8070444,
+    "month_nr": 9
+  },
+  {
+    "year": 1977,
+    "month": "Apr",
+    "elevation_ft": 1183.1,
+    "elevation_m": 360.60888,
+    "pct_of_full_capacity": 78.9433384,
+    "month_nr": 4
+  },
+  {
+    "year": 1977,
+    "month": "Aug",
+    "elevation_ft": 1177.27,
+    "elevation_m": 358.831896,
+    "pct_of_full_capacity": 75.9877489,
+    "month_nr": 8
+  },
+  {
+    "year": 1977,
+    "month": "Dec",
+    "elevation_ft": 1180.82,
+    "elevation_m": 359.913936,
+    "pct_of_full_capacity": 77.5267994,
+    "month_nr": 12
+  },
+  {
+    "year": 1977,
+    "month": "Feb",
+    "elevation_ft": 1191.98,
+    "elevation_m": 363.315504,
+    "pct_of_full_capacity": 83.6294028,
+    "month_nr": 2
+  },
+  {
+    "year": 1977,
+    "month": "Jan",
+    "elevation_ft": 1193.01,
+    "elevation_m": 363.629448,
+    "pct_of_full_capacity": 84.1807044,
+    "month_nr": 1
+  },
+  {
+    "year": 1977,
+    "month": "Jul",
+    "elevation_ft": 1175.34,
+    "elevation_m": 358.243632,
+    "pct_of_full_capacity": 75.0267994,
+    "month_nr": 7
+  },
+  {
+    "year": 1977,
+    "month": "Jun",
+    "elevation_ft": 1176.16,
+    "elevation_m": 358.493568,
+    "pct_of_full_capacity": 75.4326187,
+    "month_nr": 6
+  },
+  {
+    "year": 1977,
+    "month": "Mar",
+    "elevation_ft": 1189.01,
+    "elevation_m": 362.410248,
+    "pct_of_full_capacity": 82.0405819,
+    "month_nr": 3
+  },
+  {
+    "year": 1977,
+    "month": "May",
+    "elevation_ft": 1179.83,
+    "elevation_m": 359.612184,
+    "pct_of_full_capacity": 76.7725881,
+    "month_nr": 5
+  },
+  {
+    "year": 1977,
+    "month": "Nov",
+    "elevation_ft": 1179.29,
+    "elevation_m": 359.447592,
+    "pct_of_full_capacity": 76.7534456,
+    "month_nr": 11
+  },
+  {
+    "year": 1977,
+    "month": "Oct",
+    "elevation_ft": 1180.36,
+    "elevation_m": 359.773728,
+    "pct_of_full_capacity": 77.2932619,
+    "month_nr": 10
+  },
+  {
+    "year": 1977,
+    "month": "Sep",
+    "elevation_ft": 1180.48,
+    "elevation_m": 359.810304,
+    "pct_of_full_capacity": 77.3545176,
+    "month_nr": 9
+  },
+  {
+    "year": 1978,
+    "month": "Apr",
+    "elevation_ft": 1186.14,
+    "elevation_m": 361.535472,
+    "pct_of_full_capacity": 80.2679939,
+    "month_nr": 4
+  },
+  {
+    "year": 1978,
+    "month": "Aug",
+    "elevation_ft": 1183.74,
+    "elevation_m": 360.803952,
+    "pct_of_full_capacity": 79.0237366,
+    "month_nr": 8
+  },
+  {
+    "year": 1978,
+    "month": "Dec",
+    "elevation_ft": 1193.31,
+    "elevation_m": 363.720888,
+    "pct_of_full_capacity": 84.0735069,
+    "month_nr": 12
+  },
+  {
+    "year": 1978,
+    "month": "Feb",
+    "elevation_ft": 1187.62,
+    "elevation_m": 361.986576,
+    "pct_of_full_capacity": 81.0451761,
+    "month_nr": 2
+  },
+  {
+    "year": 1978,
+    "month": "Jan",
+    "elevation_ft": 1186.09,
+    "elevation_m": 361.520232,
+    "pct_of_full_capacity": 80.2411945,
+    "month_nr": 1
+  },
+  {
+    "year": 1978,
+    "month": "Jul",
+    "elevation_ft": 1183.31,
+    "elevation_m": 360.672888,
+    "pct_of_full_capacity": 78.8016845,
+    "month_nr": 7
+  },
+  {
+    "year": 1978,
+    "month": "Jun",
+    "elevation_ft": 1184.76,
+    "elevation_m": 361.114848,
+    "pct_of_full_capacity": 79.5482389,
+    "month_nr": 6
+  },
+  {
+    "year": 1978,
+    "month": "Mar",
+    "elevation_ft": 1188.44,
+    "elevation_m": 362.236512,
+    "pct_of_full_capacity": 81.4739663,
+    "month_nr": 3
+  },
+  {
+    "year": 1978,
+    "month": "May",
+    "elevation_ft": 1184.58,
+    "elevation_m": 361.059984,
+    "pct_of_full_capacity": 79.4563553,
+    "month_nr": 5
+  },
+  {
+    "year": 1978,
+    "month": "Nov",
+    "elevation_ft": 1188.73,
+    "elevation_m": 362.324904,
+    "pct_of_full_capacity": 81.6271057,
+    "month_nr": 11
+  },
+  {
+    "year": 1978,
+    "month": "Oct",
+    "elevation_ft": 1186.69,
+    "elevation_m": 361.703112,
+    "pct_of_full_capacity": 80.5551302,
+    "month_nr": 10
+  },
+  {
+    "year": 1978,
+    "month": "Sep",
+    "elevation_ft": 1185.43,
+    "elevation_m": 361.319064,
+    "pct_of_full_capacity": 79.8966309,
+    "month_nr": 9
+  },
+  {
+    "year": 1979,
+    "month": "Apr",
+    "elevation_ft": 1200.01,
+    "elevation_m": 365.763048,
+    "pct_of_full_capacity": 87.7411945,
+    "month_nr": 4
+  },
+  {
+    "year": 1979,
+    "month": "Aug",
+    "elevation_ft": 1195.71,
+    "elevation_m": 364.452408,
+    "pct_of_full_capacity": 85.3981623,
+    "month_nr": 8
+  },
+  {
+    "year": 1979,
+    "month": "Dec",
+    "elevation_ft": 1197.97,
+    "elevation_m": 365.141256,
+    "pct_of_full_capacity": 86.6117917,
+    "month_nr": 12
+  },
+  {
+    "year": 1979,
+    "month": "Feb",
+    "elevation_ft": 1202.61,
+    "elevation_m": 366.555528,
+    "pct_of_full_capacity": 89.1921899,
+    "month_nr": 2
+  },
+  {
+    "year": 1979,
+    "month": "Jan",
+    "elevation_ft": 1198.83,
+    "elevation_m": 365.403384,
+    "pct_of_full_capacity": 87.0865237,
+    "month_nr": 1
+  },
+  {
+    "year": 1979,
+    "month": "Jul",
+    "elevation_ft": 1194.86,
+    "elevation_m": 364.193328,
+    "pct_of_full_capacity": 84.9119449,
+    "month_nr": 7
+  },
+  {
+    "year": 1979,
+    "month": "Jun",
+    "elevation_ft": 1195.5,
+    "elevation_m": 364.3884,
+    "pct_of_full_capacity": 85.2603369,
+    "month_nr": 6
+  },
+  {
+    "year": 1979,
+    "month": "Mar",
+    "elevation_ft": 1201.04,
+    "elevation_m": 366.076992,
+    "pct_of_full_capacity": 88.3116386,
+    "month_nr": 3
+  },
+  {
+    "year": 1979,
+    "month": "May",
+    "elevation_ft": 1197.55,
+    "elevation_m": 365.01324,
+    "pct_of_full_capacity": 86.3820827,
+    "month_nr": 5
+  },
+  {
+    "year": 1979,
+    "month": "Nov",
+    "elevation_ft": 1196.64,
+    "elevation_m": 364.735872,
+    "pct_of_full_capacity": 85.8843798,
+    "month_nr": 11
+  },
+  {
+    "year": 1979,
+    "month": "Oct",
+    "elevation_ft": 1195.12,
+    "elevation_m": 364.272576,
+    "pct_of_full_capacity": 85.0535988,
+    "month_nr": 10
+  },
+  {
+    "year": 1979,
+    "month": "Sep",
+    "elevation_ft": 1195.3,
+    "elevation_m": 364.32744,
+    "pct_of_full_capacity": 85.1531394,
+    "month_nr": 9
+  },
+  {
+    "year": 1980,
+    "month": "Apr",
+    "elevation_ft": 1201.94,
+    "elevation_m": 366.351312,
+    "pct_of_full_capacity": 88.81317,
+    "month_nr": 4
+  },
+  {
+    "year": 1980,
+    "month": "Aug",
+    "elevation_ft": 1204.58,
+    "elevation_m": 367.155984,
+    "pct_of_full_capacity": 90.2986217,
+    "month_nr": 8
+  },
+  {
+    "year": 1980,
+    "month": "Dec",
+    "elevation_ft": 1202.88,
+    "elevation_m": 366.637824,
+    "pct_of_full_capacity": 89.3415008,
+    "month_nr": 12
+  },
+  {
+    "year": 1980,
+    "month": "Feb",
+    "elevation_ft": 1204.13,
+    "elevation_m": 367.018824,
+    "pct_of_full_capacity": 90.0459418,
+    "month_nr": 2
+  },
+  {
+    "year": 1980,
+    "month": "Jan",
+    "elevation_ft": 1198.99,
+    "elevation_m": 365.452152,
+    "pct_of_full_capacity": 87.1745789,
+    "month_nr": 1
+  },
+  {
+    "year": 1980,
+    "month": "Jul",
+    "elevation_ft": 1204.65,
+    "elevation_m": 367.17732,
+    "pct_of_full_capacity": 90.3407351,
+    "month_nr": 7
+  },
+  {
+    "year": 1980,
+    "month": "Jun",
+    "elevation_ft": 1202.27,
+    "elevation_m": 366.451896,
+    "pct_of_full_capacity": 89.0007657,
+    "month_nr": 6
+  },
+  {
+    "year": 1980,
+    "month": "Mar",
+    "elevation_ft": 1202.87,
+    "elevation_m": 366.634776,
+    "pct_of_full_capacity": 89.3376723,
+    "month_nr": 3
+  },
+  {
+    "year": 1980,
+    "month": "May",
+    "elevation_ft": 1199.93,
+    "elevation_m": 365.738664,
+    "pct_of_full_capacity": 87.6952527,
+    "month_nr": 5
+  },
+  {
+    "year": 1980,
+    "month": "Nov",
+    "elevation_ft": 1203.68,
+    "elevation_m": 366.881664,
+    "pct_of_full_capacity": 89.7932619,
+    "month_nr": 11
+  },
+  {
+    "year": 1980,
+    "month": "Oct",
+    "elevation_ft": 1203.21,
+    "elevation_m": 366.738408,
+    "pct_of_full_capacity": 89.5290965,
+    "month_nr": 10
+  },
+  {
+    "year": 1980,
+    "month": "Sep",
+    "elevation_ft": 1204.92,
+    "elevation_m": 367.259616,
+    "pct_of_full_capacity": 90.4938744,
+    "month_nr": 9
+  },
+  {
+    "year": 1981,
+    "month": "Apr",
+    "elevation_ft": 1198.44,
+    "elevation_m": 365.284512,
+    "pct_of_full_capacity": 86.8721286,
+    "month_nr": 4
+  },
+  {
+    "year": 1981,
+    "month": "Aug",
+    "elevation_ft": 1192.78,
+    "elevation_m": 363.559344,
+    "pct_of_full_capacity": 83.7901991,
+    "month_nr": 8
+  },
+  {
+    "year": 1981,
+    "month": "Dec",
+    "elevation_ft": 1198.28,
+    "elevation_m": 365.235744,
+    "pct_of_full_capacity": 86.7840735,
+    "month_nr": 12
+  },
+  {
+    "year": 1981,
+    "month": "Feb",
+    "elevation_ft": 1204.31,
+    "elevation_m": 367.073688,
+    "pct_of_full_capacity": 90.1493109,
+    "month_nr": 2
+  },
+  {
+    "year": 1981,
+    "month": "Jan",
+    "elevation_ft": 1203.58,
+    "elevation_m": 366.851184,
+    "pct_of_full_capacity": 89.7358346,
+    "month_nr": 1
+  },
+  {
+    "year": 1981,
+    "month": "Jul",
+    "elevation_ft": 1192.88,
+    "elevation_m": 363.589824,
+    "pct_of_full_capacity": 83.8437979,
+    "month_nr": 7
+  },
+  {
+    "year": 1981,
+    "month": "Jun",
+    "elevation_ft": 1193.7,
+    "elevation_m": 363.83976,
+    "pct_of_full_capacity": 84.2840735,
+    "month_nr": 6
+  },
+  {
+    "year": 1981,
+    "month": "Mar",
+    "elevation_ft": 1202.15,
+    "elevation_m": 366.41532,
+    "pct_of_full_capacity": 88.931853,
+    "month_nr": 3
+  },
+  {
+    "year": 1981,
+    "month": "May",
+    "elevation_ft": 1196.22,
+    "elevation_m": 364.607856,
+    "pct_of_full_capacity": 85.6546708,
+    "month_nr": 5
+  },
+  {
+    "year": 1981,
+    "month": "Nov",
+    "elevation_ft": 1195.42,
+    "elevation_m": 364.364016,
+    "pct_of_full_capacity": 85.2182236,
+    "month_nr": 11
+  },
+  {
+    "year": 1981,
+    "month": "Oct",
+    "elevation_ft": 1194.11,
+    "elevation_m": 363.964728,
+    "pct_of_full_capacity": 84.5061256,
+    "month_nr": 10
+  },
+  {
+    "year": 1981,
+    "month": "Sep",
+    "elevation_ft": 1192.67,
+    "elevation_m": 363.525816,
+    "pct_of_full_capacity": 83.7289433,
+    "month_nr": 9
+  },
+  {
+    "year": 1982,
+    "month": "Apr",
+    "elevation_ft": 1198.3,
+    "elevation_m": 365.24184,
+    "pct_of_full_capacity": 86.795559,
+    "month_nr": 4
+  },
+  {
+    "year": 1982,
+    "month": "Aug",
+    "elevation_ft": 1197.39,
+    "elevation_m": 364.964472,
+    "pct_of_full_capacity": 86.2940276,
+    "month_nr": 8
+  },
+  {
+    "year": 1982,
+    "month": "Dec",
+    "elevation_ft": 1208.37,
+    "elevation_m": 368.311176,
+    "pct_of_full_capacity": 92.4617152,
+    "month_nr": 12
+  },
+  {
+    "year": 1982,
+    "month": "Feb",
+    "elevation_ft": 1202.39,
+    "elevation_m": 366.488472,
+    "pct_of_full_capacity": 89.0352221,
+    "month_nr": 2
+  },
+  {
+    "year": 1982,
+    "month": "Jan",
+    "elevation_ft": 1201.15,
+    "elevation_m": 366.11052,
+    "pct_of_full_capacity": 88.3728943,
+    "month_nr": 1
+  },
+  {
+    "year": 1982,
+    "month": "Jul",
+    "elevation_ft": 1196.48,
+    "elevation_m": 364.687104,
+    "pct_of_full_capacity": 85.7963247,
+    "month_nr": 7
+  },
+  {
+    "year": 1982,
+    "month": "Jun",
+    "elevation_ft": 1196.42,
+    "elevation_m": 364.668816,
+    "pct_of_full_capacity": 85.7618683,
+    "month_nr": 6
+  },
+  {
+    "year": 1982,
+    "month": "Mar",
+    "elevation_ft": 1201.02,
+    "elevation_m": 366.070896,
+    "pct_of_full_capacity": 88.3001531,
+    "month_nr": 3
+  },
+  {
+    "year": 1982,
+    "month": "May",
+    "elevation_ft": 1196.93,
+    "elevation_m": 364.824264,
+    "pct_of_full_capacity": 86.0413476,
+    "month_nr": 5
+  },
+  {
+    "year": 1982,
+    "month": "Nov",
+    "elevation_ft": 1204.76,
+    "elevation_m": 367.210848,
+    "pct_of_full_capacity": 90.4019908,
+    "month_nr": 11
+  },
+  {
+    "year": 1982,
+    "month": "Oct",
+    "elevation_ft": 1201.06,
+    "elevation_m": 366.083088,
+    "pct_of_full_capacity": 88.323124,
+    "month_nr": 10
+  },
+  {
+    "year": 1982,
+    "month": "Sep",
+    "elevation_ft": 1198.96,
+    "elevation_m": 365.443008,
+    "pct_of_full_capacity": 87.1592649,
+    "month_nr": 9
+  },
+  {
+    "year": 1983,
+    "month": "Apr",
+    "elevation_ft": 1211.26,
+    "elevation_m": 369.192048,
+    "pct_of_full_capacity": 94.1347626,
+    "month_nr": 4
+  },
+  {
+    "year": 1983,
+    "month": "Aug",
+    "elevation_ft": 1222.17,
+    "elevation_m": 372.517416,
+    "pct_of_full_capacity": 100.616386,
+    "month_nr": 8
+  },
+  {
+    "year": 1983,
+    "month": "Dec",
+    "elevation_ft": 1212.33,
+    "elevation_m": 369.518184,
+    "pct_of_full_capacity": 94.7588055,
+    "month_nr": 12
+  },
+  {
+    "year": 1983,
+    "month": "Feb",
+    "elevation_ft": 1210.25,
+    "elevation_m": 368.8842,
+    "pct_of_full_capacity": 93.5490046,
+    "month_nr": 2
+  },
+  {
+    "year": 1983,
+    "month": "Jan",
+    "elevation_ft": 1206.83,
+    "elevation_m": 367.841784,
+    "pct_of_full_capacity": 91.5811639,
+    "month_nr": 1
+  },
+  {
+    "year": 1983,
+    "month": "Jul",
+    "elevation_ft": 1225.44,
+    "elevation_m": 373.514112,
+    "pct_of_full_capacity": 102.611026,
+    "month_nr": 7
+  },
+  {
+    "year": 1983,
+    "month": "Jun",
+    "elevation_ft": 1220.27,
+    "elevation_m": 371.938296,
+    "pct_of_full_capacity": 99.4678407,
+    "month_nr": 6
+  },
+  {
+    "year": 1983,
+    "month": "Mar",
+    "elevation_ft": 1211.59,
+    "elevation_m": 369.292632,
+    "pct_of_full_capacity": 94.3261868,
+    "month_nr": 3
+  },
+  {
+    "year": 1983,
+    "month": "May",
+    "elevation_ft": 1212.33,
+    "elevation_m": 369.518184,
+    "pct_of_full_capacity": 94.7588055,
+    "month_nr": 5
+  },
+  {
+    "year": 1983,
+    "month": "Nov",
+    "elevation_ft": 1213.38,
+    "elevation_m": 369.838224,
+    "pct_of_full_capacity": 95.3713629,
+    "month_nr": 11
+  },
+  {
+    "year": 1983,
+    "month": "Oct",
+    "elevation_ft": 1215.32,
+    "elevation_m": 370.429536,
+    "pct_of_full_capacity": 96.5160796,
+    "month_nr": 10
+  },
+  {
+    "year": 1983,
+    "month": "Sep",
+    "elevation_ft": 1218.21,
+    "elevation_m": 371.310408,
+    "pct_of_full_capacity": 98.2312404,
+    "month_nr": 9
+  },
+  {
+    "year": 1984,
+    "month": "Apr",
+    "elevation_ft": 1205.91,
+    "elevation_m": 367.561368,
+    "pct_of_full_capacity": 91.0566616,
+    "month_nr": 4
+  },
+  {
+    "year": 1984,
+    "month": "Aug",
+    "elevation_ft": 1211.4,
+    "elevation_m": 369.23472,
+    "pct_of_full_capacity": 94.2151608,
+    "month_nr": 8
+  },
+  {
+    "year": 1984,
+    "month": "Dec",
+    "elevation_ft": 1207.9,
+    "elevation_m": 368.16792,
+    "pct_of_full_capacity": 92.1937213,
+    "month_nr": 12
+  },
+  {
+    "year": 1984,
+    "month": "Feb",
+    "elevation_ft": 1207.67,
+    "elevation_m": 368.097816,
+    "pct_of_full_capacity": 92.0597243,
+    "month_nr": 2
+  },
+  {
+    "year": 1984,
+    "month": "Jan",
+    "elevation_ft": 1209.82,
+    "elevation_m": 368.753136,
+    "pct_of_full_capacity": 93.3001531,
+    "month_nr": 1
+  },
+  {
+    "year": 1984,
+    "month": "Jul",
+    "elevation_ft": 1212.92,
+    "elevation_m": 369.698016,
+    "pct_of_full_capacity": 95.1033691,
+    "month_nr": 7
+  },
+  {
+    "year": 1984,
+    "month": "Jun",
+    "elevation_ft": 1212.17,
+    "elevation_m": 369.469416,
+    "pct_of_full_capacity": 94.6630934,
+    "month_nr": 6
+  },
+  {
+    "year": 1984,
+    "month": "Mar",
+    "elevation_ft": 1206.05,
+    "elevation_m": 367.60404,
+    "pct_of_full_capacity": 91.1332312,
+    "month_nr": 3
+  },
+  {
+    "year": 1984,
+    "month": "May",
+    "elevation_ft": 1209.74,
+    "elevation_m": 368.728752,
+    "pct_of_full_capacity": 93.2542113,
+    "month_nr": 5
+  },
+  {
+    "year": 1984,
+    "month": "Nov",
+    "elevation_ft": 1208.29,
+    "elevation_m": 368.286792,
+    "pct_of_full_capacity": 92.4157734,
+    "month_nr": 11
+  },
+  {
+    "year": 1984,
+    "month": "Oct",
+    "elevation_ft": 1208.63,
+    "elevation_m": 368.390424,
+    "pct_of_full_capacity": 92.6148545,
+    "month_nr": 10
+  },
+  {
+    "year": 1984,
+    "month": "Sep",
+    "elevation_ft": 1210.06,
+    "elevation_m": 368.826288,
+    "pct_of_full_capacity": 93.4379786,
+    "month_nr": 9
+  },
+  {
+    "year": 1985,
+    "month": "Apr",
+    "elevation_ft": 1206.16,
+    "elevation_m": 367.637568,
+    "pct_of_full_capacity": 91.1983155,
+    "month_nr": 4
+  },
+  {
+    "year": 1985,
+    "month": "Aug",
+    "elevation_ft": 1212.79,
+    "elevation_m": 369.658392,
+    "pct_of_full_capacity": 95.0267994,
+    "month_nr": 8
+  },
+  {
+    "year": 1985,
+    "month": "Dec",
+    "elevation_ft": 1205.49,
+    "elevation_m": 367.433352,
+    "pct_of_full_capacity": 90.8154671,
+    "month_nr": 12
+  },
+  {
+    "year": 1985,
+    "month": "Feb",
+    "elevation_ft": 1206.68,
+    "elevation_m": 367.796064,
+    "pct_of_full_capacity": 91.4931087,
+    "month_nr": 2
+  },
+  {
+    "year": 1985,
+    "month": "Jan",
+    "elevation_ft": 1206.95,
+    "elevation_m": 367.87836,
+    "pct_of_full_capacity": 91.6462481,
+    "month_nr": 1
+  },
+  {
+    "year": 1985,
+    "month": "Jul",
+    "elevation_ft": 1213.95,
+    "elevation_m": 370.01196,
+    "pct_of_full_capacity": 95.7082695,
+    "month_nr": 7
+  },
+  {
+    "year": 1985,
+    "month": "Jun",
+    "elevation_ft": 1214.25,
+    "elevation_m": 370.1034,
+    "pct_of_full_capacity": 95.8843798,
+    "month_nr": 6
+  },
+  {
+    "year": 1985,
+    "month": "Mar",
+    "elevation_ft": 1206.43,
+    "elevation_m": 367.719864,
+    "pct_of_full_capacity": 91.3514548,
+    "month_nr": 3
+  },
+  {
+    "year": 1985,
+    "month": "May",
+    "elevation_ft": 1209.83,
+    "elevation_m": 368.756184,
+    "pct_of_full_capacity": 93.3039816,
+    "month_nr": 5
+  },
+  {
+    "year": 1985,
+    "month": "Nov",
+    "elevation_ft": 1208.76,
+    "elevation_m": 368.430048,
+    "pct_of_full_capacity": 92.6875957,
+    "month_nr": 11
+  },
+  {
+    "year": 1985,
+    "month": "Oct",
+    "elevation_ft": 1211.16,
+    "elevation_m": 369.161568,
+    "pct_of_full_capacity": 94.0773354,
+    "month_nr": 10
+  },
+  {
+    "year": 1985,
+    "month": "Sep",
+    "elevation_ft": 1213.14,
+    "elevation_m": 369.765072,
+    "pct_of_full_capacity": 95.2335375,
+    "month_nr": 9
+  },
+  {
+    "year": 1986,
+    "month": "Apr",
+    "elevation_ft": 1204.78,
+    "elevation_m": 367.216944,
+    "pct_of_full_capacity": 90.4134763,
+    "month_nr": 4
+  },
+  {
+    "year": 1986,
+    "month": "Aug",
+    "elevation_ft": 1207.52,
+    "elevation_m": 368.052096,
+    "pct_of_full_capacity": 91.9754977,
+    "month_nr": 8
+  },
+  {
+    "year": 1986,
+    "month": "Dec",
+    "elevation_ft": 1210.39,
+    "elevation_m": 368.926872,
+    "pct_of_full_capacity": 93.6562021,
+    "month_nr": 12
+  },
+  {
+    "year": 1986,
+    "month": "Feb",
+    "elevation_ft": 1202.72,
+    "elevation_m": 366.589056,
+    "pct_of_full_capacity": 89.2534456,
+    "month_nr": 2
+  },
+  {
+    "year": 1986,
+    "month": "Jan",
+    "elevation_ft": 1201.59,
+    "elevation_m": 366.244632,
+    "pct_of_full_capacity": 88.6179173,
+    "month_nr": 1
+  },
+  {
+    "year": 1986,
+    "month": "Jul",
+    "elevation_ft": 1207.14,
+    "elevation_m": 367.936272,
+    "pct_of_full_capacity": 91.7572741,
+    "month_nr": 7
+  },
+  {
+    "year": 1986,
+    "month": "Jun",
+    "elevation_ft": 1210.13,
+    "elevation_m": 368.847624,
+    "pct_of_full_capacity": 93.4762634,
+    "month_nr": 6
+  },
+  {
+    "year": 1986,
+    "month": "Mar",
+    "elevation_ft": 1202.45,
+    "elevation_m": 366.50676,
+    "pct_of_full_capacity": 89.1003063,
+    "month_nr": 3
+  },
+  {
+    "year": 1986,
+    "month": "May",
+    "elevation_ft": 1208.16,
+    "elevation_m": 368.247168,
+    "pct_of_full_capacity": 92.3430322,
+    "month_nr": 5
+  },
+  {
+    "year": 1986,
+    "month": "Nov",
+    "elevation_ft": 1209.77,
+    "elevation_m": 368.737896,
+    "pct_of_full_capacity": 93.2695253,
+    "month_nr": 11
+  },
+  {
+    "year": 1986,
+    "month": "Oct",
+    "elevation_ft": 1208.7,
+    "elevation_m": 368.41176,
+    "pct_of_full_capacity": 92.6531394,
+    "month_nr": 10
+  },
+  {
+    "year": 1986,
+    "month": "Sep",
+    "elevation_ft": 1208.83,
+    "elevation_m": 368.451384,
+    "pct_of_full_capacity": 92.7258806,
+    "month_nr": 9
+  },
+  {
+    "year": 1987,
+    "month": "Apr",
+    "elevation_ft": 1207.67,
+    "elevation_m": 368.097816,
+    "pct_of_full_capacity": 92.0597243,
+    "month_nr": 4
+  },
+  {
+    "year": 1987,
+    "month": "Aug",
+    "elevation_ft": 1209.56,
+    "elevation_m": 368.673888,
+    "pct_of_full_capacity": 93.1470138,
+    "month_nr": 8
+  },
+  {
+    "year": 1987,
+    "month": "Dec",
+    "elevation_ft": 1211.03,
+    "elevation_m": 369.121944,
+    "pct_of_full_capacity": 94.0007657,
+    "month_nr": 12
+  },
+  {
+    "year": 1987,
+    "month": "Feb",
+    "elevation_ft": 1210.58,
+    "elevation_m": 368.984784,
+    "pct_of_full_capacity": 93.7404288,
+    "month_nr": 2
+  },
+  {
+    "year": 1987,
+    "month": "Jan",
+    "elevation_ft": 1210.23,
+    "elevation_m": 368.878104,
+    "pct_of_full_capacity": 93.5375191,
+    "month_nr": 1
+  },
+  {
+    "year": 1987,
+    "month": "Jul",
+    "elevation_ft": 1207.8,
+    "elevation_m": 368.13744,
+    "pct_of_full_capacity": 92.136294,
+    "month_nr": 7
+  },
+  {
+    "year": 1987,
+    "month": "Jun",
+    "elevation_ft": 1206.6,
+    "elevation_m": 367.77168,
+    "pct_of_full_capacity": 91.4471669,
+    "month_nr": 6
+  },
+  {
+    "year": 1987,
+    "month": "Mar",
+    "elevation_ft": 1208.57,
+    "elevation_m": 368.372136,
+    "pct_of_full_capacity": 92.5765697,
+    "month_nr": 3
+  },
+  {
+    "year": 1987,
+    "month": "May",
+    "elevation_ft": 1205.99,
+    "elevation_m": 367.585752,
+    "pct_of_full_capacity": 91.0987749,
+    "month_nr": 5
+  },
+  {
+    "year": 1987,
+    "month": "Nov",
+    "elevation_ft": 1210.05,
+    "elevation_m": 368.82324,
+    "pct_of_full_capacity": 93.4303216,
+    "month_nr": 11
+  },
+  {
+    "year": 1987,
+    "month": "Oct",
+    "elevation_ft": 1208.69,
+    "elevation_m": 368.408712,
+    "pct_of_full_capacity": 92.6454824,
+    "month_nr": 10
+  },
+  {
+    "year": 1987,
+    "month": "Sep",
+    "elevation_ft": 1209.79,
+    "elevation_m": 368.743992,
+    "pct_of_full_capacity": 93.2810107,
+    "month_nr": 9
+  },
+  {
+    "year": 1988,
+    "month": "Apr",
+    "elevation_ft": 1208.36,
+    "elevation_m": 368.308128,
+    "pct_of_full_capacity": 92.4578867,
+    "month_nr": 4
+  },
+  {
+    "year": 1988,
+    "month": "Aug",
+    "elevation_ft": 1199.57,
+    "elevation_m": 365.628936,
+    "pct_of_full_capacity": 87.4961715,
+    "month_nr": 8
+  },
+  {
+    "year": 1988,
+    "month": "Dec",
+    "elevation_ft": 1199.75,
+    "elevation_m": 365.6838,
+    "pct_of_full_capacity": 87.5957121,
+    "month_nr": 12
+  },
+  {
+    "year": 1988,
+    "month": "Feb",
+    "elevation_ft": 1211.7,
+    "elevation_m": 369.32616,
+    "pct_of_full_capacity": 94.3912711,
+    "month_nr": 2
+  },
+  {
+    "year": 1988,
+    "month": "Jan",
+    "elevation_ft": 1211.17,
+    "elevation_m": 369.164616,
+    "pct_of_full_capacity": 94.0811639,
+    "month_nr": 1
+  },
+  {
+    "year": 1988,
+    "month": "Jul",
+    "elevation_ft": 1201.43,
+    "elevation_m": 366.195864,
+    "pct_of_full_capacity": 88.5298622,
+    "month_nr": 7
+  },
+  {
+    "year": 1988,
+    "month": "Jun",
+    "elevation_ft": 1203.18,
+    "elevation_m": 366.729264,
+    "pct_of_full_capacity": 89.5099541,
+    "month_nr": 6
+  },
+  {
+    "year": 1988,
+    "month": "Mar",
+    "elevation_ft": 1210.74,
+    "elevation_m": 369.033552,
+    "pct_of_full_capacity": 93.8323124,
+    "month_nr": 3
+  },
+  {
+    "year": 1988,
+    "month": "May",
+    "elevation_ft": 1206.23,
+    "elevation_m": 367.658904,
+    "pct_of_full_capacity": 91.2366003,
+    "month_nr": 5
+  },
+  {
+    "year": 1988,
+    "month": "Nov",
+    "elevation_ft": 1199.46,
+    "elevation_m": 365.595408,
+    "pct_of_full_capacity": 87.4349158,
+    "month_nr": 11
+  },
+  {
+    "year": 1988,
+    "month": "Oct",
+    "elevation_ft": 1199.15,
+    "elevation_m": 365.50092,
+    "pct_of_full_capacity": 87.262634,
+    "month_nr": 10
+  },
+  {
+    "year": 1988,
+    "month": "Sep",
+    "elevation_ft": 1199.16,
+    "elevation_m": 365.503968,
+    "pct_of_full_capacity": 87.270291,
+    "month_nr": 9
+  },
+  {
+    "year": 1989,
+    "month": "Apr",
+    "elevation_ft": 1197.35,
+    "elevation_m": 364.95228,
+    "pct_of_full_capacity": 86.2710567,
+    "month_nr": 4
+  },
+  {
+    "year": 1989,
+    "month": "Aug",
+    "elevation_ft": 1189.4,
+    "elevation_m": 362.52912,
+    "pct_of_full_capacity": 81.9831547,
+    "month_nr": 8
+  },
+  {
+    "year": 1989,
+    "month": "Dec",
+    "elevation_ft": 1189.8,
+    "elevation_m": 362.65104,
+    "pct_of_full_capacity": 82.1937213,
+    "month_nr": 12
+  },
+  {
+    "year": 1989,
+    "month": "Feb",
+    "elevation_ft": 1202.49,
+    "elevation_m": 366.518952,
+    "pct_of_full_capacity": 89.1232772,
+    "month_nr": 2
+  },
+  {
+    "year": 1989,
+    "month": "Jan",
+    "elevation_ft": 1201.4,
+    "elevation_m": 366.18672,
+    "pct_of_full_capacity": 88.5145482,
+    "month_nr": 1
+  },
+  {
+    "year": 1989,
+    "month": "Jul",
+    "elevation_ft": 1189.72,
+    "elevation_m": 362.626656,
+    "pct_of_full_capacity": 82.151608,
+    "month_nr": 7
+  },
+  {
+    "year": 1989,
+    "month": "Jun",
+    "elevation_ft": 1190.4,
+    "elevation_m": 362.83392,
+    "pct_of_full_capacity": 82.5267994,
+    "month_nr": 6
+  },
+  {
+    "year": 1989,
+    "month": "Mar",
+    "elevation_ft": 1200.28,
+    "elevation_m": 365.845344,
+    "pct_of_full_capacity": 87.8905054,
+    "month_nr": 3
+  },
+  {
+    "year": 1989,
+    "month": "May",
+    "elevation_ft": 1192.59,
+    "elevation_m": 363.501432,
+    "pct_of_full_capacity": 83.68683,
+    "month_nr": 5
+  },
+  {
+    "year": 1989,
+    "month": "Nov",
+    "elevation_ft": 1189.02,
+    "elevation_m": 362.413296,
+    "pct_of_full_capacity": 81.780245,
+    "month_nr": 11
+  },
+  {
+    "year": 1989,
+    "month": "Oct",
+    "elevation_ft": 1189.55,
+    "elevation_m": 362.57484,
+    "pct_of_full_capacity": 82.0635528,
+    "month_nr": 10
+  },
+  {
+    "year": 1989,
+    "month": "Sep",
+    "elevation_ft": 1190.22,
+    "elevation_m": 362.779056,
+    "pct_of_full_capacity": 82.4196018,
+    "month_nr": 9
+  },
+  {
+    "year": 1990,
+    "month": "Apr",
+    "elevation_ft": 1186.89,
+    "elevation_m": 361.764072,
+    "pct_of_full_capacity": 80.6584992,
+    "month_nr": 4
+  },
+  {
+    "year": 1990,
+    "month": "Aug",
+    "elevation_ft": 1178.82,
+    "elevation_m": 359.304336,
+    "pct_of_full_capacity": 76.5160796,
+    "month_nr": 8
+  },
+  {
+    "year": 1990,
+    "month": "Dec",
+    "elevation_ft": 1177.89,
+    "elevation_m": 359.020872,
+    "pct_of_full_capacity": 76.0490046,
+    "month_nr": 12
+  },
+  {
+    "year": 1990,
+    "month": "Feb",
+    "elevation_ft": 1191.75,
+    "elevation_m": 363.2454,
+    "pct_of_full_capacity": 83.2350689,
+    "month_nr": 2
+  },
+  {
+    "year": 1990,
+    "month": "Jan",
+    "elevation_ft": 1191,
+    "elevation_m": 363.0168,
+    "pct_of_full_capacity": 82.8330781,
+    "month_nr": 1
+  },
+  {
+    "year": 1990,
+    "month": "Jul",
+    "elevation_ft": 1179.49,
+    "elevation_m": 359.508552,
+    "pct_of_full_capacity": 76.8529862,
+    "month_nr": 7
+  },
+  {
+    "year": 1990,
+    "month": "Jun",
+    "elevation_ft": 1182.06,
+    "elevation_m": 360.291888,
+    "pct_of_full_capacity": 78.1584992,
+    "month_nr": 6
+  },
+  {
+    "year": 1990,
+    "month": "Mar",
+    "elevation_ft": 1189.56,
+    "elevation_m": 362.577888,
+    "pct_of_full_capacity": 82.0673813,
+    "month_nr": 3
+  },
+  {
+    "year": 1990,
+    "month": "May",
+    "elevation_ft": 1183.93,
+    "elevation_m": 360.861864,
+    "pct_of_full_capacity": 79.1194487,
+    "month_nr": 5
+  },
+  {
+    "year": 1990,
+    "month": "Nov",
+    "elevation_ft": 1178.54,
+    "elevation_m": 359.218992,
+    "pct_of_full_capacity": 76.3744257,
+    "month_nr": 11
+  },
+  {
+    "year": 1990,
+    "month": "Oct",
+    "elevation_ft": 1178.9,
+    "elevation_m": 359.32872,
+    "pct_of_full_capacity": 76.5543645,
+    "month_nr": 10
+  },
+  {
+    "year": 1990,
+    "month": "Sep",
+    "elevation_ft": 1180.02,
+    "elevation_m": 359.670096,
+    "pct_of_full_capacity": 77.1209801,
+    "month_nr": 9
+  },
+  {
+    "year": 1991,
+    "month": "Apr",
+    "elevation_ft": 1177.8,
+    "elevation_m": 358.99344,
+    "pct_of_full_capacity": 76.0030628,
+    "month_nr": 4
+  },
+  {
+    "year": 1991,
+    "month": "Aug",
+    "elevation_ft": 1172.92,
+    "elevation_m": 357.506016,
+    "pct_of_full_capacity": 73.5872894,
+    "month_nr": 8
+  },
+  {
+    "year": 1991,
+    "month": "Dec",
+    "elevation_ft": 1173.44,
+    "elevation_m": 357.664512,
+    "pct_of_full_capacity": 73.8437979,
+    "month_nr": 12
+  },
+  {
+    "year": 1991,
+    "month": "Feb",
+    "elevation_ft": 1180.06,
+    "elevation_m": 359.682288,
+    "pct_of_full_capacity": 77.1401225,
+    "month_nr": 2
+  },
+  {
+    "year": 1991,
+    "month": "Jan",
+    "elevation_ft": 1179.39,
+    "elevation_m": 359.478072,
+    "pct_of_full_capacity": 76.8032159,
+    "month_nr": 1
+  },
+  {
+    "year": 1991,
+    "month": "Jul",
+    "elevation_ft": 1173.29,
+    "elevation_m": 357.618792,
+    "pct_of_full_capacity": 73.7710567,
+    "month_nr": 7
+  },
+  {
+    "year": 1991,
+    "month": "Jun",
+    "elevation_ft": 1174.67,
+    "elevation_m": 358.039416,
+    "pct_of_full_capacity": 74.4486983,
+    "month_nr": 6
+  },
+  {
+    "year": 1991,
+    "month": "Mar",
+    "elevation_ft": 1179.31,
+    "elevation_m": 359.453688,
+    "pct_of_full_capacity": 76.7611026,
+    "month_nr": 3
+  },
+  {
+    "year": 1991,
+    "month": "May",
+    "elevation_ft": 1175.92,
+    "elevation_m": 358.420416,
+    "pct_of_full_capacity": 75.0650842,
+    "month_nr": 5
+  },
+  {
+    "year": 1991,
+    "month": "Nov",
+    "elevation_ft": 1171.82,
+    "elevation_m": 357.170736,
+    "pct_of_full_capacity": 73.0513017,
+    "month_nr": 11
+  },
+  {
+    "year": 1991,
+    "month": "Oct",
+    "elevation_ft": 1171.73,
+    "elevation_m": 357.143304,
+    "pct_of_full_capacity": 73.0091884,
+    "month_nr": 10
+  },
+  {
+    "year": 1991,
+    "month": "Sep",
+    "elevation_ft": 1173.01,
+    "elevation_m": 357.533448,
+    "pct_of_full_capacity": 73.6332312,
+    "month_nr": 9
+  },
+  {
+    "year": 1992,
+    "month": "Apr",
+    "elevation_ft": 1179.78,
+    "elevation_m": 359.596944,
+    "pct_of_full_capacity": 76.9984686,
+    "month_nr": 4
+  },
+  {
+    "year": 1992,
+    "month": "Aug",
+    "elevation_ft": 1173.59,
+    "elevation_m": 357.710232,
+    "pct_of_full_capacity": 73.9165391,
+    "month_nr": 8
+  },
+  {
+    "year": 1992,
+    "month": "Dec",
+    "elevation_ft": 1176.86,
+    "elevation_m": 358.706928,
+    "pct_of_full_capacity": 75.5321593,
+    "month_nr": 12
+  },
+  {
+    "year": 1992,
+    "month": "Feb",
+    "elevation_ft": 1179.42,
+    "elevation_m": 359.487216,
+    "pct_of_full_capacity": 76.8185299,
+    "month_nr": 2
+  },
+  {
+    "year": 1992,
+    "month": "Jan",
+    "elevation_ft": 1177.25,
+    "elevation_m": 358.8258,
+    "pct_of_full_capacity": 75.7274119,
+    "month_nr": 1
+  },
+  {
+    "year": 1992,
+    "month": "Jul",
+    "elevation_ft": 1173.92,
+    "elevation_m": 357.810816,
+    "pct_of_full_capacity": 74.0773354,
+    "month_nr": 7
+  },
+  {
+    "year": 1992,
+    "month": "Jun",
+    "elevation_ft": 1175.07,
+    "elevation_m": 358.161336,
+    "pct_of_full_capacity": 74.643951,
+    "month_nr": 6
+  },
+  {
+    "year": 1992,
+    "month": "Mar",
+    "elevation_ft": 1180.31,
+    "elevation_m": 359.758488,
+    "pct_of_full_capacity": 77.2664625,
+    "month_nr": 3
+  },
+  {
+    "year": 1992,
+    "month": "May",
+    "elevation_ft": 1177.31,
+    "elevation_m": 358.844088,
+    "pct_of_full_capacity": 75.7580398,
+    "month_nr": 5
+  },
+  {
+    "year": 1992,
+    "month": "Nov",
+    "elevation_ft": 1175.45,
+    "elevation_m": 358.27716,
+    "pct_of_full_capacity": 74.8315467,
+    "month_nr": 11
+  },
+  {
+    "year": 1992,
+    "month": "Oct",
+    "elevation_ft": 1174.68,
+    "elevation_m": 358.042464,
+    "pct_of_full_capacity": 74.4525268,
+    "month_nr": 10
+  },
+  {
+    "year": 1992,
+    "month": "Sep",
+    "elevation_ft": 1174.44,
+    "elevation_m": 357.969312,
+    "pct_of_full_capacity": 74.3338438,
+    "month_nr": 9
+  },
+  {
+    "year": 1993,
+    "month": "Apr",
+    "elevation_ft": 1193.04,
+    "elevation_m": 363.638592,
+    "pct_of_full_capacity": 83.9280245,
+    "month_nr": 4
+  },
+  {
+    "year": 1993,
+    "month": "Aug",
+    "elevation_ft": 1188.41,
+    "elevation_m": 362.227368,
+    "pct_of_full_capacity": 81.4608882,
+    "month_nr": 8
+  },
+  {
+    "year": 1993,
+    "month": "Dec",
+    "elevation_ft": 1188.75,
+    "elevation_m": 362.331,
+    "pct_of_full_capacity": 81.6385911,
+    "month_nr": 12
+  },
+  {
+    "year": 1993,
+    "month": "Feb",
+    "elevation_ft": 1189.88,
+    "elevation_m": 362.675424,
+    "pct_of_full_capacity": 82.3698315,
+    "month_nr": 2
+  },
+  {
+    "year": 1993,
+    "month": "Jan",
+    "elevation_ft": 1183.64,
+    "elevation_m": 360.773472,
+    "pct_of_full_capacity": 78.8476263,
+    "month_nr": 1
+  },
+  {
+    "year": 1993,
+    "month": "Jul",
+    "elevation_ft": 1187.2,
+    "elevation_m": 361.85856,
+    "pct_of_full_capacity": 80.8215697,
+    "month_nr": 7
+  },
+  {
+    "year": 1993,
+    "month": "Jun",
+    "elevation_ft": 1188.27,
+    "elevation_m": 362.184696,
+    "pct_of_full_capacity": 81.3859112,
+    "month_nr": 6
+  },
+  {
+    "year": 1993,
+    "month": "Mar",
+    "elevation_ft": 1193.46,
+    "elevation_m": 363.766608,
+    "pct_of_full_capacity": 84.1539051,
+    "month_nr": 3
+  },
+  {
+    "year": 1993,
+    "month": "May",
+    "elevation_ft": 1190.27,
+    "elevation_m": 362.794296,
+    "pct_of_full_capacity": 82.3928025,
+    "month_nr": 5
+  },
+  {
+    "year": 1993,
+    "month": "Nov",
+    "elevation_ft": 1188.45,
+    "elevation_m": 362.23956,
+    "pct_of_full_capacity": 81.4816233,
+    "month_nr": 11
+  },
+  {
+    "year": 1993,
+    "month": "Oct",
+    "elevation_ft": 1188.05,
+    "elevation_m": 362.11764,
+    "pct_of_full_capacity": 81.2710567,
+    "month_nr": 10
+  },
+  {
+    "year": 1993,
+    "month": "Sep",
+    "elevation_ft": 1189.15,
+    "elevation_m": 362.45292,
+    "pct_of_full_capacity": 81.851853,
+    "month_nr": 9
+  },
+  {
+    "year": 1994,
+    "month": "Apr",
+    "elevation_ft": 1184.94,
+    "elevation_m": 361.169712,
+    "pct_of_full_capacity": 79.643951,
+    "month_nr": 4
+  },
+  {
+    "year": 1994,
+    "month": "Aug",
+    "elevation_ft": 1178.24,
+    "elevation_m": 359.127552,
+    "pct_of_full_capacity": 76.2229688,
+    "month_nr": 8
+  },
+  {
+    "year": 1994,
+    "month": "Dec",
+    "elevation_ft": 1176.55,
+    "elevation_m": 358.61244,
+    "pct_of_full_capacity": 75.362188,
+    "month_nr": 12
+  },
+  {
+    "year": 1994,
+    "month": "Feb",
+    "elevation_ft": 1190.97,
+    "elevation_m": 363.007656,
+    "pct_of_full_capacity": 82.8177642,
+    "month_nr": 2
+  },
+  {
+    "year": 1994,
+    "month": "Jan",
+    "elevation_ft": 1190.09,
+    "elevation_m": 362.739432,
+    "pct_of_full_capacity": 82.3506891,
+    "month_nr": 1
+  },
+  {
+    "year": 1994,
+    "month": "Jul",
+    "elevation_ft": 1178.97,
+    "elevation_m": 359.350056,
+    "pct_of_full_capacity": 76.5790178,
+    "month_nr": 7
+  },
+  {
+    "year": 1994,
+    "month": "Jun",
+    "elevation_ft": 1179.42,
+    "elevation_m": 359.487216,
+    "pct_of_full_capacity": 76.8112542,
+    "month_nr": 6
+  },
+  {
+    "year": 1994,
+    "month": "Mar",
+    "elevation_ft": 1188.51,
+    "elevation_m": 362.257848,
+    "pct_of_full_capacity": 81.5137098,
+    "month_nr": 3
+  },
+  {
+    "year": 1994,
+    "month": "May",
+    "elevation_ft": 1181.64,
+    "elevation_m": 360.163872,
+    "pct_of_full_capacity": 77.9445597,
+    "month_nr": 5
+  },
+  {
+    "year": 1994,
+    "month": "Nov",
+    "elevation_ft": 1175.67,
+    "elevation_m": 358.344216,
+    "pct_of_full_capacity": 74.9502372,
+    "month_nr": 11
+  },
+  {
+    "year": 1994,
+    "month": "Oct",
+    "elevation_ft": 1177.8,
+    "elevation_m": 358.99344,
+    "pct_of_full_capacity": 75.9973051,
+    "month_nr": 10
+  },
+  {
+    "year": 1994,
+    "month": "Sep",
+    "elevation_ft": 1178.4,
+    "elevation_m": 359.17632,
+    "pct_of_full_capacity": 76.3032174,
+    "month_nr": 9
+  },
+  {
+    "year": 1995,
+    "month": "Apr",
+    "elevation_ft": 1179.68,
+    "elevation_m": 359.566464,
+    "pct_of_full_capacity": 76.947816,
+    "month_nr": 4
+  },
+  {
+    "year": 1995,
+    "month": "Aug",
+    "elevation_ft": 1181.7,
+    "elevation_m": 360.18216,
+    "pct_of_full_capacity": 77.9750909,
+    "month_nr": 8
+  },
+  {
+    "year": 1995,
+    "month": "Dec",
+    "elevation_ft": 1190.92,
+    "elevation_m": 362.992416,
+    "pct_of_full_capacity": 82.7905311,
+    "month_nr": 12
+  },
+  {
+    "year": 1995,
+    "month": "Feb",
+    "elevation_ft": 1182.58,
+    "elevation_m": 360.450384,
+    "pct_of_full_capacity": 78.4254014,
+    "month_nr": 2
+  },
+  {
+    "year": 1995,
+    "month": "Jan",
+    "elevation_ft": 1180.37,
+    "elevation_m": 359.776776,
+    "pct_of_full_capacity": 77.2978904,
+    "month_nr": 1
+  },
+  {
+    "year": 1995,
+    "month": "Jul",
+    "elevation_ft": 1180.75,
+    "elevation_m": 359.8926,
+    "pct_of_full_capacity": 77.4913859,
+    "month_nr": 7
+  },
+  {
+    "year": 1995,
+    "month": "Jun",
+    "elevation_ft": 1179.03,
+    "elevation_m": 359.368344,
+    "pct_of_full_capacity": 76.6193141,
+    "month_nr": 6
+  },
+  {
+    "year": 1995,
+    "month": "Mar",
+    "elevation_ft": 1182.27,
+    "elevation_m": 360.355896,
+    "pct_of_full_capacity": 78.2663997,
+    "month_nr": 3
+  },
+  {
+    "year": 1995,
+    "month": "May",
+    "elevation_ft": 1178.33,
+    "elevation_m": 359.154984,
+    "pct_of_full_capacity": 76.2680881,
+    "month_nr": 5
+  },
+  {
+    "year": 1995,
+    "month": "Nov",
+    "elevation_ft": 1189.65,
+    "elevation_m": 362.60532,
+    "pct_of_full_capacity": 82.116015,
+    "month_nr": 11
+  },
+  {
+    "year": 1995,
+    "month": "Oct",
+    "elevation_ft": 1186.12,
+    "elevation_m": 361.529376,
+    "pct_of_full_capacity": 80.2577347,
+    "month_nr": 10
+  },
+  {
+    "year": 1995,
+    "month": "Sep",
+    "elevation_ft": 1184.28,
+    "elevation_m": 360.968544,
+    "pct_of_full_capacity": 79.3024682,
+    "month_nr": 9
+  },
+  {
+    "year": 1996,
+    "month": "Apr",
+    "elevation_ft": 1192.75,
+    "elevation_m": 363.5502,
+    "pct_of_full_capacity": 83.773928,
+    "month_nr": 4
+  },
+  {
+    "year": 1996,
+    "month": "Aug",
+    "elevation_ft": 1190.02,
+    "elevation_m": 362.718096,
+    "pct_of_full_capacity": 82.3115743,
+    "month_nr": 8
+  },
+  {
+    "year": 1996,
+    "month": "Dec",
+    "elevation_ft": 1194.38,
+    "elevation_m": 364.047024,
+    "pct_of_full_capacity": 84.6538288,
+    "month_nr": 12
+  },
+  {
+    "year": 1996,
+    "month": "Feb",
+    "elevation_ft": 1193.81,
+    "elevation_m": 363.873288,
+    "pct_of_full_capacity": 84.3461667,
+    "month_nr": 2
+  },
+  {
+    "year": 1996,
+    "month": "Jan",
+    "elevation_ft": 1193.45,
+    "elevation_m": 363.76356,
+    "pct_of_full_capacity": 84.151774,
+    "month_nr": 1
+  },
+  {
+    "year": 1996,
+    "month": "Jul",
+    "elevation_ft": 1190.26,
+    "elevation_m": 362.791248,
+    "pct_of_full_capacity": 82.4392826,
+    "month_nr": 7
+  },
+  {
+    "year": 1996,
+    "month": "Jun",
+    "elevation_ft": 1190.43,
+    "elevation_m": 362.843064,
+    "pct_of_full_capacity": 82.5297754,
+    "month_nr": 6
+  },
+  {
+    "year": 1996,
+    "month": "Mar",
+    "elevation_ft": 1193.81,
+    "elevation_m": 363.873288,
+    "pct_of_full_capacity": 84.3461667,
+    "month_nr": 3
+  },
+  {
+    "year": 1996,
+    "month": "May",
+    "elevation_ft": 1191.26,
+    "elevation_m": 363.096048,
+    "pct_of_full_capacity": 82.9724439,
+    "month_nr": 5
+  },
+  {
+    "year": 1996,
+    "month": "Nov",
+    "elevation_ft": 1192.71,
+    "elevation_m": 363.538008,
+    "pct_of_full_capacity": 83.752318,
+    "month_nr": 11
+  },
+  {
+    "year": 1996,
+    "month": "Oct",
+    "elevation_ft": 1191.56,
+    "elevation_m": 363.187488,
+    "pct_of_full_capacity": 83.1332626,
+    "month_nr": 10
+  },
+  {
+    "year": 1996,
+    "month": "Sep",
+    "elevation_ft": 1190.84,
+    "elevation_m": 362.968032,
+    "pct_of_full_capacity": 82.7479168,
+    "month_nr": 9
+  },
+  {
+    "year": 1997,
+    "month": "Apr",
+    "elevation_ft": 1200.01,
+    "elevation_m": 365.763048,
+    "pct_of_full_capacity": 87.7390933,
+    "month_nr": 4
+  },
+  {
+    "year": 1997,
+    "month": "Aug",
+    "elevation_ft": 1204.52,
+    "elevation_m": 367.137696,
+    "pct_of_full_capacity": 90.2658628,
+    "month_nr": 8
+  },
+  {
+    "year": 1997,
+    "month": "Dec",
+    "elevation_ft": 1214.64,
+    "elevation_m": 370.222272,
+    "pct_of_full_capacity": 96.1124139,
+    "month_nr": 12
+  },
+  {
+    "year": 1997,
+    "month": "Feb",
+    "elevation_ft": 1196.51,
+    "elevation_m": 364.696248,
+    "pct_of_full_capacity": 85.8113769,
+    "month_nr": 2
+  },
+  {
+    "year": 1997,
+    "month": "Jan",
+    "elevation_ft": 1195.63,
+    "elevation_m": 364.428024,
+    "pct_of_full_capacity": 85.3310143,
+    "month_nr": 1
+  },
+  {
+    "year": 1997,
+    "month": "Jul",
+    "elevation_ft": 1203.49,
+    "elevation_m": 366.823752,
+    "pct_of_full_capacity": 89.6861765,
+    "month_nr": 7
+  },
+  {
+    "year": 1997,
+    "month": "Jun",
+    "elevation_ft": 1202.32,
+    "elevation_m": 366.467136,
+    "pct_of_full_capacity": 89.0276847,
+    "month_nr": 6
+  },
+  {
+    "year": 1997,
+    "month": "Mar",
+    "elevation_ft": 1199.1,
+    "elevation_m": 365.48568,
+    "pct_of_full_capacity": 87.2373525,
+    "month_nr": 3
+  },
+  {
+    "year": 1997,
+    "month": "May",
+    "elevation_ft": 1199.96,
+    "elevation_m": 365.747808,
+    "pct_of_full_capacity": 87.7114639,
+    "month_nr": 5
+  },
+  {
+    "year": 1997,
+    "month": "Nov",
+    "elevation_ft": 1212.8,
+    "elevation_m": 369.66144,
+    "pct_of_full_capacity": 95.0321907,
+    "month_nr": 11
+  },
+  {
+    "year": 1997,
+    "month": "Oct",
+    "elevation_ft": 1209.64,
+    "elevation_m": 368.698272,
+    "pct_of_full_capacity": 93.1954157,
+    "month_nr": 10
+  },
+  {
+    "year": 1997,
+    "month": "Sep",
+    "elevation_ft": 1205.81,
+    "elevation_m": 367.530888,
+    "pct_of_full_capacity": 90.9980828,
+    "month_nr": 9
+  },
+  {
+    "year": 1998,
+    "month": "Apr",
+    "elevation_ft": 1212.74,
+    "elevation_m": 369.643152,
+    "pct_of_full_capacity": 94.997009,
+    "month_nr": 4
+  },
+  {
+    "year": 1998,
+    "month": "Aug",
+    "elevation_ft": 1214.3,
+    "elevation_m": 370.11864,
+    "pct_of_full_capacity": 95.9119718,
+    "month_nr": 8
+  },
+  {
+    "year": 1998,
+    "month": "Dec",
+    "elevation_ft": 1212.53,
+    "elevation_m": 369.579144,
+    "pct_of_full_capacity": 94.8740199,
+    "month_nr": 12
+  },
+  {
+    "year": 1998,
+    "month": "Feb",
+    "elevation_ft": 1214.05,
+    "elevation_m": 370.04244,
+    "pct_of_full_capacity": 95.7645752,
+    "month_nr": 2
+  },
+  {
+    "year": 1998,
+    "month": "Jan",
+    "elevation_ft": 1214.4,
+    "elevation_m": 370.14912,
+    "pct_of_full_capacity": 95.970917,
+    "month_nr": 1
+  },
+  {
+    "year": 1998,
+    "month": "Jul",
+    "elevation_ft": 1212.43,
+    "elevation_m": 369.548664,
+    "pct_of_full_capacity": 94.8154626,
+    "month_nr": 7
+  },
+  {
+    "year": 1998,
+    "month": "Jun",
+    "elevation_ft": 1211.83,
+    "elevation_m": 369.365784,
+    "pct_of_full_capacity": 94.458778,
+    "month_nr": 6
+  },
+  {
+    "year": 1998,
+    "month": "Mar",
+    "elevation_ft": 1214.26,
+    "elevation_m": 370.106448,
+    "pct_of_full_capacity": 95.8883653,
+    "month_nr": 3
+  },
+  {
+    "year": 1998,
+    "month": "May",
+    "elevation_ft": 1211.59,
+    "elevation_m": 369.292632,
+    "pct_of_full_capacity": 94.3249456,
+    "month_nr": 5
+  },
+  {
+    "year": 1998,
+    "month": "Nov",
+    "elevation_ft": 1214.79,
+    "elevation_m": 370.267992,
+    "pct_of_full_capacity": 96.2008652,
+    "month_nr": 11
+  },
+  {
+    "year": 1998,
+    "month": "Oct",
+    "elevation_ft": 1215.76,
+    "elevation_m": 370.563648,
+    "pct_of_full_capacity": 96.7756508,
+    "month_nr": 10
+  },
+  {
+    "year": 1998,
+    "month": "Sep",
+    "elevation_ft": 1214.78,
+    "elevation_m": 370.264944,
+    "pct_of_full_capacity": 96.1949655,
+    "month_nr": 9
+  },
+  {
+    "year": 1999,
+    "month": "Apr",
+    "elevation_ft": 1208.8,
+    "elevation_m": 368.44224,
+    "pct_of_full_capacity": 92.7163476,
+    "month_nr": 4
+  },
+  {
+    "year": 1999,
+    "month": "Aug",
+    "elevation_ft": 1208.74,
+    "elevation_m": 368.423952,
+    "pct_of_full_capacity": 92.6761026,
+    "month_nr": 8
+  },
+  {
+    "year": 1999,
+    "month": "Dec",
+    "elevation_ft": 1213.94,
+    "elevation_m": 370.008912,
+    "pct_of_full_capacity": 95.6998851,
+    "month_nr": 12
+  },
+  {
+    "year": 1999,
+    "month": "Feb",
+    "elevation_ft": 1213.3,
+    "elevation_m": 369.81384,
+    "pct_of_full_capacity": 95.3250689,
+    "month_nr": 2
+  },
+  {
+    "year": 1999,
+    "month": "Jan",
+    "elevation_ft": 1212.89,
+    "elevation_m": 369.688872,
+    "pct_of_full_capacity": 95.0848851,
+    "month_nr": 1
+  },
+  {
+    "year": 1999,
+    "month": "Jul",
+    "elevation_ft": 1207.28,
+    "elevation_m": 367.978944,
+    "pct_of_full_capacity": 91.8376876,
+    "month_nr": 7
+  },
+  {
+    "year": 1999,
+    "month": "Jun",
+    "elevation_ft": 1206.4,
+    "elevation_m": 367.71072,
+    "pct_of_full_capacity": 91.3346248,
+    "month_nr": 6
+  },
+  {
+    "year": 1999,
+    "month": "Mar",
+    "elevation_ft": 1211.75,
+    "elevation_m": 369.3414,
+    "pct_of_full_capacity": 94.4180704,
+    "month_nr": 3
+  },
+  {
+    "year": 1999,
+    "month": "May",
+    "elevation_ft": 1207.37,
+    "elevation_m": 368.006376,
+    "pct_of_full_capacity": 91.8893568,
+    "month_nr": 5
+  },
+  {
+    "year": 1999,
+    "month": "Nov",
+    "elevation_ft": 1212.58,
+    "elevation_m": 369.594384,
+    "pct_of_full_capacity": 94.9032619,
+    "month_nr": 11
+  },
+  {
+    "year": 1999,
+    "month": "Oct",
+    "elevation_ft": 1212.11,
+    "elevation_m": 369.451128,
+    "pct_of_full_capacity": 94.6279786,
+    "month_nr": 10
+  },
+  {
+    "year": 1999,
+    "month": "Sep",
+    "elevation_ft": 1211.29,
+    "elevation_m": 369.201192,
+    "pct_of_full_capacity": 94.1504058,
+    "month_nr": 9
+  },
+  {
+    "year": 2000,
+    "month": "Apr",
+    "elevation_ft": 1208.78,
+    "elevation_m": 368.436144,
+    "pct_of_full_capacity": 92.6990965,
+    "month_nr": 4
+  },
+  {
+    "year": 2000,
+    "month": "Aug",
+    "elevation_ft": 1196.66,
+    "elevation_m": 364.741968,
+    "pct_of_full_capacity": 85.8935069,
+    "month_nr": 8
+  },
+  {
+    "year": 2000,
+    "month": "Dec",
+    "elevation_ft": 1196.12,
+    "elevation_m": 364.577376,
+    "pct_of_full_capacity": 85.597856,
+    "month_nr": 12
+  },
+  {
+    "year": 2000,
+    "month": "Feb",
+    "elevation_ft": 1213.79,
+    "elevation_m": 369.963192,
+    "pct_of_full_capacity": 95.6120827,
+    "month_nr": 2
+  },
+  {
+    "year": 2000,
+    "month": "Jan",
+    "elevation_ft": 1214.26,
+    "elevation_m": 370.106448,
+    "pct_of_full_capacity": 95.8883691,
+    "month_nr": 1
+  },
+  {
+    "year": 2000,
+    "month": "Jul",
+    "elevation_ft": 1199.97,
+    "elevation_m": 365.750856,
+    "pct_of_full_capacity": 87.7169832,
+    "month_nr": 7
+  },
+  {
+    "year": 2000,
+    "month": "Jun",
+    "elevation_ft": 1204.09,
+    "elevation_m": 367.006632,
+    "pct_of_full_capacity": 90.0238285,
+    "month_nr": 6
+  },
+  {
+    "year": 2000,
+    "month": "Mar",
+    "elevation_ft": 1211.33,
+    "elevation_m": 369.213384,
+    "pct_of_full_capacity": 94.1736371,
+    "month_nr": 3
+  },
+  {
+    "year": 2000,
+    "month": "May",
+    "elevation_ft": 1207.67,
+    "elevation_m": 368.097816,
+    "pct_of_full_capacity": 92.0616616,
+    "month_nr": 5
+  },
+  {
+    "year": 2000,
+    "month": "Nov",
+    "elevation_ft": 1196.45,
+    "elevation_m": 364.67796,
+    "pct_of_full_capacity": 85.7784992,
+    "month_nr": 11
+  },
+  {
+    "year": 2000,
+    "month": "Oct",
+    "elevation_ft": 1196.66,
+    "elevation_m": 364.741968,
+    "pct_of_full_capacity": 85.8935069,
+    "month_nr": 10
+  },
+  {
+    "year": 2000,
+    "month": "Sep",
+    "elevation_ft": 1196.72,
+    "elevation_m": 364.760256,
+    "pct_of_full_capacity": 85.9263247,
+    "month_nr": 9
+  },
+  {
+    "year": 2001,
+    "month": "Apr",
+    "elevation_ft": 1190.76,
+    "elevation_m": 362.943648,
+    "pct_of_full_capacity": 82.7053599,
+    "month_nr": 4
+  },
+  {
+    "year": 2001,
+    "month": "Aug",
+    "elevation_ft": 1179.97,
+    "elevation_m": 359.654856,
+    "pct_of_full_capacity": 77.0943262,
+    "month_nr": 8
+  },
+  {
+    "year": 2001,
+    "month": "Dec",
+    "elevation_ft": 1177.37,
+    "elevation_m": 358.862376,
+    "pct_of_full_capacity": 75.7866309,
+    "month_nr": 12
+  },
+  {
+    "year": 2001,
+    "month": "Feb",
+    "elevation_ft": 1196.62,
+    "elevation_m": 364.729776,
+    "pct_of_full_capacity": 85.8715926,
+    "month_nr": 2
+  },
+  {
+    "year": 2001,
+    "month": "Jan",
+    "elevation_ft": 1197.27,
+    "elevation_m": 364.927896,
+    "pct_of_full_capacity": 86.2284916,
+    "month_nr": 1
+  },
+  {
+    "year": 2001,
+    "month": "Jul",
+    "elevation_ft": 1180.78,
+    "elevation_m": 359.901744,
+    "pct_of_full_capacity": 77.5066769,
+    "month_nr": 7
+  },
+  {
+    "year": 2001,
+    "month": "Jun",
+    "elevation_ft": 1183.12,
+    "elevation_m": 360.614976,
+    "pct_of_full_capacity": 78.7029096,
+    "month_nr": 6
+  },
+  {
+    "year": 2001,
+    "month": "Mar",
+    "elevation_ft": 1194.68,
+    "elevation_m": 364.138464,
+    "pct_of_full_capacity": 84.8157963,
+    "month_nr": 3
+  },
+  {
+    "year": 2001,
+    "month": "May",
+    "elevation_ft": 1187.32,
+    "elevation_m": 361.895136,
+    "pct_of_full_capacity": 80.8849617,
+    "month_nr": 5
+  },
+  {
+    "year": 2001,
+    "month": "Nov",
+    "elevation_ft": 1177.22,
+    "elevation_m": 358.816656,
+    "pct_of_full_capacity": 75.7113936,
+    "month_nr": 11
+  },
+  {
+    "year": 2001,
+    "month": "Oct",
+    "elevation_ft": 1178.03,
+    "elevation_m": 359.063544,
+    "pct_of_full_capacity": 76.1176646,
+    "month_nr": 10
+  },
+  {
+    "year": 2001,
+    "month": "Sep",
+    "elevation_ft": 1177.96,
+    "elevation_m": 359.042208,
+    "pct_of_full_capacity": 76.0825268,
+    "month_nr": 9
+  },
+  {
+    "year": 2002,
+    "month": "Apr",
+    "elevation_ft": 1167.49,
+    "elevation_m": 355.850952,
+    "pct_of_full_capacity": 70.9753446,
+    "month_nr": 4
+  },
+  {
+    "year": 2002,
+    "month": "Aug",
+    "elevation_ft": 1156.42,
+    "elevation_m": 352.476816,
+    "pct_of_full_capacity": 65.8843798,
+    "month_nr": 8
+  },
+  {
+    "year": 2002,
+    "month": "Dec",
+    "elevation_ft": 1152.13,
+    "elevation_m": 351.169224,
+    "pct_of_full_capacity": 64.0034112,
+    "month_nr": 12
+  },
+  {
+    "year": 2002,
+    "month": "Feb",
+    "elevation_ft": 1176.5,
+    "elevation_m": 358.5972,
+    "pct_of_full_capacity": 75.3522205,
+    "month_nr": 2
+  },
+  {
+    "year": 2002,
+    "month": "Jan",
+    "elevation_ft": 1177.94,
+    "elevation_m": 359.036112,
+    "pct_of_full_capacity": 76.0724809,
+    "month_nr": 1
+  },
+  {
+    "year": 2002,
+    "month": "Jul",
+    "elevation_ft": 1157.57,
+    "elevation_m": 352.827336,
+    "pct_of_full_capacity": 66.3961868,
+    "month_nr": 7
+  },
+  {
+    "year": 2002,
+    "month": "Jun",
+    "elevation_ft": 1160.19,
+    "elevation_m": 353.625912,
+    "pct_of_full_capacity": 67.1248086,
+    "month_nr": 6
+  },
+  {
+    "year": 2002,
+    "month": "Mar",
+    "elevation_ft": 1172.06,
+    "elevation_m": 357.243888,
+    "pct_of_full_capacity": 73.1699847,
+    "month_nr": 3
+  },
+  {
+    "year": 2002,
+    "month": "May",
+    "elevation_ft": 1162.39,
+    "elevation_m": 354.296472,
+    "pct_of_full_capacity": 68.5880245,
+    "month_nr": 5
+  },
+  {
+    "year": 2002,
+    "month": "Nov",
+    "elevation_ft": 1153.3,
+    "elevation_m": 351.52584,
+    "pct_of_full_capacity": 64.5099541,
+    "month_nr": 11
+  },
+  {
+    "year": 2002,
+    "month": "Oct",
+    "elevation_ft": 1154.89,
+    "elevation_m": 352.010472,
+    "pct_of_full_capacity": 65.2080858,
+    "month_nr": 10
+  },
+  {
+    "year": 2002,
+    "month": "Sep",
+    "elevation_ft": 1155.42,
+    "elevation_m": 352.172016,
+    "pct_of_full_capacity": 65.4402757,
+    "month_nr": 9
+  },
+  {
+    "year": 2003,
+    "month": "Apr",
+    "elevation_ft": 1148.27,
+    "elevation_m": 349.992696,
+    "pct_of_full_capacity": 62.3533767,
+    "month_nr": 4
+  },
+  {
+    "year": 2003,
+    "month": "Aug",
+    "elevation_ft": 1143.27,
+    "elevation_m": 348.468696,
+    "pct_of_full_capacity": 60.2641654,
+    "month_nr": 8
+  },
+  {
+    "year": 2003,
+    "month": "Dec",
+    "elevation_ft": 1139.12,
+    "elevation_m": 347.203776,
+    "pct_of_full_capacity": 58.5742726,
+    "month_nr": 12
+  },
+  {
+    "year": 2003,
+    "month": "Feb",
+    "elevation_ft": 1154.42,
+    "elevation_m": 351.867216,
+    "pct_of_full_capacity": 65.0011639,
+    "month_nr": 2
+  },
+  {
+    "year": 2003,
+    "month": "Jan",
+    "elevation_ft": 1153.33,
+    "elevation_m": 351.534984,
+    "pct_of_full_capacity": 64.5237979,
+    "month_nr": 1
+  },
+  {
+    "year": 2003,
+    "month": "Jul",
+    "elevation_ft": 1141.93,
+    "elevation_m": 348.060264,
+    "pct_of_full_capacity": 59.7151072,
+    "month_nr": 7
+  },
+  {
+    "year": 2003,
+    "month": "Jun",
+    "elevation_ft": 1143.19,
+    "elevation_m": 348.444312,
+    "pct_of_full_capacity": 60.2316769,
+    "month_nr": 6
+  },
+  {
+    "year": 2003,
+    "month": "Mar",
+    "elevation_ft": 1153.09,
+    "elevation_m": 351.461832,
+    "pct_of_full_capacity": 64.4190505,
+    "month_nr": 3
+  },
+  {
+    "year": 2003,
+    "month": "May",
+    "elevation_ft": 1144.68,
+    "elevation_m": 348.898464,
+    "pct_of_full_capacity": 60.8478025,
+    "month_nr": 5
+  },
+  {
+    "year": 2003,
+    "month": "Nov",
+    "elevation_ft": 1139.48,
+    "elevation_m": 347.313504,
+    "pct_of_full_capacity": 58.7189816,
+    "month_nr": 11
+  },
+  {
+    "year": 2003,
+    "month": "Oct",
+    "elevation_ft": 1141.17,
+    "elevation_m": 347.828616,
+    "pct_of_full_capacity": 59.4066769,
+    "month_nr": 10
+  },
+  {
+    "year": 2003,
+    "month": "Sep",
+    "elevation_ft": 1142.12,
+    "elevation_m": 348.118176,
+    "pct_of_full_capacity": 59.7926493,
+    "month_nr": 9
+  },
+  {
+    "year": 2004,
+    "month": "Apr",
+    "elevation_ft": 1134.98,
+    "elevation_m": 345.941904,
+    "pct_of_full_capacity": 56.9140046,
+    "month_nr": 4
+  },
+  {
+    "year": 2004,
+    "month": "Aug",
+    "elevation_ft": 1126.67,
+    "elevation_m": 343.409016,
+    "pct_of_full_capacity": 53.6676876,
+    "month_nr": 8
+  },
+  {
+    "year": 2004,
+    "month": "Dec",
+    "elevation_ft": 1130.01,
+    "elevation_m": 344.427048,
+    "pct_of_full_capacity": 54.9579632,
+    "month_nr": 12
+  },
+  {
+    "year": 2004,
+    "month": "Feb",
+    "elevation_ft": 1140.11,
+    "elevation_m": 347.505528,
+    "pct_of_full_capacity": 58.9730819,
+    "month_nr": 2
+  },
+  {
+    "year": 2004,
+    "month": "Jan",
+    "elevation_ft": 1140.39,
+    "elevation_m": 347.590872,
+    "pct_of_full_capacity": 59.087791,
+    "month_nr": 1
+  },
+  {
+    "year": 2004,
+    "month": "Jul",
+    "elevation_ft": 1125.73,
+    "elevation_m": 343.122504,
+    "pct_of_full_capacity": 53.3078101,
+    "month_nr": 7
+  },
+  {
+    "year": 2004,
+    "month": "Jun",
+    "elevation_ft": 1126.93,
+    "elevation_m": 343.488264,
+    "pct_of_full_capacity": 53.7672282,
+    "month_nr": 6
+  },
+  {
+    "year": 2004,
+    "month": "Mar",
+    "elevation_ft": 1138.7,
+    "elevation_m": 347.07576,
+    "pct_of_full_capacity": 58.4042688,
+    "month_nr": 3
+  },
+  {
+    "year": 2004,
+    "month": "May",
+    "elevation_ft": 1129.7,
+    "elevation_m": 344.33256,
+    "pct_of_full_capacity": 54.8392037,
+    "month_nr": 5
+  },
+  {
+    "year": 2004,
+    "month": "Nov",
+    "elevation_ft": 1130.13,
+    "elevation_m": 344.463624,
+    "pct_of_full_capacity": 55.0048239,
+    "month_nr": 11
+  },
+  {
+    "year": 2004,
+    "month": "Oct",
+    "elevation_ft": 1127.43,
+    "elevation_m": 343.640664,
+    "pct_of_full_capacity": 53.9602986,
+    "month_nr": 10
+  },
+  {
+    "year": 2004,
+    "month": "Sep",
+    "elevation_ft": 1125.86,
+    "elevation_m": 343.162128,
+    "pct_of_full_capacity": 53.3575804,
+    "month_nr": 9
+  },
+  {
+    "year": 2005,
+    "month": "Apr",
+    "elevation_ft": 1144.45,
+    "elevation_m": 348.82836,
+    "pct_of_full_capacity": 60.7526799,
+    "month_nr": 4
+  },
+  {
+    "year": 2005,
+    "month": "Aug",
+    "elevation_ft": 1139.61,
+    "elevation_m": 347.353128,
+    "pct_of_full_capacity": 58.7712481,
+    "month_nr": 8
+  },
+  {
+    "year": 2005,
+    "month": "Dec",
+    "elevation_ft": 1137.52,
+    "elevation_m": 346.716096,
+    "pct_of_full_capacity": 57.9290965,
+    "month_nr": 12
+  },
+  {
+    "year": 2005,
+    "month": "Feb",
+    "elevation_ft": 1143.25,
+    "elevation_m": 348.4626,
+    "pct_of_full_capacity": 60.2565084,
+    "month_nr": 2
+  },
+  {
+    "year": 2005,
+    "month": "Jan",
+    "elevation_ft": 1137.4,
+    "elevation_m": 346.67952,
+    "pct_of_full_capacity": 57.881317,
+    "month_nr": 1
+  },
+  {
+    "year": 2005,
+    "month": "Jul",
+    "elevation_ft": 1139.01,
+    "elevation_m": 347.170248,
+    "pct_of_full_capacity": 58.5300536,
+    "month_nr": 7
+  },
+  {
+    "year": 2005,
+    "month": "Jun",
+    "elevation_ft": 1140.46,
+    "elevation_m": 347.612208,
+    "pct_of_full_capacity": 59.1164625,
+    "month_nr": 6
+  },
+  {
+    "year": 2005,
+    "month": "Mar",
+    "elevation_ft": 1147.66,
+    "elevation_m": 349.806768,
+    "pct_of_full_capacity": 62.0964778,
+    "month_nr": 3
+  },
+  {
+    "year": 2005,
+    "month": "May",
+    "elevation_ft": 1141.89,
+    "elevation_m": 348.048072,
+    "pct_of_full_capacity": 59.7803599,
+    "month_nr": 5
+  },
+  {
+    "year": 2005,
+    "month": "Nov",
+    "elevation_ft": 1135.27,
+    "elevation_m": 346.030296,
+    "pct_of_full_capacity": 57.0294028,
+    "month_nr": 11
+  },
+  {
+    "year": 2005,
+    "month": "Oct",
+    "elevation_ft": 1137.01,
+    "elevation_m": 346.560648,
+    "pct_of_full_capacity": 57.7260337,
+    "month_nr": 10
+  },
+  {
+    "year": 2005,
+    "month": "Sep",
+    "elevation_ft": 1138.36,
+    "elevation_m": 346.972128,
+    "pct_of_full_capacity": 58.2663093,
+    "month_nr": 9
+  },
+  {
+    "year": 2006,
+    "month": "Apr",
+    "elevation_ft": 1135.94,
+    "elevation_m": 346.234512,
+    "pct_of_full_capacity": 57.2961715,
+    "month_nr": 4
+  },
+  {
+    "year": 2006,
+    "month": "Aug",
+    "elevation_ft": 1126.54,
+    "elevation_m": 343.369392,
+    "pct_of_full_capacity": 53.6179173,
+    "month_nr": 8
+  },
+  {
+    "year": 2006,
+    "month": "Dec",
+    "elevation_ft": 1128.12,
+    "elevation_m": 343.850976,
+    "pct_of_full_capacity": 54.2271057,
+    "month_nr": 12
+  },
+  {
+    "year": 2006,
+    "month": "Feb",
+    "elevation_ft": 1141.2,
+    "elevation_m": 347.83776,
+    "pct_of_full_capacity": 59.4188361,
+    "month_nr": 2
+  },
+  {
+    "year": 2006,
+    "month": "Jan",
+    "elevation_ft": 1139.46,
+    "elevation_m": 347.307408,
+    "pct_of_full_capacity": 58.7109495,
+    "month_nr": 1
+  },
+  {
+    "year": 2006,
+    "month": "Jul",
+    "elevation_ft": 1126.42,
+    "elevation_m": 343.332816,
+    "pct_of_full_capacity": 53.5719755,
+    "month_nr": 7
+  },
+  {
+    "year": 2006,
+    "month": "Jun",
+    "elevation_ft": 1128.26,
+    "elevation_m": 343.893648,
+    "pct_of_full_capacity": 54.2812404,
+    "month_nr": 6
+  },
+  {
+    "year": 2006,
+    "month": "Mar",
+    "elevation_ft": 1139.48,
+    "elevation_m": 347.313504,
+    "pct_of_full_capacity": 58.7189893,
+    "month_nr": 3
+  },
+  {
+    "year": 2006,
+    "month": "May",
+    "elevation_ft": 1131.14,
+    "elevation_m": 344.771472,
+    "pct_of_full_capacity": 55.3997703,
+    "month_nr": 5
+  },
+  {
+    "year": 2006,
+    "month": "Nov",
+    "elevation_ft": 1126.63,
+    "elevation_m": 343.396824,
+    "pct_of_full_capacity": 53.6523737,
+    "month_nr": 11
+  },
+  {
+    "year": 2006,
+    "month": "Oct",
+    "elevation_ft": 1126.13,
+    "elevation_m": 343.244424,
+    "pct_of_full_capacity": 53.4609495,
+    "month_nr": 10
+  },
+  {
+    "year": 2006,
+    "month": "Sep",
+    "elevation_ft": 1125.36,
+    "elevation_m": 343.009728,
+    "pct_of_full_capacity": 53.1661562,
+    "month_nr": 9
+  },
+  {
+    "year": 2007,
+    "month": "Apr",
+    "elevation_ft": 1120.69,
+    "elevation_m": 341.586312,
+    "pct_of_full_capacity": 51.4009571,
+    "month_nr": 4
+  },
+  {
+    "year": 2007,
+    "month": "Aug",
+    "elevation_ft": 1111.84,
+    "elevation_m": 338.888832,
+    "pct_of_full_capacity": 48.1545176,
+    "month_nr": 8
+  },
+  {
+    "year": 2007,
+    "month": "Dec",
+    "elevation_ft": 1114.81,
+    "elevation_m": 339.794088,
+    "pct_of_full_capacity": 49.2333844,
+    "month_nr": 12
+  },
+  {
+    "year": 2007,
+    "month": "Feb",
+    "elevation_ft": 1129.35,
+    "elevation_m": 344.22588,
+    "pct_of_full_capacity": 54.7027182,
+    "month_nr": 2
+  },
+  {
+    "year": 2007,
+    "month": "Jan",
+    "elevation_ft": 1129.55,
+    "elevation_m": 344.28684,
+    "pct_of_full_capacity": 54.7800536,
+    "month_nr": 1
+  },
+  {
+    "year": 2007,
+    "month": "Jul",
+    "elevation_ft": 1111.58,
+    "elevation_m": 338.809584,
+    "pct_of_full_capacity": 48.0609495,
+    "month_nr": 7
+  },
+  {
+    "year": 2007,
+    "month": "Jun",
+    "elevation_ft": 1113.5,
+    "elevation_m": 339.3948,
+    "pct_of_full_capacity": 48.7557427,
+    "month_nr": 6
+  },
+  {
+    "year": 2007,
+    "month": "Mar",
+    "elevation_ft": 1125.79,
+    "elevation_m": 343.140792,
+    "pct_of_full_capacity": 53.330781,
+    "month_nr": 3
+  },
+  {
+    "year": 2007,
+    "month": "May",
+    "elevation_ft": 1115.89,
+    "elevation_m": 340.123272,
+    "pct_of_full_capacity": 49.6269142,
+    "month_nr": 5
+  },
+  {
+    "year": 2007,
+    "month": "Nov",
+    "elevation_ft": 1111.22,
+    "elevation_m": 338.699856,
+    "pct_of_full_capacity": 47.9313936,
+    "month_nr": 11
+  },
+  {
+    "year": 2007,
+    "month": "Oct",
+    "elevation_ft": 1110.95,
+    "elevation_m": 338.61756,
+    "pct_of_full_capacity": 47.8344181,
+    "month_nr": 10
+  },
+  {
+    "year": 2007,
+    "month": "Sep",
+    "elevation_ft": 1111.06,
+    "elevation_m": 338.651088,
+    "pct_of_full_capacity": 47.8738132,
+    "month_nr": 9
+  },
+  {
+    "year": 2008,
+    "month": "Apr",
+    "elevation_ft": 1110.61,
+    "elevation_m": 338.513928,
+    "pct_of_full_capacity": 47.7133614,
+    "month_nr": 4
+  },
+  {
+    "year": 2008,
+    "month": "Aug",
+    "elevation_ft": 1105.13,
+    "elevation_m": 336.843624,
+    "pct_of_full_capacity": 45.7693721,
+    "month_nr": 8
+  },
+  {
+    "year": 2008,
+    "month": "Dec",
+    "elevation_ft": 1110.97,
+    "elevation_m": 338.623656,
+    "pct_of_full_capacity": 47.8415391,
+    "month_nr": 12
+  },
+  {
+    "year": 2008,
+    "month": "Feb",
+    "elevation_ft": 1116.93,
+    "elevation_m": 340.440264,
+    "pct_of_full_capacity": 50.0087289,
+    "month_nr": 2
+  },
+  {
+    "year": 2008,
+    "month": "Jan",
+    "elevation_ft": 1116.46,
+    "elevation_m": 340.297008,
+    "pct_of_full_capacity": 49.8359877,
+    "month_nr": 1
+  },
+  {
+    "year": 2008,
+    "month": "Jul",
+    "elevation_ft": 1104.42,
+    "elevation_m": 336.627216,
+    "pct_of_full_capacity": 45.5215161,
+    "month_nr": 7
+  },
+  {
+    "year": 2008,
+    "month": "Jun",
+    "elevation_ft": 1104.98,
+    "elevation_m": 336.797904,
+    "pct_of_full_capacity": 45.7166156,
+    "month_nr": 6
+  },
+  {
+    "year": 2008,
+    "month": "Mar",
+    "elevation_ft": 1115.65,
+    "elevation_m": 340.05012,
+    "pct_of_full_capacity": 49.5396248,
+    "month_nr": 3
+  },
+  {
+    "year": 2008,
+    "month": "May",
+    "elevation_ft": 1107.05,
+    "elevation_m": 337.42884,
+    "pct_of_full_capacity": 46.4456355,
+    "month_nr": 5
+  },
+  {
+    "year": 2008,
+    "month": "Nov",
+    "elevation_ft": 1107.33,
+    "elevation_m": 337.514184,
+    "pct_of_full_capacity": 46.5442573,
+    "month_nr": 11
+  },
+  {
+    "year": 2008,
+    "month": "Oct",
+    "elevation_ft": 1107.94,
+    "elevation_m": 337.700112,
+    "pct_of_full_capacity": 46.7591118,
+    "month_nr": 10
+  },
+  {
+    "year": 2008,
+    "month": "Sep",
+    "elevation_ft": 1105.76,
+    "elevation_m": 337.035648,
+    "pct_of_full_capacity": 45.9912711,
+    "month_nr": 9
+  },
+  {
+    "year": 2009,
+    "month": "Apr",
+    "elevation_ft": 1101.26,
+    "elevation_m": 335.664048,
+    "pct_of_full_capacity": 44.4272588,
+    "month_nr": 4
+  },
+  {
+    "year": 2009,
+    "month": "Aug",
+    "elevation_ft": 1093.73,
+    "elevation_m": 333.368904,
+    "pct_of_full_capacity": 41.8740812,
+    "month_nr": 8
+  },
+  {
+    "year": 2009,
+    "month": "Dec",
+    "elevation_ft": 1096.3,
+    "elevation_m": 334.15224,
+    "pct_of_full_capacity": 42.7350689,
+    "month_nr": 12
+  },
+  {
+    "year": 2009,
+    "month": "Feb",
+    "elevation_ft": 1111.43,
+    "elevation_m": 338.763864,
+    "pct_of_full_capacity": 48.0069678,
+    "month_nr": 2
+  },
+  {
+    "year": 2009,
+    "month": "Jan",
+    "elevation_ft": 1111.78,
+    "elevation_m": 338.870544,
+    "pct_of_full_capacity": 48.132925,
+    "month_nr": 1
+  },
+  {
+    "year": 2009,
+    "month": "Jul",
+    "elevation_ft": 1094.2,
+    "elevation_m": 333.51216,
+    "pct_of_full_capacity": 42.0306279,
+    "month_nr": 7
+  },
+  {
+    "year": 2009,
+    "month": "Jun",
+    "elevation_ft": 1095.26,
+    "elevation_m": 333.835248,
+    "pct_of_full_capacity": 42.3846861,
+    "month_nr": 6
+  },
+  {
+    "year": 2009,
+    "month": "Mar",
+    "elevation_ft": 1107.4,
+    "elevation_m": 337.53552,
+    "pct_of_full_capacity": 46.5689127,
+    "month_nr": 3
+  },
+  {
+    "year": 2009,
+    "month": "May",
+    "elevation_ft": 1096.92,
+    "elevation_m": 334.341216,
+    "pct_of_full_capacity": 42.943951,
+    "month_nr": 5
+  },
+  {
+    "year": 2009,
+    "month": "Nov",
+    "elevation_ft": 1093.52,
+    "elevation_m": 333.304896,
+    "pct_of_full_capacity": 41.8041348,
+    "month_nr": 11
+  },
+  {
+    "year": 2009,
+    "month": "Oct",
+    "elevation_ft": 1093.26,
+    "elevation_m": 333.225648,
+    "pct_of_full_capacity": 41.7175345,
+    "month_nr": 10
+  },
+  {
+    "year": 2009,
+    "month": "Sep",
+    "elevation_ft": 1093.68,
+    "elevation_m": 333.353664,
+    "pct_of_full_capacity": 41.8574273,
+    "month_nr": 9
+  },
+  {
+    "year": 2010,
+    "month": "Apr",
+    "elevation_ft": 1098,
+    "elevation_m": 334.6704,
+    "pct_of_full_capacity": 43.3116386,
+    "month_nr": 4
+  },
+  {
+    "year": 2010,
+    "month": "Aug",
+    "elevation_ft": 1086.91,
+    "elevation_m": 331.290168,
+    "pct_of_full_capacity": 39.6341501,
+    "month_nr": 8
+  },
+  {
+    "year": 2010,
+    "month": "Dec",
+    "elevation_ft": 1086.3,
+    "elevation_m": 331.10424,
+    "pct_of_full_capacity": 39.4379786,
+    "month_nr": 12
+  },
+  {
+    "year": 2010,
+    "month": "Feb",
+    "elevation_ft": 1103.21,
+    "elevation_m": 336.258408,
+    "pct_of_full_capacity": 45.0999617,
+    "month_nr": 2
+  },
+  {
+    "year": 2010,
+    "month": "Jan",
+    "elevation_ft": 1100.02,
+    "elevation_m": 335.286096,
+    "pct_of_full_capacity": 44,
+    "month_nr": 1
+  },
+  {
+    "year": 2010,
+    "month": "Jul",
+    "elevation_ft": 1086.97,
+    "elevation_m": 331.308456,
+    "pct_of_full_capacity": 39.6534456,
+    "month_nr": 7
+  },
+  {
+    "year": 2010,
+    "month": "Jun",
+    "elevation_ft": 1089.3,
+    "elevation_m": 332.01864,
+    "pct_of_full_capacity": 40.4127106,
+    "month_nr": 6
+  },
+  {
+    "year": 2010,
+    "month": "Mar",
+    "elevation_ft": 1100.66,
+    "elevation_m": 335.481168,
+    "pct_of_full_capacity": 44.2205207,
+    "month_nr": 3
+  },
+  {
+    "year": 2010,
+    "month": "May",
+    "elevation_ft": 1094.3,
+    "elevation_m": 333.54264,
+    "pct_of_full_capacity": 42.0639357,
+    "month_nr": 5
+  },
+  {
+    "year": 2010,
+    "month": "Nov",
+    "elevation_ft": 1081.94,
+    "elevation_m": 329.775312,
+    "pct_of_full_capacity": 38.0401225,
+    "month_nr": 11
+  },
+  {
+    "year": 2010,
+    "month": "Oct",
+    "elevation_ft": 1082.36,
+    "elevation_m": 329.903328,
+    "pct_of_full_capacity": 38.1733538,
+    "month_nr": 10
+  },
+  {
+    "year": 2010,
+    "month": "Sep",
+    "elevation_ft": 1083.81,
+    "elevation_m": 330.345288,
+    "pct_of_full_capacity": 38.6372129,
+    "month_nr": 9
+  },
+  {
+    "year": 2011,
+    "month": "Apr",
+    "elevation_ft": 1095.76,
+    "elevation_m": 333.987648,
+    "pct_of_full_capacity": 42.5531394,
+    "month_nr": 4
+  },
+  {
+    "year": 2011,
+    "month": "Aug",
+    "elevation_ft": 1113.45,
+    "elevation_m": 339.37956,
+    "pct_of_full_capacity": 48.7377489,
+    "month_nr": 8
+  },
+  {
+    "year": 2011,
+    "month": "Dec",
+    "elevation_ft": 1132.83,
+    "elevation_m": 345.286584,
+    "pct_of_full_capacity": 56.0630168,
+    "month_nr": 12
+  },
+  {
+    "year": 2011,
+    "month": "Feb",
+    "elevation_ft": 1095.78,
+    "elevation_m": 333.993744,
+    "pct_of_full_capacity": 42.5598775,
+    "month_nr": 2
+  },
+  {
+    "year": 2011,
+    "month": "Jan",
+    "elevation_ft": 1091.73,
+    "elevation_m": 332.759304,
+    "pct_of_full_capacity": 41.2117534,
+    "month_nr": 1
+  },
+  {
+    "year": 2011,
+    "month": "Jul",
+    "elevation_ft": 1107.07,
+    "elevation_m": 337.434936,
+    "pct_of_full_capacity": 46.4526799,
+    "month_nr": 7
+  },
+  {
+    "year": 2011,
+    "month": "Jun",
+    "elevation_ft": 1102.38,
+    "elevation_m": 336.005424,
+    "pct_of_full_capacity": 44.81317,
+    "month_nr": 6
+  },
+  {
+    "year": 2011,
+    "month": "Mar",
+    "elevation_ft": 1096.39,
+    "elevation_m": 334.179672,
+    "pct_of_full_capacity": 42.7653905,
+    "month_nr": 3
+  },
+  {
+    "year": 2011,
+    "month": "May",
+    "elevation_ft": 1097.9,
+    "elevation_m": 334.63992,
+    "pct_of_full_capacity": 43.2775651,
+    "month_nr": 5
+  },
+  {
+    "year": 2011,
+    "month": "Nov",
+    "elevation_ft": 1125.82,
+    "elevation_m": 343.149936,
+    "pct_of_full_capacity": 53.3422665,
+    "month_nr": 11
+  },
+  {
+    "year": 2011,
+    "month": "Oct",
+    "elevation_ft": 1121,
+    "elevation_m": 341.6808,
+    "pct_of_full_capacity": 51.5160796,
+    "month_nr": 10
+  },
+  {
+    "year": 2011,
+    "month": "Sep",
+    "elevation_ft": 1116.04,
+    "elevation_m": 340.168992,
+    "pct_of_full_capacity": 49.6816233,
+    "month_nr": 9
+  },
+  {
+    "year": 2012,
+    "month": "Apr",
+    "elevation_ft": 1123.93,
+    "elevation_m": 342.573864,
+    "pct_of_full_capacity": 53.5470744,
+    "month_nr": 4
+  },
+  {
+    "year": 2012,
+    "month": "Aug",
+    "elevation_ft": 1116.56,
+    "elevation_m": 340.327488,
+    "pct_of_full_capacity": 50.7997043,
+    "month_nr": 8
+  },
+  {
+    "year": 2012,
+    "month": "Dec",
+    "elevation_ft": 1120.36,
+    "elevation_m": 341.485728,
+    "pct_of_full_capacity": 52.2070427,
+    "month_nr": 12
+  },
+  {
+    "year": 2012,
+    "month": "Feb",
+    "elevation_ft": 1133.06,
+    "elevation_m": 345.356688,
+    "pct_of_full_capacity": 57.0707668,
+    "month_nr": 2
+  },
+  {
+    "year": 2012,
+    "month": "Jan",
+    "elevation_ft": 1134.18,
+    "elevation_m": 345.698064,
+    "pct_of_full_capacity": 57.5125855,
+    "month_nr": 1
+  },
+  {
+    "year": 2012,
+    "month": "Jul",
+    "elevation_ft": 1115.92,
+    "elevation_m": 340.132416,
+    "pct_of_full_capacity": 50.5646087,
+    "month_nr": 7
+  },
+  {
+    "year": 2012,
+    "month": "Jun",
+    "elevation_ft": 1115.84,
+    "elevation_m": 340.108032,
+    "pct_of_full_capacity": 50.5352856,
+    "month_nr": 6
+  },
+  {
+    "year": 2012,
+    "month": "Mar",
+    "elevation_ft": 1129.41,
+    "elevation_m": 344.244168,
+    "pct_of_full_capacity": 55.645373,
+    "month_nr": 3
+  },
+  {
+    "year": 2012,
+    "month": "May",
+    "elevation_ft": 1119.38,
+    "elevation_m": 341.187024,
+    "pct_of_full_capacity": 51.8423078,
+    "month_nr": 5
+  },
+  {
+    "year": 2012,
+    "month": "Nov",
+    "elevation_ft": 1117.24,
+    "elevation_m": 340.534752,
+    "pct_of_full_capacity": 51.0501842,
+    "month_nr": 11
+  },
+  {
+    "year": 2012,
+    "month": "Oct",
+    "elevation_ft": 1116.5,
+    "elevation_m": 340.3092,
+    "pct_of_full_capacity": 50.7776187,
+    "month_nr": 10
+  },
+  {
+    "year": 2012,
+    "month": "Sep",
+    "elevation_ft": 1115.16,
+    "elevation_m": 339.900768,
+    "pct_of_full_capacity": 50.2789646,
+    "month_nr": 9
+  },
+  {
+    "year": 2013,
+    "month": "Apr",
+    "elevation_ft": 1112.91,
+    "elevation_m": 339.214968,
+    "pct_of_full_capacity": 49.4674226,
+    "month_nr": 4
+  },
+  {
+    "year": 2013,
+    "month": "Aug",
+    "elevation_ft": 1106.13,
+    "elevation_m": 337.148424,
+    "pct_of_full_capacity": 47.0494942,
+    "month_nr": 8
+  },
+  {
+    "year": 2013,
+    "month": "Dec",
+    "elevation_ft": 1106.73,
+    "elevation_m": 337.331304,
+    "pct_of_full_capacity": 47.2602689,
+    "month_nr": 12
+  },
+  {
+    "year": 2013,
+    "month": "Feb",
+    "elevation_ft": 1122.14,
+    "elevation_m": 342.028272,
+    "pct_of_full_capacity": 52.8727688,
+    "month_nr": 2
+  },
+  {
+    "year": 2013,
+    "month": "Jan",
+    "elevation_ft": 1122.32,
+    "elevation_m": 342.083136,
+    "pct_of_full_capacity": 52.9403583,
+    "month_nr": 1
+  },
+  {
+    "year": 2013,
+    "month": "Jul",
+    "elevation_ft": 1105.92,
+    "elevation_m": 337.084416,
+    "pct_of_full_capacity": 46.9758613,
+    "month_nr": 7
+  },
+  {
+    "year": 2013,
+    "month": "Jun",
+    "elevation_ft": 1105.98,
+    "elevation_m": 337.102704,
+    "pct_of_full_capacity": 46.9968654,
+    "month_nr": 6
+  },
+  {
+    "year": 2013,
+    "month": "Mar",
+    "elevation_ft": 1118.59,
+    "elevation_m": 340.946232,
+    "pct_of_full_capacity": 51.5491834,
+    "month_nr": 3
+  },
+  {
+    "year": 2013,
+    "month": "May",
+    "elevation_ft": 1108.36,
+    "elevation_m": 337.828128,
+    "pct_of_full_capacity": 47.8358263,
+    "month_nr": 5
+  },
+  {
+    "year": 2013,
+    "month": "Nov",
+    "elevation_ft": 1106.36,
+    "elevation_m": 337.218528,
+    "pct_of_full_capacity": 47.1302196,
+    "month_nr": 11
+  },
+  {
+    "year": 2013,
+    "month": "Oct",
+    "elevation_ft": 1104.04,
+    "elevation_m": 336.511392,
+    "pct_of_full_capacity": 46.3199602,
+    "month_nr": 10
+  },
+  {
+    "year": 2013,
+    "month": "Sep",
+    "elevation_ft": 1106.92,
+    "elevation_m": 337.389216,
+    "pct_of_full_capacity": 47.3271093,
+    "month_nr": 9
+  },
+  {
+    "year": 2014,
+    "month": "Apr",
+    "elevation_ft": 1094.55,
+    "elevation_m": 333.61884,
+    "pct_of_full_capacity": 43.0839127,
+    "month_nr": 4
+  },
+  {
+    "year": 2014,
+    "month": "Aug",
+    "elevation_ft": 1081.55,
+    "elevation_m": 329.65644,
+    "pct_of_full_capacity": 38.8201417,
+    "month_nr": 8
+  },
+  {
+    "year": 2014,
+    "month": "Dec",
+    "elevation_ft": 1087.79,
+    "elevation_m": 331.558392,
+    "pct_of_full_capacity": 40.8385544,
+    "month_nr": 12
+  },
+  {
+    "year": 2014,
+    "month": "Feb",
+    "elevation_ft": 1107.94,
+    "elevation_m": 337.700112,
+    "pct_of_full_capacity": 47.6870723,
+    "month_nr": 2
+  },
+  {
+    "year": 2014,
+    "month": "Jan",
+    "elevation_ft": 1108.75,
+    "elevation_m": 337.947,
+    "pct_of_full_capacity": 47.9742611,
+    "month_nr": 1
+  },
+  {
+    "year": 2014,
+    "month": "Jul",
+    "elevation_ft": 1080.6,
+    "elevation_m": 329.36688,
+    "pct_of_full_capacity": 38.5174502,
+    "month_nr": 7
+  },
+  {
+    "year": 2014,
+    "month": "Jun",
+    "elevation_ft": 1082.66,
+    "elevation_m": 329.994768,
+    "pct_of_full_capacity": 39.1753675,
+    "month_nr": 6
+  },
+  {
+    "year": 2014,
+    "month": "Mar",
+    "elevation_ft": 1101.71,
+    "elevation_m": 335.801208,
+    "pct_of_full_capacity": 45.5144546,
+    "month_nr": 3
+  },
+  {
+    "year": 2014,
+    "month": "May",
+    "elevation_ft": 1087.46,
+    "elevation_m": 331.457808,
+    "pct_of_full_capacity": 40.7304824,
+    "month_nr": 5
+  },
+  {
+    "year": 2014,
+    "month": "Nov",
+    "elevation_ft": 1083.57,
+    "elevation_m": 330.272136,
+    "pct_of_full_capacity": 39.4677994,
+    "month_nr": 11
+  },
+  {
+    "year": 2014,
+    "month": "Oct",
+    "elevation_ft": 1082.79,
+    "elevation_m": 330.034392,
+    "pct_of_full_capacity": 39.217075,
+    "month_nr": 10
+  },
+  {
+    "year": 2014,
+    "month": "Sep",
+    "elevation_ft": 1081.33,
+    "elevation_m": 329.589384,
+    "pct_of_full_capacity": 38.7499502,
+    "month_nr": 9
+  },
+  {
+    "year": 2015,
+    "month": "Apr",
+    "elevation_ft": 1079.03,
+    "elevation_m": 328.888344,
+    "pct_of_full_capacity": 38.0198162,
+    "month_nr": 4
+  },
+  {
+    "year": 2015,
+    "month": "Aug",
+    "elevation_ft": 1078.31,
+    "elevation_m": 328.668888,
+    "pct_of_full_capacity": 37.7927205,
+    "month_nr": 8
+  },
+  {
+    "year": 2015,
+    "month": "Dec",
+    "elevation_ft": 1080.91,
+    "elevation_m": 329.461368,
+    "pct_of_full_capacity": 38.6160758,
+    "month_nr": 12
+  },
+  {
+    "year": 2015,
+    "month": "Feb",
+    "elevation_ft": 1088.98,
+    "elevation_m": 331.921104,
+    "pct_of_full_capacity": 41.2293629,
+    "month_nr": 2
+  },
+  {
+    "year": 2015,
+    "month": "Jan",
+    "elevation_ft": 1088.51,
+    "elevation_m": 331.777848,
+    "pct_of_full_capacity": 41.0747596,
+    "month_nr": 1
+  },
+  {
+    "year": 2015,
+    "month": "Jul",
+    "elevation_ft": 1078.15,
+    "elevation_m": 328.62012,
+    "pct_of_full_capacity": 37.7423315,
+    "month_nr": 7
+  },
+  {
+    "year": 2015,
+    "month": "Jun",
+    "elevation_ft": 1075.08,
+    "elevation_m": 327.684384,
+    "pct_of_full_capacity": 36.7821041,
+    "month_nr": 6
+  },
+  {
+    "year": 2015,
+    "month": "Mar",
+    "elevation_ft": 1084.87,
+    "elevation_m": 330.668376,
+    "pct_of_full_capacity": 39.9295865,
+    "month_nr": 3
+  },
+  {
+    "year": 2015,
+    "month": "May",
+    "elevation_ft": 1076.57,
+    "elevation_m": 328.138536,
+    "pct_of_full_capacity": 37.2465919,
+    "month_nr": 5
+  },
+  {
+    "year": 2015,
+    "month": "Nov",
+    "elevation_ft": 1078.23,
+    "elevation_m": 328.644504,
+    "pct_of_full_capacity": 37.767526,
+    "month_nr": 11
+  },
+  {
+    "year": 2015,
+    "month": "Oct",
+    "elevation_ft": 1078.99,
+    "elevation_m": 328.876152,
+    "pct_of_full_capacity": 38.0071738,
+    "month_nr": 10
+  },
+  {
+    "year": 2015,
+    "month": "Sep",
+    "elevation_ft": 1078.1,
+    "elevation_m": 328.60488,
+    "pct_of_full_capacity": 37.726585,
+    "month_nr": 9
+  },
+  {
+    "year": 2016,
+    "month": "Apr",
+    "elevation_ft": 1076.13,
+    "elevation_m": 328.004424,
+    "pct_of_full_capacity": 37.1091248,
+    "month_nr": 4
+  },
+  {
+    "year": 2016,
+    "month": "Aug",
+    "elevation_ft": 1075.17,
+    "elevation_m": 327.711816,
+    "pct_of_full_capacity": 36.8100896,
+    "month_nr": 8
+  },
+  {
+    "year": 2016,
+    "month": "Dec",
+    "elevation_ft": 1080.82,
+    "elevation_m": 329.433936,
+    "pct_of_full_capacity": 38.5874426,
+    "month_nr": 12
+  },
+  {
+    "year": 2016,
+    "month": "Feb",
+    "elevation_ft": 1084.17,
+    "elevation_m": 330.455016,
+    "pct_of_full_capacity": 39.6612397,
+    "month_nr": 2
+  },
+  {
+    "year": 2016,
+    "month": "Jan",
+    "elevation_ft": 1083.68,
+    "elevation_m": 330.305664,
+    "pct_of_full_capacity": 39.503242,
+    "month_nr": 1
+  },
+  {
+    "year": 2016,
+    "month": "Jul",
+    "elevation_ft": 1072.75,
+    "elevation_m": 326.9742,
+    "pct_of_full_capacity": 36.0615352,
+    "month_nr": 7
+  },
+  {
+    "year": 2016,
+    "month": "Jun",
+    "elevation_ft": 1071.64,
+    "elevation_m": 326.635872,
+    "pct_of_full_capacity": 35.7207259,
+    "month_nr": 6
+  },
+  {
+    "year": 2016,
+    "month": "Mar",
+    "elevation_ft": 1080.45,
+    "elevation_m": 329.32116,
+    "pct_of_full_capacity": 38.4697588,
+    "month_nr": 3
+  },
+  {
+    "year": 2016,
+    "month": "May",
+    "elevation_ft": 1073.8,
+    "elevation_m": 327.29424,
+    "pct_of_full_capacity": 36.3853905,
+    "month_nr": 5
+  },
+  {
+    "year": 2016,
+    "month": "Nov",
+    "elevation_ft": 1076.55,
+    "elevation_m": 328.13244,
+    "pct_of_full_capacity": 37.2403331,
+    "month_nr": 11
+  },
+  {
+    "year": 2016,
+    "month": "Oct",
+    "elevation_ft": 1076.34,
+    "elevation_m": 328.068432,
+    "pct_of_full_capacity": 37.1747136,
+    "month_nr": 10
+  },
+  {
+    "year": 2016,
+    "month": "Sep",
+    "elevation_ft": 1075.23,
+    "elevation_m": 327.730104,
+    "pct_of_full_capacity": 36.8287466,
+    "month_nr": 9
+  },
+  {
+    "year": 2017,
+    "month": "Apr",
+    "elevation_ft": 1084.89,
+    "elevation_m": 330.674472,
+    "pct_of_full_capacity": 39.8939923,
+    "month_nr": 4
+  },
+  {
+    "year": 2017,
+    "month": "Aug",
+    "elevation_ft": 1081.44,
+    "elevation_m": 329.622912,
+    "pct_of_full_capacity": 38.7850306,
+    "month_nr": 8
+  },
+  {
+    "year": 2017,
+    "month": "Dec",
+    "elevation_ft": 1082.52,
+    "elevation_m": 329.952096,
+    "pct_of_full_capacity": 39.1304518,
+    "month_nr": 12
+  },
+  {
+    "year": 2017,
+    "month": "Feb",
+    "elevation_ft": 1089.78,
+    "elevation_m": 332.164944,
+    "pct_of_full_capacity": 41.4932266,
+    "month_nr": 2
+  },
+  {
+    "year": 2017,
+    "month": "Jan",
+    "elevation_ft": 1086.08,
+    "elevation_m": 331.037184,
+    "pct_of_full_capacity": 40.2802113,
+    "month_nr": 1
+  },
+  {
+    "year": 2017,
+    "month": "Jul",
+    "elevation_ft": 1079.03,
+    "elevation_m": 328.888344,
+    "pct_of_full_capacity": 38.0198162,
+    "month_nr": 7
+  },
+  {
+    "year": 2017,
+    "month": "Jun",
+    "elevation_ft": 1079.52,
+    "elevation_m": 329.037696,
+    "pct_of_full_capacity": 38.1747825,
+    "month_nr": 6
+  },
+  {
+    "year": 2017,
+    "month": "Mar",
+    "elevation_ft": 1088.26,
+    "elevation_m": 331.701648,
+    "pct_of_full_capacity": 40.9926891,
+    "month_nr": 3
+  },
+  {
+    "year": 2017,
+    "month": "May",
+    "elevation_ft": 1081.56,
+    "elevation_m": 329.659488,
+    "pct_of_full_capacity": 38.8233369,
+    "month_nr": 5
+  },
+  {
+    "year": 2017,
+    "month": "Nov",
+    "elevation_ft": 1080.95,
+    "elevation_m": 329.47356,
+    "pct_of_full_capacity": 38.6288017,
+    "month_nr": 11
+  },
+  {
+    "year": 2017,
+    "month": "Oct",
+    "elevation_ft": 1082.3,
+    "elevation_m": 329.88504,
+    "pct_of_full_capacity": 39.0599923,
+    "month_nr": 10
+  },
+  {
+    "year": 2017,
+    "month": "Sep",
+    "elevation_ft": 1082.05,
+    "elevation_m": 329.80884,
+    "pct_of_full_capacity": 38.9799387,
+    "month_nr": 9
+  },
+  {
+    "year": 2018,
+    "month": "Apr",
+    "elevation_ft": 1084.49,
+    "elevation_m": 330.552552,
+    "pct_of_full_capacity": 39.7645658,
+    "month_nr": 4
+  },
+  {
+    "year": 2018,
+    "month": "Aug",
+    "elevation_ft": 1078.88,
+    "elevation_m": 328.842624,
+    "pct_of_full_capacity": 37.972464,
+    "month_nr": 8
+  },
+  {
+    "year": 2018,
+    "month": "Dec",
+    "elevation_ft": 1081.46,
+    "elevation_m": 329.629008,
+    "pct_of_full_capacity": 38.7914089,
+    "month_nr": 12
+  },
+  {
+    "year": 2018,
+    "month": "Feb",
+    "elevation_ft": 1088.21,
+    "elevation_m": 331.686408,
+    "pct_of_full_capacity": 40.9762764,
+    "month_nr": 2
+  },
+  {
+    "year": 2018,
+    "month": "Jan",
+    "elevation_ft": 1087.5,
+    "elevation_m": 331.47,
+    "pct_of_full_capacity": 40.7435605,
+    "month_nr": 1
+  },
+  {
+    "year": 2018,
+    "month": "Jul",
+    "elevation_ft": 1077.43,
+    "elevation_m": 328.400664,
+    "pct_of_full_capacity": 37.5160168,
+    "month_nr": 7
+  },
+  {
+    "year": 2018,
+    "month": "Jun",
+    "elevation_ft": 1076.81,
+    "elevation_m": 328.211688,
+    "pct_of_full_capacity": 37.3216975,
+    "month_nr": 6
+  },
+  {
+    "year": 2018,
+    "month": "Mar",
+    "elevation_ft": 1088.11,
+    "elevation_m": 331.655928,
+    "pct_of_full_capacity": 40.943451,
+    "month_nr": 3
+  },
+  {
+    "year": 2018,
+    "month": "May",
+    "elevation_ft": 1080,
+    "elevation_m": 329.184,
+    "pct_of_full_capacity": 38.3268683,
+    "month_nr": 5
+  },
+  {
+    "year": 2018,
+    "month": "Nov",
+    "elevation_ft": 1078.32,
+    "elevation_m": 328.671936,
+    "pct_of_full_capacity": 37.7958698,
+    "month_nr": 11
+  },
+  {
+    "year": 2018,
+    "month": "Oct",
+    "elevation_ft": 1078.52,
+    "elevation_m": 328.732896,
+    "pct_of_full_capacity": 37.8588683,
+    "month_nr": 10
+  },
+  {
+    "year": 2018,
+    "month": "Sep",
+    "elevation_ft": 1078.29,
+    "elevation_m": 328.662792,
+    "pct_of_full_capacity": 37.7864219,
+    "month_nr": 9
+  },
+  {
+    "year": 2019,
+    "month": "Apr",
+    "elevation_ft": 1088.95,
+    "elevation_m": 331.91196,
+    "pct_of_full_capacity": 41.2194946,
+    "month_nr": 4
+  },
+  {
+    "year": 2019,
+    "month": "Aug",
+    "elevation_ft": 1083.45,
+    "elevation_m": 330.23556,
+    "pct_of_full_capacity": 39.4291654,
+    "month_nr": 8
+  },
+  {
+    "year": 2019,
+    "month": "Dec",
+    "elevation_ft": 1090.49,
+    "elevation_m": 332.381352,
+    "pct_of_full_capacity": 41.7280758,
+    "month_nr": 12
+  },
+  {
+    "year": 2019,
+    "month": "Feb",
+    "elevation_ft": 1087.97,
+    "elevation_m": 331.613256,
+    "pct_of_full_capacity": 40.8975161,
+    "month_nr": 2
+  },
+  {
+    "year": 2019,
+    "month": "Jan",
+    "elevation_ft": 1085.75,
+    "elevation_m": 330.9366,
+    "pct_of_full_capacity": 40.172925,
+    "month_nr": 1
+  },
+  {
+    "year": 2019,
+    "month": "Jul",
+    "elevation_ft": 1082.82,
+    "elevation_m": 330.043536,
+    "pct_of_full_capacity": 39.2266998,
+    "month_nr": 7
+  },
+  {
+    "year": 2019,
+    "month": "Jun",
+    "elevation_ft": 1084.71,
+    "elevation_m": 330.619608,
+    "pct_of_full_capacity": 39.8357473,
+    "month_nr": 6
+  },
+  {
+    "year": 2019,
+    "month": "Mar",
+    "elevation_ft": 1090.24,
+    "elevation_m": 332.305152,
+    "pct_of_full_capacity": 41.6453231,
+    "month_nr": 3
+  },
+  {
+    "year": 2019,
+    "month": "May",
+    "elevation_ft": 1086.48,
+    "elevation_m": 331.159104,
+    "pct_of_full_capacity": 40.410441,
+    "month_nr": 5
+  },
+  {
+    "year": 2019,
+    "month": "Nov",
+    "elevation_ft": 1083.85,
+    "elevation_m": 330.35748,
+    "pct_of_full_capacity": 39.5580168,
+    "month_nr": 11
+  },
+  {
+    "year": 2019,
+    "month": "Oct",
+    "elevation_ft": 1082.61,
+    "elevation_m": 329.979528,
+    "pct_of_full_capacity": 39.1593262,
+    "month_nr": 10
+  },
+  {
+    "year": 2019,
+    "month": "Sep",
+    "elevation_ft": 1083,
+    "elevation_m": 330.0984,
+    "pct_of_full_capacity": 39.2844487,
+    "month_nr": 9
+  },
+  {
+    "year": 2020,
+    "month": "Apr",
+    "elevation_ft": 1096.39,
+    "elevation_m": 334.179672,
+    "pct_of_full_capacity": 43.7028799,
+    "month_nr": 4
+  },
+  {
+    "year": 2020,
+    "month": "Aug",
+    "elevation_ft": 1084.04,
+    "elevation_m": 330.415392,
+    "pct_of_full_capacity": 39.6192634,
+    "month_nr": 8
+  },
+  {
+    "year": 2020,
+    "month": "Dec",
+    "elevation_ft": 1083.72,
+    "elevation_m": 330.317856,
+    "pct_of_full_capacity": 39.5161302,
+    "month_nr": 12
+  },
+  {
+    "year": 2020,
+    "month": "Feb",
+    "elevation_ft": 1096.27,
+    "elevation_m": 334.143096,
+    "pct_of_full_capacity": 43.662452,
+    "month_nr": 2
+  },
+  {
+    "year": 2020,
+    "month": "Jan",
+    "elevation_ft": 1094.68,
+    "elevation_m": 333.658464,
+    "pct_of_full_capacity": 43.0805436,
+    "month_nr": 1
+  },
+  {
+    "year": 2020,
+    "month": "Jul",
+    "elevation_ft": 1084.63,
+    "elevation_m": 330.595224,
+    "pct_of_full_capacity": 39.8098606,
+    "month_nr": 7
+  },
+  {
+    "year": 2020,
+    "month": "Jun",
+    "elevation_ft": 1087.07,
+    "elevation_m": 331.338936,
+    "pct_of_full_capacity": 40.6029709,
+    "month_nr": 6
+  },
+  {
+    "year": 2020,
+    "month": "Mar",
+    "elevation_ft": 1098.59,
+    "elevation_m": 334.850232,
+    "pct_of_full_capacity": 44.4474148,
+    "month_nr": 3
+  },
+  {
+    "year": 2020,
+    "month": "May",
+    "elevation_ft": 1091.32,
+    "elevation_m": 332.634336,
+    "pct_of_full_capacity": 42.003513,
+    "month_nr": 5
+  },
+  {
+    "year": 2020,
+    "month": "Nov",
+    "elevation_ft": 1081.07,
+    "elevation_m": 329.510136,
+    "pct_of_full_capacity": 38.6670329,
+    "month_nr": 11
+  },
+  {
+    "year": 2020,
+    "month": "Oct",
+    "elevation_ft": 1081.88,
+    "elevation_m": 329.757024,
+    "pct_of_full_capacity": 38.925585,
+    "month_nr": 10
+  },
+  {
+    "year": 2020,
+    "month": "Sep",
+    "elevation_ft": 1083.21,
+    "elevation_m": 330.162408,
+    "pct_of_full_capacity": 39.3519832,
+    "month_nr": 9
+  },
+  {
+    "year": 2021,
+    "month": "Apr",
+    "elevation_ft": 1079.3,
+    "elevation_m": 328.97064,
+    "pct_of_full_capacity": 38.1051991,
+    "month_nr": 4
+  },
+  {
+    "year": 2021,
+    "month": "Aug",
+    "elevation_ft": 1067.96,
+    "elevation_m": 325.514208,
+    "pct_of_full_capacity": 34.602536,
+    "month_nr": 8
+  },
+  {
+    "year": 2021,
+    "month": "Dec",
+    "elevation_ft": 1066.39,
+    "elevation_m": 325.035672,
+    "pct_of_full_capacity": 34.1311225,
+    "month_nr": 12
+  },
+  {
+    "year": 2021,
+    "month": "Feb",
+    "elevation_ft": 1087.26,
+    "elevation_m": 331.396848,
+    "pct_of_full_capacity": 40.6650919,
+    "month_nr": 2
+  },
+  {
+    "year": 2021,
+    "month": "Jan",
+    "elevation_ft": 1085.95,
+    "elevation_m": 330.99756,
+    "pct_of_full_capacity": 40.2379173,
+    "month_nr": 1
+  },
+  {
+    "year": 2021,
+    "month": "Jul",
+    "elevation_ft": 1067.65,
+    "elevation_m": 325.41972,
+    "pct_of_full_capacity": 34.5092037,
+    "month_nr": 7
+  },
+  {
+    "year": 2021,
+    "month": "Jun",
+    "elevation_ft": 1068.77,
+    "elevation_m": 325.761096,
+    "pct_of_full_capacity": 34.847121,
+    "month_nr": 6
+  },
+  {
+    "year": 2021,
+    "month": "Mar",
+    "elevation_ft": 1084.39,
+    "elevation_m": 330.522072,
+    "pct_of_full_capacity": 39.7322764,
+    "month_nr": 3
+  },
+  {
+    "year": 2021,
+    "month": "May",
+    "elevation_ft": 1073.5,
+    "elevation_m": 327.2028,
+    "pct_of_full_capacity": 36.2926799,
+    "month_nr": 5
+  },
+  {
+    "year": 2021,
+    "month": "Nov",
+    "elevation_ft": 1064.97,
+    "elevation_m": 324.602856,
+    "pct_of_full_capacity": 33.7076639,
+    "month_nr": 11
+  },
+  {
+    "year": 2021,
+    "month": "Oct",
+    "elevation_ft": 1066.77,
+    "elevation_m": 325.151496,
+    "pct_of_full_capacity": 34.2449219,
+    "month_nr": 10
+  },
+  {
+    "year": 2021,
+    "month": "Sep",
+    "elevation_ft": 1067.68,
+    "elevation_m": 325.428864,
+    "pct_of_full_capacity": 34.5182358,
+    "month_nr": 9
+  },
+  {
+    "year": 2022,
+    "month": "Apr",
+    "elevation_ft": 1054.69,
+    "elevation_m": 321.469512,
+    "pct_of_full_capacity": 30.7256378,
+    "month_nr": 4
+  },
+  {
+    "year": 2022,
+    "month": "Aug",
+    "elevation_ft": 1044.28,
+    "elevation_m": 318.296544,
+    "pct_of_full_capacity": 27.8536564,
+    "month_nr": 8
+  },
+  {
+    "year": 2022,
+    "month": "Feb",
+    "elevation_ft": 1066.78,
+    "elevation_m": 325.154544,
+    "pct_of_full_capacity": 34.2479188,
+    "month_nr": 2
+  },
+  {
+    "year": 2022,
+    "month": "Jan",
+    "elevation_ft": 1067.09,
+    "elevation_m": 325.249032,
+    "pct_of_full_capacity": 34.3408859,
+    "month_nr": 1
+  },
+  {
+    "year": 2022,
+    "month": "Jul",
+    "elevation_ft": 1040.92,
+    "elevation_m": 317.272416,
+    "pct_of_full_capacity": 26.9304447,
+    "month_nr": 7
+  },
+  {
+    "year": 2022,
+    "month": "Jun",
+    "elevation_ft": 1043.02,
+    "elevation_m": 317.912496,
+    "pct_of_full_capacity": 27.5156342,
+    "month_nr": 6
+  },
+  {
+    "year": 2022,
+    "month": "Mar",
+    "elevation_ft": 1061.49,
+    "elevation_m": 323.542152,
+    "pct_of_full_capacity": 32.6817956,
+    "month_nr": 3
+  },
+  {
+    "year": 2022,
+    "month": "May",
+    "elevation_ft": 1047.69,
+    "elevation_m": 319.335912,
+    "pct_of_full_capacity": 28.7786577,
+    "month_nr": 5
+  },
+  {
+    "year": 2022,
+    "month": "Sep",
+    "elevation_ft": 1045.03,
+    "elevation_m": 318.525144,
+    "pct_of_full_capacity": 28.0557817,
+    "month_nr": 9
+  }
+]

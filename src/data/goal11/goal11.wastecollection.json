@@ -1,0 +1,382 @@
+[
+  {
+    "iso3c": "AGO",
+    "collection_rate": 23.1
+  },
+  {
+    "iso3c": "ALB",
+    "collection_rate": 60
+  },
+  {
+    "iso3c": "AND",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "ARG",
+    "collection_rate": 89.91
+  },
+  {
+    "iso3c": "ASM",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "ATG",
+    "collection_rate": 98.61
+  },
+  {
+    "iso3c": "AZE",
+    "collection_rate": 56
+  },
+  {
+    "iso3c": "BFA",
+    "collection_rate": 9.6
+  },
+  {
+    "iso3c": "BLR",
+    "collection_rate": 93.2
+  },
+  {
+    "iso3c": "BLZ",
+    "collection_rate": 85.2
+  },
+  {
+    "iso3c": "BMU",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "BOL",
+    "collection_rate": 57.6
+  },
+  {
+    "iso3c": "BRA",
+    "collection_rate": 91.3
+  },
+  {
+    "iso3c": "BRB",
+    "collection_rate": 90
+  },
+  {
+    "iso3c": "CAN",
+    "collection_rate": 99
+  },
+  {
+    "iso3c": "CHE",
+    "collection_rate": 99
+  },
+  {
+    "iso3c": "CHN",
+    "collection_rate": 94
+  },
+  {
+    "iso3c": "CMR",
+    "collection_rate": 61.6
+  },
+  {
+    "iso3c": "COL",
+    "collection_rate": 80.6
+  },
+  {
+    "iso3c": "CPV",
+    "collection_rate": 70.6
+  },
+  {
+    "iso3c": "CRI",
+    "collection_rate": 90.4
+  },
+  {
+    "iso3c": "CUB",
+    "collection_rate": 76.9
+  },
+  {
+    "iso3c": "DMA",
+    "collection_rate": 94
+  },
+  {
+    "iso3c": "FSM",
+    "collection_rate": 8
+  },
+  {
+    "iso3c": "GAB",
+    "collection_rate": 23.6
+  },
+  {
+    "iso3c": "GEO",
+    "collection_rate": 60
+  },
+  {
+    "iso3c": "GTM",
+    "collection_rate": 77.7
+  },
+  {
+    "iso3c": "GUM",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "GUY",
+    "collection_rate": 89
+  },
+  {
+    "iso3c": "HKG",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "HND",
+    "collection_rate": 64.6
+  },
+  {
+    "iso3c": "IDN",
+    "collection_rate": 45
+  },
+  {
+    "iso3c": "IRN",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "IRQ",
+    "collection_rate": 76
+  },
+  {
+    "iso3c": "ISL",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "JAM",
+    "collection_rate": 76
+  },
+  {
+    "iso3c": "JPN",
+    "collection_rate": 99.9
+  },
+  {
+    "iso3c": "KAZ",
+    "collection_rate": 77
+  },
+  {
+    "iso3c": "KEN",
+    "collection_rate": 40
+  },
+  {
+    "iso3c": "KIR",
+    "collection_rate": 54
+  },
+  {
+    "iso3c": "KNA",
+    "collection_rate": 95
+  },
+  {
+    "iso3c": "KOR",
+    "collection_rate": 99.92
+  },
+  {
+    "iso3c": "KWT",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "LCA",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "LIE",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "LSO",
+    "collection_rate": 20
+  },
+  {
+    "iso3c": "MAC",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "MCO",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "MDG",
+    "collection_rate": 17.7
+  },
+  {
+    "iso3c": "MDV",
+    "collection_rate": 38.2
+  },
+  {
+    "iso3c": "MHL",
+    "collection_rate": 49
+  },
+  {
+    "iso3c": "MKD",
+    "collection_rate": 73
+  },
+  {
+    "iso3c": "MMR",
+    "collection_rate": 60
+  },
+  {
+    "iso3c": "MNE",
+    "collection_rate": 75.9
+  },
+  {
+    "iso3c": "MUS",
+    "collection_rate": 98
+  },
+  {
+    "iso3c": "NCL",
+    "collection_rate": 67
+  },
+  {
+    "iso3c": "NIC",
+    "collection_rate": 92.3
+  },
+  {
+    "iso3c": "NOR",
+    "collection_rate": 99
+  },
+  {
+    "iso3c": "NRU",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "NZL",
+    "collection_rate": 97
+  },
+  {
+    "iso3c": "PAN",
+    "collection_rate": 84.9
+  },
+  {
+    "iso3c": "PER",
+    "collection_rate": 82.93
+  },
+  {
+    "iso3c": "PLW",
+    "collection_rate": 77
+  },
+  {
+    "iso3c": "PRY",
+    "collection_rate": 46.6
+  },
+  {
+    "iso3c": "PSE",
+    "collection_rate": 91.5
+  },
+  {
+    "iso3c": "PYF",
+    "collection_rate": 51
+  },
+  {
+    "iso3c": "QAT",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "SAU",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "SEN",
+    "collection_rate": 21.4
+  },
+  {
+    "iso3c": "SGP",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "SLB",
+    "collection_rate": 12
+  },
+  {
+    "iso3c": "SLV",
+    "collection_rate": 78.8
+  },
+  {
+    "iso3c": "SRB",
+    "collection_rate": 70
+  },
+  {
+    "iso3c": "STP",
+    "collection_rate": 48.4
+  },
+  {
+    "iso3c": "SUR",
+    "collection_rate": 79.5
+  },
+  {
+    "iso3c": "SYR",
+    "collection_rate": 74
+  },
+  {
+    "iso3c": "TJK",
+    "collection_rate": 38.25
+  },
+  {
+    "iso3c": "TON",
+    "collection_rate": 71
+  },
+  {
+    "iso3c": "TTO",
+    "collection_rate": 94.31
+  },
+  {
+    "iso3c": "TUN",
+    "collection_rate": 65
+  },
+  {
+    "iso3c": "TUV",
+    "collection_rate": 47
+  },
+  {
+    "iso3c": "UKR",
+    "collection_rate": 75.86
+  },
+  {
+    "iso3c": "URY",
+    "collection_rate": 98
+  },
+  {
+    "iso3c": "USA",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "VGB",
+    "collection_rate": 97.2
+  },
+  {
+    "iso3c": "VNM",
+    "collection_rate": 72
+  },
+  {
+    "iso3c": "VUT",
+    "collection_rate": 12
+  },
+  {
+    "iso3c": "WSM",
+    "collection_rate": 100
+  },
+  {
+    "iso3c": "XKX",
+    "collection_rate": 39
+  },
+  {
+    "iso3c": "YEM",
+    "collection_rate": 20
+  },
+  {
+    "iso3c": "ZMB",
+    "collection_rate": 20
+  },
+  {
+    "iso3c": "LIC",
+    "collection_rate": 39
+  },
+  {
+    "iso3c": "LMC",
+    "collection_rate": 51
+  },
+  {
+    "iso3c": "UMC",
+    "collection_rate": 82
+  },
+  {
+    "iso3c": "HIC",
+    "collection_rate": 96
+  }
+]

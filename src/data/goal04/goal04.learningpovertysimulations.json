@@ -1,0 +1,58 @@
+[
+  {
+    "income": "HIC",
+    "year": 2019,
+    "intermediate": 8,
+    "optimistic": 8,
+    "pessimistic": 8
+  },
+  {
+    "income": "HIC",
+    "year": 2022,
+    "intermediate": 13.6,
+    "optimistic": 11.8,
+    "pessimistic": 14.7
+  },
+  {
+    "income": "UMC",
+    "year": 2019,
+    "intermediate": 29.4,
+    "optimistic": 29.4,
+    "pessimistic": 29.4
+  },
+  {
+    "income": "UMC",
+    "year": 2022,
+    "intermediate": 43.1,
+    "optimistic": 41,
+    "pessimistic": 44.2
+  },
+  {
+    "income": "LMC",
+    "year": 2019,
+    "intermediate": 60.4,
+    "optimistic": 60.4,
+    "pessimistic": 60.4
+  },
+  {
+    "income": "LMC",
+    "year": 2022,
+    "intermediate": 76.7,
+    "optimistic": 74.5,
+    "pessimistic": 78.3
+  },
+  {
+    "income": "LIC",
+    "year": 2019,
+    "intermediate": 90.6,
+    "optimistic": 90.6,
+    "pessimistic": 90.6
+  },
+  {
+    "income": "LIC",
+    "year": 2022,
+    "intermediate": 91.7,
+    "optimistic": 91.6,
+    "pessimistic": 91.8
+  }
+]

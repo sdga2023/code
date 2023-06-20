@@ -1,0 +1,27 @@
+[
+  {
+    "source": "catch",
+    "target": "intended",
+    "value": 17.5
+  },
+  {
+    "source": "intended",
+    "target": "target",
+    "value": 17.5
+  },
+  {
+    "source": "catch",
+    "target": "bycatch",
+    "value": 82.5
+  },
+  {
+    "source": "bycatch",
+    "target": "commercial",
+    "value": 31.9
+  },
+  {
+    "source": "bycatch",
+    "target": "discarded",
+    "value": 50.6
+  }
+]

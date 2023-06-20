@@ -1,0 +1,550 @@
+{
+  "config": {
+    "goal": "16",
+    "headline": "Violence across societies",
+    "subhead": "",
+    "introtext": "[goal: 16] calls for promoting peaceful and inclusive societies, providing access to justice for all and building effective, accountable, and inclusive institutions. Today, almost a billion people live in fragile and conflict-affected situations. In 2022, civilians across the world faced more than 116,000 violent events —a third of them in Ukraine.",
+    "path": "data/goal16/goal16.violentevents.json",
+    "country_data_label": "number of political violence events (battle, explosions/remote violence, and violence against civilians events) in 2022",
+    "legend_label": "Political violence events",
+    "legend_units": "per 10 000 m2",
+    "targets_covered": [
+      {
+        "target": "1",
+        "translationPrefix": "goal16.config.targets_covered.#0"
+      }
+    ],
+    "source": "[link: https://acleddata.com/ ACLED]",
+    "citation": "Pirlea, Ana Florina, and Sinae Lee. 2023. “Violence across societies” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO.  [link: https://www.doi.org/10.60616/wj19-3093 https://www.doi.org/10.60616/wj19-3093]",
+    "credits": "Ana Florina Pirlea, Sinae Lee",
+    "inputs": "Alia Jane Aghajanian , Paola Marcela Ballon Fernandez, Jose Antonio Cuesta Leiva",
+    "visuals": "Jan Willem Tulp"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "[goal: 16] is about advancing just, peaceful, and inclusive societies and building effective, accountable, and inclusive institutions. The importance of safeguarding human life from violence has been recognized through [target: 16.1] which calls for significantly reducing all forms of violence and related death rates everywhere. In addition to the lives lost, homicide and armed conflict erode trust among citizens, undermine development efforts, and result in lost economic output.",
+      "translationPrefix": "goal16.content.#0"
+    },
+    {
+      "type": "subhed",
+      "text": "Deaths from homicide",
+      "translationPrefix": "goal16.content.#1"
+    },
+    {
+      "type": "text",
+      "text": "Every year hundreds of thousands of people worldwide are victims of homicide. Data on intentional homicide [footnote: Intentional homicide is defined as the unlawful killing of a person by another person where the intent of the perpetrator was to kill or seriously injure the victim. Intentional homicide is different from killings due to self-defense, reckless or negligent actions, armed conflict, and self-inflicted deaths.] is used to monitor violent deaths and is one of the indicators used to measure progress towards [target: 16.1].",
+      "translationPrefix": "goal16.content.#2"
+    },
+    {
+      "type": "scroller",
+      "graphic": "homicide_rate_total",
+      "id": "homicide_rate",
+      "path": "data/goal16/goal16.homicide_rate_all.json",
+      "title": "The global homicide rate has been decreasing, albeit slowly",
+      "subtitle": "Intentional homicides (per 100,000 people)",
+      "visdescription": "The scroller line chart initially displays the number of intentional homicides per 100,000 people worldwide and by region between 2020 and 2020. The chart then transitions into a dot plot by region, with each dot representing the homicide rate of a country within its respective region.",
+      "source": "[link: https://www.unodc.org/ UNODC], World Development Indicators ([link: https://data.worldbank.org/indicator/VC.IHR.PSRC.P5 VC.IHR.PSRC.P5])",
+      "labels": {
+        "homicide_rate": "homicide rate",
+        "world": "World",
+        "y_axis_label": "Homicide rate per 100,000"
+      },
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "homicide_rate-0",
+          "text": "Between 2010 and 2020, the global homicide rate fell slightly, from 6 victims to 5.6 victims per 100,000 people.",
+          "translationPrefix": "goal16.content.#3.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "homicide_rate-1",
+          "text": "The homicide rate in the Latin America & the Caribbean region is much higher than in any other part of the world (20 per 100,000 people), followed by Sub-Saharan Africa. The rate in Latin America has declined in recent years. It has been increasing in North America since 2019.",
+          "translationPrefix": "goal16.content.#3.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "homicide_rate-2",
+          "text": "Among all countries reporting, Jamaica had the highest incidence of homicide (45 victims per 100,000 people) in 2020. Other places with high rates include Honduras, South Africa, Mexico, Saint Lucia, and Belize.",
+          "translationPrefix": "goal16.content.#3.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "homicide-rate-3",
+          "text": "<i>You can search for a specific country using the search box</i>",
+          "translationPrefix": "goal16.content.#3.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal16.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "In Latin America & the Caribbean, gang-related violence is one of the main drivers of the high homicide rates. In these areas, both the victims and the perpetrators tend to be young men from disadvantaged backgrounds.[reference: UNODC. [link: https://www.unodc.org/unodc/en/data-and-analysis/global-study-on-homicide.html Global Study on Homicide 2019]]",
+      "translationPrefix": "goal16.content.#4"
+    },
+    {
+      "type": "text",
+      "text": "The  global homicide rate has declined over the last decade. However, due to population growth, the total number of victims rose from approximately 421,000 in 2010 to 437,000 in 2020.",
+      "translationPrefix": "goal16.content.#5"
+    },
+    {
+      "type": "text",
+      "text": "The regions with the highest homicide rates have a disproportionate number of victims compared with their population size: around 30 percent of all intentional homicides take place in Latin America & the Caribbean (a region with 8 percent of the global population). Sub-Saharan Africa has almost 40 percent of global homicides (and 15 percent of the world’s population).",
+      "translationPrefix": "goal16.content.#6"
+    },
+    {
+      "type": "vis",
+      "graphic": "homicide_rate_victims",
+      "id": "homicide_rate_victims",
+      "path": "data/goal16/goal16.homicide_rate_victims.json",
+      "title": "Sub-Saharan Africa and Latin America & the Caribbean have the highest number of victims",
+      "subtitle": "Victims of intentional homicide  (number, total)",
+      "visdescription": "The small multiple area charts show the total number of victims of intentional homicides by region from 2010 to 2020.",
+      "source": "[link: https://www.unodc.org/ UNODC]",
+      "labels": {
+        "y-axis_label": "change in homicide rate",
+        "y_axis_label": "population"
+      },
+      "translationPrefix": "goal16.content.#7"
+    },
+    {
+      "type": "text",
+      "text": "The global homicide rate saw a slight increase in 2020 after years of decline.",
+      "translationPrefix": "goal16.content.#8"
+    },
+    {
+      "type": "scroller",
+      "graphic": "homicide_rate",
+      "id": "homicide_rate",
+      "path": "data/goal16/goal16.homicide_rate.json",
+      "title": "In a few countries, the homicide rate changed significantly in the first year of the pandemic",
+      "subtitle": "Intentional homicide: change in rate and total number of victims (2019-2020)",
+      "visdescription": "The scroller column charts show changes in homicide rates (vertical axis) and the total number of homicides (horizontal axis) from 2019 to 2020 to highlight changes in intentional homicides during the pandemic.  The chart highlights the United States where increases in both rate and the number of victims are substantial.",
+      "source": "[link: https://www.unodc.org/ UNODC], World Development Indicators ([link: https://data.worldbank.org/indicator/VC.IHR.PSRC.P5 VC.IHR.PSRC.P5])",
+      "labels": {
+        "y_axis_label": "change in homicide rate",
+        "tooltip_rate_change": "change in homicide rate",
+        "tooltip_count": "total homicides (2020)",
+        "width_label": "number of homicides",
+        "height_label": "change in homicide rate"
+      },
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "homicide_rate-0",
+          "text": "The homicide rate was stable in most countries in 2020. However, a few places experienced pronounced increases or declines.",
+          "translationPrefix": "goal16.content.#9.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "homicide_rate-2",
+          "text": "This chart shows the [emphasis: changes] in [emphasis: homicide rates (vertical axis)] and in the number of [emphasis: total homicides (horizontal axis)] that took place in the first year of the pandemic (2020) compared with the year before (2019). In the <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-binary-neg);\">United States</span>, the homicide rate went up by almost 30 percent  from  2019 to  2020 (from 5 to 6.4 victims per 100,000). The country had the [emphasis: largest increase in the number of fatalities] (close to 5,000 additional victims) in the first year of the pandemic.",
+          "translationPrefix": "goal16.content.#9.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "homicide_rate-3",
+          "text": "<i>You can explore changes in other countries by hovering over the chart</i>",
+          "translationPrefix": "goal16.content.#9.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal16.content.#9"
+    },
+    {
+      "type": "subhed",
+      "text": "The gender dimension of homicide",
+      "translationPrefix": "goal16.content.#10"
+    },
+    {
+      "type": "text",
+      "text": "In most  countries with available data, the male intentional homicide rate [footnote: Male victims of intentional homicide (rate per 100,000 population)] is higher than the female rate. Globally, the male homicide rate (9 victims per 100,000) is more than four times the rate for women (2 per 100,000).",
+      "translationPrefix": "goal16.content.#11"
+    },
+    {
+      "type": "scroller",
+      "title": "The male homicide rate is higher in most countries",
+      "subtitle": "Intentional homicides (per 100,000 people), by gender, 2020",
+      "visdescription": "The radar dot plot presents the intentional homicide rate by gender, with purple dots representing male values and yellow dots representing female values. The initial scene highlights that in most countries, the male rate is higher than the female rate. It then transitions to show specific countries where the female rate surpasses the male rate. Finally, the chart focuses on countries in Latin America & the Caribbean, where both the overall rate and the gender gap are large.",
+      "source": "[link: https://www.unodc.org/  UNODC], World Development Indicators ([link: https://data.worldbank.org/indicator/VC.IHR.PSRC.FE.P5  VC.IHR.PSRC.FE.P5]), ([link: https://data.worldbank.org/indicator/VC.IHR.PSRC.MA.P5  VC.IHR.PSRC.MA.P5])",
+      "graphic": "homicides_by_sex_and_country",
+      "path": "data/goal16/goal16.homicides_by_sex_and_country.json",
+      "labels": {
+        "female_rate": "Female rate",
+        "male_rate": "Male rate"
+      },
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "victims-0",
+          "text": "Among 85 countries where gender disaggregated data is available, 76 countries have a higher male homicide rate.",
+          "translationPrefix": "goal16.content.#12.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "victims-1",
+          "text": "The countries where the female rate is higher (Austria, Iceland, Japan, Latvia, Myanmar, Singapore, Slovenia, Switzerland, and Vanuatu) have total homicide rates far below the global average.",
+          "translationPrefix": "goal16.content.#12.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "victims-2",
+          "text": "In Latin America & Caribbean, where the overall level of homicide is high, the gap between male and female rates tends to be large.",
+          "translationPrefix": "goal16.content.#12.scenes.#2"
+        }
+      ],
+      "translationPrefix": "goal16.content.#12"
+    },
+    {
+      "type": "text",
+      "text": "As a result, men account for most homicide victims. In 2020, the number of male victims was 359,000 – more than 80 percent of the worldwide total.",
+      "translationPrefix": "goal16.content.#13"
+    },
+    {
+      "type": "vis",
+      "title": "Men account for most homicide victims",
+      "subtitle": "Victims of intentional homicide  (number, by gender)",
+      "visdescription": "The stacked column chart shows the total number of victims of intentional homicide by gender from 2010 to 2020.",
+      "source": "[link: https://www.unodc.org/ UNODC]",
+      "graphic": "homicides_by_sex_over_time",
+      "path": "data/goal16/goal16.homicides_by_sex_over_time.json",
+      "labels": {
+        "legend_title": "Gender",
+        "y_axis_label": "population"
+      },
+      "translationPrefix": "goal16.content.#14"
+    },
+    {
+      "type": "text",
+      "text": "Additionally , far more men are arrested/suspected of intentional homicide than women. In countries where  data is available, men account for approximately 80 percent of those arrested/suspected.",
+      "translationPrefix": "goal16.content.#15"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "title": "More men are arrested for homicide than women",
+      "subtitle": "Persons arrested/suspected for intentional homicide by sex (total), 2020",
+      "visdescription": "The small multiple pie charts depict the proportion of men and women among persons arrested/suspected for intentional homicide in each country for 2020. The color purple represents men, and yellow represents women.",
+      "source": "[link: https://www.unodc.org/ UNODC]",
+      "graphic": "persons_arrested_suspected",
+      "path": "data/goal16/goal16.persons_arrested_suspected.json",
+      "labels": {
+        "legend_title": "Genders"
+      },
+      "translationPrefix": "goal16.content.#16"
+    },
+    {
+      "type": "subhed",
+      "text": "Causes of death and interpersonal violence",
+      "translationPrefix": "goal16.content.#17"
+    },
+    {
+      "type": "text",
+      "text": "Looking at data on causes of death is another way to see how and where violence inflicts the greatest harm (outside of war situations). Interpersonal violence is defined by the Institute for Health Metrics and Evaluation as “death from intentional use of physical force or power, threatened or actual, from another person or group not including military or police forces”.[reference: Institute for Health Metrics and Evaluation, [link: https://www.healthdata.org/gbd Global Burden of Diseases]]",
+      "translationPrefix": "goal16.content.#18"
+    },
+    {
+      "type": "scroller",
+      "graphic": "causes_of_death",
+      "id": "causes_of_death",
+      "path": "data/goal16/goal16.causes_of_death_pivot.json",
+      "title": "A large share of male deaths in Latin America & Caribbean are caused by interpersonal violence",
+      "subtitle": "Causes of death (%), 15-49 years",
+      "visdescription": "The scroller multiple column charts display the causes of death among men and women aged 15-49 years in percentage, with a focus on interpersonal violence. The first scene highlights the global level, where interpersonal violence accounts for only 4 percent of deaths. It then transitions to the Latin America & Caribbean column, where the proportion rises to 20 percent. Finally, the scene spotlights Honduras, where 28 percent of deaths result from interpersonal violence.",
+      "source": "Institute for Health Metrics and Evaluation, [link: https://www.healthdata.org/gbd Global Burden of Diseases]",
+      "labels": {
+        "legend_title": "Gender",
+        "global": "Global",
+        "male": "Male",
+        "female": "Female",
+        "tooltip_text": "{total_pct}% of total deaths (age: 15-49). Of total deaths due to <span class=”stronger”>{cause}</span> in this category {male_pct}% are Male  and {female_pct}% are Female."
+      },
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "causes_of_death-0",
+          "text": "Globally, slightly more than 4 percent of deaths between the ages of 15-49 resulted from [emphasis: interpersonal violence]  in 2019 (latest data).  Of total deaths due to interpersonal violence in this age range,  86 percent were men and 14 percent were women.",
+          "translationPrefix": "goal16.content.#19.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "causes_of_death-1",
+          "text": "In Latin America & Caribbean interpersonal violence accounted for about 20 percent of all deaths for people aged 15-49, the highest among regions. The second highest was North America at 5.7 percent.",
+          "translationPrefix": "goal16.content.#19.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "causes_of_death-2",
+          "text": "In Honduras, for example, 28 percent of the fatalities in the 15-49 age group in 2019 were the result of interpersonal violence.",
+          "translationPrefix": "goal16.content.#19.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "cause-of-death-3",
+          "text": "You can explore the country data using the search function.",
+          "translationPrefix": "goal16.content.#19.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal16.content.#19"
+    },
+    {
+      "type": "text",
+      "text": "The death toll caused by war and conflict is another consequence of violence on society. This is also measured as part [target: 16.1].",
+      "translationPrefix": "goal16.content.#20"
+    },
+    {
+      "type": "subhed",
+      "text": "War and conflict",
+      "translationPrefix": "goal16.content.#21"
+    },
+    {
+      "type": "text",
+      "text": "War inflicts suffering due to lives lost, but also causes severe damage to economies and infrastructure, setting back progress in all areas of development.",
+      "translationPrefix": "goal16.content.#22"
+    },
+    {
+      "type": "text",
+      "text": "The Armed Conflict Location & Event Data Project (ACLED) keeps track of fatalities from organized violent events, which are defined as deaths resulting from battles, explosions/remote violence, and violence against civilians.[reference: [link: https://acleddata.com/acleddatanew/wp-content/uploads/2021/11/ACLED_Codebook_v1_January-2021.pdf Armed Conflict Location & Event Data Project (ACLED) Codebook]] The map below shows fatalities resulting from conflict (organized violent events) for each year between 2018 and 2022.",
+      "translationPrefix": "goal16.content.#23"
+    },
+    {
+      "type": "scroller",
+      "graphic": "events_and_fatalities_map",
+      "id": "events_and_fatalities_map",
+      "path": "data/goal16/goal16.events_and_fatalities_map.json",
+      "title": "Many people die as a result of armed conflict",
+      "subtitle": "Number of reported fatalities from organized violent events (2018-2022)",
+      "visdescription": "The scroller dot map displays the number of reported fatalities from organized violent events between 2018 and 2022. The map starts from 2018 and transitions through each year, highlighting specific countries with the largest reported fatalities for each year. The highlighted countries include Afghanistan, Yemen, Syria, Mexico, Nigeria, and Ukraine.",
+      "source": "[link: https://acleddata.com/ ACLED]",
+      "labels": {
+        "fatalities": "Fatalities"
+      },
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "events_and_fatalities_map-0",
+          "text": "In [emphasis: 2018] almost 43,000 people died in <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-yellow200);\">Afghanistan</span> as a result of organized violent events, and over the course of five years (2018-2022) more than 160,000 people lost their lives.",
+          "translationPrefix": "goal16.content.#24.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "events_and_fatalities_map-1",
+          "text": "In [emphasis: 2019] close to 28,000 fatalities were reported in <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-yellow200);\">Yemen</span>. The conflict in the country has claimed numerous victims over the years (over 100,000 reported fatalities between 2018 and 2022, according to ACLED). The UN estimates that the war  in Yemen claimed about 377,000 lives between 2014 and 2021, with more than 60 percent of these deaths resulting from shortages of food, water, and medical care. [reference: UNDP. 2021.[link: https://www.undp.org/yemen/publications/assessing-impact-war-yemen-pathways-recovery Assessing the Impact of the War in Yemen: Pathways for Recovery]]",
+          "translationPrefix": "goal16.content.#24.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "events_and_fatalities_map-2",
+          "text": "In [emphasis: 2020] more than 8,000 fatalities were reported in <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-yellow200);\">Syria</span> stemming from organized violent events. According to the UN Human Rights Office, more than 300,000 civilians have died in the last decade in the conflict in Syria.[reference: [link: https://www.ohchr.org/en/press-releases/2022/06/un-human-rights-office-estimates-more-306000-civilians-were-killed-over-10 UN Human Rights Office of the High Comissioner]]",
+          "translationPrefix": "goal16.content.#24.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "events_and_fatalities_map-3",
+          "text": "High levels of fatalities from organized violent events have also been reported in <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-yellow200);\">Mexico</span> and <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-yellow200);\">Nigeria</span>.",
+          "translationPrefix": "goal16.content.#24.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "events_and_fatalities_map-4",
+          "text": "In 2022 the largest number of reported fatalities was in <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-yellow200);\">Ukraine</span> (over 32,000), this followed Russia’s invasion which began in February. Other countries  with a high number of casualties that year included Myanmar (19,000), Nigeria (11,000), and Mexico (8,000).",
+          "translationPrefix": "goal16.content.#24.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal16.content.#24"
+    },
+    {
+      "type": "subhed",
+      "text": "Impact of the war in Ukraine",
+      "translationPrefix": "goal16.content.#25"
+    },
+    {
+      "type": "text",
+      "text": "Since Russia’s invasion launched in February 2022, Ukraine has suffered a high  human and economic toll. More than 32,000 fatalities have been documented in the first year of the war.[reference: [link: https://acleddata.com/ ACLED]]",
+      "translationPrefix": "goal16.content.#26"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "title": "Russia’s invasion of Ukraine has claimed many lives",
+      "subtitle": "Number of reported fatalities from organized violent events",
+      "visdescription": "The line chart displays the total number of reported fatalities from organized violent events in Ukraine from 2018 to 2022.",
+      "source": "[link: https://acleddata.com/ ACLED]",
+      "graphic": "ukraine_fatalities",
+      "path": "data/goal16/goal16.ukraine_fatalities.json",
+      "labels": {
+        "y_axis": "Number of fatalities"
+      },
+      "translationPrefix": "goal16.content.#27"
+    },
+    {
+      "type": "text",
+      "text": "Over eight million people have fled Ukraine for other countries  across Europe.[footnote: These refugees have also been located elsewhere, including the United States.][reference: [link: https://data2.unhcr.org/en/situations/ukraine UNHCR]]",
+      "translationPrefix": "goal16.content.#28"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "title": "The war in Ukraine has pushed many to seek refuge outside of the country’s borders",
+      "subtitle": "Number of refugees from Ukraine",
+      "visdescription": "The line chart displays the number of refugees in Ukraine from 2010 to 2022.",
+      "source": "[link: https://data2.unhcr.org/en/situations/ukraine UNHCR]",
+      "graphic": "ukraine_refugees",
+      "path": "data/goal16/goal16.ukraine_refugees.json",
+      "labels": {
+        "y_axis": "Number of refugees"
+      },
+      "translationPrefix": "goal16.content.#29"
+    },
+    {
+      "type": "text",
+      "text": "The country’s economy contracted by more than 30 percent in 2022. It is estimated that an additional seven million Ukrainians (of a population of 44 million) were pushed into poverty in 2022, undermining more than 15 years of progress in poverty reduction.[reference: [link: https://www.worldbank.org/en/country/ukraine/overview The World Bank - Ukraine]]",
+      "translationPrefix": "goal16.content.#30"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "title": "The war has had a devastating impact on Ukraine’s economy",
+      "subtitle": "GDP growth",
+      "visdescription": "The line chart shows the estimated and projected annual percentage growth rate of GDP in Ukraine from 2018 to 2024.",
+      "source": "World Bank. World Development Indicators [link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG NY.GDP.MKTP.KD.ZG]), Global Economic Prospects (NYGDPMKTPKDZ)",
+      "graphic": "ukraine_gdp_growth",
+      "path": "data/goal16/goal16.ukraine_gdp_growth.json",
+      "labels": {
+        "y_axis": "GDP growth"
+      },
+      "translationPrefix": "goal16.content.#31"
+    },
+    {
+      "type": "subhed",
+      "text": "Fragile and conflict-affected situations",
+      "translationPrefix": "goal16.content.#32"
+    },
+    {
+      "type": "text",
+      "text": "Countries experiencing violent conflict or grappling with institutional and social fragility face severe difficulties in addressing important development challenges, such as ending extreme poverty, combating climate change, and protecting the most vulnerable members of society.[reference: The World Bank [link: https://openknowledge.worldbank.org/entities/publication/3c335532-5484-51a4-a16f-78399ab2f025 Fragility, Conflict & Violence ]]",
+      "translationPrefix": "goal16.content.#33"
+    },
+    {
+      "type": "text",
+      "text": "As of 2022, a total of 37 countries or territories (with approximately one billion people) were classified as fragile and conflict-affected situations (FCS) by the World Bank. These economies face high levels of institutional and social fragility or are affected by violent conflict.[reference: [link: https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations Classification of Fragility and Conflict Situations for World Bank Group Engagement]] More than two-thirds of these economies (25 out of 37) are in Sub-Saharan Africa and Middle East & North Africa.",
+      "translationPrefix": "goal16.content.#34"
+    },
+    {
+      "type": "vis",
+      "title": "Almost a billion people live in fragile and conflict-affected situations (FCS)",
+      "subtitle": "Number of people living in FCS",
+      "visdescription": "The choropleth bubble map showcases countries classified as fragile and conflict-affected situations, along with the corresponding population residing in those countries. Countries in conflict are represented by the color yellow, while countries experiencing institutional and social fragility are represented by the color orange. Each bubble on the map corresponds to the population of a specific country, with the bubble size proportional to the population number.",
+      "source": "World Bank. [link: https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations Classification of Fragility and Conflict Situations for World Bank Group Engagement]",
+      "graphic": "people_in_fragile_conflict",
+      "path": "data/goal16/goal16.people_in_fragile_conflict.json",
+      "labels": {
+        "fcs": "Institutional and social fragility",
+        "conflict": "Conflict",
+        "people_in_fcs": "People in FCS"
+      },
+      "translationPrefix": "goal16.content.#35"
+    },
+    {
+      "type": "text",
+      "text": "More than 40 percent of people living in extreme poverty are in countries with fragile and conflict-affected situations, and by the end of the decade, this is expected to grow to almost 60 percent. [reference: Corral, Paul; Irwin, Alexander; Krishnan, Nandini; Mahler, Daniel Gerszon; Vishwanath, Tara. 2020. [link: https://openknowledge.worldbank.org/entities/publication/3c335532-5484-51a4-a16f-78399ab2f025 Fragility and Conflict: On the Front Lines of the Fight against Poverty] Washington, DC: World Bank. (updated data as of February 2023)]",
+      "translationPrefix": "goal16.content.#36"
+    },
+    {
+      "type": "vis",
+      "title": "By the end of the decade, extreme poverty will be concentrated in fragile and conflict-affected situations (FCS)",
+      "subtitle": "Poverty trends in FCS and other economies, 2000-30",
+      "visdescription": "The two proportional stacked area charts illustrate the share of population and individuals living in extreme poverty in Fragile and Conflict-Affected States (FCS) economies compared to other economies. The charts emphasize that while the share of population in FCS economies is relatively small, the proportion of people living in poverty in FCS economies is significantly larger, exceeding 40 percent in 2022.",
+      "source": "World Bank. [link: https://openknowledge.worldbank.org/entities/publication/3c335532-5484-51a4-a16f-78399ab2f025 Fragility and Conflict: On the Front Lines of the Fight against Poverty] Washington, DC: World Bank. (updated data as of February 2023)]",
+      "graphic": "poor_vs_fcs",
+      "share_of_poor_title": "Share of poor living in FCS",
+      "share_of_global_title": "Share of global population",
+      "path": "data/goal16/goal16.poor_vs_fcs.json",
+      "labels": {
+        "x_axis": "",
+        "y_axis": "",
+        "poor": "Other economies",
+        "fcs": "Economies in FCS",
+        "share_of_poor": "Share of poor living in FCS",
+        "share_of_global": "Share of global population"
+      },
+      "translationPrefix": "goal16.content.#37"
+    },
+    {
+      "type": "text",
+      "text": "According to the World Bank’s Global Economic Prospects report, food insecurity doubled from 46 million in 2019 to 91 million in 2022 for those currently living in low-income countries that also classify as  fragile situations.[reference: World Bank Group [link: https://openknowledge.worldbank.org/entities/publication/59695a57-f323-5fa8-8c6f-d58bfa8918cd Global Economic Prospects (January 2023)]]",
+      "translationPrefix": "goal16.content.#38"
+    },
+    {
+      "type": "text",
+      "text": "The price of many food staples has increased as a result of the pandemic and trade restrictions stemming from the war in Ukraine. Those most impacted by food insecurity have been those displaced or difficult to reach in conflict situations. The impact can be especially dire on children, as prolonged malnutrition can have severe impacts on mental and physical development.",
+      "translationPrefix": "goal16.content.#39"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "title": "In poor countries most people facing food insecurity are in fragile or conflict affected situations",
+      "subtitle": "Number of people facing food insecurity in low income countries",
+      "visdescription": "The stacked bar chart displays the number of people facing food insecurity in fragile Low-Income Countries (LIC) compared to other LICs from 2019 to 2022.",
+      "source": "World Bank Group,[link: https://openknowledge.worldbank.org/entities/publication/59695a57-f323-5fa8-8c6f-d58bfa8918cd Global Economic Prospects (January 2023)]]",
+      "graphic": "food_insecurity_fcs",
+      "path": "data/goal16/goal16.food_insecurity_fcs.json",
+      "labels": {
+        "legend_fcs": "Fragile LICs",
+        "legend_other": "Other LICs",
+        "legend_title": "Millions of people"
+      },
+      "translationPrefix": "goal16.content.#40"
+    },
+    {
+      "type": "text",
+      "text": "Through years of ongoing conflict, Yemen has been suffering from one of the most dire food emergencies in the world. Approximately 17 million people (about half the country’s population) are facing food insecurity or emergency. In some areas of the country, as many as two thirds of people suffer from inadequate food consumption.[footnote: Inadequate food consumption is defined as the percent of households with a [link: https://resources.vam.wfp.org/data-analysis/quantitative/food-security/food-consumption-score Food Consumption Score] (FCS) ≤42][reference: [link: https://dataviz.vam.wfp.org/version2/reports/yemen/yemen-food-security-and-market-monitoring-dec-2022 The World Food Programme]] Macroeconomic crises, volatile food prices, flooding and drought have compounded the crisis.",
+      "translationPrefix": "goal16.content.#41"
+    },
+    {
+      "type": "vis",
+      "title": "Yemen is facing dire levels of food insecurity",
+      "subtitle": "Inadequate food consumption (share of population, by governorate), March 2023",
+      "visdescription": "The choropleth map shows the share of the population suffering from inadequate food intake in subnational governorates of Yemen in March 2023.",
+      "source": "[link: https://dataviz.vam.wfp.org/version2/reports/yemen/yemen-food-security-and-market-monitoring-dec-2022 The World Food Programme]",
+      "graphic": "yemen",
+      "path": "data/goal16/goal16.yemen.json",
+      "labels": {
+        "legend_title": "Share of the population with inadequate food intake",
+        "tooltip_label": "inadequate food intake",
+        "tooltip_na": "no data"
+      },
+      "translationPrefix": "goal16.content.#42"
+    },
+    {
+      "type": "text",
+      "text": "Violence and conflict exact a heavy toll in terms of casualties, economic losses, displaced people, as well as daily insecurities and deprivations. The impact of violence is often disproportionately distributed amongst the most vulnerable, including women, children, or the elderly. Reducing violence helps improve social cohesion and increase people's trust in institutions and in each other, making positive development outcomes easier to achieve.",
+      "translationPrefix": "goal16.content.#43"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "Many National Human Rights Institutions (NHRI) worldwide are not fully compliant with the Paris Principles.",
+          "shorttitle": "Many National Human Rights Institutions (NHRI) worldwide are not fully compliant with the Paris Principles.",
+          "subtitle": "Existence of independent NHRIs in compliance with the Paris Principles by accreditation status, 2021",
+          "note": "The [link: https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris Paris Principles] are internationally recognized standards used to evaluate the credibility, independence, and effectiveness of national human rights institutions.",
+          "source": "United Nations Office of the High Commissioner for Human Rights (OHCHR). Retrieved from [link: https://unstats.un.org/sdgs/dataportal/database UN SDG Portal (16.a)].",
+          "target": "16.a",
+          "image": "goal16/sdg16_paris_principle.png",
+          "translationPrefix": "goal16.content.#44.charts.#0"
+        },
+        {
+          "title": "Bribery is more prevalent in low- and middle-income countries, but variation exists within income groups.",
+          "shorttitle": "Bribery is more prevalent in low- and middle-income countries, but variation exists within income groups.",
+          "subtitle": "Bribery incidence (% of firms experiencing at least one bribe payment request), most recent value in 2017-21",
+          "source": "World Bank. Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/IC.FRM.BRIB.ZS IC.FRM.BRIB.ZS]).",
+          "target": "16.5.2",
+          "image": "goal16/sdg16_bribery_rev.png",
+          "translationPrefix": "goal16.content.#44.charts.#1"
+        }
+      ],
+      "translationPrefix": "goal16.content.#44"
+    }
+  ]
+}

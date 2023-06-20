@@ -1,0 +1,27 @@
+[
+  {
+    "Source": "Coastal population",
+    "Share": 59.8,
+    "Amount (in million tonnes per year)": "4.8-12.7"
+  },
+  {
+    "Source": "Inland population",
+    "Share": 12.1,
+    "Amount (in million tonnes per year)": "0.72-1.52"
+  },
+  {
+    "Source": "Fishing",
+    "Share": 17.9,
+    "Amount (in million tonnes per year)": "0.29-3.5"
+  },
+  {
+    "Source": "Aquaculture",
+    "Share": 1.3,
+    "Amount (in million tonnes per year)": "0.014-0.17"
+  },
+  {
+    "Source": "Shipping",
+    "Share": 8.9,
+    "Amount (in million tonnes per year)": "0.1-1.4"
+  }
+]

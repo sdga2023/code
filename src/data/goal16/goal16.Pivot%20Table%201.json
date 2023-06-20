@@ -1,0 +1,632 @@
+[
+  {
+    "iso3c": null
+  },
+  {
+    "iso3c": "AFG"
+  },
+  {
+    "iso3c": "AGO"
+  },
+  {
+    "iso3c": "ALB"
+  },
+  {
+    "iso3c": "AND"
+  },
+  {
+    "iso3c": "ARE"
+  },
+  {
+    "iso3c": "ARG"
+  },
+  {
+    "iso3c": "ARM"
+  },
+  {
+    "iso3c": "ASM"
+  },
+  {
+    "iso3c": "ATG"
+  },
+  {
+    "iso3c": "AUS"
+  },
+  {
+    "iso3c": "AUT"
+  },
+  {
+    "iso3c": "AZE"
+  },
+  {
+    "iso3c": "BDI"
+  },
+  {
+    "iso3c": "BEL"
+  },
+  {
+    "iso3c": "BEN"
+  },
+  {
+    "iso3c": "BFA"
+  },
+  {
+    "iso3c": "BGD"
+  },
+  {
+    "iso3c": "BGR"
+  },
+  {
+    "iso3c": "BHR"
+  },
+  {
+    "iso3c": "BHS"
+  },
+  {
+    "iso3c": "BIH"
+  },
+  {
+    "iso3c": "BLR"
+  },
+  {
+    "iso3c": "BLZ"
+  },
+  {
+    "iso3c": "BMU"
+  },
+  {
+    "iso3c": "BOL"
+  },
+  {
+    "iso3c": "BRA"
+  },
+  {
+    "iso3c": "BRB"
+  },
+  {
+    "iso3c": "BRN"
+  },
+  {
+    "iso3c": "BTN"
+  },
+  {
+    "iso3c": "BWA"
+  },
+  {
+    "iso3c": "CAF"
+  },
+  {
+    "iso3c": "CAN"
+  },
+  {
+    "iso3c": "CHE"
+  },
+  {
+    "iso3c": "CHL"
+  },
+  {
+    "iso3c": "CHN"
+  },
+  {
+    "iso3c": "CIV"
+  },
+  {
+    "iso3c": "CMR"
+  },
+  {
+    "iso3c": "COD"
+  },
+  {
+    "iso3c": "COG"
+  },
+  {
+    "iso3c": "COL"
+  },
+  {
+    "iso3c": "COM"
+  },
+  {
+    "iso3c": "CPV"
+  },
+  {
+    "iso3c": "CRI"
+  },
+  {
+    "iso3c": "CUB"
+  },
+  {
+    "iso3c": "CYP"
+  },
+  {
+    "iso3c": "CZE"
+  },
+  {
+    "iso3c": "DEU"
+  },
+  {
+    "iso3c": "DJI"
+  },
+  {
+    "iso3c": "DMA"
+  },
+  {
+    "iso3c": "DNK"
+  },
+  {
+    "iso3c": "DOM"
+  },
+  {
+    "iso3c": "DZA"
+  },
+  {
+    "iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS"
+  },
+  {
+    "iso3c": "ECU"
+  },
+  {
+    "iso3c": "EGY"
+  },
+  {
+    "iso3c": "ERI"
+  },
+  {
+    "iso3c": "ESP"
+  },
+  {
+    "iso3c": "EST"
+  },
+  {
+    "iso3c": "ETH"
+  },
+  {
+    "iso3c": "FIN"
+  },
+  {
+    "iso3c": "FJI"
+  },
+  {
+    "iso3c": "FRA"
+  },
+  {
+    "iso3c": "FSM"
+  },
+  {
+    "iso3c": "GAB"
+  },
+  {
+    "iso3c": "GBR"
+  },
+  {
+    "iso3c": "GEO"
+  },
+  {
+    "iso3c": "GHA"
+  },
+  {
+    "iso3c": "GIN"
+  },
+  {
+    "iso3c": "GMB"
+  },
+  {
+    "iso3c": "GNB"
+  },
+  {
+    "iso3c": "GNQ"
+  },
+  {
+    "iso3c": "GRC"
+  },
+  {
+    "iso3c": "GRD"
+  },
+  {
+    "iso3c": "GRL"
+  },
+  {
+    "iso3c": "GTM"
+  },
+  {
+    "iso3c": "GUM"
+  },
+  {
+    "iso3c": "GUY"
+  },
+  {
+    "iso3c": "HND"
+  },
+  {
+    "iso3c": "HRV"
+  },
+  {
+    "iso3c": "HTI"
+  },
+  {
+    "iso3c": "HUN"
+  },
+  {
+    "iso3c": "IDN"
+  },
+  {
+    "iso3c": "IND"
+  },
+  {
+    "iso3c": "IRL"
+  },
+  {
+    "iso3c": "IRN"
+  },
+  {
+    "iso3c": "IRQ"
+  },
+  {
+    "iso3c": "ISL"
+  },
+  {
+    "iso3c": "ISR"
+  },
+  {
+    "iso3c": "ITA"
+  },
+  {
+    "iso3c": "JAM"
+  },
+  {
+    "iso3c": "JOR"
+  },
+  {
+    "iso3c": "JPN"
+  },
+  {
+    "iso3c": "KAZ"
+  },
+  {
+    "iso3c": "KEN"
+  },
+  {
+    "iso3c": "KGZ"
+  },
+  {
+    "iso3c": "KHM"
+  },
+  {
+    "iso3c": "KIR"
+  },
+  {
+    "iso3c": "KNA"
+  },
+  {
+    "iso3c": "KOR"
+  },
+  {
+    "iso3c": "KWT"
+  },
+  {
+    "iso3c": "LAO"
+  },
+  {
+    "iso3c": "LBN"
+  },
+  {
+    "iso3c": "LBR"
+  },
+  {
+    "iso3c": "LBY"
+  },
+  {
+    "iso3c": "LCA"
+  },
+  {
+    "iso3c": "LCN"
+  },
+  {
+    "iso3c": "LKA"
+  },
+  {
+    "iso3c": "LSO"
+  },
+  {
+    "iso3c": "LTU"
+  },
+  {
+    "iso3c": "LUX"
+  },
+  {
+    "iso3c": "LVA"
+  },
+  {
+    "iso3c": "MAR"
+  },
+  {
+    "iso3c": "MCO"
+  },
+  {
+    "iso3c": "MDA"
+  },
+  {
+    "iso3c": "MDG"
+  },
+  {
+    "iso3c": "MDV"
+  },
+  {
+    "iso3c": "MEA"
+  },
+  {
+    "iso3c": "MEX"
+  },
+  {
+    "iso3c": "MHL"
+  },
+  {
+    "iso3c": "MKD"
+  },
+  {
+    "iso3c": "MLI"
+  },
+  {
+    "iso3c": "MLT"
+  },
+  {
+    "iso3c": "MMR"
+  },
+  {
+    "iso3c": "MNE"
+  },
+  {
+    "iso3c": "MNG"
+  },
+  {
+    "iso3c": "MNP"
+  },
+  {
+    "iso3c": "MOZ"
+  },
+  {
+    "iso3c": "MRT"
+  },
+  {
+    "iso3c": "MUS"
+  },
+  {
+    "iso3c": "MWI"
+  },
+  {
+    "iso3c": "MYS"
+  },
+  {
+    "iso3c": "NAC"
+  },
+  {
+    "iso3c": "NAM"
+  },
+  {
+    "iso3c": "NER"
+  },
+  {
+    "iso3c": "NGA"
+  },
+  {
+    "iso3c": "NIC"
+  },
+  {
+    "iso3c": "NLD"
+  },
+  {
+    "iso3c": "NOR"
+  },
+  {
+    "iso3c": "NPL"
+  },
+  {
+    "iso3c": "NRU"
+  },
+  {
+    "iso3c": "NZL"
+  },
+  {
+    "iso3c": "OMN"
+  },
+  {
+    "iso3c": "PAK"
+  },
+  {
+    "iso3c": "PAN"
+  },
+  {
+    "iso3c": "PER"
+  },
+  {
+    "iso3c": "PHL"
+  },
+  {
+    "iso3c": "PLW"
+  },
+  {
+    "iso3c": "PNG"
+  },
+  {
+    "iso3c": "POL"
+  },
+  {
+    "iso3c": "PRI"
+  },
+  {
+    "iso3c": "PRK"
+  },
+  {
+    "iso3c": "PRT"
+  },
+  {
+    "iso3c": "PRY"
+  },
+  {
+    "iso3c": "PSE"
+  },
+  {
+    "iso3c": "QAT"
+  },
+  {
+    "iso3c": "ROU"
+  },
+  {
+    "iso3c": "RUS"
+  },
+  {
+    "iso3c": "RWA"
+  },
+  {
+    "iso3c": "SAS"
+  },
+  {
+    "iso3c": "SAU"
+  },
+  {
+    "iso3c": "SDN"
+  },
+  {
+    "iso3c": "SEN"
+  },
+  {
+    "iso3c": "SGP"
+  },
+  {
+    "iso3c": "SLB"
+  },
+  {
+    "iso3c": "SLE"
+  },
+  {
+    "iso3c": "SLV"
+  },
+  {
+    "iso3c": "SMR"
+  },
+  {
+    "iso3c": "SOM"
+  },
+  {
+    "iso3c": "SRB"
+  },
+  {
+    "iso3c": "SSD"
+  },
+  {
+    "iso3c": "SSF"
+  },
+  {
+    "iso3c": "STP"
+  },
+  {
+    "iso3c": "SUR"
+  },
+  {
+    "iso3c": "SVK"
+  },
+  {
+    "iso3c": "SVN"
+  },
+  {
+    "iso3c": "SWE"
+  },
+  {
+    "iso3c": "SWZ"
+  },
+  {
+    "iso3c": "SYC"
+  },
+  {
+    "iso3c": "SYR"
+  },
+  {
+    "iso3c": "TCD"
+  },
+  {
+    "iso3c": "TGO"
+  },
+  {
+    "iso3c": "THA"
+  },
+  {
+    "iso3c": "TJK"
+  },
+  {
+    "iso3c": "TKM"
+  },
+  {
+    "iso3c": "TLS"
+  },
+  {
+    "iso3c": "TON"
+  },
+  {
+    "iso3c": "TTO"
+  },
+  {
+    "iso3c": "TUN"
+  },
+  {
+    "iso3c": "TUR"
+  },
+  {
+    "iso3c": "TUV"
+  },
+  {
+    "iso3c": "TWN"
+  },
+  {
+    "iso3c": "TZA"
+  },
+  {
+    "iso3c": "UGA"
+  },
+  {
+    "iso3c": "UKR"
+  },
+  {
+    "iso3c": "URY"
+  },
+  {
+    "iso3c": "USA"
+  },
+  {
+    "iso3c": "UZB"
+  },
+  {
+    "iso3c": "VCT"
+  },
+  {
+    "iso3c": "VEN"
+  },
+  {
+    "iso3c": "VIR"
+  },
+  {
+    "iso3c": "VNM"
+  },
+  {
+    "iso3c": "VUT"
+  },
+  {
+    "iso3c": "WLD"
+  },
+  {
+    "iso3c": "WSM"
+  },
+  {
+    "iso3c": "YEM"
+  },
+  {
+    "iso3c": "ZAF"
+  },
+  {
+    "iso3c": "ZMB"
+  },
+  {
+    "iso3c": "ZWE"
+  }
+]

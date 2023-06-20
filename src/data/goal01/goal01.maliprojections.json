@@ -1,0 +1,176 @@
+[
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2206.3655,
+    "ghgpc_need_baseline": 0.33455941,
+    "ghgpc_need_energy": 0.33455941
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2317.0457,
+    "ghgpc_need_baseline": 0.35406968,
+    "ghgpc_need_energy": 0.33774722
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2433.2781,
+    "ghgpc_need_baseline": 0.37471768,
+    "ghgpc_need_energy": 0.34096539
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2555.3411,
+    "ghgpc_need_baseline": 0.39656982,
+    "ghgpc_need_energy": 0.3442142
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2683.5273,
+    "ghgpc_need_baseline": 0.41969627,
+    "ghgpc_need_energy": 0.34749398
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2818.144,
+    "ghgpc_need_baseline": 0.4441714,
+    "ghgpc_need_energy": 0.35080501
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 2959.5137,
+    "ghgpc_need_baseline": 0.47007379,
+    "ghgpc_need_energy": 0.35414761
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 3107.9749,
+    "ghgpc_need_baseline": 0.49748716,
+    "ghgpc_need_energy": 0.35752216
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 3263.8835,
+    "ghgpc_need_baseline": 0.52649873,
+    "ghgpc_need_energy": 0.36092877
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 3427.6133,
+    "ghgpc_need_baseline": 0.55720216,
+    "ghgpc_need_energy": 0.36436781
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 3599.5562,
+    "ghgpc_need_baseline": 0.58969605,
+    "ghgpc_need_energy": 0.36783963
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 3780.1245,
+    "ghgpc_need_baseline": 0.62408495,
+    "ghgpc_need_energy": 0.37134451
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 3969.751,
+    "ghgpc_need_baseline": 0.66047925,
+    "ghgpc_need_energy": 0.37488282
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 4168.8896,
+    "ghgpc_need_baseline": 0.69899595,
+    "ghgpc_need_energy": 0.3784548
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 4378.0181,
+    "ghgpc_need_baseline": 0.73975879,
+    "ghgpc_need_energy": 0.38206086
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 4597.6372,
+    "ghgpc_need_baseline": 0.78289872,
+    "ghgpc_need_energy": 0.38570127
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 4828.2734,
+    "ghgpc_need_baseline": 0.82855463,
+    "ghgpc_need_energy": 0.38937634
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 5070.479,
+    "ghgpc_need_baseline": 0.87687308,
+    "ghgpc_need_energy": 0.39308646
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 5324.835,
+    "ghgpc_need_baseline": 0.92800921,
+    "ghgpc_need_energy": 0.3968319
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 5591.9502,
+    "ghgpc_need_baseline": 0.98212743,
+    "ghgpc_need_energy": 0.40061304
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 5872.4653,
+    "ghgpc_need_baseline": 1.0394017,
+    "ghgpc_need_energy": 0.40443021
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 6167.0522,
+    "ghgpc_need_baseline": 1.1000159,
+    "ghgpc_need_energy": 0.40828377
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 6476.4165,
+    "ghgpc_need_baseline": 1.164165,
+    "ghgpc_need_energy": 0.41217402
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 6801.2998,
+    "ghgpc_need_baseline": 1.2320549,
+    "ghgpc_need_energy": 0.41610137
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 7142.4805,
+    "ghgpc_need_baseline": 1.3039041,
+    "ghgpc_need_energy": 0.42006612
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 7500.7764,
+    "ghgpc_need_baseline": 1.3799433,
+    "ghgpc_need_energy": 0.42406863
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 7877.0459,
+    "ghgpc_need_baseline": 1.4604167,
+    "ghgpc_need_energy": 0.42810929
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 8272.1904,
+    "ghgpc_need_baseline": 1.545583,
+    "ghgpc_need_energy": 0.43218845
+  },
+  {
+    "iso3c": "MLI",
+    "gdppc_need_baseline": 8687.1572,
+    "ghgpc_need_baseline": 1.635716,
+    "ghgpc_need_energy": 0.43630651
+  }
+]

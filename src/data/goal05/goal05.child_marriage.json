@@ -1,0 +1,728 @@
+[
+  {
+    "code": "NER",
+    "country": "Niger",
+    "married_by_15": 0.28,
+    "married_by_18": 0.763
+  },
+  {
+    "code": "CAF",
+    "country": "Central African Republic",
+    "married_by_15": 0.258,
+    "married_by_18": 0.61
+  },
+  {
+    "code": "TCD",
+    "country": "Chad",
+    "married_by_15": 0.242,
+    "married_by_18": 0.606
+  },
+  {
+    "code": "MLI",
+    "country": "Mali",
+    "married_by_15": 0.159,
+    "married_by_18": 0.537
+  },
+  {
+    "code": "MOZ",
+    "country": "Mozambique",
+    "married_by_15": 0.168,
+    "married_by_18": 0.529
+  },
+  {
+    "code": "BFA",
+    "country": "Burkina Faso",
+    "married_by_15": 0.102,
+    "married_by_18": 0.516
+  },
+  {
+    "code": "SSD",
+    "country": "South Sudan",
+    "married_by_15": 0.08855218,
+    "married_by_18": 0.5154554
+  },
+  {
+    "code": "BGD",
+    "country": "Bangladesh",
+    "married_by_15": 0.1548339997,
+    "married_by_18": 0.5141993793
+  },
+  {
+    "code": "GIN",
+    "country": "Guinea",
+    "married_by_15": 0.17,
+    "married_by_18": 0.465
+  },
+  {
+    "code": "NGA",
+    "country": "Nigeria",
+    "married_by_15": 0.157,
+    "married_by_18": 0.434
+  },
+  {
+    "code": "MWI",
+    "country": "Malawi",
+    "married_by_15": 0.09,
+    "married_by_18": 0.421
+  },
+  {
+    "code": "ERI",
+    "country": "Eritrea",
+    "married_by_15": 0.1285728,
+    "married_by_18": 0.4067618
+  },
+  {
+    "code": "ETH",
+    "country": "Ethiopia",
+    "married_by_15": 0.141,
+    "married_by_18": 0.403
+  },
+  {
+    "code": "MDG",
+    "country": "Madagascar",
+    "married_by_15": 0.1273039145,
+    "married_by_18": 0.4028252799
+  },
+  {
+    "code": "MRT",
+    "country": "Mauritania",
+    "married_by_15": 0.178,
+    "married_by_18": 0.3698420177
+  },
+  {
+    "code": "SUR",
+    "country": "Suriname",
+    "married_by_15": 0.08801885158,
+    "married_by_18": 0.3603528096
+  },
+  {
+    "code": "DOM",
+    "country": "Dominican Republic",
+    "married_by_15": 0.123,
+    "married_by_18": 0.359
+  },
+  {
+    "code": "SOM",
+    "country": "Somalia",
+    "married_by_15": 0.168,
+    "married_by_18": 0.355
+  },
+  {
+    "code": "NIC",
+    "country": "Nicaragua",
+    "married_by_15": 0.097,
+    "married_by_18": 0.352
+  },
+  {
+    "code": "SDN",
+    "country": "Sudan",
+    "married_by_15": 0.11875164,
+    "married_by_18": 0.3419883
+  },
+  {
+    "code": "UGA",
+    "country": "Uganda",
+    "married_by_15": 0.073,
+    "married_by_18": 0.34
+  },
+  {
+    "code": "ZWE",
+    "country": "Zimbabwe",
+    "married_by_15": 0.05418352119,
+    "married_by_18": 0.336580568
+  },
+  {
+    "code": "HND",
+    "country": "Honduras",
+    "married_by_15": 0.076,
+    "married_by_18": 0.336
+  },
+  {
+    "code": "BLZ",
+    "country": "Belize",
+    "married_by_15": 0.063,
+    "married_by_18": 0.335
+  },
+  {
+    "code": "NPL",
+    "country": "Nepal",
+    "married_by_15": 0.079,
+    "married_by_18": 0.328
+  },
+  {
+    "code": "LAO",
+    "country": "Lao PDR",
+    "married_by_15": 0.071,
+    "married_by_18": 0.327
+  },
+  {
+    "code": "YEM",
+    "country": "Yemen, Rep.",
+    "married_by_15": 0.094,
+    "married_by_18": 0.319
+  },
+  {
+    "code": "COM",
+    "country": "Comoros",
+    "married_by_15": 0.1,
+    "married_by_18": 0.316
+  },
+  {
+    "code": "BEN",
+    "country": "Benin",
+    "married_by_15": 0.094,
+    "married_by_18": 0.306
+  },
+  {
+    "code": "SEN",
+    "country": "Senegal",
+    "married_by_15": 0.088,
+    "married_by_18": 0.305
+  },
+  {
+    "code": "TZA",
+    "country": "Tanzania",
+    "married_by_15": 0.052,
+    "married_by_18": 0.305
+  },
+  {
+    "code": "AGO",
+    "country": "Angola",
+    "married_by_15": 0.079,
+    "married_by_18": 0.303
+  },
+  {
+    "code": "GUY",
+    "country": "Guyana",
+    "married_by_15": 0.036,
+    "married_by_18": 0.302
+  },
+  {
+    "code": "CMR",
+    "country": "Cameroon",
+    "married_by_15": 0.107,
+    "married_by_18": 0.298
+  },
+  {
+    "code": "SLE",
+    "country": "Sierra Leone",
+    "married_by_15": 0.086,
+    "married_by_18": 0.296
+  },
+  {
+    "code": "GNQ",
+    "country": "Equatorial Guinea",
+    "married_by_15": 0.086,
+    "married_by_18": 0.295
+  },
+  {
+    "code": "GTM",
+    "country": "Guatemala",
+    "married_by_15": 0.062,
+    "married_by_18": 0.295
+  },
+  {
+    "code": "CUB",
+    "country": "Cuba",
+    "married_by_15": 0.048,
+    "married_by_18": 0.294
+  },
+  {
+    "code": "COD",
+    "country": "Congo, Dem. Rep.",
+    "married_by_15": 0.08444061036,
+    "married_by_18": 0.291127603
+  },
+  {
+    "code": "ZMB",
+    "country": "Zambia",
+    "married_by_15": 0.052,
+    "married_by_18": 0.29
+  },
+  {
+    "code": "AFG",
+    "country": "Afghanistan",
+    "married_by_15": 0.04201457,
+    "married_by_18": 0.2825738
+  },
+  {
+    "code": "STP",
+    "country": "Sao Tome and Principe",
+    "married_by_15": 0.054,
+    "married_by_18": 0.28
+  },
+  {
+    "code": "IRQ",
+    "country": "Iraq",
+    "married_by_15": 0.072,
+    "married_by_18": 0.279
+  },
+  {
+    "code": "PNG",
+    "country": "Papua New Guinea",
+    "married_by_15": 0.08,
+    "married_by_18": 0.273
+  },
+  {
+    "code": "COG",
+    "country": "Congo, Rep.",
+    "married_by_15": 0.069,
+    "married_by_18": 0.273
+  },
+  {
+    "code": "CIV",
+    "country": "Cote d'Ivoire",
+    "married_by_15": 0.07,
+    "married_by_18": 0.27
+  },
+  {
+    "code": "PAN",
+    "country": "Panama",
+    "married_by_15": 0.068,
+    "married_by_18": 0.264
+  },
+  {
+    "code": "BTN",
+    "country": "Bhutan",
+    "married_by_15": 0.062,
+    "married_by_18": 0.258
+  },
+  {
+    "code": "GNB",
+    "country": "Guinea-Bissau",
+    "married_by_15": 0.081,
+    "married_by_18": 0.257
+  },
+  {
+    "code": "SLV",
+    "country": "El Salvador",
+    "married_by_15": 0.058,
+    "married_by_18": 0.255
+  },
+  {
+    "code": "IND",
+    "country": "India",
+    "married_by_15": 0.054,
+    "married_by_18": 0.253
+  },
+  {
+    "code": "LBR",
+    "country": "Liberia",
+    "married_by_15": 0.058,
+    "married_by_18": 0.249
+  },
+  {
+    "code": "TGO",
+    "country": "Togo",
+    "married_by_15": 0.064,
+    "married_by_18": 0.248
+  },
+  {
+    "code": "URY",
+    "country": "Uruguay",
+    "married_by_15": 0.007,
+    "married_by_18": 0.2462669186
+  },
+  {
+    "code": "LCA",
+    "country": "St. Lucia",
+    "married_by_15": 0.03709589,
+    "married_by_18": 0.2399081
+  },
+  {
+    "code": "COL",
+    "country": "Colombia",
+    "married_by_15": 0.049,
+    "married_by_18": 0.234
+  },
+  {
+    "code": "GMB",
+    "country": "Gambia, The",
+    "married_by_15": 0.056,
+    "married_by_18": 0.231
+  },
+  {
+    "code": "KEN",
+    "country": "Kenya",
+    "married_by_15": 0.044,
+    "married_by_18": 0.229
+  },
+  {
+    "code": "ECU",
+    "country": "Ecuador",
+    "married_by_15": 0.038,
+    "married_by_18": 0.222
+  },
+  {
+    "code": "GAB",
+    "country": "Gabon",
+    "married_by_15": 0.056,
+    "married_by_18": 0.219
+  },
+  {
+    "code": "PRY",
+    "country": "Paraguay",
+    "married_by_15": 0.036,
+    "married_by_18": 0.216
+  },
+  {
+    "code": "VUT",
+    "country": "Vanuatu",
+    "married_by_15": 0.02475145,
+    "married_by_18": 0.2138568
+  },
+  {
+    "code": "SLB",
+    "country": "Solomon Islands",
+    "married_by_15": 0.0559622,
+    "married_by_18": 0.2128157
+  },
+  {
+    "code": "MEX",
+    "country": "Mexico",
+    "married_by_15": 0.036302,
+    "married_by_18": 0.20701
+  },
+  {
+    "code": "THA",
+    "country": "Thailand",
+    "married_by_15": 0.03,
+    "married_by_18": 0.202
+  },
+  {
+    "code": "BOL",
+    "country": "Bolivia",
+    "married_by_15": 0.034297907,
+    "married_by_18": 0.196611257
+  },
+  {
+    "code": "GHA",
+    "country": "Ghana",
+    "married_by_15": 0.05002300718,
+    "married_by_18": 0.193291986
+  },
+  {
+    "code": "BDI",
+    "country": "Burundi",
+    "married_by_15": 0.028,
+    "married_by_18": 0.19
+  },
+  {
+    "code": "KHM",
+    "country": "Cambodia",
+    "married_by_15": 0.019,
+    "married_by_18": 0.185
+  },
+  {
+    "code": "KIR",
+    "country": "Kiribati",
+    "married_by_15": 0.02391157856,
+    "married_by_18": 0.1843464835
+  },
+  {
+    "code": "PAK",
+    "country": "Pakistan",
+    "married_by_15": 0.036,
+    "married_by_18": 0.183
+  },
+  {
+    "code": "PER",
+    "country": "Peru",
+    "married_by_15": 0.02521869032,
+    "married_by_18": 0.1742714615
+  },
+  {
+    "code": "EGY",
+    "country": "Egypt, Arab Rep.",
+    "married_by_15": 0.02,
+    "married_by_18": 0.174
+  },
+  {
+    "code": "CRI",
+    "country": "Costa Rica",
+    "married_by_15": 0.02,
+    "married_by_18": 0.171
+  },
+  {
+    "code": "IRN",
+    "country": "Iran, Islamic Rep.",
+    "married_by_15": 0.027,
+    "married_by_18": 0.17
+  },
+  {
+    "code": "PHL",
+    "country": "Philippines",
+    "married_by_15": 0.022,
+    "married_by_18": 0.165
+  },
+  {
+    "code": "LSO",
+    "country": "Lesotho",
+    "married_by_15": 0.01037508994,
+    "married_by_18": 0.1641238527
+  },
+  {
+    "code": "IDN",
+    "country": "Indonesia",
+    "married_by_15": 0.02,
+    "married_by_18": 0.163
+  },
+  {
+    "code": "MMR",
+    "country": "Myanmar",
+    "married_by_15": 0.019,
+    "married_by_18": 0.16
+  },
+  {
+    "code": "TLS",
+    "country": "Timor-Leste",
+    "married_by_15": 0.026,
+    "married_by_18": 0.149
+  },
+  {
+    "code": "HTI",
+    "country": "Haiti",
+    "married_by_15": 0.021,
+    "married_by_18": 0.149
+  },
+  {
+    "code": "TUR",
+    "country": "Turkiye",
+    "married_by_15": 0.02,
+    "married_by_18": 0.147
+  },
+  {
+    "code": "GEO",
+    "country": "Georgia",
+    "married_by_15": 0.003,
+    "married_by_18": 0.139
+  },
+  {
+    "code": "MAR",
+    "country": "Morocco",
+    "married_by_15": 0.005,
+    "married_by_18": 0.137
+  },
+  {
+    "code": "PSE",
+    "country": "West Bank and Gaza",
+    "married_by_15": 0.007,
+    "married_by_18": 0.134
+  },
+  {
+    "code": "KGZ",
+    "country": "Kyrgyz Republic",
+    "married_by_15": 0.003072951171,
+    "married_by_18": 0.12867392
+  },
+  {
+    "code": "MDA",
+    "country": "Moldova",
+    "married_by_15": 0.004,
+    "married_by_18": 0.122
+  },
+  {
+    "code": "MNG",
+    "country": "Mongolia",
+    "married_by_15": 0.009288641544,
+    "married_by_18": 0.1203123058
+  },
+  {
+    "code": "ALB",
+    "country": "Albania",
+    "married_by_15": 0.014,
+    "married_by_18": 0.118
+  },
+  {
+    "code": "TTO",
+    "country": "Trinidad and Tobago",
+    "married_by_15": 0.027,
+    "married_by_18": 0.111829983
+  },
+  {
+    "code": "AZE",
+    "country": "Azerbaijan",
+    "married_by_15": 0.019,
+    "married_by_18": 0.11
+  },
+  {
+    "code": "BRB",
+    "country": "Barbados",
+    "married_by_15": 0.006612519,
+    "married_by_18": 0.10712449
+  },
+  {
+    "code": "VNM",
+    "country": "Vietnam",
+    "married_by_15": 0.009,
+    "married_by_18": 0.1056603565
+  },
+  {
+    "code": "TON",
+    "country": "Tonga",
+    "married_by_15": 0.004,
+    "married_by_18": 0.101
+  },
+  {
+    "code": "LKA",
+    "country": "Sri Lanka",
+    "married_by_15": 0.009,
+    "married_by_18": 0.098
+  },
+  {
+    "code": "JOR",
+    "country": "Jordan",
+    "married_by_15": 0.015,
+    "married_by_18": 0.097
+  },
+  {
+    "code": "UKR",
+    "country": "Ukraine",
+    "married_by_15": 0.001,
+    "married_by_18": 0.09058896548
+  },
+  {
+    "code": "TJK",
+    "country": "Tajikistan",
+    "married_by_15": 0.001,
+    "married_by_18": 0.087
+  },
+  {
+    "code": "JAM",
+    "country": "Jamaica",
+    "married_by_15": 0.013649266,
+    "married_by_18": 0.07867521
+  },
+  {
+    "code": "MKD",
+    "country": "North Macedonia",
+    "married_by_15": 0.003,
+    "married_by_18": 0.075
+  },
+  {
+    "code": "WSM",
+    "country": "Samoa",
+    "married_by_15": 0.009,
+    "married_by_18": 0.074
+  },
+  {
+    "code": "KAZ",
+    "country": "Kazakhstan",
+    "married_by_15": 0.002,
+    "married_by_18": 0.07
+  },
+  {
+    "code": "NAM",
+    "country": "Namibia",
+    "married_by_15": 0.016,
+    "married_by_18": 0.069
+  },
+  {
+    "code": "TKM",
+    "country": "Turkmenistan",
+    "married_by_15": 0.002,
+    "married_by_18": 0.061
+  },
+  {
+    "code": "LBN",
+    "country": "Lebanon",
+    "married_by_15": 0.014,
+    "married_by_18": 0.06
+  },
+  {
+    "code": "MNE",
+    "country": "Montenegro",
+    "married_by_15": 0.019,
+    "married_by_18": 0.058
+  },
+  {
+    "code": "SRB",
+    "country": "Serbia",
+    "married_by_15": 0.012,
+    "married_by_18": 0.055
+  },
+  {
+    "code": "RWA",
+    "country": "Rwanda",
+    "married_by_15": 0.003,
+    "married_by_18": 0.055
+  },
+  {
+    "code": "SWZ",
+    "country": "Eswatini",
+    "married_by_15": 0.008186311,
+    "married_by_18": 0.053025
+  },
+  {
+    "code": "DJI",
+    "country": "Djibouti",
+    "married_by_15": 0.013,
+    "married_by_18": 0.053
+  },
+  {
+    "code": "ARM",
+    "country": "Armenia",
+    "married_by_15": 0,
+    "married_by_18": 0.053
+  },
+  {
+    "code": "BLR",
+    "country": "Belarus",
+    "married_by_15": 0.001,
+    "married_by_18": 0.047
+  },
+  {
+    "code": "QAT",
+    "country": "Qatar",
+    "married_by_15": 0,
+    "married_by_18": 0.0416574132
+  },
+  {
+    "code": "OMN",
+    "country": "Oman",
+    "married_by_15": 0.012,
+    "married_by_18": 0.04
+  },
+  {
+    "code": "DZA",
+    "country": "Algeria",
+    "married_by_15": 0,
+    "married_by_18": 0.038
+  },
+  {
+    "code": "ZAF",
+    "country": "South Africa",
+    "married_by_15": 0.009,
+    "married_by_18": 0.036
+  },
+  {
+    "code": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "married_by_15": 0.00157505,
+    "married_by_18": 0.03496291
+  },
+  {
+    "code": "MDV",
+    "country": "Maldives",
+    "married_by_15": 0,
+    "married_by_18": 0.022
+  },
+  {
+    "code": "TUN",
+    "country": "Tunisia",
+    "married_by_15": 0,
+    "married_by_18": 0.0148592558
+  },
+  {
+    "code": "PRK",
+    "country": "Korea, Dem. People's Rep.",
+    "married_by_15": 0,
+    "married_by_18": 0.001
+  },
+  {
+    "code": "SGP",
+    "country": "Singapore",
+    "married_by_15": 0,
+    "married_by_18": 0.001
+  }
+]

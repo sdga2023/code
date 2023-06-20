@@ -1,0 +1,50 @@
+[
+  {
+    "Entity": "Low income",
+    "Type": 2019,
+    "CO2 emissions": 196.95,
+    "CO2 emissions per capita": 2.9e-7
+  },
+  {
+    "Entity": "Lower middle income",
+    "Type": 2019,
+    "CO2 emissions": 5781.14,
+    "CO2 emissions per capita": 0.00000175
+  },
+  {
+    "Entity": "High income",
+    "Type": 2019,
+    "CO2 emissions": 11878.69,
+    "CO2 emissions per capita": 0.00000991
+  },
+  {
+    "Entity": "Upper middle income",
+    "Type": 2019,
+    "CO2 emissions": 16025.23,
+    "CO2 emissions per capita": 0.00000638
+  },
+  {
+    "Entity": "High income",
+    "Type": "Cumulative",
+    "CO2 emissions": 980000000000,
+    "CO2 emissions per capita": 817.0302826
+  },
+  {
+    "Entity": "Upper middle income",
+    "Type": "Cumulative",
+    "CO2 emissions": 524000000000,
+    "CO2 emissions per capita": 208.7739937
+  },
+  {
+    "Entity": "Lower middle income",
+    "Type": "Cumulative",
+    "CO2 emissions": 172000000000,
+    "CO2 emissions per capita": 51.89288259
+  },
+  {
+    "Entity": "Low income",
+    "Type": "Cumulative",
+    "CO2 emissions": 9990000000,
+    "CO2 emissions per capita": 14.68855173
+  }
+]

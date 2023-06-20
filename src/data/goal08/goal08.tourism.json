@@ -1,0 +1,902 @@
+[
+  {
+    "iso3c": "AFG",
+    "tourism": "< 5% GDP",
+    "change_gdp": -22.60069512,
+    "pop": 40099462
+  },
+  {
+    "iso3c": "ALB",
+    "tourism": ">= 10% GDP",
+    "change_gdp": 4.737392477,
+    "pop": 2811666
+  },
+  {
+    "iso3c": "DZA",
+    "tourism": "< 5% GDP",
+    "change_gdp": -1.7785,
+    "pop": 44177969
+  },
+  {
+    "iso3c": "AGO",
+    "tourism": "< 5% GDP",
+    "change_gdp": -4.5616,
+    "pop": 34503774
+  },
+  {
+    "iso3c": "ATG",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -15.98583106,
+    "pop": 93219
+  },
+  {
+    "iso3c": "ARG",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.5789080639,
+    "pop": 45808747
+  },
+  {
+    "iso3c": "ARM",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -1.9104,
+    "pop": 2790974
+  },
+  {
+    "iso3c": "ABW",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -4.608806005,
+    "pop": 106537
+  },
+  {
+    "iso3c": "AUS",
+    "tourism": "< 5% GDP",
+    "change_gdp": 2.184189199,
+    "pop": 25688079
+  },
+  {
+    "iso3c": "AUT",
+    "tourism": "5-10% GDP",
+    "change_gdp": -2.191215275,
+    "pop": 8955797
+  },
+  {
+    "iso3c": "AZE",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.059235562,
+    "pop": 10137750
+  },
+  {
+    "iso3c": "BHS",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -13.37127126,
+    "pop": 407906
+  },
+  {
+    "iso3c": "BHR",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -2.820343847,
+    "pop": 1463265
+  },
+  {
+    "iso3c": "BGD",
+    "tourism": "< 5% GDP",
+    "change_gdp": 10.62594355,
+    "pop": 169356251
+  },
+  {
+    "iso3c": "BRB",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -13.47510024,
+    "pop": 281200
+  },
+  {
+    "iso3c": "BLR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.584181667,
+    "pop": 9340314
+  },
+  {
+    "iso3c": "BEL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0.4436190603,
+    "pop": 11592952
+  },
+  {
+    "iso3c": "BEN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 11.27964253,
+    "pop": 12996895
+  },
+  {
+    "iso3c": "BMU",
+    "tourism": "5-10% GDP",
+    "change_gdp": -1.794596398,
+    "pop": 63867
+  },
+  {
+    "iso3c": "BTN",
+    "tourism": "< 5% GDP",
+    "change_gdp": -6.33123881,
+    "pop": 777486
+  },
+  {
+    "iso3c": "BOL",
+    "tourism": "< 5% GDP",
+    "change_gdp": -3.165598326,
+    "pop": 12079472
+  },
+  {
+    "iso3c": "BIH",
+    "tourism": "5-10% GDP",
+    "change_gdp": 4.190931706,
+    "pop": 3270943
+  },
+  {
+    "iso3c": "BWA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.651418668,
+    "pop": 2588423
+  },
+  {
+    "iso3c": "BRA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0.5615728735,
+    "pop": 214326223
+  },
+  {
+    "iso3c": "BGR",
+    "tourism": "5-10% GDP",
+    "change_gdp": 3.373770343,
+    "pop": 6877743
+  },
+  {
+    "iso3c": "BFA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 8.969981395,
+    "pop": 22100683
+  },
+  {
+    "iso3c": "CPV",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -8.858764965,
+    "pop": 587925
+  },
+  {
+    "iso3c": "KHM",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -0.1633145862,
+    "pop": 16589023
+  },
+  {
+    "iso3c": "CMR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 3.919337138,
+    "pop": 27198628
+  },
+  {
+    "iso3c": "CYM",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -3.94926214,
+    "pop": 68136
+  },
+  {
+    "iso3c": "CHL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 4.992448023,
+    "pop": 19493184
+  },
+  {
+    "iso3c": "COL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 2.87632984,
+    "pop": 51516562
+  },
+  {
+    "iso3c": "COM",
+    "tourism": "5-10% GDP",
+    "change_gdp": 1.912508207,
+    "pop": 821625
+  },
+  {
+    "iso3c": "COG",
+    "tourism": "< 5% GDP",
+    "change_gdp": -8.302057044,
+    "pop": 5835806
+  },
+  {
+    "iso3c": "CRI",
+    "tourism": "5-10% GDP",
+    "change_gdp": 3.221615898,
+    "pop": 5153957
+  },
+  {
+    "iso3c": "CIV",
+    "tourism": "< 5% GDP",
+    "change_gdp": 9.156049826,
+    "pop": 27478249
+  },
+  {
+    "iso3c": "HRV",
+    "tourism": ">= 10% GDP",
+    "change_gdp": 3.370221878,
+    "pop": 3899000
+  },
+  {
+    "iso3c": "CUB",
+    "tourism": "< 5% GDP",
+    "change_gdp": -9.831550473,
+    "pop": 11256372
+  },
+  {
+    "iso3c": "CYP",
+    "tourism": ">= 10% GDP",
+    "change_gdp": 1.976167414,
+    "pop": 1244188
+  },
+  {
+    "iso3c": "CZE",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.153781999,
+    "pop": 10505772
+  },
+  {
+    "iso3c": "ECU",
+    "tourism": "< 5% GDP",
+    "change_gdp": -3.882180575,
+    "pop": 17797737
+  },
+  {
+    "iso3c": "EGY",
+    "tourism": "< 5% GDP",
+    "change_gdp": 7.015165262,
+    "pop": 109262178
+  },
+  {
+    "iso3c": "SLV",
+    "tourism": "5-10% GDP",
+    "change_gdp": 1.260765338,
+    "pop": 6314167
+  },
+  {
+    "iso3c": "EST",
+    "tourism": "5-10% GDP",
+    "change_gdp": 7.418307385,
+    "pop": 1330932
+  },
+  {
+    "iso3c": "SWZ",
+    "tourism": "< 5% GDP",
+    "change_gdp": 6.200712407,
+    "pop": 1192271
+  },
+  {
+    "iso3c": "FJI",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -21.24285714,
+    "pop": 924610
+  },
+  {
+    "iso3c": "FIN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0.7025261324,
+    "pop": 5541017
+  },
+  {
+    "iso3c": "FRA",
+    "tourism": "< 5% GDP",
+    "change_gdp": -1.498640632,
+    "pop": 67749632
+  },
+  {
+    "iso3c": "PYF",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -9.078169957,
+    "pop": 304032
+  },
+  {
+    "iso3c": "GAB",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.4023478855,
+    "pop": 2341179
+  },
+  {
+    "iso3c": "GMB",
+    "tourism": ">= 10% GDP",
+    "change_gdp": 4.882209293,
+    "pop": 2639916
+  },
+  {
+    "iso3c": "GEO",
+    "tourism": ">= 10% GDP",
+    "change_gdp": 2.997581125,
+    "pop": 3708610
+  },
+  {
+    "iso3c": "GHA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 5.897948716,
+    "pop": 32833031
+  },
+  {
+    "iso3c": "GRC",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -1.329057493,
+    "pop": 10641221
+  },
+  {
+    "iso3c": "GTM",
+    "tourism": "< 5% GDP",
+    "change_gdp": 6.075899188,
+    "pop": 17109746
+  },
+  {
+    "iso3c": "GIN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 9.012156761,
+    "pop": 13531906
+  },
+  {
+    "iso3c": "GNB",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.308802369,
+    "pop": 2060721
+  },
+  {
+    "iso3c": "HND",
+    "tourism": "< 5% GDP",
+    "change_gdp": 2.445684183,
+    "pop": 10278345
+  },
+  {
+    "iso3c": "HKG",
+    "tourism": "5-10% GDP",
+    "change_gdp": -0.6170588642,
+    "pop": 7413100
+  },
+  {
+    "iso3c": "HUN",
+    "tourism": "5-10% GDP",
+    "change_gdp": 2.246408387,
+    "pop": 9709891
+  },
+  {
+    "iso3c": "IND",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.512527371,
+    "pop": 1407563842
+  },
+  {
+    "iso3c": "IDN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.55001088,
+    "pop": 273753191
+  },
+  {
+    "iso3c": "IRN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 8.207248404,
+    "pop": 87923432
+  },
+  {
+    "iso3c": "IRQ",
+    "tourism": "< 5% GDP",
+    "change_gdp": -8.856054277,
+    "pop": 43533592
+  },
+  {
+    "iso3c": "IRL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 20.61315546,
+    "pop": 5033165
+  },
+  {
+    "iso3c": "ISR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 6.594751497,
+    "pop": 9364000
+  },
+  {
+    "iso3c": "ITA",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.911723001,
+    "pop": 59109668
+  },
+  {
+    "iso3c": "JPN",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.924516038,
+    "pop": 125681593
+  },
+  {
+    "iso3c": "JOR",
+    "tourism": ">= 10% GDP",
+    "change_gdp": 0.6236950133,
+    "pop": 11148278
+  },
+  {
+    "iso3c": "KAZ",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.6925,
+    "pop": 19000988
+  },
+  {
+    "iso3c": "KEN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 7.248394589,
+    "pop": 53005614
+  },
+  {
+    "iso3c": "KIR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0.9447900573,
+    "pop": 128874
+  },
+  {
+    "iso3c": "KOR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 3.40650103,
+    "pop": 51744876
+  },
+  {
+    "iso3c": "KWT",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0,
+    "pop": 4250114
+  },
+  {
+    "iso3c": "KGZ",
+    "tourism": "5-10% GDP",
+    "change_gdp": -5.090984008,
+    "pop": 6691800
+  },
+  {
+    "iso3c": "LAO",
+    "tourism": "5-10% GDP",
+    "change_gdp": 3.044101241,
+    "pop": 7425057
+  },
+  {
+    "iso3c": "LBN",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -26.90288107,
+    "pop": 5592631
+  },
+  {
+    "iso3c": "LUX",
+    "tourism": "5-10% GDP",
+    "change_gdp": 4.264331062,
+    "pop": 640064
+  },
+  {
+    "iso3c": "MAC",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -45.41850508,
+    "pop": 686607
+  },
+  {
+    "iso3c": "MDG",
+    "tourism": "5-10% GDP",
+    "change_gdp": -3.049556194,
+    "pop": 28915653
+  },
+  {
+    "iso3c": "MWI",
+    "tourism": "< 5% GDP",
+    "change_gdp": 3.573426024,
+    "pop": 19889742
+  },
+  {
+    "iso3c": "MYS",
+    "tourism": "5-10% GDP",
+    "change_gdp": -2.61343079,
+    "pop": 33573874
+  },
+  {
+    "iso3c": "MDV",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -5.729296517,
+    "pop": 521457
+  },
+  {
+    "iso3c": "MLI",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.779449594,
+    "pop": 21904983
+  },
+  {
+    "iso3c": "MHL",
+    "tourism": "5-10% GDP",
+    "change_gdp": -0.7473313918,
+    "pop": 42050
+  },
+  {
+    "iso3c": "MRT",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.483901946,
+    "pop": 4614974
+  },
+  {
+    "iso3c": "MUS",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -11.43441818,
+    "pop": 1266060
+  },
+  {
+    "iso3c": "MEX",
+    "tourism": "< 5% GDP",
+    "change_gdp": -3.64442166,
+    "pop": 126705138
+  },
+  {
+    "iso3c": "MDA",
+    "tourism": "5-10% GDP",
+    "change_gdp": 5.535271334,
+    "pop": 2615199
+  },
+  {
+    "iso3c": "MNG",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.995582295,
+    "pop": 3347782
+  },
+  {
+    "iso3c": "MNE",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -4.775848891,
+    "pop": 619211
+  },
+  {
+    "iso3c": "MAR",
+    "tourism": "5-10% GDP",
+    "change_gdp": 0.1726768149,
+    "pop": 37076584
+  },
+  {
+    "iso3c": "MOZ",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.100913319,
+    "pop": 32077072
+  },
+  {
+    "iso3c": "MMR",
+    "tourism": "< 5% GDP",
+    "change_gdp": -15.30768686,
+    "pop": 53798084
+  },
+  {
+    "iso3c": "NAM",
+    "tourism": "< 5% GDP",
+    "change_gdp": -5.59360876,
+    "pop": 2530151
+  },
+  {
+    "iso3c": "NPL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.776683145,
+    "pop": 30034989
+  },
+  {
+    "iso3c": "NLD",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0.7881464539,
+    "pop": 17533044
+  },
+  {
+    "iso3c": "NCL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0,
+    "pop": 271030
+  },
+  {
+    "iso3c": "NER",
+    "tourism": "< 5% GDP",
+    "change_gdp": 4.986602925,
+    "pop": 25252722
+  },
+  {
+    "iso3c": "NGA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.787493702,
+    "pop": 213401323
+  },
+  {
+    "iso3c": "MKD",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.388874232,
+    "pop": 2065092
+  },
+  {
+    "iso3c": "NOR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 3.135919966,
+    "pop": 5408320
+  },
+  {
+    "iso3c": "OMN",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.391947833,
+    "pop": 4520471
+  },
+  {
+    "iso3c": "PAK",
+    "tourism": "< 5% GDP",
+    "change_gdp": 5.130348172,
+    "pop": 231402117
+  },
+  {
+    "iso3c": "PLW",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -21.22624597,
+    "pop": 18024
+  },
+  {
+    "iso3c": "PAN",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -5.361025927,
+    "pop": 4351267
+  },
+  {
+    "iso3c": "PNG",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.87688332,
+    "pop": 9949437
+  },
+  {
+    "iso3c": "PRY",
+    "tourism": "< 5% GDP",
+    "change_gdp": 3.248997039,
+    "pop": 6703799
+  },
+  {
+    "iso3c": "PER",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0.934678607,
+    "pop": 33715471
+  },
+  {
+    "iso3c": "PHL",
+    "tourism": "< 5% GDP",
+    "change_gdp": -4.357981967,
+    "pop": 113880328
+  },
+  {
+    "iso3c": "POL",
+    "tourism": "< 5% GDP",
+    "change_gdp": 4.689313975,
+    "pop": 37747124
+  },
+  {
+    "iso3c": "PRT",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -3.273191137,
+    "pop": 10325147
+  },
+  {
+    "iso3c": "PRI",
+    "tourism": "< 5% GDP",
+    "change_gdp": -4.155023943,
+    "pop": 3263584
+  },
+  {
+    "iso3c": "QAT",
+    "tourism": "5-10% GDP",
+    "change_gdp": -2.107603553,
+    "pop": 2688235
+  },
+  {
+    "iso3c": "ROU",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.235059641,
+    "pop": 19119880
+  },
+  {
+    "iso3c": "RUS",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.959309186,
+    "pop": 143449286
+  },
+  {
+    "iso3c": "RWA",
+    "tourism": "5-10% GDP",
+    "change_gdp": 7.160070808,
+    "pop": 13461888
+  },
+  {
+    "iso3c": "WSM",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -9.972811557,
+    "pop": 218764
+  },
+  {
+    "iso3c": "SAU",
+    "tourism": "< 5% GDP",
+    "change_gdp": -1.030839598,
+    "pop": 35950396
+  },
+  {
+    "iso3c": "SEN",
+    "tourism": "< 5% GDP",
+    "change_gdp": 7.470386314,
+    "pop": 16876720
+  },
+  {
+    "iso3c": "SRB",
+    "tourism": "< 5% GDP",
+    "change_gdp": 6.578501827,
+    "pop": 6834326
+  },
+  {
+    "iso3c": "SYC",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -0.4355789139,
+    "pop": 99258
+  },
+  {
+    "iso3c": "SVK",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.4621020342,
+    "pop": 5447247
+  },
+  {
+    "iso3c": "SVN",
+    "tourism": "5-10% GDP",
+    "change_gdp": 3.5348623,
+    "pop": 2108079
+  },
+  {
+    "iso3c": "SLB",
+    "tourism": "5-10% GDP",
+    "change_gdp": -3.577649239,
+    "pop": 707851
+  },
+  {
+    "iso3c": "ZAF",
+    "tourism": "< 5% GDP",
+    "change_gdp": -1.740986206,
+    "pop": 59392255
+  },
+  {
+    "iso3c": "SSD",
+    "tourism": "< 5% GDP",
+    "change_gdp": 0,
+    "pop": 10748272
+  },
+  {
+    "iso3c": "LKA",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.2610481154,
+    "pop": 22156000
+  },
+  {
+    "iso3c": "VCT",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -4.032365022,
+    "pop": 104332
+  },
+  {
+    "iso3c": "SUR",
+    "tourism": "< 5% GDP",
+    "change_gdp": -18.26875325,
+    "pop": 612985
+  },
+  {
+    "iso3c": "CHE",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.745863748,
+    "pop": 8703405
+  },
+  {
+    "iso3c": "TJK",
+    "tourism": "< 5% GDP",
+    "change_gdp": 14.00505309,
+    "pop": 9750064
+  },
+  {
+    "iso3c": "TZA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 6.360853274,
+    "pop": 63588334
+  },
+  {
+    "iso3c": "THA",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -4.756682193,
+    "pop": 71601103
+  },
+  {
+    "iso3c": "TGO",
+    "tourism": "5-10% GDP",
+    "change_gdp": 7.105628913,
+    "pop": 8644829
+  },
+  {
+    "iso3c": "TON",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -2.191895496,
+    "pop": 106017
+  },
+  {
+    "iso3c": "TTO",
+    "tourism": "< 5% GDP",
+    "change_gdp": -8.62605017,
+    "pop": 1525663
+  },
+  {
+    "iso3c": "TUN",
+    "tourism": "5-10% GDP",
+    "change_gdp": -4.671031537,
+    "pop": 12262946
+  },
+  {
+    "iso3c": "TUR",
+    "tourism": "< 5% GDP",
+    "change_gdp": 13.51379014,
+    "pop": 84775404
+  },
+  {
+    "iso3c": "UGA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 6.592262085,
+    "pop": 45853778
+  },
+  {
+    "iso3c": "UKR",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.4803994393,
+    "pop": 43792855
+  },
+  {
+    "iso3c": "ARE",
+    "tourism": "5-10% GDP",
+    "change_gdp": -1.234889206,
+    "pop": 9365145
+  },
+  {
+    "iso3c": "USA",
+    "tourism": "< 5% GDP",
+    "change_gdp": 3.013122973,
+    "pop": 331893745
+  },
+  {
+    "iso3c": "URY",
+    "tourism": "< 5% GDP",
+    "change_gdp": -2.021792403,
+    "pop": 3426260
+  },
+  {
+    "iso3c": "UZB",
+    "tourism": "< 5% GDP",
+    "change_gdp": 9.446316978,
+    "pop": 34915100
+  },
+  {
+    "iso3c": "VUT",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -4.971240756,
+    "pop": 319137
+  },
+  {
+    "iso3c": "VNM",
+    "tourism": "< 5% GDP",
+    "change_gdp": 5.500362081,
+    "pop": 97468029
+  },
+  {
+    "iso3c": "VIR",
+    "tourism": ">= 10% GDP",
+    "change_gdp": -2.14700682,
+    "pop": 105870
+  },
+  {
+    "iso3c": "ZMB",
+    "tourism": "< 5% GDP",
+    "change_gdp": 1.685601698,
+    "pop": 19473125
+  },
+  {
+    "iso3c": "ZWE",
+    "tourism": "< 5% GDP",
+    "change_gdp": -0.01087445087,
+    "pop": 15993524
+  }
+]

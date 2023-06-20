@@ -1,0 +1,162 @@
+[
+  {
+    "year": 2010,
+    "income": "LIC",
+    "value": 39.84127
+  },
+  {
+    "year": 2011,
+    "income": "LIC",
+    "value": 40.74155
+  },
+  {
+    "year": 2012,
+    "income": "LIC",
+    "value": 41.08877
+  },
+  {
+    "year": 2013,
+    "income": "LIC",
+    "value": 40.07905
+  },
+  {
+    "year": 2014,
+    "income": "LIC",
+    "value": 39.05528
+  },
+  {
+    "year": 2015,
+    "income": "LIC",
+    "value": 43.80409
+  },
+  {
+    "year": 2016,
+    "income": "LIC",
+    "value": 42.55136
+  },
+  {
+    "year": 2017,
+    "income": "LIC",
+    "value": 42.8346
+  },
+  {
+    "year": 2010,
+    "income": "LMC",
+    "value": 65.67508
+  },
+  {
+    "year": 2011,
+    "income": "LMC",
+    "value": 66.10602
+  },
+  {
+    "year": 2012,
+    "income": "LMC",
+    "value": 61.89588
+  },
+  {
+    "year": 2013,
+    "income": "LMC",
+    "value": 62.53879
+  },
+  {
+    "year": 2014,
+    "income": "LMC",
+    "value": 61.27319
+  },
+  {
+    "year": 2015,
+    "income": "LMC",
+    "value": 63.26156
+  },
+  {
+    "year": 2016,
+    "income": "LMC",
+    "value": 62.38624
+  },
+  {
+    "year": 2017,
+    "income": "LMC",
+    "value": 62.8486
+  },
+  {
+    "year": 2010,
+    "income": "UMC",
+    "value": 50.7988
+  },
+  {
+    "year": 2011,
+    "income": "UMC",
+    "value": 51.31063
+  },
+  {
+    "year": 2012,
+    "income": "UMC",
+    "value": 47.16171
+  },
+  {
+    "year": 2013,
+    "income": "UMC",
+    "value": 47.85984
+  },
+  {
+    "year": 2014,
+    "income": "UMC",
+    "value": 43.99386
+  },
+  {
+    "year": 2015,
+    "income": "UMC",
+    "value": 43.68085
+  },
+  {
+    "year": 2016,
+    "income": "UMC",
+    "value": 39.29851
+  },
+  {
+    "year": 2017,
+    "income": "UMC",
+    "value": 39.51417
+  },
+  {
+    "year": 2010,
+    "income": "HIC",
+    "value": 16.77174
+  },
+  {
+    "year": 2011,
+    "income": "HIC",
+    "value": 17.05161
+  },
+  {
+    "year": 2012,
+    "income": "HIC",
+    "value": 16.15513
+  },
+  {
+    "year": 2013,
+    "income": "HIC",
+    "value": 15.92907
+  },
+  {
+    "year": 2014,
+    "income": "HIC",
+    "value": 15.02961
+  },
+  {
+    "year": 2015,
+    "income": "HIC",
+    "value": 15.86192
+  },
+  {
+    "year": 2016,
+    "income": "HIC",
+    "value": 14.56385
+  },
+  {
+    "year": 2017,
+    "income": "HIC",
+    "value": 14.73492
+  }
+]

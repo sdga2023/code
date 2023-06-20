@@ -1,0 +1,162 @@
+[
+  {
+    "year": 2019,
+    "country": "East Asia & Pacific",
+    "iso3c": "EAS",
+    "SN.ITK.DEFC.ZS": 3.985913,
+    "SH.STA.STNT.ME.ZS": 13.68753,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 23.57806,
+    "SH.ANM.ALLW.ZS": 19.41183
+  },
+  {
+    "year": 2019,
+    "country": "Europe & Central Asia",
+    "iso3c": "ECS",
+    "SN.ITK.DEFC.ZS": 2.581698,
+    "SH.STA.STNT.ME.ZS": 5.917208,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 19.82971,
+    "SH.ANM.ALLW.ZS": 17.43743
+  },
+  {
+    "year": 2019,
+    "country": "Latin America & Caribbean",
+    "iso3c": "LCN",
+    "SN.ITK.DEFC.ZS": 7.133411,
+    "SH.STA.STNT.ME.ZS": 11.44007,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 20.52336,
+    "SH.ANM.ALLW.ZS": 17.24387
+  },
+  {
+    "year": 2019,
+    "country": "North America",
+    "iso3c": "NAC",
+    "SN.ITK.DEFC.ZS": 2.5,
+    "SH.STA.STNT.ME.ZS": 3.133857,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 6.755605,
+    "SH.ANM.ALLW.ZS": 11.65667
+  },
+  {
+    "year": 2019,
+    "country": "Middle East & North Africa",
+    "iso3c": "MEA",
+    "SN.ITK.DEFC.ZS": 8.57028,
+    "SH.STA.STNT.ME.ZS": 15.90178,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 33.62832,
+    "SH.ANM.ALLW.ZS": 30.32374
+  },
+  {
+    "year": 2019,
+    "country": "South Asia",
+    "iso3c": "SAS",
+    "SN.ITK.DEFC.ZS": 14.1937,
+    "SH.STA.STNT.ME.ZS": 32.88295,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 51.73765,
+    "SH.ANM.ALLW.ZS": 49.3737
+  },
+  {
+    "year": 2019,
+    "country": "Sub-Saharan Africa",
+    "iso3c": "SSF",
+    "SN.ITK.DEFC.ZS": 19.70845,
+    "SH.STA.STNT.ME.ZS": 32.8851,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 60.48616,
+    "SH.ANM.ALLW.ZS": 40.54824
+  },
+  {
+    "year": 2019,
+    "country": "World",
+    "iso3c": "WLD",
+    "SN.ITK.DEFC.ZS": 8,
+    "SH.STA.STNT.ME.ZS": 22.43884,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": 39.8,
+    "SH.ANM.ALLW.ZS": 29.9
+  },
+  {
+    "year": 2020,
+    "country": "East Asia & Pacific",
+    "iso3c": "EAS",
+    "SN.ITK.DEFC.ZS": 4.035387,
+    "SH.STA.STNT.ME.ZS": 13.43367,
+    "SH.STA.WAST.ZS": 3.721702,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "Europe & Central Asia",
+    "iso3c": "ECS",
+    "SN.ITK.DEFC.ZS": 2.589557,
+    "SH.STA.STNT.ME.ZS": 5.718598,
+    "SH.STA.WAST.ZS": null,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "Latin America & Caribbean",
+    "iso3c": "LCN",
+    "SN.ITK.DEFC.ZS": 7.786797,
+    "SH.STA.STNT.ME.ZS": 11.29348,
+    "SH.STA.WAST.ZS": 1.306611,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "North America",
+    "iso3c": "NAC",
+    "SN.ITK.DEFC.ZS": 2.5,
+    "SH.STA.STNT.ME.ZS": 3.199522,
+    "SH.STA.WAST.ZS": 0.199238,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "Middle East & North Africa",
+    "iso3c": "MEA",
+    "SN.ITK.DEFC.ZS": 8.41219,
+    "SH.STA.STNT.ME.ZS": 15.66593,
+    "SH.STA.WAST.ZS": 6.314712,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "South Asia",
+    "iso3c": "SAS",
+    "SN.ITK.DEFC.ZS": 15.89778,
+    "SH.STA.STNT.ME.ZS": 31.76894,
+    "SH.STA.WAST.ZS": 14.67344,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "Sub-Saharan Africa",
+    "iso3c": "SSF",
+    "SN.ITK.DEFC.ZS": 20.83053,
+    "SH.STA.STNT.ME.ZS": 32.36904,
+    "SH.STA.WAST.ZS": 6.155311,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  },
+  {
+    "year": 2020,
+    "country": "World",
+    "iso3c": "WLD",
+    "SN.ITK.DEFC.ZS": 9.3,
+    "SH.STA.STNT.ME.ZS": 22.01058,
+    "SH.STA.WAST.ZS": 6.690228,
+    "SH.ANM.CHLD.ZS": null,
+    "SH.ANM.ALLW.ZS": null
+  }
+]

@@ -1,0 +1,1426 @@
+[
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CPV",
+    "country": "Cabo Verde",
+    "total_renewable_water_resources_per_capita": 558.1,
+    "liter_per_day": 1529.041096,
+    "falken_mark": 1
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "COM",
+    "country": "Comoros",
+    "total_renewable_water_resources_per_capita": 1474,
+    "liter_per_day": 4038.356164,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "STP",
+    "country": "Sao Tome and Principe",
+    "total_renewable_water_resources_per_capita": 10527,
+    "liter_per_day": 28841.09589,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MUS",
+    "country": "Mauritius",
+    "total_renewable_water_resources_per_capita": 2176,
+    "liter_per_day": 5961.643836,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "LSO",
+    "country": "Lesotho",
+    "total_renewable_water_resources_per_capita": 1445,
+    "liter_per_day": 3958.90411,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SWZ",
+    "country": "Eswatini",
+    "total_renewable_water_resources_per_capita": 4010,
+    "liter_per_day": 10986.30137,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ERI",
+    "country": "Eritrea",
+    "total_renewable_water_resources_per_capita": 2143,
+    "liter_per_day": 5871.232877,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GMB",
+    "country": "Gambia, The",
+    "total_renewable_water_resources_per_capita": 3614,
+    "liter_per_day": 9901.369863,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MRT",
+    "country": "Mauritania",
+    "total_renewable_water_resources_per_capita": 2662,
+    "liter_per_day": 7293.150685,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BWA",
+    "country": "Botswana",
+    "total_renewable_water_resources_per_capita": 5551,
+    "liter_per_day": 15208.21918,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BDI",
+    "country": "Burundi",
+    "total_renewable_water_resources_per_capita": 1158,
+    "liter_per_day": 3172.60274,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "RWA",
+    "country": "Rwanda",
+    "total_renewable_water_resources_per_capita": 1110,
+    "liter_per_day": 3041.09589,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BFA",
+    "country": "Burkina Faso",
+    "total_renewable_water_resources_per_capita": 703.4,
+    "liter_per_day": 1927.123288,
+    "falken_mark": 1
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "TGO",
+    "country": "Togo",
+    "total_renewable_water_resources_per_capita": 1909,
+    "liter_per_day": 5230.136986,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SOM",
+    "country": "Somalia",
+    "total_renewable_water_resources_per_capita": 1008,
+    "liter_per_day": 2761.643836,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MWI",
+    "country": "Malawi",
+    "total_renewable_water_resources_per_capita": 977.9,
+    "liter_per_day": 2679.178082,
+    "falken_mark": 1
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ZWE",
+    "country": "Zimbabwe",
+    "total_renewable_water_resources_per_capita": 1405,
+    "liter_per_day": 3849.315068,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GNQ",
+    "country": "Equatorial Guinea",
+    "total_renewable_water_resources_per_capita": 20602,
+    "liter_per_day": 56443.83562,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BEN",
+    "country": "Benin",
+    "total_renewable_water_resources_per_capita": 2361,
+    "liter_per_day": 6468.493151,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "KEN",
+    "country": "Kenya",
+    "total_renewable_water_resources_per_capita": 611.3,
+    "liter_per_day": 1674.794521,
+    "falken_mark": 1
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GNB",
+    "country": "Guinea-Bissau",
+    "total_renewable_water_resources_per_capita": 17176,
+    "liter_per_day": 47057.53425,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "NER",
+    "country": "Niger",
+    "total_renewable_water_resources_per_capita": 1576,
+    "liter_per_day": 4317.808219,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SDN",
+    "country": "Sudan",
+    "total_renewable_water_resources_per_capita": 926.2,
+    "liter_per_day": 2537.534247,
+    "falken_mark": 1
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SEN",
+    "country": "Senegal",
+    "total_renewable_water_resources_per_capita": 2527,
+    "liter_per_day": 6923.287671,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "NAM",
+    "country": "Namibia",
+    "total_renewable_water_resources_per_capita": 16611,
+    "liter_per_day": 45509.58904,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "TCD",
+    "country": "Chad",
+    "total_renewable_water_resources_per_capita": 3043,
+    "liter_per_day": 8336.986301,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SSD",
+    "country": "South Sudan",
+    "total_renewable_water_resources_per_capita": 4537,
+    "liter_per_day": 12430.13699,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ZAF",
+    "country": "South Africa",
+    "total_renewable_water_resources_per_capita": 900.7,
+    "liter_per_day": 2467.671233,
+    "falken_mark": 1
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GHA",
+    "country": "Ghana",
+    "total_renewable_water_resources_per_capita": 1930,
+    "liter_per_day": 5287.671233,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "UGA",
+    "country": "Uganda",
+    "total_renewable_water_resources_per_capita": 1460,
+    "liter_per_day": 4000,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CIV",
+    "country": "Côte d'Ivoire",
+    "total_renewable_water_resources_per_capita": 3443,
+    "liter_per_day": 9432.876712,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "TZA",
+    "country": "Tanzania",
+    "total_renewable_water_resources_per_capita": 1761,
+    "liter_per_day": 4824.657534,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ZMB",
+    "country": "Zambia",
+    "total_renewable_water_resources_per_capita": 6218,
+    "liter_per_day": 17035.61644,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MLI",
+    "country": "Mali",
+    "total_renewable_water_resources_per_capita": 6482,
+    "liter_per_day": 17758.90411,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ETH",
+    "country": "Ethiopia",
+    "total_renewable_water_resources_per_capita": 1147,
+    "liter_per_day": 3142.465753,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CAF",
+    "country": "Central African Republic",
+    "total_renewable_water_resources_per_capita": 30679,
+    "liter_per_day": 84052.05479,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "AGO",
+    "country": "Angola",
+    "total_renewable_water_resources_per_capita": 4977,
+    "liter_per_day": 13635.61644,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SLE",
+    "country": "Sierra Leone",
+    "total_renewable_water_resources_per_capita": 21366,
+    "liter_per_day": 58536.9863,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GAB",
+    "country": "Gabon",
+    "total_renewable_water_resources_per_capita": 80394,
+    "liter_per_day": 220257.5342,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MOZ",
+    "country": "Mozambique",
+    "total_renewable_water_resources_per_capita": 7578,
+    "liter_per_day": 20761.64384,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GIN",
+    "country": "Guinea",
+    "total_renewable_water_resources_per_capita": 18728,
+    "liter_per_day": 51309.58904,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "LBR",
+    "country": "Liberia",
+    "total_renewable_water_resources_per_capita": 49338,
+    "liter_per_day": 135172.6027,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CMR",
+    "country": "Cameroon",
+    "total_renewable_water_resources_per_capita": 11526,
+    "liter_per_day": 31578.08219,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "NGA",
+    "country": "Nigeria",
+    "total_renewable_water_resources_per_capita": 1499,
+    "liter_per_day": 4106.849315,
+    "falken_mark": 2
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MDG",
+    "country": "Madagascar",
+    "total_renewable_water_resources_per_capita": 13179,
+    "liter_per_day": 36106.84932,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "COG",
+    "country": "Congo, Rep.",
+    "total_renewable_water_resources_per_capita": 162796,
+    "liter_per_day": 446016.4384,
+    "falken_mark": 3
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "COD",
+    "country": "Congo, Dem. Rep.",
+    "total_renewable_water_resources_per_capita": 15762,
+    "liter_per_day": 43183.56164,
+    "falken_mark": 3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "MDV",
+    "country": "Maldives",
+    "total_renewable_water_resources_per_capita": 60.43,
+    "liter_per_day": 165.5616438,
+    "falken_mark": 0
+  },
+  {
+    "region": "South Asia",
+    "iso3": "LKA",
+    "country": "Sri Lanka",
+    "total_renewable_water_resources_per_capita": 2499,
+    "liter_per_day": 6846.575342,
+    "falken_mark": 3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "AFG",
+    "country": "Afghanistan",
+    "total_renewable_water_resources_per_capita": 1800,
+    "liter_per_day": 4931.506849,
+    "falken_mark": 3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "BTN",
+    "country": "Bhutan",
+    "total_renewable_water_resources_per_capita": 104619,
+    "liter_per_day": 286627.3973,
+    "falken_mark": 3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "NPL",
+    "country": "Nepal",
+    "total_renewable_water_resources_per_capita": 7607,
+    "liter_per_day": 20841.09589,
+    "falken_mark": 3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "PAK",
+    "country": "Pakistan",
+    "total_renewable_water_resources_per_capita": 1187,
+    "liter_per_day": 3252.054795,
+    "falken_mark": 2
+  },
+  {
+    "region": "South Asia",
+    "iso3": "BGD",
+    "country": "Bangladesh",
+    "total_renewable_water_resources_per_capita": 7684,
+    "liter_per_day": 21052.05479,
+    "falken_mark": 3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "IND",
+    "country": "India",
+    "total_renewable_water_resources_per_capita": 1427,
+    "liter_per_day": 3909.589041,
+    "falken_mark": 2
+  },
+  {
+    "region": "North America",
+    "iso3": "CAN",
+    "country": "Canada",
+    "total_renewable_water_resources_per_capita": 79004,
+    "liter_per_day": 216449.3151,
+    "falken_mark": 3
+  },
+  {
+    "region": "North America",
+    "iso3": "USA",
+    "country": "United States of America",
+    "total_renewable_water_resources_per_capita": 9441,
+    "liter_per_day": 25865.75342,
+    "falken_mark": 3
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "KWT",
+    "country": "Kuwait",
+    "total_renewable_water_resources_per_capita": 4.931,
+    "liter_per_day": 13.50958904,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "MLT",
+    "country": "Malta",
+    "total_renewable_water_resources_per_capita": 115.3,
+    "liter_per_day": 315.890411,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "QAT",
+    "country": "Qatar",
+    "total_renewable_water_resources_per_capita": 21.29,
+    "liter_per_day": 58.32876712,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "BHR",
+    "country": "Bahrain",
+    "total_renewable_water_resources_per_capita": 77.64,
+    "liter_per_day": 212.7123288,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "ARE",
+    "country": "United Arab Emirates",
+    "total_renewable_water_resources_per_capita": 15.81,
+    "liter_per_day": 43.31506849,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "DJI",
+    "country": "Djibouti",
+    "total_renewable_water_resources_per_capita": 317.8,
+    "liter_per_day": 870.6849315,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "LBY",
+    "country": "Libya",
+    "total_renewable_water_resources_per_capita": 106.4,
+    "liter_per_day": 291.5068493,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "PSE",
+    "country": "Palestine",
+    "total_renewable_water_resources_per_capita": 176.3,
+    "liter_per_day": 483.0136986,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "JOR",
+    "country": "Jordan",
+    "total_renewable_water_resources_per_capita": 95.75,
+    "liter_per_day": 262.3287671,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "OMN",
+    "country": "Oman",
+    "total_renewable_water_resources_per_capita": 300,
+    "liter_per_day": 821.9178082,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "ISR",
+    "country": "Israel",
+    "total_renewable_water_resources_per_capita": 215.9,
+    "liter_per_day": 591.5068493,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "YEM",
+    "country": "Yemen",
+    "total_renewable_water_resources_per_capita": 75.45,
+    "liter_per_day": 206.7123288,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "SAU",
+    "country": "Saudi Arabia",
+    "total_renewable_water_resources_per_capita": 72.5,
+    "liter_per_day": 198.630137,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "LBN",
+    "country": "Lebanon",
+    "total_renewable_water_resources_per_capita": 660.3,
+    "liter_per_day": 1809.041096,
+    "falken_mark": 1
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "TUN",
+    "country": "Tunisia",
+    "total_renewable_water_resources_per_capita": 403.6,
+    "liter_per_day": 1105.753425,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "DZA",
+    "country": "Algeria",
+    "total_renewable_water_resources_per_capita": 281.9,
+    "liter_per_day": 772.3287671,
+    "falken_mark": 0
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "SYR",
+    "country": "Syrian Arab Republic",
+    "total_renewable_water_resources_per_capita": 982.8,
+    "liter_per_day": 2692.60274,
+    "falken_mark": 1
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "MAR",
+    "country": "Morocco",
+    "total_renewable_water_resources_per_capita": 815,
+    "liter_per_day": 2232.876712,
+    "falken_mark": 1
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "EGY",
+    "country": "Egypt",
+    "total_renewable_water_resources_per_capita": 596.2,
+    "liter_per_day": 1633.424658,
+    "falken_mark": 1
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "IRQ",
+    "country": "Iraq",
+    "total_renewable_water_resources_per_capita": 2393,
+    "liter_per_day": 6556.164384,
+    "falken_mark": 3
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "IRN",
+    "country": "Iran",
+    "total_renewable_water_resources_per_capita": 1699,
+    "liter_per_day": 4654.794521,
+    "falken_mark": 2
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "KNA",
+    "country": "St. Kitts and Nevis",
+    "total_renewable_water_resources_per_capita": 461.1,
+    "liter_per_day": 1263.287671,
+    "falken_mark": 0
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "ATG",
+    "country": "Antigua and Barbuda",
+    "total_renewable_water_resources_per_capita": 544.9,
+    "liter_per_day": 1492.876712,
+    "falken_mark": 1
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BRB",
+    "country": "Barbados",
+    "total_renewable_water_resources_per_capita": 279.5,
+    "liter_per_day": 765.7534247,
+    "falken_mark": 0
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "VCT",
+    "country": "St. Vincent and the Grenadines",
+    "total_renewable_water_resources_per_capita": 910.5,
+    "liter_per_day": 2494.520548,
+    "falken_mark": 1
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "DMA",
+    "country": "Dominica",
+    "total_renewable_water_resources_per_capita": 2799,
+    "liter_per_day": 7668.493151,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "GRD",
+    "country": "Grenada",
+    "total_renewable_water_resources_per_capita": 1804,
+    "liter_per_day": 4942.465753,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "LCA",
+    "country": "St. Lucia",
+    "total_renewable_water_resources_per_capita": 1658,
+    "liter_per_day": 4542.465753,
+    "falken_mark": 2
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "TTO",
+    "country": "Trinidad and Tobago",
+    "total_renewable_water_resources_per_capita": 2774,
+    "liter_per_day": 7600,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PRI",
+    "country": "Puerto Rico",
+    "total_renewable_water_resources_per_capita": 2244,
+    "liter_per_day": 6147.945205,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "JAM",
+    "country": "Jamaica",
+    "total_renewable_water_resources_per_capita": 3705,
+    "liter_per_day": 10150.68493,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "HTI",
+    "country": "Haiti",
+    "total_renewable_water_resources_per_capita": 1277,
+    "liter_per_day": 3498.630137,
+    "falken_mark": 2
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BLZ",
+    "country": "Belize",
+    "total_renewable_water_resources_per_capita": 57839,
+    "liter_per_day": 158463.0137,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "DOM",
+    "country": "Dominican Republic",
+    "total_renewable_water_resources_per_capita": 2235,
+    "liter_per_day": 6123.287671,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "SLV",
+    "country": "El Salvador",
+    "total_renewable_water_resources_per_capita": 4112,
+    "liter_per_day": 11265.75342,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "CUB",
+    "country": "Cuba",
+    "total_renewable_water_resources_per_capita": 3362,
+    "liter_per_day": 9210.958904,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "HND",
+    "country": "Honduras",
+    "total_renewable_water_resources_per_capita": 9775,
+    "liter_per_day": 26780.82192,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "SUR",
+    "country": "Suriname",
+    "total_renewable_water_resources_per_capita": 173533,
+    "liter_per_day": 475432.8767,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "CRI",
+    "country": "Costa Rica",
+    "total_renewable_water_resources_per_capita": 22828,
+    "liter_per_day": 62542.46575,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "GTM",
+    "country": "Guatemala",
+    "total_renewable_water_resources_per_capita": 7562,
+    "liter_per_day": 20717.80822,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PAN",
+    "country": "Panama",
+    "total_renewable_water_resources_per_capita": 33921,
+    "liter_per_day": 92934.24658,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "NIC",
+    "country": "Nicaragua",
+    "total_renewable_water_resources_per_capita": 25767,
+    "liter_per_day": 70594.52055,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "URY",
+    "country": "Uruguay",
+    "total_renewable_water_resources_per_capita": 50107,
+    "liter_per_day": 137279.4521,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "GUY",
+    "country": "Guyana",
+    "total_renewable_water_resources_per_capita": 349577,
+    "liter_per_day": 957745.2055,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PRY",
+    "country": "Paraguay",
+    "total_renewable_water_resources_per_capita": 56468,
+    "liter_per_day": 154706.8493,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "ECU",
+    "country": "Ecuador",
+    "total_renewable_water_resources_per_capita": 26356,
+    "liter_per_day": 72208.21918,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "MEX",
+    "country": "Mexico",
+    "total_renewable_water_resources_per_capita": 3702,
+    "liter_per_day": 10142.46575,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BOL",
+    "country": "Bolivia",
+    "total_renewable_water_resources_per_capita": 51283,
+    "liter_per_day": 140501.3699,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "ARG",
+    "country": "Argentina",
+    "total_renewable_water_resources_per_capita": 19943,
+    "liter_per_day": 54638.35616,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "CHL",
+    "country": "Chile",
+    "total_renewable_water_resources_per_capita": 49975,
+    "liter_per_day": 136917.8082,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "VEN",
+    "country": "Venezuela",
+    "total_renewable_water_resources_per_capita": 45064,
+    "liter_per_day": 123463.0137,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PER",
+    "country": "Peru",
+    "total_renewable_water_resources_per_capita": 59782,
+    "liter_per_day": 163786.3014,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "COL",
+    "country": "Colombia",
+    "total_renewable_water_resources_per_capita": 48252,
+    "liter_per_day": 132197.2603,
+    "falken_mark": 3
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BRA",
+    "country": "Brazil",
+    "total_renewable_water_resources_per_capita": 41605,
+    "liter_per_day": 113986.3014,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "CYP",
+    "country": "Cyprus",
+    "total_renewable_water_resources_per_capita": 661.2,
+    "liter_per_day": 1811.506849,
+    "falken_mark": 1
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "LUX",
+    "country": "Luxembourg",
+    "total_renewable_water_resources_per_capita": 5913,
+    "liter_per_day": 16200,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "DNK",
+    "country": "Denmark",
+    "total_renewable_water_resources_per_capita": 1047,
+    "liter_per_day": 2868.493151,
+    "falken_mark": 2
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "MKD",
+    "country": "North Macedonia",
+    "total_renewable_water_resources_per_capita": 3074,
+    "liter_per_day": 8421.917808,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ARM",
+    "country": "Armenia",
+    "total_renewable_water_resources_per_capita": 2638,
+    "liter_per_day": 7227.39726,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "MDA",
+    "country": "Moldova",
+    "total_renewable_water_resources_per_capita": 3022,
+    "liter_per_day": 8279.452055,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "EST",
+    "country": "Estonia",
+    "total_renewable_water_resources_per_capita": 9706,
+    "liter_per_day": 26591.78082,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "CZE",
+    "country": "Czechia",
+    "total_renewable_water_resources_per_capita": 1236,
+    "liter_per_day": 3386.30137,
+    "falken_mark": 2
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BEL",
+    "country": "Belgium",
+    "total_renewable_water_resources_per_capita": 1602,
+    "liter_per_day": 4389.041096,
+    "falken_mark": 2
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BGR",
+    "country": "Bulgaria",
+    "total_renewable_water_resources_per_capita": 2999,
+    "liter_per_day": 8216.438356,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "TJK",
+    "country": "Tajikistan",
+    "total_renewable_water_resources_per_capita": 2467,
+    "liter_per_day": 6758.90411,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "KGZ",
+    "country": "Kyrgyzstan",
+    "total_renewable_water_resources_per_capita": 3816,
+    "liter_per_day": 10454.79452,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "LTU",
+    "country": "Lithuania",
+    "total_renewable_water_resources_per_capita": 8610,
+    "liter_per_day": 23589.0411,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "TKM",
+    "country": "Turkmenistan",
+    "total_renewable_water_resources_per_capita": 4301,
+    "liter_per_day": 11783.56164,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ALB",
+    "country": "Albania",
+    "total_renewable_water_resources_per_capita": 10471,
+    "liter_per_day": 28687.67123,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SVN",
+    "country": "Slovenia",
+    "total_renewable_water_resources_per_capita": 15349,
+    "liter_per_day": 42052.05479,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "AZE",
+    "country": "Azerbaijan",
+    "total_renewable_water_resources_per_capita": 3522,
+    "liter_per_day": 9649.315068,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "LVA",
+    "country": "Latvia",
+    "total_renewable_water_resources_per_capita": 17908,
+    "liter_per_day": 49063.0137,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "total_renewable_water_resources_per_capita": 11189,
+    "liter_per_day": 30654.79452,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "UZB",
+    "country": "Uzbekistan",
+    "total_renewable_water_resources_per_capita": 1529,
+    "liter_per_day": 4189.041096,
+    "falken_mark": 2
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SVK",
+    "country": "Slovak Republic",
+    "total_renewable_water_resources_per_capita": 9196,
+    "liter_per_day": 25194.52055,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "IRL",
+    "country": "Ireland",
+    "total_renewable_water_resources_per_capita": 10940,
+    "liter_per_day": 29972.60274,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "CHE",
+    "country": "Switzerland",
+    "total_renewable_water_resources_per_capita": 6327,
+    "liter_per_day": 17334.24658,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BLR",
+    "country": "Belarus",
+    "total_renewable_water_resources_per_capita": 6127,
+    "liter_per_day": 16786.30137,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "POL",
+    "country": "Poland",
+    "total_renewable_water_resources_per_capita": 1594,
+    "liter_per_day": 4367.123288,
+    "falken_mark": 2
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "GEO",
+    "country": "Georgia",
+    "total_renewable_water_resources_per_capita": 15798,
+    "liter_per_day": 43282.19178,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "GRC",
+    "country": "Greece",
+    "total_renewable_water_resources_per_capita": 6471,
+    "liter_per_day": 17728.76712,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "PRT",
+    "country": "Portugal",
+    "total_renewable_water_resources_per_capita": 7523,
+    "liter_per_day": 20610.9589,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "AUT",
+    "country": "Austria",
+    "total_renewable_water_resources_per_capita": 8810,
+    "liter_per_day": 24136.9863,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "NLD",
+    "country": "Netherlands",
+    "total_renewable_water_resources_per_capita": 5346,
+    "liter_per_day": 14646.57534,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "HUN",
+    "country": "Hungary",
+    "total_renewable_water_resources_per_capita": 10689,
+    "liter_per_day": 29284.93151,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "HRV",
+    "country": "Croatia",
+    "total_renewable_water_resources_per_capita": 25222,
+    "liter_per_day": 69101.36986,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "KAZ",
+    "country": "Kazakhstan",
+    "total_renewable_water_resources_per_capita": 5996,
+    "liter_per_day": 16427.39726,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "FIN",
+    "country": "Finland",
+    "total_renewable_water_resources_per_capita": 19959,
+    "liter_per_day": 54682.19178,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ESP",
+    "country": "Spain",
+    "total_renewable_water_resources_per_capita": 2390,
+    "liter_per_day": 6547.945205,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "GBR",
+    "country": "United Kingdom",
+    "total_renewable_water_resources_per_capita": 2203,
+    "liter_per_day": 6035.616438,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "DEU",
+    "country": "Germany",
+    "total_renewable_water_resources_per_capita": 1863,
+    "liter_per_day": 5104.109589,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SRB",
+    "country": "Serbia",
+    "total_renewable_water_resources_per_capita": 18370,
+    "liter_per_day": 50328.76712,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ISL",
+    "country": "Iceland",
+    "total_renewable_water_resources_per_capita": 508384,
+    "liter_per_day": 1392832.877,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SWE",
+    "country": "Sweden",
+    "total_renewable_water_resources_per_capita": 17567,
+    "liter_per_day": 48128.76712,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "UKR",
+    "country": "Ukraine",
+    "total_renewable_water_resources_per_capita": 3940,
+    "liter_per_day": 10794.52055,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ITA",
+    "country": "Italy",
+    "total_renewable_water_resources_per_capita": 3153,
+    "liter_per_day": 8638.356164,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "FRA",
+    "country": "France",
+    "total_renewable_water_resources_per_capita": 3254,
+    "liter_per_day": 8915.068493,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "TUR",
+    "country": "Turkey",
+    "total_renewable_water_resources_per_capita": 2609,
+    "liter_per_day": 7147.945205,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ROU",
+    "country": "Romania",
+    "total_renewable_water_resources_per_capita": 10787,
+    "liter_per_day": 29553.42466,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "NOR",
+    "country": "Norway",
+    "total_renewable_water_resources_per_capita": 74202,
+    "liter_per_day": 203293.1507,
+    "falken_mark": 3
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "RUS",
+    "country": "Russian Federation",
+    "total_renewable_water_resources_per_capita": 31096,
+    "liter_per_day": 85194.52055,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "SGP",
+    "country": "Singapore",
+    "total_renewable_water_resources_per_capita": 105.1,
+    "liter_per_day": 287.9452055,
+    "falken_mark": 0
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "TLS",
+    "country": "Timor-Leste",
+    "total_renewable_water_resources_per_capita": 6608,
+    "liter_per_day": 18104.10959,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "BRN",
+    "country": "Brunei Darussalam",
+    "total_renewable_water_resources_per_capita": 20025,
+    "liter_per_day": 54863.0137,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "FJI",
+    "country": "Fiji",
+    "total_renewable_water_resources_per_capita": 32537,
+    "liter_per_day": 89142.46575,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "MNG",
+    "country": "Mongolia",
+    "total_renewable_water_resources_per_capita": 11176,
+    "liter_per_day": 30619.17808,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "KOR",
+    "country": "Korea, Rep.",
+    "total_renewable_water_resources_per_capita": 1364,
+    "liter_per_day": 3736.986301,
+    "falken_mark": 2
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "PRK",
+    "country": "Democratic People's Republic of Korea",
+    "total_renewable_water_resources_per_capita": 3034,
+    "liter_per_day": 8312.328767,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "NZL",
+    "country": "New Zealand",
+    "total_renewable_water_resources_per_capita": 69544,
+    "liter_per_day": 190531.5068,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "LAO",
+    "country": "Lao PDR",
+    "total_renewable_water_resources_per_capita": 47965,
+    "liter_per_day": 131410.9589,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "JPN",
+    "country": "Japan",
+    "total_renewable_water_resources_per_capita": 3372,
+    "liter_per_day": 9238.356164,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "THA",
+    "country": "Thailand",
+    "total_renewable_water_resources_per_capita": 6337,
+    "liter_per_day": 17361.64384,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "KHM",
+    "country": "Cambodia",
+    "total_renewable_water_resources_per_capita": 29739,
+    "liter_per_day": 81476.71233,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "PHL",
+    "country": "Philippines",
+    "total_renewable_water_resources_per_capita": 4554,
+    "liter_per_day": 12476.71233,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "AUS",
+    "country": "Australia",
+    "total_renewable_water_resources_per_capita": 20013,
+    "liter_per_day": 54830.13699,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "MYS",
+    "country": "Malaysia",
+    "total_renewable_water_resources_per_capita": 18647,
+    "liter_per_day": 51087.67123,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "PNG",
+    "country": "Papua New Guinea",
+    "total_renewable_water_resources_per_capita": 94927,
+    "liter_per_day": 260073.9726,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "VNM",
+    "country": "Vietnam",
+    "total_renewable_water_resources_per_capita": 9346,
+    "liter_per_day": 25605.47945,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "MMR",
+    "country": "Myanmar",
+    "total_renewable_water_resources_per_capita": 21876,
+    "liter_per_day": 59934.24658,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "IDN",
+    "country": "Indonesia",
+    "total_renewable_water_resources_per_capita": 7628,
+    "liter_per_day": 20898.63014,
+    "falken_mark": 3
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "CHN",
+    "country": "China",
+    "total_renewable_water_resources_per_capita": 1955,
+    "liter_per_day": 5356.164384,
+    "falken_mark": 3
+  }
+]

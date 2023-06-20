@@ -1,0 +1,162 @@
+[
+  {
+    "2020": 17.9,
+    "2021": 10.3,
+    "Variable": "Forgone care",
+    "Country group": "Pooled sample",
+    "Diff (PP)": -7.6,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 15.6,
+    "2021": 7.9,
+    "Variable": "Forgone care",
+    "Country group": "LIC",
+    "Diff (PP)": -7.8,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 17,
+    "2021": 15.1,
+    "Variable": "Forgone care",
+    "Country group": "LMIC",
+    "Diff (PP)": -2,
+    "Significance": "N (P-value 0.21)"
+  },
+  {
+    "2020": 20.5,
+    "2021": 5.3,
+    "Variable": "Forgone care",
+    "Country group": "UMIC",
+    "Diff (PP)": -15.3,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 42,
+    "2021": 45.1,
+    "Variable": "Financial barriers",
+    "Country group": "Pooled sample",
+    "Diff (PP)": 3,
+    "Significance": "N (P-value 0.37)"
+  },
+  {
+    "2020": 58.4,
+    "2021": 41.2,
+    "Variable": "Financial barriers",
+    "Country group": "LIC",
+    "Diff (PP)": -17.2,
+    "Significance": "10%"
+  },
+  {
+    "2020": 59.2,
+    "2021": 72.6,
+    "Variable": "Financial barriers",
+    "Country group": "LMIC",
+    "Diff (PP)": 13.4,
+    "Significance": "5%"
+  },
+  {
+    "2020": 14.9,
+    "2021": 20.7,
+    "Variable": "Financial barriers",
+    "Country group": "UMIC",
+    "Diff (PP)": 5.8,
+    "Significance": "10%"
+  },
+  {
+    "2020": 17.3,
+    "2021": 6.4,
+    "Variable": "COVID-19-related reasons",
+    "Country group": "Pooled sample",
+    "Diff (PP)": -10.9,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 5,
+    "2021": 3.8,
+    "Variable": "COVID-19-related reasons",
+    "Country group": "LIC",
+    "Diff (PP)": -1.2,
+    "Significance": "N (P-value 0.70)"
+  },
+  {
+    "2020": 17.9,
+    "2021": 10,
+    "Variable": "COVID-19-related reasons",
+    "Country group": "LMIC",
+    "Diff (PP)": -7.9,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 24.6,
+    "2021": 4.6,
+    "Variable": "COVID-19-related reasons",
+    "Country group": "UMIC",
+    "Diff (PP)": -20,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 30.7,
+    "2021": 39.9,
+    "Variable": "Health care supply constraints",
+    "Country group": "Pooled sample",
+    "Diff (PP)": 9.2,
+    "Significance": "5%"
+  },
+  {
+    "2020": 31.9,
+    "2021": 44.7,
+    "Variable": "Health care supply constraints",
+    "Country group": "LIC",
+    "Diff (PP)": 12.8,
+    "Significance": "N (P-value 0.28)"
+  },
+  {
+    "2020": 12.3,
+    "2021": 9.5,
+    "Variable": "Health care supply constraints",
+    "Country group": "LMIC",
+    "Diff (PP)": -2.8,
+    "Significance": "N (P-value 0.49)"
+  },
+  {
+    "2020": 48,
+    "2021": 66.4,
+    "Variable": "Health care supply constraints",
+    "Country group": "UMIC",
+    "Diff (PP)": 18.5,
+    "Significance": "<1%"
+  },
+  {
+    "2020": 10,
+    "2021": 7.8,
+    "Variable": "Other reasons",
+    "Country group": "Pooled sample",
+    "Diff (PP)": -2.2,
+    "Significance": "N (P-value 0.38)"
+  },
+  {
+    "2020": 5,
+    "2021": 5.8,
+    "Variable": "Other reasons",
+    "Country group": "LIC",
+    "Diff (PP)": 0.8,
+    "Significance": "N (P-value 0.90)"
+  },
+  {
+    "2020": 10.5,
+    "2021": 8,
+    "Variable": "Other reasons",
+    "Country group": "LMIC",
+    "Diff (PP)": -2.5,
+    "Significance": "N (P-value 0.54)"
+  },
+  {
+    "2020": 12.5,
+    "2021": 8.9,
+    "Variable": "Other reasons",
+    "Country group": "UMIC",
+    "Diff (PP)": -3.6,
+    "Significance": "N (P-value 0.25)"
+  }
+]

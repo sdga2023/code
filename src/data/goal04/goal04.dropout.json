@@ -1,0 +1,47 @@
+[
+  {
+    "iso3c": "BRA",
+    "dropoutpre": 10,
+    "dropoutpost": 35
+  },
+  {
+    "iso3c": "NGA",
+    "dropoutpre": 10,
+    "dropoutpost": 16.9
+  },
+  {
+    "iso3c": "KEN",
+    "dropoutpre": 3.2,
+    "dropoutpost": 9.4
+  },
+  {
+    "iso3c": "ZAF",
+    "dropoutpre": 2,
+    "dropoutpost": 6
+  },
+  {
+    "iso3c": "PAK",
+    "dropoutpre": 4,
+    "dropoutpost": 6
+  },
+  {
+    "iso3c": "MWI",
+    "dropoutpre": 1.2,
+    "dropoutpost": 4.3
+  },
+  {
+    "iso3c": "GHA",
+    "dropoutpre": 2.1,
+    "dropoutpost": 2
+  },
+  {
+    "iso3c": "SEN",
+    "dropoutpre": 1.9,
+    "dropoutpost": 1.6
+  },
+  {
+    "iso3c": "UGA",
+    "dropoutpre": 1.3,
+    "dropoutpost": 0.7
+  }
+]

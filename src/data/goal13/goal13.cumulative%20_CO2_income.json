@@ -1,0 +1,58 @@
+[
+  {
+    "income": "HIC",
+    "type": 2019,
+    "co2em": 11878.69,
+    "co2empercap": 0.00000991,
+    "share": 54.1
+  },
+  {
+    "income": "UMC",
+    "type": 2019,
+    "co2em": 16025.23,
+    "co2empercap": 0.00000638,
+    "share": 34.8
+  },
+  {
+    "income": "LMC",
+    "type": 2019,
+    "co2em": 5781.14,
+    "co2empercap": 0.00000175,
+    "share": 9.5
+  },
+  {
+    "income": "LIC",
+    "type": 2019,
+    "co2em": 196.95,
+    "co2empercap": 2.9e-7,
+    "share": 1.6
+  },
+  {
+    "income": "HIC",
+    "type": "Cumulative",
+    "co2em": 980000000000,
+    "co2empercap": 817.0302826,
+    "share": 74.8
+  },
+  {
+    "income": "UMC",
+    "type": "Cumulative",
+    "co2em": 524000000000,
+    "co2empercap": 208.7739937,
+    "share": 19.1
+  },
+  {
+    "income": "LMC",
+    "type": "Cumulative",
+    "co2em": 172000000000,
+    "co2empercap": 51.89288259,
+    "share": 4.8
+  },
+  {
+    "income": "LIC",
+    "type": "Cumulative",
+    "co2em": 9990000000,
+    "co2empercap": 14.68855173,
+    "share": 1.3
+  }
+]

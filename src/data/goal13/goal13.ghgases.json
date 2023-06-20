@@ -1,0 +1,22 @@
+[
+  {
+    "gas": "co2",
+    "gwp": 1,
+    "share": 76
+  },
+  {
+    "gas": "ch4",
+    "gwp": 25,
+    "share": 16
+  },
+  {
+    "gas": "n2o",
+    "gwp": 300,
+    "share": 6
+  },
+  {
+    "gas": "fluor",
+    "gwp": 1000,
+    "share": 2
+  }
+]

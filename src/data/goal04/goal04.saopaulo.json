@@ -1,0 +1,74 @@
+[
+  {
+    "subject": "math",
+    "year": 2011,
+    "saeb": 213,
+    "projection": 213
+  },
+  {
+    "subject": "math",
+    "year": 2013,
+    "saeb": 220,
+    "projection": 220
+  },
+  {
+    "subject": "math",
+    "year": 2015,
+    "saeb": 237,
+    "projection": 237
+  },
+  {
+    "subject": "math",
+    "year": 2017,
+    "saeb": 239,
+    "projection": 239
+  },
+  {
+    "subject": "math",
+    "year": 2019,
+    "saeb": 243,
+    "projection": 243
+  },
+  {
+    "subject": "math",
+    "year": 2021,
+    "saeb": 196,
+    "projection": 250
+  },
+  {
+    "subject": "language",
+    "year": 2011,
+    "saeb": 192,
+    "projection": 192
+  },
+  {
+    "subject": "language",
+    "year": 2013,
+    "saeb": 202,
+    "projection": 202
+  },
+  {
+    "subject": "language",
+    "year": 2015,
+    "saeb": 219,
+    "projection": 219
+  },
+  {
+    "subject": "language",
+    "year": 2017,
+    "saeb": 226,
+    "projection": 226
+  },
+  {
+    "subject": "language",
+    "year": 2019,
+    "saeb": 223,
+    "projection": 223
+  },
+  {
+    "subject": "language",
+    "year": 2021,
+    "saeb": 194,
+    "projection": 230
+  }
+]

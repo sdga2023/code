@@ -1,0 +1,402 @@
+{
+  "config": {
+    "goal": "17",
+    "headline": "Development assistance as a catalyst for progress",
+    "subhead": "",
+    "introtext": "[goal: 17] calls for revitalizing the global partnership for development—which depends on greater and sustained mobilization of resources. From 2019 to 2022, official development assistance saw a sharp increase due to the COVID-19 pandemic and the war in Ukraine. However, excluding these unique events, support for the world’s poorest countries was lower than pre-pandemic levels.",
+    "path": "data/goal17/goal17.globe.json",
+    "country_data_label": "average ODA/capita/year 2016-2021",
+    "legend_label": "Official Development Assistance per year",
+    "provided": "Provided",
+    "received": "Received",
+    "legend_units": "$ per capita",
+    "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table2a OECD Development Assistance Committee]",
+    "targets_covered": [
+      {
+        "target": "2",
+        "translationPrefix": "goal17.config.targets_covered.#0"
+      }
+    ],
+    "citation": "Prydz, Espen Beer. 2023. “Development assistance as a catalyst for progress” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/jngp-ay55 https://www.doi.org/10.60616/jngp-ay55]",
+    "credits": "Espen Beer Prydz",
+    "inputs": "Larisa Burtin",
+    "visuals": "Dominikus Baur"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "Progress toward the Sustainable Development Goals requires significant investment in programs, policies, human capital, and infrastructure. Official development assistance (ODA) from foreign governments supports the development of less wealthy countries. This aid typically flows  to receiving governments through bilateral flows, or through non-governmental organizations or multilaterals, including the United Nations and the World Bank. The 31 members that make up the OECD Development Assistance Committee (DAC) [footnote: A list of DAC members can be accessed [link: https://www.oecd.org/dac/development-assistance-committee/ here] are among the largest providers of this type of aid.",
+      "translationPrefix": "goal17.content.#0"
+    },
+    {
+      "type": "subhed",
+      "text": "Aid is at an all-time high, driven by the  response to the war in Ukraine and the pandemic",
+      "translationPrefix": "goal17.content.#1"
+    },
+    {
+      "type": "text",
+      "text": "Funding from DAC countries has significantly increased in recent years for needs related to COVID-19 and Russia’s invasion of Ukraine. Preliminary data for 2022 indicates that ODA reached a record $211.3 billion (in constant 2021 US dollars)[reference: OECD.2023.[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table1 OECD Development Assistance Committee]], an increase of nearly 28 percent since 2019 in real terms. This is one of the largest jumps observed over such a short time frame.",
+      "translationPrefix": "goal17.content.#2"
+    },
+    {
+      "type": "text",
+      "text": "The surge in aid from 2019 to 2022 was driven by extraordinary spending related to the COVID-19 pandemic and the war in Ukraine. In 2021, nearly $22 billion or 11.7 percent of this funding was directed towards pandemic response, including vaccine donations. Numbers for 2020 and 2022 were about half that, but still a large part of overall ODA. In 2022, aid to Ukraine soared to $16.1 billion, from $918 million in 2021. The conflict in Ukraine also led to a tripling of spending on refugees arriving in donor countries from 2021 to 2022, totaling over $30 billion, nearly 15 percent of total ODA.",
+      "translationPrefix": "goal17.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "Without the pandemic assistance, in-donor-country refugee support, and direct aid to Ukraine, ODA would have declined 1.2 percent in real terms compared to pre-pandemic levels in 2019. In short: less aid has been allocated for activities not related to the pandemic and the war in Ukraine.",
+      "translationPrefix": "goal17.content.#4"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_growth",
+      "title": "ODA has increased during the pandemic and war in Ukraine",
+      "subtitle": "ODA total in billions of constant USD",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table1 OECD Development Assistance Committee]",
+      "visdescription": "Area chart combined with bar chart showing the evolution of total ODA between 1960 and 2022. For the year 2020-2022 the amounts of aid refugee support, COVID-19, and Ukraine are highlighted.",
+      "number_label": "billions",
+      "label_1": "Other",
+      "label_2": "COVID response",
+      "label_3": "Refugee support",
+      "label_4": "Ukraine",
+      "path": "data/goal17/goal17.oda.json",
+      "translationPrefix": "goal17.content.#5"
+    },
+    {
+      "type": "subhed",
+      "text": "Relative to the size of donor economies, aid remains short of targets",
+      "translationPrefix": "goal17.content.#6"
+    },
+    {
+      "type": "text",
+      "text": "Although official aid has reached a record high in absolute real terms, it remains modest as a percentage of donor countries’ economies. The share of gross national income (GNI) dedicated to aid in DAC donor countries has hovered around 0.3 percent for the past 50 years, and reached a 40-year high of 0.36 percent in 2022.",
+      "translationPrefix": "goal17.content.#7"
+    },
+    {
+      "type": "text",
+      "text": "This is barely above half the target for developed nations to allocate at least 0.7 percent of GNI for aid to less wealthy countries, as specified in [target: 17.2]. To meet this target collectively, donor countries would have to contribute an additional $200 billion in 2022, almost doubling current aid levels. The chart below illustrates the gap to the 0.7 percent target for DAC member countries in aggregate.",
+      "translationPrefix": "goal17.content.#8"
+    },
+    {
+      "type": "text",
+      "text": "The gap could grow even larger in coming years if donor economies grow without substantially boosting aid, or if the pandemic and wartime support subsides.",
+      "translationPrefix": "goal17.content.#9"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_gni_share",
+      "title": "Despite increasing in absolute numbers, ODA remains far from the target of 0.7% of GNI",
+      "subtitle": "Total ODA and ODA goal of 0.7% of GNI in billions of USD",
+      "visdescription": "Area chart showing the evolution of total ODA between 1960 and 2022 (in blue) compared with what the total potential amount that ODA would be needed for all countries to meet the target of 0.7% of GNI (in gray).",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table1 OECD Development Assistance Committee]",
+      "path": "data/goal17/goal17.oda.json",
+      "average_label": "Total",
+      "number_label": "billion USD",
+      "billion_label": "billion",
+      "oda_goal_label": "ODA target",
+      "of_gni_label": "of GNI",
+      "oda_goal_explicit_label": "ODA target of 0.7% GNI",
+      "oda_label": "Total ODA",
+      "actual_oda_label": "Actual ODA",
+      "difference_label": "Difference to ODA target",
+      "translationPrefix": "goal17.content.#10"
+    },
+    {
+      "type": "text",
+      "text": "To ensure funding for some of the poorest nations, [target: 17.2] includes an additional target stating that ODA supporting least developed countries (LDCs) [footnote: A current list of LDC can be accessed [link:https://unctad.org/topic/least-developed-countries/list here]], this includes some of the world’s poorest nations,should account for 0.15 to 0.20 percent of donor countries’ GNI.  These LDC economies face severe structural impediments to sustainable development and have the greatest needs for foreign aid. In aggregate, the shortfall to reach this target is also large— $30 to $50 billion in 2021.",
+      "translationPrefix": "goal17.content.#11"
+    },
+    {
+      "type": "text",
+      "text": "Although overall official development assistance has increased by a record 28 percent since 2019, aid to LDCs grew  just 9 percent in real terms. Despite a year of high growth in aid, preliminary data for 2022 indicates a 0.7 percent decrease in bilateral funding for LDCs compared to 2021.",
+      "translationPrefix": "goal17.content.#12"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_gni_ldc",
+      "title": "Targets for least developed countries are missed as well",
+      "subtitle": "Total ODA given to LDCs in billions of USD",
+      "visdescription": "Area chart showing the evolution of total ODA for least developed countries between 1975 and 2021 (in blue) compared with what the total potential amount that ODA could have been had the donor countries met the target of 0.15 to 0.20 percent of donor countries’ GNI.",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table2a OECD Development Assistance Committee]",
+      "size": "main",
+      "path": "data/goal17/goal17.oda.json",
+      "oda_goal_label": "ODA targets to LDCs",
+      "of_gni_label": "of GNI",
+      "oda_goal_explicit_label": "0.15% to 0.2% of GNI",
+      "oda_label": "Total ODA to LDCs",
+      "actual_oda_label": "Actual ODA to LDCs",
+      "difference_label": "Difference to ODA target of at least",
+      "translationPrefix": "goal17.content.#13"
+    },
+    {
+      "type": "text",
+      "text": "This relative decline in support for the world's poorest occurs against the backdrop of the limited progress towards the goal of ending extreme poverty; [link: https://datatopics.worldbank.org/sdgatlas/goal-1-no-poverty/ more than half a billion people, nearly seven percent of the global population, is projected to remain poor in 2030.]",
+      "translationPrefix": "goal17.content.#14"
+    },
+    {
+      "type": "scroller",
+      "graphic": "oda_gni_absolute",
+      "publish_progress": "true",
+      "title": "Absolute spending for ODA",
+      "subtitle": "ODA in billion dollars",
+      "visdescription": "Bar chart scroller showing absolute spending for ODA by donor country from 1960 until 2022, the proportion of each country’s total aid allocated for least developed countries. The bar chart turns into a bullet graph that shows ODA as a portion of a country's GNI and which countries reached the 0.7 percent target or the 0.15 percent of GNI in aid to LDCs target.",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table2a OECD Development Assistance Committee]",
+      "size": "main",
+      "path": "data/goal17/goal17.oda.json",
+      "label_below": "Below 0.7% of GNI",
+      "label_above": "Above 0.7% of GNI",
+      "target_ldc_label": "Target: .15% to LDCs",
+      "target_gni_label": "Target: .7% of GNI",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "start",
+          "text": "In 2022, the five largest donors in terms of total development aid were the USA, Germany, Japan, France, and the United Kingdom. Together, these countries provided $124.7 billion in assistance, which accounted for 70 percent of the total ODA that year.",
+          "translationPrefix": "goal17.content.#15.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "1960",
+          "text": "Aid from various countries has fluctuated over time but the same five countries were also the largest donors in 1960. Many more donors have joined DAC since then.",
+          "translationPrefix": "goal17.content.#15.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "ldc",
+          "text": "Countries contribute varying amounts to <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-red400)\">Least Developed Countries (LDCs)</span> . Overall, 2022 saw a small decline in the share provided to LDCs.",
+          "translationPrefix": "goal17.content.#15.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "intro-gni",
+          "subtitle": "ODA in billion dollars (percentage of GNI)",
+          "text": "Besides just looking at the total amounts donated, we can also consider Official Development Assistance (ODA) as a portion of a country's total economy, Gross National Income (GNI).",
+          "translationPrefix": "goal17.content.#15.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "gni",
+          "text": "Only five countries achieved the target of allocating ODA equivalent to 0.7 percent of Gross National Income in 2022. Germany was the only of the five largest donors reaching the target, with many other big donors ranking low on this metric. Luxembourg, Norway, Sweden and Denmark were the other countries meeting this target.",
+          "translationPrefix": "goal17.content.#15.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "gni-ldc",
+          "text": "Most countries allocate less than 0.15 percent of GNI in aid to LDCs, but many are closer to reaching this target than the overall goal for development assistance.",
+          "translationPrefix": "goal17.content.#15.scenes.#5"
+        }
+      ],
+      "translationPrefix": "goal17.content.#15"
+    },
+    {
+      "type": "subhed",
+      "text": "Tracing bilateral flows of ODA",
+      "translationPrefix": "goal17.content.#16"
+    },
+    {
+      "type": "text",
+      "text": "By analyzing ODA flows between countries, we can explore which donor countries give the most aid to individual recipient countries. We can identify geographic patterns for how donor countries prioritize their support. The chord diagram below illustrates flows for all countries, organized by regions. Selecting flows within the diagram, or a country from the search field, reveals the top recipients for each donor country and the top donors for each recipient country during 2015 to 2021. [footnote: Bilateral or multilateral ODA flows were not yet available for 2022 at time of publication].",
+      "translationPrefix": "goal17.content.#17"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_flows",
+      "title": "Flows of ODA",
+      "subtitle": "ODA flows from donors to countries, and by regions (2021)",
+      "visdescription": "Chord diagram showing amounts of ODA flows between donor and recipient countries, color coded by region. When clicked or hovered, bar charts with top donors and receivers are displayed.",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table2a OECD Development Assistance Committee]",
+      "path": "data/goal17/goal17.bilateral.json",
+      "label_units": "million USD",
+      "translationPrefix": "goal17.content.#18"
+    },
+    {
+      "type": "subhed",
+      "text": "Social sectors, health, and education on the rise",
+      "translationPrefix": "goal17.content.#19"
+    },
+    {
+      "type": "text",
+      "text": "Looking at foreign aid by sector can help us understand how much support is given to different sectors and related SDGs. The tree-map below shows how much help each sector and sub-sector has received since the start of the global goals period. For example, the large area called \"Social Infrastructure & Services\" includes smaller segments focused on aid for education, health, water and sanitation, and community groups (civil society), for example. The lighter colors show the highest amount of aid each sub-category received in a single year between 2015 and 2021, while the darker colors show funding in the specific year chosen on the timeline below the tree-map.",
+      "translationPrefix": "goal17.content.#20"
+    },
+    {
+      "type": "scroller",
+      "graphic": "sector_vis",
+      "title": "Sectors of ODA",
+      "subtitle": "ODA commitments to various sectors",
+      "visdescription": "Treemap and area chart showing ODA by sector and over time. Main sectors presented are: (1) social infrastructure and services (including education, health, population policies or reproductive health, government and civil society, water supply and sanitation, and other) (2) economic infrastructure and services (including transport and storage, communications, energy, banking and financial services, and businesses and other services), (3) production sectors (including agriculture, forestry; fishing, industry, mining and construction, and trade policies and regulation); (4) commodity aid/general program assistance (including general budget support, development food assistance, and other commodity assistance action relating to debt), (5) humanitarian aid (including emergency response, reconstruction, relief and rehabilitation, and disaster prevention and preparedness), (6) multi-sector or cross-cutting, and (7) unallocated or unspecified.",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table5 OECD Development Assistance Committee]",
+      "path": "data/goal17/goal17.sectors.json",
+      "unit_label": "billion USD",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "Using categories provided by the donors, aid can be systematically classified and analyzed according to the sectors it aims to benefit.",
+          "translationPrefix": "goal17.content.#21.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "social",
+          "text": "ODA allocated for <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-cat8-5)\">social infrastructure and services</span>, which includes sectors such as health and education, has accounted for the largest share of bilateral aid in recent years.",
+          "translationPrefix": "goal17.content.#21.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "social",
+          "text": "With health-related spending included in this category, it experienced the most significant increase in 2021, with funding doubling since 2019. This rise is attributed to expanded support for combating COVID-19, including vaccine donations.",
+          "translationPrefix": "goal17.content.#21.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "emergency",
+          "text": "ODA for <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-cat8-1)\">emergency response</span> also saw a considerable boost in 2021, primarily addressing crises and humanitarian concerns, some of which may have been linked to the pandemic.",
+          "translationPrefix": "goal17.content.#21.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "environment",
+          "text": "Support for <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-cat8-8)\">general environmental protection</span> represents only $5.8 billion, or 3.3 percent of overall ODA that can be allocated to sectors, even though it reached an all-time high in 2021.",
+          "translationPrefix": "goal17.content.#21.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal17.content.#21"
+    },
+    {
+      "type": "subhed",
+      "text": "Turning up the heat on aid for climate change",
+      "translationPrefix": "goal17.content.#22"
+    },
+    {
+      "type": "text",
+      "text": "The tree-map above shows that aid specifically for \"General Environmental Protection\" is a small part of total bilateral ODA. However, donors report that as much as one-third of the total has some focus on climate change. In 2020, development aid with climate objectives reached $44 billion, but dropped in 2021, possibly because the pandemic took priority. [footnote: Numbers for 2022 were not available at time of publication.]",
+      "translationPrefix": "goal17.content.#23"
+    },
+    {
+      "type": "text",
+      "text": "Adaptation and mitigation are ways to deal with climate change.",
+      "translationPrefix": "goal17.content.#24"
+    },
+    {
+      "type": "text",
+      "text": "Mitigation is about finding ways to stop climate change from getting worse. It involves reducing greenhouse gasses released into the atmosphere. This typically involves projects focused on cleaner energy sources, improving efficiency, and protecting forests that absorb carbon dioxide. Prior to 2020, mitigation received up to twice the amount of adaptation projects.",
+      "translationPrefix": "goal17.content.#25"
+    },
+    {
+      "type": "text",
+      "text": "Adaptation is about finding ways to deal with the effects of worsening climate change, such as storms, drought, heatwaves, and rising sea levels. This might involve building sturdier houses, improving social safety nets to cushion environmental shocks, or planting crops that can survive in different conditions. In 2020, ODA for climate change adaptation surpassed mitigation-related aid for the first time.",
+      "translationPrefix": "goal17.content.#26"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_climate_change",
+      "path": "data/goal17/goal17.climate.json",
+      "title": "ODA with climate change focus",
+      "subtitle": "Aid supporting adaptation and mitigation in million USD",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table5 OECD Development Assistance Committee]",
+      "translationPrefix": "goal17.content.#27"
+    },
+    {
+      "type": "subhed",
+      "text": "Increased in-donor-country refugee support",
+      "translationPrefix": "goal17.content.#28"
+    },
+    {
+      "type": "text",
+      "text": "The number of refugees arriving in donor countries due to conflicts, disasters, and economic hardships has increased in recent years. Some funds allocated to assist refugees in donor countries [reference: OECD. [link: https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/refugee-costs-oda.htm In-donor refugee costs in official development assistance (ODA)]] can be classified as official aid even if they do not directly reach developing nations]. Between 2015 and 2021, around 8 percent of ODA commitments have been designated to support refugees within donor countries, with considerable fluctuations based on circumstances and geography. Two significant surges in refugee support have been observed, namely the large refugee flows to Europe in 2015-2016 and in 2022.",
+      "translationPrefix": "goal17.content.#29"
+    },
+    {
+      "type": "text",
+      "text": "In 2022, a surge in support for refugees was chiefly driven by Russia’s invasion of Ukraine. The conflict led to a significant increase in the number of displaced individuals seeking asylum in neighboring and distant countries. The international community responded by ramping up refugee assistance programs, both in humanitarian relief and welcoming and supporting these displaced individuals in their countries. The proportion of funds directed towards refugee support as a share of total support saw a noticeable uptick from  4.6 percent in 2021 to 14.4 percent of ODA in 2022.",
+      "translationPrefix": "goal17.content.#30"
+    },
+    {
+      "type": "text",
+      "text": "The share of official development assistance going to refugees varies across countries and time. For example, Greece, a country that has seen large influxes of refugees coming across the Mediterranean, has spent close to a quarter of ODA to support refugees domestically in recent years. Meanwhile, countries less affected by refugee arrivals, such as Japan, Luxembourg and the Republic of Korea spent very little of their aid on refugees in their countries.",
+      "translationPrefix": "goal17.content.#31"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_refugee",
+      "path": "data/goal17/goal17.oda.json",
+      "size": "main",
+      "title": "Share of ODA going to refugees in donor countries",
+      "subtitle": "Support as percentage of total Official Development Assistance",
+      "source": "[link: https://stats.oecd.org/Index.aspx?DataSetCode=Table1 OECD Development Assistance Committee]",
+      "visdescription": "Proportional bar chart showing the share of each donor’s country ODA allocated to support for refugees. Timeline allows for exploration of the historical data from 1992 to 2022.",
+      "translationPrefix": "goal17.content.#32"
+    },
+    {
+      "type": "subhed",
+      "text": "Many other flows to finance development",
+      "translationPrefix": "goal17.content.#33"
+    },
+    {
+      "type": "text",
+      "text": "The data in this chapter on official development assistance (ODA) is incomplete. Notably, the global aid figures here are from OECD DAC and do not include significant aid flows from large emerging economies, such as China, Russia, Brazil, India, and South Africa. These  countries are increasingly vital contributors, and as a result the analysis here does not show the full picture of development assistance.",
+      "translationPrefix": "goal17.content.#34"
+    },
+    {
+      "type": "vis",
+      "graphic": "oda_flow",
+      "path": "data/goal17/goal17.flows.json",
+      "title": "ODA among other flows",
+      "subtitle": "Selected financial flows to developing countries 1990-2022",
+      "visdescription": "Line chart showing the evolution of different types of financial flows (remittances, foreign direct investment, portfolio debt and equity flows, and ODA) between 1990 and 2022.",
+      "source": "World Bank. [link: https://www.knomad.org/ KNOMAD]",
+      "translationPrefix": "goal17.content.#35"
+    },
+    {
+      "type": "text",
+      "text": "Furthermore, ODA is only one of the financial channels included in [goal: 17], \"Partnerships for the Goals.\" Other sources, such as lending, foreign direct investment,  remittances, and philanthropic donations, all contribute to financing the progress of the SDGs. The chart above illustrates how ODA, once the largest flow to developing countries in the early 1990s, has become one of the smallest in today's global financial landscape. ODA nonetheless remains an important element in strengthening government systems and providing public goods crucial for development. Official aid is often more robust during periods of economic uncertainty, but also fluctuates and can change rapidly, as seen in recent years.",
+      "translationPrefix": "goal17.content.#36"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "Remittances account for more than 10% of GDP in many low and middle-income countries.",
+          "shorttitle": "Remittances account for more than 10% of GDP in many low and middle-income countries.",
+          "subtitle": "Volume of remittances (in United States dollars) as a proportion of total GDP (%), 2021",
+          "note": "The figure only includes countries where remittances exceeded 10% of their GDP in 2021.",
+          "source": "World Bank staff estimates based on IMF balance of payments data, and World Bank and OECD GDP estimates. Retrieved from World Development indicators ([link: https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS BX.TRF.PWKR.DT.GD.ZS]).",
+          "target": "17.3.2",
+          "image": "goal17/sdg17_remittance.png",
+          "translationPrefix": "goal17.content.#37.charts.#0"
+        },
+        {
+          "title": "Over the last decade, debt-to-export ratio has increased across countries.",
+          "shorttitle": "Over the last decade, debt-to-export ratio has increased across countries.",
+          "subtitle": "Debt service as a proportion of exports of goods and services (%) by country and region, 2010 (x-axis) and 2021 (y-axis)",
+          "note": "Countries above the dashed line indicate increases in debt-to-exports ratios from 2010 to 2021 while countries below the line correspond to decreases in debt-to-exports ratios during the same period.",
+          "source": "World Bank, International Debt Statistics. Retrieved from World Development indicators ([link: https://data.worldbank.org/indicator/DT.TDS.DPPF.XP.ZS DT.TDS.DPPF.XP.ZS]).",
+          "target": "17.4.1",
+          "image": "goal17/sdg17_debt.png",
+          "translationPrefix": "goal17.content.#37.charts.#1"
+        },
+        {
+          "title": "In 2021, 63% of the world’s population uses the Internet, but only 22% in low-income countries are connected online.",
+          "shorttitle": "In 2021, 63% of the world’s population uses the Internet, but only 22% in low-income countries are connected online.",
+          "subtitle": "Individuals using the Internet by income, 2021 (% of population)",
+          "source": "International Telecommunication Union (ITU). Retrieved from World Development indicators ([link: https://data.worldbank.org/indicator/IT.NET.USER.ZS IT.NET.USER.ZS]).",
+          "target": "17.8.1",
+          "image": "goal17/sdg17_internet.png",
+          "translationPrefix": "goal17.content.#37.charts.#2"
+        },
+        {
+          "title": "A significant number of Sub-Saharan African countries lack complete civil registration and vital statistics.",
+          "shorttitle": "A significant number of Sub-Saharan African countries lack complete civil registration and vital statistics.",
+          "subtitle": "Countries with birth registration data that are at least 90 percent complete and with death registration data that are at least 75 percent complete, 2020",
+          "note": "each square represents a country in the respective region. Burundi, Gambia and Mozambique which do not meet birth registration completeness threshold (at least 90 percent complete) and have no data available on death registration completeness are classified as ‘Doesn’t meet either completeness threshold’.",
+          "source": "United Nations Statistics Division (UNSD). Retrieved from [link: https://unstats.un.org/sdgs/dataportal/database UN SDG Portal (17.19.2)].",
+          "target": "17.19.2",
+          "image": "goal17/sdg17_registration_v2.png",
+          "translationPrefix": "goal17.content.#37.charts.#3"
+        }
+      ],
+      "translationPrefix": "goal17.content.#37"
+    }
+  ]
+}

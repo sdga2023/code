@@ -1,0 +1,402 @@
+[
+  {
+    "year": 2000,
+    "income": "LIC",
+    "value": 27.89409
+  },
+  {
+    "year": 2001,
+    "income": "LIC",
+    "value": 27.77038
+  },
+  {
+    "year": 2002,
+    "income": "LIC",
+    "value": 27.82487
+  },
+  {
+    "year": 2003,
+    "income": "LIC",
+    "value": 27.86805
+  },
+  {
+    "year": 2004,
+    "income": "LIC",
+    "value": 27.61725
+  },
+  {
+    "year": 2005,
+    "income": "LIC",
+    "value": 27.49711
+  },
+  {
+    "year": 2006,
+    "income": "LIC",
+    "value": 27.29105
+  },
+  {
+    "year": 2007,
+    "income": "LIC",
+    "value": 27.07817
+  },
+  {
+    "year": 2008,
+    "income": "LIC",
+    "value": 27.05012
+  },
+  {
+    "year": 2009,
+    "income": "LIC",
+    "value": 27.11224
+  },
+  {
+    "year": 2010,
+    "income": "LIC",
+    "value": 27.06514
+  },
+  {
+    "year": 2011,
+    "income": "LIC",
+    "value": 27.04577
+  },
+  {
+    "year": 2012,
+    "income": "LIC",
+    "value": 26.93909
+  },
+  {
+    "year": 2013,
+    "income": "LIC",
+    "value": 26.97386
+  },
+  {
+    "year": 2014,
+    "income": "LIC",
+    "value": 27.27951
+  },
+  {
+    "year": 2015,
+    "income": "LIC",
+    "value": 27.59403
+  },
+  {
+    "year": 2016,
+    "income": "LIC",
+    "value": 27.98711
+  },
+  {
+    "year": 2017,
+    "income": "LIC",
+    "value": 27.8158
+  },
+  {
+    "year": 2018,
+    "income": "LIC",
+    "value": 27.90925
+  },
+  {
+    "year": 2019,
+    "income": "LIC",
+    "value": 28.45484
+  },
+  {
+    "year": 2000,
+    "income": "LMC",
+    "value": 17.77453
+  },
+  {
+    "year": 2001,
+    "income": "LMC",
+    "value": 17.90809
+  },
+  {
+    "year": 2002,
+    "income": "LMC",
+    "value": 18.04282
+  },
+  {
+    "year": 2003,
+    "income": "LMC",
+    "value": 17.98272
+  },
+  {
+    "year": 2004,
+    "income": "LMC",
+    "value": 17.96806
+  },
+  {
+    "year": 2005,
+    "income": "LMC",
+    "value": 18.24475
+  },
+  {
+    "year": 2006,
+    "income": "LMC",
+    "value": 18.29372
+  },
+  {
+    "year": 2007,
+    "income": "LMC",
+    "value": 18.28713
+  },
+  {
+    "year": 2008,
+    "income": "LMC",
+    "value": 18.35115
+  },
+  {
+    "year": 2009,
+    "income": "LMC",
+    "value": 18.2724
+  },
+  {
+    "year": 2010,
+    "income": "LMC",
+    "value": 18.37547
+  },
+  {
+    "year": 2011,
+    "income": "LMC",
+    "value": 18.10454
+  },
+  {
+    "year": 2012,
+    "income": "LMC",
+    "value": 17.86023
+  },
+  {
+    "year": 2013,
+    "income": "LMC",
+    "value": 17.5193
+  },
+  {
+    "year": 2014,
+    "income": "LMC",
+    "value": 17.11177
+  },
+  {
+    "year": 2015,
+    "income": "LMC",
+    "value": 16.92118
+  },
+  {
+    "year": 2016,
+    "income": "LMC",
+    "value": 16.74845
+  },
+  {
+    "year": 2017,
+    "income": "LMC",
+    "value": 16.71553
+  },
+  {
+    "year": 2018,
+    "income": "LMC",
+    "value": 16.85243
+  },
+  {
+    "year": 2019,
+    "income": "LMC",
+    "value": 16.92648
+  },
+  {
+    "year": 2000,
+    "income": "UMC",
+    "value": 21.37701
+  },
+  {
+    "year": 2001,
+    "income": "UMC",
+    "value": 21.60019
+  },
+  {
+    "year": 2002,
+    "income": "UMC",
+    "value": 21.85846
+  },
+  {
+    "year": 2003,
+    "income": "UMC",
+    "value": 21.43962
+  },
+  {
+    "year": 2004,
+    "income": "UMC",
+    "value": 21.09682
+  },
+  {
+    "year": 2005,
+    "income": "UMC",
+    "value": 21.18056
+  },
+  {
+    "year": 2006,
+    "income": "UMC",
+    "value": 21.15912
+  },
+  {
+    "year": 2007,
+    "income": "UMC",
+    "value": 21.26088
+  },
+  {
+    "year": 2008,
+    "income": "UMC",
+    "value": 20.78643
+  },
+  {
+    "year": 2009,
+    "income": "UMC",
+    "value": 20.40451
+  },
+  {
+    "year": 2010,
+    "income": "UMC",
+    "value": 20.27515
+  },
+  {
+    "year": 2011,
+    "income": "UMC",
+    "value": 20.63694
+  },
+  {
+    "year": 2012,
+    "income": "UMC",
+    "value": 20.31917
+  },
+  {
+    "year": 2013,
+    "income": "UMC",
+    "value": 19.59043
+  },
+  {
+    "year": 2014,
+    "income": "UMC",
+    "value": 19.0066
+  },
+  {
+    "year": 2015,
+    "income": "UMC",
+    "value": 18.38175
+  },
+  {
+    "year": 2016,
+    "income": "UMC",
+    "value": 17.98838
+  },
+  {
+    "year": 2017,
+    "income": "UMC",
+    "value": 17.6661
+  },
+  {
+    "year": 2018,
+    "income": "UMC",
+    "value": 17.34257
+  },
+  {
+    "year": 2019,
+    "income": "UMC",
+    "value": 17.04914
+  },
+  {
+    "year": 2000,
+    "income": "HIC",
+    "value": 14.04428
+  },
+  {
+    "year": 2001,
+    "income": "HIC",
+    "value": 13.54887
+  },
+  {
+    "year": 2002,
+    "income": "HIC",
+    "value": 13.36619
+  },
+  {
+    "year": 2003,
+    "income": "HIC",
+    "value": 12.93701
+  },
+  {
+    "year": 2004,
+    "income": "HIC",
+    "value": 12.53162
+  },
+  {
+    "year": 2005,
+    "income": "HIC",
+    "value": 12.26074
+  },
+  {
+    "year": 2006,
+    "income": "HIC",
+    "value": 11.91879
+  },
+  {
+    "year": 2007,
+    "income": "HIC",
+    "value": 11.30494
+  },
+  {
+    "year": 2008,
+    "income": "HIC",
+    "value": 10.48845
+  },
+  {
+    "year": 2009,
+    "income": "HIC",
+    "value": 9.561291
+  },
+  {
+    "year": 2010,
+    "income": "HIC",
+    "value": 9.044169
+  },
+  {
+    "year": 2011,
+    "income": "HIC",
+    "value": 8.91359
+  },
+  {
+    "year": 2012,
+    "income": "HIC",
+    "value": 8.720076
+  },
+  {
+    "year": 2013,
+    "income": "HIC",
+    "value": 8.262496
+  },
+  {
+    "year": 2014,
+    "income": "HIC",
+    "value": 8.114184
+  },
+  {
+    "year": 2015,
+    "income": "HIC",
+    "value": 8.321672
+  },
+  {
+    "year": 2016,
+    "income": "HIC",
+    "value": 8.495959
+  },
+  {
+    "year": 2017,
+    "income": "HIC",
+    "value": 8.43904
+  },
+  {
+    "year": 2018,
+    "income": "HIC",
+    "value": 8.380199
+  },
+  {
+    "year": 2019,
+    "income": "HIC",
+    "value": 8.420084
+  }
+]

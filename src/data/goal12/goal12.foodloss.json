@@ -1,0 +1,30 @@
+[
+  {
+    "region": "North America and Oceania",
+    "share": 20.3
+  },
+  {
+    "region": "Europe",
+    "share": 14.28
+  },
+  {
+    "region": "Industrialized Asia",
+    "share": 10.85
+  },
+  {
+    "region": "North Africa, West and Central Asia",
+    "share": 8.64
+  },
+  {
+    "region": "Latin America",
+    "share": 6.46
+  },
+  {
+    "region": "South and Southeast Asia",
+    "share": 2.86
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "share": 1.8
+  }
+]

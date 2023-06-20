@@ -1,0 +1,158 @@
+[
+  {
+    "country": "Burkina Faso",
+    "year": 2020,
+    "rai": 23.8,
+    "iso3c": "BFA"
+  },
+  {
+    "country": "Burundi",
+    "year": 2016,
+    "rai": 24.9,
+    "iso3c": "BDI"
+  },
+  {
+    "country": "Ethiopia",
+    "year": 2015,
+    "rai": 21.6,
+    "iso3c": "ETH"
+  },
+  {
+    "country": "Kenya",
+    "year": 2009,
+    "rai": 56,
+    "iso3c": "KEN"
+  },
+  {
+    "country": "Lesotho",
+    "year": 2016,
+    "rai": 18,
+    "iso3c": "LSO"
+  },
+  {
+    "country": "Liberia",
+    "year": 2016,
+    "rai": 41.9,
+    "iso3c": "LBR"
+  },
+  {
+    "country": "Madagascar",
+    "year": 2017,
+    "rai": 11.4,
+    "iso3c": "MDG"
+  },
+  {
+    "country": "Malawi",
+    "year": 2016,
+    "rai": 23.1,
+    "iso3c": "MWI"
+  },
+  {
+    "country": "Mali",
+    "year": 2017,
+    "rai": 22.3,
+    "iso3c": "MLI"
+  },
+  {
+    "country": "Mozambique",
+    "year": 2010,
+    "rai": 20.4,
+    "iso3c": "MOZ"
+  },
+  {
+    "country": "Nigeria",
+    "year": 2014,
+    "rai": 25.5,
+    "iso3c": "NGA"
+  },
+  {
+    "country": "Rwanda",
+    "year": 2016,
+    "rai": 55.3,
+    "iso3c": "RWA"
+  },
+  {
+    "country": "Sierra Leone",
+    "year": 2017,
+    "rai": 31.5,
+    "iso3c": "SLE"
+  },
+  {
+    "country": "Somalia",
+    "year": 2016,
+    "rai": 31.2,
+    "iso3c": "SOM"
+  },
+  {
+    "country": "Tanzania",
+    "year": 2014,
+    "rai": 24.6,
+    "iso3c": "TZA"
+  },
+  {
+    "country": "Uganda",
+    "year": 2015,
+    "rai": 53.1,
+    "iso3c": "UGA"
+  },
+  {
+    "country": "Zambia",
+    "year": 2011,
+    "rai": 17,
+    "iso3c": "ZMB"
+  },
+  {
+    "country": "Armenia",
+    "year": 2017,
+    "rai": 66,
+    "iso3c": "ARM"
+  },
+  {
+    "country": "Paraguay",
+    "year": 2019,
+    "rai": 42.4,
+    "iso3c": "PRY"
+  },
+  {
+    "country": "Peru",
+    "year": 2016,
+    "rai": 37.2,
+    "iso3c": "PER"
+  },
+  {
+    "country": "Iraq",
+    "year": 2018,
+    "rai": 63.4,
+    "iso3c": "IRQ"
+  },
+  {
+    "country": "Jordan",
+    "year": 2018,
+    "rai": 71.4,
+    "iso3c": "JOR"
+  },
+  {
+    "country": "Lebanon",
+    "year": 2018,
+    "rai": 92.6,
+    "iso3c": "LBN"
+  },
+  {
+    "country": "United Arab Emirates",
+    "year": 2021,
+    "rai": 99.5,
+    "iso3c": "ARE"
+  },
+  {
+    "country": "Bangladesh",
+    "year": 2015,
+    "rai": 86.7,
+    "iso3c": "BGD"
+  },
+  {
+    "country": "Nepal",
+    "year": 2015,
+    "rai": 54.2,
+    "iso3c": "NPL"
+  }
+]

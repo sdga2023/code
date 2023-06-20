@@ -1,0 +1,98 @@
+[
+  {
+    "region": "EAS",
+    "region_name": "East Asia & Pacific",
+    "agriculture": 72.82134005,
+    "domestic": 12.01912175,
+    "industry": 15.16587191,
+    "total": 1243.3883
+  },
+  {
+    "region": "ECS",
+    "region_name": "Europe & Central Asia",
+    "agriculture": 52.89973473,
+    "domestic": 16.54646149,
+    "industry": 30.55380378,
+    "total": 497.1418
+  },
+  {
+    "region": "LCN",
+    "region_name": "Latin America & Caribbean",
+    "agriculture": 71.77185113,
+    "domestic": 17.60126511,
+    "industry": 10.6268945,
+    "total": 332.3512436
+  },
+  {
+    "region": "MEA",
+    "region_name": "Middle East & North Africa",
+    "agriculture": 85.42563418,
+    "domestic": 10.24485981,
+    "industry": 4.329506006,
+    "total": 274.628
+  },
+  {
+    "region": "NAC",
+    "region_name": "North America",
+    "agriculture": 37.25915718,
+    "domestic": 13.18616232,
+    "industry": 49.5546805,
+    "total": 480.1261118
+  },
+  {
+    "region": "SAS",
+    "region_name": "South Asia",
+    "agriculture": 91.28508461,
+    "domestic": 6.794300153,
+    "industry": 1.920615237,
+    "total": 926.4377
+  },
+  {
+    "region": "SSF",
+    "region_name": "Sub-Saharan Africa",
+    "agriculture": 78.90234804,
+    "domestic": 14.22933131,
+    "industry": 6.868320652,
+    "total": 126.898044
+  },
+  {
+    "region": "WLD",
+    "region_name": "World",
+    "agriculture": 71.2802422,
+    "domestic": 11.92047937,
+    "industry": 16.80134753,
+    "total": 3880.971199
+  },
+  {
+    "region": "HIC",
+    "region_name": "High Income",
+    "agriculture": 43.63873214,
+    "domestic": 16.83344109,
+    "industry": 39.49373016,
+    "total": 870.479738
+  },
+  {
+    "region": "LIC",
+    "region_name": "Low Income",
+    "agriculture": 90.30054061,
+    "domestic": 7.190735424,
+    "industry": 2.508721137,
+    "total": 110.6109895
+  },
+  {
+    "region": "LMC",
+    "region_name": "Lower Middle Income",
+    "agriculture": 88.08002908,
+    "domestic": 8.299118434,
+    "industry": 3.620794946,
+    "total": 1656.886049
+  },
+  {
+    "region": "UMC",
+    "region_name": "Upper Middle Income",
+    "agriculture": 66.37517153,
+    "domestic": 17.31084371,
+    "industry": 15.57878767,
+    "total": 1225.690977
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "iso3c": "AGO",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "ALB",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ARE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ARG",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ARM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "AUS",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "AUT",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "AZE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BDI",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "BEL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BEN",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "BFA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "BGD",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "BGR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BIH",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BLR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BLZ",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "BOL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BRA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BTN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "BWA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "CAF",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "CAN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "CHE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "CHL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "CHN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "CIV",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "CMR",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "COD",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "COG",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "COL",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "COM",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "CPV",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "CRI",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "CYP",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "CZE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "DEU",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "DJI",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "DNK",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "DOM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "DZA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ECU",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "EGY",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ESP",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "EST",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ETH",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "FIN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "FJI",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "FRA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "FSM",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "GAB",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "GBR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "GEO",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "GHA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "GIN",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "GMB",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "GNB",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "GRC",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "GTM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "GUY",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "HND",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "HRV",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "HTI",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "HUN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "IDN",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "IND",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "IRL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "IRN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "IRQ",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ISL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ISR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ITA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "JAM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "JOR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "JPN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "KAZ",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "KEN",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "KGZ",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "KIR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "KOR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "LAO",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "LBN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "LBR",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "LCA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "LKA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "LSO",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "LTU",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "LUX",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "LVA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MAR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MDA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MDG",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "MDV",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MEX",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MHL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MKD",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MLI",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "MLT",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MMR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MNE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MNG",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MOZ",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "MRT",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "MUS",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "MWI",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "MYS",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "NAM",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "NER",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "NGA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "NIC",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "NLD",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "NOR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "NPL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "NRU",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "PAK",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "PAN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "PER",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "PHL",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "PNG",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "POL",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "PRT",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "PRY",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "PSE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "ROU",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "RUS",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "RWA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SDN",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SEN",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SLB",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SLE",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SLV",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "SOM",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SRB",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "SSD",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "STP",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SUR",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SVK",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "SVN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "SWE",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "SWZ",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "SYC",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "SYR",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "TCD",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "TGO",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "THA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TJK",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "TKM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TLS",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "TON",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TTO",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TUN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TUR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TUV",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TWN",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "TZA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "UGA",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "UKR",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "URY",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "USA",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "UZB",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "VNM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "VUT",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "WSM",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "XKX",
+    "povertytargetmet": 1
+  },
+  {
+    "iso3c": "YEM",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "ZAF",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "ZMB",
+    "povertytargetmet": 0
+  },
+  {
+    "iso3c": "ZWE",
+    "povertytargetmet": 0
+  }
+]

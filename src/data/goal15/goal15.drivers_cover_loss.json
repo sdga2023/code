@@ -1,0 +1,182 @@
+[
+  {
+    "region": "LCN",
+    "driver": "forestry",
+    "share": 8.65
+  },
+  {
+    "region": "LCN",
+    "driver": "wildfire",
+    "share": 0.36
+  },
+  {
+    "region": "LCN",
+    "driver": "shiftingagriculture",
+    "share": 28.7
+  },
+  {
+    "region": "LCN",
+    "driver": "commodity",
+    "share": 61.6
+  },
+  {
+    "region": "LCN",
+    "driver": "urbanization",
+    "share": 0.11
+  },
+  {
+    "region": "LCN",
+    "driver": "unknown",
+    "share": 0.58
+  },
+  {
+    "region": "EAS",
+    "driver": "forestry",
+    "share": 27.66
+  },
+  {
+    "region": "EAS",
+    "driver": "wildfire",
+    "share": 3.46
+  },
+  {
+    "region": "EAS",
+    "driver": "shiftingagriculture",
+    "share": 7.03
+  },
+  {
+    "region": "EAS",
+    "driver": "commodity",
+    "share": 60.74
+  },
+  {
+    "region": "EAS",
+    "driver": "urbanization",
+    "share": 0.53
+  },
+  {
+    "region": "EAS",
+    "driver": "unknown",
+    "share": 0.57
+  },
+  {
+    "region": "SAS",
+    "driver": "forestry",
+    "share": 84.34
+  },
+  {
+    "region": "SAS",
+    "driver": "wildfire",
+    "share": 0.2
+  },
+  {
+    "region": "SAS",
+    "driver": "shiftingagriculture",
+    "share": 8.7
+  },
+  {
+    "region": "SAS",
+    "driver": "commodity",
+    "share": 1.74
+  },
+  {
+    "region": "SAS",
+    "driver": "urbanization",
+    "share": 1.95
+  },
+  {
+    "region": "SAS",
+    "driver": "unknown",
+    "share": 3.06
+  },
+  {
+    "region": "NAC",
+    "driver": "forestry",
+    "share": 61.65
+  },
+  {
+    "region": "NAC",
+    "driver": "wildfire",
+    "share": 34.53
+  },
+  {
+    "region": "NAC",
+    "driver": "shiftingagriculture",
+    "share": 0.12
+  },
+  {
+    "region": "NAC",
+    "driver": "commodity",
+    "share": 0.81
+  },
+  {
+    "region": "NAC",
+    "driver": "urbanization",
+    "share": 2.33
+  },
+  {
+    "region": "NAC",
+    "driver": "unknown",
+    "share": 0.55
+  },
+  {
+    "region": "SSF",
+    "driver": "forestry",
+    "share": 2.88
+  },
+  {
+    "region": "SSF",
+    "driver": "wildfire",
+    "share": 0.35
+  },
+  {
+    "region": "SSF",
+    "driver": "shiftingagriculture",
+    "share": 94.58
+  },
+  {
+    "region": "SSF",
+    "driver": "commodity",
+    "share": 1.01
+  },
+  {
+    "region": "SSF",
+    "driver": "urbanization",
+    "share": 0.52
+  },
+  {
+    "region": "SSF",
+    "driver": "unknown",
+    "share": 0.66
+  },
+  {
+    "region": "ECS",
+    "driver": "forestry",
+    "share": 43.2
+  },
+  {
+    "region": "ECS",
+    "driver": "wildfire",
+    "share": 55.62
+  },
+  {
+    "region": "ECS",
+    "driver": "shiftingagriculture",
+    "share": 0.16
+  },
+  {
+    "region": "ECS",
+    "driver": "commodity",
+    "share": 0
+  },
+  {
+    "region": "ECS",
+    "driver": "urbanization",
+    "share": 0.1
+  },
+  {
+    "region": "ECS",
+    "driver": "unknown",
+    "share": 0.93
+  }
+]

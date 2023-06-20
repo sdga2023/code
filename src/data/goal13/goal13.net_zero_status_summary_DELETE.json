@@ -1,0 +1,34 @@
+[
+  {
+    "status": "nodocument",
+    "countries": 100,
+    "share": 18.52389281,
+    "stacked": 18.52389281,
+    "share_countries": 51.8,
+    "stacked_countries": 51.8
+  },
+  {
+    "status": "pledge",
+    "countries": 19,
+    "share": 4.601513491,
+    "stacked": 23.12540631,
+    "share_countries": 9.8,
+    "stacked_countries": 61.6
+  },
+  {
+    "status": "policy",
+    "countries": 49,
+    "share": 58.08869129,
+    "stacked": 81.2140976,
+    "share_countries": 25.4,
+    "stacked_countries": 87
+  },
+  {
+    "status": "law",
+    "countries": 25,
+    "share": 18.7859024,
+    "stacked": 100,
+    "share_countries": 13,
+    "stacked_countries": 100
+  }
+]

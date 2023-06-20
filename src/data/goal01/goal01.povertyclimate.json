@@ -1,0 +1,3066 @@
+[
+  {
+    "iso3c": "AGO",
+    "year": 2019,
+    "povertyrate": 32.19843292,
+    "gdppc": 6712.0215,
+    "ghgpc": 1.23,
+    "note": "The poverty headcount rates are estimated using survey data or an extrapolation method common across countries. For headcount rates based on country-specific extrapolations, see the Macro Poverty Outlook: https://www.worldbank.org/en/publication/macro-poverty-outlook."
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2022,
+    "povertyrate": 34.8,
+    "gdppc": 5982.6362,
+    "ghgpc": 1.079799294,
+    "note": null
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 13653.201,
+    "ghgpc": 1.47,
+    "note": null
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 15135.454,
+    "ghgpc": 1.571847677,
+    "note": null
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 68263.672,
+    "ghgpc": 21.34,
+    "note": null
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 64748.125,
+    "ghgpc": 19.13062859,
+    "note": null
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2019,
+    "povertyrate": 0.7840069532,
+    "gdppc": 22066.102,
+    "ghgpc": 4.19,
+    "note": null
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 22153.6,
+    "ghgpc": 4.265247345,
+    "note": null
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2019,
+    "povertyrate": 1.030069828,
+    "gdppc": 13653.764,
+    "ghgpc": 2.32,
+    "note": null
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 14245.527,
+    "ghgpc": 2.324048996,
+    "note": null
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2019,
+    "povertyrate": 0.4970939755,
+    "gdppc": 49309.113,
+    "ghgpc": 16.96,
+    "note": null
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 50751.832,
+    "ghgpc": 16.20177078,
+    "note": null
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2019,
+    "povertyrate": 0.6406388879,
+    "gdppc": 55833.559,
+    "ghgpc": 7.31,
+    "note": null
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2022,
+    "povertyrate": 0.4,
+    "gdppc": 56196.965,
+    "ghgpc": 6.832687855,
+    "note": null
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 14442.041,
+    "ghgpc": 4.17,
+    "note": null
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 14774.443,
+    "ghgpc": 4.203952789,
+    "note": null
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2019,
+    "povertyrate": 73.55831909,
+    "gdppc": 751.44342,
+    "ghgpc": 0.06,
+    "note": null
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2022,
+    "povertyrate": 75.1,
+    "gdppc": 723.99628,
+    "ghgpc": 0.06097852066,
+    "note": null
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2019,
+    "povertyrate": 0.07855246216,
+    "gdppc": 51937.422,
+    "ghgpc": 8.01,
+    "note": null
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 52407.617,
+    "ghgpc": 7.545828342,
+    "note": null
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2019,
+    "povertyrate": 19.18910599,
+    "gdppc": 3287.3096,
+    "ghgpc": 0.67,
+    "note": null
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2022,
+    "povertyrate": 16.8,
+    "gdppc": 3546.5745,
+    "ghgpc": 0.7816172242,
+    "note": null
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2019,
+    "povertyrate": 30.06121635,
+    "gdppc": 2175.5046,
+    "ghgpc": 0.29,
+    "note": null
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2022,
+    "povertyrate": 29.1,
+    "gdppc": 2256.1477,
+    "ghgpc": 0.3353610635,
+    "note": null
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2019,
+    "povertyrate": 6.822788715,
+    "gdppc": 5550.0327,
+    "ghgpc": 0.63,
+    "note": null
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2022,
+    "povertyrate": 4.3,
+    "gdppc": 6371.2017,
+    "ghgpc": 0.7266494036,
+    "note": null
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2019,
+    "povertyrate": 0.9236336946,
+    "gdppc": 23265.877,
+    "ghgpc": 5.7,
+    "note": null
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 24502.66,
+    "ghgpc": 5.711150646,
+    "note": null
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2019,
+    "povertyrate": 0.05898650363,
+    "gdppc": 14896.797,
+    "ghgpc": 6.66,
+    "note": null
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 16054.765,
+    "ghgpc": 6.966629982,
+    "note": null
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 19279.209,
+    "ghgpc": 6.07,
+    "note": null
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 18456.955,
+    "ghgpc": 5.590281487,
+    "note": null
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2019,
+    "povertyrate": 19.55692863,
+    "gdppc": 7152.6572,
+    "ghgpc": 1.88,
+    "note": null
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2022,
+    "povertyrate": 8.9,
+    "gdppc": 6390.1982,
+    "ghgpc": 1.904745936,
+    "note": null
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2019,
+    "povertyrate": 1.920535207,
+    "gdppc": 8724.4746,
+    "ghgpc": 2.33,
+    "note": null
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 8418.1494,
+    "ghgpc": 2.445100784,
+    "note": null
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2019,
+    "povertyrate": 5.388580799,
+    "gdppc": 14736.156,
+    "ghgpc": 2.13,
+    "note": null
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 14931.098,
+    "ghgpc": 2.317602634,
+    "note": null
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2019,
+    "povertyrate": 0.3673393726,
+    "gdppc": 11864.767,
+    "ghgpc": 0.91,
+    "note": null
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2022,
+    "povertyrate": 0.3,
+    "gdppc": 10403.953,
+    "ghgpc": 1.117322326,
+    "note": null
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2019,
+    "povertyrate": 13.47857666,
+    "gdppc": 16404.445,
+    "ghgpc": 3.25,
+    "note": null
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2022,
+    "povertyrate": 12.5,
+    "gdppc": 16338.321,
+    "ghgpc": 3.278341532,
+    "note": null
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2019,
+    "povertyrate": 67.64110565,
+    "gdppc": 946.05963,
+    "ghgpc": 0.05,
+    "note": null
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2022,
+    "povertyrate": 67.8,
+    "gdppc": 924.46185,
+    "ghgpc": 0.05557126552,
+    "note": null
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2019,
+    "povertyrate": 0.2470106483,
+    "gdppc": 49171.512,
+    "ghgpc": 16.98,
+    "note": null
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 48821.758,
+    "ghgpc": 16.3212986,
+    "note": null
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2019,
+    "povertyrate": 0.03050398082,
+    "gdppc": 70944.352,
+    "ghgpc": 4.29,
+    "note": null
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 71813.633,
+    "ghgpc": 3.943538427,
+    "note": null
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2019,
+    "povertyrate": 0.5760226846,
+    "gdppc": 24931.121,
+    "ghgpc": 4.91,
+    "note": null
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2022,
+    "povertyrate": 0.3,
+    "gdppc": 26073.881,
+    "ghgpc": 4.96973896,
+    "note": null
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2019,
+    "povertyrate": 10.69593048,
+    "gdppc": 5212.5542,
+    "ghgpc": 0.51,
+    "note": null
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2022,
+    "povertyrate": 9.3,
+    "gdppc": 5559.5054,
+    "ghgpc": 0.5429237485,
+    "note": null
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2019,
+    "povertyrate": 22.74058533,
+    "gdppc": 3742.8567,
+    "ghgpc": 0.53,
+    "note": null
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2022,
+    "povertyrate": 22.7,
+    "gdppc": 3747.3022,
+    "ghgpc": 0.5397204161,
+    "note": null
+  },
+  {
+    "iso3c": "COD",
+    "year": 2019,
+    "povertyrate": 62.27871323,
+    "gdppc": 1097.9489,
+    "ghgpc": 0.11,
+    "note": null
+  },
+  {
+    "iso3c": "COD",
+    "year": 2022,
+    "povertyrate": 60.9,
+    "gdppc": 1140.3514,
+    "ghgpc": 0.09914352,
+    "note": null
+  },
+  {
+    "iso3c": "COG",
+    "year": 2019,
+    "povertyrate": 50.75162125,
+    "gdppc": 3825.7014,
+    "ghgpc": 2.6,
+    "note": null
+  },
+  {
+    "iso3c": "COG",
+    "year": 2022,
+    "povertyrate": 53.8,
+    "gdppc": 3350.5747,
+    "ghgpc": 2.176864862,
+    "note": null
+  },
+  {
+    "iso3c": "COL",
+    "year": 2019,
+    "povertyrate": 5.284737587,
+    "gdppc": 14571.991,
+    "ghgpc": 1.83,
+    "note": null
+  },
+  {
+    "iso3c": "COL",
+    "year": 2022,
+    "povertyrate": 4,
+    "gdppc": 15645.351,
+    "ghgpc": 1.880197525,
+    "note": null
+  },
+  {
+    "iso3c": "COM",
+    "year": 2019,
+    "povertyrate": 18.10503769,
+    "gdppc": 3058.9802,
+    "ghgpc": 0.38,
+    "note": null
+  },
+  {
+    "iso3c": "COM",
+    "year": 2022,
+    "povertyrate": 18.3,
+    "gdppc": 2969.6956,
+    "ghgpc": 0.4012879729,
+    "note": null
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2019,
+    "povertyrate": 2.871161699,
+    "gdppc": 7171.8267,
+    "ghgpc": 1.17,
+    "note": null
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2022,
+    "povertyrate": 3.1,
+    "gdppc": 6574.8203,
+    "ghgpc": 1.03810668,
+    "note": null
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2019,
+    "povertyrate": 1.057139516,
+    "gdppc": 20970.545,
+    "ghgpc": 1.53,
+    "note": null
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2022,
+    "povertyrate": 0.5,
+    "gdppc": 21850.871,
+    "ghgpc": 1.555043578,
+    "note": null
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2019,
+    "povertyrate": 0.15383178,
+    "gdppc": 41521.922,
+    "ghgpc": 5.41,
+    "note": null
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 41835.715,
+    "ghgpc": 5.351287842,
+    "note": null
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 40981.055,
+    "ghgpc": 9.38,
+    "note": null
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 40414.977,
+    "ghgpc": 8.603948593,
+    "note": null
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 53929.641,
+    "ghgpc": 7.92,
+    "note": null
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 53687.926,
+    "ghgpc": 7.778905869,
+    "note": null
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2019,
+    "povertyrate": 16.96568489,
+    "gdppc": 5260.0151,
+    "ghgpc": 0.36,
+    "note": null
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2022,
+    "povertyrate": 15.9,
+    "gdppc": 5509.1509,
+    "ghgpc": 0.3560596108,
+    "note": null
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2019,
+    "povertyrate": 0.2514071763,
+    "gdppc": 57161.688,
+    "ghgpc": 5.2,
+    "note": null
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 59243.727,
+    "ghgpc": 4.672334671,
+    "note": null
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2019,
+    "povertyrate": 0.8326866031,
+    "gdppc": 18412.9,
+    "ghgpc": 2.4,
+    "note": null
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 19725.08,
+    "ghgpc": 2.330589294,
+    "note": null
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2019,
+    "povertyrate": 0.327319324,
+    "gdppc": 11521.984,
+    "ghgpc": 5.47,
+    "note": null
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2022,
+    "povertyrate": 0.3,
+    "gdppc": 11310.65,
+    "ghgpc": 5.522356987,
+    "note": null
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2019,
+    "povertyrate": 3.58358407,
+    "gdppc": 11370.604,
+    "ghgpc": 2.56,
+    "note": null
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2022,
+    "povertyrate": 0.7,
+    "gdppc": 10766.604,
+    "ghgpc": 2.397649765,
+    "note": null
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2019,
+    "povertyrate": 2.34367013,
+    "gdppc": 11763.253,
+    "ghgpc": 2.6,
+    "note": null
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2022,
+    "povertyrate": 1.9,
+    "gdppc": 12668.383,
+    "ghgpc": 2.720926046,
+    "note": null
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2019,
+    "povertyrate": 0.7938134074,
+    "gdppc": 40802.488,
+    "ghgpc": 5.01,
+    "note": null
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2022,
+    "povertyrate": 0.4,
+    "gdppc": 39575.688,
+    "ghgpc": 4.867194176,
+    "note": null
+  },
+  {
+    "iso3c": "EST",
+    "year": 2019,
+    "povertyrate": 0.5569403172,
+    "gdppc": 36401.109,
+    "ghgpc": 7.74,
+    "note": null
+  },
+  {
+    "iso3c": "EST",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 38590.156,
+    "ghgpc": 8.944789886,
+    "note": null
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2019,
+    "povertyrate": 17.8326931,
+    "gdppc": 2221.4048,
+    "ghgpc": 0.25,
+    "note": null
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2022,
+    "povertyrate": 18.1,
+    "gdppc": 2418.5815,
+    "ghgpc": 0.248897925,
+    "note": null
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2019,
+    "povertyrate": 0.03882922977,
+    "gdppc": 48582.586,
+    "ghgpc": 7.58,
+    "note": null
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 49950.613,
+    "ghgpc": 6.884780884,
+    "note": null
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2019,
+    "povertyrate": 1.106426001,
+    "gdppc": 13684.292,
+    "ghgpc": 1.77,
+    "note": null
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2022,
+    "povertyrate": 1.3,
+    "gdppc": 12286.372,
+    "ghgpc": 1.817951918,
+    "note": null
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2019,
+    "povertyrate": 0.02116805501,
+    "gdppc": 46017.766,
+    "ghgpc": 4.5,
+    "note": null
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 46197.5,
+    "ghgpc": 4.491621017,
+    "note": null
+  },
+  {
+    "iso3c": "FSM",
+    "year": 2019,
+    "povertyrate": 16.02843857,
+    "gdppc": 3465.1199,
+    "ghgpc": 1.54,
+    "note": null
+  },
+  {
+    "iso3c": "FSM",
+    "year": 2022,
+    "povertyrate": 17.9,
+    "gdppc": 3200.2192,
+    "ghgpc": 1.809294701,
+    "note": null
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2019,
+    "povertyrate": 2.490942717,
+    "gdppc": 14945.859,
+    "ghgpc": 4.69,
+    "note": null
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2022,
+    "povertyrate": 2.7,
+    "gdppc": 14406.475,
+    "ghgpc": 4.033720016,
+    "note": null
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2019,
+    "povertyrate": 0.2980554402,
+    "gdppc": 47368.586,
+    "ghgpc": 5.3,
+    "note": null
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 47319.289,
+    "ghgpc": 4.585844994,
+    "note": null
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2019,
+    "povertyrate": 4.848628521,
+    "gdppc": 14989.258,
+    "ghgpc": 2.8,
+    "note": null
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2022,
+    "povertyrate": 4.1,
+    "gdppc": 16907.604,
+    "ghgpc": 3.426250219,
+    "note": null
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2019,
+    "povertyrate": 22.21362686,
+    "gdppc": 5540.0454,
+    "ghgpc": 0.68,
+    "note": null
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2022,
+    "povertyrate": 20.7,
+    "gdppc": 5700.7573,
+    "ghgpc": 0.7047845721,
+    "note": null
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2019,
+    "povertyrate": 13.42643833,
+    "gdppc": 2566.323,
+    "ghgpc": 0.31,
+    "note": null
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2022,
+    "povertyrate": 13.8,
+    "gdppc": 2674.4724,
+    "ghgpc": 0.2901502848,
+    "note": null
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2019,
+    "povertyrate": 10.31288719,
+    "gdppc": 2226.344,
+    "ghgpc": 0.25,
+    "note": null
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2022,
+    "povertyrate": 9.6,
+    "gdppc": 2259.365,
+    "ghgpc": 0.2687565982,
+    "note": null
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2019,
+    "povertyrate": 21.06277657,
+    "gdppc": 1939.2896,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2022,
+    "povertyrate": 20.7,
+    "gdppc": 1900.4485,
+    "ghgpc": 0.1738234609,
+    "note": null
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2019,
+    "povertyrate": 0.6895517111,
+    "gdppc": 29698.031,
+    "ghgpc": 5.44,
+    "note": null
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 31085.83,
+    "ghgpc": 5.367164612,
+    "note": null
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2019,
+    "povertyrate": 6.989266872,
+    "gdppc": 8653.3086,
+    "ghgpc": 1.25,
+    "note": null
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2022,
+    "povertyrate": 0.9,
+    "gdppc": 9012.2793,
+    "ghgpc": 1.406961679,
+    "note": null
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2019,
+    "povertyrate": 6.078304291,
+    "gdppc": 13082.182,
+    "ghgpc": 3.53,
+    "note": null
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2022,
+    "povertyrate": 2.2,
+    "gdppc": 35069.848,
+    "ghgpc": 7.444266319,
+    "note": null
+  },
+  {
+    "iso3c": "HND",
+    "year": 2019,
+    "povertyrate": 12.74299145,
+    "gdppc": 5736.1816,
+    "ghgpc": 1.04,
+    "note": null
+  },
+  {
+    "iso3c": "HND",
+    "year": 2022,
+    "povertyrate": 2.5,
+    "gdppc": 5783.3306,
+    "ghgpc": 1.017955303,
+    "note": null
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2019,
+    "povertyrate": 0.2599258423,
+    "gdppc": 29336.086,
+    "ghgpc": 3.96,
+    "note": null
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 33103.805,
+    "ghgpc": 4.013386726,
+    "note": null
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2019,
+    "povertyrate": 25.5555954,
+    "gdppc": 3073.3291,
+    "ghgpc": 0.36,
+    "note": null
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2022,
+    "povertyrate": 27.7,
+    "gdppc": 2775.3884,
+    "ghgpc": 0.3450909853,
+    "note": null
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2019,
+    "povertyrate": 0.3017024696,
+    "gdppc": 32553.695,
+    "ghgpc": 4.82,
+    "note": null
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 35441.09,
+    "ghgpc": 4.861161232,
+    "note": null
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2019,
+    "povertyrate": 4.380574226,
+    "gdppc": 11812.103,
+    "ghgpc": 2.4,
+    "note": null
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2022,
+    "povertyrate": 3.3,
+    "gdppc": 12255.068,
+    "ghgpc": 2.217072487,
+    "note": null
+  },
+  {
+    "iso3c": "IND",
+    "year": 2019,
+    "povertyrate": 9.473986626,
+    "gdppc": 6689.3652,
+    "ghgpc": 1.77,
+    "note": null
+  },
+  {
+    "iso3c": "IND",
+    "year": 2022,
+    "povertyrate": 9.4,
+    "gdppc": 7065.1436,
+    "ghgpc": 1.843910336,
+    "note": null
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2019,
+    "povertyrate": 0.003921385854,
+    "gdppc": 86650.008,
+    "ghgpc": 6.98,
+    "note": null
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 110333.28,
+    "ghgpc": 7.157886505,
+    "note": null
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2019,
+    "povertyrate": 1.02470243,
+    "gdppc": 14903.52,
+    "ghgpc": 9.38,
+    "note": null
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2022,
+    "povertyrate": 0.3,
+    "gdppc": 15839.881,
+    "ghgpc": 10.16341209,
+    "note": null
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2019,
+    "povertyrate": 0.02387709357,
+    "gdppc": 10889.803,
+    "ghgpc": 7.39,
+    "note": null
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 10090.511,
+    "ghgpc": 7.647656441,
+    "note": null
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 56935.773,
+    "ghgpc": 4.64,
+    "note": null
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 55325.652,
+    "ghgpc": 4.600288868,
+    "note": null
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2019,
+    "povertyrate": 0.4967662394,
+    "gdppc": 40626.215,
+    "ghgpc": 6.88,
+    "note": null
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 43410.016,
+    "ghgpc": 6.263658524,
+    "note": null
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2019,
+    "povertyrate": 1.457646847,
+    "gdppc": 42746.297,
+    "ghgpc": 5.36,
+    "note": null
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2022,
+    "povertyrate": 1,
+    "gdppc": 43275.324,
+    "ghgpc": 5.007873535,
+    "note": null
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2019,
+    "povertyrate": 1.177245975,
+    "gdppc": 9777.0059,
+    "ghgpc": 2.78,
+    "note": null
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2022,
+    "povertyrate": 1.2,
+    "gdppc": 9372.0215,
+    "ghgpc": 2.629058123,
+    "note": null
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2019,
+    "povertyrate": 0.03102084994,
+    "gdppc": 10071.38,
+    "ghgpc": 2.34,
+    "note": null
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 10176.942,
+    "ghgpc": 2.404760838,
+    "note": null
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2019,
+    "povertyrate": 0.7278878689,
+    "gdppc": 41697.41,
+    "ghgpc": 8.47,
+    "note": null
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 41592.52,
+    "ghgpc": 8.226174355,
+    "note": null
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2019,
+    "povertyrate": 0.01514079142,
+    "gdppc": 26351.805,
+    "ghgpc": 12.71,
+    "note": null
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 26369.434,
+    "ghgpc": 10.55442047,
+    "note": null
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2019,
+    "povertyrate": 25.183918,
+    "gdppc": 4459.2104,
+    "ghgpc": 0.46,
+    "note": null
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2022,
+    "povertyrate": 23,
+    "gdppc": 4711.021,
+    "ghgpc": 0.4754909277,
+    "note": null
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2019,
+    "povertyrate": 0.6590636969,
+    "gdppc": 5258.3667,
+    "ghgpc": 1.5,
+    "note": null
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2022,
+    "povertyrate": 1.4,
+    "gdppc": 4894.8604,
+    "ghgpc": 1.587609172,
+    "note": null
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2019,
+    "povertyrate": 1.797250509,
+    "gdppc": 2102.782,
+    "ghgpc": 0.74,
+    "note": null
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2022,
+    "povertyrate": 2.1,
+    "gdppc": 2038.9081,
+    "ghgpc": 0.7911986113,
+    "note": null
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2019,
+    "povertyrate": 0.2266651392,
+    "gdppc": 42758.59,
+    "ghgpc": 11.47,
+    "note": null
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 45353.664,
+    "ghgpc": 11.67647648,
+    "note": null
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2019,
+    "povertyrate": 6.615322113,
+    "gdppc": 7886.6528,
+    "ghgpc": 2.48,
+    "note": null
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2022,
+    "povertyrate": 6.3,
+    "gdppc": 7959.7915,
+    "ghgpc": 2.992968321,
+    "note": null
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 14493.372,
+    "ghgpc": 3.78,
+    "note": null
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2019,
+    "povertyrate": 31.39360809,
+    "gdppc": 1469.7639,
+    "ghgpc": 0.21,
+    "note": null
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2022,
+    "povertyrate": 31.6,
+    "gdppc": 1431.4384,
+    "ghgpc": 0.2426347286,
+    "note": null
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2019,
+    "povertyrate": 4.74651432,
+    "gdppc": 15200.872,
+    "ghgpc": 2.93,
+    "note": null
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2022,
+    "povertyrate": 2.3,
+    "gdppc": 13864.692,
+    "ghgpc": 2.947606325,
+    "note": null
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2019,
+    "povertyrate": 0.8576917648,
+    "gdppc": 13079.539,
+    "ghgpc": 1.11,
+    "note": null
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2022,
+    "povertyrate": 1.2,
+    "gdppc": 11616.817,
+    "ghgpc": 1.026428819,
+    "note": null
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2019,
+    "povertyrate": 33.74756622,
+    "gdppc": 2656.116,
+    "ghgpc": 0.36,
+    "note": null
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2022,
+    "povertyrate": 34.6,
+    "gdppc": 2463.6807,
+    "ghgpc": 0.3501856923,
+    "note": null
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2019,
+    "povertyrate": 0.5479296446,
+    "gdppc": 37166.211,
+    "ghgpc": 4.25,
+    "note": null
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 39257.738,
+    "ghgpc": 4.020596504,
+    "note": null
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2019,
+    "povertyrate": 0.1011874676,
+    "gdppc": 116518.27,
+    "ghgpc": 15.01,
+    "note": null
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 118963.42,
+    "ghgpc": 12.59071255,
+    "note": null
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2019,
+    "povertyrate": 0.239100799,
+    "gdppc": 31012.135,
+    "ghgpc": 3.93,
+    "note": null
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 32556.67,
+    "ghgpc": 3.697735786,
+    "note": null
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2019,
+    "povertyrate": 0.9231883287,
+    "gdppc": 7546.7549,
+    "ghgpc": 1.84,
+    "note": null
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2022,
+    "povertyrate": 1,
+    "gdppc": 7396.7798,
+    "ghgpc": 1.718193054,
+    "note": null
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2019,
+    "povertyrate": 0.02864513919,
+    "gdppc": 13026.516,
+    "ghgpc": 3.5,
+    "note": null
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 14491.962,
+    "ghgpc": 3.402166843,
+    "note": null
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2019,
+    "povertyrate": 78.99671173,
+    "gdppc": 1618.5326,
+    "ghgpc": 0.21,
+    "note": null
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2022,
+    "povertyrate": 81.5,
+    "gdppc": 1509.51,
+    "ghgpc": 0.2201512456,
+    "note": null
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 19510.492,
+    "ghgpc": 3.97,
+    "note": null
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 17747.783,
+    "ghgpc": 4.582911968,
+    "note": null
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2019,
+    "povertyrate": 2.703492165,
+    "gdppc": 19675.441,
+    "ghgpc": 3.64,
+    "note": null
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2022,
+    "povertyrate": 0.3,
+    "gdppc": 18773.934,
+    "ghgpc": 3.280531406,
+    "note": null
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2019,
+    "povertyrate": 0.854344368,
+    "gdppc": 4048.0886,
+    "ghgpc": 3.05,
+    "note": null
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2022,
+    "povertyrate": 0.8,
+    "gdppc": 3831.4502,
+    "ghgpc": 1.106396437,
+    "note": null
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2019,
+    "povertyrate": 3.323778152,
+    "gdppc": 16773.041,
+    "ghgpc": 4.02,
+    "note": null
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2022,
+    "povertyrate": 0.9,
+    "gdppc": 16907.254,
+    "ghgpc": 3.255809784,
+    "note": null
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2019,
+    "povertyrate": 0.304681778,
+    "gdppc": 45396.73,
+    "ghgpc": 3.33,
+    "note": null
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 46697.199,
+    "ghgpc": 3.089046001,
+    "note": null
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2019,
+    "povertyrate": 1.163596988,
+    "gdppc": 4739.7104,
+    "ghgpc": 0.73,
+    "note": null
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2022,
+    "povertyrate": 2.2,
+    "gdppc": 4007.7925,
+    "ghgpc": 0.7315168977,
+    "note": null
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2019,
+    "povertyrate": 2.55550909,
+    "gdppc": 21533.932,
+    "ghgpc": 4.6,
+    "note": null
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2022,
+    "povertyrate": 0.4,
+    "gdppc": 22033.475,
+    "ghgpc": 4.114140511,
+    "note": null
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2019,
+    "povertyrate": 0.4945170879,
+    "gdppc": 12486.077,
+    "ghgpc": 7.54,
+    "note": null
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2022,
+    "povertyrate": 0.7,
+    "gdppc": 11822.483,
+    "ghgpc": 7.029949188,
+    "note": null
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2019,
+    "povertyrate": 63.18357468,
+    "gdppc": 1281.78,
+    "ghgpc": 0.36,
+    "note": null
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2022,
+    "povertyrate": 64.4,
+    "gdppc": 1233.3179,
+    "ghgpc": 0.441924423,
+    "note": null
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2019,
+    "povertyrate": 5.150211334,
+    "gdppc": 5343.998,
+    "ghgpc": 0.95,
+    "note": null
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2022,
+    "povertyrate": 5.5,
+    "gdppc": 5178.7256,
+    "ghgpc": 0.966540277,
+    "note": null
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2019,
+    "povertyrate": 0.0823232159,
+    "gdppc": 22869.756,
+    "ghgpc": 3.34,
+    "note": null
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 21525.213,
+    "ghgpc": 3.263567448,
+    "note": null
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2019,
+    "povertyrate": 69.05659485,
+    "gdppc": 1537.1412,
+    "ghgpc": 0.09,
+    "note": null
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2022,
+    "povertyrate": 69.3,
+    "gdppc": 1481.0979,
+    "ghgpc": 0.07910303771,
+    "note": null
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2019,
+    "povertyrate": 0.006961048115,
+    "gdppc": 28421.463,
+    "ghgpc": 7.98,
+    "note": null
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 28059.688,
+    "ghgpc": 7.425071239,
+    "note": null
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2019,
+    "povertyrate": 17.46839523,
+    "gdppc": 9809.2188,
+    "ghgpc": 1.58,
+    "note": null
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2022,
+    "povertyrate": 18.9,
+    "gdppc": 9027.9814,
+    "ghgpc": 1.496913671,
+    "note": null
+  },
+  {
+    "iso3c": "NER",
+    "year": 2019,
+    "povertyrate": 50.07099915,
+    "gdppc": 1224.3751,
+    "ghgpc": 0.14,
+    "note": null
+  },
+  {
+    "iso3c": "NER",
+    "year": 2022,
+    "povertyrate": 50,
+    "gdppc": 1226.1711,
+    "ghgpc": 0.1451640874,
+    "note": null
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2019,
+    "povertyrate": 30.93486214,
+    "gdppc": 5135.4995,
+    "ghgpc": 0.93,
+    "note": null
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2022,
+    "povertyrate": 31.5,
+    "gdppc": 5000.2686,
+    "ghgpc": 0.8549341559,
+    "note": null
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2019,
+    "povertyrate": 3.902331114,
+    "gdppc": 5445.7295,
+    "ghgpc": 0.82,
+    "note": null
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 5932.1699,
+    "ghgpc": 0.8198022842,
+    "note": null
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2019,
+    "povertyrate": 0.09572870284,
+    "gdppc": 56784.039,
+    "ghgpc": 8.54,
+    "note": null
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 58936.035,
+    "ghgpc": 8.533205032,
+    "note": null
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2019,
+    "povertyrate": 0.1565339565,
+    "gdppc": 64385.008,
+    "ghgpc": 6.85,
+    "note": null
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 67679.305,
+    "ghgpc": 6.774114132,
+    "note": null
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2019,
+    "povertyrate": 2.834811687,
+    "gdppc": 3952.7603,
+    "ghgpc": 0.48,
+    "note": null
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2022,
+    "povertyrate": 2.8,
+    "gdppc": 3971.7952,
+    "ghgpc": 0.5295984745,
+    "note": null
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2019,
+    "povertyrate": 0.4786150157,
+    "gdppc": 13525.772,
+    "ghgpc": 5.96,
+    "note": null
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2022,
+    "povertyrate": 0.4,
+    "gdppc": 13604.387,
+    "ghgpc": 6.518509865,
+    "note": null
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2019,
+    "povertyrate": 5.293699741,
+    "gdppc": 5317.7744,
+    "ghgpc": 0.93,
+    "note": null
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2022,
+    "povertyrate": 4.1,
+    "gdppc": 5558.6196,
+    "ghgpc": 0.9848672152,
+    "note": null
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2019,
+    "povertyrate": 1.004099488,
+    "gdppc": 31440.264,
+    "ghgpc": 3.02,
+    "note": null
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 30597.164,
+    "ghgpc": 2.582925558,
+    "note": null
+  },
+  {
+    "iso3c": "PER",
+    "year": 2019,
+    "povertyrate": 2.97806406,
+    "gdppc": 12858.326,
+    "ghgpc": 1.75,
+    "note": null
+  },
+  {
+    "iso3c": "PER",
+    "year": 2022,
+    "povertyrate": 0.6,
+    "gdppc": 12861.685,
+    "ghgpc": 1.723559976,
+    "note": null
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2019,
+    "povertyrate": 4.116933346,
+    "gdppc": 8914.7236,
+    "ghgpc": 1.29,
+    "note": null
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2022,
+    "povertyrate": 8,
+    "gdppc": 8723.3291,
+    "ghgpc": 1.335294127,
+    "note": null
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2019,
+    "povertyrate": 28.41158867,
+    "gdppc": 4292.6094,
+    "ghgpc": 1.46,
+    "note": null
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2022,
+    "povertyrate": 29.3,
+    "gdppc": 4114.8149,
+    "ghgpc": 1.8206563,
+    "note": null
+  },
+  {
+    "iso3c": "POL",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 33185.156,
+    "ghgpc": 7.77,
+    "note": null
+  },
+  {
+    "iso3c": "POL",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 35855.316,
+    "ghgpc": 7.885736465,
+    "note": null
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2019,
+    "povertyrate": 0.1487206221,
+    "gdppc": 34945.66,
+    "ghgpc": 4.22,
+    "note": null
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 35678.227,
+    "ghgpc": 4.654034138,
+    "note": null
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2019,
+    "povertyrate": 1.01151073,
+    "gdppc": 12615.528,
+    "ghgpc": 1.21,
+    "note": null
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 12574.883,
+    "ghgpc": 1.36169982,
+    "note": null
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2022,
+    "povertyrate": 0.9,
+    "gdppc": 5733.9766,
+    "ghgpc": 1.166319132,
+    "note": null
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2019,
+    "povertyrate": 2.164076567,
+    "gdppc": 29875.063,
+    "ghgpc": 3.84,
+    "note": null
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 32338.219,
+    "ghgpc": 3.647917747,
+    "note": null
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2019,
+    "povertyrate": 0.03000163659,
+    "gdppc": 27254.574,
+    "ghgpc": 15.3,
+    "note": null
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 27035.99,
+    "ghgpc": 14.28027916,
+    "note": null
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2019,
+    "povertyrate": 44.24836349,
+    "gdppc": 2227.5156,
+    "ghgpc": 0.09,
+    "note": null
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2022,
+    "povertyrate": 41.3,
+    "gdppc": 2352.1843,
+    "ghgpc": 0.09657457471,
+    "note": null
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2019,
+    "povertyrate": 21.25585556,
+    "gdppc": 4173.5664,
+    "ghgpc": 0.56,
+    "note": null
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2022,
+    "povertyrate": 25.7,
+    "gdppc": 3730.2388,
+    "ghgpc": 0.503958106,
+    "note": null
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2019,
+    "povertyrate": 9.015172005,
+    "gdppc": 3368.2622,
+    "ghgpc": 0.55,
+    "note": null
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2022,
+    "povertyrate": 7.6,
+    "gdppc": 3496.8193,
+    "ghgpc": 0.5869481564,
+    "note": null
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2019,
+    "povertyrate": 24.84011269,
+    "gdppc": 2660.5149,
+    "ghgpc": 0.53,
+    "note": null
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2022,
+    "povertyrate": 29.7,
+    "gdppc": 2260.2576,
+    "ghgpc": 0.4227898717,
+    "note": null
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2019,
+    "povertyrate": 24.42751884,
+    "gdppc": 1705.1914,
+    "ghgpc": 0.12,
+    "note": null
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2022,
+    "povertyrate": 24.8,
+    "gdppc": 1658.9365,
+    "ghgpc": 0.124181278,
+    "note": null
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2019,
+    "povertyrate": 1.401915193,
+    "gdppc": 8776.1191,
+    "ghgpc": 1.18,
+    "note": null
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 8988.4854,
+    "ghgpc": 1.084692836,
+    "note": null
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2019,
+    "povertyrate": 65.25950623,
+    "gdppc": 1186.4509,
+    "ghgpc": 0.04,
+    "note": null
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2022,
+    "povertyrate": 65.6,
+    "gdppc": 1175.694,
+    "ghgpc": 0.03315847367,
+    "note": null
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2019,
+    "povertyrate": 0.04523183405,
+    "gdppc": 18306.785,
+    "ghgpc": 6.93,
+    "note": null
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 20536.99,
+    "ghgpc": 7.455934525,
+    "note": null
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2019,
+    "povertyrate": 71.86244965,
+    "gdppc": 825.56097,
+    "ghgpc": 0.53,
+    "note": null
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2022,
+    "povertyrate": 73.8,
+    "gdppc": 794.08801,
+    "ghgpc": 0.682107985,
+    "note": null
+  },
+  {
+    "iso3c": "STP",
+    "year": 2019,
+    "povertyrate": 15.07362938,
+    "gdppc": 4005.3416,
+    "ghgpc": 0.68,
+    "note": null
+  },
+  {
+    "iso3c": "STP",
+    "year": 2022,
+    "povertyrate": 14.9,
+    "gdppc": 4029.957,
+    "ghgpc": 0.6686480045,
+    "note": null
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2019,
+    "povertyrate": 15.34828854,
+    "gdppc": 19036.744,
+    "ghgpc": 5.99,
+    "note": null
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2022,
+    "povertyrate": 12.3,
+    "gdppc": 15198.282,
+    "ghgpc": 6.562986374,
+    "note": null
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2019,
+    "povertyrate": 0.1181162596,
+    "gdppc": 31927.594,
+    "ghgpc": 5.85,
+    "note": null
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 32025.611,
+    "ghgpc": 5.4456563,
+    "note": null
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 38946.684,
+    "ghgpc": 6.47,
+    "note": null
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 42222.195,
+    "ghgpc": 6.375294685,
+    "note": null
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2019,
+    "povertyrate": 0.3165186048,
+    "gdppc": 52850.57,
+    "ghgpc": 3.47,
+    "note": null
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 53094.871,
+    "ghgpc": 3.117567778,
+    "note": null
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2019,
+    "povertyrate": 34.23328781,
+    "gdppc": 8652.9229,
+    "ghgpc": 0.92,
+    "note": null
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2022,
+    "povertyrate": 33.1,
+    "gdppc": 9053.252,
+    "ghgpc": 0.9945313334,
+    "note": null
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2019,
+    "povertyrate": 0.5110040307,
+    "gdppc": 29366,
+    "ghgpc": 6.27,
+    "note": null
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 29854.232,
+    "ghgpc": 6.534316063,
+    "note": null
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2019,
+    "povertyrate": 30.73449516,
+    "gdppc": 1579.6261,
+    "ghgpc": 0.29,
+    "note": null
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2022,
+    "povertyrate": 34.1,
+    "gdppc": 1453.3992,
+    "ghgpc": 0.2798950076,
+    "note": null
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2019,
+    "povertyrate": 27.47520828,
+    "gdppc": 2121.8999,
+    "ghgpc": 0.25,
+    "note": null
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2022,
+    "povertyrate": 25.6,
+    "gdppc": 2228.3589,
+    "ghgpc": 0.1854172945,
+    "note": null
+  },
+  {
+    "iso3c": "THA",
+    "year": 2019,
+    "povertyrate": 0.09503760189,
+    "gdppc": 18438.646,
+    "ghgpc": 3.81,
+    "note": null
+  },
+  {
+    "iso3c": "THA",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 17949.297,
+    "ghgpc": 3.64928627,
+    "note": null
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2019,
+    "povertyrate": 3.507111073,
+    "gdppc": 3581.4092,
+    "ghgpc": 0.84,
+    "note": null
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2022,
+    "povertyrate": 3.1,
+    "gdppc": 4043.0959,
+    "ghgpc": 1.167849183,
+    "note": null
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2019,
+    "povertyrate": 0.9976912737,
+    "gdppc": 15538.42,
+    "ghgpc": 24.22,
+    "note": null
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2022,
+    "povertyrate": 0.8,
+    "gdppc": 15189.551,
+    "ghgpc": 21.01888084,
+    "note": null
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2019,
+    "povertyrate": 7.323234081,
+    "gdppc": 3626.6731,
+    "ghgpc": 3.79,
+    "note": null
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2022,
+    "povertyrate": 9.9,
+    "gdppc": 3438.3899,
+    "ghgpc": 3.429068804,
+    "note": null
+  },
+  {
+    "iso3c": "TON",
+    "year": 2019,
+    "povertyrate": 0.9524902701,
+    "gdppc": 6377.3555,
+    "ghgpc": 1.56,
+    "note": null
+  },
+  {
+    "iso3c": "TON",
+    "year": 2022,
+    "povertyrate": 1.1,
+    "gdppc": 6070.9575,
+    "ghgpc": 1.653806806,
+    "note": null
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2019,
+    "povertyrate": 0.2235803157,
+    "gdppc": 26827.295,
+    "ghgpc": 16.34,
+    "note": null
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 25313.297,
+    "ghgpc": 14.33919621,
+    "note": null
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2019,
+    "povertyrate": 0.09080129117,
+    "gdppc": 11420.85,
+    "ghgpc": 2.48,
+    "note": null
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 10688.199,
+    "ghgpc": 2.384971857,
+    "note": null
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2019,
+    "povertyrate": 0.3606097996,
+    "gdppc": 28197.248,
+    "ghgpc": 4.54,
+    "note": null
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2022,
+    "povertyrate": 0.1,
+    "gdppc": 32419.518,
+    "ghgpc": 4.934150696,
+    "note": null
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2019,
+    "povertyrate": 0.2823207676,
+    "gdppc": 4527.6841,
+    "ghgpc": 0.94,
+    "note": null
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2022,
+    "povertyrate": 0.2,
+    "gdppc": 4746.6304,
+    "ghgpc": 1.281791925,
+    "note": null
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 59063.512,
+    "ghgpc": 6.792457581,
+    "note": null
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2019,
+    "povertyrate": 43.08327484,
+    "gdppc": 2660.6375,
+    "ghgpc": 0.28,
+    "note": null
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2022,
+    "povertyrate": 42.1,
+    "gdppc": 2708.3171,
+    "ghgpc": 0.2773568332,
+    "note": null
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2019,
+    "povertyrate": 40.54864502,
+    "gdppc": 2182.8997,
+    "ghgpc": 0.25,
+    "note": null
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2022,
+    "povertyrate": 39.3,
+    "gdppc": 2212.386,
+    "ghgpc": 0.2490724325,
+    "note": null
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2019,
+    "povertyrate": 0,
+    "gdppc": 12804.955,
+    "ghgpc": 4.05,
+    "note": null
+  },
+  {
+    "iso3c": "URY",
+    "year": 2019,
+    "povertyrate": 0.102072008,
+    "gdppc": 23032.734,
+    "ghgpc": 1.9,
+    "note": null
+  },
+  {
+    "iso3c": "URY",
+    "year": 2022,
+    "povertyrate": 0,
+    "gdppc": 23518.063,
+    "ghgpc": 1.774154067,
+    "note": null
+  },
+  {
+    "iso3c": "USA",
+    "year": 2019,
+    "povertyrate": 0.9991705418,
+    "gdppc": 62458.754,
+    "ghgpc": 15.98,
+    "note": null
+  },
+  {
+    "iso3c": "USA",
+    "year": 2022,
+    "povertyrate": 0.5,
+    "gdppc": 63945.848,
+    "ghgpc": 15.09097385,
+    "note": null
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2019,
+    "povertyrate": 30.14192772,
+    "gdppc": 7348.147,
+    "ghgpc": 4.11,
+    "note": null
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2022,
+    "povertyrate": 26.4,
+    "gdppc": 7972.9482,
+    "ghgpc": 3.404434443,
+    "note": null
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2019,
+    "povertyrate": 0.8835430741,
+    "gdppc": 10134.259,
+    "ghgpc": 3.11,
+    "note": null
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2022,
+    "povertyrate": 0.6,
+    "gdppc": 11150.295,
+    "ghgpc": 3.185648203,
+    "note": null
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2019,
+    "povertyrate": 9.234265327,
+    "gdppc": 3116.5947,
+    "ghgpc": 0.7,
+    "note": null
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2022,
+    "povertyrate": 12.1,
+    "gdppc": 2779.3721,
+    "ghgpc": 0.689066112,
+    "note": null
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2019,
+    "povertyrate": 0.7517678142,
+    "gdppc": 6627.8384,
+    "ghgpc": 1.5,
+    "note": null
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2022,
+    "povertyrate": 1.4,
+    "gdppc": 5515.7607,
+    "ghgpc": 1.487871528,
+    "note": null
+  },
+  {
+    "iso3c": "XKX",
+    "year": 2022,
+    "povertyrate": 0.3,
+    "gdppc": 11903.869,
+    "ghgpc": 2.735215187,
+    "note": null
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2019,
+    "povertyrate": 58.73381805,
+    "gdppc": 2097.4399,
+    "ghgpc": 0.47,
+    "note": null
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2022,
+    "povertyrate": 65.2,
+    "gdppc": 1815.48,
+    "ghgpc": 0.3657464087,
+    "note": null
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2019,
+    "povertyrate": 21.18907166,
+    "gdppc": 13709.967,
+    "ghgpc": 8.15,
+    "note": null
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2022,
+    "povertyrate": 5,
+    "gdppc": 13200.073,
+    "ghgpc": 7.47495985,
+    "note": null
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2019,
+    "povertyrate": 61.06533813,
+    "gdppc": 3470.4355,
+    "ghgpc": 0.42,
+    "note": null
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2022,
+    "povertyrate": 61.5,
+    "gdppc": 3295.124,
+    "ghgpc": 0.5001118183,
+    "note": null
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2019,
+    "povertyrate": 39.75453186,
+    "gdppc": 2310.6348,
+    "ghgpc": 1,
+    "note": null
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2022,
+    "povertyrate": 40.5,
+    "gdppc": 2244.875,
+    "ghgpc": 0.8903939724,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1991,
+    "povertyrate": 69.67447662,
+    "gdppc": 1534.7053,
+    "ghgpc": 2.15,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1992,
+    "povertyrate": 66.31111145,
+    "gdppc": 1731.6572,
+    "ghgpc": 2.21,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1993,
+    "povertyrate": 62.70599365,
+    "gdppc": 1949.5343,
+    "ghgpc": 2.37,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1994,
+    "povertyrate": 57.25074005,
+    "gdppc": 2178.9241,
+    "ghgpc": 2.43,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1995,
+    "povertyrate": 53.32939529,
+    "gdppc": 2391.4771,
+    "ghgpc": 2.68,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1996,
+    "povertyrate": 48.14048386,
+    "gdppc": 2601.3635,
+    "ghgpc": 2.63,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1997,
+    "povertyrate": 47.60237885,
+    "gdppc": 2812.7112,
+    "ghgpc": 2.64,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1998,
+    "povertyrate": 46.95196915,
+    "gdppc": 3004.4272,
+    "ghgpc": 2.69,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 1999,
+    "povertyrate": 45.9658432,
+    "gdppc": 3206.73,
+    "ghgpc": 2.58,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2000,
+    "povertyrate": 41.88835144,
+    "gdppc": 3451.6792,
+    "ghgpc": 2.71,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2001,
+    "povertyrate": 39.52999115,
+    "gdppc": 3712.3381,
+    "ghgpc": 2.83,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2002,
+    "povertyrate": 36.50299835,
+    "gdppc": 4024.3557,
+    "ghgpc": 3.02,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2003,
+    "povertyrate": 32.58401489,
+    "gdppc": 4400.8252,
+    "ghgpc": 3.47,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2004,
+    "povertyrate": 27.83196259,
+    "gdppc": 4817.2119,
+    "ghgpc": 4,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2005,
+    "povertyrate": 22.11752319,
+    "gdppc": 5334.6465,
+    "ghgpc": 4.53,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2006,
+    "povertyrate": 20.74481583,
+    "gdppc": 5979.7817,
+    "ghgpc": 4.95,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2007,
+    "povertyrate": 19.02689552,
+    "gdppc": 6795.1738,
+    "ghgpc": 5.34,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2008,
+    "povertyrate": 17.95898819,
+    "gdppc": 7412.8745,
+    "ghgpc": 5.47,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2009,
+    "povertyrate": 16.04939461,
+    "gdppc": 8069.3545,
+    "ghgpc": 5.81,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2010,
+    "povertyrate": 13.90228176,
+    "gdppc": 8884.5879,
+    "ghgpc": 6.34,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2011,
+    "povertyrate": 10.225214,
+    "gdppc": 9680.0977,
+    "ghgpc": 6.9,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2012,
+    "povertyrate": 8.49285984,
+    "gdppc": 10370.727,
+    "ghgpc": 7.04,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2013,
+    "povertyrate": 2.883034468,
+    "gdppc": 11101.938,
+    "ghgpc": 7.31,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2014,
+    "povertyrate": 2.079149246,
+    "gdppc": 11851.404,
+    "ghgpc": 7.26,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2015,
+    "povertyrate": 1.169680119,
+    "gdppc": 12612.352,
+    "ghgpc": 7.15,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2016,
+    "povertyrate": 0.8332688808,
+    "gdppc": 13399.138,
+    "ghgpc": 7.07,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2017,
+    "povertyrate": 0.675714016,
+    "gdppc": 14243.532,
+    "ghgpc": 7.18,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2018,
+    "povertyrate": 0.4278148711,
+    "gdppc": 15133.996,
+    "ghgpc": 7.44,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2019,
+    "povertyrate": 0.1424285918,
+    "gdppc": 15977.764,
+    "ghgpc": 7.54,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1991,
+    "povertyrate": 83.31218719,
+    "gdppc": 1547.0841,
+    "ghgpc": 0.1719101125,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1992,
+    "povertyrate": 84.85250854,
+    "gdppc": 1460.9481,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1993,
+    "povertyrate": 84.74900055,
+    "gdppc": 1468.0073,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1994,
+    "povertyrate": 84.49571991,
+    "gdppc": 1483.068,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1995,
+    "povertyrate": 82.48064423,
+    "gdppc": 1457.572,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1996,
+    "povertyrate": 81.37361908,
+    "gdppc": 1520.4569,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1997,
+    "povertyrate": 78.79882813,
+    "gdppc": 1553.3339,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1998,
+    "povertyrate": 72.95709229,
+    "gdppc": 1628.0143,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 1999,
+    "povertyrate": 69.15216827,
+    "gdppc": 1675.1704,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2000,
+    "povertyrate": 71.50585175,
+    "gdppc": 1627.7323,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2001,
+    "povertyrate": 57.23981857,
+    "gdppc": 1823.8407,
+    "ghgpc": 0.18,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2002,
+    "povertyrate": 57.1601944,
+    "gdppc": 1824.6012,
+    "ghgpc": 0.16,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2003,
+    "povertyrate": 52.81927872,
+    "gdppc": 1930.2074,
+    "ghgpc": 0.16,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2004,
+    "povertyrate": 53.62225342,
+    "gdppc": 1899.082,
+    "ghgpc": 0.16,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2005,
+    "povertyrate": 51.40702057,
+    "gdppc": 1958.8187,
+    "ghgpc": 0.17,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2006,
+    "povertyrate": 49.74780273,
+    "gdppc": 1983.7056,
+    "ghgpc": 0.18,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2007,
+    "povertyrate": 49.94297791,
+    "gdppc": 1985.6234,
+    "ghgpc": 0.19,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2008,
+    "povertyrate": 49.33916092,
+    "gdppc": 2012.2813,
+    "ghgpc": 0.19,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2009,
+    "povertyrate": 48.97466278,
+    "gdppc": 2041.3302,
+    "ghgpc": 0.22,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2010,
+    "povertyrate": 46.91807175,
+    "gdppc": 2082.9619,
+    "ghgpc": 0.23,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2011,
+    "povertyrate": 46.64790344,
+    "gdppc": 2085.4209,
+    "ghgpc": 0.25,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2012,
+    "povertyrate": 43.62729263,
+    "gdppc": 2007.8069,
+    "ghgpc": 0.24,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2013,
+    "povertyrate": 40.76920319,
+    "gdppc": 1995.1593,
+    "ghgpc": 0.23,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2014,
+    "povertyrate": 35.32038116,
+    "gdppc": 2075.4006,
+    "ghgpc": 0.23,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2015,
+    "povertyrate": 36.97408295,
+    "gdppc": 2139.7363,
+    "ghgpc": 0.24,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2016,
+    "povertyrate": 27.13689995,
+    "gdppc": 2198.5603,
+    "ghgpc": 0.3,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2017,
+    "povertyrate": 21.27214241,
+    "gdppc": 2246.7974,
+    "ghgpc": 0.32,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2018,
+    "povertyrate": 16.73251724,
+    "gdppc": 2283.7024,
+    "ghgpc": 0.32,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2019,
+    "povertyrate": 14.43241596,
+    "gdppc": 2321.7021,
+    "ghgpc": 0.33,
+    "note": null
+  }
+]

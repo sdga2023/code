@@ -1,0 +1,866 @@
+[
+  {
+    "iso3c": "AND",
+    "area": 470
+  },
+  {
+    "iso3c": "ARE",
+    "area": 98647.9
+  },
+  {
+    "iso3c": "AFG",
+    "area": 652860
+  },
+  {
+    "iso3c": "ATG",
+    "area": 440
+  },
+  {
+    "iso3c": "ALB",
+    "area": 28750
+  },
+  {
+    "iso3c": "ARM",
+    "area": 29740
+  },
+  {
+    "iso3c": "AGO",
+    "area": 1246700
+  },
+  {
+    "iso3c": "ARG",
+    "area": 2780400
+  },
+  {
+    "iso3c": "ASM",
+    "area": 200
+  },
+  {
+    "iso3c": "AUT",
+    "area": 83879
+  },
+  {
+    "iso3c": "AUS",
+    "area": 7741220
+  },
+  {
+    "iso3c": "ABW",
+    "area": 180
+  },
+  {
+    "iso3c": "AZE",
+    "area": 86600
+  },
+  {
+    "iso3c": "BIH",
+    "area": 51210
+  },
+  {
+    "iso3c": "BRB",
+    "area": 430
+  },
+  {
+    "iso3c": "BGD",
+    "area": 147570
+  },
+  {
+    "iso3c": "BEL",
+    "area": 30530
+  },
+  {
+    "iso3c": "BFA",
+    "area": 274220
+  },
+  {
+    "iso3c": "BGR",
+    "area": 111000
+  },
+  {
+    "iso3c": "BHR",
+    "area": 780
+  },
+  {
+    "iso3c": "BDI",
+    "area": 27830
+  },
+  {
+    "iso3c": "BEN",
+    "area": 114760
+  },
+  {
+    "iso3c": "BMU",
+    "area": 4290
+  },
+  {
+    "iso3c": "BRN",
+    "area": 5770
+  },
+  {
+    "iso3c": "BOL",
+    "area": 1098580
+  },
+  {
+    "iso3c": "BRA",
+    "area": 8515770
+  },
+  {
+    "iso3c": "BHS",
+    "area": 13880
+  },
+  {
+    "iso3c": "BTN",
+    "area": 38390
+  },
+  {
+    "iso3c": "BWA",
+    "area": 581730
+  },
+  {
+    "iso3c": "BLR",
+    "area": 207600
+  },
+  {
+    "iso3c": "BLZ",
+    "area": 22970
+  },
+  {
+    "iso3c": "CAN",
+    "area": 9879750
+  },
+  {
+    "iso3c": "COD",
+    "area": 2344860
+  },
+  {
+    "iso3c": "CAF",
+    "area": 622980
+  },
+  {
+    "iso3c": "COG",
+    "area": 342000
+  },
+  {
+    "iso3c": "CHE",
+    "area": 41290.39
+  },
+  {
+    "iso3c": "CIV",
+    "area": 322460
+  },
+  {
+    "iso3c": "CHL",
+    "area": 756700
+  },
+  {
+    "iso3c": "CMR",
+    "area": 475440
+  },
+  {
+    "iso3c": "CHN",
+    "area": 9600012.9
+  },
+  {
+    "iso3c": "COL",
+    "area": 1141750
+  },
+  {
+    "iso3c": "CRI",
+    "area": 51100
+  },
+  {
+    "iso3c": "CUB",
+    "area": 109880
+  },
+  {
+    "iso3c": "CPV",
+    "area": 4030
+  },
+  {
+    "iso3c": "CUW",
+    "area": 444
+  },
+  {
+    "iso3c": "CYP",
+    "area": 9250
+  },
+  {
+    "iso3c": "CZE",
+    "area": 78870
+  },
+  {
+    "iso3c": "DEU",
+    "area": 357580
+  },
+  {
+    "iso3c": "DJI",
+    "area": 23200
+  },
+  {
+    "iso3c": "DNK",
+    "area": 42920
+  },
+  {
+    "iso3c": "DMA",
+    "area": 750
+  },
+  {
+    "iso3c": "DOM",
+    "area": 48670
+  },
+  {
+    "iso3c": "DZA",
+    "area": 2381741
+  },
+  {
+    "iso3c": "ECU",
+    "area": 256370
+  },
+  {
+    "iso3c": "EST",
+    "area": 45340
+  },
+  {
+    "iso3c": "EGY",
+    "area": 1001450
+  },
+  {
+    "iso3c": "ERI",
+    "area": 121664.887
+  },
+  {
+    "iso3c": "ESP",
+    "area": 505957.289
+  },
+  {
+    "iso3c": "ETH",
+    "area": 1136242.496
+  },
+  {
+    "iso3c": "FIN",
+    "area": 338450
+  },
+  {
+    "iso3c": "FJI",
+    "area": 18270
+  },
+  {
+    "iso3c": "FSM",
+    "area": 700
+  },
+  {
+    "iso3c": "FRO",
+    "area": 1396
+  },
+  {
+    "iso3c": "FRA",
+    "area": 549087
+  },
+  {
+    "iso3c": "GAB",
+    "area": 267670
+  },
+  {
+    "iso3c": "GBR",
+    "area": 243610
+  },
+  {
+    "iso3c": "GRD",
+    "area": 340
+  },
+  {
+    "iso3c": "GEO",
+    "area": 69700
+  },
+  {
+    "iso3c": "GHA",
+    "area": 238540
+  },
+  {
+    "iso3c": "GIB",
+    "area": 10
+  },
+  {
+    "iso3c": "GRL",
+    "area": 410450
+  },
+  {
+    "iso3c": "GMB",
+    "area": 11300
+  },
+  {
+    "iso3c": "GIN",
+    "area": 245860
+  },
+  {
+    "iso3c": "GNQ",
+    "area": 28050
+  },
+  {
+    "iso3c": "GRC",
+    "area": 131960
+  },
+  {
+    "iso3c": "GTM",
+    "area": 108890
+  },
+  {
+    "iso3c": "GUM",
+    "area": 540
+  },
+  {
+    "iso3c": "GNB",
+    "area": 36130
+  },
+  {
+    "iso3c": "GUY",
+    "area": 214970
+  },
+  {
+    "iso3c": "HKG",
+    "area": 1110
+  },
+  {
+    "iso3c": "HND",
+    "area": 112490
+  },
+  {
+    "iso3c": "HRV",
+    "area": 88073
+  },
+  {
+    "iso3c": "HTI",
+    "area": 27750
+  },
+  {
+    "iso3c": "HUN",
+    "area": 93030
+  },
+  {
+    "iso3c": "IDN",
+    "area": 1916862.2
+  },
+  {
+    "iso3c": "IRL",
+    "area": 70280
+  },
+  {
+    "iso3c": "ISR",
+    "area": 22070
+  },
+  {
+    "iso3c": "IMN",
+    "area": 570
+  },
+  {
+    "iso3c": "IND",
+    "area": 3287260
+  },
+  {
+    "iso3c": "IRQ",
+    "area": 435052
+  },
+  {
+    "iso3c": "IRN",
+    "area": 1745150
+  },
+  {
+    "iso3c": "ISL",
+    "area": 103000
+  },
+  {
+    "iso3c": "ITA",
+    "area": 302069
+  },
+  {
+    "iso3c": "CHI",
+    "area": null
+  },
+  {
+    "iso3c": "JAM",
+    "area": 10990
+  },
+  {
+    "iso3c": "JOR",
+    "area": 89320
+  },
+  {
+    "iso3c": "JPN",
+    "area": 377974
+  },
+  {
+    "iso3c": "KEN",
+    "area": 580370
+  },
+  {
+    "iso3c": "KGZ",
+    "area": 199950
+  },
+  {
+    "iso3c": "KHM",
+    "area": 181040
+  },
+  {
+    "iso3c": "KIR",
+    "area": 810
+  },
+  {
+    "iso3c": "COM",
+    "area": 1861
+  },
+  {
+    "iso3c": "KNA",
+    "area": 260
+  },
+  {
+    "iso3c": "PRK",
+    "area": 120540
+  },
+  {
+    "iso3c": "KOR",
+    "area": 100370
+  },
+  {
+    "iso3c": "KWT",
+    "area": 17820
+  },
+  {
+    "iso3c": "CYM",
+    "area": 264
+  },
+  {
+    "iso3c": "KAZ",
+    "area": 2724902
+  },
+  {
+    "iso3c": "LAO",
+    "area": 236800
+  },
+  {
+    "iso3c": "LBN",
+    "area": 10450
+  },
+  {
+    "iso3c": "LCA",
+    "area": 620
+  },
+  {
+    "iso3c": "LIE",
+    "area": 160
+  },
+  {
+    "iso3c": "LKA",
+    "area": 65610
+  },
+  {
+    "iso3c": "LBR",
+    "area": 111370
+  },
+  {
+    "iso3c": "LSO",
+    "area": 30360
+  },
+  {
+    "iso3c": "LTU",
+    "area": 65290
+  },
+  {
+    "iso3c": "LUX",
+    "area": 2590
+  },
+  {
+    "iso3c": "LVA",
+    "area": 64594
+  },
+  {
+    "iso3c": "LBY",
+    "area": 1759540
+  },
+  {
+    "iso3c": "MAR",
+    "area": 446550
+  },
+  {
+    "iso3c": "MCO",
+    "area": 74.92
+  },
+  {
+    "iso3c": "MDA",
+    "area": 33850
+  },
+  {
+    "iso3c": "MNE",
+    "area": 13810
+  },
+  {
+    "iso3c": "MAF",
+    "area": 50
+  },
+  {
+    "iso3c": "MDG",
+    "area": 587295
+  },
+  {
+    "iso3c": "MHL",
+    "area": 180
+  },
+  {
+    "iso3c": "MKD",
+    "area": 25710
+  },
+  {
+    "iso3c": "MLI",
+    "area": 1240190
+  },
+  {
+    "iso3c": "MMR",
+    "area": 676590
+  },
+  {
+    "iso3c": "MNG",
+    "area": 1564116
+  },
+  {
+    "iso3c": "MAC",
+    "area": 32.9
+  },
+  {
+    "iso3c": "MNP",
+    "area": 460
+  },
+  {
+    "iso3c": "MRT",
+    "area": 1030700
+  },
+  {
+    "iso3c": "MLT",
+    "area": 320
+  },
+  {
+    "iso3c": "MUS",
+    "area": 2040
+  },
+  {
+    "iso3c": "MDV",
+    "area": 300
+  },
+  {
+    "iso3c": "MWI",
+    "area": 118480
+  },
+  {
+    "iso3c": "MEX",
+    "area": 1964375
+  },
+  {
+    "iso3c": "MYS",
+    "area": 330524
+  },
+  {
+    "iso3c": "MOZ",
+    "area": 799380
+  },
+  {
+    "iso3c": "NAM",
+    "area": 824290
+  },
+  {
+    "iso3c": "NCL",
+    "area": 18580
+  },
+  {
+    "iso3c": "NER",
+    "area": 1267000
+  },
+  {
+    "iso3c": "NGA",
+    "area": 923770
+  },
+  {
+    "iso3c": "NIC",
+    "area": 130370
+  },
+  {
+    "iso3c": "NLD",
+    "area": 41540
+  },
+  {
+    "iso3c": "NOR",
+    "area": 625222
+  },
+  {
+    "iso3c": "NPL",
+    "area": 147180
+  },
+  {
+    "iso3c": "NRU",
+    "area": 20
+  },
+  {
+    "iso3c": "NZL",
+    "area": 267710
+  },
+  {
+    "iso3c": "OMN",
+    "area": 309500
+  },
+  {
+    "iso3c": "PAN",
+    "area": 75320
+  },
+  {
+    "iso3c": "PER",
+    "area": 1285220
+  },
+  {
+    "iso3c": "PYF",
+    "area": 3471
+  },
+  {
+    "iso3c": "PNG",
+    "area": 462840
+  },
+  {
+    "iso3c": "PHL",
+    "area": 300000
+  },
+  {
+    "iso3c": "PAK",
+    "area": 796100
+  },
+  {
+    "iso3c": "POL",
+    "area": 312690
+  },
+  {
+    "iso3c": "PRI",
+    "area": 8870
+  },
+  {
+    "iso3c": "PSE",
+    "area": 6020
+  },
+  {
+    "iso3c": "PRT",
+    "area": 92225.6
+  },
+  {
+    "iso3c": "PLW",
+    "area": 460
+  },
+  {
+    "iso3c": "PRY",
+    "area": 406752
+  },
+  {
+    "iso3c": "QAT",
+    "area": 11490
+  },
+  {
+    "iso3c": "ROU",
+    "area": 238400
+  },
+  {
+    "iso3c": "SRB",
+    "area": 88360
+  },
+  {
+    "iso3c": "RUS",
+    "area": 17098250
+  },
+  {
+    "iso3c": "RWA",
+    "area": 26340
+  },
+  {
+    "iso3c": "SAU",
+    "area": 2149690
+  },
+  {
+    "iso3c": "SLB",
+    "area": 28900
+  },
+  {
+    "iso3c": "SYC",
+    "area": 460
+  },
+  {
+    "iso3c": "SDN",
+    "area": 1878000
+  },
+  {
+    "iso3c": "SWE",
+    "area": 528449.29
+  },
+  {
+    "iso3c": "SGP",
+    "area": 724
+  },
+  {
+    "iso3c": "SVN",
+    "area": 20480
+  },
+  {
+    "iso3c": "SVK",
+    "area": 49030
+  },
+  {
+    "iso3c": "SLE",
+    "area": 72300
+  },
+  {
+    "iso3c": "SMR",
+    "area": 60
+  },
+  {
+    "iso3c": "SEN",
+    "area": 196710
+  },
+  {
+    "iso3c": "SOM",
+    "area": 637660
+  },
+  {
+    "iso3c": "SUR",
+    "area": 163820
+  },
+  {
+    "iso3c": "SSD",
+    "area": 646883
+  },
+  {
+    "iso3c": "STP",
+    "area": 960
+  },
+  {
+    "iso3c": "SLV",
+    "area": 21040
+  },
+  {
+    "iso3c": "SXM",
+    "area": 34
+  },
+  {
+    "iso3c": "SYR",
+    "area": 185180
+  },
+  {
+    "iso3c": "SWZ",
+    "area": 17360
+  },
+  {
+    "iso3c": "TCA",
+    "area": 950
+  },
+  {
+    "iso3c": "TCD",
+    "area": 1284000
+  },
+  {
+    "iso3c": "TGO",
+    "area": 56790
+  },
+  {
+    "iso3c": "THA",
+    "area": 513120
+  },
+  {
+    "iso3c": "TJK",
+    "area": 141380
+  },
+  {
+    "iso3c": "TLS",
+    "area": 14870
+  },
+  {
+    "iso3c": "TKM",
+    "area": 488100
+  },
+  {
+    "iso3c": "TUN",
+    "area": 163610
+  },
+  {
+    "iso3c": "TON",
+    "area": 750
+  },
+  {
+    "iso3c": "TTO",
+    "area": 5130
+  },
+  {
+    "iso3c": "TUV",
+    "area": 30
+  },
+  {
+    "iso3c": "TZA",
+    "area": 947300
+  },
+  {
+    "iso3c": "UKR",
+    "area": 603550
+  },
+  {
+    "iso3c": "UGA",
+    "area": 241550
+  },
+  {
+    "iso3c": "USA",
+    "area": 9831510
+  },
+  {
+    "iso3c": "URY",
+    "area": 176220
+  },
+  {
+    "iso3c": "UZB",
+    "area": 448924
+  },
+  {
+    "iso3c": "VCT",
+    "area": 390
+  },
+  {
+    "iso3c": "VEN",
+    "area": 912050
+  },
+  {
+    "iso3c": "VGB",
+    "area": 150
+  },
+  {
+    "iso3c": "VIR",
+    "area": 350
+  },
+  {
+    "iso3c": "VNM",
+    "area": 331240
+  },
+  {
+    "iso3c": "VUT",
+    "area": 12190
+  },
+  {
+    "iso3c": "WSM",
+    "area": 2840
+  },
+  {
+    "iso3c": "XKX",
+    "area": null
+  },
+  {
+    "iso3c": "YEM",
+    "area": 527970
+  },
+  {
+    "iso3c": "ZAF",
+    "area": 1219090
+  },
+  {
+    "iso3c": "ZMB",
+    "area": 752610
+  },
+  {
+    "iso3c": "ZWE",
+    "area": 390760
+  }
+]

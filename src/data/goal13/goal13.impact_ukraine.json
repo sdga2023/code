@@ -1,0 +1,242 @@
+[
+  {
+    "month": 1,
+    "year": 2019,
+    "value": 338.4
+  },
+  {
+    "month": 1,
+    "year": 2020,
+    "value": 307.9
+  },
+  {
+    "month": 1,
+    "year": 2021,
+    "value": 311.9
+  },
+  {
+    "month": 1,
+    "year": 2022,
+    "value": 312.4
+  },
+  {
+    "month": 2,
+    "year": 2019,
+    "value": 289.3
+  },
+  {
+    "month": 2,
+    "year": 2020,
+    "value": 263.1
+  },
+  {
+    "month": 2,
+    "year": 2021,
+    "value": 270.8
+  },
+  {
+    "month": 2,
+    "year": 2022,
+    "value": 272.4
+  },
+  {
+    "month": 3,
+    "year": 2019,
+    "value": 286.8
+  },
+  {
+    "month": 3,
+    "year": 2020,
+    "value": 257.6
+  },
+  {
+    "month": 3,
+    "year": 2021,
+    "value": 284.9
+  },
+  {
+    "month": 3,
+    "year": 2022,
+    "value": 308.8
+  },
+  {
+    "month": 4,
+    "year": 2019,
+    "value": 264.8
+  },
+  {
+    "month": 4,
+    "year": 2020,
+    "value": 184.6
+  },
+  {
+    "month": 4,
+    "year": 2021,
+    "value": 265.8
+  },
+  {
+    "month": 4,
+    "year": 2022,
+    "value": 265.9
+  },
+  {
+    "month": 5,
+    "year": 2019,
+    "value": 259.3
+  },
+  {
+    "month": 5,
+    "year": 2020,
+    "value": 191.5
+  },
+  {
+    "month": 5,
+    "year": 2021,
+    "value": 236.6
+  },
+  {
+    "month": 5,
+    "year": 2022,
+    "value": 247.8
+  },
+  {
+    "month": 6,
+    "year": 2019,
+    "value": 233.6
+  },
+  {
+    "month": 6,
+    "year": 2020,
+    "value": 204.3
+  },
+  {
+    "month": 6,
+    "year": 2021,
+    "value": 222.6
+  },
+  {
+    "month": 6,
+    "year": 2022,
+    "value": 242.5
+  },
+  {
+    "month": 7,
+    "year": 2019,
+    "value": 246.9
+  },
+  {
+    "month": 7,
+    "year": 2020,
+    "value": 220.7
+  },
+  {
+    "month": 7,
+    "year": 2021,
+    "value": 229.6
+  },
+  {
+    "month": 7,
+    "year": 2022,
+    "value": 243.1
+  },
+  {
+    "month": 8,
+    "year": 2019,
+    "value": 232.1
+  },
+  {
+    "month": 8,
+    "year": 2020,
+    "value": 213.8
+  },
+  {
+    "month": 8,
+    "year": 2021,
+    "value": 215.4
+  },
+  {
+    "month": 8,
+    "year": 2022,
+    "value": 234.7
+  },
+  {
+    "month": 9,
+    "year": 2019,
+    "value": 248.8
+  },
+  {
+    "month": 9,
+    "year": 2020,
+    "value": 239.1
+  },
+  {
+    "month": 9,
+    "year": 2021,
+    "value": 251.1
+  },
+  {
+    "month": 9,
+    "year": 2022,
+    "value": 266.1
+  },
+  {
+    "month": 10,
+    "year": 2019,
+    "value": 279.9
+  },
+  {
+    "month": 10,
+    "year": 2020,
+    "value": 258.8
+  },
+  {
+    "month": 10,
+    "year": 2021,
+    "value": 273.9
+  },
+  {
+    "month": 10,
+    "year": 2022,
+    "value": 266.4
+  },
+  {
+    "month": 11,
+    "year": 2019,
+    "value": 301.9
+  },
+  {
+    "month": 11,
+    "year": 2020,
+    "value": 275.6
+  },
+  {
+    "month": 11,
+    "year": 2021,
+    "value": 306.8
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "value": 293.4
+  },
+  {
+    "month": 12,
+    "year": 2019,
+    "value": 293.3
+  },
+  {
+    "month": 12,
+    "year": 2020,
+    "value": 293.1
+  },
+  {
+    "month": 12,
+    "year": 2021,
+    "value": 315.9
+  },
+  {
+    "month": 12,
+    "year": 2022,
+    "value": 315.7
+  }
+]

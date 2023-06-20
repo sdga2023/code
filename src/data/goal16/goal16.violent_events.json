@@ -1,0 +1,284 @@
+[
+  {
+    "date": 2015,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 1290
+  },
+  {
+    "date": 2015,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 10073
+  },
+  {
+    "date": 2015,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 1785
+  },
+  {
+    "date": 2015,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 7538
+  },
+  {
+    "date": 2016,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 4356
+  },
+  {
+    "date": 2016,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 1701
+  },
+  {
+    "date": 2016,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 21585
+  },
+  {
+    "date": 2016,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 2599
+  },
+  {
+    "date": 2016,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 8092
+  },
+  {
+    "date": 2017,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 3746
+  },
+  {
+    "date": 2017,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 899
+  },
+  {
+    "date": 2017,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 46566
+  },
+  {
+    "date": 2017,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 15504
+  },
+  {
+    "date": 2017,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 8918
+  },
+  {
+    "date": 2018,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 3610
+  },
+  {
+    "date": 2018,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 24378
+  },
+  {
+    "date": 2018,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "Events": 22015
+  },
+  {
+    "date": 2018,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 35280
+  },
+  {
+    "date": 2018,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 17421
+  },
+  {
+    "date": 2018,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 10681
+  },
+  {
+    "date": 2019,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 3687
+  },
+  {
+    "date": 2019,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 21748
+  },
+  {
+    "date": 2019,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "Events": 21199
+  },
+  {
+    "date": 2019,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 34401
+  },
+  {
+    "date": 2019,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 17617
+  },
+  {
+    "date": 2019,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 10758
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 3012
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 14865
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "Events": 19524
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 26243
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "NAC",
+    "region": "North America",
+    "Events": 122
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 12478
+  },
+  {
+    "date": 2020,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 15369
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 8523
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 8414
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "Events": 20172
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 22992
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "NAC",
+    "region": "North America",
+    "Events": 96
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 11119
+  },
+  {
+    "date": 2021,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 17911
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "Events": 10598
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "Events": 36120
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "Events": 20882
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "MEA",
+    "region": "Middle East & North Africa",
+    "Events": 24190
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "NAC",
+    "region": "North America",
+    "Events": 91
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "Events": 4574
+  },
+  {
+    "date": 2022,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "Events": 18363
+  }
+]

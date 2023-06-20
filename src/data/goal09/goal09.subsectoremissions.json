@@ -1,0 +1,35 @@
+[
+  {
+    "year": 2020,
+    "type": 2020,
+    "lightduty": 3292,
+    "heavytrucks": 1776,
+    "shipping": 825,
+    "aviation": 640,
+    "bus": 414,
+    "twothreewheelers": 178,
+    "rail": 94
+  },
+  {
+    "year": 2030,
+    "type": "APS",
+    "lightduty": 3160,
+    "heavytrucks": 2040,
+    "shipping": 902,
+    "aviation": 1147,
+    "bus": 509,
+    "twothreewheelers": 180,
+    "rail": 81
+  },
+  {
+    "year": 2030,
+    "type": "NZE",
+    "lightduty": 1930,
+    "heavytrucks": 1614,
+    "shipping": 699,
+    "aviation": 783,
+    "bus": 390,
+    "twothreewheelers": 144,
+    "rail": 60
+  }
+]

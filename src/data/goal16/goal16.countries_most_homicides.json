@@ -1,0 +1,222 @@
+[
+  {
+    "Iso3_code": "BRA",
+    "Country": "Brazil",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 47722,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": 0
+  },
+  {
+    "Iso3_code": "NGA",
+    "Country": "Nigeria",
+    "Year": 2019,
+    "unit": "Counts",
+    "VALUE": 44200,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "IND",
+    "Country": "India",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 40651,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "MEX",
+    "Country": "Mexico",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 36579,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "USA",
+    "Country": "United States of America",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 21570,
+    "region_iso3c": "NAC",
+    "region": "North America",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "ZAF",
+    "Country": "South Africa",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 19846,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "COL",
+    "Country": "Colombia",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 11520,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "RUS",
+    "Country": "Russian Federation",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 10697,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "PAK",
+    "Country": "Pakistan",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 8490,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "CHN",
+    "Country": "China",
+    "Year": 2018,
+    "unit": "Counts",
+    "VALUE": 7525,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "PHL",
+    "Country": "Philippines",
+    "Year": 2019,
+    "unit": "Counts",
+    "VALUE": 4764,
+    "region_iso3c": "EAS",
+    "region": "East Asia & Pacific",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "UGA",
+    "Country": "Uganda",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 4460,
+    "region_iso3c": "SSF",
+    "region": "Sub-Saharan Africa",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "BGD",
+    "Country": "Bangladesh",
+    "Year": 2018,
+    "unit": "Counts",
+    "VALUE": 3830,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "HND",
+    "Country": "Honduras",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 3598,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "GTM",
+    "Country": "Guatemala",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 3129,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "AFG",
+    "Country": "Afghanistan",
+    "Year": 2018,
+    "unit": "Counts",
+    "VALUE": 2474,
+    "region_iso3c": "SAS",
+    "region": "South Asia",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "PER",
+    "Country": "Peru",
+    "Year": 2018,
+    "unit": "Counts",
+    "VALUE": 2452,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "ARG",
+    "Country": "Argentina",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 2416,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "SLV",
+    "Country": "El Salvador",
+    "Year": 2019,
+    "unit": "Counts",
+    "VALUE": 2398,
+    "region_iso3c": "LCN",
+    "region": "Latin America & Caribbean",
+    "": null,
+    "TMP": null
+  },
+  {
+    "Iso3_code": "TUR",
+    "Country": "TÃ¼rkiye",
+    "Year": 2020,
+    "unit": "Counts",
+    "VALUE": 2095,
+    "region_iso3c": "ECS",
+    "region": "Europe & Central Asia",
+    "": null,
+    "TMP": null
+  }
+]

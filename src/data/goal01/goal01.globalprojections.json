@@ -1,0 +1,14 @@
+[
+  {
+    "scenario": "baseline",
+    "emissions": 15.5
+  },
+  {
+    "scenario": "sdg73",
+    "emissions": 14.9
+  },
+  {
+    "scenario": "reducedinequality",
+    "emissions": 5.5
+  }
+]

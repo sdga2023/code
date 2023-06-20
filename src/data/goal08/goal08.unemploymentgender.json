@@ -1,0 +1,394 @@
+[
+  {
+    "iso3c": "EAS",
+    "year": 2015,
+    "female": 3.67,
+    "male": 4.39,
+    "gap": -0.712
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2016,
+    "female": 3.55,
+    "male": 4.31,
+    "gap": -0.755
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2017,
+    "female": 3.45,
+    "male": 4.16,
+    "gap": -0.705
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2018,
+    "female": 3.37,
+    "male": 4.03,
+    "gap": -0.666
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2019,
+    "female": 3.39,
+    "male": 4.11,
+    "gap": -0.714
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2020,
+    "female": 3.84,
+    "male": 4.63,
+    "gap": -0.782
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2021,
+    "female": 3.54,
+    "male": 4.36,
+    "gap": -0.816
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2022,
+    "female": 3.6,
+    "male": 4.45,
+    "gap": -0.845
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2015,
+    "female": 8.89,
+    "male": 8.68,
+    "gap": 0.204
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2016,
+    "female": 8.51,
+    "male": 8.2,
+    "gap": 0.315
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2017,
+    "female": 7.99,
+    "male": 7.55,
+    "gap": 0.432
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2018,
+    "female": 7.44,
+    "male": 6.94,
+    "gap": 0.506
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2019,
+    "female": 7.29,
+    "male": 6.73,
+    "gap": 0.566
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2020,
+    "female": 7.64,
+    "male": 7.12,
+    "gap": 0.519
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2021,
+    "female": 7.59,
+    "male": 6.83,
+    "gap": 0.762
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2022,
+    "female": 7.06,
+    "male": 6.12,
+    "gap": 0.936
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2015,
+    "female": 7.8,
+    "male": 5.76,
+    "gap": 2.041
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2016,
+    "female": 8.93,
+    "male": 6.75,
+    "gap": 2.182
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2017,
+    "female": 9.22,
+    "male": 6.93,
+    "gap": 2.292
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2018,
+    "female": 9.13,
+    "male": 6.81,
+    "gap": 2.323
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2019,
+    "female": 9.27,
+    "male": 6.77,
+    "gap": 2.496
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2020,
+    "female": 11.56,
+    "male": 8.87,
+    "gap": 2.685
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2021,
+    "female": 10.99,
+    "male": 7.66,
+    "gap": 3.335
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2022,
+    "female": 8.38,
+    "male": 5.85,
+    "gap": 2.53
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2015,
+    "female": 19.98,
+    "male": 8.75,
+    "gap": 11.232
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2016,
+    "female": 20.16,
+    "male": 8.72,
+    "gap": 11.433
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2017,
+    "female": 20.71,
+    "male": 8.76,
+    "gap": 11.953
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2018,
+    "female": 19.86,
+    "male": 8.65,
+    "gap": 11.208
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2019,
+    "female": 19.43,
+    "male": 7.97,
+    "gap": 11.461
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2020,
+    "female": 18.94,
+    "male": 8.96,
+    "gap": 9.98
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2021,
+    "female": 19.09,
+    "male": 8.8,
+    "gap": 10.292
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2022,
+    "female": 18.92,
+    "male": 8.42,
+    "gap": 10.503
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2015,
+    "female": 5.29,
+    "male": 5.58,
+    "gap": -0.288
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2016,
+    "female": 4.93,
+    "male": 5.21,
+    "gap": -0.28
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2017,
+    "female": 4.47,
+    "male": 4.64,
+    "gap": -0.175
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2018,
+    "female": 4.01,
+    "male": 4.17,
+    "gap": -0.165
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2019,
+    "female": 3.78,
+    "male": 3.96,
+    "gap": -0.179
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2020,
+    "female": 8.45,
+    "male": 7.97,
+    "gap": 0.479
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2021,
+    "female": 5.42,
+    "male": 5.7,
+    "gap": -0.282
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2022,
+    "female": 3.69,
+    "male": 3.85,
+    "gap": -0.156
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2015,
+    "female": 7.86,
+    "male": 6.83,
+    "gap": 1.032
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2016,
+    "female": 7.75,
+    "male": 6.84,
+    "gap": 0.903
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2017,
+    "female": 7.56,
+    "male": 6.85,
+    "gap": 0.708
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2018,
+    "female": 7.43,
+    "male": 6.84,
+    "gap": 0.588
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2019,
+    "female": 6.4,
+    "male": 6.16,
+    "gap": 0.242
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2020,
+    "female": 8.89,
+    "male": 9.41,
+    "gap": -0.527
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2021,
+    "female": 7.36,
+    "male": 7.28,
+    "gap": 0.077
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2022,
+    "female": 7.16,
+    "male": 6.94,
+    "gap": 0.225
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2015,
+    "female": 6.79,
+    "male": 5.62,
+    "gap": 1.169
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2016,
+    "female": 6.83,
+    "male": 5.67,
+    "gap": 1.159
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2017,
+    "female": 6.87,
+    "male": 5.75,
+    "gap": 1.123
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2018,
+    "female": 6.89,
+    "male": 5.75,
+    "gap": 1.138
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2019,
+    "female": 7.02,
+    "male": 5.91,
+    "gap": 1.116
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2020,
+    "female": 7.62,
+    "male": 6.56,
+    "gap": 1.061
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2021,
+    "female": 7.9,
+    "male": 6.63,
+    "gap": 1.27
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2022,
+    "female": 7.87,
+    "male": 6.57,
+    "gap": 1.303
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "foodgreen": 31.5,
+    "glass": 5.5,
+    "metal": 6.4,
+    "other": 11.1,
+    "paper": 25.2,
+    "plastic": 12.5,
+    "rubber": 4.1,
+    "wood": 3.8,
+    "income": "HIC",
+    "waste": 649206291348,
+    "share": 32.1,
+    "cumshare": 0
+  },
+  {
+    "foodgreen": 53.6,
+    "glass": 4.3,
+    "metal": 2.4,
+    "other": 14.9,
+    "paper": 11.5,
+    "plastic": 11.2,
+    "rubber": 1,
+    "wood": 1,
+    "income": "UMC",
+    "waste": 768362625329,
+    "share": 37.9,
+    "cumshare": 32.1
+  },
+  {
+    "foodgreen": 52.8,
+    "glass": 3.4,
+    "metal": 2.4,
+    "other": 16.6,
+    "paper": 12.6,
+    "plastic": 11.2,
+    "rubber": 0.4,
+    "wood": 0.7,
+    "income": "LMC",
+    "waste": 519015811266,
+    "share": 25.6,
+    "cumshare": 70
+  },
+  {
+    "foodgreen": 56.4,
+    "glass": 1.3,
+    "metal": 1.6,
+    "other": 26.4,
+    "paper": 7.4,
+    "plastic": 6.6,
+    "rubber": 0,
+    "wood": 0.2,
+    "income": "LIC",
+    "waste": 88410443581,
+    "share": 4.4,
+    "cumshare": 95.6
+  }
+]

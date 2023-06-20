@@ -1,0 +1,742 @@
+[
+  {
+    "code": "MDV",
+    "countryname": "Maldives",
+    "growth_nca": -94.83654
+  },
+  {
+    "code": "SGP",
+    "countryname": "Singapore",
+    "growth_nca": -72.173981
+  },
+  {
+    "code": "BDI",
+    "countryname": "Burundi",
+    "growth_nca": -66.07637
+  },
+  {
+    "code": "NGA",
+    "countryname": "Nigeria",
+    "growth_nca": -60.432903
+  },
+  {
+    "code": "JAM",
+    "countryname": "Jamaica",
+    "growth_nca": -58.047298
+  },
+  {
+    "code": "BLZ",
+    "countryname": "Belize",
+    "growth_nca": -54.260563
+  },
+  {
+    "code": "TZA",
+    "countryname": "Tanzania",
+    "growth_nca": -50.719555
+  },
+  {
+    "code": "UGA",
+    "countryname": "Uganda",
+    "growth_nca": -50.473381
+  },
+  {
+    "code": "MDA",
+    "countryname": "Moldova",
+    "growth_nca": -48.256821
+  },
+  {
+    "code": "ARE",
+    "countryname": "United Arab Emirates",
+    "growth_nca": -47.905594
+  },
+  {
+    "code": "NAM",
+    "countryname": "Namibia",
+    "growth_nca": -46.951996
+  },
+  {
+    "code": "LUX",
+    "countryname": "Luxembourg",
+    "growth_nca": -44.441383
+  },
+  {
+    "code": "COD",
+    "countryname": "Dem. Rep. Congo",
+    "growth_nca": -44.30629
+  },
+  {
+    "code": "LBN",
+    "countryname": "Lebanon",
+    "growth_nca": -44.13649
+  },
+  {
+    "code": "BEN",
+    "countryname": "Benin",
+    "growth_nca": -42.377693
+  },
+  {
+    "code": "BHR",
+    "countryname": "Bahrain",
+    "growth_nca": -42.340523
+  },
+  {
+    "code": "ISL",
+    "countryname": "Iceland",
+    "growth_nca": -41.489563
+  },
+  {
+    "code": "KEN",
+    "countryname": "Kenya",
+    "growth_nca": -40.822945
+  },
+  {
+    "code": "CIV",
+    "countryname": "CÃ´te d'Ivoire",
+    "growth_nca": -37.705925
+  },
+  {
+    "code": "MUS",
+    "countryname": "Mauritius",
+    "growth_nca": -33.984497
+  },
+  {
+    "code": "ZWE",
+    "countryname": "Zimbabwe",
+    "growth_nca": -32.501148
+  },
+  {
+    "code": "CZE",
+    "countryname": "Czech Republic",
+    "growth_nca": -31.066416
+  },
+  {
+    "code": "MDG",
+    "countryname": "Madagascar",
+    "growth_nca": -30.991318
+  },
+  {
+    "code": "MYS",
+    "countryname": "Malaysia",
+    "growth_nca": -30.56949
+  },
+  {
+    "code": "MEX",
+    "countryname": "Mexico",
+    "growth_nca": -29.364229
+  },
+  {
+    "code": "HTI",
+    "countryname": "Haiti",
+    "growth_nca": -28.912838
+  },
+  {
+    "code": "GUY",
+    "countryname": "Guyana",
+    "growth_nca": -27.595207
+  },
+  {
+    "code": "LIC",
+    "countryname": "Low income",
+    "growth_nca": -27.501179
+  },
+  {
+    "code": "HND",
+    "countryname": "Honduras",
+    "growth_nca": -26.58506
+  },
+  {
+    "code": "BWA",
+    "countryname": "Botswana",
+    "growth_nca": -26.194019
+  },
+  {
+    "code": "ROU",
+    "countryname": "Romania",
+    "growth_nca": -26.020729
+  },
+  {
+    "code": "JOR",
+    "countryname": "Jordan",
+    "growth_nca": -24.098099
+  },
+  {
+    "code": "TJK",
+    "countryname": "Tajikistan",
+    "growth_nca": -22.018433
+  },
+  {
+    "code": "BFA",
+    "countryname": "Burkina Faso",
+    "growth_nca": -21.789303
+  },
+  {
+    "code": "OMN",
+    "countryname": "Oman",
+    "growth_nca": -21.727491
+  },
+  {
+    "code": "GTM",
+    "countryname": "Guatemala",
+    "growth_nca": -21.084684
+  },
+  {
+    "code": "IRL",
+    "countryname": "Ireland",
+    "growth_nca": -20.616533
+  },
+  {
+    "code": "PER",
+    "countryname": "Peru",
+    "growth_nca": -20.307266
+  },
+  {
+    "code": "TUR",
+    "countryname": "Turkey",
+    "growth_nca": -19.719225
+  },
+  {
+    "code": "PAK",
+    "countryname": "Pakistan",
+    "growth_nca": -18.915497
+  },
+  {
+    "code": "MLT",
+    "countryname": "Malta",
+    "growth_nca": -17.982307
+  },
+  {
+    "code": "UKR",
+    "countryname": "Ukraine",
+    "growth_nca": -17.196148
+  },
+  {
+    "code": "PNG",
+    "countryname": "Papua New Guinea",
+    "growth_nca": -17.076077
+  },
+  {
+    "code": "THA",
+    "countryname": "Thailand",
+    "growth_nca": -15.29903
+  },
+  {
+    "code": "ECU",
+    "countryname": "Ecuador",
+    "growth_nca": -14.954423
+  },
+  {
+    "code": "GBR",
+    "countryname": "United Kingdom",
+    "growth_nca": -14.462398
+  },
+  {
+    "code": "SLV",
+    "countryname": "El Salvador",
+    "growth_nca": -14.039881
+  },
+  {
+    "code": "COM",
+    "countryname": "Comoros",
+    "growth_nca": -12.779777
+  },
+  {
+    "code": "CRI",
+    "countryname": "Costa Rica",
+    "growth_nca": -10.65866
+  },
+  {
+    "code": "BEL",
+    "countryname": "Belgium",
+    "growth_nca": -10.314827
+  },
+  {
+    "code": "GAB",
+    "countryname": "Gabon",
+    "growth_nca": -9.9106236
+  },
+  {
+    "code": "MKD",
+    "countryname": "North Macedonia",
+    "growth_nca": -9.5970459
+  },
+  {
+    "code": "DJI",
+    "countryname": "Djibouti",
+    "growth_nca": -9.4055481
+  },
+  {
+    "code": "PAN",
+    "countryname": "Panama",
+    "growth_nca": -8.6800404
+  },
+  {
+    "code": "PHL",
+    "countryname": "Philippines",
+    "growth_nca": -8.5492849
+  },
+  {
+    "code": "PSE",
+    "countryname": "West Bank and Gaza",
+    "growth_nca": -8.1274433
+  },
+  {
+    "code": "GMB",
+    "countryname": "The Gambia",
+    "growth_nca": -7.8346457
+  },
+  {
+    "code": "DNK",
+    "countryname": "Denmark",
+    "growth_nca": -6.7678847
+  },
+  {
+    "code": "SEN",
+    "countryname": "Senegal",
+    "growth_nca": -6.5733237
+  },
+  {
+    "code": "COL",
+    "countryname": "Colombia",
+    "growth_nca": -6.1900229
+  },
+  {
+    "code": "ZAF",
+    "countryname": "South Africa",
+    "growth_nca": -5.2292647
+  },
+  {
+    "code": "SAU",
+    "countryname": "Saudi Arabia",
+    "growth_nca": -4.9634781
+  },
+  {
+    "code": "ITA",
+    "countryname": "Italy",
+    "growth_nca": -4.503808
+  },
+  {
+    "code": "SVK",
+    "countryname": "Slovak Republic",
+    "growth_nca": -4.2383022
+  },
+  {
+    "code": "LKA",
+    "countryname": "Sri Lanka",
+    "growth_nca": -3.6656711
+  },
+  {
+    "code": "RWA",
+    "countryname": "Rwanda",
+    "growth_nca": -2.7569954
+  },
+  {
+    "code": "CHE",
+    "countryname": "Switzerland",
+    "growth_nca": -2.7150285
+  },
+  {
+    "code": "GHA",
+    "countryname": "Ghana",
+    "growth_nca": -2.5796816
+  },
+  {
+    "code": "COG",
+    "countryname": "Congo",
+    "growth_nca": -0.23202415
+  },
+  {
+    "code": "MLI",
+    "countryname": "Mali",
+    "growth_nca": 0.43378115
+  },
+  {
+    "code": "SLE",
+    "countryname": "Sierra Leone",
+    "growth_nca": 0.87434804
+  },
+  {
+    "code": "NLD",
+    "countryname": "Netherlands",
+    "growth_nca": 0.97343183
+  },
+  {
+    "code": "HUN",
+    "countryname": "Hungary",
+    "growth_nca": 1.3719974
+  },
+  {
+    "code": "FRA",
+    "countryname": "France",
+    "growth_nca": 1.7961235
+  },
+  {
+    "code": "TGO",
+    "countryname": "Togo",
+    "growth_nca": 1.879739
+  },
+  {
+    "code": "AUT",
+    "countryname": "Austria",
+    "growth_nca": 2.1809185
+  },
+  {
+    "code": "LBR",
+    "countryname": "Liberia",
+    "growth_nca": 3.7241814
+  },
+  {
+    "code": "ESP",
+    "countryname": "Spain",
+    "growth_nca": 4.4099407
+  },
+  {
+    "code": "ARG",
+    "countryname": "Argentina",
+    "growth_nca": 4.9313574
+  },
+  {
+    "code": "ETH",
+    "countryname": "Ethiopia",
+    "growth_nca": 4.9540668
+  },
+  {
+    "code": "ZMB",
+    "countryname": "Zambia",
+    "growth_nca": 5.4812298
+  },
+  {
+    "code": "PRT",
+    "countryname": "Portugal",
+    "growth_nca": 5.6894345
+  },
+  {
+    "code": "SWZ",
+    "countryname": "Eswatini",
+    "growth_nca": 5.7728724
+  },
+  {
+    "code": "SUR",
+    "countryname": "Suriname",
+    "growth_nca": 6.3958983
+  },
+  {
+    "code": "PRY",
+    "countryname": "Paraguay",
+    "growth_nca": 6.8851533
+  },
+  {
+    "code": "EGY",
+    "countryname": "Egypt",
+    "growth_nca": 8.4219465
+  },
+  {
+    "code": "CMR",
+    "countryname": "Cameroon",
+    "growth_nca": 8.4608192
+  },
+  {
+    "code": "GRC",
+    "countryname": "Greece",
+    "growth_nca": 9.3588381
+  },
+  {
+    "code": "TCD",
+    "countryname": "Chad",
+    "growth_nca": 10.739344
+  },
+  {
+    "code": "GIN",
+    "countryname": "Guinea",
+    "growth_nca": 11.434333
+  },
+  {
+    "code": "GEO",
+    "countryname": "Georgia",
+    "growth_nca": 11.95644
+  },
+  {
+    "code": "NER",
+    "countryname": "Niger",
+    "growth_nca": 12.199884
+  },
+  {
+    "code": "LMC",
+    "countryname": "Lower middle income",
+    "growth_nca": 12.343556
+  },
+  {
+    "code": "USA",
+    "countryname": "United States",
+    "growth_nca": 14.05925
+  },
+  {
+    "code": "CAN",
+    "countryname": "Canada",
+    "growth_nca": 17.516872
+  },
+  {
+    "code": "FIN",
+    "countryname": "Finland",
+    "growth_nca": 20.050728
+  },
+  {
+    "code": "BOL",
+    "countryname": "Bolivia",
+    "growth_nca": 21.177114
+  },
+  {
+    "code": "BGD",
+    "countryname": "Bangladesh",
+    "growth_nca": 21.969677
+  },
+  {
+    "code": "KWT",
+    "countryname": "Kuwait",
+    "growth_nca": 22.338007
+  },
+  {
+    "code": "CAF",
+    "countryname": "Central African Republic",
+    "growth_nca": 23.865437
+  },
+  {
+    "code": "DOM",
+    "countryname": "Dominican Republic",
+    "growth_nca": 24.823965
+  },
+  {
+    "code": "TKM",
+    "countryname": "Turkmenistan",
+    "growth_nca": 25.763308
+  },
+  {
+    "code": "IRN",
+    "countryname": "Iran",
+    "growth_nca": 25.799372
+  },
+  {
+    "code": "BGR",
+    "countryname": "Bulgaria",
+    "growth_nca": 26.632965
+  },
+  {
+    "code": "WLD",
+    "countryname": "World",
+    "growth_nca": 26.821089
+  },
+  {
+    "code": "KOR",
+    "countryname": "Korea",
+    "growth_nca": 27.20171
+  },
+  {
+    "code": "SLB",
+    "countryname": "Solomon Islands",
+    "growth_nca": 27.207487
+  },
+  {
+    "code": "NIC",
+    "countryname": "Nicaragua",
+    "growth_nca": 28.261843
+  },
+  {
+    "code": "SWE",
+    "countryname": "Sweden",
+    "growth_nca": 29.525478
+  },
+  {
+    "code": "TUN",
+    "countryname": "Tunisia",
+    "growth_nca": 30.273684
+  },
+  {
+    "code": "DEU",
+    "countryname": "Germany",
+    "growth_nca": 30.653343
+  },
+  {
+    "code": "BLR",
+    "countryname": "Belarus",
+    "growth_nca": 31.605251
+  },
+  {
+    "code": "IDN",
+    "countryname": "Indonesia",
+    "growth_nca": 33.001854
+  },
+  {
+    "code": "TTO",
+    "countryname": "Trinidad and Tobago",
+    "growth_nca": 33.075577
+  },
+  {
+    "code": "EST",
+    "countryname": "Estonia",
+    "growth_nca": 33.197033
+  },
+  {
+    "code": "NPL",
+    "countryname": "Nepal",
+    "growth_nca": 33.651306
+  },
+  {
+    "code": "ALB",
+    "countryname": "Albania",
+    "growth_nca": 34.555309
+  },
+  {
+    "code": "KGZ",
+    "countryname": "Kyrgyz Republic",
+    "growth_nca": 35.441475
+  },
+  {
+    "code": "MWI",
+    "countryname": "Malawi",
+    "growth_nca": 36.318851
+  },
+  {
+    "code": "MNG",
+    "countryname": "Mongolia",
+    "growth_nca": 37.789471
+  },
+  {
+    "code": "CHL",
+    "countryname": "Chile",
+    "growth_nca": 39.353294
+  },
+  {
+    "code": "LSO",
+    "countryname": "Lesotho",
+    "growth_nca": 40.656982
+  },
+  {
+    "code": "POL",
+    "countryname": "Poland",
+    "growth_nca": 42.185886
+  },
+  {
+    "code": "MRT",
+    "countryname": "Mauritania",
+    "growth_nca": 43.82653
+  },
+  {
+    "code": "HIC",
+    "countryname": "High income",
+    "growth_nca": 43.836517
+  },
+  {
+    "code": "UMC",
+    "countryname": "Upper middle income",
+    "growth_nca": 44.248726
+  },
+  {
+    "code": "JPN",
+    "countryname": "Japan",
+    "growth_nca": 46.739902
+  },
+  {
+    "code": "LAO",
+    "countryname": "Lao PDR",
+    "growth_nca": 47.331776
+  },
+  {
+    "code": "LVA",
+    "countryname": "Latvia",
+    "growth_nca": 50.658661
+  },
+  {
+    "code": "RUS",
+    "countryname": "Russia",
+    "growth_nca": 50.772015
+  },
+  {
+    "code": "SVN",
+    "countryname": "Slovenia",
+    "growth_nca": 52.048618
+  },
+  {
+    "code": "NOR",
+    "countryname": "Norway",
+    "growth_nca": 52.990303
+  },
+  {
+    "code": "KHM",
+    "countryname": "Cambodia",
+    "growth_nca": 53.233742
+  },
+  {
+    "code": "MAR",
+    "countryname": "Morocco",
+    "growth_nca": 66.796173
+  },
+  {
+    "code": "IND",
+    "countryname": "India",
+    "growth_nca": 68.781349
+  },
+  {
+    "code": "BRA",
+    "countryname": "Brazil",
+    "growth_nca": 71.443283
+  },
+  {
+    "code": "ARM",
+    "countryname": "Armenia",
+    "growth_nca": 76.989212
+  },
+  {
+    "code": "URY",
+    "countryname": "Uruguay",
+    "growth_nca": 80.446754
+  },
+  {
+    "code": "KAZ",
+    "countryname": "Kazakhstan",
+    "growth_nca": 80.668564
+  },
+  {
+    "code": "MOZ",
+    "countryname": "Mozambique",
+    "growth_nca": 82.287849
+  },
+  {
+    "code": "CHN",
+    "countryname": "China",
+    "growth_nca": 82.505386
+  },
+  {
+    "code": "HRV",
+    "countryname": "Croatia",
+    "growth_nca": 92.558174
+  },
+  {
+    "code": "BIH",
+    "countryname": "Bosnia and Herzegovina",
+    "growth_nca": 94.553955
+  },
+  {
+    "code": "VNM",
+    "countryname": "Vietnam",
+    "growth_nca": 97.258675
+  },
+  {
+    "code": "AUS",
+    "countryname": "Australia",
+    "growth_nca": 104.79445
+  },
+  {
+    "code": "QAT",
+    "countryname": "Qatar",
+    "growth_nca": 114.82771
+  },
+  {
+    "code": "AZE",
+    "countryname": "Azerbaijan",
+    "growth_nca": 249.31342
+  },
+  {
+    "code": "IRQ",
+    "countryname": "Iraq",
+    "growth_nca": 1173.5547
+  }
+]

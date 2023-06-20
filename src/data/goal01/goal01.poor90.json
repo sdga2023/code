@@ -1,0 +1,127 @@
+[
+  {
+    "iso3c": "PHL",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "VNM",
+    "poor": 1,
+    "dots_country": 2
+  },
+  {
+    "iso3c": "IDN",
+    "poor": 1,
+    "dots_country": 6
+  },
+  {
+    "iso3c": "MMR",
+    "poor": 1,
+    "dots_country": 2
+  },
+  {
+    "iso3c": "CHN",
+    "poor": 1,
+    "dots_country": 41
+  },
+  {
+    "iso3c": "PRK",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "BRA",
+    "poor": 1,
+    "dots_country": 2
+  },
+  {
+    "iso3c": "HTI",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "MEX",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "UZB",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "PAK",
+    "poor": 1,
+    "dots_country": 4
+  },
+  {
+    "iso3c": "NPL",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "BGD",
+    "poor": 1,
+    "dots_country": 2
+  },
+  {
+    "iso3c": "IND",
+    "poor": 1,
+    "dots_country": 22
+  },
+  {
+    "iso3c": "MDG",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "TZA",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "SDN",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "ZAF",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "UGA",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "COD",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "BFA",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "GHA",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "MOZ",
+    "poor": 1,
+    "dots_country": 1
+  },
+  {
+    "iso3c": "ETH",
+    "poor": 1,
+    "dots_country": 2
+  },
+  {
+    "iso3c": "NGA",
+    "poor": 1,
+    "dots_country": 2
+  }
+]

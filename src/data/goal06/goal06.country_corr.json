@@ -1,0 +1,1532 @@
+[
+  {
+    "region": "South Asia",
+    "iso3": "AFG",
+    "country": "Afghanistan",
+    "total_population": 7.57,
+    "total_freshwater_withdrawal": 10.31,
+    "agricultural_land": 5.58,
+    "gdp_ppp": 10.89
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ALB",
+    "country": "Albania",
+    "total_population": 6.46,
+    "total_freshwater_withdrawal": 8.98,
+    "agricultural_land": 4.07,
+    "gdp_ppp": 10.59
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "DZA",
+    "country": "Algeria",
+    "total_population": 7.63,
+    "total_freshwater_withdrawal": 9.99,
+    "agricultural_land": 5.62,
+    "gdp_ppp": 11.7
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "AGO",
+    "country": "Angola",
+    "total_population": 7.49,
+    "total_freshwater_withdrawal": 8.85,
+    "agricultural_land": 5.76,
+    "gdp_ppp": 11.34
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "ATG",
+    "country": "Antigua and Barbuda",
+    "total_population": 4.98,
+    "total_freshwater_withdrawal": 6.64,
+    "agricultural_land": 1.95,
+    "gdp_ppp": 9.32
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "ARG",
+    "country": "Argentina",
+    "total_population": 7.65,
+    "total_freshwater_withdrawal": 10.58,
+    "agricultural_land": 6.17,
+    "gdp_ppp": 12.02
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ARM",
+    "country": "Armenia",
+    "total_population": 6.47,
+    "total_freshwater_withdrawal": 9.43,
+    "agricultural_land": 4.22,
+    "gdp_ppp": 10.58
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "AUS",
+    "country": "Australia",
+    "total_population": 7.4,
+    "total_freshwater_withdrawal": 10.06,
+    "agricultural_land": 6.55,
+    "gdp_ppp": 12.1
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "AUT",
+    "country": "Austria",
+    "total_population": 6.95,
+    "total_freshwater_withdrawal": 9.54,
+    "agricultural_land": 4.42,
+    "gdp_ppp": 11.7
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "AZE",
+    "country": "Azerbaijan",
+    "total_population": 7,
+    "total_freshwater_withdrawal": 10.09,
+    "agricultural_land": 4.68,
+    "gdp_ppp": 11.16
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "BHR",
+    "country": "Bahrain",
+    "total_population": 6.2,
+    "total_freshwater_withdrawal": 8.19,
+    "agricultural_land": 1.93,
+    "gdp_ppp": 10.87
+  },
+  {
+    "region": "South Asia",
+    "iso3": "BGD",
+    "country": "Bangladesh",
+    "total_population": 8.21,
+    "total_freshwater_withdrawal": 10.55,
+    "agricultural_land": 4.96,
+    "gdp_ppp": 11.93
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BRB",
+    "country": "Barbados",
+    "total_population": 5.46,
+    "total_freshwater_withdrawal": 7.85,
+    "agricultural_land": 2,
+    "gdp_ppp": 9.66
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BLR",
+    "country": "Belarus",
+    "total_population": 6.97,
+    "total_freshwater_withdrawal": 9.14,
+    "agricultural_land": 4.93,
+    "gdp_ppp": 11.26
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BEL",
+    "country": "Belgium",
+    "total_population": 7.06,
+    "total_freshwater_withdrawal": 9.6,
+    "agricultural_land": 4.13,
+    "gdp_ppp": 11.78
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BLZ",
+    "country": "Belize",
+    "total_population": 5.58,
+    "total_freshwater_withdrawal": 8,
+    "agricultural_land": 3.24,
+    "gdp_ppp": 9.45
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BEN",
+    "country": "Benin",
+    "total_population": 7.06,
+    "total_freshwater_withdrawal": 8.11,
+    "agricultural_land": 4.6,
+    "gdp_ppp": 10.57
+  },
+  {
+    "region": "South Asia",
+    "iso3": "BTN",
+    "country": "Bhutan",
+    "total_population": 5.88,
+    "total_freshwater_withdrawal": 8.53,
+    "agricultural_land": 3.71,
+    "gdp_ppp": 9.94
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BOL",
+    "country": "Bolivia",
+    "total_population": 7.06,
+    "total_freshwater_withdrawal": 9.32,
+    "agricultural_land": 5.58,
+    "gdp_ppp": 11
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "total_population": 6.52,
+    "total_freshwater_withdrawal": 8.6,
+    "agricultural_land": 4.34,
+    "gdp_ppp": 10.7
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BWA",
+    "country": "Botswana",
+    "total_population": 6.35,
+    "total_freshwater_withdrawal": 8.29,
+    "agricultural_land": 5.41,
+    "gdp_ppp": 10.57
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "BRA",
+    "country": "Brazil",
+    "total_population": 8.32,
+    "total_freshwater_withdrawal": 10.81,
+    "agricultural_land": 6.37,
+    "gdp_ppp": 12.5
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "BRN",
+    "country": "Brunei Darussalam",
+    "total_population": 5.63,
+    "total_freshwater_withdrawal": 7.96,
+    "agricultural_land": 2.16,
+    "gdp_ppp": 10.42
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "BGR",
+    "country": "Bulgaria",
+    "total_population": 6.85,
+    "total_freshwater_withdrawal": 9.73,
+    "agricultural_land": 4.7,
+    "gdp_ppp": 11.21
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BFA",
+    "country": "Burkina Faso",
+    "total_population": 7.3,
+    "total_freshwater_withdrawal": 8.91,
+    "agricultural_land": 5.08,
+    "gdp_ppp": 10.63
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "BDI",
+    "country": "Burundi",
+    "total_population": 7.05,
+    "total_freshwater_withdrawal": 8.45,
+    "agricultural_land": 4.31,
+    "gdp_ppp": 9.94
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CPV",
+    "country": "Cabo Verde",
+    "total_population": 5.74,
+    "total_freshwater_withdrawal": 7.4,
+    "agricultural_land": 2.9,
+    "gdp_ppp": 9.58
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "KHM",
+    "country": "Cambodia",
+    "total_population": 7.21,
+    "total_freshwater_withdrawal": 9.34,
+    "agricultural_land": 4.75,
+    "gdp_ppp": 10.84
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CMR",
+    "country": "Cameroon",
+    "total_population": 7.4,
+    "total_freshwater_withdrawal": 9.04,
+    "agricultural_land": 4.99,
+    "gdp_ppp": 10.98
+  },
+  {
+    "region": "North America",
+    "iso3": "CAN",
+    "country": "Canada",
+    "total_population": 7.57,
+    "total_freshwater_withdrawal": 10.55,
+    "agricultural_land": 5.76,
+    "gdp_ppp": 12.27
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CAF",
+    "country": "Central African Republic",
+    "total_population": 6.67,
+    "total_freshwater_withdrawal": 7.86,
+    "agricultural_land": 4.71,
+    "gdp_ppp": 9.65
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "TCD",
+    "country": "Chad",
+    "total_population": 7.19,
+    "total_freshwater_withdrawal": 8.94,
+    "agricultural_land": 5.7,
+    "gdp_ppp": 10.4
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "CHL",
+    "country": "Chile",
+    "total_population": 7.27,
+    "total_freshwater_withdrawal": 10.93,
+    "agricultural_land": 5.2,
+    "gdp_ppp": 11.68
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "CHN",
+    "country": "China",
+    "total_population": 9.15,
+    "total_freshwater_withdrawal": 11.77,
+    "agricultural_land": 6.72,
+    "gdp_ppp": 13.34
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "COL",
+    "country": "Colombia",
+    "total_population": 7.7,
+    "total_freshwater_withdrawal": 10.45,
+    "agricultural_land": 5.69,
+    "gdp_ppp": 11.87
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "COM",
+    "country": "Comoros",
+    "total_population": 5.92,
+    "total_freshwater_withdrawal": 7,
+    "agricultural_land": 3.12,
+    "gdp_ppp": 9.42
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "COD",
+    "country": "Congo, Dem. Rep.",
+    "total_population": 7.92,
+    "total_freshwater_withdrawal": 8.83,
+    "agricultural_land": 5.5,
+    "gdp_ppp": 10.97
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "COG",
+    "country": "Congo, Rep.",
+    "total_population": 6.72,
+    "total_freshwater_withdrawal": 7.66,
+    "agricultural_land": 5.03,
+    "gdp_ppp": 10.32
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "CRI",
+    "country": "Costa Rica",
+    "total_population": 6.7,
+    "total_freshwater_withdrawal": 9.48,
+    "agricultural_land": 4.25,
+    "gdp_ppp": 11.03
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "CIV",
+    "country": "Côte d'Ivoire",
+    "total_population": 7.4,
+    "total_freshwater_withdrawal": 9.07,
+    "agricultural_land": 5.33,
+    "gdp_ppp": 11.11
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "HRV",
+    "country": "Croatia",
+    "total_population": 6.61,
+    "total_freshwater_withdrawal": 8.83,
+    "agricultural_land": 4.17,
+    "gdp_ppp": 11.07
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "CYP",
+    "country": "Cyprus",
+    "total_population": 6.08,
+    "total_freshwater_withdrawal": 8.32,
+    "agricultural_land": 3.12,
+    "gdp_ppp": 10.55
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "CZE",
+    "country": "Czechia",
+    "total_population": 7.03,
+    "total_freshwater_withdrawal": 9.2,
+    "agricultural_land": 4.55,
+    "gdp_ppp": 11.64
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "DNK",
+    "country": "Denmark",
+    "total_population": 6.76,
+    "total_freshwater_withdrawal": 9.03,
+    "agricultural_land": 4.42,
+    "gdp_ppp": 11.52
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "DJI",
+    "country": "Djibouti",
+    "total_population": 5.98,
+    "total_freshwater_withdrawal": 7.28,
+    "agricultural_land": 4.23,
+    "gdp_ppp": 9.7
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "DMA",
+    "country": "Dominica",
+    "total_population": 4.86,
+    "total_freshwater_withdrawal": 7.3,
+    "agricultural_land": 2.4,
+    "gdp_ppp": 8.93
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "DOM",
+    "country": "Dominican Republic",
+    "total_population": 7.03,
+    "total_freshwater_withdrawal": 9.85,
+    "agricultural_land": 4.39,
+    "gdp_ppp": 11.28
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "ECU",
+    "country": "Ecuador",
+    "total_population": 7.23,
+    "total_freshwater_withdrawal": 10,
+    "agricultural_land": 4.74,
+    "gdp_ppp": 11.31
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "EGY",
+    "country": "Egypt",
+    "total_population": 7.99,
+    "total_freshwater_withdrawal": 10.89,
+    "agricultural_land": 4.58,
+    "gdp_ppp": 12.06
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "SLV",
+    "country": "El Salvador",
+    "total_population": 6.81,
+    "total_freshwater_withdrawal": 9.33,
+    "agricultural_land": 4.17,
+    "gdp_ppp": 10.75
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GNQ",
+    "country": "Equatorial Guinea",
+    "total_population": 6.12,
+    "total_freshwater_withdrawal": 7.3,
+    "agricultural_land": 3.45,
+    "gdp_ppp": 10.44
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "EST",
+    "country": "Estonia",
+    "total_population": 6.12,
+    "total_freshwater_withdrawal": 9.21,
+    "agricultural_land": 4,
+    "gdp_ppp": 10.68
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SWZ",
+    "country": "Eswatini",
+    "total_population": 6.06,
+    "total_freshwater_withdrawal": 9.03,
+    "agricultural_land": 4.09,
+    "gdp_ppp": 10
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ETH",
+    "country": "Ethiopia",
+    "total_population": 8.04,
+    "total_freshwater_withdrawal": 10.02,
+    "agricultural_land": 5.58,
+    "gdp_ppp": 11.37
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "FJI",
+    "country": "Fiji",
+    "total_population": 5.95,
+    "total_freshwater_withdrawal": 7.93,
+    "agricultural_land": 3.63,
+    "gdp_ppp": 10.1
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "FIN",
+    "country": "Finland",
+    "total_population": 6.74,
+    "total_freshwater_withdrawal": 9.45,
+    "agricultural_land": 4.36,
+    "gdp_ppp": 11.44
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "FRA",
+    "country": "France",
+    "total_population": 7.83,
+    "total_freshwater_withdrawal": 10.43,
+    "agricultural_land": 5.46,
+    "gdp_ppp": 12.49
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GAB",
+    "country": "Gabon",
+    "total_population": 6.33,
+    "total_freshwater_withdrawal": 8.14,
+    "agricultural_land": 4.34,
+    "gdp_ppp": 10.51
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GMB",
+    "country": "Gambia, The",
+    "total_population": 6.36,
+    "total_freshwater_withdrawal": 8.01,
+    "agricultural_land": 3.78,
+    "gdp_ppp": 9.7
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "GEO",
+    "country": "Georgia",
+    "total_population": 6.57,
+    "total_freshwater_withdrawal": 9.11,
+    "agricultural_land": 4.38,
+    "gdp_ppp": 10.74
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "DEU",
+    "country": "Germany",
+    "total_population": 7.92,
+    "total_freshwater_withdrawal": 10.39,
+    "agricultural_land": 5.22,
+    "gdp_ppp": 12.66
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GHA",
+    "country": "Ghana",
+    "total_population": 7.47,
+    "total_freshwater_withdrawal": 9.16,
+    "agricultural_land": 5.17,
+    "gdp_ppp": 11.21
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "GRC",
+    "country": "Greece",
+    "total_population": 7.03,
+    "total_freshwater_withdrawal": 10.01,
+    "agricultural_land": 4.79,
+    "gdp_ppp": 11.5
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "GRD",
+    "country": "Grenada",
+    "total_population": 5.05,
+    "total_freshwater_withdrawal": 7.15,
+    "agricultural_land": 1.9,
+    "gdp_ppp": 9.28
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "GTM",
+    "country": "Guatemala",
+    "total_population": 7.21,
+    "total_freshwater_withdrawal": 9.52,
+    "agricultural_land": 4.59,
+    "gdp_ppp": 11.15
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GIN",
+    "country": "Guinea",
+    "total_population": 7.09,
+    "total_freshwater_withdrawal": 8.95,
+    "agricultural_land": 5.16,
+    "gdp_ppp": 10.5
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "GNB",
+    "country": "Guinea-Bissau",
+    "total_population": 6.27,
+    "total_freshwater_withdrawal": 8.24,
+    "agricultural_land": 3.91,
+    "gdp_ppp": 9.56
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "GUY",
+    "country": "Guyana",
+    "total_population": 5.89,
+    "total_freshwater_withdrawal": 9.16,
+    "agricultural_land": 4.1,
+    "gdp_ppp": 10
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "HTI",
+    "country": "Haiti",
+    "total_population": 7.05,
+    "total_freshwater_withdrawal": 9.16,
+    "agricultural_land": 4.26,
+    "gdp_ppp": 10.56
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "HND",
+    "country": "Honduras",
+    "total_population": 6.98,
+    "total_freshwater_withdrawal": 9.21,
+    "agricultural_land": 4.53,
+    "gdp_ppp": 10.75
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "HUN",
+    "country": "Hungary",
+    "total_population": 6.99,
+    "total_freshwater_withdrawal": 9.65,
+    "agricultural_land": 4.72,
+    "gdp_ppp": 11.49
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ISL",
+    "country": "Iceland",
+    "total_population": 5.55,
+    "total_freshwater_withdrawal": 8.46,
+    "agricultural_land": 4.27,
+    "gdp_ppp": 10.3
+  },
+  {
+    "region": "South Asia",
+    "iso3": "IND",
+    "country": "India",
+    "total_population": 9.13,
+    "total_freshwater_withdrawal": 11.81,
+    "agricultural_land": 6.25,
+    "gdp_ppp": 12.96
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "IDN",
+    "country": "Indonesia",
+    "total_population": 8.43,
+    "total_freshwater_withdrawal": 11.35,
+    "agricultural_land": 5.79,
+    "gdp_ppp": 12.49
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "IRN",
+    "country": "Iran",
+    "total_population": 7.91,
+    "total_freshwater_withdrawal": 10.97,
+    "agricultural_land": 5.66,
+    "gdp_ppp": 12.11
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "IRQ",
+    "country": "Iraq",
+    "total_population": 7.58,
+    "total_freshwater_withdrawal": 10.53,
+    "agricultural_land": 4.97,
+    "gdp_ppp": 11.62
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "IRL",
+    "country": "Ireland",
+    "total_population": 6.69,
+    "total_freshwater_withdrawal": 9.15,
+    "agricultural_land": 4.65,
+    "gdp_ppp": 11.61
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "ISR",
+    "country": "Israel",
+    "total_population": 6.95,
+    "total_freshwater_withdrawal": 9.05,
+    "agricultural_land": 3.79,
+    "gdp_ppp": 11.55
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ITA",
+    "country": "Italy",
+    "total_population": 7.78,
+    "total_freshwater_withdrawal": 10.53,
+    "agricultural_land": 5.09,
+    "gdp_ppp": 12.42
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "JAM",
+    "country": "Jamaica",
+    "total_population": 6.47,
+    "total_freshwater_withdrawal": 9.13,
+    "agricultural_land": 3.65,
+    "gdp_ppp": 10.47
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "JPN",
+    "country": "Japan",
+    "total_population": 8.1,
+    "total_freshwater_withdrawal": 10.9,
+    "agricultural_land": 4.65,
+    "gdp_ppp": 12.73
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "JOR",
+    "country": "Jordan",
+    "total_population": 7,
+    "total_freshwater_withdrawal": 8.96,
+    "agricultural_land": 4.01,
+    "gdp_ppp": 11.01
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "KAZ",
+    "country": "Kazakhstan",
+    "total_population": 7.26,
+    "total_freshwater_withdrawal": 10.37,
+    "agricultural_land": 6.33,
+    "gdp_ppp": 11.68
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "KEN",
+    "country": "Kenya",
+    "total_population": 7.71,
+    "total_freshwater_withdrawal": 9.61,
+    "agricultural_land": 5.44,
+    "gdp_ppp": 11.36
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "KOR",
+    "country": "Korea, Rep.",
+    "total_population": 7.71,
+    "total_freshwater_withdrawal": 10.47,
+    "agricultural_land": 4.22,
+    "gdp_ppp": 12.35
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "KWT",
+    "country": "Kuwait",
+    "total_population": 6.62,
+    "total_freshwater_withdrawal": 8.89,
+    "agricultural_land": 3.18,
+    "gdp_ppp": 11.34
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "KGZ",
+    "country": "Kyrgyzstan",
+    "total_population": 6.8,
+    "total_freshwater_withdrawal": 9.89,
+    "agricultural_land": 5.02,
+    "gdp_ppp": 10.52
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "LAO",
+    "country": "Lao PDR",
+    "total_population": 6.85,
+    "total_freshwater_withdrawal": 9.86,
+    "agricultural_land": 4.38,
+    "gdp_ppp": 10.74
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "LVA",
+    "country": "Latvia",
+    "total_population": 6.28,
+    "total_freshwater_withdrawal": 8.26,
+    "agricultural_land": 4.29,
+    "gdp_ppp": 10.77
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "LBN",
+    "country": "Lebanon",
+    "total_population": 6.84,
+    "total_freshwater_withdrawal": 9.26,
+    "agricultural_land": 3.82,
+    "gdp_ppp": 11.04
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "LSO",
+    "country": "Lesotho",
+    "total_population": 6.32,
+    "total_freshwater_withdrawal": 7.64,
+    "agricultural_land": 4.39,
+    "gdp_ppp": 9.75
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "LBR",
+    "country": "Liberia",
+    "total_population": 6.68,
+    "total_freshwater_withdrawal": 8.16,
+    "agricultural_land": 4.29,
+    "gdp_ppp": 9.88
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "LBY",
+    "country": "Libya",
+    "total_population": 6.82,
+    "total_freshwater_withdrawal": 9.76,
+    "agricultural_land": 5.19,
+    "gdp_ppp": 11.23
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "LTU",
+    "country": "Lithuania",
+    "total_population": 6.45,
+    "total_freshwater_withdrawal": 8.41,
+    "agricultural_land": 4.47,
+    "gdp_ppp": 11.01
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "LUX",
+    "country": "Luxembourg",
+    "total_population": 5.78,
+    "total_freshwater_withdrawal": 7.72,
+    "agricultural_land": 3.12,
+    "gdp_ppp": 10.85
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MDG",
+    "country": "Madagascar",
+    "total_population": 7.42,
+    "total_freshwater_withdrawal": 10.13,
+    "agricultural_land": 5.61,
+    "gdp_ppp": 10.63
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MWI",
+    "country": "Malawi",
+    "total_population": 7.26,
+    "total_freshwater_withdrawal": 9.13,
+    "agricultural_land": 4.75,
+    "gdp_ppp": 10.44
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "MYS",
+    "country": "Malaysia",
+    "total_population": 7.5,
+    "total_freshwater_withdrawal": 9.83,
+    "agricultural_land": 4.93,
+    "gdp_ppp": 11.95
+  },
+  {
+    "region": "South Asia",
+    "iso3": "MDV",
+    "country": "Maldives",
+    "total_population": 5.71,
+    "total_freshwater_withdrawal": 6.67,
+    "agricultural_land": 1.9,
+    "gdp_ppp": 10
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MLI",
+    "country": "Mali",
+    "total_population": 7.28,
+    "total_freshwater_withdrawal": 9.71,
+    "agricultural_land": 5.61,
+    "gdp_ppp": 10.65
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "MLT",
+    "country": "Malta",
+    "total_population": 5.69,
+    "total_freshwater_withdrawal": 7.63,
+    "agricultural_land": 2.02,
+    "gdp_ppp": 10.34
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MRT",
+    "country": "Mauritania",
+    "total_population": 6.64,
+    "total_freshwater_withdrawal": 9.13,
+    "agricultural_land": 5.6,
+    "gdp_ppp": 10.37
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MUS",
+    "country": "Mauritius",
+    "total_population": 6.1,
+    "total_freshwater_withdrawal": 8.77,
+    "agricultural_land": 2.93,
+    "gdp_ppp": 10.46
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "MEX",
+    "country": "Mexico",
+    "total_population": 8.1,
+    "total_freshwater_withdrawal": 10.95,
+    "agricultural_land": 6.03,
+    "gdp_ppp": 12.4
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "MDA",
+    "country": "Moldova",
+    "total_population": 6.43,
+    "total_freshwater_withdrawal": 8.92,
+    "agricultural_land": 4.35,
+    "gdp_ppp": 10.54
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "MNG",
+    "country": "Mongolia",
+    "total_population": 6.5,
+    "total_freshwater_withdrawal": 8.67,
+    "agricultural_land": 6.05,
+    "gdp_ppp": 10.59
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "MAR",
+    "country": "Morocco",
+    "total_population": 7.56,
+    "total_freshwater_withdrawal": 10.02,
+    "agricultural_land": 5.48,
+    "gdp_ppp": 11.45
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "MOZ",
+    "country": "Mozambique",
+    "total_population": 7.47,
+    "total_freshwater_withdrawal": 9.17,
+    "agricultural_land": 5.62,
+    "gdp_ppp": 10.59
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "MMR",
+    "country": "Myanmar",
+    "total_population": 7.73,
+    "total_freshwater_withdrawal": 10.52,
+    "agricultural_land": 5.11,
+    "gdp_ppp": 11.39
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "NAM",
+    "country": "Namibia",
+    "total_population": 6.39,
+    "total_freshwater_withdrawal": 8.45,
+    "agricultural_land": 5.59,
+    "gdp_ppp": 10.4
+  },
+  {
+    "region": "South Asia",
+    "iso3": "NPL",
+    "country": "Nepal",
+    "total_population": 7.45,
+    "total_freshwater_withdrawal": 9.98,
+    "agricultural_land": 4.62,
+    "gdp_ppp": 11.04
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "NLD",
+    "country": "Netherlands",
+    "total_population": 7.24,
+    "total_freshwater_withdrawal": 9.91,
+    "agricultural_land": 4.26,
+    "gdp_ppp": 12
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "NZL",
+    "country": "New Zealand",
+    "total_population": 6.69,
+    "total_freshwater_withdrawal": 9.99,
+    "agricultural_land": 5.02,
+    "gdp_ppp": 11.32
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "NIC",
+    "country": "Nicaragua",
+    "total_population": 6.81,
+    "total_freshwater_withdrawal": 9.19,
+    "agricultural_land": 4.7,
+    "gdp_ppp": 10.58
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "NER",
+    "country": "Niger",
+    "total_population": 7.35,
+    "total_freshwater_withdrawal": 9.24,
+    "agricultural_land": 5.67,
+    "gdp_ppp": 10.44
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "NGA",
+    "country": "Nigeria",
+    "total_population": 8.29,
+    "total_freshwater_withdrawal": 10.1,
+    "agricultural_land": 5.84,
+    "gdp_ppp": 12.01
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "MKD",
+    "country": "North Macedonia",
+    "total_population": 6.32,
+    "total_freshwater_withdrawal": 9.02,
+    "agricultural_land": 4.1,
+    "gdp_ppp": 10.54
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "NOR",
+    "country": "Norway",
+    "total_population": 6.73,
+    "total_freshwater_withdrawal": 9.43,
+    "agricultural_land": 3.99,
+    "gdp_ppp": 11.57
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "OMN",
+    "country": "Oman",
+    "total_population": 6.68,
+    "total_freshwater_withdrawal": 9.21,
+    "agricultural_land": 4.16,
+    "gdp_ppp": 11.21
+  },
+  {
+    "region": "South Asia",
+    "iso3": "PAK",
+    "country": "Pakistan",
+    "total_population": 8.33,
+    "total_freshwater_withdrawal": 11.28,
+    "agricultural_land": 5.56,
+    "gdp_ppp": 12.06
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PAN",
+    "country": "Panama",
+    "total_population": 6.62,
+    "total_freshwater_withdrawal": 9.08,
+    "agricultural_land": 4.35,
+    "gdp_ppp": 11.12
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "PNG",
+    "country": "Papua New Guinea",
+    "total_population": 6.93,
+    "total_freshwater_withdrawal": 8.59,
+    "agricultural_land": 4.08,
+    "gdp_ppp": 10.57
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PRY",
+    "country": "Paraguay",
+    "total_population": 6.84,
+    "total_freshwater_withdrawal": 9.38,
+    "agricultural_land": 5.34,
+    "gdp_ppp": 10.96
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PER",
+    "country": "Peru",
+    "total_population": 7.51,
+    "total_freshwater_withdrawal": 10.55,
+    "agricultural_land": 5.37,
+    "gdp_ppp": 11.62
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "PHL",
+    "country": "Philippines",
+    "total_population": 8.03,
+    "total_freshwater_withdrawal": 10.97,
+    "agricultural_land": 5.09,
+    "gdp_ppp": 11.97
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "POL",
+    "country": "Poland",
+    "total_population": 7.58,
+    "total_freshwater_withdrawal": 9.98,
+    "agricultural_land": 5.16,
+    "gdp_ppp": 12.08
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "PRT",
+    "country": "Portugal",
+    "total_population": 7.01,
+    "total_freshwater_withdrawal": 9.79,
+    "agricultural_land": 4.55,
+    "gdp_ppp": 11.56
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "PRI",
+    "country": "Puerto Rico",
+    "total_population": 6.5,
+    "total_freshwater_withdrawal": 8.94,
+    "agricultural_land": 3.23,
+    "gdp_ppp": 11.05
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "QAT",
+    "country": "Qatar",
+    "total_population": 6.44,
+    "total_freshwater_withdrawal": 8.4,
+    "agricultural_land": 2.83,
+    "gdp_ppp": 11.41
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ROU",
+    "country": "Romania",
+    "total_population": 7.29,
+    "total_freshwater_withdrawal": 9.81,
+    "agricultural_land": 5.13,
+    "gdp_ppp": 11.76
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "RUS",
+    "country": "Russian Federation",
+    "total_population": 8.16,
+    "total_freshwater_withdrawal": 10.81,
+    "agricultural_land": 6.33,
+    "gdp_ppp": 12.63
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "RWA",
+    "country": "Rwanda",
+    "total_population": 7.09,
+    "total_freshwater_withdrawal": 8.26,
+    "agricultural_land": 4.26,
+    "gdp_ppp": 10.42
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "STP",
+    "country": "Sao Tome and Principe",
+    "total_population": 5.32,
+    "total_freshwater_withdrawal": 7.61,
+    "agricultural_land": 2.64,
+    "gdp_ppp": 8.94
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "SAU",
+    "country": "Saudi Arabia",
+    "total_population": 7.53,
+    "total_freshwater_withdrawal": 10.38,
+    "agricultural_land": 6.24,
+    "gdp_ppp": 12.22
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SEN",
+    "country": "Senegal",
+    "total_population": 7.2,
+    "total_freshwater_withdrawal": 9.35,
+    "agricultural_land": 4.95,
+    "gdp_ppp": 10.73
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SRB",
+    "country": "Serbia",
+    "total_population": 6.84,
+    "total_freshwater_withdrawal": 9.74,
+    "agricultural_land": 4.54,
+    "gdp_ppp": 11.09
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SLE",
+    "country": "Sierra Leone",
+    "total_population": 6.88,
+    "total_freshwater_withdrawal": 8.33,
+    "agricultural_land": 4.6,
+    "gdp_ppp": 10.11
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "SGP",
+    "country": "Singapore",
+    "total_population": 6.75,
+    "total_freshwater_withdrawal": 8.69,
+    "agricultural_land": 0.82,
+    "gdp_ppp": 11.75
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SVK",
+    "country": "Slovak Republic",
+    "total_population": 6.74,
+    "total_freshwater_withdrawal": 8.75,
+    "agricultural_land": 4.28,
+    "gdp_ppp": 11.23
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SVN",
+    "country": "Slovenia",
+    "total_population": 6.32,
+    "total_freshwater_withdrawal": 8.98,
+    "agricultural_land": 3.79,
+    "gdp_ppp": 10.91
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SOM",
+    "country": "Somalia",
+    "total_population": 7.18,
+    "total_freshwater_withdrawal": 9.52,
+    "agricultural_land": 5.64,
+    "gdp_ppp": 10.24
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ZAF",
+    "country": "South Africa",
+    "total_population": 7.76,
+    "total_freshwater_withdrawal": 10.3,
+    "agricultural_land": 5.98,
+    "gdp_ppp": 11.91
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "ESP",
+    "country": "Spain",
+    "total_population": 7.67,
+    "total_freshwater_withdrawal": 10.49,
+    "agricultural_land": 5.42,
+    "gdp_ppp": 12.28
+  },
+  {
+    "region": "South Asia",
+    "iso3": "LKA",
+    "country": "Sri Lanka",
+    "total_population": 7.34,
+    "total_freshwater_withdrawal": 10.11,
+    "agricultural_land": 4.45,
+    "gdp_ppp": 11.46
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "KNA",
+    "country": "St. Kitts and Nevis",
+    "total_population": 4.72,
+    "total_freshwater_withdrawal": 7.09,
+    "agricultural_land": 1.78,
+    "gdp_ppp": 9.17
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "LCA",
+    "country": "St. Lucia",
+    "total_population": 5.26,
+    "total_freshwater_withdrawal": 7.63,
+    "agricultural_land": 2.03,
+    "gdp_ppp": 9.45
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "VCT",
+    "country": "St. Vincent and the Grenadines",
+    "total_population": 5.04,
+    "total_freshwater_withdrawal": 6.9,
+    "agricultural_land": 1.85,
+    "gdp_ppp": 9.18
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "SDN",
+    "country": "Sudan",
+    "total_population": 7.62,
+    "total_freshwater_withdrawal": 10.43,
+    "agricultural_land": 5.83,
+    "gdp_ppp": 11.27
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "SUR",
+    "country": "Suriname",
+    "total_population": 5.76,
+    "total_freshwater_withdrawal": 8.79,
+    "agricultural_land": 2.92,
+    "gdp_ppp": 10.05
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "SWE",
+    "country": "Sweden",
+    "total_population": 7.01,
+    "total_freshwater_withdrawal": 9.38,
+    "agricultural_land": 4.48,
+    "gdp_ppp": 11.74
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "CHE",
+    "country": "Switzerland",
+    "total_population": 6.93,
+    "total_freshwater_withdrawal": 9.23,
+    "agricultural_land": 4.18,
+    "gdp_ppp": 11.79
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "TJK",
+    "country": "Tajikistan",
+    "total_population": 6.96,
+    "total_freshwater_withdrawal": 9.99,
+    "agricultural_land": 4.67,
+    "gdp_ppp": 10.5
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "TZA",
+    "country": "Tanzania",
+    "total_population": 7.75,
+    "total_freshwater_withdrawal": 9.71,
+    "agricultural_land": 5.6,
+    "gdp_ppp": 11.16
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "THA",
+    "country": "Thailand",
+    "total_population": 7.84,
+    "total_freshwater_withdrawal": 10.76,
+    "agricultural_land": 5.34,
+    "gdp_ppp": 12.11
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "TLS",
+    "country": "Timor-Leste",
+    "total_population": 6.1,
+    "total_freshwater_withdrawal": 9.07,
+    "agricultural_land": 3.58,
+    "gdp_ppp": 9.6
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "TGO",
+    "country": "Togo",
+    "total_population": 6.9,
+    "total_freshwater_withdrawal": 8.35,
+    "agricultural_land": 4.58,
+    "gdp_ppp": 10.22
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "TTO",
+    "country": "Trinidad and Tobago",
+    "total_population": 6.14,
+    "total_freshwater_withdrawal": 8.53,
+    "agricultural_land": 2.73,
+    "gdp_ppp": 10.58
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "TUN",
+    "country": "Tunisia",
+    "total_population": 7.06,
+    "total_freshwater_withdrawal": 9.58,
+    "agricultural_land": 4.99,
+    "gdp_ppp": 11.13
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "TUR",
+    "country": "Turkey",
+    "total_population": 7.92,
+    "total_freshwater_withdrawal": 10.79,
+    "agricultural_land": 5.58,
+    "gdp_ppp": 12.36
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "TKM",
+    "country": "Turkmenistan",
+    "total_population": 6.77,
+    "total_freshwater_withdrawal": 10.44,
+    "agricultural_land": 5.53,
+    "gdp_ppp": 10.95
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "UGA",
+    "country": "Uganda",
+    "total_population": 7.63,
+    "total_freshwater_withdrawal": 8.8,
+    "agricultural_land": 5.16,
+    "gdp_ppp": 10.97
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "UKR",
+    "country": "Ukraine",
+    "total_population": 7.65,
+    "total_freshwater_withdrawal": 10.03,
+    "agricultural_land": 5.62,
+    "gdp_ppp": 11.73
+  },
+  {
+    "region": "Middle East & North Africa",
+    "iso3": "ARE",
+    "country": "United Arab Emirates",
+    "total_population": 6.98,
+    "total_freshwater_withdrawal": 9.4,
+    "agricultural_land": 3.58,
+    "gdp_ppp": 11.82
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "GBR",
+    "country": "United Kingdom",
+    "total_population": 7.82,
+    "total_freshwater_withdrawal": 9.93,
+    "agricultural_land": 5.24,
+    "gdp_ppp": 12.5
+  },
+  {
+    "region": "North America",
+    "iso3": "USA",
+    "country": "United States of America",
+    "total_population": 8.51,
+    "total_freshwater_withdrawal": 11.65,
+    "agricultural_land": 6.61,
+    "gdp_ppp": 13.31
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "iso3": "URY",
+    "country": "Uruguay",
+    "total_population": 6.54,
+    "total_freshwater_withdrawal": 9.56,
+    "agricultural_land": 5.15,
+    "gdp_ppp": 10.91
+  },
+  {
+    "region": "Europe & Central Asia",
+    "iso3": "UZB",
+    "country": "Uzbekistan",
+    "total_population": 7.52,
+    "total_freshwater_withdrawal": 10.77,
+    "agricultural_land": 5.41,
+    "gdp_ppp": 11.38
+  },
+  {
+    "region": "East Asia & Pacific",
+    "iso3": "VNM",
+    "country": "Vietnam",
+    "total_population": 7.98,
+    "total_freshwater_withdrawal": 10.91,
+    "agricultural_land": 5.09,
+    "gdp_ppp": 11.97
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ZMB",
+    "country": "Zambia",
+    "total_population": 7.24,
+    "total_freshwater_withdrawal": 9.2,
+    "agricultural_land": 5.38,
+    "gdp_ppp": 10.8
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "iso3": "ZWE",
+    "country": "Zimbabwe",
+    "total_population": 7.16,
+    "total_freshwater_withdrawal": 9.58,
+    "agricultural_land": 5.21,
+    "gdp_ppp": 10.76
+  }
+]

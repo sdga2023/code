@@ -1,0 +1,122 @@
+[
+  {
+    "income": "LIC",
+    "platform": "onlineplatforms",
+    "value": 54.5
+  },
+  {
+    "income": "LIC",
+    "platform": "television",
+    "value": 83.3
+  },
+  {
+    "income": "LIC",
+    "platform": "mobilephones",
+    "value": 30
+  },
+  {
+    "income": "LIC",
+    "platform": "radio",
+    "value": 83.3
+  },
+  {
+    "income": "LIC",
+    "platform": "takehomepackages",
+    "value": 40
+  },
+  {
+    "income": "LIC",
+    "platform": "otherdistancelearningm",
+    "value": 11.1
+  },
+  {
+    "income": "LMC",
+    "platform": "onlineplatforms",
+    "value": 95.7
+  },
+  {
+    "income": "LMC",
+    "platform": "television",
+    "value": 96.2
+  },
+  {
+    "income": "LMC",
+    "platform": "mobilephones",
+    "value": 76.2
+  },
+  {
+    "income": "LMC",
+    "platform": "radio",
+    "value": 83.3
+  },
+  {
+    "income": "LMC",
+    "platform": "takehomepackages",
+    "value": 86.4
+  },
+  {
+    "income": "LMC",
+    "platform": "otherdistancelearningm",
+    "value": 12.5
+  },
+  {
+    "income": "UMC",
+    "platform": "onlineplatforms",
+    "value": 88.6
+  },
+  {
+    "income": "UMC",
+    "platform": "television",
+    "value": 91.4
+  },
+  {
+    "income": "UMC",
+    "platform": "mobilephones",
+    "value": 82.4
+  },
+  {
+    "income": "UMC",
+    "platform": "radio",
+    "value": 55.2
+  },
+  {
+    "income": "UMC",
+    "platform": "takehomepackages",
+    "value": 74.2
+  },
+  {
+    "income": "UMC",
+    "platform": "otherdistancelearningm",
+    "value": 27.6
+  },
+  {
+    "income": "HIC",
+    "platform": "onlineplatforms",
+    "value": 96.1
+  },
+  {
+    "income": "HIC",
+    "platform": "television",
+    "value": 75.6
+  },
+  {
+    "income": "HIC",
+    "platform": "mobilephones",
+    "value": 70
+  },
+  {
+    "income": "HIC",
+    "platform": "radio",
+    "value": 28.9
+  },
+  {
+    "income": "HIC",
+    "platform": "takehomepackages",
+    "value": 88.6
+  },
+  {
+    "income": "HIC",
+    "platform": "otherdistancelearningm",
+    "value": 27
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "Time": 1980,
+    "Immunization, measles (% of children 12-23 months)": 13,
+    "Immunization, HepB3 (% of one-year-old children)": null,
+    "Immunization, DPT (% of children 12-23 months)": 17
+  },
+  {
+    "Time": 1981,
+    "Immunization, measles (% of children 12-23 months)": 16,
+    "Immunization, HepB3 (% of one-year-old children)": null,
+    "Immunization, DPT (% of children 12-23 months)": 20
+  },
+  {
+    "Time": 1982,
+    "Immunization, measles (% of children 12-23 months)": 17,
+    "Immunization, HepB3 (% of one-year-old children)": null,
+    "Immunization, DPT (% of children 12-23 months)": 23
+  },
+  {
+    "Time": 1983,
+    "Immunization, measles (% of children 12-23 months)": 34,
+    "Immunization, HepB3 (% of one-year-old children)": null,
+    "Immunization, DPT (% of children 12-23 months)": 35
+  },
+  {
+    "Time": 1984,
+    "Immunization, measles (% of children 12-23 months)": 38,
+    "Immunization, HepB3 (% of one-year-old children)": null,
+    "Immunization, DPT (% of children 12-23 months)": 42
+  },
+  {
+    "Time": 1985,
+    "Immunization, measles (% of children 12-23 months)": 44,
+    "Immunization, HepB3 (% of one-year-old children)": 0,
+    "Immunization, DPT (% of children 12-23 months)": 47
+  },
+  {
+    "Time": 1986,
+    "Immunization, measles (% of children 12-23 months)": 45,
+    "Immunization, HepB3 (% of one-year-old children)": 0,
+    "Immunization, DPT (% of children 12-23 months)": 50
+  },
+  {
+    "Time": 1987,
+    "Immunization, measles (% of children 12-23 months)": 52,
+    "Immunization, HepB3 (% of one-year-old children)": 0,
+    "Immunization, DPT (% of children 12-23 months)": 55
+  },
+  {
+    "Time": 1988,
+    "Immunization, measles (% of children 12-23 months)": 62,
+    "Immunization, HepB3 (% of one-year-old children)": 0,
+    "Immunization, DPT (% of children 12-23 months)": 64
+  },
+  {
+    "Time": 1989,
+    "Immunization, measles (% of children 12-23 months)": 68,
+    "Immunization, HepB3 (% of one-year-old children)": 0,
+    "Immunization, DPT (% of children 12-23 months)": 69
+  },
+  {
+    "Time": 1990,
+    "Immunization, measles (% of children 12-23 months)": 73,
+    "Immunization, HepB3 (% of one-year-old children)": 1,
+    "Immunization, DPT (% of children 12-23 months)": 77
+  },
+  {
+    "Time": 1991,
+    "Immunization, measles (% of children 12-23 months)": 70,
+    "Immunization, HepB3 (% of one-year-old children)": 1,
+    "Immunization, DPT (% of children 12-23 months)": 73
+  },
+  {
+    "Time": 1992,
+    "Immunization, measles (% of children 12-23 months)": 70,
+    "Immunization, HepB3 (% of one-year-old children)": 3,
+    "Immunization, DPT (% of children 12-23 months)": 71
+  },
+  {
+    "Time": 1993,
+    "Immunization, measles (% of children 12-23 months)": 70,
+    "Immunization, HepB3 (% of one-year-old children)": 5,
+    "Immunization, DPT (% of children 12-23 months)": 71
+  },
+  {
+    "Time": 1994,
+    "Immunization, measles (% of children 12-23 months)": 72,
+    "Immunization, HepB3 (% of one-year-old children)": 8,
+    "Immunization, DPT (% of children 12-23 months)": 73
+  },
+  {
+    "Time": 1995,
+    "Immunization, measles (% of children 12-23 months)": 74,
+    "Immunization, HepB3 (% of one-year-old children)": 12,
+    "Immunization, DPT (% of children 12-23 months)": 73
+  },
+  {
+    "Time": 1996,
+    "Immunization, measles (% of children 12-23 months)": 73,
+    "Immunization, HepB3 (% of one-year-old children)": 14,
+    "Immunization, DPT (% of children 12-23 months)": 72
+  },
+  {
+    "Time": 1997,
+    "Immunization, measles (% of children 12-23 months)": 71,
+    "Immunization, HepB3 (% of one-year-old children)": 15,
+    "Immunization, DPT (% of children 12-23 months)": 72
+  },
+  {
+    "Time": 1998,
+    "Immunization, measles (% of children 12-23 months)": 71,
+    "Immunization, HepB3 (% of one-year-old children)": 16,
+    "Immunization, DPT (% of children 12-23 months)": 72
+  },
+  {
+    "Time": 1999,
+    "Immunization, measles (% of children 12-23 months)": 72,
+    "Immunization, HepB3 (% of one-year-old children)": 18,
+    "Immunization, DPT (% of children 12-23 months)": 72
+  },
+  {
+    "Time": 2000,
+    "Immunization, measles (% of children 12-23 months)": 72,
+    "Immunization, HepB3 (% of one-year-old children)": 30,
+    "Immunization, DPT (% of children 12-23 months)": 73
+  },
+  {
+    "Time": 2001,
+    "Immunization, measles (% of children 12-23 months)": 73,
+    "Immunization, HepB3 (% of one-year-old children)": 33,
+    "Immunization, DPT (% of children 12-23 months)": 74
+  },
+  {
+    "Time": 2002,
+    "Immunization, measles (% of children 12-23 months)": 73,
+    "Immunization, HepB3 (% of one-year-old children)": 38,
+    "Immunization, DPT (% of children 12-23 months)": 73
+  },
+  {
+    "Time": 2003,
+    "Immunization, measles (% of children 12-23 months)": 74,
+    "Immunization, HepB3 (% of one-year-old children)": 45,
+    "Immunization, DPT (% of children 12-23 months)": 75
+  },
+  {
+    "Time": 2004,
+    "Immunization, measles (% of children 12-23 months)": 76,
+    "Immunization, HepB3 (% of one-year-old children)": 49,
+    "Immunization, DPT (% of children 12-23 months)": 77
+  },
+  {
+    "Time": 2005,
+    "Immunization, measles (% of children 12-23 months)": 77,
+    "Immunization, HepB3 (% of one-year-old children)": 54,
+    "Immunization, DPT (% of children 12-23 months)": 78
+  },
+  {
+    "Time": 2006,
+    "Immunization, measles (% of children 12-23 months)": 79,
+    "Immunization, HepB3 (% of one-year-old children)": 58,
+    "Immunization, DPT (% of children 12-23 months)": 79
+  },
+  {
+    "Time": 2007,
+    "Immunization, measles (% of children 12-23 months)": 80,
+    "Immunization, HepB3 (% of one-year-old children)": 63,
+    "Immunization, DPT (% of children 12-23 months)": 79
+  },
+  {
+    "Time": 2008,
+    "Immunization, measles (% of children 12-23 months)": 81,
+    "Immunization, HepB3 (% of one-year-old children)": 69,
+    "Immunization, DPT (% of children 12-23 months)": 81
+  },
+  {
+    "Time": 2009,
+    "Immunization, measles (% of children 12-23 months)": 83,
+    "Immunization, HepB3 (% of one-year-old children)": 73,
+    "Immunization, DPT (% of children 12-23 months)": 83
+  },
+  {
+    "Time": 2010,
+    "Immunization, measles (% of children 12-23 months)": 84,
+    "Immunization, HepB3 (% of one-year-old children)": 73,
+    "Immunization, DPT (% of children 12-23 months)": 84
+  },
+  {
+    "Time": 2011,
+    "Immunization, measles (% of children 12-23 months)": 85,
+    "Immunization, HepB3 (% of one-year-old children)": 74,
+    "Immunization, DPT (% of children 12-23 months)": 85
+  },
+  {
+    "Time": 2012,
+    "Immunization, measles (% of children 12-23 months)": 84,
+    "Immunization, HepB3 (% of one-year-old children)": 80,
+    "Immunization, DPT (% of children 12-23 months)": 85
+  },
+  {
+    "Time": 2013,
+    "Immunization, measles (% of children 12-23 months)": 84,
+    "Immunization, HepB3 (% of one-year-old children)": 80,
+    "Immunization, DPT (% of children 12-23 months)": 84
+  },
+  {
+    "Time": 2014,
+    "Immunization, measles (% of children 12-23 months)": 85,
+    "Immunization, HepB3 (% of one-year-old children)": 82,
+    "Immunization, DPT (% of children 12-23 months)": 85
+  },
+  {
+    "Time": 2015,
+    "Immunization, measles (% of children 12-23 months)": 85,
+    "Immunization, HepB3 (% of one-year-old children)": 83,
+    "Immunization, DPT (% of children 12-23 months)": 85
+  },
+  {
+    "Time": 2016,
+    "Immunization, measles (% of children 12-23 months)": 85,
+    "Immunization, HepB3 (% of one-year-old children)": 84,
+    "Immunization, DPT (% of children 12-23 months)": 86
+  },
+  {
+    "Time": 2017,
+    "Immunization, measles (% of children 12-23 months)": 86,
+    "Immunization, HepB3 (% of one-year-old children)": 84,
+    "Immunization, DPT (% of children 12-23 months)": 86
+  },
+  {
+    "Time": 2018,
+    "Immunization, measles (% of children 12-23 months)": 86,
+    "Immunization, HepB3 (% of one-year-old children)": 84,
+    "Immunization, DPT (% of children 12-23 months)": 86
+  },
+  {
+    "Time": 2019,
+    "Immunization, measles (% of children 12-23 months)": 86,
+    "Immunization, HepB3 (% of one-year-old children)": 86,
+    "Immunization, DPT (% of children 12-23 months)": 86
+  },
+  {
+    "Time": 2020,
+    "Immunization, measles (% of children 12-23 months)": 84,
+    "Immunization, HepB3 (% of one-year-old children)": 83,
+    "Immunization, DPT (% of children 12-23 months)": 84
+  },
+  {
+    "Time": 2021,
+    "Immunization, measles (% of children 12-23 months)": 83,
+    "Immunization, HepB3 (% of one-year-old children)": 82,
+    "Immunization, DPT (% of children 12-23 months)": 82
+  }
+]

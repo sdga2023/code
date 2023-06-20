@@ -1,0 +1,1112 @@
+[
+  {
+    "iso3c": "WLD",
+    "year": 2020,
+    "rate": 5.605310066,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2020,
+    "rate": 0.9734539546,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2020,
+    "rate": 2.468751589,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2020,
+    "rate": 20.07931171,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2020,
+    "rate": 3.538911259,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2020,
+    "rate": 5.970432692,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2020,
+    "rate": 3.036021598,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2020,
+    "rate": 13.2486586,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2020,
+    "rate": 2.119674752,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "AND",
+    "year": 2020,
+    "rate": 2.588494144,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2020,
+    "rate": 5.345632182,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2020,
+    "rate": 1.754839476,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2020,
+    "rate": 9.190425619,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2020,
+    "rate": 0.8666707111,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2020,
+    "rate": 0.7217090069,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2020,
+    "rate": 2.268429137,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2020,
+    "rate": 0.9930279365,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2020,
+    "rate": 18.56334934,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2020,
+    "rate": 1.310649945,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2020,
+    "rate": 25.65256865,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2020,
+    "rate": 22.45113506,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2020,
+    "rate": 14.26727123,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2020,
+    "rate": 2.462377464,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2020,
+    "rate": 1.968620924,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2020,
+    "rate": 0.5430626747,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2020,
+    "rate": 4.844056685,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "COL",
+    "year": 2020,
+    "rate": 22.64022613,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2020,
+    "rate": 6.474959891,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2020,
+    "rate": 11.18938445,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2020,
+    "rate": 1.24237904,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2020,
+    "rate": 0.7190225924,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2020,
+    "rate": 0.9333530428,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2020,
+    "rate": 20.83593783,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2020,
+    "rate": 0.9495523551,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2020,
+    "rate": 8.858854208,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2020,
+    "rate": 1.322659532,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2020,
+    "rate": 7.776428805,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2020,
+    "rate": 0.6373679459,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "EST",
+    "year": 2020,
+    "rate": 3.166133826,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2020,
+    "rate": 1.64238642,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2020,
+    "rate": 2.231037298,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2020,
+    "rate": 1.346641192,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2020,
+    "rate": 0.7483409856,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2020,
+    "rate": 12.44234307,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2020,
+    "rate": 17.46525801,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2020,
+    "rate": 19.96035898,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2020,
+    "rate": 0.2934511833,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "HND",
+    "year": 2020,
+    "rate": 36.326526,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2020,
+    "rate": 0.9743578251,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2020,
+    "rate": 0.8281273453,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "IND",
+    "year": 2020,
+    "rate": 2.945715278,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2020,
+    "rate": 0.6885663158,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2020,
+    "rate": 1.465201465,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2020,
+    "rate": 0.4713717885,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2020,
+    "rate": 44.94858604,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2020,
+    "rate": 1.19571034,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2020,
+    "rate": 0.2514301911,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2020,
+    "rate": 3.227402973,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2020,
+    "rate": 3.457234621,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2020,
+    "rate": 1.747343081,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2020,
+    "rate": 18.79981952,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2020,
+    "rate": 0.6007507473,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2020,
+    "rate": 1.875336425,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2020,
+    "rate": 28.31796721,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2020,
+    "rate": 2.622125495,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2020,
+    "rate": 3.710110345,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2020,
+    "rate": 0.1597505336,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2020,
+    "rate": 3.711161371,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2020,
+    "rate": 0.3080041026,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2020,
+    "rate": 1.240837378,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2020,
+    "rate": 2.305425211,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2020,
+    "rate": 28.3706034,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2020,
+    "rate": 1.58536392,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2020,
+    "rate": 0.009189522019,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2020,
+    "rate": 2.865959093,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2020,
+    "rate": 5.978723067,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2020,
+    "rate": 2.752076442,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2020,
+    "rate": 11.92483341,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2020,
+    "rate": 0.6244575025,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2020,
+    "rate": 0.5718246852,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2020,
+    "rate": 0.274153834,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2020,
+    "rate": 3.843501475,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2020,
+    "rate": 11.58810856,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "POL",
+    "year": 2020,
+    "rate": 0.7028371501,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2020,
+    "rate": 18.49107255,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2020,
+    "rate": 0.9120591579,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2020,
+    "rate": 6.743750114,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2020,
+    "rate": 0.9409152282,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2020,
+    "rate": 0.4165133666,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2020,
+    "rate": 1.46067494,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2020,
+    "rate": 7.330002797,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2020,
+    "rate": 0.1709301489,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2020,
+    "rate": 1.018613152,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2020,
+    "rate": 9.375522046,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2020,
+    "rate": 1.153921603,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2020,
+    "rate": 0.5291178355,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2020,
+    "rate": 1.227811515,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2020,
+    "rate": 0.9121751477,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2020,
+    "rate": 4.755209112,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2020,
+    "rate": 2.484020839,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2020,
+    "rate": 9.750552021,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "URY",
+    "year": 2020,
+    "rate": 9.701395648,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "USA",
+    "year": 2020,
+    "rate": 6.516564201,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2020,
+    "rate": 0.3255738239,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2020,
+    "rate": 33.4622127,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2019,
+    "rate": 5.564134104,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2019,
+    "rate": 0.9641006289,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2019,
+    "rate": 2.525112031,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2019,
+    "rate": 20.92848514,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2019,
+    "rate": 3.826437848,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2019,
+    "rate": 4.665963146,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2019,
+    "rate": 3.040362747,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2019,
+    "rate": 13.54182051,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2018,
+    "rate": 5.774733653,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2018,
+    "rate": 1.013518285,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2018,
+    "rate": 2.681134883,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2018,
+    "rate": 23.13063685,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2018,
+    "rate": 4.016917112,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2018,
+    "rate": 4.614224944,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2018,
+    "rate": 3.080889962,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2018,
+    "rate": 13.5648659,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2017,
+    "rate": 5.906905873,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2017,
+    "rate": 1.153664145,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2017,
+    "rate": 2.942393223,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2017,
+    "rate": 23.93086334,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2017,
+    "rate": 3.951261945,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2017,
+    "rate": 4.903265806,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2017,
+    "rate": 3.099347033,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2017,
+    "rate": 13.79865277,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2016,
+    "rate": 5.947845376,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2016,
+    "rate": 1.316020944,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2016,
+    "rate": 3.3023653,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2016,
+    "rate": 23.47039576,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2016,
+    "rate": 3.807469838,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2016,
+    "rate": 4.962480778,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2016,
+    "rate": 3.221906473,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2016,
+    "rate": 13.62561194,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2015,
+    "rate": 5.911968893,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2015,
+    "rate": 1.294059949,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2015,
+    "rate": 3.348630626,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2015,
+    "rate": 22.64245328,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2015,
+    "rate": 3.695298951,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2015,
+    "rate": 4.577375291,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2015,
+    "rate": 3.510020511,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2015,
+    "rate": 13.67761402,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2014,
+    "rate": 6.032096376,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2014,
+    "rate": 1.366635523,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2014,
+    "rate": 3.380698294,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2014,
+    "rate": 23.31381748,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2014,
+    "rate": 3.862496487,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2014,
+    "rate": 4.109068766,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2014,
+    "rate": 3.942435173,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2014,
+    "rate": 13.71382727,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2013,
+    "rate": 6.032025006,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2013,
+    "rate": 1.383780296,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2013,
+    "rate": 3.385297794,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2013,
+    "rate": 23.69923388,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2013,
+    "rate": 3.916379606,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2013,
+    "rate": 4.184175212,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2013,
+    "rate": 3.918339304,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2013,
+    "rate": 13.62969874,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2012,
+    "rate": 6.113175523,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2012,
+    "rate": 1.429520648,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2012,
+    "rate": 3.499276167,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2012,
+    "rate": 24.40909318,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2012,
+    "rate": 3.720243317,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2012,
+    "rate": 4.385231519,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2012,
+    "rate": 4.023335241,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2012,
+    "rate": 13.65871847,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2011,
+    "rate": 6.083969712,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2011,
+    "rate": 1.452625068,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2011,
+    "rate": 3.545247178,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2011,
+    "rate": 24.23655784,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2011,
+    "rate": 3.800983044,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2011,
+    "rate": 4.3860446,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2011,
+    "rate": 4.044339766,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2011,
+    "rate": 13.57751006,
+    "region_iso3c": "SSF"
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2010,
+    "rate": 6.04961649,
+    "region_iso3c": "WLD"
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2010,
+    "rate": 1.545120335,
+    "region_iso3c": "EAS"
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2010,
+    "rate": 3.67990945,
+    "region_iso3c": "ECS"
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2010,
+    "rate": 23.79515045,
+    "region_iso3c": "LCN"
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2010,
+    "rate": 2.898029618,
+    "region_iso3c": "MEA"
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2010,
+    "rate": 4.427743427,
+    "region_iso3c": "NAC"
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2010,
+    "rate": 3.987784394,
+    "region_iso3c": "SAS"
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2010,
+    "rate": 13.62078497,
+    "region_iso3c": "SSF"
+  }
+]

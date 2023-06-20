@@ -1,0 +1,5952 @@
+[
+  {
+    "year": 1850,
+    "variable": "sim.human.mean",
+    "value": -0.047589067
+  },
+  {
+    "year": 1850,
+    "variable": "sim.human.bottom",
+    "value": -0.354805453
+  },
+  {
+    "year": 1850,
+    "variable": "sim.human.top",
+    "value": 0.189713425
+  },
+  {
+    "year": 1850,
+    "variable": "sim.natural.mean",
+    "value": 0.014601711
+  },
+  {
+    "year": 1850,
+    "variable": "sim.natural.bottom",
+    "value": -0.161194852
+  },
+  {
+    "year": 1850,
+    "variable": "sim.natural.top",
+    "value": 0.196198251
+  },
+  {
+    "year": 1850,
+    "variable": "observed",
+    "value": -0.059
+  },
+  {
+    "year": 1851,
+    "variable": "sim.human.mean",
+    "value": -0.0587609
+  },
+  {
+    "year": 1851,
+    "variable": "sim.human.bottom",
+    "value": -0.313444988
+  },
+  {
+    "year": 1851,
+    "variable": "sim.human.top",
+    "value": 0.149283344
+  },
+  {
+    "year": 1851,
+    "variable": "sim.natural.mean",
+    "value": 0.024195142
+  },
+  {
+    "year": 1851,
+    "variable": "sim.natural.bottom",
+    "value": -0.132960808
+  },
+  {
+    "year": 1851,
+    "variable": "sim.natural.top",
+    "value": 0.179927922
+  },
+  {
+    "year": 1851,
+    "variable": "observed",
+    "value": 0.049
+  },
+  {
+    "year": 1852,
+    "variable": "sim.human.mean",
+    "value": -0.002935225
+  },
+  {
+    "year": 1852,
+    "variable": "sim.human.bottom",
+    "value": -0.174405998
+  },
+  {
+    "year": 1852,
+    "variable": "sim.human.top",
+    "value": 0.198392534
+  },
+  {
+    "year": 1852,
+    "variable": "sim.natural.mean",
+    "value": 0.052558101
+  },
+  {
+    "year": 1852,
+    "variable": "sim.natural.bottom",
+    "value": -0.202665503
+  },
+  {
+    "year": 1852,
+    "variable": "sim.natural.top",
+    "value": 0.221705736
+  },
+  {
+    "year": 1852,
+    "variable": "observed",
+    "value": 0.079
+  },
+  {
+    "year": 1853,
+    "variable": "sim.human.mean",
+    "value": -0.005929254
+  },
+  {
+    "year": 1853,
+    "variable": "sim.human.bottom",
+    "value": -0.214802082
+  },
+  {
+    "year": 1853,
+    "variable": "sim.human.top",
+    "value": 0.217604497
+  },
+  {
+    "year": 1853,
+    "variable": "sim.natural.mean",
+    "value": 0.029406348
+  },
+  {
+    "year": 1853,
+    "variable": "sim.natural.bottom",
+    "value": -0.266415836
+  },
+  {
+    "year": 1853,
+    "variable": "sim.natural.top",
+    "value": 0.178987378
+  },
+  {
+    "year": 1853,
+    "variable": "observed",
+    "value": 0.046
+  },
+  {
+    "year": 1854,
+    "variable": "sim.human.mean",
+    "value": -0.02661051
+  },
+  {
+    "year": 1854,
+    "variable": "sim.human.bottom",
+    "value": -0.22444698
+  },
+  {
+    "year": 1854,
+    "variable": "sim.human.top",
+    "value": 0.221410287
+  },
+  {
+    "year": 1854,
+    "variable": "sim.natural.mean",
+    "value": -0.009960666
+  },
+  {
+    "year": 1854,
+    "variable": "sim.natural.bottom",
+    "value": -0.255841263
+  },
+  {
+    "year": 1854,
+    "variable": "sim.natural.top",
+    "value": 0.152484503
+  },
+  {
+    "year": 1854,
+    "variable": "observed",
+    "value": 0.049
+  },
+  {
+    "year": 1855,
+    "variable": "sim.human.mean",
+    "value": -0.040779637
+  },
+  {
+    "year": 1855,
+    "variable": "sim.human.bottom",
+    "value": -0.296848854
+  },
+  {
+    "year": 1855,
+    "variable": "sim.human.top",
+    "value": 0.176621462
+  },
+  {
+    "year": 1855,
+    "variable": "sim.natural.mean",
+    "value": 0.021857917
+  },
+  {
+    "year": 1855,
+    "variable": "sim.natural.bottom",
+    "value": -0.140246015
+  },
+  {
+    "year": 1855,
+    "variable": "sim.natural.top",
+    "value": 0.172700841
+  },
+  {
+    "year": 1855,
+    "variable": "observed",
+    "value": 0.049
+  },
+  {
+    "year": 1856,
+    "variable": "sim.human.mean",
+    "value": -0.018319423
+  },
+  {
+    "year": 1856,
+    "variable": "sim.human.bottom",
+    "value": -0.244318593
+  },
+  {
+    "year": 1856,
+    "variable": "sim.human.top",
+    "value": 0.15992075
+  },
+  {
+    "year": 1856,
+    "variable": "sim.natural.mean",
+    "value": 0.045474761
+  },
+  {
+    "year": 1856,
+    "variable": "sim.natural.bottom",
+    "value": -0.149765947
+  },
+  {
+    "year": 1856,
+    "variable": "sim.natural.top",
+    "value": 0.237740286
+  },
+  {
+    "year": 1856,
+    "variable": "observed",
+    "value": -0.051
+  },
+  {
+    "year": 1857,
+    "variable": "sim.human.mean",
+    "value": -0.006555268
+  },
+  {
+    "year": 1857,
+    "variable": "sim.human.bottom",
+    "value": -0.241976795
+  },
+  {
+    "year": 1857,
+    "variable": "sim.human.top",
+    "value": 0.163118579
+  },
+  {
+    "year": 1857,
+    "variable": "sim.natural.mean",
+    "value": 0.050381633
+  },
+  {
+    "year": 1857,
+    "variable": "sim.natural.bottom",
+    "value": -0.164955333
+  },
+  {
+    "year": 1857,
+    "variable": "sim.natural.top",
+    "value": 0.23089861
+  },
+  {
+    "year": 1857,
+    "variable": "observed",
+    "value": -0.146
+  },
+  {
+    "year": 1858,
+    "variable": "sim.human.mean",
+    "value": -0.00164062
+  },
+  {
+    "year": 1858,
+    "variable": "sim.human.bottom",
+    "value": -0.172899363
+  },
+  {
+    "year": 1858,
+    "variable": "sim.human.top",
+    "value": 0.151385153
+  },
+  {
+    "year": 1858,
+    "variable": "sim.natural.mean",
+    "value": 0.045669269
+  },
+  {
+    "year": 1858,
+    "variable": "sim.natural.bottom",
+    "value": -0.165621024
+  },
+  {
+    "year": 1858,
+    "variable": "sim.natural.top",
+    "value": 0.240100625
+  },
+  {
+    "year": 1858,
+    "variable": "observed",
+    "value": -0.039
+  },
+  {
+    "year": 1859,
+    "variable": "sim.human.mean",
+    "value": 0.047702436
+  },
+  {
+    "year": 1859,
+    "variable": "sim.human.bottom",
+    "value": -0.162034514
+  },
+  {
+    "year": 1859,
+    "variable": "sim.human.top",
+    "value": 0.268041057
+  },
+  {
+    "year": 1859,
+    "variable": "sim.natural.mean",
+    "value": 0.023078907
+  },
+  {
+    "year": 1859,
+    "variable": "sim.natural.bottom",
+    "value": -0.190080711
+  },
+  {
+    "year": 1859,
+    "variable": "sim.natural.top",
+    "value": 0.229366525
+  },
+  {
+    "year": 1859,
+    "variable": "observed",
+    "value": 0.069
+  },
+  {
+    "year": 1860,
+    "variable": "sim.human.mean",
+    "value": 0.027734896
+  },
+  {
+    "year": 1860,
+    "variable": "sim.human.bottom",
+    "value": -0.133395428
+  },
+  {
+    "year": 1860,
+    "variable": "sim.human.top",
+    "value": 0.254483192
+  },
+  {
+    "year": 1860,
+    "variable": "sim.natural.mean",
+    "value": 0.03542896
+  },
+  {
+    "year": 1860,
+    "variable": "sim.natural.bottom",
+    "value": -0.211806384
+  },
+  {
+    "year": 1860,
+    "variable": "sim.natural.top",
+    "value": 0.26159585
+  },
+  {
+    "year": 1860,
+    "variable": "observed",
+    "value": -0.056
+  },
+  {
+    "year": 1861,
+    "variable": "sim.human.mean",
+    "value": -0.002071792
+  },
+  {
+    "year": 1861,
+    "variable": "sim.human.bottom",
+    "value": -0.168510454
+  },
+  {
+    "year": 1861,
+    "variable": "sim.human.top",
+    "value": 0.162532951
+  },
+  {
+    "year": 1861,
+    "variable": "sim.natural.mean",
+    "value": 0.022121782
+  },
+  {
+    "year": 1861,
+    "variable": "sim.natural.bottom",
+    "value": -0.171526957
+  },
+  {
+    "year": 1861,
+    "variable": "sim.natural.top",
+    "value": 0.213562632
+  },
+  {
+    "year": 1861,
+    "variable": "observed",
+    "value": -0.091
+  },
+  {
+    "year": 1862,
+    "variable": "sim.human.mean",
+    "value": -0.065181407
+  },
+  {
+    "year": 1862,
+    "variable": "sim.human.bottom",
+    "value": -0.292773735
+  },
+  {
+    "year": 1862,
+    "variable": "sim.human.top",
+    "value": 0.113183863
+  },
+  {
+    "year": 1862,
+    "variable": "sim.natural.mean",
+    "value": -0.04920704
+  },
+  {
+    "year": 1862,
+    "variable": "sim.natural.bottom",
+    "value": -0.226483793
+  },
+  {
+    "year": 1862,
+    "variable": "sim.natural.top",
+    "value": 0.153153594
+  },
+  {
+    "year": 1862,
+    "variable": "observed",
+    "value": -0.154
+  },
+  {
+    "year": 1863,
+    "variable": "sim.human.mean",
+    "value": -0.058304831
+  },
+  {
+    "year": 1863,
+    "variable": "sim.human.bottom",
+    "value": -0.314808842
+  },
+  {
+    "year": 1863,
+    "variable": "sim.human.top",
+    "value": 0.129526023
+  },
+  {
+    "year": 1863,
+    "variable": "sim.natural.mean",
+    "value": -0.03011481
+  },
+  {
+    "year": 1863,
+    "variable": "sim.natural.bottom",
+    "value": -0.167196533
+  },
+  {
+    "year": 1863,
+    "variable": "sim.natural.top",
+    "value": 0.147960584
+  },
+  {
+    "year": 1863,
+    "variable": "observed",
+    "value": 0.001
+  },
+  {
+    "year": 1864,
+    "variable": "sim.human.mean",
+    "value": -0.018636125
+  },
+  {
+    "year": 1864,
+    "variable": "sim.human.bottom",
+    "value": -0.198632338
+  },
+  {
+    "year": 1864,
+    "variable": "sim.human.top",
+    "value": 0.142201384
+  },
+  {
+    "year": 1864,
+    "variable": "sim.natural.mean",
+    "value": 0.004565547
+  },
+  {
+    "year": 1864,
+    "variable": "sim.natural.bottom",
+    "value": -0.149784115
+  },
+  {
+    "year": 1864,
+    "variable": "sim.natural.top",
+    "value": 0.173313637
+  },
+  {
+    "year": 1864,
+    "variable": "observed",
+    "value": -0.049
+  },
+  {
+    "year": 1865,
+    "variable": "sim.human.mean",
+    "value": -0.006650049
+  },
+  {
+    "year": 1865,
+    "variable": "sim.human.bottom",
+    "value": -0.230074559
+  },
+  {
+    "year": 1865,
+    "variable": "sim.human.top",
+    "value": 0.176354737
+  },
+  {
+    "year": 1865,
+    "variable": "sim.natural.mean",
+    "value": 0.031661599
+  },
+  {
+    "year": 1865,
+    "variable": "sim.natural.bottom",
+    "value": -0.155231968
+  },
+  {
+    "year": 1865,
+    "variable": "sim.natural.top",
+    "value": 0.199021194
+  },
+  {
+    "year": 1865,
+    "variable": "observed",
+    "value": 0.034
+  },
+  {
+    "year": 1866,
+    "variable": "sim.human.mean",
+    "value": -0.004301854
+  },
+  {
+    "year": 1866,
+    "variable": "sim.human.bottom",
+    "value": -0.198358104
+  },
+  {
+    "year": 1866,
+    "variable": "sim.human.top",
+    "value": 0.196291341
+  },
+  {
+    "year": 1866,
+    "variable": "sim.natural.mean",
+    "value": 0.023653436
+  },
+  {
+    "year": 1866,
+    "variable": "sim.natural.bottom",
+    "value": -0.125397959
+  },
+  {
+    "year": 1866,
+    "variable": "sim.natural.top",
+    "value": 0.23773315
+  },
+  {
+    "year": 1866,
+    "variable": "observed",
+    "value": 0.051
+  },
+  {
+    "year": 1867,
+    "variable": "sim.human.mean",
+    "value": 0.020590351
+  },
+  {
+    "year": 1867,
+    "variable": "sim.human.bottom",
+    "value": -0.177950777
+  },
+  {
+    "year": 1867,
+    "variable": "sim.human.top",
+    "value": 0.186489812
+  },
+  {
+    "year": 1867,
+    "variable": "sim.natural.mean",
+    "value": 0.008053238
+  },
+  {
+    "year": 1867,
+    "variable": "sim.natural.bottom",
+    "value": -0.183871278
+  },
+  {
+    "year": 1867,
+    "variable": "sim.natural.top",
+    "value": 0.261967657
+  },
+  {
+    "year": 1867,
+    "variable": "observed",
+    "value": 0.049
+  },
+  {
+    "year": 1868,
+    "variable": "sim.human.mean",
+    "value": 0.038770305
+  },
+  {
+    "year": 1868,
+    "variable": "sim.human.bottom",
+    "value": -0.099916317
+  },
+  {
+    "year": 1868,
+    "variable": "sim.human.top",
+    "value": 0.205619822
+  },
+  {
+    "year": 1868,
+    "variable": "sim.natural.mean",
+    "value": 0.023156423
+  },
+  {
+    "year": 1868,
+    "variable": "sim.natural.bottom",
+    "value": -0.144773341
+  },
+  {
+    "year": 1868,
+    "variable": "sim.natural.top",
+    "value": 0.267448494
+  },
+  {
+    "year": 1868,
+    "variable": "observed",
+    "value": 0.061
+  },
+  {
+    "year": 1869,
+    "variable": "sim.human.mean",
+    "value": 0.040968948
+  },
+  {
+    "year": 1869,
+    "variable": "sim.human.bottom",
+    "value": -0.110003984
+  },
+  {
+    "year": 1869,
+    "variable": "sim.human.top",
+    "value": 0.238740219
+  },
+  {
+    "year": 1869,
+    "variable": "sim.natural.mean",
+    "value": 0.013349654
+  },
+  {
+    "year": 1869,
+    "variable": "sim.natural.bottom",
+    "value": -0.172452946
+  },
+  {
+    "year": 1869,
+    "variable": "sim.natural.top",
+    "value": 0.170789214
+  },
+  {
+    "year": 1869,
+    "variable": "observed",
+    "value": 0.059
+  },
+  {
+    "year": 1870,
+    "variable": "sim.human.mean",
+    "value": 0.030073653
+  },
+  {
+    "year": 1870,
+    "variable": "sim.human.bottom",
+    "value": -0.155724733
+  },
+  {
+    "year": 1870,
+    "variable": "sim.human.top",
+    "value": 0.213713605
+  },
+  {
+    "year": 1870,
+    "variable": "sim.natural.mean",
+    "value": 0.021149824
+  },
+  {
+    "year": 1870,
+    "variable": "sim.natural.bottom",
+    "value": -0.195819403
+  },
+  {
+    "year": 1870,
+    "variable": "sim.natural.top",
+    "value": 0.233799936
+  },
+  {
+    "year": 1870,
+    "variable": "observed",
+    "value": 0.021
+  },
+  {
+    "year": 1871,
+    "variable": "sim.human.mean",
+    "value": 0.047054314
+  },
+  {
+    "year": 1871,
+    "variable": "sim.human.bottom",
+    "value": -0.141626763
+  },
+  {
+    "year": 1871,
+    "variable": "sim.human.top",
+    "value": 0.198207917
+  },
+  {
+    "year": 1871,
+    "variable": "sim.natural.mean",
+    "value": 0.035908555
+  },
+  {
+    "year": 1871,
+    "variable": "sim.natural.bottom",
+    "value": -0.113509569
+  },
+  {
+    "year": 1871,
+    "variable": "sim.natural.top",
+    "value": 0.188667574
+  },
+  {
+    "year": 1871,
+    "variable": "observed",
+    "value": -0.006
+  },
+  {
+    "year": 1872,
+    "variable": "sim.human.mean",
+    "value": 0.037234902
+  },
+  {
+    "year": 1872,
+    "variable": "sim.human.bottom",
+    "value": -0.154900008
+  },
+  {
+    "year": 1872,
+    "variable": "sim.human.top",
+    "value": 0.212720135
+  },
+  {
+    "year": 1872,
+    "variable": "sim.natural.mean",
+    "value": 0.055116969
+  },
+  {
+    "year": 1872,
+    "variable": "sim.natural.bottom",
+    "value": -0.144279556
+  },
+  {
+    "year": 1872,
+    "variable": "sim.natural.top",
+    "value": 0.250955442
+  },
+  {
+    "year": 1872,
+    "variable": "observed",
+    "value": 0.024
+  },
+  {
+    "year": 1873,
+    "variable": "sim.human.mean",
+    "value": 0.012844308
+  },
+  {
+    "year": 1873,
+    "variable": "sim.human.bottom",
+    "value": -0.159714273
+  },
+  {
+    "year": 1873,
+    "variable": "sim.human.top",
+    "value": 0.178137554
+  },
+  {
+    "year": 1873,
+    "variable": "sim.natural.mean",
+    "value": 0.028735082
+  },
+  {
+    "year": 1873,
+    "variable": "sim.natural.bottom",
+    "value": -0.145103284
+  },
+  {
+    "year": 1873,
+    "variable": "sim.natural.top",
+    "value": 0.188260649
+  },
+  {
+    "year": 1873,
+    "variable": "observed",
+    "value": 0.016
+  },
+  {
+    "year": 1874,
+    "variable": "sim.human.mean",
+    "value": 0.048609605
+  },
+  {
+    "year": 1874,
+    "variable": "sim.human.bottom",
+    "value": -0.152710998
+  },
+  {
+    "year": 1874,
+    "variable": "sim.human.top",
+    "value": 0.204779046
+  },
+  {
+    "year": 1874,
+    "variable": "sim.natural.mean",
+    "value": 0.034085323
+  },
+  {
+    "year": 1874,
+    "variable": "sim.natural.bottom",
+    "value": -0.166578145
+  },
+  {
+    "year": 1874,
+    "variable": "sim.natural.top",
+    "value": 0.207452757
+  },
+  {
+    "year": 1874,
+    "variable": "observed",
+    "value": -0.021
+  },
+  {
+    "year": 1875,
+    "variable": "sim.human.mean",
+    "value": 0.040253734
+  },
+  {
+    "year": 1875,
+    "variable": "sim.human.bottom",
+    "value": -0.153072908
+  },
+  {
+    "year": 1875,
+    "variable": "sim.human.top",
+    "value": 0.251078293
+  },
+  {
+    "year": 1875,
+    "variable": "sim.natural.mean",
+    "value": 0.047420227
+  },
+  {
+    "year": 1875,
+    "variable": "sim.natural.bottom",
+    "value": -0.113297739
+  },
+  {
+    "year": 1875,
+    "variable": "sim.natural.top",
+    "value": 0.239910603
+  },
+  {
+    "year": 1875,
+    "variable": "observed",
+    "value": -0.006
+  },
+  {
+    "year": 1876,
+    "variable": "sim.human.mean",
+    "value": 0.059260549
+  },
+  {
+    "year": 1876,
+    "variable": "sim.human.bottom",
+    "value": -0.121105744
+  },
+  {
+    "year": 1876,
+    "variable": "sim.human.top",
+    "value": 0.283413191
+  },
+  {
+    "year": 1876,
+    "variable": "sim.natural.mean",
+    "value": 0.028220816
+  },
+  {
+    "year": 1876,
+    "variable": "sim.natural.bottom",
+    "value": -0.141674431
+  },
+  {
+    "year": 1876,
+    "variable": "sim.natural.top",
+    "value": 0.230603491
+  },
+  {
+    "year": 1876,
+    "variable": "observed",
+    "value": -0.044
+  },
+  {
+    "year": 1877,
+    "variable": "sim.human.mean",
+    "value": 0.058827471
+  },
+  {
+    "year": 1877,
+    "variable": "sim.human.bottom",
+    "value": -0.086076921
+  },
+  {
+    "year": 1877,
+    "variable": "sim.human.top",
+    "value": 0.22777516
+  },
+  {
+    "year": 1877,
+    "variable": "sim.natural.mean",
+    "value": 0.035017849
+  },
+  {
+    "year": 1877,
+    "variable": "sim.natural.bottom",
+    "value": -0.132164017
+  },
+  {
+    "year": 1877,
+    "variable": "sim.natural.top",
+    "value": 0.207860465
+  },
+  {
+    "year": 1877,
+    "variable": "observed",
+    "value": 0.271
+  },
+  {
+    "year": 1878,
+    "variable": "sim.human.mean",
+    "value": 0.032909238
+  },
+  {
+    "year": 1878,
+    "variable": "sim.human.bottom",
+    "value": -0.092814053
+  },
+  {
+    "year": 1878,
+    "variable": "sim.human.top",
+    "value": 0.206222892
+  },
+  {
+    "year": 1878,
+    "variable": "sim.natural.mean",
+    "value": 0.027086467
+  },
+  {
+    "year": 1878,
+    "variable": "sim.natural.bottom",
+    "value": -0.119590324
+  },
+  {
+    "year": 1878,
+    "variable": "sim.natural.top",
+    "value": 0.169044637
+  },
+  {
+    "year": 1878,
+    "variable": "observed",
+    "value": 0.331
+  },
+  {
+    "year": 1879,
+    "variable": "sim.human.mean",
+    "value": 0.056853664
+  },
+  {
+    "year": 1879,
+    "variable": "sim.human.bottom",
+    "value": -0.132008714
+  },
+  {
+    "year": 1879,
+    "variable": "sim.human.top",
+    "value": 0.269553276
+  },
+  {
+    "year": 1879,
+    "variable": "sim.natural.mean",
+    "value": 0.012734084
+  },
+  {
+    "year": 1879,
+    "variable": "sim.natural.bottom",
+    "value": -0.126603071
+  },
+  {
+    "year": 1879,
+    "variable": "sim.natural.top",
+    "value": 0.179053312
+  },
+  {
+    "year": 1879,
+    "variable": "observed",
+    "value": 0.084
+  },
+  {
+    "year": 1880,
+    "variable": "sim.human.mean",
+    "value": 0.060643739
+  },
+  {
+    "year": 1880,
+    "variable": "sim.human.bottom",
+    "value": -0.23460668
+  },
+  {
+    "year": 1880,
+    "variable": "sim.human.top",
+    "value": 0.255752415
+  },
+  {
+    "year": 1880,
+    "variable": "sim.natural.mean",
+    "value": 0.019941833
+  },
+  {
+    "year": 1880,
+    "variable": "sim.natural.bottom",
+    "value": -0.163441761
+  },
+  {
+    "year": 1880,
+    "variable": "sim.natural.top",
+    "value": 0.202038991
+  },
+  {
+    "year": 1880,
+    "variable": "observed",
+    "value": 0.031
+  },
+  {
+    "year": 1881,
+    "variable": "sim.human.mean",
+    "value": 0.039885226
+  },
+  {
+    "year": 1881,
+    "variable": "sim.human.bottom",
+    "value": -0.135015466
+  },
+  {
+    "year": 1881,
+    "variable": "sim.human.top",
+    "value": 0.216224145
+  },
+  {
+    "year": 1881,
+    "variable": "sim.natural.mean",
+    "value": 0.008556476
+  },
+  {
+    "year": 1881,
+    "variable": "sim.natural.bottom",
+    "value": -0.185411078
+  },
+  {
+    "year": 1881,
+    "variable": "sim.natural.top",
+    "value": 0.218264539
+  },
+  {
+    "year": 1881,
+    "variable": "observed",
+    "value": 0.116
+  },
+  {
+    "year": 1882,
+    "variable": "sim.human.mean",
+    "value": 0.037445312
+  },
+  {
+    "year": 1882,
+    "variable": "sim.human.bottom",
+    "value": -0.140371049
+  },
+  {
+    "year": 1882,
+    "variable": "sim.human.top",
+    "value": 0.214061354
+  },
+  {
+    "year": 1882,
+    "variable": "sim.natural.mean",
+    "value": 0.019893915
+  },
+  {
+    "year": 1882,
+    "variable": "sim.natural.bottom",
+    "value": -0.143303718
+  },
+  {
+    "year": 1882,
+    "variable": "sim.natural.top",
+    "value": 0.219195338
+  },
+  {
+    "year": 1882,
+    "variable": "observed",
+    "value": 0.064
+  },
+  {
+    "year": 1883,
+    "variable": "sim.human.mean",
+    "value": 0.033915337
+  },
+  {
+    "year": 1883,
+    "variable": "sim.human.bottom",
+    "value": -0.193947117
+  },
+  {
+    "year": 1883,
+    "variable": "sim.human.top",
+    "value": 0.159613885
+  },
+  {
+    "year": 1883,
+    "variable": "sim.natural.mean",
+    "value": 0.002828359
+  },
+  {
+    "year": 1883,
+    "variable": "sim.natural.bottom",
+    "value": -0.26860031
+  },
+  {
+    "year": 1883,
+    "variable": "sim.natural.top",
+    "value": 0.221358867
+  },
+  {
+    "year": 1883,
+    "variable": "observed",
+    "value": -0.001
+  },
+  {
+    "year": 1884,
+    "variable": "sim.human.mean",
+    "value": -0.221545164
+  },
+  {
+    "year": 1884,
+    "variable": "sim.human.bottom",
+    "value": -0.410746606
+  },
+  {
+    "year": 1884,
+    "variable": "sim.human.top",
+    "value": -0.032384641
+  },
+  {
+    "year": 1884,
+    "variable": "sim.natural.mean",
+    "value": -0.250612972
+  },
+  {
+    "year": 1884,
+    "variable": "sim.natural.bottom",
+    "value": -0.596942753
+  },
+  {
+    "year": 1884,
+    "variable": "sim.natural.top",
+    "value": 0.049738017
+  },
+  {
+    "year": 1884,
+    "variable": "observed",
+    "value": -0.129
+  },
+  {
+    "year": 1885,
+    "variable": "sim.human.mean",
+    "value": -0.194200962
+  },
+  {
+    "year": 1885,
+    "variable": "sim.human.bottom",
+    "value": -0.370457331
+  },
+  {
+    "year": 1885,
+    "variable": "sim.human.top",
+    "value": -0.003515732
+  },
+  {
+    "year": 1885,
+    "variable": "sim.natural.mean",
+    "value": -0.19542733
+  },
+  {
+    "year": 1885,
+    "variable": "sim.natural.bottom",
+    "value": -0.41120871
+  },
+  {
+    "year": 1885,
+    "variable": "sim.natural.top",
+    "value": 0.016883883
+  },
+  {
+    "year": 1885,
+    "variable": "observed",
+    "value": -0.134
+  },
+  {
+    "year": 1886,
+    "variable": "sim.human.mean",
+    "value": -0.121510766
+  },
+  {
+    "year": 1886,
+    "variable": "sim.human.bottom",
+    "value": -0.289763054
+  },
+  {
+    "year": 1886,
+    "variable": "sim.human.top",
+    "value": 0.070123389
+  },
+  {
+    "year": 1886,
+    "variable": "sim.natural.mean",
+    "value": -0.116767012
+  },
+  {
+    "year": 1886,
+    "variable": "sim.natural.bottom",
+    "value": -0.384025881
+  },
+  {
+    "year": 1886,
+    "variable": "sim.natural.top",
+    "value": 0.108065578
+  },
+  {
+    "year": 1886,
+    "variable": "observed",
+    "value": -0.114
+  },
+  {
+    "year": 1887,
+    "variable": "sim.human.mean",
+    "value": -0.084553449
+  },
+  {
+    "year": 1887,
+    "variable": "sim.human.bottom",
+    "value": -0.246869613
+  },
+  {
+    "year": 1887,
+    "variable": "sim.human.top",
+    "value": 0.08650079
+  },
+  {
+    "year": 1887,
+    "variable": "sim.natural.mean",
+    "value": -0.094327582
+  },
+  {
+    "year": 1887,
+    "variable": "sim.natural.bottom",
+    "value": -0.245216868
+  },
+  {
+    "year": 1887,
+    "variable": "sim.natural.top",
+    "value": 0.101357259
+  },
+  {
+    "year": 1887,
+    "variable": "observed",
+    "value": -0.169
+  },
+  {
+    "year": 1888,
+    "variable": "sim.human.mean",
+    "value": -0.023979457
+  },
+  {
+    "year": 1888,
+    "variable": "sim.human.bottom",
+    "value": -0.345950215
+  },
+  {
+    "year": 1888,
+    "variable": "sim.human.top",
+    "value": 0.180473529
+  },
+  {
+    "year": 1888,
+    "variable": "sim.natural.mean",
+    "value": -0.061141191
+  },
+  {
+    "year": 1888,
+    "variable": "sim.natural.bottom",
+    "value": -0.240635575
+  },
+  {
+    "year": 1888,
+    "variable": "sim.natural.top",
+    "value": 0.115324615
+  },
+  {
+    "year": 1888,
+    "variable": "observed",
+    "value": -0.011
+  },
+  {
+    "year": 1889,
+    "variable": "sim.human.mean",
+    "value": -0.010325947
+  },
+  {
+    "year": 1889,
+    "variable": "sim.human.bottom",
+    "value": -0.254889522
+  },
+  {
+    "year": 1889,
+    "variable": "sim.human.top",
+    "value": 0.169881825
+  },
+  {
+    "year": 1889,
+    "variable": "sim.natural.mean",
+    "value": -0.019355795
+  },
+  {
+    "year": 1889,
+    "variable": "sim.natural.bottom",
+    "value": -0.225834941
+  },
+  {
+    "year": 1889,
+    "variable": "sim.natural.top",
+    "value": 0.227748719
+  },
+  {
+    "year": 1889,
+    "variable": "observed",
+    "value": 0.111
+  },
+  {
+    "year": 1890,
+    "variable": "sim.human.mean",
+    "value": -0.013621063
+  },
+  {
+    "year": 1890,
+    "variable": "sim.human.bottom",
+    "value": -0.179602918
+  },
+  {
+    "year": 1890,
+    "variable": "sim.human.top",
+    "value": 0.108381485
+  },
+  {
+    "year": 1890,
+    "variable": "sim.natural.mean",
+    "value": -0.0242845
+  },
+  {
+    "year": 1890,
+    "variable": "sim.natural.bottom",
+    "value": -0.211166255
+  },
+  {
+    "year": 1890,
+    "variable": "sim.natural.top",
+    "value": 0.157420655
+  },
+  {
+    "year": 1890,
+    "variable": "observed",
+    "value": -0.146
+  },
+  {
+    "year": 1891,
+    "variable": "sim.human.mean",
+    "value": -0.046247035
+  },
+  {
+    "year": 1891,
+    "variable": "sim.human.bottom",
+    "value": -0.286282709
+  },
+  {
+    "year": 1891,
+    "variable": "sim.human.top",
+    "value": 0.158103858
+  },
+  {
+    "year": 1891,
+    "variable": "sim.natural.mean",
+    "value": -0.078832467
+  },
+  {
+    "year": 1891,
+    "variable": "sim.natural.bottom",
+    "value": -0.31563405
+  },
+  {
+    "year": 1891,
+    "variable": "sim.natural.top",
+    "value": 0.15505287
+  },
+  {
+    "year": 1891,
+    "variable": "observed",
+    "value": -0.039
+  },
+  {
+    "year": 1892,
+    "variable": "sim.human.mean",
+    "value": -0.050320536
+  },
+  {
+    "year": 1892,
+    "variable": "sim.human.bottom",
+    "value": -0.328827032
+  },
+  {
+    "year": 1892,
+    "variable": "sim.human.top",
+    "value": 0.175875625
+  },
+  {
+    "year": 1892,
+    "variable": "sim.natural.mean",
+    "value": -0.042948301
+  },
+  {
+    "year": 1892,
+    "variable": "sim.natural.bottom",
+    "value": -0.227582307
+  },
+  {
+    "year": 1892,
+    "variable": "sim.natural.top",
+    "value": 0.134944697
+  },
+  {
+    "year": 1892,
+    "variable": "observed",
+    "value": -0.121
+  },
+  {
+    "year": 1893,
+    "variable": "sim.human.mean",
+    "value": 0.00822736
+  },
+  {
+    "year": 1893,
+    "variable": "sim.human.bottom",
+    "value": -0.182182477
+  },
+  {
+    "year": 1893,
+    "variable": "sim.human.top",
+    "value": 0.316621613
+  },
+  {
+    "year": 1893,
+    "variable": "sim.natural.mean",
+    "value": -0.006245463
+  },
+  {
+    "year": 1893,
+    "variable": "sim.natural.bottom",
+    "value": -0.19500346
+  },
+  {
+    "year": 1893,
+    "variable": "sim.natural.top",
+    "value": 0.254488813
+  },
+  {
+    "year": 1893,
+    "variable": "observed",
+    "value": -0.119
+  },
+  {
+    "year": 1894,
+    "variable": "sim.human.mean",
+    "value": 0.065360494
+  },
+  {
+    "year": 1894,
+    "variable": "sim.human.bottom",
+    "value": -0.146253133
+  },
+  {
+    "year": 1894,
+    "variable": "sim.human.top",
+    "value": 0.235103216
+  },
+  {
+    "year": 1894,
+    "variable": "sim.natural.mean",
+    "value": -0.001888639
+  },
+  {
+    "year": 1894,
+    "variable": "sim.natural.bottom",
+    "value": -0.17766874
+  },
+  {
+    "year": 1894,
+    "variable": "sim.natural.top",
+    "value": 0.214078403
+  },
+  {
+    "year": 1894,
+    "variable": "observed",
+    "value": -0.101
+  },
+  {
+    "year": 1895,
+    "variable": "sim.human.mean",
+    "value": 0.04615461
+  },
+  {
+    "year": 1895,
+    "variable": "sim.human.bottom",
+    "value": -0.114923672
+  },
+  {
+    "year": 1895,
+    "variable": "sim.human.top",
+    "value": 0.235715036
+  },
+  {
+    "year": 1895,
+    "variable": "sim.natural.mean",
+    "value": -0.002944996
+  },
+  {
+    "year": 1895,
+    "variable": "sim.natural.bottom",
+    "value": -0.162586831
+  },
+  {
+    "year": 1895,
+    "variable": "sim.natural.top",
+    "value": 0.238826304
+  },
+  {
+    "year": 1895,
+    "variable": "observed",
+    "value": -0.059
+  },
+  {
+    "year": 1896,
+    "variable": "sim.human.mean",
+    "value": 0.041482378
+  },
+  {
+    "year": 1896,
+    "variable": "sim.human.bottom",
+    "value": -0.14356202
+  },
+  {
+    "year": 1896,
+    "variable": "sim.human.top",
+    "value": 0.235844163
+  },
+  {
+    "year": 1896,
+    "variable": "sim.natural.mean",
+    "value": 0.01550346
+  },
+  {
+    "year": 1896,
+    "variable": "sim.natural.bottom",
+    "value": -0.183035327
+  },
+  {
+    "year": 1896,
+    "variable": "sim.natural.top",
+    "value": 0.218337331
+  },
+  {
+    "year": 1896,
+    "variable": "observed",
+    "value": 0.089
+  },
+  {
+    "year": 1897,
+    "variable": "sim.human.mean",
+    "value": 0.042848171
+  },
+  {
+    "year": 1897,
+    "variable": "sim.human.bottom",
+    "value": -0.122227439
+  },
+  {
+    "year": 1897,
+    "variable": "sim.human.top",
+    "value": 0.21097628
+  },
+  {
+    "year": 1897,
+    "variable": "sim.natural.mean",
+    "value": 0.00895463
+  },
+  {
+    "year": 1897,
+    "variable": "sim.natural.bottom",
+    "value": -0.196539142
+  },
+  {
+    "year": 1897,
+    "variable": "sim.natural.top",
+    "value": 0.246564111
+  },
+  {
+    "year": 1897,
+    "variable": "observed",
+    "value": 0.089
+  },
+  {
+    "year": 1898,
+    "variable": "sim.human.mean",
+    "value": 0.040242264
+  },
+  {
+    "year": 1898,
+    "variable": "sim.human.bottom",
+    "value": -0.147476549
+  },
+  {
+    "year": 1898,
+    "variable": "sim.human.top",
+    "value": 0.20265678
+  },
+  {
+    "year": 1898,
+    "variable": "sim.natural.mean",
+    "value": 0.027001869
+  },
+  {
+    "year": 1898,
+    "variable": "sim.natural.bottom",
+    "value": -0.180557468
+  },
+  {
+    "year": 1898,
+    "variable": "sim.natural.top",
+    "value": 0.210395133
+  },
+  {
+    "year": 1898,
+    "variable": "observed",
+    "value": -0.114
+  },
+  {
+    "year": 1899,
+    "variable": "sim.human.mean",
+    "value": 0.045198511
+  },
+  {
+    "year": 1899,
+    "variable": "sim.human.bottom",
+    "value": -0.136818406
+  },
+  {
+    "year": 1899,
+    "variable": "sim.human.top",
+    "value": 0.251719933
+  },
+  {
+    "year": 1899,
+    "variable": "sim.natural.mean",
+    "value": 0.040355976
+  },
+  {
+    "year": 1899,
+    "variable": "sim.natural.bottom",
+    "value": -0.142064112
+  },
+  {
+    "year": 1899,
+    "variable": "sim.natural.top",
+    "value": 0.265813382
+  },
+  {
+    "year": 1899,
+    "variable": "observed",
+    "value": 0.016
+  },
+  {
+    "year": 1900,
+    "variable": "sim.human.mean",
+    "value": 0.069478567
+  },
+  {
+    "year": 1900,
+    "variable": "sim.human.bottom",
+    "value": -0.116240078
+  },
+  {
+    "year": 1900,
+    "variable": "sim.human.top",
+    "value": 0.221333484
+  },
+  {
+    "year": 1900,
+    "variable": "sim.natural.mean",
+    "value": 0.046332623
+  },
+  {
+    "year": 1900,
+    "variable": "sim.natural.bottom",
+    "value": -0.120766438
+  },
+  {
+    "year": 1900,
+    "variable": "sim.natural.top",
+    "value": 0.269572163
+  },
+  {
+    "year": 1900,
+    "variable": "observed",
+    "value": 0.116
+  },
+  {
+    "year": 1901,
+    "variable": "sim.human.mean",
+    "value": 0.056842638
+  },
+  {
+    "year": 1901,
+    "variable": "sim.human.bottom",
+    "value": -0.112324045
+  },
+  {
+    "year": 1901,
+    "variable": "sim.human.top",
+    "value": 0.246454356
+  },
+  {
+    "year": 1901,
+    "variable": "sim.natural.mean",
+    "value": 0.025799504
+  },
+  {
+    "year": 1901,
+    "variable": "sim.natural.bottom",
+    "value": -0.176717843
+  },
+  {
+    "year": 1901,
+    "variable": "sim.natural.top",
+    "value": 0.23127261
+  },
+  {
+    "year": 1901,
+    "variable": "observed",
+    "value": 0.064
+  },
+  {
+    "year": 1902,
+    "variable": "sim.human.mean",
+    "value": -0.001499511
+  },
+  {
+    "year": 1902,
+    "variable": "sim.human.bottom",
+    "value": -0.241275875
+  },
+  {
+    "year": 1902,
+    "variable": "sim.human.top",
+    "value": 0.188820996
+  },
+  {
+    "year": 1902,
+    "variable": "sim.natural.mean",
+    "value": 0.042265013
+  },
+  {
+    "year": 1902,
+    "variable": "sim.natural.bottom",
+    "value": -0.143574239
+  },
+  {
+    "year": 1902,
+    "variable": "sim.natural.top",
+    "value": 0.206997701
+  },
+  {
+    "year": 1902,
+    "variable": "observed",
+    "value": -0.079
+  },
+  {
+    "year": 1903,
+    "variable": "sim.human.mean",
+    "value": -0.139125717
+  },
+  {
+    "year": 1903,
+    "variable": "sim.human.bottom",
+    "value": -0.313708762
+  },
+  {
+    "year": 1903,
+    "variable": "sim.human.top",
+    "value": 0.071136673
+  },
+  {
+    "year": 1903,
+    "variable": "sim.natural.mean",
+    "value": -0.101282421
+  },
+  {
+    "year": 1903,
+    "variable": "sim.natural.bottom",
+    "value": -0.38484317
+  },
+  {
+    "year": 1903,
+    "variable": "sim.natural.top",
+    "value": 0.193082323
+  },
+  {
+    "year": 1903,
+    "variable": "observed",
+    "value": -0.169
+  },
+  {
+    "year": 1904,
+    "variable": "sim.human.mean",
+    "value": -0.077146145
+  },
+  {
+    "year": 1904,
+    "variable": "sim.human.bottom",
+    "value": -0.27682004
+  },
+  {
+    "year": 1904,
+    "variable": "sim.human.top",
+    "value": 0.158080458
+  },
+  {
+    "year": 1904,
+    "variable": "sim.natural.mean",
+    "value": -0.0391319
+  },
+  {
+    "year": 1904,
+    "variable": "sim.natural.bottom",
+    "value": -0.268991835
+  },
+  {
+    "year": 1904,
+    "variable": "sim.natural.top",
+    "value": 0.181198434
+  },
+  {
+    "year": 1904,
+    "variable": "observed",
+    "value": -0.239
+  },
+  {
+    "year": 1905,
+    "variable": "sim.human.mean",
+    "value": -0.05485926
+  },
+  {
+    "year": 1905,
+    "variable": "sim.human.bottom",
+    "value": -0.237482348
+  },
+  {
+    "year": 1905,
+    "variable": "sim.human.top",
+    "value": 0.21057492
+  },
+  {
+    "year": 1905,
+    "variable": "sim.natural.mean",
+    "value": -0.035675313
+  },
+  {
+    "year": 1905,
+    "variable": "sim.natural.bottom",
+    "value": -0.192946949
+  },
+  {
+    "year": 1905,
+    "variable": "sim.natural.top",
+    "value": 0.153073368
+  },
+  {
+    "year": 1905,
+    "variable": "observed",
+    "value": -0.054
+  },
+  {
+    "year": 1906,
+    "variable": "sim.human.mean",
+    "value": -0.037484903
+  },
+  {
+    "year": 1906,
+    "variable": "sim.human.bottom",
+    "value": -0.223007415
+  },
+  {
+    "year": 1906,
+    "variable": "sim.human.top",
+    "value": 0.202143102
+  },
+  {
+    "year": 1906,
+    "variable": "sim.natural.mean",
+    "value": -0.005278524
+  },
+  {
+    "year": 1906,
+    "variable": "sim.natural.bottom",
+    "value": -0.292806179
+  },
+  {
+    "year": 1906,
+    "variable": "sim.natural.top",
+    "value": 0.218689827
+  },
+  {
+    "year": 1906,
+    "variable": "observed",
+    "value": 0.024
+  },
+  {
+    "year": 1907,
+    "variable": "sim.human.mean",
+    "value": -0.029729248
+  },
+  {
+    "year": 1907,
+    "variable": "sim.human.bottom",
+    "value": -0.247710156
+  },
+  {
+    "year": 1907,
+    "variable": "sim.human.top",
+    "value": 0.186313681
+  },
+  {
+    "year": 1907,
+    "variable": "sim.natural.mean",
+    "value": -0.006021667
+  },
+  {
+    "year": 1907,
+    "variable": "sim.natural.bottom",
+    "value": -0.220552557
+  },
+  {
+    "year": 1907,
+    "variable": "sim.natural.top",
+    "value": 0.258697567
+  },
+  {
+    "year": 1907,
+    "variable": "observed",
+    "value": -0.134
+  },
+  {
+    "year": 1908,
+    "variable": "sim.human.mean",
+    "value": 0.012494731
+  },
+  {
+    "year": 1908,
+    "variable": "sim.human.bottom",
+    "value": -0.160935805
+  },
+  {
+    "year": 1908,
+    "variable": "sim.human.top",
+    "value": 0.196713712
+  },
+  {
+    "year": 1908,
+    "variable": "sim.natural.mean",
+    "value": 0.006198223
+  },
+  {
+    "year": 1908,
+    "variable": "sim.natural.bottom",
+    "value": -0.23627847
+  },
+  {
+    "year": 1908,
+    "variable": "sim.natural.top",
+    "value": 0.281684658
+  },
+  {
+    "year": 1908,
+    "variable": "observed",
+    "value": -0.174
+  },
+  {
+    "year": 1909,
+    "variable": "sim.human.mean",
+    "value": 0.030380821
+  },
+  {
+    "year": 1909,
+    "variable": "sim.human.bottom",
+    "value": -0.204111124
+  },
+  {
+    "year": 1909,
+    "variable": "sim.human.top",
+    "value": 0.240529835
+  },
+  {
+    "year": 1909,
+    "variable": "sim.natural.mean",
+    "value": 0.049745067
+  },
+  {
+    "year": 1909,
+    "variable": "sim.natural.bottom",
+    "value": -0.170162302
+  },
+  {
+    "year": 1909,
+    "variable": "sim.natural.top",
+    "value": 0.397341107
+  },
+  {
+    "year": 1909,
+    "variable": "observed",
+    "value": -0.221
+  },
+  {
+    "year": 1910,
+    "variable": "sim.human.mean",
+    "value": 0.024647427
+  },
+  {
+    "year": 1910,
+    "variable": "sim.human.bottom",
+    "value": -0.196717357
+  },
+  {
+    "year": 1910,
+    "variable": "sim.human.top",
+    "value": 0.267541111
+  },
+  {
+    "year": 1910,
+    "variable": "sim.natural.mean",
+    "value": 0.057909626
+  },
+  {
+    "year": 1910,
+    "variable": "sim.natural.bottom",
+    "value": -0.170989475
+  },
+  {
+    "year": 1910,
+    "variable": "sim.natural.top",
+    "value": 0.325553447
+  },
+  {
+    "year": 1910,
+    "variable": "observed",
+    "value": -0.191
+  },
+  {
+    "year": 1911,
+    "variable": "sim.human.mean",
+    "value": 0.019148144
+  },
+  {
+    "year": 1911,
+    "variable": "sim.human.bottom",
+    "value": -0.219549208
+  },
+  {
+    "year": 1911,
+    "variable": "sim.human.top",
+    "value": 0.341310591
+  },
+  {
+    "year": 1911,
+    "variable": "sim.natural.mean",
+    "value": 0.076017407
+  },
+  {
+    "year": 1911,
+    "variable": "sim.natural.bottom",
+    "value": -0.147752512
+  },
+  {
+    "year": 1911,
+    "variable": "sim.natural.top",
+    "value": 0.333787441
+  },
+  {
+    "year": 1911,
+    "variable": "observed",
+    "value": -0.209
+  },
+  {
+    "year": 1912,
+    "variable": "sim.human.mean",
+    "value": -0.043167275
+  },
+  {
+    "year": 1912,
+    "variable": "sim.human.bottom",
+    "value": -0.271971231
+  },
+  {
+    "year": 1912,
+    "variable": "sim.human.top",
+    "value": 0.183078992
+  },
+  {
+    "year": 1912,
+    "variable": "sim.natural.mean",
+    "value": -0.036711458
+  },
+  {
+    "year": 1912,
+    "variable": "sim.natural.bottom",
+    "value": -0.23676755
+  },
+  {
+    "year": 1912,
+    "variable": "sim.natural.top",
+    "value": 0.197169393
+  },
+  {
+    "year": 1912,
+    "variable": "observed",
+    "value": -0.136
+  },
+  {
+    "year": 1913,
+    "variable": "sim.human.mean",
+    "value": -0.081489059
+  },
+  {
+    "year": 1913,
+    "variable": "sim.human.bottom",
+    "value": -0.330664316
+  },
+  {
+    "year": 1913,
+    "variable": "sim.human.top",
+    "value": 0.196287358
+  },
+  {
+    "year": 1913,
+    "variable": "sim.natural.mean",
+    "value": -0.069708463
+  },
+  {
+    "year": 1913,
+    "variable": "sim.natural.bottom",
+    "value": -0.284083824
+  },
+  {
+    "year": 1913,
+    "variable": "sim.natural.top",
+    "value": 0.168548641
+  },
+  {
+    "year": 1913,
+    "variable": "observed",
+    "value": -0.114
+  },
+  {
+    "year": 1914,
+    "variable": "sim.human.mean",
+    "value": -0.025164653
+  },
+  {
+    "year": 1914,
+    "variable": "sim.human.bottom",
+    "value": -0.244044246
+  },
+  {
+    "year": 1914,
+    "variable": "sim.human.top",
+    "value": 0.205200341
+  },
+  {
+    "year": 1914,
+    "variable": "sim.natural.mean",
+    "value": -0.016084778
+  },
+  {
+    "year": 1914,
+    "variable": "sim.natural.bottom",
+    "value": -0.308194936
+  },
+  {
+    "year": 1914,
+    "variable": "sim.natural.top",
+    "value": 0.178487854
+  },
+  {
+    "year": 1914,
+    "variable": "observed",
+    "value": 0.079
+  },
+  {
+    "year": 1915,
+    "variable": "sim.human.mean",
+    "value": -0.011783724
+  },
+  {
+    "year": 1915,
+    "variable": "sim.human.bottom",
+    "value": -0.231010164
+  },
+  {
+    "year": 1915,
+    "variable": "sim.human.top",
+    "value": 0.26675754
+  },
+  {
+    "year": 1915,
+    "variable": "sim.natural.mean",
+    "value": 0.013941174
+  },
+  {
+    "year": 1915,
+    "variable": "sim.natural.bottom",
+    "value": -0.219966943
+  },
+  {
+    "year": 1915,
+    "variable": "sim.natural.top",
+    "value": 0.299163114
+  },
+  {
+    "year": 1915,
+    "variable": "observed",
+    "value": 0.136
+  },
+  {
+    "year": 1916,
+    "variable": "sim.human.mean",
+    "value": 0.011305173
+  },
+  {
+    "year": 1916,
+    "variable": "sim.human.bottom",
+    "value": -0.259924558
+  },
+  {
+    "year": 1916,
+    "variable": "sim.human.top",
+    "value": 0.24145151
+  },
+  {
+    "year": 1916,
+    "variable": "sim.natural.mean",
+    "value": 0.021204116
+  },
+  {
+    "year": 1916,
+    "variable": "sim.natural.bottom",
+    "value": -0.16203695
+  },
+  {
+    "year": 1916,
+    "variable": "sim.natural.top",
+    "value": 0.257852404
+  },
+  {
+    "year": 1916,
+    "variable": "observed",
+    "value": -0.086
+  },
+  {
+    "year": 1917,
+    "variable": "sim.human.mean",
+    "value": 0.056700083
+  },
+  {
+    "year": 1917,
+    "variable": "sim.human.bottom",
+    "value": -0.103681742
+  },
+  {
+    "year": 1917,
+    "variable": "sim.human.top",
+    "value": 0.279343389
+  },
+  {
+    "year": 1917,
+    "variable": "sim.natural.mean",
+    "value": 0.039411174
+  },
+  {
+    "year": 1917,
+    "variable": "sim.natural.bottom",
+    "value": -0.148580574
+  },
+  {
+    "year": 1917,
+    "variable": "sim.natural.top",
+    "value": 0.334952628
+  },
+  {
+    "year": 1917,
+    "variable": "observed",
+    "value": -0.214
+  },
+  {
+    "year": 1918,
+    "variable": "sim.human.mean",
+    "value": 0.088459158
+  },
+  {
+    "year": 1918,
+    "variable": "sim.human.bottom",
+    "value": -0.180434516
+  },
+  {
+    "year": 1918,
+    "variable": "sim.human.top",
+    "value": 0.320627632
+  },
+  {
+    "year": 1918,
+    "variable": "sim.natural.mean",
+    "value": 0.038939745
+  },
+  {
+    "year": 1918,
+    "variable": "sim.natural.bottom",
+    "value": -0.098677991
+  },
+  {
+    "year": 1918,
+    "variable": "sim.natural.top",
+    "value": 0.237478744
+  },
+  {
+    "year": 1918,
+    "variable": "observed",
+    "value": -0.061
+  },
+  {
+    "year": 1919,
+    "variable": "sim.human.mean",
+    "value": 0.101614614
+  },
+  {
+    "year": 1919,
+    "variable": "sim.human.bottom",
+    "value": -0.10142099
+  },
+  {
+    "year": 1919,
+    "variable": "sim.human.top",
+    "value": 0.312340815
+  },
+  {
+    "year": 1919,
+    "variable": "sim.natural.mean",
+    "value": 0.056751209
+  },
+  {
+    "year": 1919,
+    "variable": "sim.natural.bottom",
+    "value": -0.142003415
+  },
+  {
+    "year": 1919,
+    "variable": "sim.natural.top",
+    "value": 0.347230873
+  },
+  {
+    "year": 1919,
+    "variable": "observed",
+    "value": -0.006
+  },
+  {
+    "year": 1920,
+    "variable": "sim.human.mean",
+    "value": 0.107236793
+  },
+  {
+    "year": 1920,
+    "variable": "sim.human.bottom",
+    "value": -0.088695784
+  },
+  {
+    "year": 1920,
+    "variable": "sim.human.top",
+    "value": 0.377769043
+  },
+  {
+    "year": 1920,
+    "variable": "sim.natural.mean",
+    "value": 0.077445414
+  },
+  {
+    "year": 1920,
+    "variable": "sim.natural.bottom",
+    "value": -0.141838133
+  },
+  {
+    "year": 1920,
+    "variable": "sim.natural.top",
+    "value": 0.320351875
+  },
+  {
+    "year": 1920,
+    "variable": "observed",
+    "value": 0.034
+  },
+  {
+    "year": 1921,
+    "variable": "sim.human.mean",
+    "value": 0.125130368
+  },
+  {
+    "year": 1921,
+    "variable": "sim.human.bottom",
+    "value": -0.041311222
+  },
+  {
+    "year": 1921,
+    "variable": "sim.human.top",
+    "value": 0.398556851
+  },
+  {
+    "year": 1921,
+    "variable": "sim.natural.mean",
+    "value": 0.089733748
+  },
+  {
+    "year": 1921,
+    "variable": "sim.natural.bottom",
+    "value": -0.157109843
+  },
+  {
+    "year": 1921,
+    "variable": "sim.natural.top",
+    "value": 0.312977546
+  },
+  {
+    "year": 1921,
+    "variable": "observed",
+    "value": 0.074
+  },
+  {
+    "year": 1922,
+    "variable": "sim.human.mean",
+    "value": 0.140765531
+  },
+  {
+    "year": 1922,
+    "variable": "sim.human.bottom",
+    "value": -0.091273713
+  },
+  {
+    "year": 1922,
+    "variable": "sim.human.top",
+    "value": 0.398497237
+  },
+  {
+    "year": 1922,
+    "variable": "sim.natural.mean",
+    "value": 0.055069113
+  },
+  {
+    "year": 1922,
+    "variable": "sim.natural.bottom",
+    "value": -0.160815552
+  },
+  {
+    "year": 1922,
+    "variable": "sim.natural.top",
+    "value": 0.331423202
+  },
+  {
+    "year": 1922,
+    "variable": "observed",
+    "value": -0.009
+  },
+  {
+    "year": 1923,
+    "variable": "sim.human.mean",
+    "value": 0.13930718
+  },
+  {
+    "year": 1923,
+    "variable": "sim.human.bottom",
+    "value": -0.087563308
+  },
+  {
+    "year": 1923,
+    "variable": "sim.human.top",
+    "value": 0.330322522
+  },
+  {
+    "year": 1923,
+    "variable": "sim.natural.mean",
+    "value": 0.055686312
+  },
+  {
+    "year": 1923,
+    "variable": "sim.natural.bottom",
+    "value": -0.196543479
+  },
+  {
+    "year": 1923,
+    "variable": "sim.natural.top",
+    "value": 0.310357934
+  },
+  {
+    "year": 1923,
+    "variable": "observed",
+    "value": 0.016
+  },
+  {
+    "year": 1924,
+    "variable": "sim.human.mean",
+    "value": 0.105576189
+  },
+  {
+    "year": 1924,
+    "variable": "sim.human.bottom",
+    "value": -0.081464872
+  },
+  {
+    "year": 1924,
+    "variable": "sim.human.top",
+    "value": 0.310321031
+  },
+  {
+    "year": 1924,
+    "variable": "sim.natural.mean",
+    "value": 0.051222275
+  },
+  {
+    "year": 1924,
+    "variable": "sim.natural.bottom",
+    "value": -0.183091366
+  },
+  {
+    "year": 1924,
+    "variable": "sim.natural.top",
+    "value": 0.286589376
+  },
+  {
+    "year": 1924,
+    "variable": "observed",
+    "value": 0.019
+  },
+  {
+    "year": 1925,
+    "variable": "sim.human.mean",
+    "value": 0.111401429
+  },
+  {
+    "year": 1925,
+    "variable": "sim.human.bottom",
+    "value": -0.085010883
+  },
+  {
+    "year": 1925,
+    "variable": "sim.human.top",
+    "value": 0.391099472
+  },
+  {
+    "year": 1925,
+    "variable": "sim.natural.mean",
+    "value": 0.049599639
+  },
+  {
+    "year": 1925,
+    "variable": "sim.natural.bottom",
+    "value": -0.158119841
+  },
+  {
+    "year": 1925,
+    "variable": "sim.natural.top",
+    "value": 0.312606436
+  },
+  {
+    "year": 1925,
+    "variable": "observed",
+    "value": 0.056
+  },
+  {
+    "year": 1926,
+    "variable": "sim.human.mean",
+    "value": 0.124356549
+  },
+  {
+    "year": 1926,
+    "variable": "sim.human.bottom",
+    "value": -0.051087655
+  },
+  {
+    "year": 1926,
+    "variable": "sim.human.top",
+    "value": 0.355201409
+  },
+  {
+    "year": 1926,
+    "variable": "sim.natural.mean",
+    "value": 0.058662241
+  },
+  {
+    "year": 1926,
+    "variable": "sim.natural.bottom",
+    "value": -0.187235531
+  },
+  {
+    "year": 1926,
+    "variable": "sim.natural.top",
+    "value": 0.303093109
+  },
+  {
+    "year": 1926,
+    "variable": "observed",
+    "value": 0.186
+  },
+  {
+    "year": 1927,
+    "variable": "sim.human.mean",
+    "value": 0.163591493
+  },
+  {
+    "year": 1927,
+    "variable": "sim.human.bottom",
+    "value": -0.019103346
+  },
+  {
+    "year": 1927,
+    "variable": "sim.human.top",
+    "value": 0.413883177
+  },
+  {
+    "year": 1927,
+    "variable": "sim.natural.mean",
+    "value": 0.068462821
+  },
+  {
+    "year": 1927,
+    "variable": "sim.natural.bottom",
+    "value": -0.146240296
+  },
+  {
+    "year": 1927,
+    "variable": "sim.natural.top",
+    "value": 0.311808425
+  },
+  {
+    "year": 1927,
+    "variable": "observed",
+    "value": 0.081
+  },
+  {
+    "year": 1928,
+    "variable": "sim.human.mean",
+    "value": 0.181149859
+  },
+  {
+    "year": 1928,
+    "variable": "sim.human.bottom",
+    "value": -0.053731229
+  },
+  {
+    "year": 1928,
+    "variable": "sim.human.top",
+    "value": 0.399976313
+  },
+  {
+    "year": 1928,
+    "variable": "sim.natural.mean",
+    "value": 0.059883364
+  },
+  {
+    "year": 1928,
+    "variable": "sim.natural.bottom",
+    "value": -0.207340235
+  },
+  {
+    "year": 1928,
+    "variable": "sim.natural.top",
+    "value": 0.356497966
+  },
+  {
+    "year": 1928,
+    "variable": "observed",
+    "value": 0.091
+  },
+  {
+    "year": 1929,
+    "variable": "sim.human.mean",
+    "value": 0.145407194
+  },
+  {
+    "year": 1929,
+    "variable": "sim.human.bottom",
+    "value": -0.065416679
+  },
+  {
+    "year": 1929,
+    "variable": "sim.human.top",
+    "value": 0.361190876
+  },
+  {
+    "year": 1929,
+    "variable": "sim.natural.mean",
+    "value": 0.043141143
+  },
+  {
+    "year": 1929,
+    "variable": "sim.natural.bottom",
+    "value": -0.213739763
+  },
+  {
+    "year": 1929,
+    "variable": "sim.natural.top",
+    "value": 0.309255874
+  },
+  {
+    "year": 1929,
+    "variable": "observed",
+    "value": -0.071
+  },
+  {
+    "year": 1930,
+    "variable": "sim.human.mean",
+    "value": 0.160025339
+  },
+  {
+    "year": 1930,
+    "variable": "sim.human.bottom",
+    "value": -0.087199171
+  },
+  {
+    "year": 1930,
+    "variable": "sim.human.top",
+    "value": 0.36401324
+  },
+  {
+    "year": 1930,
+    "variable": "sim.natural.mean",
+    "value": 0.043179465
+  },
+  {
+    "year": 1930,
+    "variable": "sim.natural.bottom",
+    "value": -0.183768682
+  },
+  {
+    "year": 1930,
+    "variable": "sim.natural.top",
+    "value": 0.287356504
+  },
+  {
+    "year": 1930,
+    "variable": "observed",
+    "value": 0.136
+  },
+  {
+    "year": 1931,
+    "variable": "sim.human.mean",
+    "value": 0.147840642
+  },
+  {
+    "year": 1931,
+    "variable": "sim.human.bottom",
+    "value": -0.056329569
+  },
+  {
+    "year": 1931,
+    "variable": "sim.human.top",
+    "value": 0.38776488
+  },
+  {
+    "year": 1931,
+    "variable": "sim.natural.mean",
+    "value": 0.060555549
+  },
+  {
+    "year": 1931,
+    "variable": "sim.natural.bottom",
+    "value": -0.176638954
+  },
+  {
+    "year": 1931,
+    "variable": "sim.natural.top",
+    "value": 0.266282418
+  },
+  {
+    "year": 1931,
+    "variable": "observed",
+    "value": 0.199
+  },
+  {
+    "year": 1932,
+    "variable": "sim.human.mean",
+    "value": 0.1375022
+  },
+  {
+    "year": 1932,
+    "variable": "sim.human.bottom",
+    "value": -0.128608189
+  },
+  {
+    "year": 1932,
+    "variable": "sim.human.top",
+    "value": 0.411742293
+  },
+  {
+    "year": 1932,
+    "variable": "sim.natural.mean",
+    "value": 0.045367338
+  },
+  {
+    "year": 1932,
+    "variable": "sim.natural.bottom",
+    "value": -0.202240368
+  },
+  {
+    "year": 1932,
+    "variable": "sim.natural.top",
+    "value": 0.286581884
+  },
+  {
+    "year": 1932,
+    "variable": "observed",
+    "value": 0.154
+  },
+  {
+    "year": 1933,
+    "variable": "sim.human.mean",
+    "value": 0.136180461
+  },
+  {
+    "year": 1933,
+    "variable": "sim.human.bottom",
+    "value": -0.088357536
+  },
+  {
+    "year": 1933,
+    "variable": "sim.human.top",
+    "value": 0.360023636
+  },
+  {
+    "year": 1933,
+    "variable": "sim.natural.mean",
+    "value": 0.042471575
+  },
+  {
+    "year": 1933,
+    "variable": "sim.natural.bottom",
+    "value": -0.227791958
+  },
+  {
+    "year": 1933,
+    "variable": "sim.natural.top",
+    "value": 0.292036723
+  },
+  {
+    "year": 1933,
+    "variable": "observed",
+    "value": -0.011
+  },
+  {
+    "year": 1934,
+    "variable": "sim.human.mean",
+    "value": 0.145452418
+  },
+  {
+    "year": 1934,
+    "variable": "sim.human.bottom",
+    "value": -0.069222892
+  },
+  {
+    "year": 1934,
+    "variable": "sim.human.top",
+    "value": 0.361015332
+  },
+  {
+    "year": 1934,
+    "variable": "sim.natural.mean",
+    "value": 0.066186689
+  },
+  {
+    "year": 1934,
+    "variable": "sim.natural.bottom",
+    "value": -0.152830092
+  },
+  {
+    "year": 1934,
+    "variable": "sim.natural.top",
+    "value": 0.327560119
+  },
+  {
+    "year": 1934,
+    "variable": "observed",
+    "value": 0.136
+  },
+  {
+    "year": 1935,
+    "variable": "sim.human.mean",
+    "value": 0.160102559
+  },
+  {
+    "year": 1935,
+    "variable": "sim.human.bottom",
+    "value": -0.127494048
+  },
+  {
+    "year": 1935,
+    "variable": "sim.human.top",
+    "value": 0.362695288
+  },
+  {
+    "year": 1935,
+    "variable": "sim.natural.mean",
+    "value": 0.071356242
+  },
+  {
+    "year": 1935,
+    "variable": "sim.natural.bottom",
+    "value": -0.209139345
+  },
+  {
+    "year": 1935,
+    "variable": "sim.natural.top",
+    "value": 0.267147657
+  },
+  {
+    "year": 1935,
+    "variable": "observed",
+    "value": 0.089
+  },
+  {
+    "year": 1936,
+    "variable": "sim.human.mean",
+    "value": 0.169123855
+  },
+  {
+    "year": 1936,
+    "variable": "sim.human.bottom",
+    "value": -0.160563356
+  },
+  {
+    "year": 1936,
+    "variable": "sim.human.top",
+    "value": 0.494591348
+  },
+  {
+    "year": 1936,
+    "variable": "sim.natural.mean",
+    "value": 0.098105125
+  },
+  {
+    "year": 1936,
+    "variable": "sim.natural.bottom",
+    "value": -0.133308541
+  },
+  {
+    "year": 1936,
+    "variable": "sim.natural.top",
+    "value": 0.366995084
+  },
+  {
+    "year": 1936,
+    "variable": "observed",
+    "value": 0.136
+  },
+  {
+    "year": 1937,
+    "variable": "sim.human.mean",
+    "value": 0.176265355
+  },
+  {
+    "year": 1937,
+    "variable": "sim.human.bottom",
+    "value": -0.088557853
+  },
+  {
+    "year": 1937,
+    "variable": "sim.human.top",
+    "value": 0.424713338
+  },
+  {
+    "year": 1937,
+    "variable": "sim.natural.mean",
+    "value": 0.081473144
+  },
+  {
+    "year": 1937,
+    "variable": "sim.natural.bottom",
+    "value": -0.202275838
+  },
+  {
+    "year": 1937,
+    "variable": "sim.natural.top",
+    "value": 0.33534428
+  },
+  {
+    "year": 1937,
+    "variable": "observed",
+    "value": 0.284
+  },
+  {
+    "year": 1938,
+    "variable": "sim.human.mean",
+    "value": 0.202453073
+  },
+  {
+    "year": 1938,
+    "variable": "sim.human.bottom",
+    "value": -0.067620548
+  },
+  {
+    "year": 1938,
+    "variable": "sim.human.top",
+    "value": 0.48620468
+  },
+  {
+    "year": 1938,
+    "variable": "sim.natural.mean",
+    "value": 0.083217857
+  },
+  {
+    "year": 1938,
+    "variable": "sim.natural.bottom",
+    "value": -0.138608039
+  },
+  {
+    "year": 1938,
+    "variable": "sim.natural.top",
+    "value": 0.399977076
+  },
+  {
+    "year": 1938,
+    "variable": "observed",
+    "value": 0.286
+  },
+  {
+    "year": 1939,
+    "variable": "sim.human.mean",
+    "value": 0.190313754
+  },
+  {
+    "year": 1939,
+    "variable": "sim.human.bottom",
+    "value": -0.012214179
+  },
+  {
+    "year": 1939,
+    "variable": "sim.human.top",
+    "value": 0.439430124
+  },
+  {
+    "year": 1939,
+    "variable": "sim.natural.mean",
+    "value": 0.081641545
+  },
+  {
+    "year": 1939,
+    "variable": "sim.natural.bottom",
+    "value": -0.149558549
+  },
+  {
+    "year": 1939,
+    "variable": "sim.natural.top",
+    "value": 0.35578596
+  },
+  {
+    "year": 1939,
+    "variable": "observed",
+    "value": 0.271
+  },
+  {
+    "year": 1940,
+    "variable": "sim.human.mean",
+    "value": 0.186755322
+  },
+  {
+    "year": 1940,
+    "variable": "sim.human.bottom",
+    "value": -0.012678346
+  },
+  {
+    "year": 1940,
+    "variable": "sim.human.top",
+    "value": 0.428277618
+  },
+  {
+    "year": 1940,
+    "variable": "sim.natural.mean",
+    "value": 0.085328506
+  },
+  {
+    "year": 1940,
+    "variable": "sim.natural.bottom",
+    "value": -0.14355261
+  },
+  {
+    "year": 1940,
+    "variable": "sim.natural.top",
+    "value": 0.307504102
+  },
+  {
+    "year": 1940,
+    "variable": "observed",
+    "value": 0.371
+  },
+  {
+    "year": 1941,
+    "variable": "sim.human.mean",
+    "value": 0.191037258
+  },
+  {
+    "year": 1941,
+    "variable": "sim.human.bottom",
+    "value": -0.121333975
+  },
+  {
+    "year": 1941,
+    "variable": "sim.human.top",
+    "value": 0.457747073
+  },
+  {
+    "year": 1941,
+    "variable": "sim.natural.mean",
+    "value": 0.073502156
+  },
+  {
+    "year": 1941,
+    "variable": "sim.natural.bottom",
+    "value": -0.135462633
+  },
+  {
+    "year": 1941,
+    "variable": "sim.natural.top",
+    "value": 0.315343358
+  },
+  {
+    "year": 1941,
+    "variable": "observed",
+    "value": 0.356
+  },
+  {
+    "year": 1942,
+    "variable": "sim.human.mean",
+    "value": 0.166660078
+  },
+  {
+    "year": 1942,
+    "variable": "sim.human.bottom",
+    "value": -0.051485266
+  },
+  {
+    "year": 1942,
+    "variable": "sim.human.top",
+    "value": 0.455907227
+  },
+  {
+    "year": 1942,
+    "variable": "sim.natural.mean",
+    "value": 0.065624136
+  },
+  {
+    "year": 1942,
+    "variable": "sim.natural.bottom",
+    "value": -0.161325491
+  },
+  {
+    "year": 1942,
+    "variable": "sim.natural.top",
+    "value": 0.327666988
+  },
+  {
+    "year": 1942,
+    "variable": "observed",
+    "value": 0.321
+  },
+  {
+    "year": 1943,
+    "variable": "sim.human.mean",
+    "value": 0.204380378
+  },
+  {
+    "year": 1943,
+    "variable": "sim.human.bottom",
+    "value": -0.057815364
+  },
+  {
+    "year": 1943,
+    "variable": "sim.human.top",
+    "value": 0.479664923
+  },
+  {
+    "year": 1943,
+    "variable": "sim.natural.mean",
+    "value": 0.068863538
+  },
+  {
+    "year": 1943,
+    "variable": "sim.natural.bottom",
+    "value": -0.200901811
+  },
+  {
+    "year": 1943,
+    "variable": "sim.natural.top",
+    "value": 0.305255322
+  },
+  {
+    "year": 1943,
+    "variable": "observed",
+    "value": 0.349
+  },
+  {
+    "year": 1944,
+    "variable": "sim.human.mean",
+    "value": 0.217526473
+  },
+  {
+    "year": 1944,
+    "variable": "sim.human.bottom",
+    "value": -0.085111558
+  },
+  {
+    "year": 1944,
+    "variable": "sim.human.top",
+    "value": 0.508624312
+  },
+  {
+    "year": 1944,
+    "variable": "sim.natural.mean",
+    "value": 0.048945418
+  },
+  {
+    "year": 1944,
+    "variable": "sim.natural.bottom",
+    "value": -0.183706933
+  },
+  {
+    "year": 1944,
+    "variable": "sim.natural.top",
+    "value": 0.232631857
+  },
+  {
+    "year": 1944,
+    "variable": "observed",
+    "value": 0.471
+  },
+  {
+    "year": 1945,
+    "variable": "sim.human.mean",
+    "value": 0.170161543
+  },
+  {
+    "year": 1945,
+    "variable": "sim.human.bottom",
+    "value": -0.076661175
+  },
+  {
+    "year": 1945,
+    "variable": "sim.human.top",
+    "value": 0.445598013
+  },
+  {
+    "year": 1945,
+    "variable": "sim.natural.mean",
+    "value": 0.089320402
+  },
+  {
+    "year": 1945,
+    "variable": "sim.natural.bottom",
+    "value": -0.121066576
+  },
+  {
+    "year": 1945,
+    "variable": "sim.natural.top",
+    "value": 0.270404122
+  },
+  {
+    "year": 1945,
+    "variable": "observed",
+    "value": 0.349
+  },
+  {
+    "year": 1946,
+    "variable": "sim.human.mean",
+    "value": 0.181754865
+  },
+  {
+    "year": 1946,
+    "variable": "sim.human.bottom",
+    "value": -0.004745907
+  },
+  {
+    "year": 1946,
+    "variable": "sim.human.top",
+    "value": 0.465529179
+  },
+  {
+    "year": 1946,
+    "variable": "sim.natural.mean",
+    "value": 0.122217181
+  },
+  {
+    "year": 1946,
+    "variable": "sim.natural.bottom",
+    "value": -0.090165209
+  },
+  {
+    "year": 1946,
+    "variable": "sim.natural.top",
+    "value": 0.383710327
+  },
+  {
+    "year": 1946,
+    "variable": "observed",
+    "value": 0.196
+  },
+  {
+    "year": 1947,
+    "variable": "sim.human.mean",
+    "value": 0.196984213
+  },
+  {
+    "year": 1947,
+    "variable": "sim.human.bottom",
+    "value": -0.074029177
+  },
+  {
+    "year": 1947,
+    "variable": "sim.human.top",
+    "value": 0.496943855
+  },
+  {
+    "year": 1947,
+    "variable": "sim.natural.mean",
+    "value": 0.102767911
+  },
+  {
+    "year": 1947,
+    "variable": "sim.natural.bottom",
+    "value": -0.189112796
+  },
+  {
+    "year": 1947,
+    "variable": "sim.natural.top",
+    "value": 0.349405009
+  },
+  {
+    "year": 1947,
+    "variable": "observed",
+    "value": 0.241
+  },
+  {
+    "year": 1948,
+    "variable": "sim.human.mean",
+    "value": 0.232650977
+  },
+  {
+    "year": 1948,
+    "variable": "sim.human.bottom",
+    "value": -0.028695673
+  },
+  {
+    "year": 1948,
+    "variable": "sim.human.top",
+    "value": 0.475293607
+  },
+  {
+    "year": 1948,
+    "variable": "sim.natural.mean",
+    "value": 0.083997223
+  },
+  {
+    "year": 1948,
+    "variable": "sim.natural.bottom",
+    "value": -0.24030236
+  },
+  {
+    "year": 1948,
+    "variable": "sim.natural.top",
+    "value": 0.370711286
+  },
+  {
+    "year": 1948,
+    "variable": "observed",
+    "value": 0.181
+  },
+  {
+    "year": 1949,
+    "variable": "sim.human.mean",
+    "value": 0.243089139
+  },
+  {
+    "year": 1949,
+    "variable": "sim.human.bottom",
+    "value": -0.016767164
+  },
+  {
+    "year": 1949,
+    "variable": "sim.human.top",
+    "value": 0.484132411
+  },
+  {
+    "year": 1949,
+    "variable": "sim.natural.mean",
+    "value": 0.082015363
+  },
+  {
+    "year": 1949,
+    "variable": "sim.natural.bottom",
+    "value": -0.226836634
+  },
+  {
+    "year": 1949,
+    "variable": "sim.natural.top",
+    "value": 0.421233825
+  },
+  {
+    "year": 1949,
+    "variable": "observed",
+    "value": 0.174
+  },
+  {
+    "year": 1950,
+    "variable": "sim.human.mean",
+    "value": 0.228640448
+  },
+  {
+    "year": 1950,
+    "variable": "sim.human.bottom",
+    "value": -0.051768153
+  },
+  {
+    "year": 1950,
+    "variable": "sim.human.top",
+    "value": 0.498880502
+  },
+  {
+    "year": 1950,
+    "variable": "sim.natural.mean",
+    "value": 0.07254279
+  },
+  {
+    "year": 1950,
+    "variable": "sim.natural.bottom",
+    "value": -0.130672707
+  },
+  {
+    "year": 1950,
+    "variable": "sim.natural.top",
+    "value": 0.432629224
+  },
+  {
+    "year": 1950,
+    "variable": "observed",
+    "value": 0.096
+  },
+  {
+    "year": 1951,
+    "variable": "sim.human.mean",
+    "value": 0.207301659
+  },
+  {
+    "year": 1951,
+    "variable": "sim.human.bottom",
+    "value": -0.038437176
+  },
+  {
+    "year": 1951,
+    "variable": "sim.human.top",
+    "value": 0.512234045
+  },
+  {
+    "year": 1951,
+    "variable": "sim.natural.mean",
+    "value": 0.080471651
+  },
+  {
+    "year": 1951,
+    "variable": "sim.natural.bottom",
+    "value": -0.183341213
+  },
+  {
+    "year": 1951,
+    "variable": "sim.natural.top",
+    "value": 0.370823506
+  },
+  {
+    "year": 1951,
+    "variable": "observed",
+    "value": 0.251
+  },
+  {
+    "year": 1952,
+    "variable": "sim.human.mean",
+    "value": 0.220490145
+  },
+  {
+    "year": 1952,
+    "variable": "sim.human.bottom",
+    "value": -0.003002975
+  },
+  {
+    "year": 1952,
+    "variable": "sim.human.top",
+    "value": 0.534874798
+  },
+  {
+    "year": 1952,
+    "variable": "sim.natural.mean",
+    "value": 0.077608585
+  },
+  {
+    "year": 1952,
+    "variable": "sim.natural.bottom",
+    "value": -0.131245538
+  },
+  {
+    "year": 1952,
+    "variable": "sim.natural.top",
+    "value": 0.283559732
+  },
+  {
+    "year": 1952,
+    "variable": "observed",
+    "value": 0.324
+  },
+  {
+    "year": 1953,
+    "variable": "sim.human.mean",
+    "value": 0.20469426
+  },
+  {
+    "year": 1953,
+    "variable": "sim.human.bottom",
+    "value": -0.088457073
+  },
+  {
+    "year": 1953,
+    "variable": "sim.human.top",
+    "value": 0.510347044
+  },
+  {
+    "year": 1953,
+    "variable": "sim.natural.mean",
+    "value": 0.083974746
+  },
+  {
+    "year": 1953,
+    "variable": "sim.natural.bottom",
+    "value": -0.115103829
+  },
+  {
+    "year": 1953,
+    "variable": "sim.natural.top",
+    "value": 0.381830182
+  },
+  {
+    "year": 1953,
+    "variable": "observed",
+    "value": 0.389
+  },
+  {
+    "year": 1954,
+    "variable": "sim.human.mean",
+    "value": 0.209608562
+  },
+  {
+    "year": 1954,
+    "variable": "sim.human.bottom",
+    "value": -0.096270339
+  },
+  {
+    "year": 1954,
+    "variable": "sim.human.top",
+    "value": 0.504099077
+  },
+  {
+    "year": 1954,
+    "variable": "sim.natural.mean",
+    "value": 0.079958183
+  },
+  {
+    "year": 1954,
+    "variable": "sim.natural.bottom",
+    "value": -0.108609847
+  },
+  {
+    "year": 1954,
+    "variable": "sim.natural.top",
+    "value": 0.317211124
+  },
+  {
+    "year": 1954,
+    "variable": "observed",
+    "value": 0.196
+  },
+  {
+    "year": 1955,
+    "variable": "sim.human.mean",
+    "value": 0.21381966
+  },
+  {
+    "year": 1955,
+    "variable": "sim.human.bottom",
+    "value": -0.096743935
+  },
+  {
+    "year": 1955,
+    "variable": "sim.human.top",
+    "value": 0.480932798
+  },
+  {
+    "year": 1955,
+    "variable": "sim.natural.mean",
+    "value": 0.086231531
+  },
+  {
+    "year": 1955,
+    "variable": "sim.natural.bottom",
+    "value": -0.235126455
+  },
+  {
+    "year": 1955,
+    "variable": "sim.natural.top",
+    "value": 0.343746736
+  },
+  {
+    "year": 1955,
+    "variable": "observed",
+    "value": 0.139
+  },
+  {
+    "year": 1956,
+    "variable": "sim.human.mean",
+    "value": 0.192060543
+  },
+  {
+    "year": 1956,
+    "variable": "sim.human.bottom",
+    "value": -0.143739826
+  },
+  {
+    "year": 1956,
+    "variable": "sim.human.top",
+    "value": 0.466367045
+  },
+  {
+    "year": 1956,
+    "variable": "sim.natural.mean",
+    "value": 0.075649225
+  },
+  {
+    "year": 1956,
+    "variable": "sim.natural.bottom",
+    "value": -0.182216497
+  },
+  {
+    "year": 1956,
+    "variable": "sim.natural.top",
+    "value": 0.359291863
+  },
+  {
+    "year": 1956,
+    "variable": "observed",
+    "value": 0.076
+  },
+  {
+    "year": 1957,
+    "variable": "sim.human.mean",
+    "value": 0.188184435
+  },
+  {
+    "year": 1957,
+    "variable": "sim.human.bottom",
+    "value": -0.141822452
+  },
+  {
+    "year": 1957,
+    "variable": "sim.human.top",
+    "value": 0.49672084
+  },
+  {
+    "year": 1957,
+    "variable": "sim.natural.mean",
+    "value": 0.09829169
+  },
+  {
+    "year": 1957,
+    "variable": "sim.natural.bottom",
+    "value": -0.104810932
+  },
+  {
+    "year": 1957,
+    "variable": "sim.natural.top",
+    "value": 0.379625847
+  },
+  {
+    "year": 1957,
+    "variable": "observed",
+    "value": 0.296
+  },
+  {
+    "year": 1958,
+    "variable": "sim.human.mean",
+    "value": 0.229221564
+  },
+  {
+    "year": 1958,
+    "variable": "sim.human.bottom",
+    "value": -0.069392946
+  },
+  {
+    "year": 1958,
+    "variable": "sim.human.top",
+    "value": 0.581840837
+  },
+  {
+    "year": 1958,
+    "variable": "sim.natural.mean",
+    "value": 0.096348246
+  },
+  {
+    "year": 1958,
+    "variable": "sim.natural.bottom",
+    "value": -0.212860636
+  },
+  {
+    "year": 1958,
+    "variable": "sim.natural.top",
+    "value": 0.404633471
+  },
+  {
+    "year": 1958,
+    "variable": "observed",
+    "value": 0.306
+  },
+  {
+    "year": 1959,
+    "variable": "sim.human.mean",
+    "value": 0.250799409
+  },
+  {
+    "year": 1959,
+    "variable": "sim.human.bottom",
+    "value": -0.031393784
+  },
+  {
+    "year": 1959,
+    "variable": "sim.human.top",
+    "value": 0.51420866
+  },
+  {
+    "year": 1959,
+    "variable": "sim.natural.mean",
+    "value": 0.11835018
+  },
+  {
+    "year": 1959,
+    "variable": "sim.natural.bottom",
+    "value": -0.074234085
+  },
+  {
+    "year": 1959,
+    "variable": "sim.natural.top",
+    "value": 0.381624665
+  },
+  {
+    "year": 1959,
+    "variable": "observed",
+    "value": 0.286
+  },
+  {
+    "year": 1960,
+    "variable": "sim.human.mean",
+    "value": 0.22573043
+  },
+  {
+    "year": 1960,
+    "variable": "sim.human.bottom",
+    "value": -0.119862591
+  },
+  {
+    "year": 1960,
+    "variable": "sim.human.top",
+    "value": 0.524451883
+  },
+  {
+    "year": 1960,
+    "variable": "sim.natural.mean",
+    "value": 0.128521609
+  },
+  {
+    "year": 1960,
+    "variable": "sim.natural.bottom",
+    "value": -0.126283379
+  },
+  {
+    "year": 1960,
+    "variable": "sim.natural.top",
+    "value": 0.390109332
+  },
+  {
+    "year": 1960,
+    "variable": "observed",
+    "value": 0.231
+  },
+  {
+    "year": 1961,
+    "variable": "sim.human.mean",
+    "value": 0.192931123
+  },
+  {
+    "year": 1961,
+    "variable": "sim.human.bottom",
+    "value": -0.167149971
+  },
+  {
+    "year": 1961,
+    "variable": "sim.human.top",
+    "value": 0.462461503
+  },
+  {
+    "year": 1961,
+    "variable": "sim.natural.mean",
+    "value": 0.101784664
+  },
+  {
+    "year": 1961,
+    "variable": "sim.natural.bottom",
+    "value": -0.134751245
+  },
+  {
+    "year": 1961,
+    "variable": "sim.natural.top",
+    "value": 0.329311471
+  },
+  {
+    "year": 1961,
+    "variable": "observed",
+    "value": 0.309
+  },
+  {
+    "year": 1962,
+    "variable": "sim.human.mean",
+    "value": 0.190053607
+  },
+  {
+    "year": 1962,
+    "variable": "sim.human.bottom",
+    "value": -0.151241344
+  },
+  {
+    "year": 1962,
+    "variable": "sim.human.top",
+    "value": 0.477105117
+  },
+  {
+    "year": 1962,
+    "variable": "sim.natural.mean",
+    "value": 0.072935281
+  },
+  {
+    "year": 1962,
+    "variable": "sim.natural.bottom",
+    "value": -0.186651557
+  },
+  {
+    "year": 1962,
+    "variable": "sim.natural.top",
+    "value": 0.35329929
+  },
+  {
+    "year": 1962,
+    "variable": "observed",
+    "value": 0.261
+  },
+  {
+    "year": 1963,
+    "variable": "sim.human.mean",
+    "value": 0.111798366
+  },
+  {
+    "year": 1963,
+    "variable": "sim.human.bottom",
+    "value": -0.328237053
+  },
+  {
+    "year": 1963,
+    "variable": "sim.human.top",
+    "value": 0.481677039
+  },
+  {
+    "year": 1963,
+    "variable": "sim.natural.mean",
+    "value": 0.012681447
+  },
+  {
+    "year": 1963,
+    "variable": "sim.natural.bottom",
+    "value": -0.212909211
+  },
+  {
+    "year": 1963,
+    "variable": "sim.natural.top",
+    "value": 0.34105195
+  },
+  {
+    "year": 1963,
+    "variable": "observed",
+    "value": 0.296
+  },
+  {
+    "year": 1964,
+    "variable": "sim.human.mean",
+    "value": -0.000783698
+  },
+  {
+    "year": 1964,
+    "variable": "sim.human.bottom",
+    "value": -0.321901891
+  },
+  {
+    "year": 1964,
+    "variable": "sim.human.top",
+    "value": 0.244123062
+  },
+  {
+    "year": 1964,
+    "variable": "sim.natural.mean",
+    "value": -0.060041895
+  },
+  {
+    "year": 1964,
+    "variable": "sim.natural.bottom",
+    "value": -0.300589014
+  },
+  {
+    "year": 1964,
+    "variable": "sim.natural.top",
+    "value": 0.165642406
+  },
+  {
+    "year": 1964,
+    "variable": "observed",
+    "value": 0.046
+  },
+  {
+    "year": 1965,
+    "variable": "sim.human.mean",
+    "value": 0.002625796
+  },
+  {
+    "year": 1965,
+    "variable": "sim.human.bottom",
+    "value": -0.279303058
+  },
+  {
+    "year": 1965,
+    "variable": "sim.human.top",
+    "value": 0.313424337
+  },
+  {
+    "year": 1965,
+    "variable": "sim.natural.mean",
+    "value": -0.057692354
+  },
+  {
+    "year": 1965,
+    "variable": "sim.natural.bottom",
+    "value": -0.278425047
+  },
+  {
+    "year": 1965,
+    "variable": "sim.natural.top",
+    "value": 0.17304226
+  },
+  {
+    "year": 1965,
+    "variable": "observed",
+    "value": 0.154
+  },
+  {
+    "year": 1966,
+    "variable": "sim.human.mean",
+    "value": 0.074542287
+  },
+  {
+    "year": 1966,
+    "variable": "sim.human.bottom",
+    "value": -0.218468349
+  },
+  {
+    "year": 1966,
+    "variable": "sim.human.top",
+    "value": 0.452341856
+  },
+  {
+    "year": 1966,
+    "variable": "sim.natural.mean",
+    "value": -0.031580175
+  },
+  {
+    "year": 1966,
+    "variable": "sim.natural.bottom",
+    "value": -0.261132851
+  },
+  {
+    "year": 1966,
+    "variable": "sim.natural.top",
+    "value": 0.194189334
+  },
+  {
+    "year": 1966,
+    "variable": "observed",
+    "value": 0.206
+  },
+  {
+    "year": 1967,
+    "variable": "sim.human.mean",
+    "value": 0.050174969
+  },
+  {
+    "year": 1967,
+    "variable": "sim.human.bottom",
+    "value": -0.248628051
+  },
+  {
+    "year": 1967,
+    "variable": "sim.human.top",
+    "value": 0.40911345
+  },
+  {
+    "year": 1967,
+    "variable": "sim.natural.mean",
+    "value": -0.009862613
+  },
+  {
+    "year": 1967,
+    "variable": "sim.natural.bottom",
+    "value": -0.270249573
+  },
+  {
+    "year": 1967,
+    "variable": "sim.natural.top",
+    "value": 0.208029178
+  },
+  {
+    "year": 1967,
+    "variable": "observed",
+    "value": 0.239
+  },
+  {
+    "year": 1968,
+    "variable": "sim.human.mean",
+    "value": 0.101359346
+  },
+  {
+    "year": 1968,
+    "variable": "sim.human.bottom",
+    "value": -0.194156645
+  },
+  {
+    "year": 1968,
+    "variable": "sim.human.top",
+    "value": 0.403384536
+  },
+  {
+    "year": 1968,
+    "variable": "sim.natural.mean",
+    "value": 0.017292599
+  },
+  {
+    "year": 1968,
+    "variable": "sim.natural.bottom",
+    "value": -0.253505028
+  },
+  {
+    "year": 1968,
+    "variable": "sim.natural.top",
+    "value": 0.307010838
+  },
+  {
+    "year": 1968,
+    "variable": "observed",
+    "value": 0.171
+  },
+  {
+    "year": 1969,
+    "variable": "sim.human.mean",
+    "value": 0.125125645
+  },
+  {
+    "year": 1969,
+    "variable": "sim.human.bottom",
+    "value": -0.206841436
+  },
+  {
+    "year": 1969,
+    "variable": "sim.human.top",
+    "value": 0.444549032
+  },
+  {
+    "year": 1969,
+    "variable": "sim.natural.mean",
+    "value": 0.013175586
+  },
+  {
+    "year": 1969,
+    "variable": "sim.natural.bottom",
+    "value": -0.206797608
+  },
+  {
+    "year": 1969,
+    "variable": "sim.natural.top",
+    "value": 0.28674617
+  },
+  {
+    "year": 1969,
+    "variable": "observed",
+    "value": 0.314
+  },
+  {
+    "year": 1970,
+    "variable": "sim.human.mean",
+    "value": 0.155049349
+  },
+  {
+    "year": 1970,
+    "variable": "sim.human.bottom",
+    "value": -0.149910045
+  },
+  {
+    "year": 1970,
+    "variable": "sim.human.top",
+    "value": 0.458129779
+  },
+  {
+    "year": 1970,
+    "variable": "sim.natural.mean",
+    "value": 0.019071343
+  },
+  {
+    "year": 1970,
+    "variable": "sim.natural.bottom",
+    "value": -0.193397984
+  },
+  {
+    "year": 1970,
+    "variable": "sim.natural.top",
+    "value": 0.300625868
+  },
+  {
+    "year": 1970,
+    "variable": "observed",
+    "value": 0.274
+  },
+  {
+    "year": 1971,
+    "variable": "sim.human.mean",
+    "value": 0.178118967
+  },
+  {
+    "year": 1971,
+    "variable": "sim.human.bottom",
+    "value": -0.089717184
+  },
+  {
+    "year": 1971,
+    "variable": "sim.human.top",
+    "value": 0.428766489
+  },
+  {
+    "year": 1971,
+    "variable": "sim.natural.mean",
+    "value": 0.050424157
+  },
+  {
+    "year": 1971,
+    "variable": "sim.natural.bottom",
+    "value": -0.134141346
+  },
+  {
+    "year": 1971,
+    "variable": "sim.natural.top",
+    "value": 0.397306134
+  },
+  {
+    "year": 1971,
+    "variable": "observed",
+    "value": 0.154
+  },
+  {
+    "year": 1972,
+    "variable": "sim.human.mean",
+    "value": 0.16582882
+  },
+  {
+    "year": 1972,
+    "variable": "sim.human.bottom",
+    "value": -0.12323181
+  },
+  {
+    "year": 1972,
+    "variable": "sim.human.top",
+    "value": 0.523980359
+  },
+  {
+    "year": 1972,
+    "variable": "sim.natural.mean",
+    "value": 0.047103665
+  },
+  {
+    "year": 1972,
+    "variable": "sim.natural.bottom",
+    "value": -0.159964708
+  },
+  {
+    "year": 1972,
+    "variable": "sim.natural.top",
+    "value": 0.349082745
+  },
+  {
+    "year": 1972,
+    "variable": "observed",
+    "value": 0.261
+  },
+  {
+    "year": 1973,
+    "variable": "sim.human.mean",
+    "value": 0.175992806
+  },
+  {
+    "year": 1973,
+    "variable": "sim.human.bottom",
+    "value": -0.138249375
+  },
+  {
+    "year": 1973,
+    "variable": "sim.human.top",
+    "value": 0.471123777
+  },
+  {
+    "year": 1973,
+    "variable": "sim.natural.mean",
+    "value": 0.055923765
+  },
+  {
+    "year": 1973,
+    "variable": "sim.natural.bottom",
+    "value": -0.175824741
+  },
+  {
+    "year": 1973,
+    "variable": "sim.natural.top",
+    "value": 0.296526918
+  },
+  {
+    "year": 1973,
+    "variable": "observed",
+    "value": 0.404
+  },
+  {
+    "year": 1974,
+    "variable": "sim.human.mean",
+    "value": 0.200406821
+  },
+  {
+    "year": 1974,
+    "variable": "sim.human.bottom",
+    "value": -0.144208924
+  },
+  {
+    "year": 1974,
+    "variable": "sim.human.top",
+    "value": 0.521635961
+  },
+  {
+    "year": 1974,
+    "variable": "sim.natural.mean",
+    "value": 0.069116298
+  },
+  {
+    "year": 1974,
+    "variable": "sim.natural.bottom",
+    "value": -0.161893268
+  },
+  {
+    "year": 1974,
+    "variable": "sim.natural.top",
+    "value": 0.277666547
+  },
+  {
+    "year": 1974,
+    "variable": "observed",
+    "value": 0.184
+  },
+  {
+    "year": 1975,
+    "variable": "sim.human.mean",
+    "value": 0.165563365
+  },
+  {
+    "year": 1975,
+    "variable": "sim.human.bottom",
+    "value": -0.165989829
+  },
+  {
+    "year": 1975,
+    "variable": "sim.human.top",
+    "value": 0.473284239
+  },
+  {
+    "year": 1975,
+    "variable": "sim.natural.mean",
+    "value": 0.00867806
+  },
+  {
+    "year": 1975,
+    "variable": "sim.natural.bottom",
+    "value": -0.20442482
+  },
+  {
+    "year": 1975,
+    "variable": "sim.natural.top",
+    "value": 0.280681939
+  },
+  {
+    "year": 1975,
+    "variable": "observed",
+    "value": 0.241
+  },
+  {
+    "year": 1976,
+    "variable": "sim.human.mean",
+    "value": 0.171855365
+  },
+  {
+    "year": 1976,
+    "variable": "sim.human.bottom",
+    "value": -0.111644698
+  },
+  {
+    "year": 1976,
+    "variable": "sim.human.top",
+    "value": 0.502783289
+  },
+  {
+    "year": 1976,
+    "variable": "sim.natural.mean",
+    "value": -0.003458585
+  },
+  {
+    "year": 1976,
+    "variable": "sim.natural.bottom",
+    "value": -0.222714
+  },
+  {
+    "year": 1976,
+    "variable": "sim.natural.top",
+    "value": 0.231995601
+  },
+  {
+    "year": 1976,
+    "variable": "observed",
+    "value": 0.149
+  },
+  {
+    "year": 1977,
+    "variable": "sim.human.mean",
+    "value": 0.213726227
+  },
+  {
+    "year": 1977,
+    "variable": "sim.human.bottom",
+    "value": -0.098289675
+  },
+  {
+    "year": 1977,
+    "variable": "sim.human.top",
+    "value": 0.620586556
+  },
+  {
+    "year": 1977,
+    "variable": "sim.natural.mean",
+    "value": 0.026930438
+  },
+  {
+    "year": 1977,
+    "variable": "sim.natural.bottom",
+    "value": -0.193050534
+  },
+  {
+    "year": 1977,
+    "variable": "sim.natural.top",
+    "value": 0.271104707
+  },
+  {
+    "year": 1977,
+    "variable": "observed",
+    "value": 0.454
+  },
+  {
+    "year": 1978,
+    "variable": "sim.human.mean",
+    "value": 0.261247438
+  },
+  {
+    "year": 1978,
+    "variable": "sim.human.bottom",
+    "value": -0.065203311
+  },
+  {
+    "year": 1978,
+    "variable": "sim.human.top",
+    "value": 0.530670899
+  },
+  {
+    "year": 1978,
+    "variable": "sim.natural.mean",
+    "value": 0.04949949
+  },
+  {
+    "year": 1978,
+    "variable": "sim.natural.bottom",
+    "value": -0.189881088
+  },
+  {
+    "year": 1978,
+    "variable": "sim.natural.top",
+    "value": 0.308425008
+  },
+  {
+    "year": 1978,
+    "variable": "observed",
+    "value": 0.349
+  },
+  {
+    "year": 1979,
+    "variable": "sim.human.mean",
+    "value": 0.259110437
+  },
+  {
+    "year": 1979,
+    "variable": "sim.human.bottom",
+    "value": -0.048773949
+  },
+  {
+    "year": 1979,
+    "variable": "sim.human.top",
+    "value": 0.637835199
+  },
+  {
+    "year": 1979,
+    "variable": "sim.natural.mean",
+    "value": 0.059318346
+  },
+  {
+    "year": 1979,
+    "variable": "sim.natural.bottom",
+    "value": -0.141690987
+  },
+  {
+    "year": 1979,
+    "variable": "sim.natural.top",
+    "value": 0.240223027
+  },
+  {
+    "year": 1979,
+    "variable": "observed",
+    "value": 0.436
+  },
+  {
+    "year": 1980,
+    "variable": "sim.human.mean",
+    "value": 0.285910761
+  },
+  {
+    "year": 1980,
+    "variable": "sim.human.bottom",
+    "value": -0.022822898
+  },
+  {
+    "year": 1980,
+    "variable": "sim.human.top",
+    "value": 0.761277499
+  },
+  {
+    "year": 1980,
+    "variable": "sim.natural.mean",
+    "value": 0.094214475
+  },
+  {
+    "year": 1980,
+    "variable": "sim.natural.bottom",
+    "value": -0.126126353
+  },
+  {
+    "year": 1980,
+    "variable": "sim.natural.top",
+    "value": 0.30436797
+  },
+  {
+    "year": 1980,
+    "variable": "observed",
+    "value": 0.541
+  },
+  {
+    "year": 1981,
+    "variable": "sim.human.mean",
+    "value": 0.303686493
+  },
+  {
+    "year": 1981,
+    "variable": "sim.human.bottom",
+    "value": -0.122735437
+  },
+  {
+    "year": 1981,
+    "variable": "sim.human.top",
+    "value": 0.643073753
+  },
+  {
+    "year": 1981,
+    "variable": "sim.natural.mean",
+    "value": 0.095797965
+  },
+  {
+    "year": 1981,
+    "variable": "sim.natural.bottom",
+    "value": -0.110599367
+  },
+  {
+    "year": 1981,
+    "variable": "sim.natural.top",
+    "value": 0.397441758
+  },
+  {
+    "year": 1981,
+    "variable": "observed",
+    "value": 0.586
+  },
+  {
+    "year": 1982,
+    "variable": "sim.human.mean",
+    "value": 0.341261283
+  },
+  {
+    "year": 1982,
+    "variable": "sim.human.bottom",
+    "value": -0.005978392
+  },
+  {
+    "year": 1982,
+    "variable": "sim.human.top",
+    "value": 0.662606741
+  },
+  {
+    "year": 1982,
+    "variable": "sim.natural.mean",
+    "value": 0.022329747
+  },
+  {
+    "year": 1982,
+    "variable": "sim.natural.bottom",
+    "value": -0.188688566
+  },
+  {
+    "year": 1982,
+    "variable": "sim.natural.top",
+    "value": 0.261223203
+  },
+  {
+    "year": 1982,
+    "variable": "observed",
+    "value": 0.396
+  },
+  {
+    "year": 1983,
+    "variable": "sim.human.mean",
+    "value": 0.23314916
+  },
+  {
+    "year": 1983,
+    "variable": "sim.human.bottom",
+    "value": -0.116941364
+  },
+  {
+    "year": 1983,
+    "variable": "sim.human.top",
+    "value": 0.577774354
+  },
+  {
+    "year": 1983,
+    "variable": "sim.natural.mean",
+    "value": -0.079136457
+  },
+  {
+    "year": 1983,
+    "variable": "sim.natural.bottom",
+    "value": -0.326708261
+  },
+  {
+    "year": 1983,
+    "variable": "sim.natural.top",
+    "value": 0.152338577
+  },
+  {
+    "year": 1983,
+    "variable": "observed",
+    "value": 0.571
+  },
+  {
+    "year": 1984,
+    "variable": "sim.human.mean",
+    "value": 0.248925272
+  },
+  {
+    "year": 1984,
+    "variable": "sim.human.bottom",
+    "value": -0.062356177
+  },
+  {
+    "year": 1984,
+    "variable": "sim.human.top",
+    "value": 0.581365657
+  },
+  {
+    "year": 1984,
+    "variable": "sim.natural.mean",
+    "value": -0.071503808
+  },
+  {
+    "year": 1984,
+    "variable": "sim.natural.bottom",
+    "value": -0.276843543
+  },
+  {
+    "year": 1984,
+    "variable": "sim.natural.top",
+    "value": 0.185936064
+  },
+  {
+    "year": 1984,
+    "variable": "observed",
+    "value": 0.409
+  },
+  {
+    "year": 1985,
+    "variable": "sim.human.mean",
+    "value": 0.285124713
+  },
+  {
+    "year": 1985,
+    "variable": "sim.human.bottom",
+    "value": -0.027772522
+  },
+  {
+    "year": 1985,
+    "variable": "sim.human.top",
+    "value": 0.690954511
+  },
+  {
+    "year": 1985,
+    "variable": "sim.natural.mean",
+    "value": -0.035411745
+  },
+  {
+    "year": 1985,
+    "variable": "sim.natural.bottom",
+    "value": -0.231705635
+  },
+  {
+    "year": 1985,
+    "variable": "sim.natural.top",
+    "value": 0.206617656
+  },
+  {
+    "year": 1985,
+    "variable": "observed",
+    "value": 0.401
+  },
+  {
+    "year": 1986,
+    "variable": "sim.human.mean",
+    "value": 0.329214356
+  },
+  {
+    "year": 1986,
+    "variable": "sim.human.bottom",
+    "value": -0.014478108
+  },
+  {
+    "year": 1986,
+    "variable": "sim.human.top",
+    "value": 0.758604486
+  },
+  {
+    "year": 1986,
+    "variable": "sim.natural.mean",
+    "value": -0.033764451
+  },
+  {
+    "year": 1986,
+    "variable": "sim.natural.bottom",
+    "value": -0.246126417
+  },
+  {
+    "year": 1986,
+    "variable": "sim.natural.top",
+    "value": 0.203104214
+  },
+  {
+    "year": 1986,
+    "variable": "observed",
+    "value": 0.441
+  },
+  {
+    "year": 1987,
+    "variable": "sim.human.mean",
+    "value": 0.393094102
+  },
+  {
+    "year": 1987,
+    "variable": "sim.human.bottom",
+    "value": 0.02782168
+  },
+  {
+    "year": 1987,
+    "variable": "sim.human.top",
+    "value": 0.740193103
+  },
+  {
+    "year": 1987,
+    "variable": "sim.natural.mean",
+    "value": -0.02192222
+  },
+  {
+    "year": 1987,
+    "variable": "sim.natural.bottom",
+    "value": -0.235573914
+  },
+  {
+    "year": 1987,
+    "variable": "sim.natural.top",
+    "value": 0.319623699
+  },
+  {
+    "year": 1987,
+    "variable": "observed",
+    "value": 0.579
+  },
+  {
+    "year": 1988,
+    "variable": "sim.human.mean",
+    "value": 0.437760322
+  },
+  {
+    "year": 1988,
+    "variable": "sim.human.bottom",
+    "value": 0.066918072
+  },
+  {
+    "year": 1988,
+    "variable": "sim.human.top",
+    "value": 0.782943344
+  },
+  {
+    "year": 1988,
+    "variable": "sim.natural.mean",
+    "value": 0.00456794
+  },
+  {
+    "year": 1988,
+    "variable": "sim.natural.bottom",
+    "value": -0.295714631
+  },
+  {
+    "year": 1988,
+    "variable": "sim.natural.top",
+    "value": 0.308067379
+  },
+  {
+    "year": 1988,
+    "variable": "observed",
+    "value": 0.634
+  },
+  {
+    "year": 1989,
+    "variable": "sim.human.mean",
+    "value": 0.471595242
+  },
+  {
+    "year": 1989,
+    "variable": "sim.human.bottom",
+    "value": 0.198574469
+  },
+  {
+    "year": 1989,
+    "variable": "sim.human.top",
+    "value": 0.924847468
+  },
+  {
+    "year": 1989,
+    "variable": "sim.natural.mean",
+    "value": 0.040371418
+  },
+  {
+    "year": 1989,
+    "variable": "sim.natural.bottom",
+    "value": -0.236343471
+  },
+  {
+    "year": 1989,
+    "variable": "sim.natural.top",
+    "value": 0.311471145
+  },
+  {
+    "year": 1989,
+    "variable": "observed",
+    "value": 0.524
+  },
+  {
+    "year": 1990,
+    "variable": "sim.human.mean",
+    "value": 0.479280465
+  },
+  {
+    "year": 1990,
+    "variable": "sim.human.bottom",
+    "value": 0.108845295
+  },
+  {
+    "year": 1990,
+    "variable": "sim.human.top",
+    "value": 0.867163608
+  },
+  {
+    "year": 1990,
+    "variable": "sim.natural.mean",
+    "value": 0.0568892
+  },
+  {
+    "year": 1990,
+    "variable": "sim.natural.bottom",
+    "value": -0.171469535
+  },
+  {
+    "year": 1990,
+    "variable": "sim.natural.top",
+    "value": 0.33431988
+  },
+  {
+    "year": 1990,
+    "variable": "observed",
+    "value": 0.699
+  },
+  {
+    "year": 1991,
+    "variable": "sim.human.mean",
+    "value": 0.444783683
+  },
+  {
+    "year": 1991,
+    "variable": "sim.human.bottom",
+    "value": 0.027785495
+  },
+  {
+    "year": 1991,
+    "variable": "sim.human.top",
+    "value": 0.852901227
+  },
+  {
+    "year": 1991,
+    "variable": "sim.natural.mean",
+    "value": 0.008896179
+  },
+  {
+    "year": 1991,
+    "variable": "sim.natural.bottom",
+    "value": -0.246413438
+  },
+  {
+    "year": 1991,
+    "variable": "sim.natural.top",
+    "value": 0.257643155
+  },
+  {
+    "year": 1991,
+    "variable": "observed",
+    "value": 0.676
+  },
+  {
+    "year": 1992,
+    "variable": "sim.human.mean",
+    "value": 0.238438483
+  },
+  {
+    "year": 1992,
+    "variable": "sim.human.bottom",
+    "value": -0.136021594
+  },
+  {
+    "year": 1992,
+    "variable": "sim.human.top",
+    "value": 0.654184864
+  },
+  {
+    "year": 1992,
+    "variable": "sim.natural.mean",
+    "value": -0.22445155
+  },
+  {
+    "year": 1992,
+    "variable": "sim.natural.bottom",
+    "value": -0.485459876
+  },
+  {
+    "year": 1992,
+    "variable": "sim.natural.top",
+    "value": 0.112417457
+  },
+  {
+    "year": 1992,
+    "variable": "observed",
+    "value": 0.474
+  },
+  {
+    "year": 1993,
+    "variable": "sim.human.mean",
+    "value": 0.282766349
+  },
+  {
+    "year": 1993,
+    "variable": "sim.human.bottom",
+    "value": -0.170007452
+  },
+  {
+    "year": 1993,
+    "variable": "sim.human.top",
+    "value": 0.681164771
+  },
+  {
+    "year": 1993,
+    "variable": "sim.natural.mean",
+    "value": -0.197734448
+  },
+  {
+    "year": 1993,
+    "variable": "sim.natural.bottom",
+    "value": -0.434010417
+  },
+  {
+    "year": 1993,
+    "variable": "sim.natural.top",
+    "value": 0.114987772
+  },
+  {
+    "year": 1993,
+    "variable": "observed",
+    "value": 0.521
+  },
+  {
+    "year": 1994,
+    "variable": "sim.human.mean",
+    "value": 0.37401882
+  },
+  {
+    "year": 1994,
+    "variable": "sim.human.bottom",
+    "value": -0.099843145
+  },
+  {
+    "year": 1994,
+    "variable": "sim.human.top",
+    "value": 0.749573413
+  },
+  {
+    "year": 1994,
+    "variable": "sim.natural.mean",
+    "value": -0.088892392
+  },
+  {
+    "year": 1994,
+    "variable": "sim.natural.bottom",
+    "value": -0.317682292
+  },
+  {
+    "year": 1994,
+    "variable": "sim.natural.top",
+    "value": 0.302366158
+  },
+  {
+    "year": 1994,
+    "variable": "observed",
+    "value": 0.576
+  },
+  {
+    "year": 1995,
+    "variable": "sim.human.mean",
+    "value": 0.442331633
+  },
+  {
+    "year": 1995,
+    "variable": "sim.human.bottom",
+    "value": 0.107169117
+  },
+  {
+    "year": 1995,
+    "variable": "sim.human.top",
+    "value": 0.833514812
+  },
+  {
+    "year": 1995,
+    "variable": "sim.natural.mean",
+    "value": -0.053450205
+  },
+  {
+    "year": 1995,
+    "variable": "sim.natural.bottom",
+    "value": -0.298686927
+  },
+  {
+    "year": 1995,
+    "variable": "sim.natural.top",
+    "value": 0.252228405
+  },
+  {
+    "year": 1995,
+    "variable": "observed",
+    "value": 0.726
+  },
+  {
+    "year": 1996,
+    "variable": "sim.human.mean",
+    "value": 0.500601314
+  },
+  {
+    "year": 1996,
+    "variable": "sim.human.bottom",
+    "value": 0.222882857
+  },
+  {
+    "year": 1996,
+    "variable": "sim.human.top",
+    "value": 0.879213534
+  },
+  {
+    "year": 1996,
+    "variable": "sim.natural.mean",
+    "value": -0.030993449
+  },
+  {
+    "year": 1996,
+    "variable": "sim.natural.bottom",
+    "value": -0.305355166
+  },
+  {
+    "year": 1996,
+    "variable": "sim.natural.top",
+    "value": 0.218374157
+  },
+  {
+    "year": 1996,
+    "variable": "observed",
+    "value": 0.614
+  },
+  {
+    "year": 1997,
+    "variable": "sim.human.mean",
+    "value": 0.570439679
+  },
+  {
+    "year": 1997,
+    "variable": "sim.human.bottom",
+    "value": 0.258392181
+  },
+  {
+    "year": 1997,
+    "variable": "sim.human.top",
+    "value": 0.925982173
+  },
+  {
+    "year": 1997,
+    "variable": "sim.natural.mean",
+    "value": -0.032073057
+  },
+  {
+    "year": 1997,
+    "variable": "sim.natural.bottom",
+    "value": -0.257860437
+  },
+  {
+    "year": 1997,
+    "variable": "sim.natural.top",
+    "value": 0.344253084
+  },
+  {
+    "year": 1997,
+    "variable": "observed",
+    "value": 0.759
+  },
+  {
+    "year": 1998,
+    "variable": "sim.human.mean",
+    "value": 0.59466386
+  },
+  {
+    "year": 1998,
+    "variable": "sim.human.bottom",
+    "value": 0.262371219
+  },
+  {
+    "year": 1998,
+    "variable": "sim.human.top",
+    "value": 1.030555447
+  },
+  {
+    "year": 1998,
+    "variable": "sim.natural.mean",
+    "value": -0.010774116
+  },
+  {
+    "year": 1998,
+    "variable": "sim.natural.bottom",
+    "value": -0.395640138
+  },
+  {
+    "year": 1998,
+    "variable": "sim.natural.top",
+    "value": 0.263033227
+  },
+  {
+    "year": 1998,
+    "variable": "observed",
+    "value": 0.901
+  },
+  {
+    "year": 1999,
+    "variable": "sim.human.mean",
+    "value": 0.635677159
+  },
+  {
+    "year": 1999,
+    "variable": "sim.human.bottom",
+    "value": 0.327319217
+  },
+  {
+    "year": 1999,
+    "variable": "sim.human.top",
+    "value": 1.030163877
+  },
+  {
+    "year": 1999,
+    "variable": "sim.natural.mean",
+    "value": 0.014120738
+  },
+  {
+    "year": 1999,
+    "variable": "sim.natural.bottom",
+    "value": -0.221057361
+  },
+  {
+    "year": 1999,
+    "variable": "sim.natural.top",
+    "value": 0.210798965
+  },
+  {
+    "year": 1999,
+    "variable": "observed",
+    "value": 0.666
+  },
+  {
+    "year": 2000,
+    "variable": "sim.human.mean",
+    "value": 0.697227766
+  },
+  {
+    "year": 2000,
+    "variable": "sim.human.bottom",
+    "value": 0.417299447
+  },
+  {
+    "year": 2000,
+    "variable": "sim.human.top",
+    "value": 1.162030656
+  },
+  {
+    "year": 2000,
+    "variable": "sim.natural.mean",
+    "value": 0.046353911
+  },
+  {
+    "year": 2000,
+    "variable": "sim.natural.bottom",
+    "value": -0.168666561
+  },
+  {
+    "year": 2000,
+    "variable": "sim.natural.top",
+    "value": 0.355930903
+  },
+  {
+    "year": 2000,
+    "variable": "observed",
+    "value": 0.669
+  },
+  {
+    "year": 2001,
+    "variable": "sim.human.mean",
+    "value": 0.780790024
+  },
+  {
+    "year": 2001,
+    "variable": "sim.human.bottom",
+    "value": 0.441201587
+  },
+  {
+    "year": 2001,
+    "variable": "sim.human.top",
+    "value": 1.211393239
+  },
+  {
+    "year": 2001,
+    "variable": "sim.natural.mean",
+    "value": 0.042754189
+  },
+  {
+    "year": 2001,
+    "variable": "sim.natural.bottom",
+    "value": -0.270676536
+  },
+  {
+    "year": 2001,
+    "variable": "sim.natural.top",
+    "value": 0.331534563
+  },
+  {
+    "year": 2001,
+    "variable": "observed",
+    "value": 0.811
+  },
+  {
+    "year": 2002,
+    "variable": "sim.human.mean",
+    "value": 0.800926071
+  },
+  {
+    "year": 2002,
+    "variable": "sim.human.bottom",
+    "value": 0.483483526
+  },
+  {
+    "year": 2002,
+    "variable": "sim.human.top",
+    "value": 1.218556975
+  },
+  {
+    "year": 2002,
+    "variable": "sim.natural.mean",
+    "value": 0.047385356
+  },
+  {
+    "year": 2002,
+    "variable": "sim.natural.bottom",
+    "value": -0.151636806
+  },
+  {
+    "year": 2002,
+    "variable": "sim.natural.top",
+    "value": 0.269015345
+  },
+  {
+    "year": 2002,
+    "variable": "observed",
+    "value": 0.881
+  },
+  {
+    "year": 2003,
+    "variable": "sim.human.mean",
+    "value": 0.8001558
+  },
+  {
+    "year": 2003,
+    "variable": "sim.human.bottom",
+    "value": 0.428788498
+  },
+  {
+    "year": 2003,
+    "variable": "sim.human.top",
+    "value": 1.270553615
+  },
+  {
+    "year": 2003,
+    "variable": "sim.natural.mean",
+    "value": 0.035042731
+  },
+  {
+    "year": 2003,
+    "variable": "sim.natural.bottom",
+    "value": -0.190711226
+  },
+  {
+    "year": 2003,
+    "variable": "sim.natural.top",
+    "value": 0.262020671
+  },
+  {
+    "year": 2003,
+    "variable": "observed",
+    "value": 0.879
+  },
+  {
+    "year": 2004,
+    "variable": "sim.human.mean",
+    "value": 0.802988232
+  },
+  {
+    "year": 2004,
+    "variable": "sim.human.bottom",
+    "value": 0.409562436
+  },
+  {
+    "year": 2004,
+    "variable": "sim.human.top",
+    "value": 1.333918502
+  },
+  {
+    "year": 2004,
+    "variable": "sim.natural.mean",
+    "value": 0.06507328
+  },
+  {
+    "year": 2004,
+    "variable": "sim.natural.bottom",
+    "value": -0.197855854
+  },
+  {
+    "year": 2004,
+    "variable": "sim.natural.top",
+    "value": 0.279756684
+  },
+  {
+    "year": 2004,
+    "variable": "observed",
+    "value": 0.804
+  },
+  {
+    "year": 2005,
+    "variable": "sim.human.mean",
+    "value": 0.769762084
+  },
+  {
+    "year": 2005,
+    "variable": "sim.human.bottom",
+    "value": 0.313119792
+  },
+  {
+    "year": 2005,
+    "variable": "sim.human.top",
+    "value": 1.261218626
+  },
+  {
+    "year": 2005,
+    "variable": "sim.natural.mean",
+    "value": 0.043404823
+  },
+  {
+    "year": 2005,
+    "variable": "sim.natural.bottom",
+    "value": -0.21369588
+  },
+  {
+    "year": 2005,
+    "variable": "sim.natural.top",
+    "value": 0.282684697
+  },
+  {
+    "year": 2005,
+    "variable": "observed",
+    "value": 0.944
+  },
+  {
+    "year": 2006,
+    "variable": "sim.human.mean",
+    "value": 0.812071272
+  },
+  {
+    "year": 2006,
+    "variable": "sim.human.bottom",
+    "value": 0.31859453
+  },
+  {
+    "year": 2006,
+    "variable": "sim.human.top",
+    "value": 1.334484752
+  },
+  {
+    "year": 2006,
+    "variable": "sim.natural.mean",
+    "value": 0.025607504
+  },
+  {
+    "year": 2006,
+    "variable": "sim.natural.bottom",
+    "value": -0.21614493
+  },
+  {
+    "year": 2006,
+    "variable": "sim.natural.top",
+    "value": 0.293138221
+  },
+  {
+    "year": 2006,
+    "variable": "observed",
+    "value": 0.904
+  },
+  {
+    "year": 2007,
+    "variable": "sim.human.mean",
+    "value": 0.845947287
+  },
+  {
+    "year": 2007,
+    "variable": "sim.human.bottom",
+    "value": 0.413806295
+  },
+  {
+    "year": 2007,
+    "variable": "sim.human.top",
+    "value": 1.316676684
+  },
+  {
+    "year": 2007,
+    "variable": "sim.natural.mean",
+    "value": 0.043828475
+  },
+  {
+    "year": 2007,
+    "variable": "sim.natural.bottom",
+    "value": -0.199392462
+  },
+  {
+    "year": 2007,
+    "variable": "sim.natural.top",
+    "value": 0.309779314
+  },
+  {
+    "year": 2007,
+    "variable": "observed",
+    "value": 0.921
+  },
+  {
+    "year": 2008,
+    "variable": "sim.human.mean",
+    "value": 0.865831542
+  },
+  {
+    "year": 2008,
+    "variable": "sim.human.bottom",
+    "value": 0.550572193
+  },
+  {
+    "year": 2008,
+    "variable": "sim.human.top",
+    "value": 1.377276395
+  },
+  {
+    "year": 2008,
+    "variable": "sim.natural.mean",
+    "value": 0.040441573
+  },
+  {
+    "year": 2008,
+    "variable": "sim.natural.bottom",
+    "value": -0.18299022
+  },
+  {
+    "year": 2008,
+    "variable": "sim.natural.top",
+    "value": 0.233710594
+  },
+  {
+    "year": 2008,
+    "variable": "observed",
+    "value": 0.796
+  },
+  {
+    "year": 2009,
+    "variable": "sim.human.mean",
+    "value": 0.868600035
+  },
+  {
+    "year": 2009,
+    "variable": "sim.human.bottom",
+    "value": 0.373230068
+  },
+  {
+    "year": 2009,
+    "variable": "sim.human.top",
+    "value": 1.46618093
+  },
+  {
+    "year": 2009,
+    "variable": "sim.natural.mean",
+    "value": 0.031547745
+  },
+  {
+    "year": 2009,
+    "variable": "sim.natural.bottom",
+    "value": -0.256913841
+  },
+  {
+    "year": 2009,
+    "variable": "sim.natural.top",
+    "value": 0.262612153
+  },
+  {
+    "year": 2009,
+    "variable": "observed",
+    "value": 0.926
+  },
+  {
+    "year": 2010,
+    "variable": "sim.human.mean",
+    "value": 0.889775946
+  },
+  {
+    "year": 2010,
+    "variable": "sim.human.bottom",
+    "value": 0.429032614
+  },
+  {
+    "year": 2010,
+    "variable": "sim.human.top",
+    "value": 1.497686264
+  },
+  {
+    "year": 2010,
+    "variable": "sim.natural.mean",
+    "value": 0.032538338
+  },
+  {
+    "year": 2010,
+    "variable": "sim.natural.bottom",
+    "value": -0.24173069
+  },
+  {
+    "year": 2010,
+    "variable": "sim.natural.top",
+    "value": 0.278449283
+  },
+  {
+    "year": 2010,
+    "variable": "observed",
+    "value": 0.996
+  },
+  {
+    "year": 2011,
+    "variable": "sim.human.mean",
+    "value": 0.935264183
+  },
+  {
+    "year": 2011,
+    "variable": "sim.human.bottom",
+    "value": 0.362052225
+  },
+  {
+    "year": 2011,
+    "variable": "sim.human.top",
+    "value": 1.520781289
+  },
+  {
+    "year": 2011,
+    "variable": "sim.natural.mean",
+    "value": 0.01818681
+  },
+  {
+    "year": 2011,
+    "variable": "sim.natural.bottom",
+    "value": -0.233900564
+  },
+  {
+    "year": 2011,
+    "variable": "sim.natural.top",
+    "value": 0.288992569
+  },
+  {
+    "year": 2011,
+    "variable": "observed",
+    "value": 0.881
+  },
+  {
+    "year": 2012,
+    "variable": "sim.human.mean",
+    "value": 0.963441009
+  },
+  {
+    "year": 2012,
+    "variable": "sim.human.bottom",
+    "value": 0.441799306
+  },
+  {
+    "year": 2012,
+    "variable": "sim.human.top",
+    "value": 1.570586653
+  },
+  {
+    "year": 2012,
+    "variable": "sim.natural.mean",
+    "value": 0.046571289
+  },
+  {
+    "year": 2012,
+    "variable": "sim.natural.bottom",
+    "value": -0.26195474
+  },
+  {
+    "year": 2012,
+    "variable": "sim.natural.top",
+    "value": 0.30171953
+  },
+  {
+    "year": 2012,
+    "variable": "observed",
+    "value": 0.906
+  },
+  {
+    "year": 2013,
+    "variable": "sim.human.mean",
+    "value": 0.999424076
+  },
+  {
+    "year": 2013,
+    "variable": "sim.human.bottom",
+    "value": 0.596328478
+  },
+  {
+    "year": 2013,
+    "variable": "sim.human.top",
+    "value": 1.59914167
+  },
+  {
+    "year": 2013,
+    "variable": "sim.natural.mean",
+    "value": 0.107182614
+  },
+  {
+    "year": 2013,
+    "variable": "sim.natural.bottom",
+    "value": -0.184261286
+  },
+  {
+    "year": 2013,
+    "variable": "sim.natural.top",
+    "value": 0.31669478
+  },
+  {
+    "year": 2013,
+    "variable": "observed",
+    "value": 0.936
+  },
+  {
+    "year": 2014,
+    "variable": "sim.human.mean",
+    "value": 1.013640036
+  },
+  {
+    "year": 2014,
+    "variable": "sim.human.bottom",
+    "value": 0.483540255
+  },
+  {
+    "year": 2014,
+    "variable": "sim.human.top",
+    "value": 1.671189924
+  },
+  {
+    "year": 2014,
+    "variable": "sim.natural.mean",
+    "value": 0.119683957
+  },
+  {
+    "year": 2014,
+    "variable": "sim.natural.bottom",
+    "value": -0.11690754
+  },
+  {
+    "year": 2014,
+    "variable": "sim.natural.top",
+    "value": 0.339192687
+  },
+  {
+    "year": 2014,
+    "variable": "observed",
+    "value": 1.006
+  },
+  {
+    "year": 2015,
+    "variable": "sim.human.mean",
+    "value": 1.04208254
+  },
+  {
+    "year": 2015,
+    "variable": "sim.human.bottom",
+    "value": 0.5250093
+  },
+  {
+    "year": 2015,
+    "variable": "sim.human.top",
+    "value": 1.743673635
+  },
+  {
+    "year": 2015,
+    "variable": "sim.natural.mean",
+    "value": 0.056504918
+  },
+  {
+    "year": 2015,
+    "variable": "sim.natural.bottom",
+    "value": -0.216156742
+  },
+  {
+    "year": 2015,
+    "variable": "sim.natural.top",
+    "value": 0.350697386
+  },
+  {
+    "year": 2015,
+    "variable": "observed",
+    "value": 1.149
+  },
+  {
+    "year": 2016,
+    "variable": "sim.human.mean",
+    "value": 1.057187503
+  },
+  {
+    "year": 2016,
+    "variable": "sim.human.bottom",
+    "value": 0.507332785
+  },
+  {
+    "year": 2016,
+    "variable": "sim.human.top",
+    "value": 1.744811901
+  },
+  {
+    "year": 2016,
+    "variable": "sim.natural.mean",
+    "value": 0.048937934
+  },
+  {
+    "year": 2016,
+    "variable": "sim.natural.bottom",
+    "value": -0.268107382
+  },
+  {
+    "year": 2016,
+    "variable": "sim.natural.top",
+    "value": 0.290533333
+  },
+  {
+    "year": 2016,
+    "variable": "observed",
+    "value": 1.264
+  },
+  {
+    "year": 2017,
+    "variable": "sim.human.mean",
+    "value": 1.100091611
+  },
+  {
+    "year": 2017,
+    "variable": "sim.human.bottom",
+    "value": 0.727634197
+  },
+  {
+    "year": 2017,
+    "variable": "sim.human.top",
+    "value": 1.781020085
+  },
+  {
+    "year": 2017,
+    "variable": "sim.natural.mean",
+    "value": 0.047106495
+  },
+  {
+    "year": 2017,
+    "variable": "sim.natural.bottom",
+    "value": -0.201490233
+  },
+  {
+    "year": 2017,
+    "variable": "sim.natural.top",
+    "value": 0.319118598
+  },
+  {
+    "year": 2017,
+    "variable": "observed",
+    "value": 1.179
+  },
+  {
+    "year": 2018,
+    "variable": "sim.human.mean",
+    "value": 1.170449934
+  },
+  {
+    "year": 2018,
+    "variable": "sim.human.bottom",
+    "value": 0.806942411
+  },
+  {
+    "year": 2018,
+    "variable": "sim.human.top",
+    "value": 1.872941599
+  },
+  {
+    "year": 2018,
+    "variable": "sim.natural.mean",
+    "value": 0.044185247
+  },
+  {
+    "year": 2018,
+    "variable": "sim.natural.bottom",
+    "value": -0.222528144
+  },
+  {
+    "year": 2018,
+    "variable": "sim.natural.top",
+    "value": 0.383821734
+  },
+  {
+    "year": 2018,
+    "variable": "observed",
+    "value": 1.101
+  },
+  {
+    "year": 2019,
+    "variable": "sim.human.mean",
+    "value": 1.189952134
+  },
+  {
+    "year": 2019,
+    "variable": "sim.human.bottom",
+    "value": 0.738261484
+  },
+  {
+    "year": 2019,
+    "variable": "sim.human.top",
+    "value": 1.870786372
+  },
+  {
+    "year": 2019,
+    "variable": "sim.natural.mean",
+    "value": 0.049385231
+  },
+  {
+    "year": 2019,
+    "variable": "sim.natural.bottom",
+    "value": -0.13631973
+  },
+  {
+    "year": 2019,
+    "variable": "sim.natural.top",
+    "value": 0.306537486
+  },
+  {
+    "year": 2019,
+    "variable": "observed",
+    "value": 1.226
+  }
+]

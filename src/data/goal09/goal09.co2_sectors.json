@@ -1,0 +1,30 @@
+[
+  {
+    "year": 1990,
+    "transport": 4752505.9,
+    "other": 1544423,
+    "industry": 7378725.2,
+    "buildings": 5525812.3
+  },
+  {
+    "year": 2000,
+    "transport": 5898565.1,
+    "other": 1002712.3,
+    "industry": 7734939.2,
+    "buildings": 6966194.1
+  },
+  {
+    "year": 2010,
+    "transport": 7185572,
+    "other": 1402962.7,
+    "industry": 11407624.5,
+    "buildings": 8394335.3
+  },
+  {
+    "year": 2020,
+    "transport": 7315970.3,
+    "other": 1837148,
+    "industry": 12048739,
+    "buildings": 8348459.4
+  }
+]

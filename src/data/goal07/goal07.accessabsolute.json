@@ -1,0 +1,758 @@
+[
+  {
+    "iso3c": "EAS",
+    "date": 2000,
+    "pop_without_urb": 12006217,
+    "pop_without_rur": 141167303
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2001,
+    "pop_without_urb": 12837883,
+    "pop_without_rur": 136185894
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2002,
+    "pop_without_urb": 12774682,
+    "pop_without_rur": 127990621
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2003,
+    "pop_without_urb": 10373525,
+    "pop_without_rur": 127433095
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2004,
+    "pop_without_urb": 12632627,
+    "pop_without_rur": 109046000
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2005,
+    "pop_without_urb": 12416865,
+    "pop_without_rur": 117919198
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2006,
+    "pop_without_urb": 11721086,
+    "pop_without_rur": 98210800
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2007,
+    "pop_without_urb": 9852454,
+    "pop_without_rur": 98910870
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2008,
+    "pop_without_urb": 9371337,
+    "pop_without_rur": 91224016
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2009,
+    "pop_without_urb": 18532742,
+    "pop_without_rur": 87083317
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2010,
+    "pop_without_urb": 17255486,
+    "pop_without_rur": 80786944
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2011,
+    "pop_without_urb": 16709155,
+    "pop_without_rur": 68776893
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2012,
+    "pop_without_urb": 16571712,
+    "pop_without_rur": 63896079
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2013,
+    "pop_without_urb": 15935870,
+    "pop_without_rur": 60538344
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2014,
+    "pop_without_urb": 15517188,
+    "pop_without_rur": 58690325
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2015,
+    "pop_without_urb": 14500532,
+    "pop_without_rur": 51762419
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2016,
+    "pop_without_urb": 13690681,
+    "pop_without_rur": 50772224
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2017,
+    "pop_without_urb": 13260835,
+    "pop_without_rur": 36466375
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2018,
+    "pop_without_urb": 12765246,
+    "pop_without_rur": 36824289
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2019,
+    "pop_without_urb": 12364537,
+    "pop_without_rur": 33187395
+  },
+  {
+    "iso3c": "EAS",
+    "date": 2020,
+    "pop_without_urb": 12353244,
+    "pop_without_rur": 34439389
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2000,
+    "pop_without_urb": 6175759,
+    "pop_without_rur": 36847282
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2001,
+    "pop_without_urb": 7306537,
+    "pop_without_rur": 33085885
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2002,
+    "pop_without_urb": 6859765,
+    "pop_without_rur": 32472165
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2003,
+    "pop_without_urb": 7538127,
+    "pop_without_rur": 31813454
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2004,
+    "pop_without_urb": 6553337,
+    "pop_without_rur": 30627867
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2005,
+    "pop_without_urb": 6537995,
+    "pop_without_rur": 29266893
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2006,
+    "pop_without_urb": 5711162,
+    "pop_without_rur": 26524810
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2007,
+    "pop_without_urb": 5379743,
+    "pop_without_rur": 25962869
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2008,
+    "pop_without_urb": 4379144,
+    "pop_without_rur": 23097147
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2009,
+    "pop_without_urb": 4486136,
+    "pop_without_rur": 22435627
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2010,
+    "pop_without_urb": 3799418,
+    "pop_without_rur": 20641033
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2011,
+    "pop_without_urb": 3495391,
+    "pop_without_rur": 19282372
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2012,
+    "pop_without_urb": 3165215,
+    "pop_without_rur": 17564469
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2013,
+    "pop_without_urb": 2878168,
+    "pop_without_rur": 16337309
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2014,
+    "pop_without_urb": 2978022,
+    "pop_without_rur": 15311683
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2015,
+    "pop_without_urb": 3167844,
+    "pop_without_rur": 13717616
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2016,
+    "pop_without_urb": 2661079,
+    "pop_without_rur": 8392500
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2017,
+    "pop_without_urb": 2422485,
+    "pop_without_rur": 11965765
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2018,
+    "pop_without_urb": 2496176,
+    "pop_without_rur": 11580083
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2019,
+    "pop_without_urb": 2075562,
+    "pop_without_rur": 10245453
+  },
+  {
+    "iso3c": "LCN",
+    "date": 2020,
+    "pop_without_urb": 1760742,
+    "pop_without_rur": 7918313
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2000,
+    "pop_without_urb": 1313399,
+    "pop_without_rur": 22293733
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2001,
+    "pop_without_urb": 2275506,
+    "pop_without_rur": 21100718
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2002,
+    "pop_without_urb": 2289134,
+    "pop_without_rur": 21777528
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2003,
+    "pop_without_urb": 2201049,
+    "pop_without_rur": 19550587
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2004,
+    "pop_without_urb": 2157543,
+    "pop_without_rur": 20268833
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2005,
+    "pop_without_urb": 2208956,
+    "pop_without_rur": 18464389
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2006,
+    "pop_without_urb": 1189965,
+    "pop_without_rur": 13157629
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2007,
+    "pop_without_urb": 2166285,
+    "pop_without_rur": 18708902
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2008,
+    "pop_without_urb": 1712201,
+    "pop_without_rur": 17498167
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2009,
+    "pop_without_urb": 1820178,
+    "pop_without_rur": 17424896
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2010,
+    "pop_without_urb": 1145484,
+    "pop_without_rur": 15276630
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2011,
+    "pop_without_urb": 996233,
+    "pop_without_rur": 15558141
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2012,
+    "pop_without_urb": 1185357,
+    "pop_without_rur": 16153664
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2013,
+    "pop_without_urb": 767652,
+    "pop_without_rur": 9826448
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2014,
+    "pop_without_urb": 1692686,
+    "pop_without_rur": 13246444
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2015,
+    "pop_without_urb": 1470942,
+    "pop_without_rur": 11736906
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2016,
+    "pop_without_urb": 1112217,
+    "pop_without_rur": 10877050
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2017,
+    "pop_without_urb": 752602,
+    "pop_without_rur": 7169509
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2018,
+    "pop_without_urb": 447872,
+    "pop_without_rur": 3681871
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2019,
+    "pop_without_urb": 1034074,
+    "pop_without_rur": 9568759
+  },
+  {
+    "iso3c": "MEA",
+    "date": 2020,
+    "pop_without_urb": 1030859,
+    "pop_without_rur": 9248070
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2000,
+    "pop_without_urb": 68385,
+    "pop_without_rur": 366588
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2001,
+    "pop_without_urb": 67249,
+    "pop_without_rur": 315875
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2002,
+    "pop_without_urb": 56173,
+    "pop_without_rur": 201066
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2003,
+    "pop_without_urb": 64378,
+    "pop_without_rur": 182165
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2004,
+    "pop_without_urb": 322340,
+    "pop_without_rur": 248766
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2005,
+    "pop_without_urb": 363691,
+    "pop_without_rur": 237941
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2006,
+    "pop_without_urb": 374562,
+    "pop_without_rur": 292912
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2007,
+    "pop_without_urb": 304513,
+    "pop_without_rur": 213771
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2008,
+    "pop_without_urb": 251250,
+    "pop_without_rur": 198178
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2009,
+    "pop_without_urb": 198597,
+    "pop_without_rur": 155611
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2010,
+    "pop_without_urb": 41279,
+    "pop_without_rur": 154286
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2011,
+    "pop_without_urb": 47957,
+    "pop_without_rur": 221538
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2012,
+    "pop_without_urb": 40131,
+    "pop_without_rur": 89127
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2013,
+    "pop_without_urb": 49951,
+    "pop_without_rur": 129109
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2014,
+    "pop_without_urb": 31594,
+    "pop_without_rur": 86418
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2015,
+    "pop_without_urb": 5294906,
+    "pop_without_rur": 184646
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2016,
+    "pop_without_urb": 84128,
+    "pop_without_rur": 61633
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2017,
+    "pop_without_urb": 23471,
+    "pop_without_rur": 48327
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2018,
+    "pop_without_urb": 28742,
+    "pop_without_rur": 45039
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2019,
+    "pop_without_urb": 36449,
+    "pop_without_rur": 15708
+  },
+  {
+    "iso3c": "RESTOFWORLD",
+    "date": 2020,
+    "pop_without_urb": 48132,
+    "pop_without_rur": 0
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2000,
+    "pop_without_urb": 43645609,
+    "pop_without_rur": 554756164
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2001,
+    "pop_without_urb": 49401003,
+    "pop_without_rur": 590115632
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2002,
+    "pop_without_urb": 43388679,
+    "pop_without_rur": 525436981
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2003,
+    "pop_without_urb": 42502446,
+    "pop_without_rur": 512986263
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2004,
+    "pop_without_urb": 42878575,
+    "pop_without_rur": 527497393
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2005,
+    "pop_without_urb": 40091563,
+    "pop_without_rur": 494350150
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2006,
+    "pop_without_urb": 36641831,
+    "pop_without_rur": 490366386
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2007,
+    "pop_without_urb": 37342870,
+    "pop_without_rur": 463970890
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2008,
+    "pop_without_urb": 34163560,
+    "pop_without_rur": 438210580
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2009,
+    "pop_without_urb": 24000937,
+    "pop_without_rur": 422505831
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2010,
+    "pop_without_urb": 30758580,
+    "pop_without_rur": 408610816
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2011,
+    "pop_without_urb": 35334090,
+    "pop_without_rur": 512080639
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2012,
+    "pop_without_urb": 22253048,
+    "pop_without_rur": 356767257
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2013,
+    "pop_without_urb": 22866375,
+    "pop_without_rur": 340220784
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2014,
+    "pop_without_urb": 18639926,
+    "pop_without_rur": 313759184
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2015,
+    "pop_without_urb": 15924987,
+    "pop_without_rur": 253327982
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2016,
+    "pop_without_urb": 12203071,
+    "pop_without_rur": 230465058
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2017,
+    "pop_without_urb": 6413387,
+    "pop_without_rur": 183633413
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2018,
+    "pop_without_urb": 6617408,
+    "pop_without_rur": 125601596
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2019,
+    "pop_without_urb": 2684574,
+    "pop_without_rur": 105803806
+  },
+  {
+    "iso3c": "SAS",
+    "date": 2020,
+    "pop_without_urb": 1781593,
+    "pop_without_rur": 76499194
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2000,
+    "pop_without_urb": 80007957,
+    "pop_without_rur": 402996423
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2001,
+    "pop_without_urb": 82936608,
+    "pop_without_rur": 400646958
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2002,
+    "pop_without_urb": 83594843,
+    "pop_without_rur": 403645537
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2003,
+    "pop_without_urb": 84656516,
+    "pop_without_rur": 414578880
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2004,
+    "pop_without_urb": 87066831,
+    "pop_without_rur": 428811207
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2005,
+    "pop_without_urb": 88284966,
+    "pop_without_rur": 437924269
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2006,
+    "pop_without_urb": 90244217,
+    "pop_without_rur": 438723371
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2007,
+    "pop_without_urb": 88383763,
+    "pop_without_rur": 448968585
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2008,
+    "pop_without_urb": 95734536,
+    "pop_without_rur": 452207107
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2009,
+    "pop_without_urb": 96251294,
+    "pop_without_rur": 453395226
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2010,
+    "pop_without_urb": 98898734,
+    "pop_without_rur": 461903357
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2011,
+    "pop_without_urb": 90232067,
+    "pop_without_rur": 460694332
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2012,
+    "pop_without_urb": 93683429,
+    "pop_without_rur": 464738556
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2013,
+    "pop_without_urb": 97026332,
+    "pop_without_rur": 467974652
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2014,
+    "pop_without_urb": 101508818,
+    "pop_without_rur": 482566545
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2015,
+    "pop_without_urb": 106380513,
+    "pop_without_rur": 497269444
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2016,
+    "pop_without_urb": 100163892,
+    "pop_without_rur": 463425805
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2017,
+    "pop_without_urb": 111092013,
+    "pop_without_rur": 476197818
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2018,
+    "pop_without_urb": 113360487,
+    "pop_without_rur": 470111606
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2019,
+    "pop_without_urb": 108636010,
+    "pop_without_rur": 464657083
+  },
+  {
+    "iso3c": "SSF",
+    "date": 2020,
+    "pop_without_urb": 101748550,
+    "pop_without_rur": 475948720
+  }
+]
