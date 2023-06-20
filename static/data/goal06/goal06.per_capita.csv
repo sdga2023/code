@@ -1,0 +1,179 @@
+"region","iso3","country","total_renewable_water_resources_per_capita","liter_per_day","falken_mark"
+"Sub-Saharan Africa","CPV","Cabo Verde",558.1,1529.041096,1
+"Sub-Saharan Africa","COM","Comoros",1474,4038.356164,2
+"Sub-Saharan Africa","STP","Sao Tome and Principe",10527,28841.09589,3
+"Sub-Saharan Africa","MUS","Mauritius",2176,5961.643836,3
+"Sub-Saharan Africa","LSO","Lesotho",1445,3958.90411,2
+"Sub-Saharan Africa","SWZ","Eswatini",4010,10986.30137,3
+"Sub-Saharan Africa","ERI","Eritrea",2143,5871.232877,3
+"Sub-Saharan Africa","GMB","Gambia, The",3614,9901.369863,3
+"Sub-Saharan Africa","MRT","Mauritania",2662,7293.150685,3
+"Sub-Saharan Africa","BWA","Botswana",5551,15208.21918,3
+"Sub-Saharan Africa","BDI","Burundi",1158,3172.60274,2
+"Sub-Saharan Africa","RWA","Rwanda",1110,3041.09589,2
+"Sub-Saharan Africa","BFA","Burkina Faso",703.4,1927.123288,1
+"Sub-Saharan Africa","TGO","Togo",1909,5230.136986,3
+"Sub-Saharan Africa","SOM","Somalia",1008,2761.643836,2
+"Sub-Saharan Africa","MWI","Malawi",977.9,2679.178082,1
+"Sub-Saharan Africa","ZWE","Zimbabwe",1405,3849.315068,2
+"Sub-Saharan Africa","GNQ","Equatorial Guinea",20602,56443.83562,3
+"Sub-Saharan Africa","BEN","Benin",2361,6468.493151,3
+"Sub-Saharan Africa","KEN","Kenya",611.3,1674.794521,1
+"Sub-Saharan Africa","GNB","Guinea-Bissau",17176,47057.53425,3
+"Sub-Saharan Africa","NER","Niger",1576,4317.808219,2
+"Sub-Saharan Africa","SDN","Sudan",926.2,2537.534247,1
+"Sub-Saharan Africa","SEN","Senegal",2527,6923.287671,3
+"Sub-Saharan Africa","NAM","Namibia",16611,45509.58904,3
+"Sub-Saharan Africa","TCD","Chad",3043,8336.986301,3
+"Sub-Saharan Africa","SSD","South Sudan",4537,12430.13699,3
+"Sub-Saharan Africa","ZAF","South Africa",900.7,2467.671233,1
+"Sub-Saharan Africa","GHA","Ghana",1930,5287.671233,3
+"Sub-Saharan Africa","UGA","Uganda",1460,4000,2
+"Sub-Saharan Africa","CIV","Côte d'Ivoire",3443,9432.876712,3
+"Sub-Saharan Africa","TZA","Tanzania",1761,4824.657534,3
+"Sub-Saharan Africa","ZMB","Zambia",6218,17035.61644,3
+"Sub-Saharan Africa","MLI","Mali",6482,17758.90411,3
+"Sub-Saharan Africa","ETH","Ethiopia",1147,3142.465753,2
+"Sub-Saharan Africa","CAF","Central African Republic",30679,84052.05479,3
+"Sub-Saharan Africa","AGO","Angola",4977,13635.61644,3
+"Sub-Saharan Africa","SLE","Sierra Leone",21366,58536.9863,3
+"Sub-Saharan Africa","GAB","Gabon",80394,220257.5342,3
+"Sub-Saharan Africa","MOZ","Mozambique",7578,20761.64384,3
+"Sub-Saharan Africa","GIN","Guinea",18728,51309.58904,3
+"Sub-Saharan Africa","LBR","Liberia",49338,135172.6027,3
+"Sub-Saharan Africa","CMR","Cameroon",11526,31578.08219,3
+"Sub-Saharan Africa","NGA","Nigeria",1499,4106.849315,2
+"Sub-Saharan Africa","MDG","Madagascar",13179,36106.84932,3
+"Sub-Saharan Africa","COG","Congo, Rep.",162796,446016.4384,3
+"Sub-Saharan Africa","COD","Congo, Dem. Rep.",15762,43183.56164,3
+"South Asia","MDV","Maldives",60.43,165.5616438,0
+"South Asia","LKA","Sri Lanka",2499,6846.575342,3
+"South Asia","AFG","Afghanistan",1800,4931.506849,3
+"South Asia","BTN","Bhutan",104619,286627.3973,3
+"South Asia","NPL","Nepal",7607,20841.09589,3
+"South Asia","PAK","Pakistan",1187,3252.054795,2
+"South Asia","BGD","Bangladesh",7684,21052.05479,3
+"South Asia","IND","India",1427,3909.589041,2
+"North America","CAN","Canada",79004,216449.3151,3
+"North America","USA","United States of America",9441,25865.75342,3
+"Middle East & North Africa","KWT","Kuwait",4.931,13.50958904,0
+"Middle East & North Africa","MLT","Malta",115.3,315.890411,0
+"Middle East & North Africa","QAT","Qatar",21.29,58.32876712,0
+"Middle East & North Africa","BHR","Bahrain",77.64,212.7123288,0
+"Middle East & North Africa","ARE","United Arab Emirates",15.81,43.31506849,0
+"Middle East & North Africa","DJI","Djibouti",317.8,870.6849315,0
+"Middle East & North Africa","LBY","Libya",106.4,291.5068493,0
+"Middle East & North Africa","PSE","Palestine",176.3,483.0136986,0
+"Middle East & North Africa","JOR","Jordan",95.75,262.3287671,0
+"Middle East & North Africa","OMN","Oman",300,821.9178082,0
+"Middle East & North Africa","ISR","Israel",215.9,591.5068493,0
+"Middle East & North Africa","YEM","Yemen",75.45,206.7123288,0
+"Middle East & North Africa","SAU","Saudi Arabia",72.5,198.630137,0
+"Middle East & North Africa","LBN","Lebanon",660.3,1809.041096,1
+"Middle East & North Africa","TUN","Tunisia",403.6,1105.753425,0
+"Middle East & North Africa","DZA","Algeria",281.9,772.3287671,0
+"Middle East & North Africa","SYR","Syrian Arab Republic",982.8,2692.60274,1
+"Middle East & North Africa","MAR","Morocco",815,2232.876712,1
+"Middle East & North Africa","EGY","Egypt",596.2,1633.424658,1
+"Middle East & North Africa","IRQ","Iraq",2393,6556.164384,3
+"Middle East & North Africa","IRN","Iran",1699,4654.794521,2
+"Latin America & Caribbean","KNA","St. Kitts and Nevis",461.1,1263.287671,0
+"Latin America & Caribbean","ATG","Antigua and Barbuda",544.9,1492.876712,1
+"Latin America & Caribbean","BRB","Barbados",279.5,765.7534247,0
+"Latin America & Caribbean","VCT","St. Vincent and the Grenadines",910.5,2494.520548,1
+"Latin America & Caribbean","DMA","Dominica",2799,7668.493151,3
+"Latin America & Caribbean","GRD","Grenada",1804,4942.465753,3
+"Latin America & Caribbean","LCA","St. Lucia",1658,4542.465753,2
+"Latin America & Caribbean","TTO","Trinidad and Tobago",2774,7600,3
+"Latin America & Caribbean","PRI","Puerto Rico",2244,6147.945205,3
+"Latin America & Caribbean","JAM","Jamaica",3705,10150.68493,3
+"Latin America & Caribbean","HTI","Haiti",1277,3498.630137,2
+"Latin America & Caribbean","BLZ","Belize",57839,158463.0137,3
+"Latin America & Caribbean","DOM","Dominican Republic",2235,6123.287671,3
+"Latin America & Caribbean","SLV","El Salvador",4112,11265.75342,3
+"Latin America & Caribbean","CUB","Cuba",3362,9210.958904,3
+"Latin America & Caribbean","HND","Honduras",9775,26780.82192,3
+"Latin America & Caribbean","SUR","Suriname",173533,475432.8767,3
+"Latin America & Caribbean","CRI","Costa Rica",22828,62542.46575,3
+"Latin America & Caribbean","GTM","Guatemala",7562,20717.80822,3
+"Latin America & Caribbean","PAN","Panama",33921,92934.24658,3
+"Latin America & Caribbean","NIC","Nicaragua",25767,70594.52055,3
+"Latin America & Caribbean","URY","Uruguay",50107,137279.4521,3
+"Latin America & Caribbean","GUY","Guyana",349577,957745.2055,3
+"Latin America & Caribbean","PRY","Paraguay",56468,154706.8493,3
+"Latin America & Caribbean","ECU","Ecuador",26356,72208.21918,3
+"Latin America & Caribbean","MEX","Mexico",3702,10142.46575,3
+"Latin America & Caribbean","BOL","Bolivia",51283,140501.3699,3
+"Latin America & Caribbean","ARG","Argentina",19943,54638.35616,3
+"Latin America & Caribbean","CHL","Chile",49975,136917.8082,3
+"Latin America & Caribbean","VEN","Venezuela",45064,123463.0137,3
+"Latin America & Caribbean","PER","Peru",59782,163786.3014,3
+"Latin America & Caribbean","COL","Colombia",48252,132197.2603,3
+"Latin America & Caribbean","BRA","Brazil",41605,113986.3014,3
+"Europe & Central Asia","CYP","Cyprus",661.2,1811.506849,1
+"Europe & Central Asia","LUX","Luxembourg",5913,16200,3
+"Europe & Central Asia","DNK","Denmark",1047,2868.493151,2
+"Europe & Central Asia","MKD","North Macedonia",3074,8421.917808,3
+"Europe & Central Asia","ARM","Armenia",2638,7227.39726,3
+"Europe & Central Asia","MDA","Moldova",3022,8279.452055,3
+"Europe & Central Asia","EST","Estonia",9706,26591.78082,3
+"Europe & Central Asia","CZE","Czechia",1236,3386.30137,2
+"Europe & Central Asia","BEL","Belgium",1602,4389.041096,2
+"Europe & Central Asia","BGR","Bulgaria",2999,8216.438356,3
+"Europe & Central Asia","TJK","Tajikistan",2467,6758.90411,3
+"Europe & Central Asia","KGZ","Kyrgyzstan",3816,10454.79452,3
+"Europe & Central Asia","LTU","Lithuania",8610,23589.0411,3
+"Europe & Central Asia","TKM","Turkmenistan",4301,11783.56164,3
+"Europe & Central Asia","ALB","Albania",10471,28687.67123,3
+"Europe & Central Asia","SVN","Slovenia",15349,42052.05479,3
+"Europe & Central Asia","AZE","Azerbaijan",3522,9649.315068,3
+"Europe & Central Asia","LVA","Latvia",17908,49063.0137,3
+"Europe & Central Asia","BIH","Bosnia and Herzegovina",11189,30654.79452,3
+"Europe & Central Asia","UZB","Uzbekistan",1529,4189.041096,2
+"Europe & Central Asia","SVK","Slovak Republic",9196,25194.52055,3
+"Europe & Central Asia","IRL","Ireland",10940,29972.60274,3
+"Europe & Central Asia","CHE","Switzerland",6327,17334.24658,3
+"Europe & Central Asia","BLR","Belarus",6127,16786.30137,3
+"Europe & Central Asia","POL","Poland",1594,4367.123288,2
+"Europe & Central Asia","GEO","Georgia",15798,43282.19178,3
+"Europe & Central Asia","GRC","Greece",6471,17728.76712,3
+"Europe & Central Asia","PRT","Portugal",7523,20610.9589,3
+"Europe & Central Asia","AUT","Austria",8810,24136.9863,3
+"Europe & Central Asia","NLD","Netherlands",5346,14646.57534,3
+"Europe & Central Asia","HUN","Hungary",10689,29284.93151,3
+"Europe & Central Asia","HRV","Croatia",25222,69101.36986,3
+"Europe & Central Asia","KAZ","Kazakhstan",5996,16427.39726,3
+"Europe & Central Asia","FIN","Finland",19959,54682.19178,3
+"Europe & Central Asia","ESP","Spain",2390,6547.945205,3
+"Europe & Central Asia","GBR","United Kingdom",2203,6035.616438,3
+"Europe & Central Asia","DEU","Germany",1863,5104.109589,3
+"Europe & Central Asia","SRB","Serbia",18370,50328.76712,3
+"Europe & Central Asia","ISL","Iceland",508384,1392832.877,3
+"Europe & Central Asia","SWE","Sweden",17567,48128.76712,3
+"Europe & Central Asia","UKR","Ukraine",3940,10794.52055,3
+"Europe & Central Asia","ITA","Italy",3153,8638.356164,3
+"Europe & Central Asia","FRA","France",3254,8915.068493,3
+"Europe & Central Asia","TUR","Turkey",2609,7147.945205,3
+"Europe & Central Asia","ROU","Romania",10787,29553.42466,3
+"Europe & Central Asia","NOR","Norway",74202,203293.1507,3
+"Europe & Central Asia","RUS","Russian Federation",31096,85194.52055,3
+"East Asia & Pacific","SGP","Singapore",105.1,287.9452055,0
+"East Asia & Pacific","TLS","Timor-Leste",6608,18104.10959,3
+"East Asia & Pacific","BRN","Brunei Darussalam",20025,54863.0137,3
+"East Asia & Pacific","FJI","Fiji",32537,89142.46575,3
+"East Asia & Pacific","MNG","Mongolia",11176,30619.17808,3
+"East Asia & Pacific","KOR","Korea, Rep.",1364,3736.986301,2
+"East Asia & Pacific","PRK","Democratic People's Republic of Korea",3034,8312.328767,3
+"East Asia & Pacific","NZL","New Zealand",69544,190531.5068,3
+"East Asia & Pacific","LAO","Lao PDR",47965,131410.9589,3
+"East Asia & Pacific","JPN","Japan",3372,9238.356164,3
+"East Asia & Pacific","THA","Thailand",6337,17361.64384,3
+"East Asia & Pacific","KHM","Cambodia",29739,81476.71233,3
+"East Asia & Pacific","PHL","Philippines",4554,12476.71233,3
+"East Asia & Pacific","AUS","Australia",20013,54830.13699,3
+"East Asia & Pacific","MYS","Malaysia",18647,51087.67123,3
+"East Asia & Pacific","PNG","Papua New Guinea",94927,260073.9726,3
+"East Asia & Pacific","VNM","Vietnam",9346,25605.47945,3
+"East Asia & Pacific","MMR","Myanmar",21876,59934.24658,3
+"East Asia & Pacific","IDN","Indonesia",7628,20898.63014,3
+"East Asia & Pacific","CHN","China",1955,5356.164384,3

@@ -1,0 +1,33 @@
+"Country","Year","Fatalities"
+"Ukraine",2018,873
+"Ukraine",2019,389
+"Ukraine",2020,113
+"Ukraine",2021,149
+"Ukraine",2022,32308
+"Series Name","Refugee population by country or territory of origin",
+"Series Code","SM.POP.REFG.OR",
+"Country Name","Ukraine",
+"Country Code","UKR",
+2010,"25,102",
+2011,"25,372",
+2012,"25,248",
+2013,"5,154",
+2014,"237,617","Annexation of Crimea by the Russian Federation"
+2015,"321,399",
+2016,"239,062",
+2017,"139,581",
+2018,"93,248",
+2019,"59,844",
+2020,"35,156",
+2021,"27,562",
+"2022 (mid-year estimate)","5,437,961","Russian invasion of Ukraine"
+"2023 (latest date)","8,173,211",
+"Year","Ukraine GDP Growth","Ukraine GDP Growth (projected)"
+2018,3.5,
+2019,3.2,
+2020,-3.8,
+2021,3.4,
+2021,,3.4
+2022,,-35
+2023,,3.3
+2024,,4.1

@@ -1,0 +1,173 @@
+"country_code","country_name","gini"
+"SVK","Slovak Republic",23.2323
+"SVN","Slovenia",24.0315
+"BLR","Belarus",24.3834
+"UKR","Ukraine",25.6274
+"MDA","Moldova",25.7316
+"BEL","Belgium",25.9583
+"ARE","United Arab Emirates",25.9663
+"NLD","Netherlands",25.9942
+"ISL","Iceland",26.1316
+"CZE","Czech Republic",26.2451
+"AZE","Azerbaijan",26.5549
+"FIN","Finland",27.0912
+"DNK","Denmark",27.5043
+"DZA","Algeria",27.6157
+"NOR","Norway",27.7423
+"KAZ","Kazakhstan",27.7929
+"KIR","Kiribati",27.8327
+"ARM","Armenia",27.9401
+"TLS","Timor-Leste",28.6529
+"POL","Poland",28.7603
+"SWE","Sweden",28.8719
+"KGZ","Kyrgyz Republic",28.9893
+"XKX","Kosovo",29.0129
+"IRL","Ireland",29.2285
+"MDV","Maldives",29.2851
+"ALB","Albania",29.4196
+"IRQ","Iraq",29.5419
+"HRV","Croatia",29.5443
+"PAK","Pakistan",29.5893
+"GIN","Guinea",29.592
+"HUN","Hungary",29.7131
+"AUT","Austria",29.8018
+"POL","Poland",30.2395
+"FRA","France",30.6615
+"MMR","Myanmar",30.6969
+"FJI","Fiji",30.7069
+"EST","Estonia",30.7379
+"MLT","Malta",31.4038
+"KOR","Korea, Rep.",31.4049
+"TWN","Taiwan, China",31.4827
+"DEU","Germany",31.7194
+"CYP","Cyprus",31.7279
+"LBN","Lebanon",31.8324
+"EGY","Egypt, Arab Rep.",31.8936
+"SYC","Seychelles",32.1253
+"VUT","Vanuatu",32.3176
+"NRU","Nauru",32.3616
+"BGD","Bangladesh",32.3853
+"CAN","Canada",32.5093
+"MRT","Mauritania",32.6193
+"GBR","United Kingdom",32.6455
+"MNG","Mongolia",32.741
+"TUN","Tunisia",32.8159
+"NPL","Nepal",32.8406
+"JPN","Japan",32.8547
+"BIH","Bosnia and Herzegovina",33.0302
+"CHE","Switzerland",33.1411
+"LUX","Luxembourg",33.3736
+"MKD","North Macedonia",33.5059
+"TON","Tonga",33.5213
+"GRC","Greece",33.5606
+"JOR","Jordan",33.6557
+"PSE","West Bank and Gaza",33.69
+"TJK","Tajikistan",33.9957
+"GEO","Georgia",34.1786
+"SDN","Sudan",34.2432
+"AUS","Australia",34.3338
+"ROU","Romania",34.5725
+"PRT","Portugal",34.6686
+"GNB","Guinea-Bissau",34.7652
+"ESP","Spain",34.8656
+"SRB","Serbia",34.9523
+"ETH","Ethiopia",34.9931
+"THA","Thailand",35.1153
+"NGA","Nigeria",35.1277
+"ITA","Italy",35.2442
+"LBR","Liberia",35.2655
+"UZB","Uzbekistan",35.2688
+"MHL","Marshall Islands",35.4829
+"SLE","Sierra Leone",35.6902
+"LVA","Latvia",35.7048
+"IND","India",35.7339
+"LTU","Lithuania",35.9574
+"RUS","Russian Federation",36.0298
+"MLI","Mali",36.1369
+"YEM","Yemen, Rep.",36.7071
+"MUS","Mauritius",36.7612
+"MNE","Montenegro",36.8119
+"VNM","Vietnam",36.8134
+"SLB","Solomon Islands",37.0549
+"CIV","Cote d'Ivoire",37.1836
+"PHL","Philippines",37.2685
+"NER","Niger",37.281
+"BTN","Bhutan",37.4414
+"TCD","Chad",37.4992
+"SYR","Syrian Arab Republic",37.5146
+"LKA","Sri Lanka",37.6638
+"BEN","Benin",37.8086
+"IDN","Indonesia",37.9191
+"GAB","Gabon",38.0244
+"SEN","Senegal",38.1225
+"CHN","China",38.1683
+"DOM","Dominican Republic",38.5299
+"MWI","Malawi",38.5432
+"ISR","Israel",38.5772
+"BDI","Burundi",38.6248
+"WSM","Samoa",38.7318
+"GMB","Gambia, The",38.7572
+"LAO","Lao PDR",38.8024
+"SLV","El Salvador",39.0125
+"TUV","Tuvalu",39.139
+"MAR","Morocco",39.5485
+"USA","United States",39.6831
+"FSM","Micronesia, Fed. Sts.",40.0576
+"PER","Peru",40.2499
+"TTO","Trinidad and Tobago",40.273
+"TZA","Tanzania",40.4912
+"BGR","Bulgaria",40.5232
+"PHL","Philippines",40.6791
+"STP","Sao Tome and Principe",40.7496
+"KEN","Kenya",40.7758
+"URY","Uruguay",40.7774
+"TKM","Turkmenistan",40.8069
+"BOL","Bolivia",40.9133
+"IRN","Iran, Islamic Rep.",40.936
+"HTI","Haiti",41.1038
+"MYS","Malaysia",41.1768
+"DJI","Djibouti",41.588
+"PNG","Papua New Guinea",41.8508
+"TUR","Turkiye",41.9091
+"ARG","Argentina",42.0051
+"COD","Congo, Dem. Rep.",42.0997
+"TGO","Togo",42.3522
+"CPV","Cabo Verde",42.3811
+"MDG","Madagascar",42.6482
+"UGA","Uganda",42.7055
+"PRY","Paraguay",42.9056
+"GHA","Ghana",43.5209
+"RWA","Rwanda",43.71
+"SSD","South Sudan",44.1441
+"VEN","Venezuela, RB",44.7705
+"LSO","Lesotho",44.8797
+"CHL","Chile",44.9209
+"GUY","Guyana",45.1181
+"COM","Comoros",45.3346
+"MEX","Mexico",45.3987
+"JAM","Jamaica",45.4575
+"ECU","Ecuador",45.8004
+"NIC","Nicaragua",46.1563
+"CMR","Cameroon",46.6409
+"BFA","Burkina Faso",47.3471
+"HND","Honduras",48.1682
+"GTM","Guatemala",48.2786
+"CRI","Costa Rica",48.6911
+"COG","Congo, Rep.",48.9387
+"ZWE","Zimbabwe",50.2565
+"PAN","Panama",50.8612
+"LCA","St. Lucia",51.2333
+"AGO","Angola",51.2721
+"COL","Colombia",51.4993
+"BRA","Brazil",52.9167
+"BLZ","Belize",53.2628
+"BWA","Botswana",53.325
+"MOZ","Mozambique",53.9967
+"SWZ","Eswatini",54.5798
+"CAF","Central African Republic",56.2366
+"ZMB","Zambia",57.1361
+"SUR","Suriname",57.8514
+"NAM","Namibia",59.0666
+"HTI","Haiti",60.7868
+"WLD","World",62.0245
+"ZAF","South Africa",63.0261

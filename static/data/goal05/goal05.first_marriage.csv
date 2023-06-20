@@ -1,0 +1,361 @@
+"iso3c","country","date","variable","value"
+"ABW","Aruba",2010,"age_first_marriage_female",28.5
+"AFG","Afghanistan",2015,"age_first_marriage_female",21.5
+"AGO","Angola",2016,"age_first_marriage_female",21.5
+"ALB","Albania",2018,"age_first_marriage_female",24.2
+"ARG","Argentina",2010,"age_first_marriage_female",24.6
+"ARM","Armenia",2015,"age_first_marriage_female",24.2
+"AUS","Australia",2016,"age_first_marriage_female",29.9
+"AUT","Austria",2011,"age_first_marriage_female",27.1
+"AZE","Azerbaijan",2018,"age_first_marriage_female",24.2
+"BDI","Burundi",2016,"age_first_marriage_female",22.8
+"BEL","Belgium",2011,"age_first_marriage_female",26.3
+"BEN","Benin",2018,"age_first_marriage_female",20.7
+"BFA","Burkina Faso",2017,"age_first_marriage_female",20
+"BGD","Bangladesh",2014,"age_first_marriage_female",18.8
+"BGR","Bulgaria",2018,"age_first_marriage_female",32.6
+"BHR","Bahrain",2010,"age_first_marriage_female",26.9
+"BHS","Bahamas, The",2010,"age_first_marriage_female",27.9
+"BIH","Bosnia and Herzegovina",2012,"age_first_marriage_female",25.7
+"BLR","Belarus",2012,"age_first_marriage_female",22.5
+"BLZ","Belize",2016,"age_first_marriage_female",20.5
+"BMU","Bermuda",2016,"age_first_marriage_female",31.9
+"BOL","Bolivia",2016,"age_first_marriage_female",24
+"BRA","Brazil",2010,"age_first_marriage_female",23.9
+"BRB","Barbados",2012,"age_first_marriage_female",17
+"BRN","Brunei Darussalam",2011,"age_first_marriage_female",26.1
+"BTN","Bhutan",2017,"age_first_marriage_female",23.8
+"BWA","Botswana",2017,"age_first_marriage_female",22.9
+"CAF","Central African Republic",2010,"age_first_marriage_female",17.3
+"CAN","Canada",2016,"age_first_marriage_female",27.2
+"CHE","Switzerland",2017,"age_first_marriage_female",30.9
+"CHL","Chile",2011,"age_first_marriage_female",27.4
+"CHN","China",2016,"age_first_marriage_female",25.4
+"CIV","Cote d'Ivoire",2016,"age_first_marriage_female",23
+"CMR","Cameroon",2014,"age_first_marriage_female",22.2
+"COD","Congo, Dem. Rep.",2014,"age_first_marriage_female",20.9
+"COG","Congo, Rep.",2015,"age_first_marriage_female",21.9
+"COL","Colombia",2015,"age_first_marriage_female",22.7
+"COM","Comoros",2012,"age_first_marriage_female",22.6
+"CRI","Costa Rica",2018,"age_first_marriage_female",26.4
+"CUB","Cuba",2014,"age_first_marriage_female",22.1
+"CYM","Cayman Islands",2010,"age_first_marriage_female",28
+"CYP","Cyprus",2011,"age_first_marriage_female",26.4
+"CZE","Czech Republic",2018,"age_first_marriage_female",32.4
+"DEU","Germany",2018,"age_first_marriage_female",31.7
+"DJI","Djibouti",2012,"age_first_marriage_female",29.9
+"DNK","Denmark",2018,"age_first_marriage_female",31.9
+"DOM","Dominican Republic",2014,"age_first_marriage_female",21.5
+"DZA","Algeria",2012,"age_first_marriage_female",28.2
+"ECU","Ecuador",2010,"age_first_marriage_female",21.8
+"EGY","Egypt, Arab Rep.",2017,"age_first_marriage_female",22.3
+"ESP","Spain",2011,"age_first_marriage_female",27.7
+"EST","Estonia",2018,"age_first_marriage_female",33.6
+"ETH","Ethiopia",2016,"age_first_marriage_female",21.3
+"FIN","Finland",2018,"age_first_marriage_female",30.7
+"FRA","France",2013,"age_first_marriage_female",32
+"FRO","Faroe Islands",2018,"age_first_marriage_female",31
+"FSM","Micronesia, Fed. Sts.",2010,"age_first_marriage_female",25.3
+"GAB","Gabon",2012,"age_first_marriage_female",22.9
+"GBR","United Kingdom",2011,"age_first_marriage_female",27
+"GEO","Georgia",2014,"age_first_marriage_female",22.8
+"GHA","Ghana",2017,"age_first_marriage_female",23.7
+"GIB","Gibraltar",2012,"age_first_marriage_female",29.1
+"GIN","Guinea",2014,"age_first_marriage_female",19.8
+"GMB","Gambia, The",2013,"age_first_marriage_female",21.5
+"GNB","Guinea-Bissau",2014,"age_first_marriage_female",24.1
+"GNQ","Equatorial Guinea",2011,"age_first_marriage_female",20.5
+"GRC","Greece",2011,"age_first_marriage_female",29.2
+"GRL","Greenland",2018,"age_first_marriage_female",32.9
+"GTM","Guatemala",2018,"age_first_marriage_female",22.7
+"GUY","Guyana",2014,"age_first_marriage_female",19.2
+"HKG","Hong Kong SAR, China",2016,"age_first_marriage_female",29.9
+"HND","Honduras",2012,"age_first_marriage_female",21.2
+"HRV","Croatia",2011,"age_first_marriage_female",27.4
+"HTI","Haiti",2016,"age_first_marriage_female",24.9
+"HUN","Hungary",2018,"age_first_marriage_female",32.9
+"IDN","Indonesia",2017,"age_first_marriage_female",22.4
+"IMN","Isle of Man",2011,"age_first_marriage_female",30.7
+"IND","India",2016,"age_first_marriage_female",21.4
+"IRL","Ireland",2016,"age_first_marriage_female",32.4
+"IRN","Iran, Islamic Rep.",2016,"age_first_marriage_female",23.1
+"IRQ","Iraq",2012,"age_first_marriage_female",22.7
+"ISL","Iceland",2018,"age_first_marriage_female",32.4
+"ISR","Israel",2016,"age_first_marriage_female",26.2
+"ITA","Italy",2018,"age_first_marriage_female",32.2
+"JAM","Jamaica",2011,"age_first_marriage_female",25.3
+"JOR","Jordan",2018,"age_first_marriage_female",24.6
+"JPN","Japan",2015,"age_first_marriage_female",29.2
+"KAZ","Kazakhstan",2015,"age_first_marriage_female",22.4
+"KEN","Kenya",2014,"age_first_marriage_female",21.9
+"KGZ","Kyrgyz Republic",2014,"age_first_marriage_female",21.2
+"KHM","Cambodia",2014,"age_first_marriage_female",21.6
+"KIR","Kiribati",2010,"age_first_marriage_female",21.6
+"KOR","Korea, Rep.",2015,"age_first_marriage_female",31.5
+"KWT","Kuwait",2011,"age_first_marriage_female",25.7
+"LAO","Lao PDR",2017,"age_first_marriage_female",20.7
+"LBR","Liberia",2013,"age_first_marriage_female",22.6
+"LCA","St. Lucia",2012,"age_first_marriage_female",21.9
+"LIE","Liechtenstein",2018,"age_first_marriage_female",29.9
+"LKA","Sri Lanka",2016,"age_first_marriage_female",23.9
+"LSO","Lesotho",2014,"age_first_marriage_female",22.2
+"LTU","Lithuania",2018,"age_first_marriage_female",32.7
+"LUX","Luxembourg",2018,"age_first_marriage_female",30.7
+"LVA","Latvia",2018,"age_first_marriage_female",30.4
+"MAC","Macao SAR, China",2011,"age_first_marriage_female",30.3
+"MAR","Morocco",2018,"age_first_marriage_female",24.4
+"MDA","Moldova",2014,"age_first_marriage_female",25
+"MDV","Maldives",2017,"age_first_marriage_female",22.5
+"MEX","Mexico",2019,"age_first_marriage_female",23.2
+"MHL","Marshall Islands",2011,"age_first_marriage_female",24.2
+"MKD","North Macedonia",2011,"age_first_marriage_female",25.5
+"MLI","Mali",2018,"age_first_marriage_female",18.8
+"MLT","Malta",2011,"age_first_marriage_female",28
+"MMR","Myanmar",2016,"age_first_marriage_female",22.9
+"MNE","Montenegro",2013,"age_first_marriage_female",26.3
+"MNG","Mongolia",2013,"age_first_marriage_female",23
+"MNP","Northern Mariana Islands",2010,"age_first_marriage_female",28.1
+"MOZ","Mozambique",2017,"age_first_marriage_female",18.7
+"MRT","Mauritania",2015,"age_first_marriage_female",21.8
+"MUS","Mauritius",2011,"age_first_marriage_female",23.9
+"MWI","Malawi",2018,"age_first_marriage_female",20.4
+"MYS","Malaysia",2010,"age_first_marriage_female",25.7
+"NAM","Namibia",2016,"age_first_marriage_female",30.3
+"NCL","New Caledonia",2014,"age_first_marriage_female",32.8
+"NER","Niger",2015,"age_first_marriage_female",17.2
+"NGA","Nigeria",2013,"age_first_marriage_female",21.2
+"NIC","Nicaragua",2012,"age_first_marriage_female",21.1
+"NLD","Netherlands",2018,"age_first_marriage_female",32.4
+"NOR","Norway",2018,"age_first_marriage_female",32.1
+"NPL","Nepal",2016,"age_first_marriage_female",20.1
+"OMN","Oman",2010,"age_first_marriage_female",25.6
+"PAK","Pakistan",2017,"age_first_marriage_female",23.2
+"PAN","Panama",2013,"age_first_marriage_female",21
+"PER","Peru",2016,"age_first_marriage_female",23.3
+"PHL","Philippines",2017,"age_first_marriage_female",23.4
+"PLW","Palau",2015,"age_first_marriage_female",28.5
+"PNG","Papua New Guinea",2016,"age_first_marriage_female",21.4
+"POL","Poland",2011,"age_first_marriage_female",26.6
+"PRI","Puerto Rico",2010,"age_first_marriage_female",29.2
+"PRT","Portugal",2011,"age_first_marriage_female",30.1
+"PRY","Paraguay",2016,"age_first_marriage_female",21.9
+"PSE","West Bank and Gaza",2017,"age_first_marriage_female",22.1
+"PYF","French Polynesia",2012,"age_first_marriage_female",33.8
+"ROU","Romania",2011,"age_first_marriage_female",25.9
+"RUS","Russian Federation",2010,"age_first_marriage_female",24.4
+"RWA","Rwanda",2015,"age_first_marriage_female",24.3
+"SAU","Saudi Arabia",2017,"age_first_marriage_female",26.6
+"SDN","Sudan",2014,"age_first_marriage_female",21.9
+"SEN","Senegal",2017,"age_first_marriage_female",22.2
+"SGP","Singapore",2010,"age_first_marriage_female",27.9
+"SLB","Solomon Islands",2015,"age_first_marriage_female",22.4
+"SLE","Sierra Leone",2017,"age_first_marriage_female",23.1
+"SLV","El Salvador",2014,"age_first_marriage_female",22.6
+"SMR","San Marino",2018,"age_first_marriage_female",31.3
+"SRB","Serbia",2014,"age_first_marriage_female",26.6
+"SSD","South Sudan",2010,"age_first_marriage_female",18.4
+"STP","Sao Tome and Principe",2014,"age_first_marriage_female",21
+"SUR","Suriname",2012,"age_first_marriage_female",29.3
+"SVK","Slovak Republic",2018,"age_first_marriage_female",31
+"SVN","Slovenia",2018,"age_first_marriage_female",34
+"SWE","Sweden",2018,"age_first_marriage_female",31
+"SWZ","Eswatini",2014,"age_first_marriage_female",26.5
+"SXM","Sint Maarten (Dutch part)",2011,"age_first_marriage_female",28
+"TCD","Chad",2015,"age_first_marriage_female",18.8
+"TGO","Togo",2017,"age_first_marriage_female",21.3
+"THA","Thailand",2012,"age_first_marriage_female",22.5
+"TJK","Tajikistan",2017,"age_first_marriage_female",20.7
+"TKM","Turkmenistan",2015,"age_first_marriage_female",23.5
+"TLS","Timor-Leste",2016,"age_first_marriage_female",23
+"TON","Tonga",2016,"age_first_marriage_female",25.3
+"TTO","Trinidad and Tobago",2011,"age_first_marriage_female",29.2
+"TUN","Tunisia",2014,"age_first_marriage_female",28.2
+"TUR","Turkey",2013,"age_first_marriage_female",23.4
+"TZA","Tanzania",2016,"age_first_marriage_female",21
+"UGA","Uganda",2016,"age_first_marriage_female",20.7
+"UKR","Ukraine",2012,"age_first_marriage_female",23
+"URY","Uruguay",2013,"age_first_marriage_female",23
+"USA","United States",2010,"age_first_marriage_female",27.5
+"VCT","St. Vincent and the Grenadines",2012,"age_first_marriage_female",21.2
+"VEN","Venezuela, RB",2011,"age_first_marriage_female",22.9
+"VIR","Virgin Islands (U.S.)",2010,"age_first_marriage_female",30.9
+"VNM","Vietnam",2015,"age_first_marriage_female",22.8
+"WSM","Samoa",2016,"age_first_marriage_female",23.8
+"YEM","Yemen, Rep.",2013,"age_first_marriage_female",22.8
+"ZAF","South Africa",2016,"age_first_marriage_female",27.2
+"ZMB","Zambia",2014,"age_first_marriage_female",21.8
+"ZWE","Zimbabwe",2017,"age_first_marriage_female",21.1
+"ABW","Aruba",2010,"age_first_marriage_male",31.2
+"AFG","Afghanistan",2015,"age_first_marriage_male",24.7
+"AGO","Angola",2016,"age_first_marriage_male",25.8
+"ALB","Albania",2018,"age_first_marriage_male",30.8
+"ARG","Argentina",2010,"age_first_marriage_male",26.6
+"ARM","Armenia",2015,"age_first_marriage_male",28.5
+"AUS","Australia",2016,"age_first_marriage_male",31.2
+"AUT","Austria",2011,"age_first_marriage_male",29.8
+"AZE","Azerbaijan",2018,"age_first_marriage_male",28.1
+"BDI","Burundi",2016,"age_first_marriage_male",26.1
+"BEL","Belgium",2011,"age_first_marriage_male",28.6
+"BEN","Benin",2018,"age_first_marriage_male",25.7
+"BFA","Burkina Faso",2017,"age_first_marriage_male",26.4
+"BGD","Bangladesh",2011,"age_first_marriage_male",25.2
+"BGR","Bulgaria",2018,"age_first_marriage_male",35.7
+"BHS","Bahamas, The",2010,"age_first_marriage_male",30.6
+"BIH","Bosnia and Herzegovina",2012,"age_first_marriage_male",29.4
+"BLR","Belarus",2012,"age_first_marriage_male",24.8
+"BLZ","Belize",2016,"age_first_marriage_male",22.5
+"BMU","Bermuda",2016,"age_first_marriage_male",32.5
+"BOL","Bolivia",2012,"age_first_marriage_male",26.6
+"BRA","Brazil",2010,"age_first_marriage_male",26.8
+"BRB","Barbados",2010,"age_first_marriage_male",34.5
+"BRN","Brunei Darussalam",2011,"age_first_marriage_male",29.3
+"BTN","Bhutan",2017,"age_first_marriage_male",26.4
+"BWA","Botswana",2011,"age_first_marriage_male",29.8
+"CAF","Central African Republic",2010,"age_first_marriage_male",21.7
+"CAN","Canada",2016,"age_first_marriage_male",28.7
+"CHE","Switzerland",2017,"age_first_marriage_male",33.1
+"CHL","Chile",2011,"age_first_marriage_male",29.3
+"CHN","China",2016,"age_first_marriage_male",27.1
+"CIV","Cote d'Ivoire",2016,"age_first_marriage_male",29.2
+"CMR","Cameroon",2014,"age_first_marriage_male",28.5
+"COD","Congo, Dem. Rep.",2014,"age_first_marriage_male",25.5
+"COG","Congo, Rep.",2015,"age_first_marriage_male",27.5
+"COL","Colombia",2015,"age_first_marriage_male",26.2
+"COM","Comoros",2012,"age_first_marriage_male",25.5
+"CRI","Costa Rica",2018,"age_first_marriage_male",29.2
+"CUB","Cuba",2014,"age_first_marriage_male",25.1
+"CYM","Cayman Islands",2010,"age_first_marriage_male",29.9
+"CYP","Cyprus",2011,"age_first_marriage_male",29.3
+"CZE","Czech Republic",2018,"age_first_marriage_male",34.8
+"DEU","Germany",2018,"age_first_marriage_male",33.9
+"DJI","Djibouti",2012,"age_first_marriage_male",33
+"DNK","Denmark",2018,"age_first_marriage_male",33.6
+"DOM","Dominican Republic",2013,"age_first_marriage_male",24.8
+"DZA","Algeria",2012,"age_first_marriage_male",32.4
+"ECU","Ecuador",2010,"age_first_marriage_male",25
+"EGY","Egypt, Arab Rep.",2017,"age_first_marriage_male",28.1
+"ESP","Spain",2011,"age_first_marriage_male",30.3
+"EST","Estonia",2018,"age_first_marriage_male",36.3
+"ETH","Ethiopia",2016,"age_first_marriage_male",25.8
+"FIN","Finland",2018,"age_first_marriage_male",32.6
+"FRA","France",2013,"age_first_marriage_male",33.7
+"FRO","Faroe Islands",2018,"age_first_marriage_male",34.1
+"GAB","Gabon",2012,"age_first_marriage_male",27.8
+"GBR","United Kingdom",2011,"age_first_marriage_male",28.7
+"GEO","Georgia",2014,"age_first_marriage_male",27.4
+"GHA","Ghana",2014,"age_first_marriage_male",27.8
+"GIB","Gibraltar",2012,"age_first_marriage_male",31.8
+"GIN","Guinea",2014,"age_first_marriage_male",28
+"GMB","Gambia, The",2013,"age_first_marriage_male",29.7
+"GNB","Guinea-Bissau",2014,"age_first_marriage_male",30.3
+"GNQ","Equatorial Guinea",2011,"age_first_marriage_male",26.1
+"GRC","Greece",2011,"age_first_marriage_male",32.8
+"GRL","Greenland",2018,"age_first_marriage_male",34.7
+"GTM","Guatemala",2018,"age_first_marriage_male",25
+"GUY","Guyana",2014,"age_first_marriage_male",21.3
+"HKG","Hong Kong SAR, China",2016,"age_first_marriage_male",32.1
+"HND","Honduras",2012,"age_first_marriage_male",24.1
+"HRV","Croatia",2011,"age_first_marriage_male",30.2
+"HTI","Haiti",2016,"age_first_marriage_male",28.7
+"HUN","Hungary",2018,"age_first_marriage_male",35
+"IDN","Indonesia",2017,"age_first_marriage_male",27.1
+"IMN","Isle of Man",2011,"age_first_marriage_male",32.8
+"IND","India",2016,"age_first_marriage_male",26
+"IRL","Ireland",2016,"age_first_marriage_male",33.4
+"IRN","Iran, Islamic Rep.",2016,"age_first_marriage_male",27.5
+"IRQ","Iraq",2012,"age_first_marriage_male",26.2
+"ISL","Iceland",2018,"age_first_marriage_male",33.7
+"ISR","Israel",2016,"age_first_marriage_male",29.2
+"ITA","Italy",2018,"age_first_marriage_male",35.3
+"JOR","Jordan",2018,"age_first_marriage_male",30.9
+"JPN","Japan",2015,"age_first_marriage_male",30.5
+"KAZ","Kazakhstan",2011,"age_first_marriage_male",26.3
+"KEN","Kenya",2014,"age_first_marriage_male",26.3
+"KGZ","Kyrgyz Republic",2012,"age_first_marriage_male",25.5
+"KHM","Cambodia",2014,"age_first_marriage_male",24.5
+"KIR","Kiribati",2010,"age_first_marriage_male",24.1
+"KOR","Korea, Rep.",2015,"age_first_marriage_male",33.9
+"KWT","Kuwait",2011,"age_first_marriage_male",27.8
+"LAO","Lao PDR",2017,"age_first_marriage_male",24.6
+"LBR","Liberia",2013,"age_first_marriage_male",26.4
+"LIE","Liechtenstein",2018,"age_first_marriage_male",32.4
+"LKA","Sri Lanka",2012,"age_first_marriage_male",27.2
+"LSO","Lesotho",2014,"age_first_marriage_male",28
+"LTU","Lithuania",2018,"age_first_marriage_male",35.3
+"LUX","Luxembourg",2018,"age_first_marriage_male",32.5
+"LVA","Latvia",2018,"age_first_marriage_male",33.1
+"MAC","Macao SAR, China",2011,"age_first_marriage_male",32.7
+"MAR","Morocco",2018,"age_first_marriage_male",31.3
+"MDA","Moldova",2014,"age_first_marriage_male",28.7
+"MDV","Maldives",2017,"age_first_marriage_male",25.5
+"MEX","Mexico",2019,"age_first_marriage_male",25.9
+"MHL","Marshall Islands",2011,"age_first_marriage_male",25.7
+"MLI","Mali",2018,"age_first_marriage_male",25.8
+"MLT","Malta",2011,"age_first_marriage_male",30.3
+"MMR","Myanmar",2016,"age_first_marriage_male",25.4
+"MNE","Montenegro",2013,"age_first_marriage_male",29.7
+"MNG","Mongolia",2013,"age_first_marriage_male",25.1
+"MNP","Northern Mariana Islands",2010,"age_first_marriage_male",30.1
+"MOZ","Mozambique",2017,"age_first_marriage_male",23.4
+"MRT","Mauritania",2015,"age_first_marriage_male",29.2
+"MUS","Mauritius",2011,"age_first_marriage_male",29.2
+"MWI","Malawi",2018,"age_first_marriage_male",24.5
+"MYS","Malaysia",2010,"age_first_marriage_male",28
+"NAM","Namibia",2016,"age_first_marriage_male",34.3
+"NCL","New Caledonia",2014,"age_first_marriage_male",34.3
+"NER","Niger",2015,"age_first_marriage_male",24
+"NGA","Nigeria",2013,"age_first_marriage_male",28.6
+"NLD","Netherlands",2018,"age_first_marriage_male",34.3
+"NOR","Norway",2018,"age_first_marriage_male",34.1
+"NPL","Nepal",2016,"age_first_marriage_male",23.6
+"OMN","Oman",2010,"age_first_marriage_male",27.7
+"PAK","Pakistan",2017,"age_first_marriage_male",26.9
+"PAN","Panama",2010,"age_first_marriage_male",25.3
+"PER","Peru",2012,"age_first_marriage_male",27.5
+"PHL","Philippines",2017,"age_first_marriage_male",27.1
+"PLW","Palau",2015,"age_first_marriage_male",29.1
+"PNG","Papua New Guinea",2016,"age_first_marriage_male",26.2
+"POL","Poland",2011,"age_first_marriage_male",28.7
+"PRI","Puerto Rico",2010,"age_first_marriage_male",30.8
+"PRT","Portugal",2011,"age_first_marriage_male",32.2
+"PSE","West Bank and Gaza",2017,"age_first_marriage_male",26.5
+"PYF","French Polynesia",2012,"age_first_marriage_male",35.8
+"ROU","Romania",2011,"age_first_marriage_male",29.4
+"RUS","Russian Federation",2010,"age_first_marriage_male",27
+"RWA","Rwanda",2015,"age_first_marriage_male",27
+"SAU","Saudi Arabia",2017,"age_first_marriage_male",30
+"SDN","Sudan",2010,"age_first_marriage_male",28.9
+"SEN","Senegal",2017,"age_first_marriage_male",30.6
+"SGP","Singapore",2010,"age_first_marriage_male",30.4
+"SLB","Solomon Islands",2015,"age_first_marriage_male",26.4
+"SLE","Sierra Leone",2017,"age_first_marriage_male",27.9
+"SMR","San Marino",2018,"age_first_marriage_male",34
+"SRB","Serbia",2011,"age_first_marriage_male",30.4
+"SSD","South Sudan",2010,"age_first_marriage_male",25.6
+"SUR","Suriname",2012,"age_first_marriage_male",32.8
+"SVK","Slovak Republic",2018,"age_first_marriage_male",33.6
+"SVN","Slovenia",2018,"age_first_marriage_male",35.6
+"SWE","Sweden",2018,"age_first_marriage_male",33.2
+"SXM","Sint Maarten (Dutch part)",2011,"age_first_marriage_male",32.3
+"TCD","Chad",2015,"age_first_marriage_male",24.7
+"TGO","Togo",2017,"age_first_marriage_male",27.6
+"THA","Thailand",2010,"age_first_marriage_male",28.5
+"TJK","Tajikistan",2017,"age_first_marriage_male",24.2
+"TLS","Timor-Leste",2016,"age_first_marriage_male",27.9
+"TON","Tonga",2016,"age_first_marriage_male",27.4
+"TTO","Trinidad and Tobago",2011,"age_first_marriage_male",31.8
+"TUN","Tunisia",2014,"age_first_marriage_male",32.9
+"TUR","Turkiye",2013,"age_first_marriage_male",27.9
+"TZA","Tanzania",2016,"age_first_marriage_male",25.2
+"UGA","Uganda",2016,"age_first_marriage_male",24.3
+"URY","Uruguay",2011,"age_first_marriage_male",26.5
+"USA","United States",2010,"age_first_marriage_male",29.2
+"VCT","St. Vincent and the Grenadines",2012,"age_first_marriage_male",27.8
+"VEN","Venezuela, RB",2011,"age_first_marriage_male",25.8
+"VIR","Virgin Islands (U.S.)",2010,"age_first_marriage_male",32.5
+"VNM","Vietnam",2015,"age_first_marriage_male",26.9
+"WSM","Samoa",2016,"age_first_marriage_male",27.3
+"YEM","Yemen, Rep.",2013,"age_first_marriage_male",26.1
+"ZAF","South Africa",2016,"age_first_marriage_male",30.7
+"ZMB","Zambia",2014,"age_first_marriage_male",25.9
+"ZWE","Zimbabwe",2017,"age_first_marriage_male",26

@@ -1,0 +1,30 @@
+"sector","subsector","subsubsector","share"
+"Energy","Transport","Road",11.9
+"Energy","Transport","Aviation",1.9
+"Energy","Transport","Rail",0.4
+"Energy","Transport","Pipeline",0.3
+"Energy","Transport","Ship",1.7
+"Energy","Energy in buildings (elec and heat)","Residential",10.9
+"Energy","Energy in buildings (elec and heat)","Commercial",6.6
+"Energy","Energy in industry","Iron & Steel",7.2
+"Energy","Energy in industry","Non-ferous metals",0.7
+"Energy","Energy in industry","Machinery",0.5
+"Energy","Energy in industry","Food and tobacco",1
+"Energy","Energy in industry","Paper, pulp & printing",0.6
+"Energy","Energy in industry","Chemical & petrochemical (energy)",3.6
+"Energy","Energy in industry","Other industry",10.6
+"Energy","Energy in Agri & Fishing","Energy in Agri & Fishing",1.7
+"Energy","Unallocated fuel combustion","Unallocated fuel combustion",7.8
+"Energy","Fugitive emissions from energy production","Coal",1.9
+"Energy","Fugitive emissions from energy production","Oil & Natural Gas",3.9
+"Industry","Cement","Cement",3
+"Industry","Chemical & petrochemical (industrial)","Chemical & petrochemical (industrial)",2.2
+"Agriculture, Forestry & Land Use","Livestock & Manure","Livestock & Manure",5.8
+"Agriculture, Forestry & Land Use","Rice Cultivation","Rice Cultivation",1.3
+"Agriculture, Forestry & Land Use","Agricultural Soils","Agricultural Soils",4.1
+"Agriculture, Forestry & Land Use","Crop Burning","Crop Burning",3.5
+"Agriculture, Forestry & Land Use","Forest Land","Forest Land",2.2
+"Agriculture, Forestry & Land Use","Cropland","Cropland",1.4
+"Agriculture, Forestry & Land Use","Grassland","Grassland",0.1
+"Waste","Landfills","Landfills",1.9
+"Waste","Wastewater","Wastewater",1.3

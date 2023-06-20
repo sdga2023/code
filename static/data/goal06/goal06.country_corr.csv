@@ -1,0 +1,171 @@
+"region","iso3","country","total_population","total_freshwater_withdrawal","agricultural_land","gdp_ppp"
+"South Asia","AFG","Afghanistan",7.57,10.31,5.58,10.89
+"Europe & Central Asia","ALB","Albania",6.46,8.98,4.07,10.59
+"Middle East & North Africa","DZA","Algeria",7.63,9.99,5.62,11.7
+"Sub-Saharan Africa","AGO","Angola",7.49,8.85,5.76,11.34
+"Latin America & Caribbean","ATG","Antigua and Barbuda",4.98,6.64,1.95,9.32
+"Latin America & Caribbean","ARG","Argentina",7.65,10.58,6.17,12.02
+"Europe & Central Asia","ARM","Armenia",6.47,9.43,4.22,10.58
+"East Asia & Pacific","AUS","Australia",7.4,10.06,6.55,12.1
+"Europe & Central Asia","AUT","Austria",6.95,9.54,4.42,11.7
+"Europe & Central Asia","AZE","Azerbaijan",7,10.09,4.68,11.16
+"Middle East & North Africa","BHR","Bahrain",6.2,8.19,1.93,10.87
+"South Asia","BGD","Bangladesh",8.21,10.55,4.96,11.93
+"Latin America & Caribbean","BRB","Barbados",5.46,7.85,2,9.66
+"Europe & Central Asia","BLR","Belarus",6.97,9.14,4.93,11.26
+"Europe & Central Asia","BEL","Belgium",7.06,9.6,4.13,11.78
+"Latin America & Caribbean","BLZ","Belize",5.58,8,3.24,9.45
+"Sub-Saharan Africa","BEN","Benin",7.06,8.11,4.6,10.57
+"South Asia","BTN","Bhutan",5.88,8.53,3.71,9.94
+"Latin America & Caribbean","BOL","Bolivia",7.06,9.32,5.58,11
+"Europe & Central Asia","BIH","Bosnia and Herzegovina",6.52,8.6,4.34,10.7
+"Sub-Saharan Africa","BWA","Botswana",6.35,8.29,5.41,10.57
+"Latin America & Caribbean","BRA","Brazil",8.32,10.81,6.37,12.5
+"East Asia & Pacific","BRN","Brunei Darussalam",5.63,7.96,2.16,10.42
+"Europe & Central Asia","BGR","Bulgaria",6.85,9.73,4.7,11.21
+"Sub-Saharan Africa","BFA","Burkina Faso",7.3,8.91,5.08,10.63
+"Sub-Saharan Africa","BDI","Burundi",7.05,8.45,4.31,9.94
+"Sub-Saharan Africa","CPV","Cabo Verde",5.74,7.4,2.9,9.58
+"East Asia & Pacific","KHM","Cambodia",7.21,9.34,4.75,10.84
+"Sub-Saharan Africa","CMR","Cameroon",7.4,9.04,4.99,10.98
+"North America","CAN","Canada",7.57,10.55,5.76,12.27
+"Sub-Saharan Africa","CAF","Central African Republic",6.67,7.86,4.71,9.65
+"Sub-Saharan Africa","TCD","Chad",7.19,8.94,5.7,10.4
+"Latin America & Caribbean","CHL","Chile",7.27,10.93,5.2,11.68
+"East Asia & Pacific","CHN","China",9.15,11.77,6.72,13.34
+"Latin America & Caribbean","COL","Colombia",7.7,10.45,5.69,11.87
+"Sub-Saharan Africa","COM","Comoros",5.92,7,3.12,9.42
+"Sub-Saharan Africa","COD","Congo, Dem. Rep.",7.92,8.83,5.5,10.97
+"Sub-Saharan Africa","COG","Congo, Rep.",6.72,7.66,5.03,10.32
+"Latin America & Caribbean","CRI","Costa Rica",6.7,9.48,4.25,11.03
+"Sub-Saharan Africa","CIV","Côte d'Ivoire",7.4,9.07,5.33,11.11
+"Europe & Central Asia","HRV","Croatia",6.61,8.83,4.17,11.07
+"Europe & Central Asia","CYP","Cyprus",6.08,8.32,3.12,10.55
+"Europe & Central Asia","CZE","Czechia",7.03,9.2,4.55,11.64
+"Europe & Central Asia","DNK","Denmark",6.76,9.03,4.42,11.52
+"Middle East & North Africa","DJI","Djibouti",5.98,7.28,4.23,9.7
+"Latin America & Caribbean","DMA","Dominica",4.86,7.3,2.4,8.93
+"Latin America & Caribbean","DOM","Dominican Republic",7.03,9.85,4.39,11.28
+"Latin America & Caribbean","ECU","Ecuador",7.23,10,4.74,11.31
+"Middle East & North Africa","EGY","Egypt",7.99,10.89,4.58,12.06
+"Latin America & Caribbean","SLV","El Salvador",6.81,9.33,4.17,10.75
+"Sub-Saharan Africa","GNQ","Equatorial Guinea",6.12,7.3,3.45,10.44
+"Europe & Central Asia","EST","Estonia",6.12,9.21,4,10.68
+"Sub-Saharan Africa","SWZ","Eswatini",6.06,9.03,4.09,10
+"Sub-Saharan Africa","ETH","Ethiopia",8.04,10.02,5.58,11.37
+"East Asia & Pacific","FJI","Fiji",5.95,7.93,3.63,10.1
+"Europe & Central Asia","FIN","Finland",6.74,9.45,4.36,11.44
+"Europe & Central Asia","FRA","France",7.83,10.43,5.46,12.49
+"Sub-Saharan Africa","GAB","Gabon",6.33,8.14,4.34,10.51
+"Sub-Saharan Africa","GMB","Gambia, The",6.36,8.01,3.78,9.7
+"Europe & Central Asia","GEO","Georgia",6.57,9.11,4.38,10.74
+"Europe & Central Asia","DEU","Germany",7.92,10.39,5.22,12.66
+"Sub-Saharan Africa","GHA","Ghana",7.47,9.16,5.17,11.21
+"Europe & Central Asia","GRC","Greece",7.03,10.01,4.79,11.5
+"Latin America & Caribbean","GRD","Grenada",5.05,7.15,1.9,9.28
+"Latin America & Caribbean","GTM","Guatemala",7.21,9.52,4.59,11.15
+"Sub-Saharan Africa","GIN","Guinea",7.09,8.95,5.16,10.5
+"Sub-Saharan Africa","GNB","Guinea-Bissau",6.27,8.24,3.91,9.56
+"Latin America & Caribbean","GUY","Guyana",5.89,9.16,4.1,10
+"Latin America & Caribbean","HTI","Haiti",7.05,9.16,4.26,10.56
+"Latin America & Caribbean","HND","Honduras",6.98,9.21,4.53,10.75
+"Europe & Central Asia","HUN","Hungary",6.99,9.65,4.72,11.49
+"Europe & Central Asia","ISL","Iceland",5.55,8.46,4.27,10.3
+"South Asia","IND","India",9.13,11.81,6.25,12.96
+"East Asia & Pacific","IDN","Indonesia",8.43,11.35,5.79,12.49
+"Middle East & North Africa","IRN","Iran",7.91,10.97,5.66,12.11
+"Middle East & North Africa","IRQ","Iraq",7.58,10.53,4.97,11.62
+"Europe & Central Asia","IRL","Ireland",6.69,9.15,4.65,11.61
+"Middle East & North Africa","ISR","Israel",6.95,9.05,3.79,11.55
+"Europe & Central Asia","ITA","Italy",7.78,10.53,5.09,12.42
+"Latin America & Caribbean","JAM","Jamaica",6.47,9.13,3.65,10.47
+"East Asia & Pacific","JPN","Japan",8.1,10.9,4.65,12.73
+"Middle East & North Africa","JOR","Jordan",7,8.96,4.01,11.01
+"Europe & Central Asia","KAZ","Kazakhstan",7.26,10.37,6.33,11.68
+"Sub-Saharan Africa","KEN","Kenya",7.71,9.61,5.44,11.36
+"East Asia & Pacific","KOR","Korea, Rep.",7.71,10.47,4.22,12.35
+"Middle East & North Africa","KWT","Kuwait",6.62,8.89,3.18,11.34
+"Europe & Central Asia","KGZ","Kyrgyzstan",6.8,9.89,5.02,10.52
+"East Asia & Pacific","LAO","Lao PDR",6.85,9.86,4.38,10.74
+"Europe & Central Asia","LVA","Latvia",6.28,8.26,4.29,10.77
+"Middle East & North Africa","LBN","Lebanon",6.84,9.26,3.82,11.04
+"Sub-Saharan Africa","LSO","Lesotho",6.32,7.64,4.39,9.75
+"Sub-Saharan Africa","LBR","Liberia",6.68,8.16,4.29,9.88
+"Middle East & North Africa","LBY","Libya",6.82,9.76,5.19,11.23
+"Europe & Central Asia","LTU","Lithuania",6.45,8.41,4.47,11.01
+"Europe & Central Asia","LUX","Luxembourg",5.78,7.72,3.12,10.85
+"Sub-Saharan Africa","MDG","Madagascar",7.42,10.13,5.61,10.63
+"Sub-Saharan Africa","MWI","Malawi",7.26,9.13,4.75,10.44
+"East Asia & Pacific","MYS","Malaysia",7.5,9.83,4.93,11.95
+"South Asia","MDV","Maldives",5.71,6.67,1.9,10
+"Sub-Saharan Africa","MLI","Mali",7.28,9.71,5.61,10.65
+"Middle East & North Africa","MLT","Malta",5.69,7.63,2.02,10.34
+"Sub-Saharan Africa","MRT","Mauritania",6.64,9.13,5.6,10.37
+"Sub-Saharan Africa","MUS","Mauritius",6.1,8.77,2.93,10.46
+"Latin America & Caribbean","MEX","Mexico",8.1,10.95,6.03,12.4
+"Europe & Central Asia","MDA","Moldova",6.43,8.92,4.35,10.54
+"East Asia & Pacific","MNG","Mongolia",6.5,8.67,6.05,10.59
+"Middle East & North Africa","MAR","Morocco",7.56,10.02,5.48,11.45
+"Sub-Saharan Africa","MOZ","Mozambique",7.47,9.17,5.62,10.59
+"East Asia & Pacific","MMR","Myanmar",7.73,10.52,5.11,11.39
+"Sub-Saharan Africa","NAM","Namibia",6.39,8.45,5.59,10.4
+"South Asia","NPL","Nepal",7.45,9.98,4.62,11.04
+"Europe & Central Asia","NLD","Netherlands",7.24,9.91,4.26,12
+"East Asia & Pacific","NZL","New Zealand",6.69,9.99,5.02,11.32
+"Latin America & Caribbean","NIC","Nicaragua",6.81,9.19,4.7,10.58
+"Sub-Saharan Africa","NER","Niger",7.35,9.24,5.67,10.44
+"Sub-Saharan Africa","NGA","Nigeria",8.29,10.1,5.84,12.01
+"Europe & Central Asia","MKD","North Macedonia",6.32,9.02,4.1,10.54
+"Europe & Central Asia","NOR","Norway",6.73,9.43,3.99,11.57
+"Middle East & North Africa","OMN","Oman",6.68,9.21,4.16,11.21
+"South Asia","PAK","Pakistan",8.33,11.28,5.56,12.06
+"Latin America & Caribbean","PAN","Panama",6.62,9.08,4.35,11.12
+"East Asia & Pacific","PNG","Papua New Guinea",6.93,8.59,4.08,10.57
+"Latin America & Caribbean","PRY","Paraguay",6.84,9.38,5.34,10.96
+"Latin America & Caribbean","PER","Peru",7.51,10.55,5.37,11.62
+"East Asia & Pacific","PHL","Philippines",8.03,10.97,5.09,11.97
+"Europe & Central Asia","POL","Poland",7.58,9.98,5.16,12.08
+"Europe & Central Asia","PRT","Portugal",7.01,9.79,4.55,11.56
+"Latin America & Caribbean","PRI","Puerto Rico",6.5,8.94,3.23,11.05
+"Middle East & North Africa","QAT","Qatar",6.44,8.4,2.83,11.41
+"Europe & Central Asia","ROU","Romania",7.29,9.81,5.13,11.76
+"Europe & Central Asia","RUS","Russian Federation",8.16,10.81,6.33,12.63
+"Sub-Saharan Africa","RWA","Rwanda",7.09,8.26,4.26,10.42
+"Sub-Saharan Africa","STP","Sao Tome and Principe",5.32,7.61,2.64,8.94
+"Middle East & North Africa","SAU","Saudi Arabia",7.53,10.38,6.24,12.22
+"Sub-Saharan Africa","SEN","Senegal",7.2,9.35,4.95,10.73
+"Europe & Central Asia","SRB","Serbia",6.84,9.74,4.54,11.09
+"Sub-Saharan Africa","SLE","Sierra Leone",6.88,8.33,4.6,10.11
+"East Asia & Pacific","SGP","Singapore",6.75,8.69,0.82,11.75
+"Europe & Central Asia","SVK","Slovak Republic",6.74,8.75,4.28,11.23
+"Europe & Central Asia","SVN","Slovenia",6.32,8.98,3.79,10.91
+"Sub-Saharan Africa","SOM","Somalia",7.18,9.52,5.64,10.24
+"Sub-Saharan Africa","ZAF","South Africa",7.76,10.3,5.98,11.91
+"Europe & Central Asia","ESP","Spain",7.67,10.49,5.42,12.28
+"South Asia","LKA","Sri Lanka",7.34,10.11,4.45,11.46
+"Latin America & Caribbean","KNA","St. Kitts and Nevis",4.72,7.09,1.78,9.17
+"Latin America & Caribbean","LCA","St. Lucia",5.26,7.63,2.03,9.45
+"Latin America & Caribbean","VCT","St. Vincent and the Grenadines",5.04,6.9,1.85,9.18
+"Sub-Saharan Africa","SDN","Sudan",7.62,10.43,5.83,11.27
+"Latin America & Caribbean","SUR","Suriname",5.76,8.79,2.92,10.05
+"Europe & Central Asia","SWE","Sweden",7.01,9.38,4.48,11.74
+"Europe & Central Asia","CHE","Switzerland",6.93,9.23,4.18,11.79
+"Europe & Central Asia","TJK","Tajikistan",6.96,9.99,4.67,10.5
+"Sub-Saharan Africa","TZA","Tanzania",7.75,9.71,5.6,11.16
+"East Asia & Pacific","THA","Thailand",7.84,10.76,5.34,12.11
+"East Asia & Pacific","TLS","Timor-Leste",6.1,9.07,3.58,9.6
+"Sub-Saharan Africa","TGO","Togo",6.9,8.35,4.58,10.22
+"Latin America & Caribbean","TTO","Trinidad and Tobago",6.14,8.53,2.73,10.58
+"Middle East & North Africa","TUN","Tunisia",7.06,9.58,4.99,11.13
+"Europe & Central Asia","TUR","Turkey",7.92,10.79,5.58,12.36
+"Europe & Central Asia","TKM","Turkmenistan",6.77,10.44,5.53,10.95
+"Sub-Saharan Africa","UGA","Uganda",7.63,8.8,5.16,10.97
+"Europe & Central Asia","UKR","Ukraine",7.65,10.03,5.62,11.73
+"Middle East & North Africa","ARE","United Arab Emirates",6.98,9.4,3.58,11.82
+"Europe & Central Asia","GBR","United Kingdom",7.82,9.93,5.24,12.5
+"North America","USA","United States of America",8.51,11.65,6.61,13.31
+"Latin America & Caribbean","URY","Uruguay",6.54,9.56,5.15,10.91
+"Europe & Central Asia","UZB","Uzbekistan",7.52,10.77,5.41,11.38
+"East Asia & Pacific","VNM","Vietnam",7.98,10.91,5.09,11.97
+"Sub-Saharan Africa","ZMB","Zambia",7.24,9.2,5.38,10.8
+"Sub-Saharan Africa","ZWE","Zimbabwe",7.16,9.58,5.21,10.76

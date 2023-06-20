@@ -1,0 +1,15 @@
+"water_source","water_volume_km3","pct_of_total_water","pct_of_freshwater","is_fresh","is_subcategory","is_sum"
+"Oceans, Seas, & Bays",1338000000,96.54,,false,false,false
+"Groundwater",23400000,1.69,,false,false,true
+"Groundwater|Saline",12870000,0.93,,false,true,false
+"Lakes",176400,0.013,,false,false,true
+"Lakes|Saline",85400,0.006,,false,true,false
+"Ice caps, Glaciers, & Permanent Snow",24064000,1.74,68.7,true,false,false
+"Groundwater|Fresh",10530000,0.76,30.1,true,true,false
+"Ground Ice & Permafrost",300000,0.022,0.86,true,false,false
+"Lakes|Fresh",91000,0.007,0.26,true,true,false
+"Soil Moisture",16500,0.001,0.05,true,false,false
+"Atmosphere",12900,0.001,0.04,true,false,false
+"Swamp Water",11470,0.0008,0.03,true,false,false
+"Rivers",2120,0.0002,0.006,true,false,false
+"Biological Water",1120,0.0001,0.003,true,false,false

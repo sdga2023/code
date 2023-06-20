@@ -1,0 +1,726 @@
+"year","country","iso3c","fatalities"
+2018,"Afghanistan","AFG",42977
+2018,"Albania","ALB",1
+2018,"Algeria","DZA",63
+2018,"Angola","AGO",40
+2018,"Antigua and Barbuda","ATG",0
+2018,"Argentina","ARG",13
+2018,"Armenia","ARM",6
+2018,"Azerbaijan","AZE",45
+2018,"Bahrain","BHR",0
+2018,"Bangladesh","BGD",180
+2018,"Barbados","BRB",0
+2018,"Belarus","BLR",0
+2018,"Belize","BLZ",55
+2018,"Benin","BEN",29
+2018,"Bolivia","BOL",20
+2018,"Bosnia and Herzegovina","BIH",1
+2018,"Brazil","BRA",6810
+2018,"Burkina Faso","BFA",300
+2018,"Burundi","BDI",297
+2018,"Cambodia","KHM",4
+2018,"Cameroon","CMR",1656
+2018,"Central African Republic","CAF",1146
+2018,"Chad","TCD",257
+2018,"Chile","CHL",3
+2018,"China","CHN",33
+2018,"Colombia","COL",1452
+2018,"Congo, Dem. Rep.","COD",3129
+2018,"Congo, Rep.","COG",27
+2018,"Cote d'Ivoire","CIV",13
+2018,"Croatia","HRV",0
+2018,"Cyprus","CYP",0
+2018,"Dominican Republic","DOM",5
+2018,"Ecuador","ECU",7
+2018,"Egypt, Arab Rep.","EGY",1113
+2018,"El Salvador","SLV",943
+2018,"Equatorial Guinea","GNQ",4
+2018,"Eritrea","ERI",1
+2018,"Eswatini","SWZ",0
+2018,"Ethiopia","ETH",1322
+2018,"Gabon","GAB",0
+2018,"Gambia, The","GMB",0
+2018,"Georgia","GEO",3
+2018,"Ghana","GHA",25
+2018,"Greece","GRC",8
+2018,"Guatemala","GTM",766
+2018,"Guinea","GIN",13
+2018,"Guyana","GUY",1
+2018,"Haiti","HTI",165
+2018,"Honduras","HND",780
+2018,"India","IND",1908
+2018,"Indonesia","IDN",148
+2018,"Iran, Islamic Rep.","IRN",186
+2018,"Iraq","IRQ",5564
+2018,"Israel","ISR",7
+2018,"Jamaica","JAM",219
+2018,"Jordan","JOR",6
+2018,"Kazakhstan","KAZ",3
+2018,"Kenya","KEN",363
+2018,"Korea, Dem. People's Rep.","PRK",0
+2018,"Kyrgyz Republic","KGZ",4
+2018,"Lao PDR","LAO",0
+2018,"Lebanon","LBN",30
+2018,"Liberia","LBR",1
+2018,"Libya","LBY",1226
+2018,"Madagascar","MDG",123
+2018,"Malawi","MWI",2
+2018,"Malaysia","MYS",11
+2018,"Mali","MLI",1719
+2018,"Mauritania","MRT",3
+2018,"Mexico","MEX",9673
+2018,"Moldova","MDA",0
+2018,"Mongolia","MNG",1
+2018,"Montenegro","MNE",2
+2018,"Morocco","MAR",4
+2018,"Mozambique","MOZ",206
+2018,"Myanmar","MMR",255
+2018,"Nepal","NPL",13
+2018,"Nicaragua","NIC",26
+2018,"Niger","NER",506
+2018,"Nigeria","NGA",6098
+2018,"North Macedonia","MKD",1
+2018,"Oman","OMN",0
+2018,"Pakistan","PAK",1185
+2018,"Panama","PAN",1
+2018,"Paraguay","PRY",5
+2018,"Peru","PER",15
+2018,"Philippines","PHL",2102
+2018,"Puerto Rico","PRI",123
+2018,"Romania","ROU",0
+2018,"Russian Federation","RUS",119
+2018,"Rwanda","RWA",37
+2018,"Saudi Arabia","SAU",1514
+2018,"Senegal","SEN",28
+2018,"Serbia","SRB",5
+2018,"Sierra Leone","SLE",7
+2018,"Somalia","SOM",5372
+2018,"South Africa","ZAF",41
+2018,"South Sudan","SSD",1704
+2018,"Sri Lanka","LKA",19
+2018,"St. Kitts and Nevis","KNA",1
+2018,"Sudan","SDN",1017
+2018,"Suriname","SUR",0
+2018,"Syrian Arab Republic","SYR",30117
+2018,"Tajikistan","TJK",11
+2018,"Tanzania","TZA",26
+2018,"Thailand","THA",117
+2018,"Togo","TGO",0
+2018,"Trinidad and Tobago","TTO",242
+2018,"Tunisia","TUN",31
+2018,"Turkiye","TUR",1931
+2018,"Turkmenistan","TKM",25
+2018,"Uganda","UGA",94
+2018,"Ukraine","UKR",873
+2018,"United Arab Emirates","ARE",0
+2018,"Uzbekistan","UZB",2
+2018,"Venezuela, RB","VEN",1726
+2018,"Vietnam","VNM",3
+2018,"West Bank and Gaza","PSE",153
+2018,"Yemen, Rep.","YEM",34237
+2018,"Zambia","ZMB",8
+2018,"Zimbabwe","ZWE",14
+2018,,"GUF",0
+2018,,,4
+2019,"Afghanistan","AFG",41422
+2019,"Albania","ALB",0
+2019,"Algeria","DZA",21
+2019,"Angola","AGO",19
+2019,"Antigua and Barbuda","ATG",0
+2019,"Argentina","ARG",15
+2019,"Armenia","ARM",2
+2019,"Azerbaijan","AZE",14
+2019,"Bahamas, The","BHS",0
+2019,"Bangladesh","BGD",259
+2019,"Belarus","BLR",0
+2019,"Belize","BLZ",55
+2019,"Benin","BEN",25
+2019,"Bolivia","BOL",5
+2019,"Bosnia and Herzegovina","BIH",1
+2019,"Brazil","BRA",5338
+2019,"Bulgaria","BGR",0
+2019,"Burkina Faso","BFA",2204
+2019,"Burundi","BDI",283
+2019,"Cambodia","KHM",5
+2019,"Cameroon","CMR",1306
+2019,"Central African Republic","CAF",592
+2019,"Chad","TCD",559
+2019,"Chile","CHL",7
+2019,"China","CHN",11
+2019,"Colombia","COL",1403
+2019,"Congo, Dem. Rep.","COD",3677
+2019,"Congo, Rep.","COG",0
+2019,"Costa Rica","CRI",10
+2019,"Cote d'Ivoire","CIV",29
+2019,"Croatia","HRV",2
+2019,"Cuba","CUB",2
+2019,"Cyprus","CYP",1
+2019,"Djibouti","DJI",4
+2019,"Dominica","DMA",1
+2019,"Dominican Republic","DOM",10
+2019,"Ecuador","ECU",4
+2019,"Egypt, Arab Rep.","EGY",1003
+2019,"El Salvador","SLV",874
+2019,"Equatorial Guinea","GNQ",1
+2019,"Eswatini","SWZ",1
+2019,"Ethiopia","ETH",497
+2019,"Gabon","GAB",6
+2019,"Gambia, The","GMB",2
+2019,"Georgia","GEO",2
+2019,"Ghana","GHA",36
+2019,"Greece","GRC",4
+2019,"Guatemala","GTM",1095
+2019,"Guinea","GIN",19
+2019,"Guyana","GUY",1
+2019,"Haiti","HTI",288
+2019,"Honduras","HND",1003
+2019,"India","IND",1225
+2019,"Indonesia","IDN",134
+2019,"Iran, Islamic Rep.","IRN",76
+2019,"Iraq","IRQ",3254
+2019,"Israel","ISR",10
+2019,"Jamaica","JAM",272
+2019,"Japan","JPN",0
+2019,"Jordan","JOR",5
+2019,"Kazakhstan","KAZ",6
+2019,"Kenya","KEN",263
+2019,"Korea, Dem. People's Rep.","PRK",9
+2019,"Kyrgyz Republic","KGZ",7
+2019,"Lao PDR","LAO",1
+2019,"Lebanon","LBN",17
+2019,"Lesotho","LSO",3
+2019,"Liberia","LBR",3
+2019,"Libya","LBY",2294
+2019,"Madagascar","MDG",319
+2019,"Malawi","MWI",1
+2019,"Malaysia","MYS",15
+2019,"Mali","MLI",1871
+2019,"Mauritania","MRT",3
+2019,"Mexico","MEX",9277
+2019,"Moldova","MDA",0
+2019,"Montenegro","MNE",0
+2019,"Morocco","MAR",4
+2019,"Mozambique","MOZ",662
+2019,"Myanmar","MMR",1484
+2019,"Namibia","NAM",2
+2019,"Nepal","NPL",36
+2019,"Nicaragua","NIC",24
+2019,"Niger","NER",727
+2019,"Nigeria","NGA",5847
+2019,"North Macedonia","MKD",0
+2019,"Pakistan","PAK",1143
+2019,"Panama","PAN",2
+2019,"Paraguay","PRY",21
+2019,"Peru","PER",29
+2019,"Philippines","PHL",1700
+2019,"Puerto Rico","PRI",144
+2019,"Romania","ROU",1
+2019,"Russian Federation","RUS",46
+2019,"Rwanda","RWA",83
+2019,"Saudi Arabia","SAU",1010
+2019,"Senegal","SEN",4
+2019,"Serbia","SRB",0
+2019,"Sierra Leone","SLE",6
+2019,"Somalia","SOM",4489
+2019,"South Africa","ZAF",60
+2019,"South Sudan","SSD",1797
+2019,"Sri Lanka","LKA",296
+2019,"St. Lucia","LCA",0
+2019,"Sudan","SDN",560
+2019,"Suriname","SUR",7
+2019,"Syrian Arab Republic","SYR",15576
+2019,"Taiwan, China","TWN",0
+2019,"Tajikistan","TJK",33
+2019,"Tanzania","TZA",29
+2019,"Thailand","THA",173
+2019,"Togo","TGO",4
+2019,"Trinidad and Tobago","TTO",178
+2019,"Tunisia","TUN",30
+2019,"Turkiye","TUR",961
+2019,"Turkmenistan","TKM",8
+2019,"Uganda","UGA",89
+2019,"Ukraine","UKR",388
+2019,"United Arab Emirates","ARE",0
+2019,"Uruguay","URY",2
+2019,"Uzbekistan","UZB",3
+2019,"Venezuela, RB","VEN",2386
+2019,"Vietnam","VNM",1
+2019,"West Bank and Gaza","PSE",133
+2019,"Yemen, Rep.","YEM",27875
+2019,"Zambia","ZMB",10
+2019,"Zimbabwe","ZWE",21
+2019,,,0
+2020,"Afghanistan","AFG",30956
+2020,"Albania","ALB",0
+2020,"Algeria","DZA",31
+2020,"Andorra","AND",0
+2020,"Angola","AGO",53
+2020,"Antigua and Barbuda","ATG",2
+2020,"Argentina","ARG",8
+2020,"Armenia","ARM",27
+2020,"Austria","AUT",6
+2020,"Azerbaijan","AZE",7057
+2020,"Bahamas, The","BHS",4
+2020,"Bahrain","BHR",0
+2020,"Bangladesh","BGD",171
+2020,"Barbados","BRB",1
+2020,"Belarus","BLR",3
+2020,"Belgium","BEL",0
+2020,"Belize","BLZ",46
+2020,"Benin","BEN",52
+2020,"Bhutan","BTN",0
+2020,"Bolivia","BOL",0
+2020,"Bosnia and Herzegovina","BIH",0
+2020,"Botswana","BWA",4
+2020,"Brazil","BRA",5258
+2020,"Bulgaria","BGR",0
+2020,"Burkina Faso","BFA",2296
+2020,"Burundi","BDI",318
+2020,"Cabo Verde","CPV",0
+2020,"Cambodia","KHM",3
+2020,"Cameroon","CMR",1726
+2020,"Central African Republic","CAF",441
+2020,"Chad","TCD",715
+2020,"Chile","CHL",10
+2020,"China","CHN",9
+2020,"Colombia","COL",1691
+2020,"Comoros","COM",1
+2020,"Congo, Dem. Rep.","COD",5885
+2020,"Congo, Rep.","COG",0
+2020,"Costa Rica","CRI",9
+2020,"Cote d'Ivoire","CIV",81
+2020,"Croatia","HRV",0
+2020,"Cuba","CUB",4
+2020,"Cyprus","CYP",0
+2020,"Czechia","CZE",0
+2020,"Denmark","DNK",1
+2020,"Djibouti","DJI",0
+2020,"Dominican Republic","DOM",8
+2020,"Ecuador","ECU",3
+2020,"Egypt, Arab Rep.","EGY",623
+2020,"El Salvador","SLV",367
+2020,"Equatorial Guinea","GNQ",0
+2020,"Eritrea","ERI",1
+2020,"Eswatini","SWZ",3
+2020,"Ethiopia","ETH",3832
+2020,"Finland","FIN",1
+2020,"France","FRA",7
+2020,"Gabon","GAB",0
+2020,"Gambia, The","GMB",0
+2020,"Georgia","GEO",0
+2020,"Germany","DEU",14
+2020,"Ghana","GHA",30
+2020,"Greece","GRC",3
+2020,"Guatemala","GTM",562
+2020,"Guinea","GIN",41
+2020,"Guinea-Bissau","GNB",7
+2020,"Guyana","GUY",1
+2020,"Haiti","HTI",488
+2020,"Honduras","HND",724
+2020,"India","IND",1007
+2020,"Indonesia","IDN",124
+2020,"Iran, Islamic Rep.","IRN",324
+2020,"Iraq","IRQ",2734
+2020,"Ireland","IRL",0
+2020,"Israel","ISR",1
+2020,"Italy","ITA",0
+2020,"Jamaica","JAM",252
+2020,"Jordan","JOR",0
+2020,"Kazakhstan","KAZ",1
+2020,"Kenya","KEN",252
+2020,"Korea, Dem. People's Rep.","PRK",11
+2020,"Korea, Rep.","KOR",0
+2020,"Kyrgyz Republic","KGZ",1
+2020,"Lao PDR","LAO",2
+2020,"Latvia","LVA",0
+2020,"Lebanon","LBN",45
+2020,"Lesotho","LSO",2
+2020,"Liberia","LBR",1
+2020,"Libya","LBY",1555
+2020,"Madagascar","MDG",307
+2020,"Malawi","MWI",10
+2020,"Malaysia","MYS",1
+2020,"Maldives","MDV",0
+2020,"Mali","MLI",2829
+2020,"Malta","MLT",0
+2020,"Mauritania","MRT",2
+2020,"Mauritius","MUS",2
+2020,"Mexico","MEX",8346
+2020,"Moldova","MDA",0
+2020,"Montenegro","MNE",0
+2020,"Morocco","MAR",4
+2020,"Mozambique","MOZ",1762
+2020,"Myanmar","MMR",675
+2020,"Namibia","NAM",0
+2020,"Nepal","NPL",17
+2020,"Netherlands","NLD",0
+2020,"Nicaragua","NIC",21
+2020,"Niger","NER",1119
+2020,"Nigeria","NGA",8210
+2020,"North Macedonia","MKD",0
+2020,"Norway","NOR",1
+2020,"Pakistan","PAK",785
+2020,"Panama","PAN",3
+2020,"Paraguay","PRY",18
+2020,"Peru","PER",15
+2020,"Philippines","PHL",1477
+2020,"Poland","POL",0
+2020,"Portugal","PRT",2
+2020,"Puerto Rico","PRI",113
+2020,"Romania","ROU",0
+2020,"Russian Federation","RUS",55
+2020,"Rwanda","RWA",63
+2020,"Saudi Arabia","SAU",71
+2020,"Senegal","SEN",3
+2020,"Serbia","SRB",0
+2020,"Sierra Leone","SLE",8
+2020,"Sint Maarten (Dutch part)","SXM",0
+2020,"Somalia","SOM",3232
+2020,"South Africa","ZAF",63
+2020,"South Sudan","SSD",2375
+2020,"Spain","ESP",0
+2020,"Sri Lanka","LKA",10
+2020,"Sudan","SDN",925
+2020,"Suriname","SUR",1
+2020,"Sweden","SWE",1
+2020,"Switzerland","CHE",0
+2020,"Syrian Arab Republic","SYR",8191
+2020,"Tajikistan","TJK",2
+2020,"Tanzania","TZA",40
+2020,"Thailand","THA",101
+2020,"Timor-Leste","TLS",0
+2020,"Togo","TGO",9
+2020,"Trinidad and Tobago","TTO",160
+2020,"Tunisia","TUN",15
+2020,"Turkiye","TUR",568
+2020,"Turkmenistan","TKM",1
+2020,"Uganda","UGA",163
+2020,"Ukraine","UKR",113
+2020,"United Arab Emirates","ARE",2
+2020,"United Kingdom","GBR",5
+2020,"United States","USA",53
+2020,"Uruguay","URY",1
+2020,"Uzbekistan","UZB",4
+2020,"Venezuela, RB","VEN",1919
+2020,"Vietnam","VNM",0
+2020,"West Bank and Gaza","PSE",34
+2020,"Yemen, Rep.","YEM",19685
+2020,"Zambia","ZMB",5
+2020,"Zimbabwe","ZWE",9
+2020,,"GLP",1
+2020,,,2
+2021,"Afghanistan","AFG",42340
+2021,"Albania","ALB",1
+2021,"Algeria","DZA",24
+2021,"Angola","AGO",9
+2021,"Antigua and Barbuda","ATG",0
+2021,"Argentina","ARG",10
+2021,"Armenia","ARM",24
+2021,"Australia","AUS",0
+2021,"Austria","AUT",0
+2021,"Azerbaijan","AZE",33
+2021,"Bahamas, The","BHS",2
+2021,"Bahrain","BHR",0
+2021,"Bangladesh","BGD",138
+2021,"Belarus","BLR",5
+2021,"Belgium","BEL",1
+2021,"Belize","BLZ",40
+2021,"Benin","BEN",60
+2021,"Bhutan","BTN",0
+2021,"Bolivia","BOL",0
+2021,"Bosnia and Herzegovina","BIH",0
+2021,"Botswana","BWA",0
+2021,"Brazil","BRA",5823
+2021,"Bulgaria","BGR",0
+2021,"Burkina Faso","BFA",2355
+2021,"Burundi","BDI",285
+2021,"Cabo Verde","CPV",0
+2021,"Cambodia","KHM",2
+2021,"Cameroon","CMR",1389
+2021,"Canada","CAN",8
+2021,"Central African Republic","CAF",1704
+2021,"Chad","TCD",816
+2021,"Chile","CHL",9
+2021,"China","CHN",12
+2021,"Colombia","COL",2024
+2021,"Comoros","COM",0
+2021,"Congo, Dem. Rep.","COD",5909
+2021,"Congo, Rep.","COG",10
+2021,"Costa Rica","CRI",3
+2021,"Cote d'Ivoire","CIV",27
+2021,"Croatia","HRV",0
+2021,"Cuba","CUB",0
+2021,"Cyprus","CYP",0
+2021,"Czechia","CZE",1
+2021,"Denmark","DNK",0
+2021,"Djibouti","DJI",5
+2021,"Dominica","DMA",0
+2021,"Dominican Republic","DOM",2
+2021,"Ecuador","ECU",3
+2021,"Egypt, Arab Rep.","EGY",263
+2021,"El Salvador","SLV",410
+2021,"Equatorial Guinea","GNQ",1
+2021,"Eritrea","ERI",0
+2021,"Estonia","EST",1
+2021,"Eswatini","SWZ",5
+2021,"Ethiopia","ETH",9015
+2021,"Finland","FIN",0
+2021,"France","FRA",4
+2021,"Gabon","GAB",1
+2021,"Gambia, The","GMB",0
+2021,"Georgia","GEO",0
+2021,"Germany","DEU",9
+2021,"Ghana","GHA",15
+2021,"Greece","GRC",1
+2021,"Guatemala","GTM",651
+2021,"Guinea","GIN",7
+2021,"Guinea-Bissau","GNB",0
+2021,"Guyana","GUY",1
+2021,"Haiti","HTI",515
+2021,"Honduras","HND",705
+2021,"Hungary","HUN",0
+2021,"Iceland","ISL",0
+2021,"India","IND",816
+2021,"Indonesia","IDN",127
+2021,"Iran, Islamic Rep.","IRN",169
+2021,"Iraq","IRQ",2809
+2021,"Israel","ISR",19
+2021,"Italy","ITA",0
+2021,"Jamaica","JAM",272
+2021,"Jordan","JOR",1
+2021,"Kazakhstan","KAZ",3
+2021,"Kenya","KEN",391
+2021,"Korea, Dem. People's Rep.","PRK",14
+2021,"Kyrgyz Republic","KGZ",32
+2021,"Lao PDR","LAO",1
+2021,"Lebanon","LBN",36
+2021,"Lesotho","LSO",6
+2021,"Liberia","LBR",5
+2021,"Libya","LBY",115
+2021,"Madagascar","MDG",281
+2021,"Malawi","MWI",5
+2021,"Malaysia","MYS",13
+2021,"Maldives","MDV",0
+2021,"Mali","MLI",1903
+2021,"Mauritania","MRT",0
+2021,"Mauritius","MUS",0
+2021,"Mexico","MEX",8232
+2021,"Moldova","MDA",0
+2021,"Mongolia","MNG",0
+2021,"Montenegro","MNE",0
+2021,"Morocco","MAR",46
+2021,"Mozambique","MOZ",1142
+2021,"Myanmar","MMR",10359
+2021,"Namibia","NAM",1
+2021,"Nepal","NPL",2
+2021,"Netherlands","NLD",1
+2021,"New Zealand","NZL",1
+2021,"Nicaragua","NIC",30
+2021,"Niger","NER",1492
+2021,"Nigeria","NGA",10647
+2021,"North Macedonia","MKD",0
+2021,"Oman","OMN",2
+2021,"Pakistan","PAK",1324
+2021,"Panama","PAN",5
+2021,"Papua New Guinea","PNG",94
+2021,"Paraguay","PRY",32
+2021,"Peru","PER",21
+2021,"Philippines","PHL",1156
+2021,"Poland","POL",1
+2021,"Puerto Rico","PRI",175
+2021,"Romania","ROU",0
+2021,"Russian Federation","RUS",24
+2021,"Rwanda","RWA",28
+2021,"Samoa","WSM",0
+2021,"Sao Tome and Principe","STP",1
+2021,"Saudi Arabia","SAU",21
+2021,"Senegal","SEN",13
+2021,"Serbia","SRB",1
+2021,"Sierra Leone","SLE",0
+2021,"Slovak Republic","SVK",0
+2021,"Slovenia","SVN",0
+2021,"Solomon Islands","SLB",1
+2021,"Somalia","SOM",3181
+2021,"South Africa","ZAF",133
+2021,"South Sudan","SSD",2151
+2021,"Spain","ESP",2
+2021,"Sri Lanka","LKA",4
+2021,"Sudan","SDN",1567
+2021,"Suriname","SUR",1
+2021,"Syrian Arab Republic","SYR",5859
+2021,"Taiwan, China","TWN",0
+2021,"Tajikistan","TJK",19
+2021,"Tanzania","TZA",35
+2021,"Thailand","THA",64
+2021,"Timor-Leste","TLS",2
+2021,"Togo","TGO",0
+2021,"Trinidad and Tobago","TTO",185
+2021,"Tunisia","TUN",19
+2021,"Turkiye","TUR",302
+2021,"Uganda","UGA",330
+2021,"Ukraine","UKR",149
+2021,"United Arab Emirates","ARE",0
+2021,"United Kingdom","GBR",3
+2021,"United States","USA",80
+2021,"Uzbekistan","UZB",4
+2021,"Venezuela, RB","VEN",1379
+2021,"Vietnam","VNM",0
+2021,"West Bank and Gaza","PSE",336
+2021,"Yemen, Rep.","YEM",18333
+2021,"Zambia","ZMB",8
+2021,"Zimbabwe","ZWE",10
+2021,,"GLP",0
+2021,,"MYT",0
+2021,,,0
+2022,"Afghanistan","AFG",3983
+2022,"Albania","ALB",0
+2022,"Algeria","DZA",27
+2022,"Angola","AGO",68
+2022,"Argentina","ARG",10
+2022,"Armenia","ARM",210
+2022,"Australia","AUS",6
+2022,"Austria","AUT",0
+2022,"Azerbaijan","AZE",68
+2022,"Bahamas, The","BHS",0
+2022,"Bahrain","BHR",0
+2022,"Bangladesh","BGD",156
+2022,"Belarus","BLR",4
+2022,"Belgium","BEL",2
+2022,"Belize","BLZ",15
+2022,"Benin","BEN",149
+2022,"Bolivia","BOL",3
+2022,"Bosnia and Herzegovina","BIH",1
+2022,"Brazil","BRA",6968
+2022,"Burkina Faso","BFA",4238
+2022,"Burundi","BDI",245
+2022,"Cabo Verde","CPV",0
+2022,"Cambodia","KHM",1
+2022,"Cameroon","CMR",959
+2022,"Canada","CAN",0
+2022,"Central African Republic","CAF",837
+2022,"Chad","TCD",617
+2022,"Chile","CHL",12
+2022,"China","CHN",4
+2022,"Colombia","COL",2239
+2022,"Comoros","COM",0
+2022,"Congo, Dem. Rep.","COD",6145
+2022,"Congo, Rep.","COG",11
+2022,"Costa Rica","CRI",1
+2022,"Cote d'Ivoire","CIV",37
+2022,"Cuba","CUB",1
+2022,"Cyprus","CYP",1
+2022,"Czechia","CZE",0
+2022,"Djibouti","DJI",7
+2022,"Dominican Republic","DOM",12
+2022,"Ecuador","ECU",5
+2022,"Egypt, Arab Rep.","EGY",272
+2022,"El Salvador","SLV",267
+2022,"Eritrea","ERI",0
+2022,"Eswatini","SWZ",11
+2022,"Ethiopia","ETH",6741
+2022,"Fiji","FJI",0
+2022,"Finland","FIN",0
+2022,"France","FRA",14
+2022,"Gabon","GAB",0
+2022,"Gambia, The","GMB",4
+2022,"Georgia","GEO",0
+2022,"Germany","DEU",1
+2022,"Ghana","GHA",107
+2022,"Greece","GRC",3
+2022,"Guatemala","GTM",728
+2022,"Guinea","GIN",12
+2022,"Guinea-Bissau","GNB",12
+2022,"Guyana","GUY",1
+2022,"Haiti","HTI",1208
+2022,"Honduras","HND",687
+2022,"Hungary","HUN",0
+2022,"India","IND",688
+2022,"Indonesia","IDN",99
+2022,"Iran, Islamic Rep.","IRN",233
+2022,"Iraq","IRQ",4477
+2022,"Israel","ISR",34
+2022,"Italy","ITA",0
+2022,"Jamaica","JAM",368
+2022,"Japan","JPN",1
+2022,"Jordan","JOR",5
+2022,"Kazakhstan","KAZ",15
+2022,"Kenya","KEN",482
+2022,"Korea, Dem. People's Rep.","PRK",34
+2022,"Kyrgyz Republic","KGZ",70
+2022,"Lebanon","LBN",37
+2022,"Lesotho","LSO",7
+2022,"Liberia","LBR",5
+2022,"Libya","LBY",155
+2022,"Madagascar","MDG",283
+2022,"Malawi","MWI",5
+2022,"Malaysia","MYS",4
+2022,"Mali","MLI",4842
+2022,"Mauritania","MRT",5
+2022,"Mauritius","MUS",1
+2022,"Mexico","MEX",7720
+2022,"Moldova","MDA",0
+2022,"Montenegro","MNE",0
+2022,"Morocco","MAR",30
+2022,"Mozambique","MOZ",902
+2022,"Myanmar","MMR",19327
+2022,"Namibia","NAM",0
+2022,"Nepal","NPL",6
+2022,"Netherlands","NLD",0
+2022,"Nicaragua","NIC",7
+2022,"Niger","NER",978
+2022,"Nigeria","NGA",10547
+2022,"North Macedonia","MKD",0
+2022,"Norway","NOR",2
+2022,"Oman","OMN",0
+2022,"Pakistan","PAK",1629
+2022,"Panama","PAN",1
+2022,"Papua New Guinea","PNG",177
+2022,"Paraguay","PRY",28
+2022,"Peru","PER",15
+2022,"Philippines","PHL",877
+2022,"Poland","POL",0
+2022,"Puerto Rico","PRI",202
+2022,"Romania","ROU",0
+2022,"Russian Federation","RUS",89
+2022,"Rwanda","RWA",15
+2022,"Sao Tome and Principe","STP",5
+2022,"Saudi Arabia","SAU",8
+2022,"Senegal","SEN",13
+2022,"Serbia","SRB",0
+2022,"Sierra Leone","SLE",5
+2022,"Sint Maarten (Dutch part)","SXM",0
+2022,"Slovenia","SVN",0
+2022,"Solomon Islands","SLB",0
+2022,"Somalia","SOM",6483
+2022,"South Africa","ZAF",105
+2022,"South Sudan","SSD",2235
+2022,"Spain","ESP",0
+2022,"Sri Lanka","LKA",0
+2022,"Sudan","SDN",1982
+2022,"Suriname","SUR",0
+2022,"Sweden","SWE",0
+2022,"Switzerland","CHE",2
+2022,"Syrian Arab Republic","SYR",5666
+2022,"Taiwan, China","TWN",0
+2022,"Tajikistan","TJK",48
+2022,"Tanzania","TZA",32
+2022,"Thailand","THA",43
+2022,"Timor-Leste","TLS",2
+2022,"Togo","TGO",76
+2022,"Trinidad and Tobago","TTO",275
+2022,"Tunisia","TUN",1
+2022,"Turkiye","TUR",253
+2022,"Uganda","UGA",239
+2022,"Ukraine","UKR",32537
+2022,"United Arab Emirates","ARE",3
+2022,"United Kingdom","GBR",1
+2022,"United States","USA",94
+2022,"Uruguay","URY",0
+2022,"Uzbekistan","UZB",2
+2022,"Venezuela, RB","VEN",815
+2022,"West Bank and Gaza","PSE",177
+2022,"Yemen, Rep.","YEM",6713
+2022,"Zambia","ZMB",3
+2022,"Zimbabwe","ZWE",5
+2022,,"MYT",2
+2022,,"REU",0

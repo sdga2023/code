@@ -1,0 +1,9 @@
+"year","gdp_growth","is_projected"
+2018,3.5,false
+2019,3.2,false
+2020,-3.8,false
+2021,3.4,false
+2021,3.4,true
+2022,-35,true
+2023,3.3,true
+2024,4.1,true
