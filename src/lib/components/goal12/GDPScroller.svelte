@@ -134,10 +134,6 @@
   let hoverCountry;
   let tooltipTargetPos = { x: 0, y: 0 };
   function setHoverCountry(evt, country) {
-    /* if (lastInteractionTimeout) {
-      clearTimeout(lastInteractionTimeout);
-    } else {
-      lastInteractionTimeout = setTimeout(() => {*/
     hoverCountry = country;
 
     if (hoverCountry) {
