@@ -1,8 +1,6 @@
 <script>
-  import ChartGrid from '../ChartGrid.svelte';
-  import { min, max, sum, scaleLinear, scaleSequential, piecewise, interpolateLab, groups, scaleBand } from 'd3';
+  import { max, sum, scaleLinear, groups, scaleBand } from 'd3';
   import { format } from 'd3-format';
-  import * as colors from '$lib/styles/tokens.es6.js';
   import { fade } from 'svelte/transition';
   import { getRegion } from './../../../data/countryRegionIncomeDictionary';
   import CountryPicker from '../general/CountryPicker.svelte';
@@ -240,11 +238,8 @@
 <div bind:clientWidth={width} bind:clientHeight={height} class="causes-of-death-scroller svg-container">
   <svg {width} {height} on:mousemove={(e) => updateMouse(e)}>
     <g transform="translate({margin.left}, {margin.top})">
-      <!-- <text class="label small middle" x={50}>top 80%</text> -->
-
       {#if !$isMobile}
         {#each labelData as s, i}
-          <!-- svelte-ignore a11y-mouse-events-have-key-events -->
           <g
             transform="translate(300, {s.y})"
             transition:fade|local={{ delay: i * 20 }}
@@ -271,7 +266,6 @@
           >{$_(labels.global)}</text
         >
         {#each data2.filter((d) => d.global.val >= 0.01) as s, i}
-          <!-- svelte-ignore a11y-mouse-events-have-key-events -->
           <g
             transform="translate({x('global')}, 0)"
             transition:fade|local={{ delay: i * 20 }}
@@ -322,7 +316,6 @@
           >{$_(`region.${selectedRegion}`)}</text
         >
         {#each data2.filter((d) => d.region.val >= 0.01) as s, i}
-          <!-- svelte-ignore a11y-mouse-events-have-key-events -->
           <g
             transform="translate({x('region')}, 0)"
             transition:fade|local={{ delay: i * 20 }}
@@ -384,7 +377,6 @@
           >{$_(`country.${selectedCountry.toLowerCase()}`)}</text
         >
         {#each data2.filter((d) => d.country.val >= 0.01) as s, i}
-          <!-- svelte-ignore a11y-mouse-events-have-key-events -->
           <g
             transform="translate({x('country')}, 0)"
             transition:fade|local={{ delay: i * 20 }}

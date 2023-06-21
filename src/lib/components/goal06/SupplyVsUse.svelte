@@ -1,6 +1,6 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import { range, scaleLinear, line, area, extent, min, max } from 'd3';
+  import { scaleLinear, line, extent, max } from 'd3';
   import ChartGrid from '../ChartGrid.svelte';
   import { onMount } from 'svelte';
 
@@ -13,9 +13,6 @@
 
   let element1;
   let element2;
-
-  $: element1TotalLength = element1?.getTotalLength();
-  $: element2TotalLength = element2?.getTotalLength();
 
   const margins = {
     top: 50,
@@ -35,7 +32,6 @@
     .range([0, w]);
 
   $: y = scaleLinear()
-    // .domain([min(data, (d) => Math.min(d.supply, d.use)), max(data, (d) => Math.max(d.supply, d.use))])
     .domain([0, max(data, (d) => Math.max(d.supply, d.use))])
     .range([h, 0]);
 
@@ -60,10 +56,6 @@
   let mounted = false;
 
   onMount(() => (mounted = true));
-
-  //   element1?.getPointAtLength(activeScene.progress).y - element1?.getPointAtLength(activeScene.progress - 0.01).y,
-  // element1?.getPointAtLength(activeScene.progress).x - element1?.getPointAtLength(activeScene.progress - 0.01).x;
-  //   ) || 0}
 </script>
 
 <div class="chart" bind:clientWidth={width}>

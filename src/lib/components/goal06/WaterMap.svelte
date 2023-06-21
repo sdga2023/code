@@ -1,6 +1,5 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import vars from '$lib/variables.js';
   import * as Tokens from '$lib/styles/vis.js';
   import { referenceCountry } from '$lib/stores/referenceCountry.js';
 
@@ -9,25 +8,11 @@
   import { isMobile } from '$lib/stores/isMobile';
 
   import * as topojson from 'topojson-client';
-  import {
-    geoEqualEarth,
-    geoOrthographic,
-    geoPath,
-    json,
-    interpolateRgbBasis,
-    scaleSequential,
-    extent,
-    color,
-    select,
-    piecewise,
-    interpolateLab
-  } from 'd3';
+  import { geoEqualEarth, geoPath, scaleSequential, color, piecewise, interpolateLab } from 'd3';
   import * as Colors from '$lib/styles/tokens.es6.js';
   import Legend from '$lib/components/general/Legend.svelte';
   import Tooltip from '$lib/components/general/Tooltip.svelte';
   import Number from '../general/Number.svelte';
-  import Lens from '../general/Lens.svelte';
-  import { fade } from 'svelte/transition';
 
   import disputedJSON from '../../../data/other/wb_disputed_areas_topo.json';
   import centroidsJSON from '../../../data/other/country_centroids.json';
@@ -46,7 +31,6 @@
 
   let width = parentWidth;
   let height = parentHeight - 50;
-  // $: height = width / 1.7;
 
   const margins = {
     top: 20,
@@ -68,14 +52,6 @@
   ]);
 
   let colorScale = scaleSequential(ramp).domain([0, 100]).clamp(true);
-
-  // $: if (data) {
-  //   const [min, max] = extent(data.filter((c) => c.year === '2020-2021').map((c) => c['excess.mean']));
-
-  //   const dmax = max;
-  //   const dmin = Math.abs(min);
-  //   const d = Math.max(dmax, dmin) / 2;
-  // }
 
   let disputed = null;
   let centroids = null;

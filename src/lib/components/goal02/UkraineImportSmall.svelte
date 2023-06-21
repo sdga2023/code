@@ -1,16 +1,9 @@
 <script>
-  import { groups, area, line, sum, scaleLinear, extent, max, curveCatmullRom, curveCardinal, stack } from 'd3';
+  import { groups, area, sum, scaleLinear, max, curveCatmullRom, stack } from 'd3';
   import Number from '../general/Number.svelte';
   import Date from '../general/Date.svelte';
   import { _ } from 'svelte-i18n';
-  import {
-    ColorBaseYellow300,
-    ColorThemeDarkText,
-    ColorThemeText,
-    ColorThemeTextWeaker,
-    ColorVisBinaryNeg,
-    ColorVisBinaryPos
-  } from '$lib/styles/tokens.es6';
+  import { ColorBaseYellow300, ColorThemeTextWeaker, ColorVisBinaryNeg, ColorVisBinaryPos } from '$lib/styles/tokens.es6';
 
   export let data;
   export let period;
@@ -64,24 +57,11 @@
     .domain([0, max(byPeriod, (d) => d.totalUkraine)])
     .range([h, 0]);
 
-  const alpha = 0.7;
-
-  const a = area()
-    .x((d, i) => x(i))
-    .y1((d) => y(d.totalUkraine))
-    .y0((d) => y(0))
-    .curve(curveCatmullRom);
-
   const a2 = area()
     .x((d, i) => x(i))
     .y1((d) => y(d[1]))
     .y0((d) => y(d[0] || 0))
     .curve(curveCatmullRom);
-
-  const l = line()
-    .x((d, i) => x(i))
-    .y((d) => y(d.totalUkraine))
-    .curve(curveCardinal.tension(alpha));
 
   $: diff =
     periodIndex >= 12

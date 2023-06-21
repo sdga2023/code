@@ -1,10 +1,8 @@
 <script>
-  import { arc } from 'd3-shape';
   import { tweened } from 'svelte/motion';
   import { cubicInOut } from 'svelte/easing';
   import { ScatterCircleRadius, ScatterCircleRadiusMob } from '$lib/styles/vis';
   import { isMobile } from '$lib/stores/isMobile';
-  import { referenceCountry } from '$lib/stores/referenceCountry';
 
   export let hover;
   export let useY2 = false;
@@ -27,8 +25,6 @@
   $: $country = props;
 </script>
 
-<!-- svelte-ignore a11y-mouse-events-have-key-events -->
-<!-- svelte-ignore a11y-click-events-have-key-events -->
 <g
   transform="translate({$country.x}, {useY2 ? $country.y2 : $country.y})"
   on:mouseover={(e) =>

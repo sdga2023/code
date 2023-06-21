@@ -1,13 +1,10 @@
 <script>
   import { tweened } from 'svelte/motion';
-  import Number from '../general/Number.svelte';
 
   export let hover;
   export let country;
   export let w;
   export let i;
-
-  const margin = 50;
 
   const values = tweened(
     {

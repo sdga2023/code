@@ -3,7 +3,7 @@
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
   import Tooltip from '../general/Tooltip.svelte';
   import Number from '../general/Number.svelte';
-  import { getRegion, getIncomeLevel } from '../../../data/countryRegionIncomeDictionary';
+  import { getRegion } from '../../../data/countryRegionIncomeDictionary';
   import { _ } from 'svelte-i18n';
 
   export let parentWidth;
@@ -97,8 +97,6 @@
   <div class="chart" bind:clientWidth={width}>
     <svg {width} {height}>
       <g transform="translate({margin.left}, {margin.top})">
-        <!-- <rect width={w} height={h} fill="none" stroke="black" /> -->
-        <!-- <rect x={50} y={50} width={w - 2 * 50} height={h - 2 * 50} fill="none" stroke="black" /> -->
         {#each swirls as pathString, i}
           <Swirl {pathString} regionData={i === swirls.length - 1 ? data : []} {i} bind:hover {regionOrder} />
           <text

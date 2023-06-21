@@ -4,8 +4,6 @@
 
   export let data = [];
 
-  $: console.log('asdsad', data);
-
   let width = 0;
   const height = 600;
 
@@ -61,7 +59,6 @@
         </filter>
       </defs>
       <g transform="translate({margin.left}, {margin.right})">
-        <!-- <circle cx={p.x} cy={p.y} r={p.r} stroke="black" fill="none" /> -->
         {#each p.children as child}
           <g transform={`translate(${child.x}, ${child.y})`}>
             {#if child.data.country_name === 'Ukraine'}

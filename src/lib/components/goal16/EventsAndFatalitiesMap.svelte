@@ -1,14 +1,11 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import vars from '$lib/variables.js';
   import { referenceCountry } from '$lib/stores/referenceCountry.js';
-  import { tweened } from 'svelte/motion';
   import { isMobile } from '$lib/stores/isMobile';
 
   import * as topojson from 'topojson-client';
   import { geoEqualEarth, geoPath, json, interpolateRgbBasis, scaleSequential, extent, color } from 'd3';
   import * as Colors from '$lib/styles/tokens.es6.js';
-  import Legend from '$lib/components/general/Legend.svelte';
   import Tooltip from '$lib/components/general/Tooltip.svelte';
   import Number from '../general/Number.svelte';
 
@@ -65,12 +62,8 @@
         const centroid = centroids.find((c) => c.properties.iso_3c === iso3)?.geometry.coordinates;
 
         let fill = Colors.ColorVisNotAvailable;
-        // if (countryData) {
-        //   const datum = countryData['excess.mean'];
-        //   fill = colorScale(datum);
-        // }
         const stroke = color(fill).darker(1);
-        // return { ...c, fill, stroke, centroid, data: countryData };
+
         return { ...c, fill, stroke, centroid, data: countryData };
       })
       .filter((d) => d.properties.ISO_A3 !== undefined && d.properties.ISO_A3 !== '-99');
@@ -118,9 +111,6 @@
           on:focus={() => (currentCountry = country)}
           on:blur={() => (currentCountry = null)}
         />
-        {#if false && country.centroid}
-          <text x={projection(country.centroid)?.[0]} y={projection(country.centroid)?.[1]}>{country.properties.ISO_A3}</text>
-        {/if}
       {/each}
       {#if refCountry}
         <g style="pointer-events: none;">
@@ -178,14 +168,5 @@
   .svg-container {
     flex: 1;
     overflow: hidden;
-  }
-
-  .reference-label {
-    text-anchor: middle;
-
-    fill: white;
-    text-shadow: -2px -2px var(--color-reference-country), -2px 2px var(--color-reference-country), 2px 2px var(--color-reference-country),
-      2px -2px var(--color-reference-country), -2px 0 var(--color-reference-country), 0 2px var(--color-reference-country),
-      2px 0 var(--color-reference-country), 0 -2px var(--color-reference-country);
   }
 </style>

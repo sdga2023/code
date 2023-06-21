@@ -1,41 +1,14 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import vars from '$lib/variables.js';
-  import * as Tokens from '$lib/styles/vis.js';
-  import { referenceCountry } from '$lib/stores/referenceCountry.js';
   import { tweened } from 'svelte/motion';
   import { cubicInOut } from 'svelte/easing';
-  import { isMobile } from '$lib/stores/isMobile';
 
   import * as topojson from 'topojson-client';
-  import {
-    geoEqualEarth,
-    geoOrthographic,
-    geoPath,
-    json,
-    interpolateRgbBasis,
-    scaleSequential,
-    extent,
-    color,
-    select,
-    piecewise,
-    interpolateLab
-  } from 'd3';
+  import { geoEqualEarth, geoPath, scaleSequential, extent, piecewise, interpolateLab } from 'd3';
   import * as Colors from '$lib/styles/tokens.es6.js';
   import Legend from '$lib/components/general/Legend.svelte';
   import Tooltip from '$lib/components/general/Tooltip.svelte';
   import Number from '../general/Number.svelte';
-  import Lens from '../general/Lens.svelte';
-  import { fade } from 'svelte/transition';
-
-  //   import countriesJSON from '../../../data/other/wb_countries_topo.json';
-  //   import disputedJSON from '../../../data/other/wb_disputed_areas_topo.json';
-  //   import landJSON from '../../../data/other/wb_land_topo.json';
-  //   import centroidsJSON from '../../../data/other/country_centroids.json';
-  //   import sdg06CountriesJSON from '../../../data/other/sdg06_countries_topo.json';
-  //   import nileRiverNetworkJSON from '../../../data/other/nile_river_network_topo.json';
-  //   import riverBasinsJSON from '../../../data/other/basin_level_topo.json';
-  //   import nileJSON from '../../../data/other/nile.json';
 
   import yemenJSON from '../../../data/other/yemen_admin.json';
 
@@ -48,7 +21,6 @@
 
   let width = Math.min(600, parentWidth);
   let height = width / 1.4;
-  // $: height = width / 1.7;
 
   const margins = {
     top: 0,
@@ -57,18 +29,7 @@
     left: 0
   };
 
-  $: w = parentWidth - margins.left - margins.right;
-  $: h = height - margins.top - margins.bottom;
-
-  $: worldScale = $isMobile ? w / 5 : Math.min(w / 7, h / 2.5);
-
-  const ramp = piecewise(interpolateLab, [
-    Colors.ColorGrey100,
-    // Colors.ColorBaseGreen400,
-    // Colors.ColorBaseYellow500,
-    Colors.ColorBaseOrange400,
-    Colors.ColorBaseRed700
-  ]);
+  const ramp = piecewise(interpolateLab, [Colors.ColorGrey100, Colors.ColorBaseOrange400, Colors.ColorBaseRed700]);
 
   let colorScale = scaleSequential(ramp).domain([0, 1]).clamp(true);
 

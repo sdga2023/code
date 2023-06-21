@@ -1,6 +1,6 @@
 <script>
   import ChartGrid from '../ChartGrid.svelte';
-  import { min, max, scaleLinear, scaleBand, groups, extent, stack, range, area } from 'd3';
+  import { scaleLinear, extent, area } from 'd3';
   import { _ } from 'svelte-i18n';
   import { isMobile } from '$lib/stores/isMobile';
 
@@ -16,7 +16,6 @@
     left: 20
   };
 
-  let width = parentWidth;
   let height = 350;
 
   $: cellwidth = parentWidth / 2;

@@ -72,7 +72,6 @@
         ticks={y.ticks(5)}
         yAxisTitle={$_(labels['water_withdrawals'])}
       />
-      <!-- yAxisTitle={`Total water withdrawal in billions_m<tspan style="stroke-width: 1; font-size: 12px; fill: var(--color-theme-text-weaker);"" dy="-5">3<tspan>`} -->
 
       {#each groups(data2, (d) => d.iso3c) as country}
         <CountryPath {activeScene} pathString={l(country[1])} data={country} {year} {x} {y} bind:hover />

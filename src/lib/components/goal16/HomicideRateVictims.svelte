@@ -7,8 +7,6 @@
   export let data;
   export let labels;
 
-  let width;
-
   let cellWidth = 'var(--col-3)';
   let cellHeight = 170;
 

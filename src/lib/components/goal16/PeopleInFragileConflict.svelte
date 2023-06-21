@@ -1,8 +1,6 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import vars from '$lib/variables.js';
   import { referenceCountry } from '$lib/stores/referenceCountry.js';
-  import { tweened } from 'svelte/motion';
   import { isMobile } from '$lib/stores/isMobile';
 
   import * as topojson from 'topojson-client';
@@ -204,23 +202,8 @@
   </Tooltip>
 {/if}
 
-<!-- {#if currentCountry && mousePos}
-    <Tooltip visible={true} targetPos={mousePos}
-      >{$_(`country.${currentCountry?.toLowerCase()}`)}
-      <Number value={data.find((c) => c.iso3 === currentCountry && c.year === '2020-2021')?.['excess.mean']} />
-    </Tooltip>
-  {/if} -->
 <style type="text/scss">
   path {
     outline: none;
-  }
-
-  .reference-label {
-    text-anchor: middle;
-
-    fill: white;
-    text-shadow: -2px -2px var(--color-reference-country), -2px 2px var(--color-reference-country), 2px 2px var(--color-reference-country),
-      2px -2px var(--color-reference-country), -2px 0 var(--color-reference-country), 0 2px var(--color-reference-country),
-      2px 0 var(--color-reference-country), 0 -2px var(--color-reference-country);
   }
 </style>

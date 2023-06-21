@@ -1,9 +1,7 @@
 <script>
-  import ChartGrid from '../ChartGrid.svelte';
-  import { max, scalePoint, scaleSqrt, range, pie, groups, arc } from 'd3';
+  import { pie, groups, arc } from 'd3';
   import { format } from 'd3-format';
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
-  import { isMobile } from '$lib/stores/isMobile';
   import Fa from 'svelte-fa/src/fa.svelte';
   import { faCircle } from '@fortawesome/free-solid-svg-icons';
   import { referenceCountry } from '$lib/stores/referenceCountry';

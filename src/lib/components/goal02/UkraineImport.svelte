@@ -1,11 +1,6 @@
 <script>
-  import { groups, scaleSqrt, scaleLog, scaleLinear, sum, max, scaleQuantize, range } from 'd3';
-  import { stack } from 'd3-shape';
-  import UkraineImportBar from './UkraineImportBar.svelte';
+  import { groups, sum, scaleQuantize, range } from 'd3';
   import UkraineImportSmall from './UkraineImportSmall.svelte';
-  import Number from '../general/Number.svelte';
-  import Date from '../general/Date.svelte';
-  import Tooltip from '../general/Tooltip.svelte';
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
   import * as Colors from '$lib/styles/tokens.es6';
   import { _ } from 'svelte-i18n';

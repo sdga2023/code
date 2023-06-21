@@ -4,7 +4,7 @@
   import { sum } from 'd3';
   import Tooltip from '../general/Tooltip.svelte';
   import Number from '../general/Number.svelte';
-  import { ColorVisFilteredOut, ColorVisReference } from '$lib/styles/tokens.es6';
+  import { ColorVisReference } from '$lib/styles/tokens.es6';
   import { DivergingNegPos } from '$lib/styles/colorscales';
   import Legend from '../general/Legend.svelte';
   import { _ } from 'svelte-i18n';
@@ -124,16 +124,6 @@
       <g transform="translate({margin.left}, {margin.right})">
         <rect width={w} height={h} class="annotated-area" />
         {#each leaves.filter((d) => d.data.year === selectedYear) as leaf, i}
-          <!-- <TreemapRect
-              bind:hover
-              {leaf}
-              {i}
-              diffColor={c(leaf.data.diff)}
-              xOffset={selectedYear === 2021 ? 0 : (w * diffRatio) / 2}
-              yOffset={selectedYear === 2021 ? 0 : h - h * diffRatio}
-              {selectedYear}
-              isInactive={activeScene.index === 2 && leaf.parent.data[0] !== 'Wheat and meslin'}
-            /> -->
           <TreemapRect
             bind:hover
             {leaf}

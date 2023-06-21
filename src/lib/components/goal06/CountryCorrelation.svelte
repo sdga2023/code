@@ -1,6 +1,5 @@
 <script>
   import ChartGrid from '../ChartGrid.svelte';
-  import * as Colors from '$lib/styles/tokens.es6.js';
   import { scaleLinear, extent, interval } from 'd3';
   import CountryCorrelationCountry from './CountryCorrelationCountry.svelte';
   import { writable } from 'svelte/store';
@@ -37,7 +36,6 @@
   interval(() => {
     vi = (vi + 1) % variables.length;
 
-    // TODO: NOTE THAT COUNTRIES WITH ANY MISSING DATA ARE REMOVED FROM THE DATASET IN GOOGLE SHEETS
     $data2 = data.map((d) => ({
       ...d,
       x: x(d[variables[vi]]),
@@ -68,9 +66,7 @@
           yAxisTitle="Total freshwater withdrawal (million cubic meters)"
         />
         {#each $data2 as country, i}
-          <!-- <circle r={5} cx={x(gdp_ppp)} cy={y(total_freshwater_withdrawal)} /> -->
           <CountryCorrelationCountry {country} x={x(country[variables[vi]])} y={y(country[variables[vi]])} />
-          <!-- <line x1={x(gdp_ppp)} y1={y.range()[0]} x2={x(gdp_ppp)} y2={y(total_freshwater_withdrawal)} stroke="red" /> -->
         {/each}
       </g>
     </svg>

@@ -3,7 +3,7 @@
   import Tooltip from '../general/Tooltip.svelte';
   import Number from '../general/Number.svelte';
   import { _ } from 'svelte-i18n';
-  import { groups, min, max, extent, median } from 'd3-array';
+  import { groups, max, extent, median } from 'd3-array';
   import { scaleLinear, scaleLog, scaleSqrt } from 'd3-scale';
   import { getRegion } from './../../../data/countryRegionIncomeDictionary';
   import { format } from 'd3-format';
@@ -66,20 +66,6 @@
     .range(extent(until2019, (d) => d.year))
     .clamp(true);
 
-  $: med2 = median(
-    until2019.filter((d) => d.per_capita > 0 && d.year === Math.round(year(activeScene.progress))),
-    (d) => d.per_capita
-  );
-
-  $: med = median(data2, (d) => d[2](year(activeScene.progress)));
-
-  $: med1960 = median(
-    until2019.filter((d) => d.per_capita > 0 && d.year === 1960),
-    (d) => d.per_capita
-  );
-
-  const f = format('.0s');
-
   let mousePosition = { x: 0, y: 0 };
   let showTooltip = false;
   let tooltipLabel = '';
@@ -133,8 +119,6 @@
   <div class="chart scatterplot svg-container" bind:clientHeight={height} bind:clientWidth={width}>
     <svg {width} {height} on:mousemove={(e) => (mousePosition = { x: e.clientX, y: e.clientY })}>
       <g transform="translate({margin.left}, {margin.top})">
-        <!-- <text>{activeScene.index}</text> -->
-
         {#each x.ticks() as tick}
           <line x1={x(tick)} y1={0} x2={x(tick)} y2={h} stroke="var(--color-grey-200)" opacity={0.5} />
         {/each}
@@ -235,7 +219,6 @@
         {/if}
 
         {#each data2.sort((a, b) => b[1][0].per_capita - a[1][0].per_capita) as d, i}
-          <!-- svelte-ignore a11y-mouse-events-have-key-events -->
           {#if d[1].find((k) => k.year === Math.ceil(year(activeScene.index + activeScene.offset))) !== undefined}
             <g
               transform="translate({x(d[2](year(activeScene.index + activeScene.offset)))}, {y(i)})"

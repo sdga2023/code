@@ -2,10 +2,9 @@
   import { referenceCountry } from '$lib/stores/referenceCountry.js';
   import { getRegion, regionDefaultSortOrder } from './../../../data/countryRegionIncomeDictionary';
   import countriesISO from '../../../data/other/wb_countries_iso3.json';
-  import { scaleLinear, scaleBand, max, groups } from 'd3';
+  import { scaleLinear, max, groups } from 'd3';
   import Number from '../general/Number.svelte';
   import CountryPicker from '$lib/components/general/CountryPicker.svelte';
-  import { delayMouseOut } from '$lib/actions/delayMouseOut.js';
   import { _ } from 'svelte-i18n';
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
   import Tooltip from '../general/Tooltip.svelte';
@@ -49,8 +48,6 @@
     'CoRD_v' // vegetables
   ];
 
-  $: y = scaleLinear().domain([0, 6]).range([h, 100]);
-
   $: x = scaleLinear()
     .domain([0, max(keys.map((key) => max(data || [], (d) => d[key])))])
     .range([240, w]);
@@ -66,7 +63,6 @@
     .range([0, w]);
 
   let hover = undefined;
-  let hoverKey = undefined;
 
   let selectedCountry;
 
@@ -126,12 +122,6 @@
                       on:mouseover={() => (hover = { country })}
                       on:mouseout={() => (hover = undefined)}
                     />
-
-                    <!-- {#if $referenceCountry === country.country_code}
-                      <rect width={12} height={18} fill="none" stroke="var(--color-reference-country)" stroke-width={4} />
-                      <rect x={1} y={1} width={10} height={16} fill="none" stroke="white" stroke-width={2} />
-                      <text class="reference-label middle" dy={-10}>{$_(`country.${country.country_code.toLowerCase()}`)}</text>
-                    {/if} -->
                   </g>
                 {/each}
               </g>
@@ -263,19 +253,6 @@
     width: 100%;
   }
 
-  .hover-label-price-back {
-    font-size: var(--font-size-s);
-    fill: var(--color-theme-bg-weaker);
-    stroke: var(--color-theme-bg-weaker);
-    stroke-width: 4;
-    text-anchor: middle;
-  }
-
-  .hover-label-price {
-    font-size: var(--font-size-s);
-    fill: var(--color-theme-text);
-    text-anchor: middle;
-  }
   .country-picker-container {
     width: 100%;
     display: flex;
@@ -297,11 +274,6 @@
     stroke: white;
     stroke-width: 0.5;
     opacity: 0.9;
-  }
-  .hover-total-country {
-    stroke: black;
-    stroke-width: 2;
-    opacity: 1;
   }
 
   .receipt {

@@ -1,9 +1,6 @@
 <script>
-  import ChartGrid from '../ChartGrid.svelte';
-  import { min, max, scaleLinear, scaleBand, extent } from 'd3';
-  import { line, curveBasis } from 'd3-shape';
+  import { scaleLinear } from 'd3';
   import { format } from 'd3-format';
-  import * as colors from '$lib/styles/tokens.es6.js';
   import { tweened } from 'svelte/motion';
   import { cubicInOut } from 'svelte/easing';
   import Tooltip from '$lib/components/general/Tooltip.svelte';
@@ -30,8 +27,6 @@
 
   $: w = parentWidth - margin.left - margin.right;
   $: h = parentHeight - margin.top - margin.bottom;
-
-  $: filteredData = data.filter((d) => d.rate_change > 0.1 || d.rate_change < -0.1);
 
   $: stacked = data
     .sort((a, b) => a.rate_change - b.rate_change)
@@ -75,12 +70,6 @@
       $yDomain = [-0.3, 0.3];
 
       $usaStrokeWidth = 0;
-      // $icelandStrokeWidth = 0;
-      // } else if (activeScene.index === 1) {
-      //   $xDomain = [225700, stacked[stacked.length - 1].d1];
-      //   $yDomain = [-0.3, 5];
-
-      //   $usaStrokeWidth = 0;
     } else if (activeScene.index === 1) {
       $xDomain = [206500, stacked[stacked.length - 1].d1];
       $yDomain = [-0, 0.4];
@@ -234,7 +223,6 @@
             {/if}
           {/if}
         </g>
-        <!-- <text x={(x(s.d0) + x(s.d1)) / 2} style="font-size: 8px; text-anchor: middle;">{s.rate_change.toFixed(2)}</text> -->
       {/each}
       <line x={x.range()[0]} x2={x.range()[1]} y1={y(0)} y2={y(0)} stroke="var(--color-grey-200)" />
     </g>

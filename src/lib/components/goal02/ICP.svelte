@@ -1,11 +1,8 @@
 <script>
   import { getRegion, getIncomeLevel } from './../../../data/countryRegionIncomeDictionary';
-  import { scaleLinear, scaleSqrt, scaleLog, max, extent } from 'd3';
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
-  import Lens from '../general/Lens.svelte';
   import Tooltip from '../general/Tooltip.svelte';
   import { _ } from 'svelte-i18n';
-  import Number from '../general/Number.svelte';
   import ICPChart from './ICPChart.svelte';
   import { setContext } from 'svelte';
   import { writable } from 'svelte/store';
@@ -26,7 +23,6 @@
     normalized = data
       .reduce((acc, cur) => {
         if (cur.gdp !== null && cur.CoCA !== null && cur.CoNA !== null && cur.CoRD !== null) {
-          // TODO: is this correct???
           acc.push({
             ...cur,
             region: getRegion(cur.country_code).endsWith('is missing') ? undefined : getRegion(cur.country_code),
@@ -48,11 +44,8 @@
       .sort((a, b) => a.gdp - b.gdp);
   }
 
-  // let hover;
   const hoverStore = writable(undefined);
   setContext('icp', { hoverStore, w });
-
-  const level = 'CoRD';
 </script>
 
 {#if data}
@@ -112,7 +105,6 @@
             {#if Math.round(100 - $hoverStore.country.data[headcount]) === 100}
               {@html $_(labels.popup_text_2, { values: { country: $_(`country.${$hoverStore.country.data.country_code.toLowerCase()}`) } })}
             {:else}
-              {console.log(labels.popup_text_3)}
               {@html $_(labels.popup_text_3, {
                 values: {
                   country: $_(`country.${$hoverStore.country.data.country_code.toLowerCase()}`),

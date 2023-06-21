@@ -2,8 +2,6 @@
   import { _ } from 'svelte-i18n';
   import ChartGrid from '../ChartGrid.svelte';
   import { scaleLinear, scaleTime, max, extent, line, scaleSequential, piecewise, interpolateLab, curveMonotoneX } from 'd3';
-  import { DivergingNegPos } from '$lib/styles/colorscales';
-  import { fade } from 'svelte/transition';
   import Legend from '../general/Legend.svelte';
   import { isMobile } from '$lib/stores/isMobile';
   import * as Colors from '$lib/styles/tokens.es6.js';
@@ -120,11 +118,6 @@
   .svg-container {
     flex: 1;
     overflow: hidden;
-  }
-  .reference-line {
-    stroke: black;
-    stroke-width: 1;
-    stroke-dasharray: 4 2;
   }
   rect {
     transition: opacity 1s;

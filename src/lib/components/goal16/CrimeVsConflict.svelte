@@ -1,15 +1,11 @@
 <script>
-  import ChartGrid from '../ChartGrid.svelte';
-  import { extent, scaleLinear, scaleBand } from 'd3';
+  import { extent, scaleLinear } from 'd3';
   import { area, stack } from 'd3-shape';
   import { format } from 'd3-format';
-  import * as colors from '$lib/styles/tokens.es6.js';
 
   export let data;
   export let parentWidth;
   export let parentHeight;
-
-  const f = format('.2%');
 
   const margin = {
     top: 20,

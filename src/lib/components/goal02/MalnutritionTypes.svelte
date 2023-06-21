@@ -1,6 +1,5 @@
 <script>
   import { groups, range, scaleLinear, format } from 'd3';
-  import { getRegion, getIncomeLevel } from './../../../data/countryRegionIncomeDictionary';
   import { fade } from 'svelte/transition';
   import { _ } from 'svelte-i18n';
   import { isMobile } from '$lib/stores/isMobile';
@@ -12,14 +11,7 @@
 
   export let labels;
 
-  const f = format('.0%');
-
   const intervals = [0, 0.25, 0.75, 1]; // probably not the most elegant approach
-
-  $: sceneProgress = scaleLinear()
-    .domain([intervals[activeScene.index], intervals[activeScene.index + 1]])
-    .range([0, 1])
-    .clamp(true)(activeScene.progress);
 
   const regions = [
     { key: 'SSF', label: 'Sub-Saharan Africa', cssVar: '--color-vis-region-SSF' },
@@ -71,19 +63,10 @@
     left: 20
   };
 
-  const padding = 40;
-
   $: w = width - margin.left - margin.right;
-  const h = height - margin.top - margin.bottom;
 </script>
 
-<!-- <div class="svg-container" bind:clientHeight={h} bind:clientWidth={w}>
-  <svg width={w} height={h}>
-  </svg>
-</div> -->
-
 <div class="svg-container" bind:clientWidth={width} bind:clientHeight={height}>
-  <!-- <div bind:clientWidth={width}> -->
   <svg {width} {height}>
     <g transform="translate({margin.left}, {margin.top})">
       {#if data && activeScene !== undefined && activeScene.index !== undefined}
@@ -96,7 +79,6 @@
               {#each byIndicator2[indicator]
                 .filter((d) => sceneMapping[activeScene.index].regions.includes(d.iso3c))
                 .sort((a, b) => b[indicator] - a[indicator]) as d, i (`${d.iso3c}_${indicator}`)}
-                {console.log(parentWidth, parentHeight)}
                 {#if parentHeight <= 480 && parentWidth > parentHeight}
                   <g transform="translate({w / 2 + 100}, {48 * i})" transition:fade|local={{ duration: 300, delay: i * 50 }}>
                     <text dx={-54} dy={0} x={(-20 / 2) * 10} class="label small">{d.country}</text>

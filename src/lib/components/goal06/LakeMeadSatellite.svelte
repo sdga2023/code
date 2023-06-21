@@ -1,5 +1,4 @@
 <script>
-  import { fade } from 'svelte/transition';
   import { tweened } from 'svelte/motion';
   import variables from '$lib/variables.js';
 

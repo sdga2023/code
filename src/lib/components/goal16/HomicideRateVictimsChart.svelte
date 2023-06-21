@@ -1,7 +1,7 @@
 <script>
   import { area, curveCatmullRom, line } from 'd3-shape';
   import { scaleLinear } from 'd3-scale';
-  import { extent, max } from 'd3-array';
+  import { extent } from 'd3-array';
   import ChartGrid from '../ChartGrid.svelte';
   import { _ } from 'svelte-i18n';
 

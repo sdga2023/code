@@ -1,5 +1,4 @@
 <script>
-  import ChartGrid from '../ChartGrid.svelte';
   import { max, scaleLinear, pie, groups, arc, range } from 'd3';
   import Tooltip from '$lib/components/general/Tooltip.svelte';
   import { _ } from 'svelte-i18n';
@@ -74,31 +73,12 @@
 <div bind:clientWidth={width}>
   <svg {width} {height} on:mousemove={updateMouse}>
     <g transform="translate({margin.left}, {margin.top})">
-      <!-- <ChartGrid gridType="yGrid" innerWidth={w} innerHeight={h} scale={y} ticks={y.ticks()} yAxisTitle="population in 100,000" /> -->
       <g transform="translate({(1.6 * w) / 3}, {h / 2})">
         <g transform="rotate({regionRotationAngle})">
           {#each arcs as sector}
             <path d={a(sector)} fill="var(--color-vis-region-{sector.data[0]})" opacity={0.2} />
           {/each}
         </g>
-        <!-- <path
-          d={arc()
-            .startAngle(0)
-            .endAngle(Math.PI * 2)
-            .innerRadius(0)
-            .outerRadius(Math.min(w, h) / 3)([1])}
-          fill="var(--color-vis-gender-female)"
-          opacity={0.1}
-        />
-        <path
-          d={arc()
-            .startAngle(0)
-            .endAngle(Math.PI * 2)
-            .innerRadius(Math.min(w, h) / 3)
-            .outerRadius((2 * Math.min(w, h)) / 3)([1])}
-          fill="var(--color-vis-gender-male)"
-          opacity={0.1}
-        /> -->
         {#each range(25, 100, 25) as i}
           <circle r={Math.min(w, h) / 4 + r(i)} stroke="var(--color-grey-200)" fill="none" stroke-dasharray="2 2" />
           <text
@@ -129,8 +109,6 @@
             on:mouseover={() => (hover = d)}
             on:mouseout={() => (hover = undefined)}
           >
-            <!-- <line x2={-r(d.Female)} stroke="var(--color-vis-region-{d.region_iso3c}" stroke-width={4} stroke-linecap="round" /> -->
-            <!-- <line x2={r(d.Male)} stroke="var(--color-vis-region-{d.region_iso3c}" stroke-width={4} stroke-linecap="round" /> -->
             <line x2={-r(d.Female)} stroke="transparent" stroke-width={12} stroke-linecap="round" />
             <line x2={r(d.Male)} stroke="transparent" stroke-width={12} stroke-linecap="round" />
             <line x2={-r(d.Female)} stroke="var(--color-vis-gender-female)" stroke-width={2} />
@@ -139,31 +117,6 @@
         {/each}
 
         <circle r={Math.min(w, h) / 4} fill="none" stroke="black" stroke-width={2} />
-
-        <!-- <clipPath id="female-clip">
-          <path
-            d={arc()
-              .innerRadius(Math.min(w, h) / 4)
-              .outerRadius(Math.min(w, h) / 3)
-              .startAngle(0)
-              .endAngle(Math.PI * 2)()}
-            fill="steelblue"
-            opacity={0.3}
-          />
-        </clipPath> -->
-        <!-- 
-        <clipPath id="maleClippingPath">
-          <path
-            d={arc()
-              .innerRadius(0)
-              .outerRadius(200)
-              .startAngle(0)
-              .endAngle(Math.PI * 2)()}
-            fill="green"
-            opacity={0.3}
-          />
-          <circle r={200} fill="red" />
-        </clipPath> -->
 
         {#each data.sort(sort) as d, i}
           {@const halfCenter = Math.min(w, h) / 4}

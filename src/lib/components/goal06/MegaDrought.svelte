@@ -1,13 +1,12 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import { range, scaleLinear } from 'd3';
+  import { scaleLinear } from 'd3';
 
   export let parentWidth;
   export let parentHeight;
 
   export let data = [];
   $: sortedData = data.sort((a, b) => a.MapDate - b.MapDate);
-  $: console.log(data);
 
   const margins = {
     top: 20,
@@ -20,8 +19,6 @@
   const height = 3500;
 
   $: w = parentWidth - margins.left - margins.right;
-  const h = height - margins.top - margins.bottom;
-
   $: x = scaleLinear().domain([0, 100]).range([0, 600]);
 </script>
 

@@ -1,6 +1,6 @@
 <script>
   import ChartGrid from '../ChartGrid.svelte';
-  import { min, max, scaleLinear, scaleBand, groups, extent, stack, range } from 'd3';
+  import { min, max, scaleLinear, scaleBand, groups, stack, range } from 'd3';
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
   import { isMobile } from '$lib/stores/isMobile';
   import { _ } from 'svelte-i18n';

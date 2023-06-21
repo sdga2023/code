@@ -1,5 +1,5 @@
 <script>
-  import { scaleTime, scaleLinear, extent, groups, min, max } from 'd3';
+  import { scaleTime, scaleLinear, groups, min, max } from 'd3';
   import Date2 from '../general/Date.svelte';
   import Number from '../general/Number.svelte';
   import singleStack from '$lib/singleStack';
@@ -31,10 +31,6 @@
   $: y = scaleTime()
     .domain([min(data2, (d) => Date.parse(d.StartingDate)), max(data2, (d) => Date.parse(d.EndDate))])
     .range([0, h]);
-
-  $: x = scaleLinear()
-    .domain([0, groups(data2, (d) => d.Country_Alpha3).length])
-    .range([20, w - 60]);
 
   let hover;
   let mousePosition = { x: 0, y: 0 };
@@ -78,7 +74,6 @@
             transform="translate({d.y0}, {y(Date.parse(d.data.StartingDate))})"
             on:mouseover={() => (hover = { data: d.data, i })}
             on:mouseout={() => (hover = undefined)}
-            on:click={() => console.log(d)}
           >
             {#if d.data.Category === 'Ban'}
               <rect

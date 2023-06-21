@@ -1,6 +1,6 @@
 <script>
   import { tweened } from 'svelte/motion';
-  import { cubicInOut, elasticOut } from 'svelte/easing';
+  import { cubicInOut } from 'svelte/easing';
   import Number from '../general/Number.svelte';
   import TreemapRectText from './TreemapRectText.svelte';
 
@@ -47,7 +47,6 @@
   };
 </script>
 
-<!-- svelte-ignore a11y-mouse-events-have-key-events -->
 <g
   transform="translate({$position.x + $position.xOffset}, {$position.y + $position.yOffset})"
   on:click={() => console.log(leaf)}

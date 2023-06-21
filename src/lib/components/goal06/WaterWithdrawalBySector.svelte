@@ -1,5 +1,5 @@
 <script>
-  import { groups, max } from 'd3-array';
+  import { max } from 'd3-array';
   import * as Colors from '$lib/styles/tokens.es6.js';
   import { scaleLinear } from 'd3-scale';
   import Number from '../general/Number.svelte';

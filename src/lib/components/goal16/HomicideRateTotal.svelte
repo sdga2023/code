@@ -1,7 +1,7 @@
 <script>
   import Tooltip from '$lib/components/general/Tooltip.svelte';
   import ChartGrid from '../ChartGrid.svelte';
-  import { scaleLinear, scalePoint, line, extent, groups, local, curveCatmullRom } from 'd3';
+  import { scaleLinear, scalePoint, line, extent, groups, curveCatmullRom } from 'd3';
   import { max } from 'd3-array';
   import { fade } from 'svelte/transition';
   import HomicideRateCountry from './HomicideRateCountry.svelte';
@@ -76,7 +76,6 @@
 <div class="svg-container linechart scatterplot" bind:clientWidth={width} bind:clientHeight={height}>
   <svg {width} {height} on:mousemove={updateMouse}>
     <g transform="translate(0,{margin.top})">
-      <!-- <ChartGrid gridType="xGrid" innerWidth={w} innerHeight={h} scale={x} ticks={x.domain()} xAxisTitle="regions" /> -->
       <ChartGrid gridType="yGrid" innerWidth={w} innerHeight={h} scale={y} ticks={y.ticks()} yAxisTitle={labels.y_axis_label} />
 
       {#if activeScene.index === 0}
@@ -131,14 +130,6 @@
               stroke-width={2}
               stroke="white"
             />
-            <!-- <circle
-              r={($isMobile ? ScatterCircleRadiusMob : ScatterCircleRadius) + 2}
-              fill="none"
-              stroke="var(--color-reference-country)"
-              stroke-width={25}
-            />
-            <circle r={($isMobile ? ScatterCircleRadiusMob : ScatterCircleRadius) + 2} fill="none" stroke="white" stroke-width={2} /> -->
-
             {#if x2(rc.region_iso3c) < w / 2}
               <text class="reference-label start central" dy={-4} dx={14}>
                 {$_(`country.${rc.iso3c.toLowerCase()}`)}
@@ -193,12 +184,6 @@
             <text dy={20} class="label small middle" x={x(tick)} y={y.range()[0]}>{tick}</text>
           {/each}
         </g>
-      {:else}
-        <!-- <g transition:fade|local>
-          {#each x2.domain() as tick}
-            <text dy={20} class="label small middle" x={x2(tick)} y={y.range()[0]}>{tick}</text>
-          {/each}
-        </g> -->
       {/if}
     </g>
   </svg>

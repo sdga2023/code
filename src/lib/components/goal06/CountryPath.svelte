@@ -1,5 +1,5 @@
 <script>
-  import { scaleLinear, max, min, sum, range } from 'd3';
+  import { scaleLinear, max, min, range } from 'd3';
   import { getRegion } from './../../../data/countryRegionIncomeDictionary';
   import { referenceCountry } from '$lib/stores/referenceCountry';
   import { _ } from 'svelte-i18n';
@@ -81,8 +81,6 @@
     .domain(calculatedDistance.map((d) => d.year))
     .range(calculatedDistance.map((d) => d.distSum))
     .clamp(true);
-
-  $: latest = data[1].filter((d) => d.year <= year)[data[1].filter((d) => d.year <= year).length - 1];
 </script>
 
 <g>
@@ -99,28 +97,6 @@
       highlight = undefined;
     }}
   >
-    <!-- <path
-      d={pathString}
-      fill="none"
-      stroke="transparent"
-      stroke-width={10}
-      stroke-linecap="round"
-      stroke-dasharray="{totalLength} {totalLength}"
-      stroke-dashoffset={t(year)}
-    /> -->
-
-    <!-- {#if data[0] === $referenceCountry}
-      <path
-        d={pathString}
-        fill="none"
-        stroke="var(--color-reference-country)"
-        stroke-width={5}
-        stroke-linecap="round"
-        stroke-dasharray="{totalLength} {totalLength}"
-        stroke-dashoffset={t(year)}
-      />
-    {/if} -->
-
     {#if highlightCountries.includes(data[0]) || data[0] === highlight || data[0] === $referenceCountry}
       <path
         bind:this={path}

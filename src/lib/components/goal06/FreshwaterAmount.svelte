@@ -23,8 +23,6 @@
   $: w = parentWidth - margins.left - margins.right;
   $: h = height - margins.top - margins.bottom;
 
-  $: blockSize = Math.min(w, h) / 100;
-
   $: blockWidth = w / 100;
   $: blockHeight = h / 100;
 
@@ -50,11 +48,8 @@
     }
     return 'var(--color-base-blue100)';
   };
-
-  //                 + (activeScene.index === 4 ? -50 * activeScene.offset : activeScene.index >= 4 ? -50 : 0)}
 </script>
 
-<!--<p class="title centered">{$_(labels['all_water'])}</p>-->
 <div class="chart svg-container" bind:clientHeight={height} bind:clientWidth={width}>
   <svg {width} {height}>
     <g transform="translate({margins.left}, {margins.top})">

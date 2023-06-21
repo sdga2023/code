@@ -2,14 +2,12 @@
   import { _ } from 'svelte-i18n';
   import ChartGrid from '../ChartGrid.svelte';
   import ICPCountry from './ICPCountry.svelte';
-  import Number from '../general/Number.svelte';
   import { format } from 'd3-format';
-  import { scaleLinear, scaleSqrt, scaleLog, max, extent } from 'd3';
+  import { scaleLinear, scaleLog, max } from 'd3';
   import { getContext } from 'svelte';
   import { isMobile } from '$lib/stores/isMobile';
   import { fade } from 'svelte/transition';
   import { referenceCountry } from '$lib/stores/referenceCountry';
-  import { ScatterCircleRadius, ScatterCircleRadiusMob } from '$lib/styles/vis';
 
   export let activeScene;
   export let data;
@@ -30,22 +28,12 @@
     left: 30
   };
 
-  // const margin = {
-  //   top: 50,
-  //   right: 50,
-  //   bottom: 80,
-  //   left: 50
-  // };
-
   const { hoverStore } = getContext('icp');
 
   $: w = parentWidth - margin.left - margin.right;
   $: h = parentHeight - margin.top - margin.bottom;
 
-  $: xgdp = scaleLog()
-    .domain([700, 200000])
-    // .domain(extent(data, (d) => d.gdp))
-    .range([20, w]);
+  $: xgdp = scaleLog().domain([700, 200000]).range([20, w]);
 
   $: yi = scaleLinear().domain([0, data.length]).range([h, 0]);
   $: y = scaleLinear()
@@ -98,7 +86,6 @@
         <ChartGrid gridType="yGrid" scale={y} ticks={y.ticks()} hideLines={true} innerWidth={w - margin.left} innerHeight={h} />
       </g>
     {/if}
-    <!-- <text>{activeScene.index}</text> -->
 
     <text transform="translate({xgdp.range()[0]}, {h / 2}) rotate(-90)" dy={-30} class="label small weaker middle">
       {activeScene.index > 0 ? yLabel : $_(labels.ranking)}

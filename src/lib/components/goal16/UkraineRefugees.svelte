@@ -1,7 +1,7 @@
 <script>
   import { LineChartCircleRadius } from '$lib/styles/vis';
   import ChartGrid from '../ChartGrid.svelte';
-  import { max, scaleLinear, extent, line, area, curveLinear, curveCatmullRom } from 'd3';
+  import { max, scaleLinear, extent, line, area, curveCatmullRom } from 'd3';
   import { _ } from 'svelte-i18n';
 
   export let data;

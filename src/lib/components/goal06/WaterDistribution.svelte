@@ -1,6 +1,4 @@
 <script>
-  import WaterAnimation from './WaterAnimation.svelte';
-
   let elapsed = 0;
 
   function loop(e) {
