@@ -1,8 +1,8 @@
 <script>
   import * as Colors from '$lib/styles/tokens.es6';
-  import { extent, max } from 'd3-array';
-  import { scaleLinear, scaleBand } from 'd3-scale';
-  import { area, curveCatmullRom, curveNatural, line } from 'd3-shape';
+  import { max } from 'd3-array';
+  import { scaleLinear } from 'd3-scale';
+  import { area, curveCatmullRom, line } from 'd3-shape';
   import CategoricalLegend from '../general/CategoricalLegend.svelte';
   import Tooltip from '../general/Tooltip.svelte';
   import { _ } from 'svelte-i18n';
@@ -151,17 +151,6 @@
 
   $: visibleDroughtState = showDroughtState ? rainfallGroups['Drought'] : rainfallGroups['Normal'];
 
-  /*
-  $: averageHours = [rainfallGroups['Normal'], rainfallGroups['Drought']].map((droughtState) => {
-    const dat = timeTabularData.filter((d) => d.rainfallGroup === droughtState);
-
-    const totalHoursPerState = dat.reduce((acc, val) => acc + val.hours * val.total, 0);
-    const totalPeople = dat.reduce((acc, val) => acc + val.total, 0);
-
-    return totalHoursPerState / totalPeople;
-  });
-  */
-
   $: timeData = (() => {
     let y = 0;
     let result = valueRange.reduce((acc, timeSpent) => {
@@ -198,7 +187,6 @@
         (total * Math.max(removeNonWorkers ? 0 : 0.2, timeSpent)) /
         timeTabularData.filter((d) => d.hours && d.rainfallGroup === visibleDroughtState).reduce((a, v) => a + v.total * v.hours, 0);
 
-      //y += 1 / 26;
       acc[timeSpent].height = y - acc[timeSpent].y;
       return acc;
     }, {});
@@ -208,7 +196,7 @@
   $: x = scaleLinear()
     .domain([0, 1])
     .range(shiftCenter ? [0.25 * w, 0.75 * w] : [0.05 * w, 0.95 * w]);
-  $: yRange = [0, h - margins.top - margins.bottom]; // (showDroughtState ? h : h * (averageHours[0] / averageHours[1])) - margins.top - margins.bottom];
+  $: yRange = [0, h - margins.top - margins.bottom];
   $: y = scaleLinear().domain([0, 1]).range(yRange);
 
   $: yLabelScale = scaleLinear().domain([0, max(valueRange)]);
@@ -273,12 +261,6 @@
       selectedDroughtState = activeScene.index < 3 ? '3' : '1';
     }
   }
-
-  /* fetch_water is the time spent on fetching water at the household level
-fetch_water_ga is the time spent on fetching water by gender-age group
-The Demo_group_detail indicator identifies the gender-age groups. I removed the labels. 
-Here is the match: 1 = "Boys: Aged 5-12" 2 = "Boys: Aged 13-18" 3 = "Girls: Aged 5-12" 4 = "Girls: Aged 13-18" 5 = "Men: Aged 19-59" 6 = "Women: Aged 19-59" 7 = "Senior: Aged > 60+"
-The indicator Ln_2012_2002_Categ identifies category of rainfall. Here are the groups: 5 = "Abundance" 4 = `" "Moderate Abundance" "' 3 = "Normal" 2 = "Moderate  Scarcity"  1 = "Drought" */
 </script>
 
 <div class="radio-container" class:hidden={!showAgeGroupControls}>

@@ -1,9 +1,9 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import { pie, arc, scaleLinear, stack, scaleSqrt, max } from 'd3';
+  import { pie, arc, scaleLinear, max } from 'd3';
   import countriesISO from '../../../data/other/wb_countries_iso3.json';
   import * as Colors from '$lib/styles/tokens.es6.js';
-  import { CountryPicker, Number, Factoid, CategoricalLegend } from '$lib/components';
+  import { CountryPicker, Number, Factoid } from '$lib/components';
   import { isMobile } from '$lib/stores/isMobile';
 
   export let activeScene;
@@ -190,17 +190,5 @@
   path.animated,
   text {
     transition: 0.5s all;
-  }
-
-  .factoid-container {
-    flex: 0;
-    flex-basis: 400px;
-    min-width: 400px;
-
-    display: flex;
-    align-items: center;
-  }
-  :global(.factoid-container .factoid) {
-    justify-content: center;
   }
 </style>

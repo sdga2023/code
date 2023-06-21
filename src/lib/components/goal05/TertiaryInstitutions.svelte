@@ -72,20 +72,6 @@
     return countryData;
   });
 
-  /*
-  $: exportData = [
-    'iso' + disaggregations.reduce((a, v) => a + ';' + v, ''),
-    ...countries.map((iso) => {
-      let resu = iso + ';';
-      disaggregations.forEach((dis, i) => {
-        let countryData = femaleAcc(richData[i].find((d) => countryAcc(d) === iso));
-        resu += (countryData ? countryData : '') + (i < disaggregations.length - 1 ? ';' : '');
-      });
-      return resu;
-    })
-  ];
-  $: console.log(exportData);
-*/
   let selectedCountry = $referenceCountry ? $referenceCountry : null;
   function updateHover(e, agg) {
     const aggData = richData.find((d) => d.agg === agg);

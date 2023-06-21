@@ -22,8 +22,6 @@
 
   $: dataSorted = data.sort((a, b) => a['female'] - b['female']);
 
-  //data = data.sort((a, b) => b[barProp2] - a[barProp2]);
-
   let margins = {
     top: 15,
     right: 0,

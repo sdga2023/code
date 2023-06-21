@@ -22,8 +22,6 @@
   let circleProp1 = 'male';
   let circleProp2 = 'female';
   $: sortedData = data.sort((a, b) => a['female'] - b['female']);
-  // data = data.sort((a, b) => a[circleProp1] - a[circleProp2] - (b[circleProp1] - b[circleProp2]));
-  // data = data.sort((a, b) => b[circleProp2] - a[circleProp2]);
 
   let margins = {
     top: 15,
@@ -117,7 +115,6 @@
 </div>
 
 <style lang="scss">
-  /* your styles go here */
   .hover-rect {
     fill: none;
     &:hover {

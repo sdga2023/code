@@ -91,13 +91,6 @@
         class:ref={$referenceCountry === d.iso3}
         transform="translate({Math.floor(xScale(countryAccessor(d))) + 0.5}, 0)"
       >
-        <!--
-        <line
-          y1={Math.min(yScale(girlAccessor(d)), yScale(boysAccessor(d)))}
-          y2={h - margins.bottom}
-          style:stroke-width="0.5"
-          class:reference={$referenceCountry === countryAccessor(d)}
-        />-->
         {#if girlAccessor(d) > boysAccessor(d)}
           <rect
             x={-0.5}
@@ -119,13 +112,6 @@
         <circle class="bg" cy={yScale(girlAccessor(d))} r={r + 1.5} style:fill="white" />
         <circle cy={yScale(boysAccessor(d))} {r} style:fill="var(--color-vis-gender-male)" />
         <circle cy={yScale(girlAccessor(d))} {r} style:fill="var(--color-vis-gender-female)" />
-        <!--
-        <text
-          class="label small geo end"
-          class:reference={$referenceCountry === countryAccessor(d)}
-          style:transform="translate(5px,{h - margins.bottom + 5}px) rotate(-45deg)"
-          >{$_(`country.${countryAccessor(d).toLowerCase()}`)}</text
-        >-->
         <rect
           class="interactive"
           x={-xScale.bandwidth() / 2}
@@ -194,9 +180,6 @@
   g.highlight rect {
     stroke: black;
   }
-  g.highlight text {
-    font-weight: bold;
-  }
 
   .dot {
     display: inline-block;
@@ -206,17 +189,5 @@
     border-radius: 100%;
 
     margin-right: var(--space-xs);
-  }
-
-  text.reference {
-    stroke-width: 1;
-    fill: var(--color-reference-country);
-  }
-
-  line {
-    stroke: black;
-  }
-  line.reference {
-    stroke: var(--color-reference-country);
   }
 </style>

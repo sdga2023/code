@@ -42,10 +42,6 @@
 
   const colorScale = scaleSequential(RedRamp).domain([0, 50]);
 
-  /*scaleQuantile()
-    .domain(data.map((d) => d.median))
-    .range(schemeOrRd[6]);*/
-
   let margins = {
     top: 0,
     right: 0,
