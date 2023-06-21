@@ -299,7 +299,6 @@
     if (sidebarEl) {
       mousePos = { x: sidebarElBB.x, y: 0 };
     }
-    //mousePos = { x: evt.clientX, y: evt.clientY };
   }
 </script>
 

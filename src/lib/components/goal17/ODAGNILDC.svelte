@@ -160,9 +160,6 @@
 
     let mousePos = { x: e.clientX, y: e.clientY };
 
-    // y = yScale(pointSevenAcc(enrichedData.find((d) => yearAccessor(d) === currentYear)));
-    //console.log(y);
-
     tooltipTargetPos = { ...tooltipTargetPos, x, y, mousePos };
   }
 </script>
@@ -211,16 +208,6 @@
           <path d={pointTwentyAreaGenerator(enrichedData.filter((d) => d.iso3 === iso3))} class="area missing" />
           <path d={pointFifteenAreaGenerator(enrichedData.filter((d) => d.iso3 === iso3))} class="area missing" />
         {/each}
-
-        <!--
-        <path d={pointFifteenLineGenerator(enrichedData)} class="bg gni-limit" />
-        <path d={pointTwentyLineGenerator(enrichedData)} class="bg gni-limit" />
-
-
-        <path d={pointFifteenLineGenerator(enrichedData)} class="gni-limit" />
-        <path d={pointTwentyLineGenerator(enrichedData)} class="gni-limit" />
-
-        -->
 
         <!-- actual ODA top line: -->
         <path d={lineGenerator(enrichedData)} class="bg average" />
@@ -344,11 +331,6 @@
   }
   .linechart .average {
     stroke: var(--color-vis-binary-pos);
-  }
-
-  svg path.gni-limit {
-    stroke: var(--color-vis-reference);
-    stroke-width: 2;
   }
 
   circle {

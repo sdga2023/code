@@ -92,16 +92,6 @@
   <p class="label">Total spending across sectors (in {unit_label})</p>
   <svg width={w} height={h}>
     <g style="--base-color: {baseColor}" class="linechart">
-      <!--
-    <rect x={xScale(2019.25)} y={0} width={xScale(2021) - xScale(2019.25)} height={1000} class="annotated-area" />
-    <text x={xScale(years[1])} y={18} class="label end caps">COVID-19</text>
-    -->
-
-      <!--
-    <path d={caseline(yearlyCases)} class="bg" />
-    <path d={caseline(yearlyCases)} class="line" />
-    -->
-
       {#each sectors as sector}
         <path
           class:highlighted={sectorTops[sector].some((top) => highlightedTops.includes(top))}

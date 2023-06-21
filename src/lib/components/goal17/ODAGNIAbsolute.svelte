@@ -216,15 +216,6 @@
   {/each}
 </div>
 
-<!--
-<CategoricalLegend
-  customItems={[
-    { key: label_below, colour: 'var(--color-grey-400)' },
-    { key: label_above, colour: 'white', border: 'black' }
-  ]}
-  legendType="custom"
-/>
-  -->
 <style>
   .oda-gni-absolute {
     position: relative;

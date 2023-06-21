@@ -1,8 +1,8 @@
 <script>
   import { referenceCountry } from '$lib/stores/referenceCountry';
   import { _ } from 'svelte-i18n';
-  import { Number, Tooltip } from '$lib/components';
-  import { min, scaleLinear } from 'd3';
+  import { Number } from '$lib/components';
+  import { scaleLinear } from 'd3';
 
   import TimeSlider from './TimeSlider.svelte';
 

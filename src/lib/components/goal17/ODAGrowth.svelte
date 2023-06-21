@@ -1,6 +1,5 @@
 <script>
   import { min, max, extent, scaleLinear, area, line, curveMonotoneX, stack } from 'd3';
-  import * as Colors from '$lib/styles/tokens.es6.js';
   import { Number } from '$lib/components';
   import { _ } from 'svelte-i18n';
   import { LineChartCircleRadius } from '$lib/styles/vis';
@@ -11,8 +10,6 @@
   export let data;
   export let parentWidth;
   export let number_label = ' billion $';
-  export let label_1 = '';
-  export let label_2 = '';
   export let textLabelizer = (d) => d / 1000;
 
   const exists = (d) => d;
@@ -241,14 +238,6 @@
     fill: var(--color-vis-binary-pos);
     stroke-width: 1.5px;
     stroke: var(--color-theme-bg-weaker);
-  }
-
-  .covid-bar {
-    stroke: var(--color-theme-bg-weaker);
-    fill: var(--color-vis-green);
-  }
-  text.covid {
-    fill: var(--color-vis-green);
   }
 
   text {

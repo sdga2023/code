@@ -1,16 +1,10 @@
 <script>
-  import { min, max, extent, scaleLinear, area, line, curveMonotoneX } from 'd3';
+  import { max, extent, scaleLinear, area, line, curveMonotoneX } from 'd3';
   import { _ } from 'svelte-i18n';
-  import { fade } from 'svelte/transition';
 
-  import * as Colors from '$lib/styles/tokens.es6.js';
   import { Number, Tooltip } from '$lib/components';
 
-  import { LineChartCircleRadius } from '$lib/styles/vis';
   import ChartGrid from '../ChartGrid.svelte';
-  import CategoricalLegend from '../general/CategoricalLegend.svelte';
-  import CountryPicker from '../general/CountryPicker.svelte';
-  import countryPickerCountries from '../../../data/other/wb_countries_iso3.json';
   import { isMobile } from '$lib/stores/isMobile';
 
   export let data;
@@ -31,8 +25,6 @@
 
   $: w = parentWidth;
   let h = 640;
-
-  const GNI_LIMIT = 0.7;
 
   let margins = {
     top: 30,
@@ -60,8 +52,6 @@
     : [];
 
   $: averageSpending = data ? data.filter((d) => d.iso3 === 'DAC').sort((a, b) => yearAccessor(a) - yearAccessor(b)) : [];
-
-  $: availableCountries = countryPickerCountries.filter((iso) => !countries.includes(iso));
 
   let yearAccessor = (d) => d?.year;
   $: years = myExtent(data, (d) => yearAccessor(d));
@@ -147,9 +137,6 @@
     }
 
     let mousePos = { x: e.clientX, y: e.clientY };
-
-    // y = yScale(pointSevenAcc(enrichedData.find((d) => yearAccessor(d) === currentYear)));
-    //console.log(y);
 
     tooltipTargetPos = { ...tooltipTargetPos, x, y, mousePos };
   }
