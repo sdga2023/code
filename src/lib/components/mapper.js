@@ -440,7 +440,6 @@ export const mapping = {
   goal10_gini_linechart: ['goal10', 'GiniLinechart'],
   scene_gini_explorer_result: ['goal10', 'GiniExplorerResult'],
   goal10_beeswarm_explorer: ['goal10', 'GiniBeeswarmExplorer'],
-  gini_simulation: ['goal10', 'GiniSimulation'],
   gini_covid_plot: ['goal10', 'GiniCovidPlot'],
 
   // goal 11
