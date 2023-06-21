@@ -1,0 +1,149 @@
+[
+  {
+    "gas": "CO2",
+    "sector": "Energy",
+    "subsector": "Electricity/Heat",
+    "mtco2e": 15761.94,
+    "share": 31.7
+  },
+  {
+    "gas": "CO2",
+    "sector": "Energy",
+    "subsector": "Building",
+    "mtco2e": 2794.16,
+    "share": 5.6
+  },
+  {
+    "gas": "CO2",
+    "sector": "Energy",
+    "subsector": "Manufacturing/Construction",
+    "mtco2e": 6254.47,
+    "share": 12.6
+  },
+  {
+    "gas": "CO2",
+    "sector": "Energy",
+    "subsector": "Transportation",
+    "mtco2e": 8222.07,
+    "share": 16.5
+  },
+  {
+    "gas": "CO2",
+    "sector": "Energy",
+    "subsector": "Other Fuel Combustion",
+    "mtco2e": 588.9,
+    "share": 1.2
+  },
+  {
+    "gas": "CO2",
+    "sector": "Energy",
+    "subsector": "Fugitive Emissions",
+    "mtco2e": 282.83,
+    "share": 0.6
+  },
+  {
+    "gas": "CO2",
+    "sector": "Non-Energy",
+    "subsector": "Bunker Fuels",
+    "mtco2e": 1302.61,
+    "share": 2.6
+  },
+  {
+    "gas": "CO2",
+    "sector": "Non-Energy",
+    "subsector": "Industrial Processes",
+    "mtco2e": 1608.5,
+    "share": 3.2
+  },
+  {
+    "gas": "CO2",
+    "sector": "Non-Energy",
+    "subsector": "Land-Use Change and Forestry",
+    "mtco2e": 1361.26,
+    "share": 2.7
+  },
+  {
+    "gas": "CH4",
+    "sector": "Energy",
+    "subsector": "Electricity/Heat",
+    "mtco2e": 12,
+    "share": 0
+  },
+  {
+    "gas": "CH4",
+    "sector": "Energy",
+    "subsector": "Building",
+    "mtco2e": 234.8,
+    "share": 0.5
+  },
+  {
+    "gas": "CH4",
+    "sector": "Energy",
+    "subsector": "Manufacturing/Construction",
+    "mtco2e": 16.36,
+    "share": 0
+  },
+  {
+    "gas": "CH4",
+    "sector": "Energy",
+    "subsector": "Transportation",
+    "mtco2e": 47.9,
+    "share": 0.1
+  },
+  {
+    "gas": "CH4",
+    "sector": "Energy",
+    "subsector": "Other Fuel Combustion",
+    "mtco2e": 10.75,
+    "share": 0
+  },
+  {
+    "gas": "CH4",
+    "sector": "Energy",
+    "subsector": "Fugitive Emissions",
+    "mtco2e": 3112.94,
+    "share": 6.3
+  },
+  {
+    "gas": "CH4",
+    "sector": "Non-Energy",
+    "subsector": "Industrial Processes",
+    "mtco2e": 9.19,
+    "share": 0
+  },
+  {
+    "gas": "CH4",
+    "sector": "Non-Energy",
+    "subsector": "Agriculture",
+    "mtco2e": 3492.34,
+    "share": 7
+  },
+  {
+    "gas": "CH4",
+    "sector": "Non-Energy",
+    "subsector": "Waste",
+    "mtco2e": 1486.2,
+    "share": 3
+  },
+  {
+    "gas": "CH4",
+    "sector": "Non-Energy",
+    "subsector": "Bunker Fuels",
+    "mtco2e": 1.67,
+    "share": 0
+  },
+  {
+    "gas": "CH4",
+    "sector": "Non-Energy",
+    "subsector": "Land-Use Change and Forestry",
+    "mtco2e": 187.44,
+    "share": 0.4
+  },
+  {
+    "gas": "Other",
+    "sector": "Other",
+    "subsector": "Other",
+    "mtco2e": 2969.9,
+    "share": 6
+  }
+]

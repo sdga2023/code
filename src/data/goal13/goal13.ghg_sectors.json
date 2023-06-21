@@ -1,0 +1,62 @@
+[
+  {
+    "sector": "Non-energy",
+    "subsector": "Industrial Processes",
+    "mtco2e": 3055.98,
+    "share": 6.1
+  },
+  {
+    "sector": "Non-energy",
+    "subsector": "Agriculture",
+    "mtco2e": 5794.61,
+    "share": 11.6
+  },
+  {
+    "sector": "Non-energy",
+    "subsector": "Waste",
+    "mtco2e": 1629.87,
+    "share": 3.3
+  },
+  {
+    "sector": "Non-energy",
+    "subsector": "Land-Use Change and Forestry",
+    "mtco2e": 1641.67,
+    "share": 3.3
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Building",
+    "mtco2e": 3065.31,
+    "share": 6.2
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Electricity/Heat",
+    "mtco2e": 15834.64,
+    "share": 31.8
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Fugitive Emissions",
+    "mtco2e": 3402.2,
+    "share": 6.8
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Manufacturing/Construction",
+    "mtco2e": 6297.09,
+    "share": 12.7
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Other Fuel Combustion",
+    "mtco2e": 601.9,
+    "share": 1.2
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Transportation",
+    "mtco2e": 8434.96,
+    "share": 17
+  }
+]

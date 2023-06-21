@@ -1,0 +1,26 @@
+[
+  {
+    "driver": "forestry",
+    "share": 29
+  },
+  {
+    "driver": "wildfire",
+    "share": 27.6
+  },
+  {
+    "driver": "commodity",
+    "share": 21
+  },
+  {
+    "driver": "shiftingagriculture",
+    "share": 21.3
+  },
+  {
+    "driver": "urbanization",
+    "share": 0.6
+  },
+  {
+    "driver": "unknown",
+    "share": 0.5
+  }
+]

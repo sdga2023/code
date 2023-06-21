@@ -1,0 +1,1535 @@
+[
+  {
+    "iso3c": "ABW",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": "The poverty headcounts are estimated using survey data or an extrapolation method common across countries. For headcounts based on country-specific extrapolations, see the Macro Poverty Outlook: https://www.worldbank.org/en/publication/macro-poverty-outlook."
+  },
+  {
+    "iso3c": "AFG",
+    "population_in_millions": 38,
+    "poor_in_millions": 3,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "AGO",
+    "population_in_millions": 32,
+    "poor_in_millions": 10,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ALB",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "AND",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "ARE",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ARG",
+    "population_in_millions": 45,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ARM",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ASM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "ATG",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "AUS",
+    "population_in_millions": 25,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "AUT",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "AZE",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BDI",
+    "population_in_millions": 12,
+    "poor_in_millions": 9,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BEL",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BEN",
+    "population_in_millions": 12,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BFA",
+    "population_in_millions": 21,
+    "poor_in_millions": 6,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BGD",
+    "population_in_millions": 166,
+    "poor_in_millions": 12,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BGR",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BHR",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "BHS",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "BIH",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BLR",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BLZ",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BMU",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "BOL",
+    "population_in_millions": 12,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BRA",
+    "population_in_millions": 212,
+    "poor_in_millions": 11,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BRB",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "BRN",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "BTN",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "BWA",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CAF",
+    "population_in_millions": 5,
+    "poor_in_millions": 4,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CAN",
+    "population_in_millions": 38,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CHE",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CHI",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "CHL",
+    "population_in_millions": 19,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CHN",
+    "population_in_millions": 1408,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CIV",
+    "population_in_millions": 26,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CMR",
+    "population_in_millions": 26,
+    "poor_in_millions": 6,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "COD",
+    "population_in_millions": 90,
+    "poor_in_millions": 56,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "COG",
+    "population_in_millions": 6,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "COL",
+    "population_in_millions": 50,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "COM",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CPV",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CRI",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CUB",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "CUW",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "CYM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "CYP",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "CZE",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "DEU",
+    "population_in_millions": 83,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "DJI",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "DMA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "DNK",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "DOM",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "DZA",
+    "population_in_millions": 43,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ECU",
+    "population_in_millions": 17,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "EGY",
+    "population_in_millions": 106,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ERI",
+    "population_in_millions": 3,
+    "poor_in_millions": 1,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "ESP",
+    "population_in_millions": 47,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "EST",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ETH",
+    "population_in_millions": 114,
+    "poor_in_millions": 20,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "FIN",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "FJI",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "FRA",
+    "population_in_millions": 67,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "FRO",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "FSM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GAB",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GBR",
+    "population_in_millions": 67,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GEO",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GHA",
+    "population_in_millions": 32,
+    "poor_in_millions": 7,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GIB",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "GIN",
+    "population_in_millions": 13,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GMB",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GNB",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GNQ",
+    "population_in_millions": 2,
+    "poor_in_millions": 1,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "GRC",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GRD",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "GRL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "GTM",
+    "population_in_millions": 17,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "GUM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "GUY",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "HKG",
+    "population_in_millions": 8,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "HND",
+    "population_in_millions": 10,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "HRV",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "HTI",
+    "population_in_millions": 11,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "HUN",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "IDN",
+    "population_in_millions": 270,
+    "poor_in_millions": 12,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "IMN",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "IND",
+    "population_in_millions": 1383,
+    "poor_in_millions": 134,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "IRL",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "IRN",
+    "population_in_millions": 87,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "IRQ",
+    "population_in_millions": 42,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ISL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ISR",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ITA",
+    "population_in_millions": 60,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "JAM",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "JOR",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "JPN",
+    "population_in_millions": 127,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "KAZ",
+    "population_in_millions": 19,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "KEN",
+    "population_in_millions": 51,
+    "poor_in_millions": 13,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "KGZ",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "KHM",
+    "population_in_millions": 16,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "KIR",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "KNA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "KOR",
+    "population_in_millions": 52,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "KWT",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "LAO",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LBN",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LBR",
+    "population_in_millions": 5,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LBY",
+    "population_in_millions": 7,
+    "poor_in_millions": 1,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "LCA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LIE",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "LKA",
+    "population_in_millions": 22,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LSO",
+    "population_in_millions": 2,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LTU",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LUX",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "LVA",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MAC",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "MAF",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "MAR",
+    "population_in_millions": 36,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MCO",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "MDA",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MDG",
+    "population_in_millions": 28,
+    "poor_in_millions": 22,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MDV",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MEX",
+    "population_in_millions": 125,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MHL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MKD",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MLI",
+    "population_in_millions": 21,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MLT",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MMR",
+    "population_in_millions": 53,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MNE",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MNG",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MNP",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "MOZ",
+    "population_in_millions": 30,
+    "poor_in_millions": 19,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MRT",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MUS",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MWI",
+    "population_in_millions": 19,
+    "poor_in_millions": 13,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "MYS",
+    "population_in_millions": 33,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NAM",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NCL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "NER",
+    "population_in_millions": 23,
+    "poor_in_millions": 12,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NGA",
+    "population_in_millions": 203,
+    "poor_in_millions": 63,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NIC",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NLD",
+    "population_in_millions": 17,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NOR",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NPL",
+    "population_in_millions": 29,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NRU",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "NZL",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "OMN",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "PAK",
+    "population_in_millions": 223,
+    "poor_in_millions": 11,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PAN",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PER",
+    "population_in_millions": 33,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PHL",
+    "population_in_millions": 110,
+    "poor_in_millions": 5,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PLW",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "PNG",
+    "population_in_millions": 10,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "POL",
+    "population_in_millions": 38,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PRI",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "PRK",
+    "population_in_millions": 26,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "PRT",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PRY",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PSE",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "PYF",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "QAT",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "ROU",
+    "population_in_millions": 19,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "RUS",
+    "population_in_millions": 144,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "RWA",
+    "population_in_millions": 13,
+    "poor_in_millions": 6,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SAU",
+    "population_in_millions": 36,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "SDN",
+    "population_in_millions": 43,
+    "poor_in_millions": 10,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SEN",
+    "population_in_millions": 16,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SGP",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "SLB",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SLE",
+    "population_in_millions": 8,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SLV",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SMR",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "SOM",
+    "population_in_millions": 16,
+    "poor_in_millions": 6,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "SRB",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SSD",
+    "population_in_millions": 10,
+    "poor_in_millions": 8,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "STP",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SUR",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SVK",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SVN",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SWE",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SWZ",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SXM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "SYC",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "SYR",
+    "population_in_millions": 20,
+    "poor_in_millions": 14,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TCA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "TCD",
+    "population_in_millions": 16,
+    "poor_in_millions": 5,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TGO",
+    "population_in_millions": 8,
+    "poor_in_millions": 2,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "THA",
+    "population_in_millions": 71,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TJK",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TKM",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TLS",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TON",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TTO",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TUN",
+    "population_in_millions": 12,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TUR",
+    "population_in_millions": 83,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TUV",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TWN",
+    "population_in_millions": 24,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "TZA",
+    "population_in_millions": 60,
+    "poor_in_millions": 26,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "UGA",
+    "population_in_millions": 43,
+    "poor_in_millions": 18,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "UKR",
+    "population_in_millions": 44,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "URY",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "USA",
+    "population_in_millions": 328,
+    "poor_in_millions": 3,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "UZB",
+    "population_in_millions": 34,
+    "poor_in_millions": 10,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "VCT",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "VEN",
+    "population_in_millions": 29,
+    "poor_in_millions": 1,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "VGB",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "VIR",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1,
+    "note": null
+  },
+  {
+    "iso3c": "VNM",
+    "population_in_millions": 96,
+    "poor_in_millions": 1,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "VUT",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "WSM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "XKX",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "YEM",
+    "population_in_millions": 32,
+    "poor_in_millions": 19,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ZAF",
+    "population_in_millions": 58,
+    "poor_in_millions": 12,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ZMB",
+    "population_in_millions": 18,
+    "poor_in_millions": 11,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "ZWE",
+    "population_in_millions": 15,
+    "poor_in_millions": 6,
+    "greyout": 0,
+    "note": null
+  },
+  {
+    "iso3c": "WLD",
+    "population_in_millions": 7743,
+    "poor_in_millions": 659,
+    "greyout": 0,
+    "note": null
+  }
+]

@@ -1,0 +1,7 @@
+"mode","low","high"
+"walkingbiking",0,5
+"rail",40,110
+"bus",30,140
+"car",80,215
+"wheelers",75,220
+"taxi",145,510

@@ -1,0 +1,218 @@
+[
+  {
+    "iso3c": "BFA",
+    "quintile": "average",
+    "learning_activities_precovid": 83.4,
+    "learning_activities": 31.8
+  },
+  {
+    "iso3c": "ETH",
+    "quintile": "average",
+    "learning_activities_precovid": 91,
+    "learning_activities": 28
+  },
+  {
+    "iso3c": "MWI",
+    "quintile": "average",
+    "learning_activities_precovid": 96.4,
+    "learning_activities": 20.4
+  },
+  {
+    "iso3c": "MLI",
+    "quintile": "average",
+    "learning_activities_precovid": 85.4,
+    "learning_activities": 36
+  },
+  {
+    "iso3c": "NGA",
+    "quintile": "average",
+    "learning_activities_precovid": 94.1,
+    "learning_activities": 58.4
+  },
+  {
+    "iso3c": "UGA",
+    "quintile": "average",
+    "learning_activities_precovid": 92.7,
+    "learning_activities": 59.3
+  },
+  {
+    "iso3c": "BFA",
+    "quintile": 1,
+    "learning_activities_precovid": 88.5,
+    "learning_activities": 25.1
+  },
+  {
+    "iso3c": "BFA",
+    "quintile": 2,
+    "learning_activities_precovid": 90.1,
+    "learning_activities": 30
+  },
+  {
+    "iso3c": "BFA",
+    "quintile": 3,
+    "learning_activities_precovid": 92.1,
+    "learning_activities": 24.2
+  },
+  {
+    "iso3c": "BFA",
+    "quintile": 4,
+    "learning_activities_precovid": 93.6,
+    "learning_activities": 33.6
+  },
+  {
+    "iso3c": "BFA",
+    "quintile": 5,
+    "learning_activities_precovid": 96.2,
+    "learning_activities": 41.5
+  },
+  {
+    "iso3c": "ETH",
+    "quintile": 1,
+    "learning_activities_precovid": 88.9,
+    "learning_activities": 18.3
+  },
+  {
+    "iso3c": "ETH",
+    "quintile": 2,
+    "learning_activities_precovid": 91.4,
+    "learning_activities": 25.3
+  },
+  {
+    "iso3c": "ETH",
+    "quintile": 3,
+    "learning_activities_precovid": 95,
+    "learning_activities": 22.5
+  },
+  {
+    "iso3c": "ETH",
+    "quintile": 4,
+    "learning_activities_precovid": 92.2,
+    "learning_activities": 33.2
+  },
+  {
+    "iso3c": "ETH",
+    "quintile": 5,
+    "learning_activities_precovid": 91.8,
+    "learning_activities": 40.9
+  },
+  {
+    "iso3c": "MWI",
+    "quintile": 1,
+    "learning_activities_precovid": 85.7,
+    "learning_activities": 16.1
+  },
+  {
+    "iso3c": "MWI",
+    "quintile": 2,
+    "learning_activities_precovid": 89.4,
+    "learning_activities": 15.2
+  },
+  {
+    "iso3c": "MWI",
+    "quintile": 3,
+    "learning_activities_precovid": 90.3,
+    "learning_activities": 15.1
+  },
+  {
+    "iso3c": "MWI",
+    "quintile": 4,
+    "learning_activities_precovid": 90.8,
+    "learning_activities": 25.1
+  },
+  {
+    "iso3c": "MWI",
+    "quintile": 5,
+    "learning_activities_precovid": 96.7,
+    "learning_activities": 29
+  },
+  {
+    "iso3c": "MLI",
+    "quintile": 1,
+    "learning_activities_precovid": 89.6,
+    "learning_activities": 27
+  },
+  {
+    "iso3c": "MLI",
+    "quintile": 2,
+    "learning_activities_precovid": 91.3,
+    "learning_activities": 35.6
+  },
+  {
+    "iso3c": "MLI",
+    "quintile": 3,
+    "learning_activities_precovid": 91.7,
+    "learning_activities": 36
+  },
+  {
+    "iso3c": "MLI",
+    "quintile": 4,
+    "learning_activities_precovid": 93.8,
+    "learning_activities": 29.2
+  },
+  {
+    "iso3c": "MLI",
+    "quintile": 5,
+    "learning_activities_precovid": 95.4,
+    "learning_activities": 47.3
+  },
+  {
+    "iso3c": "NGA",
+    "quintile": 1,
+    "learning_activities_precovid": 92,
+    "learning_activities": 47.4
+  },
+  {
+    "iso3c": "NGA",
+    "quintile": 2,
+    "learning_activities_precovid": 95,
+    "learning_activities": 50.7
+  },
+  {
+    "iso3c": "NGA",
+    "quintile": 3,
+    "learning_activities_precovid": 96,
+    "learning_activities": 58.9
+  },
+  {
+    "iso3c": "NGA",
+    "quintile": 4,
+    "learning_activities_precovid": 94.9,
+    "learning_activities": 61.5
+  },
+  {
+    "iso3c": "NGA",
+    "quintile": 5,
+    "learning_activities_precovid": 98.9,
+    "learning_activities": 67.7
+  },
+  {
+    "iso3c": "UGA",
+    "quintile": 1,
+    "learning_activities_precovid": 82.1,
+    "learning_activities": 43.7
+  },
+  {
+    "iso3c": "UGA",
+    "quintile": 2,
+    "learning_activities_precovid": 90.2,
+    "learning_activities": 51.7
+  },
+  {
+    "iso3c": "UGA",
+    "quintile": 3,
+    "learning_activities_precovid": 94.7,
+    "learning_activities": 55.9
+  },
+  {
+    "iso3c": "UGA",
+    "quintile": 4,
+    "learning_activities_precovid": 96,
+    "learning_activities": 66.7
+  },
+  {
+    "iso3c": "UGA",
+    "quintile": 5,
+    "learning_activities_precovid": 98.9,
+    "learning_activities": 74.3
+  }
+]

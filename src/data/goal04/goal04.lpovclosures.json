@@ -1,0 +1,849 @@
+[
+  {
+    "iso3c": "AFG",
+    "learning_poverty": 93.44799805,
+    "gni_per_capita": 500,
+    "population": 38928341,
+    "instruction_days_lost": 221
+  },
+  {
+    "iso3c": "ALB",
+    "learning_poverty": 16.47864151,
+    "gni_per_capita": 5260,
+    "population": 2837849,
+    "instruction_days_lost": 90
+  },
+  {
+    "iso3c": "ARE",
+    "learning_poverty": 32.83292389,
+    "gni_per_capita": 39410,
+    "population": 9890400,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ARG",
+    "learning_poverty": 53.83637238,
+    "gni_per_capita": 9080,
+    "population": 45376763,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ARM",
+    "learning_poverty": 27.24114609,
+    "gni_per_capita": 4220,
+    "population": 2963234,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "AUS",
+    "learning_poverty": 8.56343174,
+    "gni_per_capita": 53680,
+    "population": 25693267,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "AUT",
+    "learning_poverty": 13.26862621,
+    "gni_per_capita": 48360,
+    "population": 8916864,
+    "instruction_days_lost": 52
+  },
+  {
+    "iso3c": "AZE",
+    "learning_poverty": 23.28103256,
+    "gni_per_capita": 4480,
+    "population": 10093121,
+    "instruction_days_lost": 133
+  },
+  {
+    "iso3c": "BDI",
+    "learning_poverty": 95.81885529,
+    "gni_per_capita": 230,
+    "population": 11890781,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "BEL",
+    "learning_poverty": 6.368309021,
+    "gni_per_capita": 45810,
+    "population": 11544241,
+    "instruction_days_lost": 42.5
+  },
+  {
+    "iso3c": "BEN",
+    "learning_poverty": 55.77610397,
+    "gni_per_capita": 1280,
+    "population": 12123198,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "BFA",
+    "learning_poverty": 73.8611908,
+    "gni_per_capita": 770,
+    "population": 20903278,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "BGD",
+    "learning_poverty": 58.21909714,
+    "gni_per_capita": 2340,
+    "population": 164689383,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "BGR",
+    "learning_poverty": 15.20261288,
+    "gni_per_capita": 9630,
+    "population": 6934015,
+    "instruction_days_lost": 88
+  },
+  {
+    "iso3c": "BHR",
+    "learning_poverty": 32.08821869,
+    "gni_per_capita": 19930,
+    "population": 1701583,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "BLZ",
+    "learning_poverty": 76.41403961,
+    "gni_per_capita": 3930,
+    "population": 397621,
+    "instruction_days_lost": 63
+  },
+  {
+    "iso3c": "BRA",
+    "learning_poverty": 48.36721039,
+    "gni_per_capita": 7800,
+    "population": 212559409,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "BWA",
+    "learning_poverty": 50.8376503,
+    "gni_per_capita": 6500,
+    "population": 2351625,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "CAN",
+    "learning_poverty": 4.301857471,
+    "gni_per_capita": 43540,
+    "population": 38037204,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "CHL",
+    "learning_poverty": 34.66139984,
+    "gni_per_capita": 13120,
+    "population": 19116209,
+    "instruction_days_lost": 64
+  },
+  {
+    "iso3c": "CHN",
+    "learning_poverty": 18.20000076,
+    "gni_per_capita": 10530,
+    "population": 1411100000,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "CIV",
+    "learning_poverty": 82.61730194,
+    "gni_per_capita": 2280,
+    "population": 26378275,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "CMR",
+    "learning_poverty": 71.93261719,
+    "gni_per_capita": 1520,
+    "population": 26545864,
+    "instruction_days_lost": 65
+  },
+  {
+    "iso3c": "COD",
+    "learning_poverty": 96.60150146,
+    "gni_per_capita": 560,
+    "population": 89561404,
+    "instruction_days_lost": 98
+  },
+  {
+    "iso3c": "COG",
+    "learning_poverty": 70.0140152,
+    "gni_per_capita": 1820,
+    "population": 5518092,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "COL",
+    "learning_poverty": 48.70722961,
+    "gni_per_capita": 5830,
+    "population": 50882884,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "COM",
+    "learning_poverty": 86.02334595,
+    "gni_per_capita": 1410,
+    "population": 869595,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "CRI",
+    "learning_poverty": 32.45553589,
+    "gni_per_capita": 11580,
+    "population": 5094114,
+    "instruction_days_lost": 175
+  },
+  {
+    "iso3c": "CUB",
+    "learning_poverty": 27.93891907,
+    "gni_per_capita": null,
+    "population": 11326616,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "CYP",
+    "learning_poverty": 9.938192368,
+    "gni_per_capita": 26490,
+    "population": 1207361,
+    "instruction_days_lost": 35
+  },
+  {
+    "iso3c": "CZE",
+    "learning_poverty": 13.82490158,
+    "gni_per_capita": 22130,
+    "population": 10697858,
+    "instruction_days_lost": 67
+  },
+  {
+    "iso3c": "DEU",
+    "learning_poverty": 14.35341263,
+    "gni_per_capita": 47520,
+    "population": 83160871,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "DNK",
+    "learning_poverty": 3.574493647,
+    "gni_per_capita": 63010,
+    "population": 5831404,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "DOM",
+    "learning_poverty": 80.74254608,
+    "gni_per_capita": 7270,
+    "population": 10847904,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "DZA",
+    "learning_poverty": 67.90348053,
+    "gni_per_capita": 3570,
+    "population": 43851043,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ECU",
+    "learning_poverty": 62.80477905,
+    "gni_per_capita": 5540,
+    "population": 17643060,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "EGY",
+    "learning_poverty": 69.57327271,
+    "gni_per_capita": 3000,
+    "population": 102334403,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ESP",
+    "learning_poverty": 4.536696434,
+    "gni_per_capita": 27360,
+    "population": 47363419,
+    "instruction_days_lost": 45
+  },
+  {
+    "iso3c": "ETH",
+    "learning_poverty": 90.38964081,
+    "gni_per_capita": 890,
+    "population": 114963583,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "FIN",
+    "learning_poverty": 2.574587822,
+    "gni_per_capita": 50080,
+    "population": 5529543,
+    "instruction_days_lost": 38
+  },
+  {
+    "iso3c": "FRA",
+    "learning_poverty": 6.870605469,
+    "gni_per_capita": 39500,
+    "population": 67379908,
+    "instruction_days_lost": 29
+  },
+  {
+    "iso3c": "GAB",
+    "learning_poverty": 30.67756081,
+    "gni_per_capita": 7030,
+    "population": 2225728,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "GBR",
+    "learning_poverty": 3.512510061,
+    "gni_per_capita": 39970,
+    "population": 67081000,
+    "instruction_days_lost": 34
+  },
+  {
+    "iso3c": "GEO",
+    "learning_poverty": 15.2939539,
+    "gni_per_capita": 4260,
+    "population": 3722716,
+    "instruction_days_lost": 74
+  },
+  {
+    "iso3c": "GIN",
+    "learning_poverty": 82.67482758,
+    "gni_per_capita": 960,
+    "population": 13132792,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "GRC",
+    "learning_poverty": 7.686419487,
+    "gni_per_capita": 17950,
+    "population": 10700556,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "GTM",
+    "learning_poverty": 67.28295898,
+    "gni_per_capita": 4490,
+    "population": 16858333,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "HKG",
+    "learning_poverty": 4.188119888,
+    "gni_per_capita": 48560,
+    "population": 7481000,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "HND",
+    "learning_poverty": 75.5062561,
+    "gni_per_capita": 2190,
+    "population": 9904608,
+    "instruction_days_lost": 170
+  },
+  {
+    "iso3c": "HRV",
+    "learning_poverty": 4.462029457,
+    "gni_per_capita": 14810,
+    "population": 4047680,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "HUN",
+    "learning_poverty": 5.903298378,
+    "gni_per_capita": 15950,
+    "population": 9750149,
+    "instruction_days_lost": 60
+  },
+  {
+    "iso3c": "IDN",
+    "learning_poverty": 52.82275391,
+    "gni_per_capita": 3870,
+    "population": 273523621,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "IND",
+    "learning_poverty": 56.07056046,
+    "gni_per_capita": 1910,
+    "population": 1380004385,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "IRL",
+    "learning_poverty": 2.344146967,
+    "gni_per_capita": 65750,
+    "population": 4985674,
+    "instruction_days_lost": 63
+  },
+  {
+    "iso3c": "IRN",
+    "learning_poverty": 35.2363205,
+    "gni_per_capita": 3370,
+    "population": 83992953,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ISL",
+    "learning_poverty": 9.323390961,
+    "gni_per_capita": 62410,
+    "population": 366463,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ISR",
+    "learning_poverty": 11.66234398,
+    "gni_per_capita": 42610,
+    "population": 9215100,
+    "instruction_days_lost": 52
+  },
+  {
+    "iso3c": "ITA",
+    "learning_poverty": 4.391714573,
+    "gni_per_capita": 32380,
+    "population": 59449527,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "JOR",
+    "learning_poverty": 62.54821396,
+    "gni_per_capita": 4310,
+    "population": 10203140,
+    "instruction_days_lost": 77
+  },
+  {
+    "iso3c": "JPN",
+    "learning_poverty": 3.560506344,
+    "gni_per_capita": 40810,
+    "population": 126261000,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "KAZ",
+    "learning_poverty": 2.186121225,
+    "gni_per_capita": 8710,
+    "population": 18755666,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "KGZ",
+    "learning_poverty": 64.49124908,
+    "gni_per_capita": 1180,
+    "population": 6579900,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "KHM",
+    "learning_poverty": 90.0033493,
+    "gni_per_capita": 1510,
+    "population": 16718971,
+    "instruction_days_lost": 170
+  },
+  {
+    "iso3c": "KOR",
+    "learning_poverty": 3.230080605,
+    "gni_per_capita": 32930,
+    "population": 51836239,
+    "instruction_days_lost": 59
+  },
+  {
+    "iso3c": "KWT",
+    "learning_poverty": 51.08253098,
+    "gni_per_capita": null,
+    "population": 4270563,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "LAO",
+    "learning_poverty": 97.71728516,
+    "gni_per_capita": 2490,
+    "population": 7275556,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "LKA",
+    "learning_poverty": 14.80606651,
+    "gni_per_capita": 3720,
+    "population": 21919000,
+    "instruction_days_lost": 48
+  },
+  {
+    "iso3c": "LTU",
+    "learning_poverty": 2.983212709,
+    "gni_per_capita": 19620,
+    "population": 2794885,
+    "instruction_days_lost": 52
+  },
+  {
+    "iso3c": "LUX",
+    "learning_poverty": 2.950478077,
+    "gni_per_capita": 81110,
+    "population": 630419,
+    "instruction_days_lost": 38
+  },
+  {
+    "iso3c": "LVA",
+    "learning_poverty": 3.984968901,
+    "gni_per_capita": 17900,
+    "population": 1900449,
+    "instruction_days_lost": 47
+  },
+  {
+    "iso3c": "MAC",
+    "learning_poverty": 5.55470705,
+    "gni_per_capita": 46730,
+    "population": 649342,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MAR",
+    "learning_poverty": 64.9004364,
+    "gni_per_capita": 3020,
+    "population": 36910558,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MDA",
+    "learning_poverty": 11.01008987,
+    "gni_per_capita": 4520,
+    "population": 2620495,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MDG",
+    "learning_poverty": 93.93574524,
+    "gni_per_capita": 470,
+    "population": 27691019,
+    "instruction_days_lost": 70
+  },
+  {
+    "iso3c": "MEX",
+    "learning_poverty": 42.78256989,
+    "gni_per_capita": 8530,
+    "population": 128932753,
+    "instruction_days_lost": 140
+  },
+  {
+    "iso3c": "MKD",
+    "learning_poverty": 40.86146164,
+    "gni_per_capita": 5690,
+    "population": 2072531,
+    "instruction_days_lost": 63
+  },
+  {
+    "iso3c": "MLI",
+    "learning_poverty": 90.43836212,
+    "gni_per_capita": 830,
+    "population": 20250834,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MLT",
+    "learning_poverty": 27.96039391,
+    "gni_per_capita": 26410,
+    "population": 515332,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MMR",
+    "learning_poverty": 89.46794128,
+    "gni_per_capita": 1340,
+    "population": 54409794,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MNE",
+    "learning_poverty": 27.1038456,
+    "gni_per_capita": 7910,
+    "population": 621306,
+    "instruction_days_lost": 56
+  },
+  {
+    "iso3c": "MNG",
+    "learning_poverty": 39.46482849,
+    "gni_per_capita": 3740,
+    "population": 3278292,
+    "instruction_days_lost": 106
+  },
+  {
+    "iso3c": "MRT",
+    "learning_poverty": 94.76531982,
+    "gni_per_capita": 1670,
+    "population": 4649660,
+    "instruction_days_lost": 95
+  },
+  {
+    "iso3c": "MUS",
+    "learning_poverty": 40.45787811,
+    "gni_per_capita": 10230,
+    "population": 1265740,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "MYS",
+    "learning_poverty": 42.02563477,
+    "gni_per_capita": 10570,
+    "population": 32365998,
+    "instruction_days_lost": 56
+  },
+  {
+    "iso3c": "NER",
+    "learning_poverty": 90.43682098,
+    "gni_per_capita": 550,
+    "population": 24206636,
+    "instruction_days_lost": 70
+  },
+  {
+    "iso3c": "NIC",
+    "learning_poverty": 70.44197845,
+    "gni_per_capita": 1770,
+    "population": 6624554,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "NLD",
+    "learning_poverty": 2.268576622,
+    "gni_per_capita": 51070,
+    "population": 17441500,
+    "instruction_days_lost": 36
+  },
+  {
+    "iso3c": "NOR",
+    "learning_poverty": 5.970429897,
+    "gni_per_capita": 77880,
+    "population": 5379475,
+    "instruction_days_lost": 29
+  },
+  {
+    "iso3c": "NZL",
+    "learning_poverty": 11.35290718,
+    "gni_per_capita": 41480,
+    "population": 5090200,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "OMN",
+    "learning_poverty": 41.76449203,
+    "gni_per_capita": 15030,
+    "population": 5106622,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "PAK",
+    "learning_poverty": 76.98406219,
+    "gni_per_capita": 1460,
+    "population": 220892331,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "PAN",
+    "learning_poverty": 66.579422,
+    "gni_per_capita": 12420,
+    "population": 4314768,
+    "instruction_days_lost": 90
+  },
+  {
+    "iso3c": "PER",
+    "learning_poverty": 55.37745285,
+    "gni_per_capita": 6060,
+    "population": 32971846,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "PHL",
+    "learning_poverty": 90.91326141,
+    "gni_per_capita": 3430,
+    "population": 109581085,
+    "instruction_days_lost": 84
+  },
+  {
+    "iso3c": "POL",
+    "learning_poverty": 4.776032925,
+    "gni_per_capita": 15260,
+    "population": 37899070,
+    "instruction_days_lost": 77
+  },
+  {
+    "iso3c": "PRT",
+    "learning_poverty": 6.01780653,
+    "gni_per_capita": 21810,
+    "population": 10297081,
+    "instruction_days_lost": 62
+  },
+  {
+    "iso3c": "PRY",
+    "learning_poverty": 74.7693634,
+    "gni_per_capita": 5150,
+    "population": 7132530,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "QAT",
+    "learning_poverty": 35.65247345,
+    "gni_per_capita": 55920,
+    "population": 2881060,
+    "instruction_days_lost": 35
+  },
+  {
+    "iso3c": "ROU",
+    "learning_poverty": 17.86032867,
+    "gni_per_capita": 12630,
+    "population": 19257520,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "RUS",
+    "learning_poverty": 3.534235716,
+    "gni_per_capita": 10740,
+    "population": 144073139,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "SAU",
+    "learning_poverty": 38.22376633,
+    "gni_per_capita": 22270,
+    "population": 34813867,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "SEN",
+    "learning_poverty": 68.56822968,
+    "gni_per_capita": 1430,
+    "population": 16743930,
+    "instruction_days_lost": 54
+  },
+  {
+    "iso3c": "SGP",
+    "learning_poverty": 2.757375479,
+    "gni_per_capita": 55010,
+    "population": 5685807,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "SLV",
+    "learning_poverty": 54.96239471,
+    "gni_per_capita": 3630,
+    "population": 6486201,
+    "instruction_days_lost": 187
+  },
+  {
+    "iso3c": "SRB",
+    "learning_poverty": 9.844299316,
+    "gni_per_capita": 7430,
+    "population": 6899126,
+    "instruction_days_lost": 59
+  },
+  {
+    "iso3c": "SVK",
+    "learning_poverty": 23.17461205,
+    "gni_per_capita": 18920,
+    "population": 5458827,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "SVN",
+    "learning_poverty": 5.432384014,
+    "gni_per_capita": 25340,
+    "population": 2102419,
+    "instruction_days_lost": 73
+  },
+  {
+    "iso3c": "SWE",
+    "learning_poverty": 2.313278675,
+    "gni_per_capita": 54290,
+    "population": 10353442,
+    "instruction_days_lost": 0
+  },
+  {
+    "iso3c": "TCD",
+    "learning_poverty": 94.41054535,
+    "gni_per_capita": 630,
+    "population": 16425859,
+    "instruction_days_lost": 72
+  },
+  {
+    "iso3c": "TGO",
+    "learning_poverty": 81.65792084,
+    "gni_per_capita": 920,
+    "population": 8278737,
+    "instruction_days_lost": 73
+  },
+  {
+    "iso3c": "THA",
+    "learning_poverty": 23.4157753,
+    "gni_per_capita": 7070,
+    "population": 69799978,
+    "instruction_days_lost": 31
+  },
+  {
+    "iso3c": "TTO",
+    "learning_poverty": 20.64458275,
+    "gni_per_capita": 15910,
+    "population": 1399491,
+    "instruction_days_lost": 140
+  },
+  {
+    "iso3c": "TUN",
+    "learning_poverty": 65.5328598,
+    "gni_per_capita": 3300,
+    "population": 11818618,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "TUR",
+    "learning_poverty": 14.50302601,
+    "gni_per_capita": 9040,
+    "population": 84339067,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "UGA",
+    "learning_poverty": 81.92336273,
+    "gni_per_capita": 800,
+    "population": 45741000,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "UKR",
+    "learning_poverty": 27.88031006,
+    "gni_per_capita": 3570,
+    "population": 44132049,
+    "instruction_days_lost": 55
+  },
+  {
+    "iso3c": "URY",
+    "learning_poverty": 41.55545425,
+    "gni_per_capita": 15740,
+    "population": 3473727,
+    "instruction_days_lost": 67
+  },
+  {
+    "iso3c": "USA",
+    "learning_poverty": 4.251830101,
+    "gni_per_capita": 64140,
+    "population": 331501080,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "VNM",
+    "learning_poverty": 18.12091637,
+    "gni_per_capita": 3390,
+    "population": 97338583,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "YEM",
+    "learning_poverty": 94.66005707,
+    "gni_per_capita": 670,
+    "population": 29825968,
+    "instruction_days_lost": null
+  },
+  {
+    "iso3c": "ZAF",
+    "learning_poverty": 78.90949249,
+    "gni_per_capita": 6010,
+    "population": 59308690,
+    "instruction_days_lost": null
+  }
+]

@@ -1,0 +1,542 @@
+{
+  "config": {
+    "goal": "7",
+    "headline": "Access to universal and sustainable electricity: Meeting the challenge",
+    "introtext": "[goal: 7] aims to ensure access to affordable, reliable, and sustainable energy for all. On average, 90 percent of people across the world had access to electricity in 2020—but in some countries the access rate was as low as 19 percent. Increased electricity access, however, has come with higher greenhouse emissions.",
+    "path": "data/goal07/goal07.accessperc.json",
+    "country_data_label": "of population had access to electricity in 2020",
+    "country_data_units": "%",
+    "legend_label": "Nighttime lights",
+    "targets_covered": [
+      {
+        "target": "1",
+        "translationPrefix": "goal07.config.targets_covered.#0"
+      },
+      {
+        "target": "2",
+        "translationPrefix": "goal07.config.targets_covered.#1"
+      }
+    ],
+    "source": "Access to electricity[footnote: World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS EG.ELC.ACCS.ZS]).] Nighttime lights[footnote: [link: https://blackmarble.gsfc.nasa.gov/ NASA’s Black Marble]. Earth at Night. NASA Earth Observatory 2016.]",
+    "citation": "Parada, Javier, Divyanshi Wadhwa, Ana Florina Pirlea, and Maarten Lambrechts. 2023. “Access to universal and sustainable electricity: Meeting the challenge” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/7hfr-5641 https://www.doi.org/10.60616/7hfr-5641]",
+    "credits": "Javier Parada, Divyanshi Wadhwa, Ana Florina Pirlea",
+    "inputs": "Benjamin Stewart, Bonsuk Koo, Elisa Portale, Jiyun Park, Trevor Monroe",
+    "visuals": "Maarten Lambrechts",
+    "illustration_credits": "yes"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "Under [goal: 7], countries face the often conflicting challenge of bringing electricity to all, [target: 7.1], and at the same time increasing the proportion generated using renewable sources to reduce greenhouse gas emissions, [target: 7.2]. Both targets must be addressed simultaneously by 2030.",
+      "translationPrefix": "goal07.content.#0"
+    },
+    {
+      "type": "subhed",
+      "text": "Global access to electricity is increasing at a slow pace",
+      "translationPrefix": "goal07.content.#1"
+    },
+    {
+      "type": "text",
+      "text": "Progress towards achieving universal access to electricity (SDG indicator 7.1.1) has been slow over the last 20 years. The share of the global population with access to electricity increased from 78 percent in 2000 to 91 percent in 2020. Based on current trends, this figure is expected to rise only marginally from [emphasis: 91 percent] in 2020 to [emphasis: 92 percent] by 2030.[reference: IEA, IRENA, UNSD, World Bank, and WHO. 2022. [link: https://trackingsdg7.esmap.org/downloads Tracking SDG 7: The Energy Progress Report]. World Bank, Washington DC. © World Bank. License: Creative Commons Attribution—NonCommercial 3.0 IGO (CC BY-NC 3.0 IGO).]",
+      "translationPrefix": "goal07.content.#2"
+    },
+    {
+      "type": "text",
+      "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-SAS)\">South Asia</span> drove most of the gains in the last two decades, rising from 56 percent in 2000 to 96 percent in 2020.",
+      "translationPrefix": "goal07.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-SSF)\">Sub-Saharan Africa</span> has also made progress, with electricity access rising from 25 percent in 2000 to 48 percent in 2020. One out of two people in Sub-Saharan Africa lacked access to electricity in 2020, and access in this region would need to more than double by 2030 to meet [target: 7.1].",
+      "translationPrefix": "goal07.content.#4"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "accesselectricitylinechart",
+      "path": "data/goal07/goal07.accessperc.json",
+      "title": "Uneven gains in access to electricity",
+      "subtitle": "Proportion of population with access to electricity",
+      "visdescription": "Line chart of regional trends from 2000 to 2020 in the proportion of population with access to electricity. This chart shows all regions have increased access to electricity in the period from 2000 to 2020. However, it also shows how the proportion of the population with access to electricity remains much lower in Sub-Saharan Africa than in the rest of the world.",
+      "source": "World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS EG.ELC.ACCS.ZS]).",
+      "yaxistitle": "Proportion of population with access to electricity",
+      "yaxisunits": "%",
+      "translationPrefix": "goal07.content.#5"
+    },
+    {
+      "type": "subhed",
+      "text": "The urban-rural gap in access to electricity is still significant",
+      "translationPrefix": "goal07.content.#6"
+    },
+    {
+      "type": "text",
+      "text": "Closing the urban-rural gap in low- and lower-middle-income countries, particularly in Sub-Saharan Africa, is key to achieving [target: 7.1].",
+      "translationPrefix": "goal07.content.#7"
+    },
+    {
+      "type": "factoid",
+      "title": "Rural areas contain",
+      "number": "80%",
+      "label": "of the world’s population without electricity",
+      "text": "There is a stark divide in global access to electricity between urban and rural areas. In 2020, [emphasis: 733 million people] worldwide lacked access to electricity. Around 80 percent of those lived in rural areas.[footnote: 44 percent of the global population lived in rural areas in 2020.]",
+      "color": "#D52F2F",
+      "translationPrefix": "goal07.content.#8"
+    },
+    {
+      "type": "text",
+      "text": "This is most evident in Sub-Saharan Africa, where almost 60 percent of people live in rural communities. In this region, the proportion of residents with electricity was 28 percent in rural areas compared to 78 percent in urban areas in 2020. Overall, in Sub-Saharan Africa, approximately 476 million rural residents lack access to electricity.",
+      "translationPrefix": "goal07.content.#9"
+    },
+    {
+      "type": "vis",
+      "size": "content",
+      "graphic": "electricityaccessregions",
+      "title": "Most people lacking access to electricity live in rural Sub-Saharan Africa",
+      "subtitle": "Population without access to electricity (millions of people)",
+      "visdescription": "A set of area charts showing the number of people without access to electricity by region and by urban and rural population for the period 2000 to 2020. The visual shows that the number of people without access to electricity has decreased quickly in South Asia. Meanwhile, it has increased in Sub-Saharan Africa, especially in rural areas. The latest data from 2020 shows that 80 percent of the population without access to electricity lives in Sub-Saharan Africa.",
+      "source": "World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS EG.ELC.ACCS.UR.ZS], [link: https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS EG.ELC.ACCS.RU.ZS], [link: https://data.worldbank.org/indicator/SP.URB.TOTL SP.URB.TOTL], [link: https://data.worldbank.org/indicator/SP.RUR.TOTL SP.RUR.TOTL]).",
+      "path": "data/goal07/goal07.accessabsolute.json",
+      "urban": "Urban",
+      "rural": "Rural",
+      "translationPrefix": "goal07.content.#10"
+    },
+    {
+      "type": "subhed",
+      "text": "Visualizing access to electricity through nighttime lights",
+      "translationPrefix": "goal07.content.#11"
+    },
+    {
+      "type": "text",
+      "text": "One way to visualize access to electricity is through nighttime lights captured by satellite images. This can be a useful complementary tool to fill the gaps from household survey data, the typical source for measuring electricity access, collected once every few years.[footnote: The World Bank’s [link: https://registry.opendata.aws/wb-light-every-night/ Light Every Night] data repository may be a useful data source for nighttime light satellite imagery.]",
+      "translationPrefix": "goal07.content.#12"
+    },
+    {
+      "type": "text",
+      "text": "In cases in which surveys cannot be conducted, such as in conflict areas, nighttime lights are especially useful to get an approximation of an area’s electricity usage. It is worth noting that nighttime lights primarily capture public or street lighting and likely miss rural households that access electricity through off-grid technologies.[reference: Dhorne, Milien, Claire Nicolas, Christopher Arderne, and Juliette Besnard. 2021. [link: http://hdl.handle.net/10986/35473 Tracking Advances in Access to Electricity Using Satellite-Based Data and Machine Learning to Complement Surveys]. Live Wire;2021/113. © World Bank, Washington, DC. License: CC BY 3.0 IGO.]",
+      "translationPrefix": "goal07.content.#13"
+    },
+    {
+      "type": "text",
+      "text": "Despite its large population, a single region stands out for having the fewest lights visible at nighttime: Sub-Saharan Africa. Nighttime lights can help visualize the current state of electrification in this region.",
+      "translationPrefix": "goal07.content.#14"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "Low intensity of nighttime lights can help identify populated areas with limited access to electricity",
+      "subtitle": "The distribution of population and nighttime lights",
+      "visdescription": "This globe displays two data layers. The first layer is the distribution of population that allows to distinguish populated from unpopulated areas. The second layer is the distribution of nighttime lights around the globe. When displayed together, these two layers allow us to see which heavily populated areas of the world stand out for not having many nighttime lights. This is the case in some populated areas of Sub-Saharan Africa, where the absence of nighttime lights suggests there is also lack of access to electricity.",
+      "source": "Nighttime lights: [link: https://blackmarble.gsfc.nasa.gov/ NASA’s Black Marble]. Earth at Night. NASA Earth Observatory 2016. Population: [link: https://www.worldpop.org/ WorldPop] and Center for International Earth Science Information Network (CIESIN), Columbia University. 2018. [link: https://dx.doi.org/10.5258/SOTON/WP00647 Global High Resolution Population Denominators Project] - Funded by The Bill and Melinda Gates Foundation (OPP1134076).",
+      "graphic": "nightlights_population_scroller",
+      "theme": "dark",
+      "visSize": "fullScreen",
+      "lightsopacity": "Nighttime lights opacity",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "population-only",
+          "text": "By analyzing the distribution of <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> and <span class=\"highlighted\" style=\"--highlight-color: #679DBC\">populated areas</span>, we can get an idea of where people without access to electricity live.",
+          "translationPrefix": "goal07.content.#15.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "mediterranean-population",
+          "text": "Population is shown in <span class=\"highlighted\" style=\"--highlight-color: #679DBC\">blue</span>. Lighter blue shades represent higher population density using census counts.",
+          "translationPrefix": "goal07.content.#15.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "mediterranean-lights",
+          "text": "Nighttime lights are shown in <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">yellow</span>. Brighter yellow shades represent a higher intensity of nighttime lights.",
+          "translationPrefix": "goal07.content.#15.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "mediterranean-lights-2",
+          "text": "In the eastern Mediterranean, <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> can be found in most <span class=\"highlighted\" style=\"--highlight-color: #679DBC\">populated areas</span>.",
+          "translationPrefix": "goal07.content.#15.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "india",
+          "text": "In South Asia, where the electricity sector has developed rapidly over the last decade, <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> can also be found in most urban and rural <span class=\"highlighted\" style=\"--highlight-color: #679DBC\">populated areas</span>.",
+          "translationPrefix": "goal07.content.#15.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "africa",
+          "text": "In Sub-Saharan Africa, <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> are mostly concentrated in urban areas and do not always overlap the distribution of <span class=\"highlighted\" style=\"--highlight-color: #679DBC\">populated areas</span>.",
+          "translationPrefix": "goal07.content.#15.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "victoria",
+          "text": "Around Lake Victoria, bordered by Kenya, Uganda, and Tanzania, millions of people live without power. These are some of the most densely-populated rural areas in the world, but <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> are mostly concentrated in urban areas such as Kampala, Kisumu, and Mwanza.",
+          "translationPrefix": "goal07.content.#15.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "nigeria",
+          "text": "In Nigeria, access to electricity is concentrated in the south and it is sparse in the north. <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">Nighttime lights</span> show a broad presence along the coast. In the north, lights are mostly limited to state capitals and industrial regions.[reference: Alabi, Oluwafisayo, Aisha Abubakar, Astrid Werkmeister, and Suki Dauda Sule. 2023. [link: https://doi.org/10.1007/s10708-022-10689-2 \"Keeping the lights On or Off: Tracking the progress of access to electricity for sustainable development in Nigeria.\"] <i>GeoJournal</i> 88 (2): 1535--1558.]",
+          "translationPrefix": "goal07.content.#15.scenes.#7"
+        },
+        {
+          "type": "scene",
+          "id": "ethiopia",
+          "text": "In Ethiopia, <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> are heavily concentrated in Addis Ababa. Nighttime lights in rural areas have particularly low intensity. According to survey data, close to 80 percent of Ethiopia’s 112 million people live in rural areas.",
+          "translationPrefix": "goal07.content.#15.scenes.#8"
+        },
+        {
+          "type": "scene",
+          "id": "explore",
+          "text": "You may now explore the distribution of <span class=\"highlighted\" style=\"--highlight-color: #679DBC\">populated areas</span> and <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEE0C2\">nighttime lights</span> yourself. Click the map and then use the \"+\" and \"-\" keys to zoom (or double click), and use the arrow keys or drag the map to scroll around in any direction.",
+          "translationPrefix": "goal07.content.#15.scenes.#9"
+        }
+      ],
+      "translationPrefix": "goal07.content.#15"
+    },
+    {
+      "type": "subhed",
+      "text": "Measuring different levels of electricity access",
+      "translationPrefix": "goal07.content.#16"
+    },
+    {
+      "type": "text",
+      "text": "[target: 7.1] sets the goal to achieve universal access to electricity, and also to make it reliable. Having an electricity connection is not always a complete indication of the level of access for households. Their level of access also depends on what kind of appliances they can use, how much electricity they can afford, or how often they experience outages.",
+      "translationPrefix": "goal07.content.#17"
+    },
+    {
+      "type": "text",
+      "text": "The [link: https://mtfenergyaccess.esmap.org Multi-Tier Framework (MTF)] developed by [link: https://www.esmap.org/ ESMAP] and [link: https://www.seforall.org/ SEforALL] provides a measure for characterizing the quality of access to electricity across households.[reference: Bhatia, Mikul, and Niki Angelou. 2015. [link: http://hdl.handle.net/10986/24368 Beyond Connections: Energy Access Redefined]. ESMAP Technical Report;008/15. © World Bank, Washington, DC. License: CC BY 3.0 IGO.] Electricity must meet certain requirements such as capacity, quality, affordability, reliability, and safety for households to fully enjoy the benefits of being connected. The MTF defines six tiers (levels) of access to electricity.[footnote: Please refer to the [link: https://mtfenergyaccess.esmap.org Multi-Tier Framework (MTF)] for a more complete definition of the tiers.]",
+      "translationPrefix": "goal07.content.#18"
+    },
+    {
+      "type": "text",
+      "text": "One of the attributes used to characterize access to electricity is whether it has enough capacity to power certain appliances. Tier 0 represents no access or minimal access. Tier 1 or 2 access (with a daily capacity of 4 hours) may provide a household with essential lighting and power small appliances. However, it is not enough to operate a refrigerator. Tiers 3, 4, and 5 provide higher levels of access (for 8 hours, 16 hours, and 23 hours, respectively) with less interrupted service and the capacity to power high-load appliances. A Tier 5 daily capacity can power air conditioning, a heater, a microwave, a refrigerator, or a washing machine.",
+      "translationPrefix": "goal07.content.#19"
+    },
+    {
+      "type": "vis",
+      "size": "full",
+      "graphic": "illustration_grid",
+      "title": "Availability and capacity are some of the attributes used to define the tiers of electricity access",
+      "subtitle": "Daily availability by tier of electricity access",
+      "visdescription": "Visual shows tiers of electricity access from 0 to 5 with their associated daily capacity in hours.",
+      "source": "[link: https://mtfenergyaccess.esmap.org/ Multi-Tier Framework]",
+      "image_cols": "3",
+      "illustrations": [
+        {
+          "path": "assets/illustrations/electricity/2-4ELECTier0.png",
+          "alt": "todo",
+          "translationPrefix": "goal07.content.#20.illustrations.#0"
+        },
+        {
+          "path": "assets/illustrations/electricity/2-4ELECTier1.png",
+          "alt": "todo",
+          "translationPrefix": "goal07.content.#20.illustrations.#1"
+        },
+        {
+          "path": "assets/illustrations/electricity/2-4ELECTier2.png",
+          "alt": "todo",
+          "translationPrefix": "goal07.content.#20.illustrations.#2"
+        },
+        {
+          "path": "assets/illustrations/electricity/2-4ELECTier3.png",
+          "alt": "todo",
+          "translationPrefix": "goal07.content.#20.illustrations.#3"
+        },
+        {
+          "path": "assets/illustrations/electricity/2-4ELECTier4.png",
+          "alt": "todo",
+          "translationPrefix": "goal07.content.#20.illustrations.#4"
+        },
+        {
+          "path": "assets/illustrations/electricity/2-4ELECTier5.png",
+          "alt": "todo",
+          "translationPrefix": "goal07.content.#20.illustrations.#5"
+        }
+      ],
+      "translationPrefix": "goal07.content.#20"
+    },
+    {
+      "type": "text",
+      "text": "For example, the results from the [link: http://hdl.handle.net/10986/30102 MTF in Ethiopia] indicate that most rural households are in <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-green700)\">Tier 0</span> (73 percent) and most urban households are in <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">Tier 3</span> (50.5 percent) or <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple300)\">Tier 4</span> (21.1 percent).",
+      "translationPrefix": "goal07.content.#21"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "title": "Lower tier electricity access is concentrated in rural areas",
+      "subtitle": "Share of households (rural/urban) by level of tier of electricity access",
+      "visdescription": "Stacked bar chart that displays the proportion of population that falls into each of the six tiers of access to electricity by rural and urban area in Ethiopia.",
+      "source": "Padam, Gouthami, Dana Rysankova, Elisa Portale, Bryan Bonsuk Koo, Sandra Keller, and Gina Fleurantin. 2018. [link: http://hdl.handle.net/10986/30102  Ethiopia – Beyond Connections: Energy Access Diagnostic Report Based on the Multi-Tier Framework]. © World Bank, Washington, DC. License: CC BY 3.0 IGO.",
+      "graphic": "electricitytiersethiopia",
+      "path": "data/goal07/goal07.tiers.json",
+      "urban": "Share of population living in urban areas",
+      "rural": "Share of population living in rural areas",
+      "tooltiprural": "of rural population",
+      "tooltipurban": "of urban population",
+      "tier": "Tier",
+      "translationPrefix": "goal07.content.#22"
+    },
+    {
+      "type": "text",
+      "text": "In Ethiopia, power outages and limited hours of service are the main obstacles preventing urban households from moving to Tier 5. According to the MTF, affordability is not a major obstacle because electricity tariffs are low.[reference: Padam, Gouthami, Dana Rysankova, Elisa Portale, Bryan Bonsuk Koo, Sandra Keller, and Gina Fleurantin. 2018. [link: http://hdl.handle.net/10986/30102  Ethiopia – Beyond Connections: Energy Access Diagnostic Report Based on the Multi-Tier Framework]. © World Bank, Washington, DC. License: CC BY 3.0 IGO.]",
+      "translationPrefix": "goal07.content.#23"
+    },
+    {
+      "type": "vis",
+      "size": "content",
+      "title": "Lower tier electricity access is concentrated in rural areas",
+      "subtitle": "Share of households (rural/urban) by level of tier of electricity access (data available for 12 countries)",
+      "visdescription": "Stacked bar chart that displays the proportion of population that falls into each of the six tiers of access to electricity by rural and urban area for the countries for which the Multi-Tier Framework is available.",
+      "source": "[link: https://mtfenergyaccess.esmap.org/ Multi-Tier Framework]",
+      "graphic": "electricitytierscountries",
+      "path": "data/goal07/goal07.tiers.json",
+      "urban": "Share of population living in urban areas",
+      "rural": "Share of population living in rural areas",
+      "tooltiprural": "of rural population",
+      "tooltipurban": "of urban population",
+      "tier": "Tier",
+      "translationPrefix": "goal07.content.#24"
+    },
+    {
+      "type": "text",
+      "text": "Moving into higher tiers of electricity access will depend on the affordability and availability of grid and off-grid sources. This may come at a higher cost and generate more greenhouse gases unless growth comes from renewable sources. This highlights the dual challenge of achieving universal access to electricity without undermining efforts to reduce greenhouse gas emissions.",
+      "translationPrefix": "goal07.content.#25"
+    },
+    {
+      "type": "subhed",
+      "text": "Higher access to electricity has come with an increase in greenhouse gas emissions",
+      "translationPrefix": "goal07.content.#26"
+    },
+    {
+      "type": "text",
+      "text": "In the past, progress in access to electricity has driven up greenhouse gas emissions. The rapid expansion of access to electricity in South Asia, for example, has fueled an increase in emissions from the electricity and heat sector. This is because much of this expansion was driven by electricity generated from fossil fuels (coal, natural gas, oil). [target: 7.2] seeks to reverse this trend and increase the use of renewables.",
+      "translationPrefix": "goal07.content.#27"
+    },
+    {
+      "type": "wide_scroller",
+      "id": "accessemissions",
+      "title": "With improved electricity access, greenhouse gas emissions have increased",
+      "subtitle": "Greenhouse gas emissions per capita from electricity and heat sector vs. Proportion of population with access to electricity",
+      "visdescription": "Connected scatterplot that displays access to electricity on the horizontal axis and greenhouse gas emissions per capita on the vertical axis. The lines that connect the dots display the evolution of access to electricity and greenhouse gas emissions per capita by region for the period between 2000 and 2018.",
+      "source": "[link: https://www.climatewatchdata.org/ghg-emissions?breakBy=regions&calculation=PER_CAPITA&end_year=2019&regions=EAP%2CECA%2CLAC%2CMNA%2CNAR%2CSAR%2CWORLD%2CSSA&sectors=electricity-heat&source=Climate%20Watch&start_year=1990 Climate Watch Historical GHG emissions from electricity and heat sector]. 2022. Washington, DC: World Resources Institute. World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS EG.ELC.ACCS.ZS]).",
+      "graphic": "accessemissions",
+      "path": "data/goal07/goal07.access_emissions.json",
+      "xaxistitle": "Proportion of population with access to electricity",
+      "xaxisunits": "%",
+      "yaxistitle": "Greenhouse gas emissions per capita",
+      "yaxisunits": "tons",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "world",
+          "text": "Between 2000 and 2019, the <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-WLD)\">worldwide</span> proportion of population with access to electricity rose from 78 to 90 percent. Over the same period, greenhouse gas emissions [emphasis: from the electricity and heat sector] rose from 1.7 to 2.1 tons per capita.",
+          "translationPrefix": "goal07.content.#28.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "eas-mea-lac",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-EAS)\">East Asia & Pacific</span> and <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-MEA)\">Middle East & North Africa</span> are approaching full access to electricity, but at the same time they are increasing their greenhouse gas emissions per capita. <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-LCN)\">Latin America</span> is also evolving towards universal access to electricity, but with significantly lower emissions per capita due to its higher reliance on hydropower compared to other regions.[reference: IEA. 2021. [link: https://www.iea.org/reports/climate-impacts-on-latin-american-hydropower Climate Impacts on Latin American Hydropower]. IEA. Paris. License: CC BY 4.0.]",
+          "translationPrefix": "goal07.content.#28.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "eca-nac",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-NAC)\">North America</span> and <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-ECS)\">Europe & Central Asia</span> have already achieved full access to electricity and have the highest emissions per capita, although these are declining.",
+          "translationPrefix": "goal07.content.#28.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "sas",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-SAS)\">South Asia</span> has made progress increasing access to electricity. Emissions per capita have also increased, but remain at a low level compared to other regions.",
+          "translationPrefix": "goal07.content.#28.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "ssf",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-SSF)\">Sub-Saharan Africa</span> has the lowest greenhouse gas emissions per capita. However, while all other regions have reached near universal electricity access, Sub-Saharan Africa remains far from achieving this goal.",
+          "translationPrefix": "goal07.content.#28.scenes.#4"
+        }
+      ],
+      "translationPrefix": "goal07.content.#28"
+    },
+    {
+      "type": "subhed",
+      "text": "How fast are countries transitioning to renewables?",
+      "translationPrefix": "goal07.content.#29"
+    },
+    {
+      "type": "text",
+      "text": "Renewable energy has the potential to scale up to close the electricity access gap in regions that lack universal access and to prevent further growth of greenhouse gas emissions.",
+      "translationPrefix": "goal07.content.#30"
+    },
+    {
+      "type": "text_emphasis",
+      "text": "In 2020, around [emphasis: 60 percent] of electricity worldwide was generated from fossil fuels, around [emphasis: 10 percent] came from nuclear power, and the remaining [emphasis: 30 percent] came from renewable sources.[reference: IRENA. 2022. [link: https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022 Renewable Energy Statistics 2022]. International Renewable Energy Agency (IRENA). Abu Dhabi.]",
+      "translationPrefix": "goal07.content.#31"
+    },
+    {
+      "type": "vis",
+      "graphic": "electricitysources",
+      "size": "main",
+      "path": "data/goal07/goal07.electricitysources.json",
+      "title": "Electricity generation by source",
+      "subtitle": "Gigawatt hours (GWh) per year",
+      "visdescription": "Area charts of electricity generation by source for the period between 2000 and 2020. The chart shows that fossil fuels remain the most significant source of electricity worldwide at 60 percent. Coal is the largest source of electricity, followed by gas, hydro, and nuclear power at a global level. The amount of electricity sourced from wind and solar is only 10 percent in 2020 but has been growing.",
+      "source": "IRENA. 2022. [link: https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022 Renewable Energy Statistics 2022]. International Renewable Energy Agency (IRENA). Abu Dhabi.",
+      "coal": "Coal",
+      "gas": "Gas",
+      "oil": "Oil and other fossil",
+      "nuclear": "Nuclear",
+      "otherrenewables": "Other renewables",
+      "hydro": "Hydro",
+      "bioenergy": "Bioenergy",
+      "solar": "Solar",
+      "wind": "Wind",
+      "yaxistitle": "Electricity generation",
+      "yaxisunits": "GWh",
+      "translationPrefix": "goal07.content.#32"
+    },
+    {
+      "type": "text",
+      "text": "[emphasis: High-income countries] like the United States, Germany, and Japan have universal access to electricity. However, they face the challenge of transitioning to renewable sources to reduce emissions while maintaining access and quality of service. Many of these countries are turning more to wind and solar to generate electricity. Today, around 10 percent of the world’s electricity is generated from wind and solar power.[reference: IRENA. 2022. [link: https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022 Renewable Energy Statistics 2022]. International Renewable Energy Agency (IRENA). Abu Dhabi.]",
+      "translationPrefix": "goal07.content.#33"
+    },
+    {
+      "type": "vis",
+      "graphic": "electricity_sources_countries",
+      "size": "content",
+      "id": "developed",
+      "path": "data/goal07/goal07.electricitysources.json",
+      "title": "Countries with high access to electricity",
+      "subtitle": "Gigawatt hours (GWh) per year",
+      "visdescription": "Area charts of electricity generation by source for the United States, Germany, and Japan for the period between 2000 and 2020.",
+      "source": "IRENA. 2022. [link: https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022 Renewable Energy Statistics 2022]. International Renewable Energy Agency (IRENA). Abu Dhabi.",
+      "coal": "Coal",
+      "gas": "Gas",
+      "oil": "Oil and other fossil",
+      "nuclear": "Nuclear",
+      "otherrenewables": "Other renewables",
+      "hydro": "Hydro",
+      "bioenergy": "Bioenergy",
+      "solar": "Solar",
+      "wind": "Wind",
+      "yaxistitle": "Electricity generation",
+      "yaxisunits": "GWh",
+      "translationPrefix": "goal07.content.#34"
+    },
+    {
+      "type": "text",
+      "text": "Brazil, India, and China are [emphasis: middle-income countries] where the shares of wind and solar out of total electricity generation are low but increasing. The growth of renewables is happening as the power sector continues to grow. China leads the world as the largest producer of both solar and wind energy. Still, 60 percent of Chinese power generation is sourced from coal and new coal power plants continue to be built.[reference: IEA. 2021. [link: https://www.iea.org/reports/an-energy-sector-roadmap-to-carbon-neutrality-in-china An energy sector roadmap to carbon neutrality in China]. IEA, Paris. License: CC BY 4.0.] In India, coal accounts for close to 70 percent of power generation.[reference: IEA. 2021. [link: https://www.iea.org/reports/india-energy-outlook-2021 India Energy Outlook 2021]. IEA, Paris. License: CC BY 4.0.] At the moment, the largest wind farm in the world is Gansu Wind Farm in China’s Gansu province, and the world’s largest solar power plant is Bhadla Solar Park in Rajasthan, India.",
+      "translationPrefix": "goal07.content.#35"
+    },
+    {
+      "type": "vis",
+      "graphic": "electricity_sources_countries",
+      "size": "content",
+      "id": "transitioning",
+      "path": "data/goal07/goal07.electricitysources.json",
+      "title": "Middle-income countries with a growing electricity sector",
+      "subtitle": "Gigawatt hours (GWh) per year",
+      "visdescription": "Area charts of electricity generation by source for Brazil, China, and India for the period 2000 to 2020.",
+      "source": "IRENA. 2022. [link: https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022 Renewable Energy Statistics 2022]. International Renewable Energy Agency (IRENA). Abu Dhabi.",
+      "coal": "Coal",
+      "gas": "Gas",
+      "oil": "Oil and other fossil",
+      "nuclear": "Nuclear",
+      "otherrenewables": "Other renewables",
+      "hydro": "Hydro",
+      "bioenergy": "Bioenergy",
+      "solar": "Solar",
+      "wind": "Wind",
+      "yaxistitle": "Electricity generation",
+      "yaxisunits": "GWh",
+      "translationPrefix": "goal07.content.#36"
+    },
+    {
+      "type": "text",
+      "text": "In [emphasis: low-income countries] without universal access to electricity, renewable sources have the potential to provide expanded access. Instead of following the typical path of investing in fossil fuels and then transitioning to renewables, low-income countries could move straight away to cleaner energy.",
+      "translationPrefix": "goal07.content.#37"
+    },
+    {
+      "type": "vis",
+      "graphic": "electricity_sources_countries",
+      "id": "developing",
+      "size": "content",
+      "path": "data/goal07/goal07.electricitysources.json",
+      "title": "Low-income countries that could directly adopt renewable sources",
+      "subtitle": "Gigawatt hours (GWh) per year",
+      "visdescription": "Area charts of electricity generation by source for Ethiopia, Rwanda, and Uganda for the period between 2000 and 2020.",
+      "source": "IRENA. 2022. [link: https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022 Renewable Energy Statistics 2022]. International Renewable Energy Agency (IRENA). Abu Dhabi.",
+      "coal": "Coal",
+      "gas": "Gas",
+      "oil": "Oil and other fossil",
+      "nuclear": "Nuclear",
+      "otherrenewables": "Other renewables",
+      "hydro": "Hydro",
+      "bioenergy": "Bioenergy",
+      "solar": "Solar",
+      "wind": "Wind",
+      "yaxistitle": "Electricity generation",
+      "yaxisunits": "GWh",
+      "translationPrefix": "goal07.content.#38"
+    },
+    {
+      "type": "text",
+      "text": "Sub-Saharan Africa has the potential to develop renewable energy if the costs are low enough. This could be possible as renewable power is becoming more affordable.[reference: IRENA. 2022. [link: https://irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021 Renewable Power Generation Costs in 2021]. International Renewable Energy Agency (IRENA). Abu Dhabi.] Solar and wind are promising renewable energy sources and advances are being made to make these technologies better and cheaper.[reference: IEA. 2022. [link: https://www.iea.org/reports/world-energy-outlook-2022 World Energy Outlook 2022]. IEA, Paris. License: CC BY 4.0 (report); CC BY NC SA 4.0 (Annex A).]",
+      "translationPrefix": "goal07.content.#39"
+    },
+    {
+      "type": "text",
+      "text": "Hydropower is a clean and flexible way of generating electricity and can help reduce our dependence on fossil fuels.[reference: IEA. 2021. [link: https://www.iea.org/reports/hydropower-special-market-report Hydropower Special Market Report]. IEA, Paris. License: CC BY 4.0.] However, the potential impact of climate change on surface water flows should be considered when planning hydropower projects.[reference: Wasti, Asphota, Patrick Ray, Sungwook Wi, Christine Folch, María Ubierna, and Pravin Karki. 2022. [link: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcc.757 \"Climate change and the hydropower sector: A global review.\"] <i>WIREs Climate Change</i> 13 (2): e757.]",
+      "translationPrefix": "goal07.content.#40"
+    },
+    {
+      "type": "text",
+      "text": "It is possible to expand access to electricity without a rapid increase in greenhouse gas emissions by relying more on renewable power. Tools such as the [link: https://electrifynow.energydata.info Global Electrification Platform], the [link: https://globalsolaratlas.info/map Global Solar Atlas], the [link: https://globalwindatlas.info Global Wind Atlas], the [link: https://rise.esmap.org/ RISE platform], and the [link: https://rezoning.energydata.info/ Renewable Energy Zoning Tool] help us identify the areas of the world with the most potential for renewable energy development.",
+      "translationPrefix": "goal07.content.#41"
+    },
+    {
+      "type": "text",
+      "text": "The conditions to produce wind and solar power vary during the day and depending on the weather. As the world seeks to transition to renewables, it is still often required to use non-renewable energy sources. Investing in better storage options for renewable energy will be critical to rely more on renewable power in the future.[reference: MIT Energy Initiative. 2022. [link: https://energy.mit.edu/research/future-of-energy-storage/ The future of energy storage. An Interdisciplinary MIT Study.] Massachusetts Institute of Technology.]",
+      "translationPrefix": "goal07.content.#42"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "In 2020, 70 percent of the world population had access to clean fuels and technologies for cooking. However, access ranges from 18 percent in Sub-Saharan Africa to 100 percent in North America.",
+          "shorttitle": "Inefficient cooking systems are still common",
+          "subtitle": "Access to clean fuels and technologies for cooking (% of population), 2020",
+          "note": "",
+          "source": "World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.CFT.ACCS.ZS EG.CFT.ACCS.ZS]).",
+          "target": "7.1",
+          "image": "goal07/sdg7_cooking_bar.png",
+          "translationPrefix": "goal07.content.#43.charts.#0"
+        },
+        {
+          "title": "Renewable energy as a share of total energy consumption increased in 12 of the top 20 energy-consuming countries between 2000 and 2019.",
+          "shorttitle": "Renewable energy shares are growing",
+          "subtitle": "Renewable energy share in the total final energy consumption (%) of the top 20 energy-consuming countries, 2000 and 2019",
+          "note": "Ten out of twelve countries where this share has increased are high-income countries. The other two, Iran and Brazil, are upper-middle income. All of the countries where this share has decreased are either upper- or lower-middle income countries.",
+          "source": "World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS EG.FEC.RNEW.ZS]).",
+          "target": "7.2",
+          "image": "goal07/sdg7_top20_renew_energy.png",
+          "translationPrefix": "goal07.content.#43.charts.#1"
+        },
+        {
+          "title": "The rate of improvement in primary energy intensity has slowed since 2014. From 2018 to 2019, primary energy intensity fell by 1.5 percent to reach 4.7 megajoules per dollar.",
+          "shorttitle": "The rate of improvement in energy intensity has slowed",
+          "subtitle": "Energy intensity level of primary energy (megajoules per constant 2017 PPP GDP) and its year-on-year percentage change (arrow), 2000–2019",
+          "note": "The year-on-year percentage change is below the target annual rate of improvement of 2.6 percent, which has only been reached from 2014 to 2015. Primary energy intensity is defined as the ratio of total energy supply to annual GDP. The rate of improvement is measured as the year-on-year percentage change. An annual improvement rate of 2.6 percent between 2010 and 2030 was recommended by the UN, but due to slow progress, the required rate may now be as high as 3.2 percent.",
+          "source": "World Bank Global Electrification Database from [link: https://trackingsdg7.esmap.org/ Tracking SDG 7: The Energy Progress Report] led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/EG.EGY.PRIM.PP.KD EG.EGY.PRIM.PP.KD]).",
+          "target": "7.3",
+          "image": "goal07/sdg7_energy_intensity.png",
+          "translationPrefix": "goal07.content.#43.charts.#2"
+        }
+      ],
+      "translationPrefix": "goal07.content.#43"
+    }
+  ]
+}

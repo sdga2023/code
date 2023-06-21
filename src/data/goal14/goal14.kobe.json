@@ -1,0 +1,1703 @@
+[
+  {
+    "species": "Acadian redfish",
+    "area": "Gulf of Maine/Georges Bank",
+    "year": 2020,
+    "B_Bmsy": 1.536000013,
+    "F_Fmsy": 0.4469999969,
+    "species_code": "Acadian_redfish",
+    "area_code": "Gulf_of_Maine/Georges_Bank"
+  },
+  {
+    "species": "Alaska plaice",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.577999949,
+    "F_Fmsy": 0.4670000076,
+    "species_code": "Alaska_plaice",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Alaska skate",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 2.276000023,
+    "F_Fmsy": 0.3370000124,
+    "species_code": "Alaska_skate",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Albacore",
+    "area": "North Atlantic",
+    "year": 2020,
+    "B_Bmsy": 1.320000052,
+    "F_Fmsy": 0.6340000033,
+    "species_code": "Albacore",
+    "area_code": "North_Atlantic"
+  },
+  {
+    "species": "American plaice",
+    "area": "Gulf of Maine/Georges Bank",
+    "year": 2019,
+    "B_Bmsy": 1.161000013,
+    "F_Fmsy": 0.3449999988,
+    "species_code": "American_plaice",
+    "area_code": "Gulf_of_Maine/Georges_Bank"
+  },
+  {
+    "species": "Arrowtooth flounder",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 2.573999882,
+    "F_Fmsy": 0.1059999987,
+    "species_code": "Arrowtooth_flounder",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Arrowtooth flounder",
+    "area": "Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 2.049999952,
+    "F_Fmsy": 0.123999998,
+    "species_code": "Arrowtooth_flounder",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Atka mackerel",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.164000034,
+    "F_Fmsy": 0.6100000143,
+    "species_code": "Atka_mackerel",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Atlantic herring",
+    "area": "Northwestern Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 0.2899999917,
+    "F_Fmsy": 0.4679999948,
+    "species_code": "Atlantic_herring",
+    "area_code": "Northwestern_Atlantic_Coast"
+  },
+  {
+    "species": "Atlantic mackerel",
+    "area": "Gulf of Maine/Cape Hatteras",
+    "year": 2021,
+    "B_Bmsy": 0.2370000035,
+    "F_Fmsy": 2.082000017,
+    "species_code": "Atlantic_mackerel",
+    "area_code": "Gulf_of_Maine/Cape_Hatteras"
+  },
+  {
+    "species": "Atlantic sharpnose shark",
+    "area": "Atlantic",
+    "year": 2013,
+    "B_Bmsy": 2.078000069,
+    "F_Fmsy": 0.2339999974,
+    "species_code": "Atlantic_sharpnose_shark",
+    "area_code": "Atlantic"
+  },
+  {
+    "species": "Atlantic surfclam",
+    "area": "Mid-Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 1.190000057,
+    "F_Fmsy": 0.2549999952,
+    "species_code": "Atlantic_surfclam",
+    "area_code": "Mid-Atlantic_Coast"
+  },
+  {
+    "species": "Atlantic wolffish",
+    "area": "Gulf of Maine/Georges Bank",
+    "year": 2020,
+    "B_Bmsy": 0.4379999936,
+    "F_Fmsy": 0.02500000037,
+    "species_code": "Atlantic_wolffish",
+    "area_code": "Gulf_of_Maine/Georges_Bank"
+  },
+  {
+    "species": "Aurora rockfish",
+    "area": "Pacific Coast",
+    "year": 2013,
+    "B_Bmsy": 1.593999982,
+    "F_Fmsy": 0.6140000224,
+    "species_code": "Aurora_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Big skate",
+    "area": "Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 1.980000019,
+    "F_Fmsy": 0.1480000019,
+    "species_code": "Big_skate",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Bigeye tuna",
+    "area": "Eastern Pacific",
+    "year": 2020,
+    "B_Bmsy": 0.9200000167,
+    "F_Fmsy": 1,
+    "species_code": "Bigeye_tuna",
+    "area_code": "Eastern_Pacific"
+  },
+  {
+    "species": "Bigeye tuna",
+    "area": "Atlantic",
+    "year": 2021,
+    "B_Bmsy": 0.9399999976,
+    "F_Fmsy": 1,
+    "species_code": "Bigeye_tuna",
+    "area_code": "Atlantic"
+  },
+  {
+    "species": "Bigeye tuna",
+    "area": "Western and Central Pacific",
+    "year": 2020,
+    "B_Bmsy": 1.779999971,
+    "F_Fmsy": 0.7400000095,
+    "species_code": "Bigeye_tuna",
+    "area_code": "Western_and_Central_Pacific"
+  },
+  {
+    "species": "Black grouper",
+    "area": "Southern Atlantic Coast/Gulf of Mexico",
+    "year": 2010,
+    "B_Bmsy": 1.399999976,
+    "F_Fmsy": 0.5,
+    "species_code": "Black_grouper",
+    "area_code": "Southern_Atlantic_Coast/Gulf_of_Mexico"
+  },
+  {
+    "species": "Black rockfish",
+    "area": "California",
+    "year": 2019,
+    "B_Bmsy": 1.437000036,
+    "F_Fmsy": 0.4539999962,
+    "species_code": "Black_rockfish",
+    "area_code": "California"
+  },
+  {
+    "species": "Black rockfish",
+    "area": "Northern Pacific Coast",
+    "year": 2007,
+    "B_Bmsy": 1.379999995,
+    "F_Fmsy": 0.6980000138,
+    "species_code": "Black_rockfish",
+    "area_code": "Northern_Pacific_Coast"
+  },
+  {
+    "species": "Black rockfish",
+    "area": "Oregon",
+    "year": 2021,
+    "B_Bmsy": 1.412999988,
+    "F_Fmsy": 0.7960000038,
+    "species_code": "Black_rockfish",
+    "area_code": "Oregon"
+  },
+  {
+    "species": "Black rockfish",
+    "area": "Southern Pacific Coast",
+    "year": 2007,
+    "B_Bmsy": 1.761999965,
+    "F_Fmsy": 0.4699999988,
+    "species_code": "Black_rockfish",
+    "area_code": "Southern_Pacific_Coast"
+  },
+  {
+    "species": "Black rockfish",
+    "area": "Washington",
+    "year": 2019,
+    "B_Bmsy": 1.18599999,
+    "F_Fmsy": 0.8759999871,
+    "species_code": "Black_rockfish",
+    "area_code": "Washington"
+  },
+  {
+    "species": "Black sea bass",
+    "area": "Mid-Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 2.061000109,
+    "F_Fmsy": 0.84799999,
+    "species_code": "Black_sea_bass",
+    "area_code": "Mid-Atlantic_Coast"
+  },
+  {
+    "species": "Black sea bass",
+    "area": "Southern Atlantic Coast",
+    "year": 2018,
+    "B_Bmsy": 0.7129999995,
+    "F_Fmsy": 0.6349999905,
+    "species_code": "Black_sea_bass",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Blackgill rockfish",
+    "area": "Southern California",
+    "year": 2019,
+    "B_Bmsy": 1.036999941,
+    "F_Fmsy": 0.423999995,
+    "species_code": "Blackgill_rockfish",
+    "area_code": "Southern_California"
+  },
+  {
+    "species": "Blue king crab",
+    "area": "Pribilof Islands",
+    "year": 2021,
+    "B_Bmsy": 0.04399999976,
+    "F_Fmsy": 0,
+    "species_code": "Blue_king_crab",
+    "area_code": "Pribilof_Islands"
+  },
+  {
+    "species": "Blue king crab",
+    "area": "Saint Matthew Island",
+    "year": 2020,
+    "B_Bmsy": 0.3350000083,
+    "F_Fmsy": 0.02300000004,
+    "species_code": "Blue_king_crab",
+    "area_code": "Saint_Matthew_Island"
+  },
+  {
+    "species": "Blue marlin",
+    "area": "Pacific",
+    "year": 2021,
+    "B_Bmsy": 1.172000051,
+    "F_Fmsy": 0.5649999976,
+    "species_code": "Blue_marlin",
+    "area_code": "Pacific"
+  },
+  {
+    "species": "Blue shark",
+    "area": "North Pacific",
+    "year": 2017,
+    "B_Bmsy": 1.717000008,
+    "F_Fmsy": 0.3709999919,
+    "species_code": "Blue_shark",
+    "area_code": "North_Pacific"
+  },
+  {
+    "species": "Bluefish",
+    "area": "Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.474999994,
+    "F_Fmsy": 0.9499999881,
+    "species_code": "Bluefish",
+    "area_code": "Atlantic_Coast"
+  },
+  {
+    "species": "Blueline tilefish",
+    "area": "Southern Atlantic Coast",
+    "year": 2017,
+    "B_Bmsy": 1.055999994,
+    "F_Fmsy": 0.9179999828,
+    "species_code": "Blueline_tilefish",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Bocaccio",
+    "area": "Southern Pacific Coast",
+    "year": 2017,
+    "B_Bmsy": 1.215000033,
+    "F_Fmsy": 0.1099999994,
+    "species_code": "Bocaccio",
+    "area_code": "Southern_Pacific_Coast"
+  },
+  {
+    "species": "Brown rockfish",
+    "area": "Pacific Coast",
+    "year": 2013,
+    "B_Bmsy": 1.06400001,
+    "F_Fmsy": 0.6579999924,
+    "species_code": "Brown_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Butterfish",
+    "area": "Gulf of Maine/Cape Hatteras",
+    "year": 2020,
+    "B_Bmsy": 0.6909999847,
+    "F_Fmsy": 0.2440000027,
+    "species_code": "Butterfish",
+    "area_code": "Gulf_of_Maine/Cape_Hatteras"
+  },
+  {
+    "species": "Cabezon",
+    "area": "California",
+    "year": 2009,
+    "B_Bmsy": 1.20599997,
+    "F_Fmsy": 0.4550000131,
+    "species_code": "Cabezon",
+    "area_code": "California"
+  },
+  {
+    "species": "Cabezon",
+    "area": "Northern California",
+    "year": 2019,
+    "B_Bmsy": 1.628999949,
+    "F_Fmsy": 0.5379999876,
+    "species_code": "Cabezon",
+    "area_code": "Northern_California"
+  },
+  {
+    "species": "Cabezon",
+    "area": "Oregon",
+    "year": 2019,
+    "B_Bmsy": 1.32099998,
+    "F_Fmsy": 0.8339999914,
+    "species_code": "Cabezon",
+    "area_code": "Oregon"
+  },
+  {
+    "species": "Cabezon",
+    "area": "Southern California",
+    "year": 2019,
+    "B_Bmsy": 1.233999968,
+    "F_Fmsy": 0.375,
+    "species_code": "Cabezon",
+    "area_code": "Southern_California"
+  },
+  {
+    "species": "California scorpionfish",
+    "area": "Southern California",
+    "year": 2017,
+    "B_Bmsy": 1.35800004,
+    "F_Fmsy": 0.4699999988,
+    "species_code": "California_scorpionfish",
+    "area_code": "Southern_California"
+  },
+  {
+    "species": "Canary rockfish",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.427000046,
+    "F_Fmsy": 0.4839999974,
+    "species_code": "Canary_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Caribbean spiny lobster",
+    "area": "Puerto Rico",
+    "year": 2020,
+    "B_Bmsy": 1.345000029,
+    "F_Fmsy": 0.8320000172,
+    "species_code": "Caribbean_spiny_lobster",
+    "area_code": "Puerto_Rico"
+  },
+  {
+    "species": "Caribbean spiny lobster",
+    "area": "St. Croix",
+    "year": 2020,
+    "B_Bmsy": 1.960999966,
+    "F_Fmsy": 0.1819999963,
+    "species_code": "Caribbean_spiny_lobster",
+    "area_code": "St._Croix"
+  },
+  {
+    "species": "Caribbean spiny lobster",
+    "area": "St. Thomas/St. John",
+    "year": 2020,
+    "B_Bmsy": 1.549000025,
+    "F_Fmsy": 0.6800000072,
+    "species_code": "Caribbean_spiny_lobster",
+    "area_code": "St._Thomas/St._John"
+  },
+  {
+    "species": "Chilipepper",
+    "area": "Southern Pacific Coast",
+    "year": 2017,
+    "B_Bmsy": 1.730000019,
+    "F_Fmsy": 0.0540000014,
+    "species_code": "Chilipepper",
+    "area_code": "Southern_Pacific_Coast"
+  },
+  {
+    "species": "China rockfish",
+    "area": "Central Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 1.536000013,
+    "F_Fmsy": 0.9599999785,
+    "species_code": "China_rockfish",
+    "area_code": "Central_Pacific_Coast"
+  },
+  {
+    "species": "China rockfish",
+    "area": "Northern Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 1.738000035,
+    "F_Fmsy": 0.9580000043,
+    "species_code": "China_rockfish",
+    "area_code": "Northern_Pacific_Coast"
+  },
+  {
+    "species": "China rockfish",
+    "area": "Southern Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 0.7889999747,
+    "F_Fmsy": 0.9319999814,
+    "species_code": "China_rockfish",
+    "area_code": "Southern_Pacific_Coast"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "California Central Valley: Sacramento River Fall",
+    "year": 2021,
+    "B_Bmsy": 1.095000029,
+    "F_Fmsy": 0.871999979,
+    "species_code": "Chinook_salmon",
+    "area_code": "California_Central_Valley:_Sacramento_River_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Columbia River Basin: Upper River Bright Fall",
+    "year": 2021,
+    "B_Bmsy": 1.917000055,
+    "F_Fmsy": 0.3840000033,
+    "species_code": "Chinook_salmon",
+    "area_code": "Columbia_River_Basin:_Upper_River_Bright_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Northern California Coast: Klamath River Fall",
+    "year": 2021,
+    "B_Bmsy": 0.7409999967,
+    "F_Fmsy": 0.5920000076,
+    "species_code": "Chinook_salmon",
+    "area_code": "Northern_California_Coast:_Klamath_River_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Oregon Coast: Central and Northern Oregon",
+    "year": 2021,
+    "B_Bmsy": 1.549999952,
+    "F_Fmsy": 0.8330000043,
+    "species_code": "Chinook_salmon",
+    "area_code": "Oregon_Coast:_Central_and_Northern_Oregon"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Washington Coast: Grays Harbor Fall",
+    "year": 2021,
+    "B_Bmsy": 1.307999969,
+    "F_Fmsy": 0.8330000043,
+    "species_code": "Chinook_salmon",
+    "area_code": "Washington_Coast:_Grays_Harbor_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Washington Coast: Hoh Fall",
+    "year": 2021,
+    "B_Bmsy": 1.590999961,
+    "F_Fmsy": 0.7220000029,
+    "species_code": "Chinook_salmon",
+    "area_code": "Washington_Coast:_Hoh_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Washington Coast: Hoko Summer/Fall",
+    "year": 2021,
+    "B_Bmsy": 2.029000044,
+    "F_Fmsy": 0.67900002,
+    "species_code": "Chinook_salmon",
+    "area_code": "Washington_Coast:_Hoko_Summer/Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Washington Coast: Queets Fall",
+    "year": 2021,
+    "B_Bmsy": 1.019999981,
+    "F_Fmsy": 0.746999979,
+    "species_code": "Chinook_salmon",
+    "area_code": "Washington_Coast:_Queets_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Washington Coast: Quillayute Fall",
+    "year": 2021,
+    "B_Bmsy": 2.101999998,
+    "F_Fmsy": 0.746999979,
+    "species_code": "Chinook_salmon",
+    "area_code": "Washington_Coast:_Quillayute_Fall"
+  },
+  {
+    "species": "Chinook salmon",
+    "area": "Washington Coast: Willapa Bay Fall Natural",
+    "year": 2021,
+    "B_Bmsy": 0.8659999967,
+    "F_Fmsy": 0.8330000043,
+    "species_code": "Chinook_salmon",
+    "area_code": "Washington_Coast:_Willapa_Bay_Fall_Natural"
+  },
+  {
+    "species": "Cobia",
+    "area": "Gulf of Mexico",
+    "year": 2020,
+    "B_Bmsy": 0.6890000105,
+    "F_Fmsy": 1.42900002,
+    "species_code": "Cobia",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Puget Sound: Hood Canal",
+    "year": 2021,
+    "B_Bmsy": 1.138000011,
+    "F_Fmsy": 0.7080000043,
+    "species_code": "Coho_salmon",
+    "area_code": "Puget_Sound:_Hood_Canal"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Puget Sound: Skagit",
+    "year": 2021,
+    "B_Bmsy": 0.7049999833,
+    "F_Fmsy": 0.8000000119,
+    "species_code": "Coho_salmon",
+    "area_code": "Puget_Sound:_Skagit"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Puget Sound: Snohomish",
+    "year": 2021,
+    "B_Bmsy": 0.699000001,
+    "F_Fmsy": 0.2829999924,
+    "species_code": "Coho_salmon",
+    "area_code": "Puget_Sound:_Snohomish"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Puget Sound: Stillaguamish",
+    "year": 2021,
+    "B_Bmsy": 1.235000014,
+    "F_Fmsy": 0.4399999976,
+    "species_code": "Coho_salmon",
+    "area_code": "Puget_Sound:_Stillaguamish"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Washington Coast: Grays Harbor",
+    "year": 2021,
+    "B_Bmsy": 1.407999992,
+    "F_Fmsy": 0.6150000095,
+    "species_code": "Coho_salmon",
+    "area_code": "Washington_Coast:_Grays_Harbor"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Washington Coast: Hoh",
+    "year": 2021,
+    "B_Bmsy": 1.190000057,
+    "F_Fmsy": 0.8769999743,
+    "species_code": "Coho_salmon",
+    "area_code": "Washington_Coast:_Hoh"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Washington Coast: Queets",
+    "year": 2021,
+    "B_Bmsy": 0.4930000007,
+    "F_Fmsy": 0.8769999743,
+    "species_code": "Coho_salmon",
+    "area_code": "Washington_Coast:_Queets"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Washington Coast: Quillayute Fall",
+    "year": 2021,
+    "B_Bmsy": 1.057999969,
+    "F_Fmsy": 0.6269999743,
+    "species_code": "Coho_salmon",
+    "area_code": "Washington_Coast:_Quillayute_Fall"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Washington Coast: Strait of Juan de Fuca",
+    "year": 2021,
+    "B_Bmsy": 0.4720000029,
+    "F_Fmsy": 0.200000003,
+    "species_code": "Coho_salmon",
+    "area_code": "Washington_Coast:_Strait_of_Juan_de_Fuca"
+  },
+  {
+    "species": "Coho salmon",
+    "area": "Washington Coast: Willapa Bay Natural",
+    "year": 2021,
+    "B_Bmsy": 0.8349999785,
+    "F_Fmsy": 0.52700001,
+    "species_code": "Coho_salmon",
+    "area_code": "Washington_Coast:_Willapa_Bay_Natural"
+  },
+  {
+    "species": "Copper rockfish",
+    "area": "Northern California",
+    "year": 2021,
+    "B_Bmsy": 0.9850000143,
+    "F_Fmsy": 0.8100000024,
+    "species_code": "Copper_rockfish",
+    "area_code": "Northern_California"
+  },
+  {
+    "species": "Copper rockfish",
+    "area": "Southern California",
+    "year": 2021,
+    "B_Bmsy": 0.4519999921,
+    "F_Fmsy": 0.8799999952,
+    "species_code": "Copper_rockfish",
+    "area_code": "Southern_California"
+  },
+  {
+    "species": "Copper rockfish",
+    "area": "Washington",
+    "year": 2021,
+    "B_Bmsy": 1.046000004,
+    "F_Fmsy": 0.8360000253,
+    "species_code": "Copper_rockfish",
+    "area_code": "Washington"
+  },
+  {
+    "species": "Cowcod",
+    "area": "Southern California",
+    "year": 2019,
+    "B_Bmsy": 2.855999947,
+    "F_Fmsy": 0.02800000086,
+    "species_code": "Cowcod",
+    "area_code": "Southern_California"
+  },
+  {
+    "species": "Crimson jobfish",
+    "area": "Main Hawaiian Islands",
+    "year": 2018,
+    "B_Bmsy": 1.269999981,
+    "F_Fmsy": 0.5849999785,
+    "species_code": "Crimson_jobfish",
+    "area_code": "Main_Hawaiian_Islands"
+  },
+  {
+    "species": "Darkblotched rockfish",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.243999958,
+    "F_Fmsy": 0.425999999,
+    "species_code": "Darkblotched_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Dusky rockfish",
+    "area": "Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.79400003,
+    "F_Fmsy": 0.2980000079,
+    "species_code": "Dusky_rockfish",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Finetooth shark",
+    "area": "Atlantic and Gulf of Mexico",
+    "year": 2007,
+    "B_Bmsy": 1.299999952,
+    "F_Fmsy": 0.1000000015,
+    "species_code": "Finetooth_shark",
+    "area_code": "Atlantic_and_Gulf_of_Mexico"
+  },
+  {
+    "species": "Flathead sole",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 2.076999903,
+    "F_Fmsy": 0.03500000015,
+    "species_code": "Flathead_sole",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Flathead sole",
+    "area": "Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 2.676000118,
+    "F_Fmsy": 0.04199999943,
+    "species_code": "Flathead_sole",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Gag",
+    "area": "Gulf of Mexico",
+    "year": 2021,
+    "B_Bmsy": 0.07999999821,
+    "F_Fmsy": 2.78399992,
+    "species_code": "Gag",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Gag",
+    "area": "Southern Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.150000006,
+    "F_Fmsy": 2.147000074,
+    "species_code": "Gag",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Gray snapper",
+    "area": "Gulf of Mexico",
+    "year": 2018,
+    "B_Bmsy": 0.7039999962,
+    "F_Fmsy": 1.200000048,
+    "species_code": "Gray_snapper",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Gray triggerfish",
+    "area": "Gulf of Mexico",
+    "year": 2020,
+    "B_Bmsy": 0.5799999833,
+    "F_Fmsy": 0.6209999919,
+    "species_code": "Gray_triggerfish",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Greater amberjack",
+    "area": "Gulf of Mexico",
+    "year": 2021,
+    "B_Bmsy": 0.3420000076,
+    "F_Fmsy": 1.725999951,
+    "species_code": "Greater_amberjack",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Greater amberjack",
+    "area": "Southern Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 2.101000071,
+    "F_Fmsy": 0.3950000107,
+    "species_code": "Greater_amberjack",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Green jobfish",
+    "area": "Main Hawaiian Islands",
+    "year": 2020,
+    "B_Bmsy": 2.451999903,
+    "F_Fmsy": 0.57099998,
+    "species_code": "Green_jobfish",
+    "area_code": "Main_Hawaiian_Islands"
+  },
+  {
+    "species": "Greenland halibut",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.697000027,
+    "F_Fmsy": 0.3300000131,
+    "species_code": "Greenland_halibut",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Greenspotted rockfish",
+    "area": "Pacific Coast",
+    "year": 2011,
+    "B_Bmsy": 0.8629999757,
+    "F_Fmsy": 0.07100000232,
+    "species_code": "Greenspotted_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Greenstriped rockfish",
+    "area": "Pacific Coast",
+    "year": 2009,
+    "B_Bmsy": 2.023000002,
+    "F_Fmsy": 0.01600000076,
+    "species_code": "Greenstriped_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Hogfish",
+    "area": "Eastern Gulf of Mexico",
+    "year": 2018,
+    "B_Bmsy": 2.358999968,
+    "F_Fmsy": 0.5099999905,
+    "species_code": "Hogfish",
+    "area_code": "Eastern_Gulf_of_Mexico"
+  },
+  {
+    "species": "Hogfish",
+    "area": "Florida Keys/East Florida",
+    "year": 2014,
+    "B_Bmsy": 0.3829999864,
+    "F_Fmsy": 1.593999982,
+    "species_code": "Hogfish",
+    "area_code": "Florida_Keys/East_Florida"
+  },
+  {
+    "species": "Kamchatka flounder",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.52699995,
+    "F_Fmsy": 0.699000001,
+    "species_code": "Kamchatka_flounder",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Kelp greenling",
+    "area": "Oregon",
+    "year": 2015,
+    "B_Bmsy": 1.99000001,
+    "F_Fmsy": 0.2099999934,
+    "species_code": "Kelp_greenling",
+    "area_code": "Oregon"
+  },
+  {
+    "species": "King mackerel",
+    "area": "Gulf of Mexico",
+    "year": 2020,
+    "B_Bmsy": 0.9219999909,
+    "F_Fmsy": 0.824000001,
+    "species_code": "King_mackerel",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "King mackerel",
+    "area": "Southern Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 1.735000014,
+    "F_Fmsy": 0.2899999917,
+    "species_code": "King_mackerel",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Lingcod",
+    "area": "Northern Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.603999972,
+    "F_Fmsy": 0.2619999945,
+    "species_code": "Lingcod",
+    "area_code": "Northern_Pacific_Coast"
+  },
+  {
+    "species": "Lingcod",
+    "area": "Southern Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 0.9850000143,
+    "F_Fmsy": 0.351000011,
+    "species_code": "Lingcod",
+    "area_code": "Southern_Pacific_Coast"
+  },
+  {
+    "species": "Longnose skate",
+    "area": "Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 2.825000048,
+    "F_Fmsy": 0.4779999852,
+    "species_code": "Longnose_skate",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Longspine thornyhead",
+    "area": "Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 1.81400001,
+    "F_Fmsy": 0.1379999965,
+    "species_code": "Longspine_thornyhead",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Mutton snapper",
+    "area": "Southern Atlantic Coast/Gulf of Mexico",
+    "year": 2015,
+    "B_Bmsy": 1.131999969,
+    "F_Fmsy": 0.6499999762,
+    "species_code": "Mutton_snapper",
+    "area_code": "Southern_Atlantic_Coast/Gulf_of_Mexico"
+  },
+  {
+    "species": "Northern rock sole",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.674000025,
+    "F_Fmsy": 0.4339999855,
+    "species_code": "Northern_rock_sole",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Northern rock sole",
+    "area": "Central Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.437999964,
+    "F_Fmsy": 0.3959999979,
+    "species_code": "Northern_rock_sole",
+    "area_code": "Central_Gulf_of_Alaska"
+  },
+  {
+    "species": "Northern rock sole",
+    "area": "Gulf of Alaska",
+    "year": 2020,
+    "B_Bmsy": 2.325999975,
+    "F_Fmsy": 0.07400000095,
+    "species_code": "Northern_rock_sole",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Northern rock sole",
+    "area": "Western Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 2.397000074,
+    "F_Fmsy": 0.007000000216,
+    "species_code": "Northern_rock_sole",
+    "area_code": "Western_Gulf_of_Alaska"
+  },
+  {
+    "species": "Northern rockfish",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 2.095000029,
+    "F_Fmsy": 0.3289999962,
+    "species_code": "Northern_rockfish",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Northern rockfish",
+    "area": "Western/Central Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.432999969,
+    "F_Fmsy": 0.4250000119,
+    "species_code": "Northern_rockfish",
+    "area_code": "Western/Central_Gulf_of_Alaska"
+  },
+  {
+    "species": "Ocean pout",
+    "area": "Northwestern Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 0.03299999982,
+    "F_Fmsy": 0.6380000114,
+    "species_code": "Ocean_pout",
+    "area_code": "Northwestern_Atlantic_Coast"
+  },
+  {
+    "species": "Ocean quahog",
+    "area": "Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 1.080000043,
+    "F_Fmsy": 0.2630000114,
+    "species_code": "Ocean_quahog",
+    "area_code": "Atlantic_Coast"
+  },
+  {
+    "species": "Pacific bluefin tuna",
+    "area": "Pacific",
+    "year": 2020,
+    "B_Bmsy": 0.2099999934,
+    "F_Fmsy": 1.090000033,
+    "species_code": "Pacific_bluefin_tuna",
+    "area_code": "Pacific"
+  },
+  {
+    "species": "Pacific cod",
+    "area": "Bering Sea",
+    "year": 2021,
+    "B_Bmsy": 1.059999943,
+    "F_Fmsy": 0.6679999828,
+    "species_code": "Pacific_cod",
+    "area_code": "Bering_Sea"
+  },
+  {
+    "species": "Pacific cod",
+    "area": "Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 0.7969999909,
+    "F_Fmsy": 0.1140000001,
+    "species_code": "Pacific_cod",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Pacific hake",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.480000019,
+    "F_Fmsy": 0.6579999924,
+    "species_code": "Pacific_hake",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Pacific ocean perch",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.582999945,
+    "F_Fmsy": 0.8759999871,
+    "species_code": "Pacific_ocean_perch",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Pacific ocean perch",
+    "area": "Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.914000034,
+    "F_Fmsy": 0.5199999809,
+    "species_code": "Pacific_ocean_perch",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Pacific ocean perch",
+    "area": "Pacific Coast",
+    "year": 2017,
+    "B_Bmsy": 1.916000009,
+    "F_Fmsy": 0.02600000054,
+    "species_code": "Pacific_ocean_perch",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Petrale sole",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.491000056,
+    "F_Fmsy": 0.7089999914,
+    "species_code": "Petrale_sole",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Pollock",
+    "area": "Gulf of Maine/Georges Bank",
+    "year": 2019,
+    "B_Bmsy": 1.703999996,
+    "F_Fmsy": 0.1400000006,
+    "species_code": "Pollock",
+    "area_code": "Gulf_of_Maine/Georges_Bank"
+  },
+  {
+    "species": "Porbeagle",
+    "area": "Northwestern Atlantic",
+    "year": 2021,
+    "B_Bmsy": 0.5699999928,
+    "F_Fmsy": 0.4129999876,
+    "species_code": "Porbeagle",
+    "area_code": "Northwestern_Atlantic"
+  },
+  {
+    "species": "Quillback rockfish",
+    "area": "California",
+    "year": 2021,
+    "B_Bmsy": 0.3519999981,
+    "F_Fmsy": 1.700000048,
+    "species_code": "Quillback_rockfish",
+    "area_code": "California"
+  },
+  {
+    "species": "Quillback rockfish",
+    "area": "Oregon",
+    "year": 2021,
+    "B_Bmsy": 1.047999978,
+    "F_Fmsy": 1.519999981,
+    "species_code": "Quillback_rockfish",
+    "area_code": "Oregon"
+  },
+  {
+    "species": "Quillback rockfish",
+    "area": "Washington",
+    "year": 2021,
+    "B_Bmsy": 0.9649999738,
+    "F_Fmsy": 0.9200000167,
+    "species_code": "Quillback_rockfish",
+    "area_code": "Washington"
+  },
+  {
+    "species": "Red grouper",
+    "area": "Gulf of Mexico",
+    "year": 2021,
+    "B_Bmsy": 0.8199999928,
+    "F_Fmsy": 0.7839999795,
+    "species_code": "Red_grouper",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Red grouper",
+    "area": "Southern Atlantic Coast",
+    "year": 2017,
+    "B_Bmsy": 0.2860000134,
+    "F_Fmsy": 1.539999962,
+    "species_code": "Red_grouper",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Red king crab",
+    "area": "Bristol Bay",
+    "year": 2021,
+    "B_Bmsy": 0.5770000219,
+    "F_Fmsy": 0.7340000272,
+    "species_code": "Red_king_crab",
+    "area_code": "Bristol_Bay"
+  },
+  {
+    "species": "Red porgy",
+    "area": "Southern Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 0.2700000107,
+    "F_Fmsy": 1.73300004,
+    "species_code": "Red_porgy",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Red snapper",
+    "area": "Gulf of Mexico",
+    "year": 2021,
+    "B_Bmsy": 0.6999999881,
+    "F_Fmsy": 0.8230000138,
+    "species_code": "Red_snapper",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Red snapper",
+    "area": "Southern Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.4399999976,
+    "F_Fmsy": 2.200000048,
+    "species_code": "Red_snapper",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Rex sole",
+    "area": "Gulf of Alaska",
+    "year": 2016,
+    "B_Bmsy": 2.082000017,
+    "F_Fmsy": 0.1620000005,
+    "species_code": "Rex_sole",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Rock sole",
+    "area": "Central Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.860999942,
+    "F_Fmsy": 0.2759999931,
+    "species_code": "Rock_sole",
+    "area_code": "Central_Gulf_of_Alaska"
+  },
+  {
+    "species": "Rock sole",
+    "area": "Gulf of Alaska",
+    "year": 2020,
+    "B_Bmsy": 2.323999882,
+    "F_Fmsy": 0.05200000107,
+    "species_code": "Rock_sole",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Rock sole",
+    "area": "Western Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 2.190999985,
+    "F_Fmsy": 0.003000000026,
+    "species_code": "Rock_sole",
+    "area_code": "Western_Gulf_of_Alaska"
+  },
+  {
+    "species": "Rougheye rockfish",
+    "area": "Gulf of Alaska",
+    "year": 2007,
+    "B_Bmsy": 1.60800004,
+    "F_Fmsy": 0.2969999909,
+    "species_code": "Rougheye_rockfish",
+    "area_code": "Gulf_of_Alaska"
+  },
+  {
+    "species": "Sablefish",
+    "area": "Eastern Bering Sea/Aleutian Islands/Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.039000034,
+    "F_Fmsy": 0.6150000095,
+    "species_code": "Sablefish",
+    "area_code": "Eastern_Bering_Sea/Aleutian_Islands/Gulf_of_Alaska"
+  },
+  {
+    "species": "Sablefish",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.343999982,
+    "F_Fmsy": 0.4040000141,
+    "species_code": "Sablefish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Sandbar shark",
+    "area": "Atlantic and Gulf of Mexico",
+    "year": 2018,
+    "B_Bmsy": 0.773999989,
+    "F_Fmsy": 0.57099998,
+    "species_code": "Sandbar_shark",
+    "area_code": "Atlantic_and_Gulf_of_Mexico"
+  },
+  {
+    "species": "Scalloped hammerhead",
+    "area": "Atlantic and Gulf of Mexico",
+    "year": 2009,
+    "B_Bmsy": 0.4499999881,
+    "F_Fmsy": 1.289999962,
+    "species_code": "Scalloped_hammerhead",
+    "area_code": "Atlantic_and_Gulf_of_Mexico"
+  },
+  {
+    "species": "Scup",
+    "area": "Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 1.960000038,
+    "F_Fmsy": 0.6800000072,
+    "species_code": "Scup",
+    "area_code": "Atlantic_Coast"
+  },
+  {
+    "species": "Sea scallop",
+    "area": "Northwestern Atlantic Coast",
+    "year": 2020,
+    "B_Bmsy": 1.432999969,
+    "F_Fmsy": 0.5569999814,
+    "species_code": "Sea_scallop",
+    "area_code": "Northwestern_Atlantic_Coast"
+  },
+  {
+    "species": "Sharpchin rockfish",
+    "area": "Pacific Coast",
+    "year": 2013,
+    "B_Bmsy": 1.700000048,
+    "F_Fmsy": 0.06100000069,
+    "species_code": "Sharpchin_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Shortbelly rockfish",
+    "area": "Pacific Coast",
+    "year": 2007,
+    "B_Bmsy": 1.667000055,
+    "F_Fmsy": 0,
+    "species_code": "Shortbelly_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Shortfin mako",
+    "area": "North Pacific",
+    "year": 2018,
+    "B_Bmsy": 1.356999993,
+    "F_Fmsy": 0.6150000095,
+    "species_code": "Shortfin_mako",
+    "area_code": "North_Pacific"
+  },
+  {
+    "species": "Shortspine thornyhead",
+    "area": "Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 1.832000017,
+    "F_Fmsy": 0.3600000143,
+    "species_code": "Shortspine_thornyhead",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Silky shark",
+    "area": "Western and Central Pacific",
+    "year": 2018,
+    "B_Bmsy": 1.177999973,
+    "F_Fmsy": 1.605000019,
+    "species_code": "Silky_shark",
+    "area_code": "Western_and_Central_Pacific"
+  },
+  {
+    "species": "Silver hake",
+    "area": "Gulf of Maine/Northern Georges Bank",
+    "year": 2020,
+    "B_Bmsy": 2.240999937,
+    "F_Fmsy": 0.0540000014,
+    "species_code": "Silver_hake",
+    "area_code": "Gulf_of_Maine/Northern_Georges_Bank"
+  },
+  {
+    "species": "Silver hake",
+    "area": "Southern Georges Bank/Mid-Atlantic",
+    "year": 2020,
+    "B_Bmsy": 1.30400002,
+    "F_Fmsy": 0.05600000173,
+    "species_code": "Silver_hake",
+    "area_code": "Southern_Georges_Bank/Mid-Atlantic"
+  },
+  {
+    "species": "Skipjack tuna",
+    "area": "Western Atlantic",
+    "year": 2014,
+    "B_Bmsy": 1.299999952,
+    "F_Fmsy": 0.6999999881,
+    "species_code": "Skipjack_tuna",
+    "area_code": "Western_Atlantic"
+  },
+  {
+    "species": "Skipjack tuna",
+    "area": "Western and Central Pacific",
+    "year": 2019,
+    "B_Bmsy": 0.8790000081,
+    "F_Fmsy": 0.4440000057,
+    "species_code": "Skipjack_tuna",
+    "area_code": "Western_and_Central_Pacific"
+  },
+  {
+    "species": "Smooth dogfish",
+    "area": "Atlantic",
+    "year": 2015,
+    "B_Bmsy": 2.286000013,
+    "F_Fmsy": 0.7910000086,
+    "species_code": "Smooth_dogfish",
+    "area_code": "Atlantic"
+  },
+  {
+    "species": "Snow crab",
+    "area": "Bering Sea",
+    "year": 2021,
+    "B_Bmsy": 0.173999995,
+    "F_Fmsy": 0.275000006,
+    "species_code": "Snow_crab",
+    "area_code": "Bering_Sea"
+  },
+  {
+    "species": "Snowy grouper",
+    "area": "Southern Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.3619999886,
+    "F_Fmsy": 1.128999949,
+    "species_code": "Snowy_grouper",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Southern Tanner crab",
+    "area": "Bering Sea",
+    "year": 2021,
+    "B_Bmsy": 1.184000015,
+    "F_Fmsy": 0.01899999939,
+    "species_code": "Southern_Tanner_crab",
+    "area_code": "Bering_Sea"
+  },
+  {
+    "species": "Spanish mackerel",
+    "area": "Gulf of Mexico",
+    "year": 2013,
+    "B_Bmsy": 1.838000059,
+    "F_Fmsy": 0.3610000014,
+    "species_code": "Spanish_mackerel",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Spanish mackerel",
+    "area": "Southern Atlantic Coast",
+    "year": 2013,
+    "B_Bmsy": 1.488999963,
+    "F_Fmsy": 0.5220000148,
+    "species_code": "Spanish_mackerel",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Spanner crab",
+    "area": "Main Hawaiian Islands",
+    "year": 2019,
+    "B_Bmsy": 1.381999969,
+    "F_Fmsy": 0.07299999893,
+    "species_code": "Spanner_crab",
+    "area_code": "Main_Hawaiian_Islands"
+  },
+  {
+    "species": "Spiny dogfish",
+    "area": "Atlantic Coast",
+    "year": 2018,
+    "B_Bmsy": 0.6700000167,
+    "F_Fmsy": 0.8280000091,
+    "species_code": "Spiny_dogfish",
+    "area_code": "Atlantic_Coast"
+  },
+  {
+    "species": "Spiny dogfish",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 1.044999957,
+    "F_Fmsy": 0.4320000112,
+    "species_code": "Spiny_dogfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Splitnose rockfish",
+    "area": "Pacific Coast",
+    "year": 2009,
+    "B_Bmsy": 1.639000058,
+    "F_Fmsy": 0.1299999952,
+    "species_code": "Splitnose_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Squarespot rockfish",
+    "area": "Pacific Coast",
+    "year": 2021,
+    "B_Bmsy": 0.9359999895,
+    "F_Fmsy": 0.3880000114,
+    "species_code": "Squarespot_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Striped marlin",
+    "area": "Eastern Pacific",
+    "year": 2010,
+    "B_Bmsy": 1.194000006,
+    "F_Fmsy": 0.3589999974,
+    "species_code": "Striped_marlin",
+    "area_code": "Eastern_Pacific"
+  },
+  {
+    "species": "Striped marlin",
+    "area": "Western and Central North Pacific",
+    "year": 2019,
+    "B_Bmsy": 0.3959999979,
+    "F_Fmsy": 0.9129999876,
+    "species_code": "Striped_marlin",
+    "area_code": "Western_and_Central_North_Pacific"
+  },
+  {
+    "species": "Summer flounder",
+    "area": "Mid-Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.8579999804,
+    "F_Fmsy": 0.8059999943,
+    "species_code": "Summer_flounder",
+    "area_code": "Mid-Atlantic_Coast"
+  },
+  {
+    "species": "Swordfish",
+    "area": "Eastern Pacific",
+    "year": 2014,
+    "B_Bmsy": 1.879999995,
+    "F_Fmsy": 1.070000052,
+    "species_code": "Swordfish",
+    "area_code": "Eastern_Pacific"
+  },
+  {
+    "species": "Swordfish",
+    "area": "North Atlantic",
+    "year": 2017,
+    "B_Bmsy": 1.039999962,
+    "F_Fmsy": 0.7799999714,
+    "species_code": "Swordfish",
+    "area_code": "North_Atlantic"
+  },
+  {
+    "species": "Swordfish",
+    "area": "Western and Central North Pacific",
+    "year": 2018,
+    "B_Bmsy": 1.870000005,
+    "F_Fmsy": 0.4399999976,
+    "species_code": "Swordfish",
+    "area_code": "Western_and_Central_North_Pacific"
+  },
+  {
+    "species": "Thresher shark",
+    "area": "North Pacific",
+    "year": 2018,
+    "B_Bmsy": 1.34800005,
+    "F_Fmsy": 0.2099999934,
+    "species_code": "Thresher_shark",
+    "area_code": "North_Pacific"
+  },
+  {
+    "species": "Tilefish",
+    "area": "Mid-Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.9610000253,
+    "F_Fmsy": 0.6090000272,
+    "species_code": "Tilefish",
+    "area_code": "Mid-Atlantic_Coast"
+  },
+  {
+    "species": "Tilefish",
+    "area": "Southern Atlantic Coast",
+    "year": 2021,
+    "B_Bmsy": 0.9269999862,
+    "F_Fmsy": 0.9470000267,
+    "species_code": "Tilefish",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Vermilion rockfish",
+    "area": "Oregon",
+    "year": 2021,
+    "B_Bmsy": 1.825000048,
+    "F_Fmsy": 0.9399999976,
+    "species_code": "Vermilion_rockfish",
+    "area_code": "Oregon"
+  },
+  {
+    "species": "Vermilion rockfish",
+    "area": "Washington",
+    "year": 2021,
+    "B_Bmsy": 1.409000039,
+    "F_Fmsy": 0.8000000119,
+    "species_code": "Vermilion_rockfish",
+    "area_code": "Washington"
+  },
+  {
+    "species": "Vermilion snapper",
+    "area": "Gulf of Mexico",
+    "year": 2020,
+    "B_Bmsy": 1.748000026,
+    "F_Fmsy": 0.5559999943,
+    "species_code": "Vermilion_snapper",
+    "area_code": "Gulf_of_Mexico"
+  },
+  {
+    "species": "Vermilion snapper",
+    "area": "Southern Atlantic Coast",
+    "year": 2018,
+    "B_Bmsy": 1.131000042,
+    "F_Fmsy": 0.6100000143,
+    "species_code": "Vermilion_snapper",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Walleye pollock",
+    "area": "Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.388000011,
+    "F_Fmsy": 0.01799999923,
+    "species_code": "Walleye_pollock",
+    "area_code": "Aleutian_Islands"
+  },
+  {
+    "species": "Walleye pollock",
+    "area": "Eastern Bering Sea",
+    "year": 2021,
+    "B_Bmsy": 0.7960000038,
+    "F_Fmsy": 1.317000031,
+    "species_code": "Walleye_pollock",
+    "area_code": "Eastern_Bering_Sea"
+  },
+  {
+    "species": "Walleye pollock",
+    "area": "Western/Central/West Yakutat Gulf of Alaska",
+    "year": 2021,
+    "B_Bmsy": 1.309999943,
+    "F_Fmsy": 0.6610000134,
+    "species_code": "Walleye_pollock",
+    "area_code": "Western/Central/West_Yakutat_Gulf_of_Alaska"
+  },
+  {
+    "species": "White hake",
+    "area": "Gulf of Maine/Georges Bank",
+    "year": 2019,
+    "B_Bmsy": 0.4990000129,
+    "F_Fmsy": 0.7689999938,
+    "species_code": "White_hake",
+    "area_code": "Gulf_of_Maine/Georges_Bank"
+  },
+  {
+    "species": "Widow rockfish",
+    "area": "Pacific Coast",
+    "year": 2019,
+    "B_Bmsy": 2.299000025,
+    "F_Fmsy": 0.8539999723,
+    "species_code": "Widow_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Windowpane",
+    "area": "Southern New England/Mid-Atlantic",
+    "year": 2020,
+    "B_Bmsy": 1.5,
+    "F_Fmsy": 0.7480000257,
+    "species_code": "Windowpane",
+    "area_code": "Southern_New_England/Mid-Atlantic"
+  },
+  {
+    "species": "Winter flounder",
+    "area": "Georges Bank",
+    "year": 2020,
+    "B_Bmsy": 0.3560000062,
+    "F_Fmsy": 0.3720000088,
+    "species_code": "Winter_flounder",
+    "area_code": "Georges_Bank"
+  },
+  {
+    "species": "Winter flounder",
+    "area": "Southern New England/Mid-Atlantic",
+    "year": 2020,
+    "B_Bmsy": 0.2949999869,
+    "F_Fmsy": 0.2709999979,
+    "species_code": "Winter_flounder",
+    "area_code": "Southern_New_England/Mid-Atlantic"
+  },
+  {
+    "species": "Wreckfish",
+    "area": "Southern Atlantic Coast",
+    "year": 2014,
+    "B_Bmsy": 1.582999945,
+    "F_Fmsy": 0.5830000043,
+    "species_code": "Wreckfish",
+    "area_code": "Southern_Atlantic_Coast"
+  },
+  {
+    "species": "Yelloweye rockfish",
+    "area": "Pacific Coast",
+    "year": 2017,
+    "B_Bmsy": 0.7089999914,
+    "F_Fmsy": 0.1879999936,
+    "species_code": "Yelloweye_rockfish",
+    "area_code": "Pacific_Coast"
+  },
+  {
+    "species": "Yellowfin sole",
+    "area": "Bering Sea/Aleutian Islands",
+    "year": 2021,
+    "B_Bmsy": 1.899000049,
+    "F_Fmsy": 1.077999949,
+    "species_code": "Yellowfin_sole",
+    "area_code": "Bering_Sea/Aleutian_Islands"
+  },
+  {
+    "species": "Yellowfin tuna",
+    "area": "Atlantic",
+    "year": 2019,
+    "B_Bmsy": 1.169999957,
+    "F_Fmsy": 0.9599999785,
+    "species_code": "Yellowfin_tuna",
+    "area_code": "Atlantic"
+  },
+  {
+    "species": "Yellowfin tuna",
+    "area": "Eastern Pacific",
+    "year": 2020,
+    "B_Bmsy": 1.580000043,
+    "F_Fmsy": 0.6499999762,
+    "species_code": "Yellowfin_tuna",
+    "area_code": "Eastern_Pacific"
+  },
+  {
+    "species": "Yellowfin tuna",
+    "area": "Western and Central Pacific",
+    "year": 2014,
+    "B_Bmsy": 1.24000001,
+    "F_Fmsy": 0.7200000286,
+    "species_code": "Yellowfin_tuna",
+    "area_code": "Western_and_Central_Pacific"
+  },
+  {
+    "species": "Yellowtail flounder",
+    "area": "Cape Cod/Gulf of Maine",
+    "year": 2019,
+    "B_Bmsy": 0.6179999709,
+    "F_Fmsy": 0.2879999876,
+    "species_code": "Yellowtail_flounder",
+    "area_code": "Cape_Cod/Gulf_of_Maine"
+  },
+  {
+    "species": "Yellowtail flounder",
+    "area": "Southern New England/Mid-Atlantic",
+    "year": 2019,
+    "B_Bmsy": 0.05099999905,
+    "F_Fmsy": 0.7300000191,
+    "species_code": "Yellowtail_flounder",
+    "area_code": "Southern_New_England/Mid-Atlantic"
+  },
+  {
+    "species": "Yellowtail rockfish",
+    "area": "Northern Pacific Coast",
+    "year": 2017,
+    "B_Bmsy": 1.879999995,
+    "F_Fmsy": 0.2939999998,
+    "species_code": "Yellowtail_rockfish",
+    "area_code": "Northern_Pacific_Coast"
+  }
+]

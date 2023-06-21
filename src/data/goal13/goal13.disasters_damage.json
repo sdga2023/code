@@ -1,0 +1,716 @@
+[
+  {
+    "year": 1900,
+    "deaths": 1267300,
+    "victims": 1267300,
+    "damage": 974947
+  },
+  {
+    "year": 1902,
+    "deaths": 600,
+    "victims": 600,
+    "damage": 0
+  },
+  {
+    "year": 1903,
+    "deaths": 413,
+    "victims": 413,
+    "damage": 14443657
+  },
+  {
+    "year": 1904,
+    "deaths": 0,
+    "victims": 0,
+    "damage": 0
+  },
+  {
+    "year": 1905,
+    "deaths": 240,
+    "victims": 240,
+    "damage": 0
+  },
+  {
+    "year": 1906,
+    "deaths": 10304,
+    "victims": 10304,
+    "damage": 601819
+  },
+  {
+    "year": 1909,
+    "deaths": 838,
+    "victims": 838,
+    "damage": 0
+  },
+  {
+    "year": 1910,
+    "deaths": 86471,
+    "victims": 118471,
+    "damage": 0
+  },
+  {
+    "year": 1911,
+    "deaths": 101073,
+    "victims": 101273,
+    "damage": 580325
+  },
+  {
+    "year": 1912,
+    "deaths": 51170,
+    "victims": 148690,
+    "damage": 980550
+  },
+  {
+    "year": 1913,
+    "deaths": 732,
+    "victims": 732,
+    "damage": 5471082
+  },
+  {
+    "year": 1914,
+    "deaths": 0,
+    "victims": 0,
+    "damage": 0
+  },
+  {
+    "year": 1915,
+    "deaths": 2181,
+    "victims": 3002203,
+    "damage": 1603531
+  },
+  {
+    "year": 1916,
+    "deaths": 300,
+    "victims": 300,
+    "damage": 0
+  },
+  {
+    "year": 1917,
+    "deaths": 4057,
+    "victims": 639057,
+    "damage": 1055137
+  },
+  {
+    "year": 1918,
+    "deaths": 1034,
+    "victims": 1034,
+    "damage": 1797468
+  },
+  {
+    "year": 1919,
+    "deaths": 500,
+    "victims": 500,
+    "damage": 389854
+  },
+  {
+    "year": 1920,
+    "deaths": 524224,
+    "victims": 20524224,
+    "damage": 269919
+  },
+  {
+    "year": 1921,
+    "deaths": 1200000,
+    "victims": 6200000,
+    "damage": 0
+  },
+  {
+    "year": 1922,
+    "deaths": 100143,
+    "victims": 111143,
+    "damage": 129218
+  },
+  {
+    "year": 1923,
+    "deaths": 3339,
+    "victims": 29639,
+    "damage": 158683
+  },
+  {
+    "year": 1924,
+    "deaths": 2242,
+    "victims": 1002242,
+    "damage": 0
+  },
+  {
+    "year": 1925,
+    "deaths": 819,
+    "victims": 819,
+    "damage": 570415
+  },
+  {
+    "year": 1926,
+    "deaths": 4696,
+    "victims": 44696,
+    "damage": 1588259
+  },
+  {
+    "year": 1927,
+    "deaths": 9018,
+    "victims": 49028,
+    "damage": 345994
+  },
+  {
+    "year": 1928,
+    "deaths": 3004260,
+    "victims": 3012260,
+    "damage": 1180895
+  },
+  {
+    "year": 1929,
+    "deaths": 60,
+    "victims": 60,
+    "damage": 865990
+  },
+  {
+    "year": 1930,
+    "deaths": 4122,
+    "victims": 16122,
+    "damage": 647375
+  },
+  {
+    "year": 1931,
+    "deaths": 3703390,
+    "victims": 3728390,
+    "damage": 25022568
+  },
+  {
+    "year": 1932,
+    "deaths": 3274,
+    "victims": 5774,
+    "damage": 594480
+  },
+  {
+    "year": 1933,
+    "deaths": 18116,
+    "victims": 3618116,
+    "damage": 62657
+  },
+  {
+    "year": 1934,
+    "deaths": 5591,
+    "victims": 5591,
+    "damage": 1010517
+  },
+  {
+    "year": 1935,
+    "deaths": 204707,
+    "victims": 10235207,
+    "damage": 157759
+  },
+  {
+    "year": 1936,
+    "deaths": 5275,
+    "victims": 155275,
+    "damage": 409150
+  },
+  {
+    "year": 1937,
+    "deaths": 11479,
+    "victims": 11479,
+    "damage": 8237398
+  },
+  {
+    "year": 1938,
+    "deaths": 2059,
+    "victims": 2059,
+    "damage": 5877339
+  },
+  {
+    "year": 1939,
+    "deaths": 500084,
+    "victims": 503984,
+    "damage": 0
+  },
+  {
+    "year": 1940,
+    "deaths": 20248,
+    "victims": 22248,
+    "damage": 0
+  },
+  {
+    "year": 1941,
+    "deaths": 10146,
+    "victims": 10266,
+    "damage": 735254
+  },
+  {
+    "year": 1942,
+    "deaths": 1601000,
+    "victims": 1601000,
+    "damage": 0
+  },
+  {
+    "year": 1943,
+    "deaths": 1905990,
+    "victims": 1935990,
+    "damage": 14061733
+  },
+  {
+    "year": 1944,
+    "deaths": 896,
+    "victims": 14996,
+    "damage": 1535833
+  },
+  {
+    "year": 1945,
+    "deaths": 4415,
+    "victims": 1888087,
+    "damage": 6007066
+  },
+  {
+    "year": 1946,
+    "deaths": 30337,
+    "victims": 30337,
+    "damage": 6932
+  },
+  {
+    "year": 1947,
+    "deaths": 6738,
+    "victims": 6738,
+    "damage": 1574057
+  },
+  {
+    "year": 1948,
+    "deaths": 4413,
+    "victims": 418866,
+    "damage": 202551
+  },
+  {
+    "year": 1949,
+    "deaths": 111884,
+    "victims": 305930,
+    "damage": 170445
+  },
+  {
+    "year": 1950,
+    "deaths": 4811,
+    "victims": 10778928,
+    "damage": 2258693
+  },
+  {
+    "year": 1951,
+    "deaths": 8688,
+    "victims": 580922,
+    "damage": 15678833
+  },
+  {
+    "year": 1952,
+    "deaths": 6504,
+    "victims": 1007756,
+    "damage": 529419
+  },
+  {
+    "year": 1953,
+    "deaths": 9608,
+    "victims": 3200718,
+    "damage": 3809649
+  },
+  {
+    "year": 1954,
+    "deaths": 38491,
+    "victims": 341386,
+    "damage": 8869559
+  },
+  {
+    "year": 1955,
+    "deaths": 5064,
+    "victims": 380064,
+    "damage": 8875457
+  },
+  {
+    "year": 1956,
+    "deaths": 6974,
+    "victims": 1083974,
+    "damage": 0
+  },
+  {
+    "year": 1957,
+    "deaths": 3610,
+    "victims": 521961,
+    "damage": 1446887
+  },
+  {
+    "year": 1958,
+    "deaths": 3723,
+    "victims": 28723,
+    "damage": 4882618
+  },
+  {
+    "year": 1959,
+    "deaths": 2013139,
+    "victims": 3527739,
+    "damage": 6248569
+  },
+  {
+    "year": 1960,
+    "deaths": 19793,
+    "victims": 832170,
+    "damage": 4159978
+  },
+  {
+    "year": 1961,
+    "deaths": 17281,
+    "victims": 1330836,
+    "damage": 4354855
+  },
+  {
+    "year": 1962,
+    "deaths": 3161,
+    "victims": 43161,
+    "damage": 11636018
+  },
+  {
+    "year": 1963,
+    "deaths": 33191,
+    "victims": 6129201,
+    "damage": 7778183
+  },
+  {
+    "year": 1964,
+    "deaths": 11936,
+    "victims": 7781052,
+    "damage": 11290309
+  },
+  {
+    "year": 1965,
+    "deaths": 1563663,
+    "victims": 124247296,
+    "damage": 19948572
+  },
+  {
+    "year": 1966,
+    "deaths": 13141,
+    "victims": 11995458,
+    "damage": 20976857
+  },
+  {
+    "year": 1967,
+    "deaths": 5953,
+    "victims": 5948503,
+    "damage": 11736313
+  },
+  {
+    "year": 1968,
+    "deaths": 10336,
+    "victims": 26395456,
+    "damage": 4235299
+  },
+  {
+    "year": 1969,
+    "deaths": 4814,
+    "victims": 11771749,
+    "damage": 17247845
+  },
+  {
+    "year": 1970,
+    "deaths": 307969,
+    "victims": 44083227,
+    "damage": 17272579
+  },
+  {
+    "year": 1971,
+    "deaths": 14635,
+    "victims": 9130338,
+    "damage": 5811245
+  },
+  {
+    "year": 1972,
+    "deaths": 4840,
+    "victims": 216725593,
+    "damage": 20894014
+  },
+  {
+    "year": 1973,
+    "deaths": 129003,
+    "victims": 12237710,
+    "damage": 14535287
+  },
+  {
+    "year": 1974,
+    "deaths": 42196,
+    "victims": 44756362,
+    "damage": 21853553
+  },
+  {
+    "year": 1975,
+    "deaths": 22224,
+    "victims": 51106516,
+    "damage": 15839362
+  },
+  {
+    "year": 1976,
+    "deaths": 3038,
+    "victims": 21982926,
+    "damage": 18131648
+  },
+  {
+    "year": 1977,
+    "deaths": 17909,
+    "victims": 22664277,
+    "damage": 34398324
+  },
+  {
+    "year": 1978,
+    "deaths": 9874,
+    "victims": 52197523,
+    "damage": 20287032
+  },
+  {
+    "year": 1979,
+    "deaths": 4487,
+    "victims": 60669880,
+    "damage": 14878355
+  },
+  {
+    "year": 1980,
+    "deaths": 16534,
+    "victims": 91065730,
+    "damage": 21177912
+  },
+  {
+    "year": 1981,
+    "deaths": 110302,
+    "victims": 34439585,
+    "damage": 35420483
+  },
+  {
+    "year": 1982,
+    "deaths": 8765,
+    "victims": 167834604,
+    "damage": 25671759
+  },
+  {
+    "year": 1983,
+    "deaths": 457237,
+    "victims": 68330949,
+    "damage": 42251876
+  },
+  {
+    "year": 1984,
+    "deaths": 8563,
+    "victims": 62484009,
+    "damage": 24197748
+  },
+  {
+    "year": 1985,
+    "deaths": 22425,
+    "victims": 24275239,
+    "damage": 26463170
+  },
+  {
+    "year": 1986,
+    "deaths": 4376,
+    "victims": 30666491,
+    "damage": 27422483
+  },
+  {
+    "year": 1987,
+    "deaths": 13598,
+    "victims": 373209701,
+    "damage": 30621519
+  },
+  {
+    "year": 1988,
+    "deaths": 15035,
+    "victims": 183248881,
+    "damage": 27299120
+  },
+  {
+    "year": 1989,
+    "deaths": 10042,
+    "victims": 172346580,
+    "damage": 44931721
+  },
+  {
+    "year": 1990,
+    "deaths": 7975,
+    "victims": 93212646,
+    "damage": 83339431
+  },
+  {
+    "year": 1991,
+    "deaths": 155802,
+    "victims": 270450224,
+    "damage": 70502109
+  },
+  {
+    "year": 1992,
+    "deaths": 7881,
+    "victims": 66338292,
+    "damage": 101256877
+  },
+  {
+    "year": 1993,
+    "deaths": 10802,
+    "victims": 171008584,
+    "damage": 92328546
+  },
+  {
+    "year": 1994,
+    "deaths": 11742,
+    "victims": 266334700,
+    "damage": 74001180
+  },
+  {
+    "year": 1995,
+    "deaths": 14991,
+    "victims": 220335364,
+    "damage": 95215222
+  },
+  {
+    "year": 1996,
+    "deaths": 14128,
+    "victims": 215427544,
+    "damage": 73818881
+  },
+  {
+    "year": 1997,
+    "deaths": 16238,
+    "victims": 67124990,
+    "damage": 59576930
+  },
+  {
+    "year": 1998,
+    "deaths": 40168,
+    "victims": 339194425,
+    "damage": 141638396
+  },
+  {
+    "year": 1999,
+    "deaths": 48745,
+    "victims": 277333578,
+    "damage": 114741095
+  },
+  {
+    "year": 2000,
+    "deaths": 9431,
+    "victims": 167358151,
+    "damage": 72068690
+  },
+  {
+    "year": 2001,
+    "deaths": 9606,
+    "victims": 99418464,
+    "damage": 30139362
+  },
+  {
+    "year": 2002,
+    "deaths": 10609,
+    "victims": 656329799,
+    "damage": 74629363
+  },
+  {
+    "year": 2003,
+    "deaths": 80419,
+    "victims": 250815504,
+    "damage": 90711301
+  },
+  {
+    "year": 2004,
+    "deaths": 14191,
+    "victims": 158532245,
+    "damage": 140027877
+  },
+  {
+    "year": 2005,
+    "deaths": 14478,
+    "victims": 153796822,
+    "damage": 289296760
+  },
+  {
+    "year": 2006,
+    "deaths": 15706,
+    "victims": 121725820,
+    "damage": 39684044
+  },
+  {
+    "year": 2007,
+    "deaths": 16114,
+    "victims": 210942711,
+    "damage": 77656847
+  },
+  {
+    "year": 2008,
+    "deaths": 147330,
+    "victims": 174012886,
+    "damage": 132242807
+  },
+  {
+    "year": 2009,
+    "deaths": 9261,
+    "victims": 197534947,
+    "damage": 51460496
+  },
+  {
+    "year": 2010,
+    "deaths": 90601,
+    "victims": 259526864,
+    "damage": 105494006
+  },
+  {
+    "year": 2011,
+    "deaths": 10020,
+    "victims": 207249130,
+    "damage": 161049283
+  },
+  {
+    "year": 2012,
+    "deaths": 9054,
+    "victims": 113258776,
+    "damage": 163123253
+  },
+  {
+    "year": 2013,
+    "deaths": 20459,
+    "victims": 91577138,
+    "damage": 129664059
+  },
+  {
+    "year": 2014,
+    "deaths": 7112,
+    "victims": 138489791,
+    "damage": 103970661
+  },
+  {
+    "year": 2015,
+    "deaths": 13311,
+    "victims": 422788070,
+    "damage": 92615323
+  },
+  {
+    "year": 2016,
+    "deaths": 7045,
+    "victims": 204125296,
+    "damage": 129816570
+  },
+  {
+    "year": 2017,
+    "deaths": 8746,
+    "victims": 101713164,
+    "damage": 350470494
+  },
+  {
+    "year": 2018,
+    "deaths": 5789,
+    "victims": 78561974,
+    "damage": 135541279
+  },
+  {
+    "year": 2019,
+    "deaths": 11661,
+    "victims": 106040277,
+    "damage": 104432581
+  },
+  {
+    "year": 2020,
+    "deaths": 14920,
+    "victims": 97646163,
+    "damage": 165895326
+  },
+  {
+    "year": 2021,
+    "deaths": 7705,
+    "victims": 110784142,
+    "damage": 245289665
+  }
+]

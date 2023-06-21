@@ -1,0 +1,462 @@
+[
+  {
+    "SUM of counts": "iso3_code",
+    "": null,
+    "year": 2019
+  },
+  {
+    "SUM of counts": "ALB",
+    "": null,
+    "year": 65
+  },
+  {
+    "SUM of counts": "ARG",
+    "": null,
+    "year": 2303
+  },
+  {
+    "SUM of counts": "ARM",
+    "": null,
+    "year": 73
+  },
+  {
+    "SUM of counts": "ATG",
+    "": null,
+    "year": 3
+  },
+  {
+    "SUM of counts": "AUS",
+    "": null,
+    "year": 225
+  },
+  {
+    "SUM of counts": "AUT",
+    "": null,
+    "year": 77
+  },
+  {
+    "SUM of counts": "AZE",
+    "": null,
+    "year": 168
+  },
+  {
+    "SUM of counts": "BGR",
+    "": null,
+    "year": 83
+  },
+  {
+    "SUM of counts": "BHS",
+    "": null,
+    "year": 95
+  },
+  {
+    "SUM of counts": "BIH",
+    "": null,
+    "year": 42
+  },
+  {
+    "SUM of counts": "BLZ",
+    "": null,
+    "year": 134
+  },
+  {
+    "SUM of counts": "BRA",
+    "": null,
+    "year": 44073
+  },
+  {
+    "SUM of counts": "BRB",
+    "": null,
+    "year": 48
+  },
+  {
+    "SUM of counts": "BTN",
+    "": null,
+    "year": 8
+  },
+  {
+    "SUM of counts": "CAN",
+    "": null,
+    "year": 687
+  },
+  {
+    "SUM of counts": "CHE",
+    "": null,
+    "year": 46
+  },
+  {
+    "SUM of counts": "CHL",
+    "": null,
+    "year": 751
+  },
+  {
+    "SUM of counts": "COL",
+    "": null,
+    "year": 12080
+  },
+  {
+    "SUM of counts": "CPV",
+    "": null,
+    "year": 34
+  },
+  {
+    "SUM of counts": "CRI",
+    "": null,
+    "year": 563
+  },
+  {
+    "SUM of counts": "CYP",
+    "": null,
+    "year": 15
+  },
+  {
+    "SUM of counts": "CZE",
+    "": null,
+    "year": 97
+  },
+  {
+    "SUM of counts": "DEU",
+    "": null,
+    "year": 623
+  },
+  {
+    "SUM of counts": "DMA",
+    "": null,
+    "year": 13
+  },
+  {
+    "SUM of counts": "DNK",
+    "": null,
+    "year": 66
+  },
+  {
+    "SUM of counts": "DOM",
+    "": null,
+    "year": 1026
+  },
+  {
+    "SUM of counts": "DZA",
+    "": null,
+    "year": 571
+  },
+  {
+    "SUM of counts": "ECU",
+    "": null,
+    "year": 1187
+  },
+  {
+    "SUM of counts": "ESP",
+    "": null,
+    "year": 333
+  },
+  {
+    "SUM of counts": "EST",
+    "": null,
+    "year": 23
+  },
+  {
+    "SUM of counts": "FIN",
+    "": null,
+    "year": 88
+  },
+  {
+    "SUM of counts": "FRA",
+    "": null,
+    "year": 861
+  },
+  {
+    "SUM of counts": "GRC",
+    "": null,
+    "year": 78
+  },
+  {
+    "SUM of counts": "GRD",
+    "": null,
+    "year": 16
+  },
+  {
+    "SUM of counts": "GTM",
+    "": null,
+    "year": 4387
+  },
+  {
+    "SUM of counts": "GUY",
+    "": null,
+    "year": 136
+  },
+  {
+    "SUM of counts": "HKG",
+    "": null,
+    "year": 24
+  },
+  {
+    "SUM of counts": "HND",
+    "": null,
+    "year": 4094
+  },
+  {
+    "SUM of counts": "HRV",
+    "": null,
+    "year": 33
+  },
+  {
+    "SUM of counts": "HUN",
+    "": null,
+    "year": 64
+  },
+  {
+    "SUM of counts": "IND",
+    "": null,
+    "year": 40479
+  },
+  {
+    "SUM of counts": "IRL",
+    "": null,
+    "year": 34
+  },
+  {
+    "SUM of counts": "ISL",
+    "": null,
+    "year": 1
+  },
+  {
+    "SUM of counts": "ITA",
+    "": null,
+    "year": 317
+  },
+  {
+    "SUM of counts": "JAM",
+    "": null,
+    "year": 1340
+  },
+  {
+    "SUM of counts": "JOR",
+    "": null,
+    "year": 115
+  },
+  {
+    "SUM of counts": "JPN",
+    "": null,
+    "year": 319
+  },
+  {
+    "SUM of counts": "KEN",
+    "": null,
+    "year": 1576
+  },
+  {
+    "SUM of counts": "KGZ",
+    "": null,
+    "year": 141
+  },
+  {
+    "SUM of counts": "KNA",
+    "": null,
+    "year": 12
+  },
+  {
+    "SUM of counts": "KOR",
+    "": null,
+    "year": 297
+  },
+  {
+    "SUM of counts": "LBN",
+    "": null,
+    "year": 182
+  },
+  {
+    "SUM of counts": "LCA",
+    "": null,
+    "year": 46
+  },
+  {
+    "SUM of counts": "LIE",
+    "": null,
+    "year": 1
+  },
+  {
+    "SUM of counts": "LTU",
+    "": null,
+    "year": 94
+  },
+  {
+    "SUM of counts": "LUX",
+    "": null,
+    "year": 4
+  },
+  {
+    "SUM of counts": "LVA",
+    "": null,
+    "year": 75
+  },
+  {
+    "SUM of counts": "MAC",
+    "": null,
+    "year": 2
+  },
+  {
+    "SUM of counts": "MAR",
+    "": null,
+    "year": 627
+  },
+  {
+    "SUM of counts": "MDA",
+    "": null,
+    "year": 121
+  },
+  {
+    "SUM of counts": "MEX",
+    "": null,
+    "year": 36661
+  },
+  {
+    "SUM of counts": "MLT",
+    "": null,
+    "year": 5
+  },
+  {
+    "SUM of counts": "MNE",
+    "": null,
+    "year": 23
+  },
+  {
+    "SUM of counts": "MNG",
+    "": null,
+    "year": 205
+  },
+  {
+    "SUM of counts": "MUS",
+    "": null,
+    "year": 27
+  },
+  {
+    "SUM of counts": "NLD",
+    "": null,
+    "year": 109
+  },
+  {
+    "SUM of counts": "NOR",
+    "": null,
+    "year": 28
+  },
+  {
+    "SUM of counts": "OMN",
+    "": null,
+    "year": 23
+  },
+  {
+    "SUM of counts": "PAK",
+    "": null,
+    "year": 8153
+  },
+  {
+    "SUM of counts": "PAN",
+    "": null,
+    "year": 447
+  },
+  {
+    "SUM of counts": "POL",
+    "": null,
+    "year": 253
+  },
+  {
+    "SUM of counts": "PRI",
+    "": null,
+    "year": 606
+  },
+  {
+    "SUM of counts": "PRT",
+    "": null,
+    "year": 89
+  },
+  {
+    "SUM of counts": "PRY",
+    "": null,
+    "year": 554
+  },
+  {
+    "SUM of counts": "PSE",
+    "": null,
+    "year": 35
+  },
+  {
+    "SUM of counts": "QAT",
+    "": null,
+    "year": 11
+  },
+  {
+    "SUM of counts": "ROU",
+    "": null,
+    "year": 244
+  },
+  {
+    "SUM of counts": "RUS",
+    "": null,
+    "year": 11202
+  },
+  {
+    "SUM of counts": "SGP",
+    "": null,
+    "year": 12
+  },
+  {
+    "SUM of counts": "SRB",
+    "": null,
+    "year": 90
+  },
+  {
+    "SUM of counts": "SUR",
+    "": null,
+    "year": 30
+  },
+  {
+    "SUM of counts": "SVK",
+    "": null,
+    "year": 76
+  },
+  {
+    "SUM of counts": "SVN",
+    "": null,
+    "year": 10
+  },
+  {
+    "SUM of counts": "SWE",
+    "": null,
+    "year": 111
+  },
+  {
+    "SUM of counts": "TUN",
+    "": null,
+    "year": 571
+  },
+  {
+    "SUM of counts": "TUR",
+    "": null,
+    "year": 2006
+  },
+  {
+    "SUM of counts": "UGA",
+    "": null,
+    "year": 4718
+  },
+  {
+    "SUM of counts": "URY",
+    "": null,
+    "year": 393
+  },
+  {
+    "SUM of counts": "USA",
+    "": null,
+    "year": 16669
+  },
+  {
+    "SUM of counts": "VUT",
+    "": null,
+    "year": 2
+  },
+  {
+    "SUM of counts": "ZAF",
+    "": null,
+    "year": 21325
+  }
+]

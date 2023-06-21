@@ -1,0 +1,1262 @@
+[
+  {
+    "year": 1970,
+    "type": "drought",
+    "number": 2
+  },
+  {
+    "year": 1970,
+    "type": "flood",
+    "number": 31
+  },
+  {
+    "year": 1970,
+    "type": "storm",
+    "number": 24
+  },
+  {
+    "year": 1970,
+    "type": "wildfire",
+    "number": 1
+  },
+  {
+    "year": 1971,
+    "type": "drought",
+    "number": 6
+  },
+  {
+    "year": 1971,
+    "type": "temperature",
+    "number": 1
+  },
+  {
+    "year": 1971,
+    "type": "flood",
+    "number": 15
+  },
+  {
+    "year": 1971,
+    "type": "storm",
+    "number": 22
+  },
+  {
+    "year": 1972,
+    "type": "drought",
+    "number": 4
+  },
+  {
+    "year": 1972,
+    "type": "temperature",
+    "number": 2
+  },
+  {
+    "year": 1972,
+    "type": "flood",
+    "number": 15
+  },
+  {
+    "year": 1972,
+    "type": "storm",
+    "number": 26
+  },
+  {
+    "year": 1973,
+    "type": "drought",
+    "number": 3
+  },
+  {
+    "year": 1973,
+    "type": "temperature",
+    "number": 3
+  },
+  {
+    "year": 1973,
+    "type": "flood",
+    "number": 20
+  },
+  {
+    "year": 1973,
+    "type": "storm",
+    "number": 22
+  },
+  {
+    "year": 1973,
+    "type": "wildfire",
+    "number": 2
+  },
+  {
+    "year": 1974,
+    "type": "drought",
+    "number": 3
+  },
+  {
+    "year": 1974,
+    "type": "flood",
+    "number": 17
+  },
+  {
+    "year": 1974,
+    "type": "storm",
+    "number": 28
+  },
+  {
+    "year": 1975,
+    "type": "drought",
+    "number": 1
+  },
+  {
+    "year": 1975,
+    "type": "temperature",
+    "number": 3
+  },
+  {
+    "year": 1975,
+    "type": "flood",
+    "number": 17
+  },
+  {
+    "year": 1975,
+    "type": "storm",
+    "number": 25
+  },
+  {
+    "year": 1976,
+    "type": "drought",
+    "number": 10
+  },
+  {
+    "year": 1976,
+    "type": "flood",
+    "number": 16
+  },
+  {
+    "year": 1976,
+    "type": "storm",
+    "number": 30
+  },
+  {
+    "year": 1976,
+    "type": "wildfire",
+    "number": 1
+  },
+  {
+    "year": 1977,
+    "type": "drought",
+    "number": 13
+  },
+  {
+    "year": 1977,
+    "type": "temperature",
+    "number": 1
+  },
+  {
+    "year": 1977,
+    "type": "flood",
+    "number": 47
+  },
+  {
+    "year": 1977,
+    "type": "storm",
+    "number": 29
+  },
+  {
+    "year": 1977,
+    "type": "wildfire",
+    "number": 1
+  },
+  {
+    "year": 1978,
+    "type": "drought",
+    "number": 8
+  },
+  {
+    "year": 1978,
+    "type": "temperature",
+    "number": 1
+  },
+  {
+    "year": 1978,
+    "type": "flood",
+    "number": 47
+  },
+  {
+    "year": 1978,
+    "type": "storm",
+    "number": 38
+  },
+  {
+    "year": 1978,
+    "type": "wildfire",
+    "number": 1
+  },
+  {
+    "year": 1979,
+    "type": "drought",
+    "number": 11
+  },
+  {
+    "year": 1979,
+    "type": "temperature",
+    "number": 4
+  },
+  {
+    "year": 1979,
+    "type": "flood",
+    "number": 34
+  },
+  {
+    "year": 1979,
+    "type": "storm",
+    "number": 30
+  },
+  {
+    "year": 1979,
+    "type": "wildfire",
+    "number": 1
+  },
+  {
+    "year": 1980,
+    "type": "drought",
+    "number": 24
+  },
+  {
+    "year": 1980,
+    "type": "temperature",
+    "number": 3
+  },
+  {
+    "year": 1980,
+    "type": "flood",
+    "number": 39
+  },
+  {
+    "year": 1980,
+    "type": "storm",
+    "number": 36
+  },
+  {
+    "year": 1980,
+    "type": "wildfire",
+    "number": 1
+  },
+  {
+    "year": 1981,
+    "type": "drought",
+    "number": 18
+  },
+  {
+    "year": 1981,
+    "type": "temperature",
+    "number": 2
+  },
+  {
+    "year": 1981,
+    "type": "flood",
+    "number": 41
+  },
+  {
+    "year": 1981,
+    "type": "storm",
+    "number": 47
+  },
+  {
+    "year": 1981,
+    "type": "wildfire",
+    "number": 2
+  },
+  {
+    "year": 1982,
+    "type": "drought",
+    "number": 6
+  },
+  {
+    "year": 1982,
+    "type": "temperature",
+    "number": 3
+  },
+  {
+    "year": 1982,
+    "type": "flood",
+    "number": 48
+  },
+  {
+    "year": 1982,
+    "type": "storm",
+    "number": 51
+  },
+  {
+    "year": 1982,
+    "type": "wildfire",
+    "number": 2
+  },
+  {
+    "year": 1983,
+    "type": "drought",
+    "number": 26
+  },
+  {
+    "year": 1983,
+    "type": "temperature",
+    "number": 2
+  },
+  {
+    "year": 1983,
+    "type": "flood",
+    "number": 48
+  },
+  {
+    "year": 1983,
+    "type": "storm",
+    "number": 55
+  },
+  {
+    "year": 1983,
+    "type": "wildfire",
+    "number": 11
+  },
+  {
+    "year": 1984,
+    "type": "drought",
+    "number": 6
+  },
+  {
+    "year": 1984,
+    "type": "temperature",
+    "number": 1
+  },
+  {
+    "year": 1984,
+    "type": "flood",
+    "number": 46
+  },
+  {
+    "year": 1984,
+    "type": "storm",
+    "number": 53
+  },
+  {
+    "year": 1984,
+    "type": "wildfire",
+    "number": 7
+  },
+  {
+    "year": 1985,
+    "type": "drought",
+    "number": 3
+  },
+  {
+    "year": 1985,
+    "type": "temperature",
+    "number": 8
+  },
+  {
+    "year": 1985,
+    "type": "flood",
+    "number": 57
+  },
+  {
+    "year": 1985,
+    "type": "storm",
+    "number": 49
+  },
+  {
+    "year": 1985,
+    "type": "wildfire",
+    "number": 12
+  },
+  {
+    "year": 1986,
+    "type": "drought",
+    "number": 4
+  },
+  {
+    "year": 1986,
+    "type": "temperature",
+    "number": 2
+  },
+  {
+    "year": 1986,
+    "type": "flood",
+    "number": 49
+  },
+  {
+    "year": 1986,
+    "type": "storm",
+    "number": 53
+  },
+  {
+    "year": 1986,
+    "type": "wildfire",
+    "number": 5
+  },
+  {
+    "year": 1987,
+    "type": "drought",
+    "number": 15
+  },
+  {
+    "year": 1987,
+    "type": "temperature",
+    "number": 5
+  },
+  {
+    "year": 1987,
+    "type": "flood",
+    "number": 66
+  },
+  {
+    "year": 1987,
+    "type": "storm",
+    "number": 57
+  },
+  {
+    "year": 1987,
+    "type": "wildfire",
+    "number": 7
+  },
+  {
+    "year": 1988,
+    "type": "drought",
+    "number": 17
+  },
+  {
+    "year": 1988,
+    "type": "temperature",
+    "number": 6
+  },
+  {
+    "year": 1988,
+    "type": "flood",
+    "number": 75
+  },
+  {
+    "year": 1988,
+    "type": "storm",
+    "number": 60
+  },
+  {
+    "year": 1989,
+    "type": "drought",
+    "number": 7
+  },
+  {
+    "year": 1989,
+    "type": "temperature",
+    "number": 5
+  },
+  {
+    "year": 1989,
+    "type": "flood",
+    "number": 46
+  },
+  {
+    "year": 1989,
+    "type": "storm",
+    "number": 72
+  },
+  {
+    "year": 1989,
+    "type": "wildfire",
+    "number": 2
+  },
+  {
+    "year": 1990,
+    "type": "drought",
+    "number": 20
+  },
+  {
+    "year": 1990,
+    "type": "temperature",
+    "number": 13
+  },
+  {
+    "year": 1990,
+    "type": "flood",
+    "number": 60
+  },
+  {
+    "year": 1990,
+    "type": "storm",
+    "number": 135
+  },
+  {
+    "year": 1990,
+    "type": "wildfire",
+    "number": 4
+  },
+  {
+    "year": 1991,
+    "type": "drought",
+    "number": 12
+  },
+  {
+    "year": 1991,
+    "type": "temperature",
+    "number": 8
+  },
+  {
+    "year": 1991,
+    "type": "flood",
+    "number": 75
+  },
+  {
+    "year": 1991,
+    "type": "storm",
+    "number": 66
+  },
+  {
+    "year": 1991,
+    "type": "wildfire",
+    "number": 8
+  },
+  {
+    "year": 1992,
+    "type": "drought",
+    "number": 11
+  },
+  {
+    "year": 1992,
+    "type": "temperature",
+    "number": 7
+  },
+  {
+    "year": 1992,
+    "type": "flood",
+    "number": 59
+  },
+  {
+    "year": 1992,
+    "type": "storm",
+    "number": 76
+  },
+  {
+    "year": 1992,
+    "type": "wildfire",
+    "number": 8
+  },
+  {
+    "year": 1993,
+    "type": "drought",
+    "number": 9
+  },
+  {
+    "year": 1993,
+    "type": "temperature",
+    "number": 3
+  },
+  {
+    "year": 1993,
+    "type": "flood",
+    "number": 84
+  },
+  {
+    "year": 1993,
+    "type": "storm",
+    "number": 107
+  },
+  {
+    "year": 1993,
+    "type": "wildfire",
+    "number": 2
+  },
+  {
+    "year": 1994,
+    "type": "drought",
+    "number": 12
+  },
+  {
+    "year": 1994,
+    "type": "temperature",
+    "number": 9
+  },
+  {
+    "year": 1994,
+    "type": "flood",
+    "number": 88
+  },
+  {
+    "year": 1994,
+    "type": "storm",
+    "number": 80
+  },
+  {
+    "year": 1994,
+    "type": "wildfire",
+    "number": 13
+  },
+  {
+    "year": 1995,
+    "type": "drought",
+    "number": 6
+  },
+  {
+    "year": 1995,
+    "type": "temperature",
+    "number": 13
+  },
+  {
+    "year": 1995,
+    "type": "flood",
+    "number": 93
+  },
+  {
+    "year": 1995,
+    "type": "storm",
+    "number": 80
+  },
+  {
+    "year": 1995,
+    "type": "wildfire",
+    "number": 7
+  },
+  {
+    "year": 1996,
+    "type": "drought",
+    "number": 7
+  },
+  {
+    "year": 1996,
+    "type": "temperature",
+    "number": 5
+  },
+  {
+    "year": 1996,
+    "type": "flood",
+    "number": 92
+  },
+  {
+    "year": 1996,
+    "type": "storm",
+    "number": 76
+  },
+  {
+    "year": 1996,
+    "type": "wildfire",
+    "number": 4
+  },
+  {
+    "year": 1997,
+    "type": "drought",
+    "number": 17
+  },
+  {
+    "year": 1997,
+    "type": "temperature",
+    "number": 13
+  },
+  {
+    "year": 1997,
+    "type": "flood",
+    "number": 95
+  },
+  {
+    "year": 1997,
+    "type": "storm",
+    "number": 79
+  },
+  {
+    "year": 1997,
+    "type": "wildfire",
+    "number": 15
+  },
+  {
+    "year": 1998,
+    "type": "drought",
+    "number": 20
+  },
+  {
+    "year": 1998,
+    "type": "temperature",
+    "number": 12
+  },
+  {
+    "year": 1998,
+    "type": "flood",
+    "number": 94
+  },
+  {
+    "year": 1998,
+    "type": "storm",
+    "number": 88
+  },
+  {
+    "year": 1998,
+    "type": "wildfire",
+    "number": 18
+  },
+  {
+    "year": 1999,
+    "type": "drought",
+    "number": 26
+  },
+  {
+    "year": 1999,
+    "type": "temperature",
+    "number": 8
+  },
+  {
+    "year": 1999,
+    "type": "flood",
+    "number": 122
+  },
+  {
+    "year": 1999,
+    "type": "storm",
+    "number": 106
+  },
+  {
+    "year": 1999,
+    "type": "wildfire",
+    "number": 21
+  },
+  {
+    "year": 2000,
+    "type": "drought",
+    "number": 25
+  },
+  {
+    "year": 2000,
+    "type": "temperature",
+    "number": 30
+  },
+  {
+    "year": 2000,
+    "type": "flood",
+    "number": 157
+  },
+  {
+    "year": 2000,
+    "type": "storm",
+    "number": 102
+  },
+  {
+    "year": 2000,
+    "type": "wildfire",
+    "number": 30
+  },
+  {
+    "year": 2001,
+    "type": "drought",
+    "number": 22
+  },
+  {
+    "year": 2001,
+    "type": "temperature",
+    "number": 23
+  },
+  {
+    "year": 2001,
+    "type": "flood",
+    "number": 156
+  },
+  {
+    "year": 2001,
+    "type": "storm",
+    "number": 105
+  },
+  {
+    "year": 2001,
+    "type": "wildfire",
+    "number": 14
+  },
+  {
+    "year": 2002,
+    "type": "drought",
+    "number": 24
+  },
+  {
+    "year": 2002,
+    "type": "temperature",
+    "number": 15
+  },
+  {
+    "year": 2002,
+    "type": "flood",
+    "number": 171
+  },
+  {
+    "year": 2002,
+    "type": "storm",
+    "number": 123
+  },
+  {
+    "year": 2002,
+    "type": "wildfire",
+    "number": 22
+  },
+  {
+    "year": 2003,
+    "type": "drought",
+    "number": 14
+  },
+  {
+    "year": 2003,
+    "type": "temperature",
+    "number": 25
+  },
+  {
+    "year": 2003,
+    "type": "flood",
+    "number": 158
+  },
+  {
+    "year": 2003,
+    "type": "storm",
+    "number": 86
+  },
+  {
+    "year": 2003,
+    "type": "wildfire",
+    "number": 14
+  },
+  {
+    "year": 2004,
+    "type": "drought",
+    "number": 11
+  },
+  {
+    "year": 2004,
+    "type": "temperature",
+    "number": 16
+  },
+  {
+    "year": 2004,
+    "type": "flood",
+    "number": 128
+  },
+  {
+    "year": 2004,
+    "type": "storm",
+    "number": 124
+  },
+  {
+    "year": 2004,
+    "type": "wildfire",
+    "number": 8
+  },
+  {
+    "year": 2005,
+    "type": "drought",
+    "number": 20
+  },
+  {
+    "year": 2005,
+    "type": "temperature",
+    "number": 40
+  },
+  {
+    "year": 2005,
+    "type": "flood",
+    "number": 191
+  },
+  {
+    "year": 2005,
+    "type": "storm",
+    "number": 130
+  },
+  {
+    "year": 2005,
+    "type": "wildfire",
+    "number": 13
+  },
+  {
+    "year": 2006,
+    "type": "drought",
+    "number": 9
+  },
+  {
+    "year": 2006,
+    "type": "temperature",
+    "number": 14
+  },
+  {
+    "year": 2006,
+    "type": "flood",
+    "number": 226
+  },
+  {
+    "year": 2006,
+    "type": "storm",
+    "number": 76
+  },
+  {
+    "year": 2006,
+    "type": "wildfire",
+    "number": 9
+  },
+  {
+    "year": 2007,
+    "type": "drought",
+    "number": 11
+  },
+  {
+    "year": 2007,
+    "type": "temperature",
+    "number": 25
+  },
+  {
+    "year": 2007,
+    "type": "flood",
+    "number": 217
+  },
+  {
+    "year": 2007,
+    "type": "storm",
+    "number": 104
+  },
+  {
+    "year": 2007,
+    "type": "wildfire",
+    "number": 18
+  },
+  {
+    "year": 2008,
+    "type": "drought",
+    "number": 16
+  },
+  {
+    "year": 2008,
+    "type": "temperature",
+    "number": 16
+  },
+  {
+    "year": 2008,
+    "type": "flood",
+    "number": 165
+  },
+  {
+    "year": 2008,
+    "type": "storm",
+    "number": 112
+  },
+  {
+    "year": 2008,
+    "type": "wildfire",
+    "number": 5
+  },
+  {
+    "year": 2009,
+    "type": "drought",
+    "number": 18
+  },
+  {
+    "year": 2009,
+    "type": "temperature",
+    "number": 20
+  },
+  {
+    "year": 2009,
+    "type": "flood",
+    "number": 151
+  },
+  {
+    "year": 2009,
+    "type": "storm",
+    "number": 87
+  },
+  {
+    "year": 2009,
+    "type": "wildfire",
+    "number": 9
+  },
+  {
+    "year": 2010,
+    "type": "drought",
+    "number": 21
+  },
+  {
+    "year": 2010,
+    "type": "temperature",
+    "number": 28
+  },
+  {
+    "year": 2010,
+    "type": "flood",
+    "number": 184
+  },
+  {
+    "year": 2010,
+    "type": "storm",
+    "number": 94
+  },
+  {
+    "year": 2010,
+    "type": "wildfire",
+    "number": 7
+  },
+  {
+    "year": 2011,
+    "type": "drought",
+    "number": 16
+  },
+  {
+    "year": 2011,
+    "type": "temperature",
+    "number": 15
+  },
+  {
+    "year": 2011,
+    "type": "flood",
+    "number": 156
+  },
+  {
+    "year": 2011,
+    "type": "storm",
+    "number": 84
+  },
+  {
+    "year": 2011,
+    "type": "wildfire",
+    "number": 8
+  },
+  {
+    "year": 2012,
+    "type": "drought",
+    "number": 18
+  },
+  {
+    "year": 2012,
+    "type": "temperature",
+    "number": 52
+  },
+  {
+    "year": 2012,
+    "type": "flood",
+    "number": 136
+  },
+  {
+    "year": 2012,
+    "type": "storm",
+    "number": 91
+  },
+  {
+    "year": 2012,
+    "type": "wildfire",
+    "number": 6
+  },
+  {
+    "year": 2013,
+    "type": "drought",
+    "number": 9
+  },
+  {
+    "year": 2013,
+    "type": "temperature",
+    "number": 13
+  },
+  {
+    "year": 2013,
+    "type": "flood",
+    "number": 148
+  },
+  {
+    "year": 2013,
+    "type": "storm",
+    "number": 105
+  },
+  {
+    "year": 2013,
+    "type": "wildfire",
+    "number": 10
+  },
+  {
+    "year": 2014,
+    "type": "drought",
+    "number": 20
+  },
+  {
+    "year": 2014,
+    "type": "temperature",
+    "number": 17
+  },
+  {
+    "year": 2014,
+    "type": "flood",
+    "number": 137
+  },
+  {
+    "year": 2014,
+    "type": "storm",
+    "number": 99
+  },
+  {
+    "year": 2014,
+    "type": "wildfire",
+    "number": 4
+  },
+  {
+    "year": 2015,
+    "type": "drought",
+    "number": 27
+  },
+  {
+    "year": 2015,
+    "type": "temperature",
+    "number": 12
+  },
+  {
+    "year": 2015,
+    "type": "flood",
+    "number": 161
+  },
+  {
+    "year": 2015,
+    "type": "storm",
+    "number": 121
+  },
+  {
+    "year": 2015,
+    "type": "wildfire",
+    "number": 13
+  },
+  {
+    "year": 2016,
+    "type": "drought",
+    "number": 14
+  },
+  {
+    "year": 2016,
+    "type": "temperature",
+    "number": 12
+  },
+  {
+    "year": 2016,
+    "type": "flood",
+    "number": 159
+  },
+  {
+    "year": 2016,
+    "type": "storm",
+    "number": 86
+  },
+  {
+    "year": 2016,
+    "type": "wildfire",
+    "number": 10
+  },
+  {
+    "year": 2017,
+    "type": "drought",
+    "number": 12
+  },
+  {
+    "year": 2017,
+    "type": "temperature",
+    "number": 10
+  },
+  {
+    "year": 2017,
+    "type": "flood",
+    "number": 127
+  },
+  {
+    "year": 2017,
+    "type": "storm",
+    "number": 130
+  },
+  {
+    "year": 2017,
+    "type": "wildfire",
+    "number": 15
+  },
+  {
+    "year": 2018,
+    "type": "drought",
+    "number": 17
+  },
+  {
+    "year": 2018,
+    "type": "temperature",
+    "number": 27
+  },
+  {
+    "year": 2018,
+    "type": "flood",
+    "number": 128
+  },
+  {
+    "year": 2018,
+    "type": "storm",
+    "number": 96
+  },
+  {
+    "year": 2018,
+    "type": "wildfire",
+    "number": 10
+  },
+  {
+    "year": 2019,
+    "type": "drought",
+    "number": 15
+  },
+  {
+    "year": 2019,
+    "type": "temperature",
+    "number": 21
+  },
+  {
+    "year": 2019,
+    "type": "flood",
+    "number": 195
+  },
+  {
+    "year": 2019,
+    "type": "storm",
+    "number": 91
+  },
+  {
+    "year": 2019,
+    "type": "wildfire",
+    "number": 14
+  },
+  {
+    "year": 2020,
+    "type": "drought",
+    "number": 10
+  },
+  {
+    "year": 2020,
+    "type": "temperature",
+    "number": 5
+  },
+  {
+    "year": 2020,
+    "type": "flood",
+    "number": 202
+  },
+  {
+    "year": 2020,
+    "type": "storm",
+    "number": 128
+  },
+  {
+    "year": 2020,
+    "type": "wildfire",
+    "number": 9
+  },
+  {
+    "year": 2021,
+    "type": "drought",
+    "number": 18
+  },
+  {
+    "year": 2021,
+    "type": "temperature",
+    "number": 3
+  },
+  {
+    "year": 2021,
+    "type": "flood",
+    "number": 222
+  },
+  {
+    "year": 2021,
+    "type": "storm",
+    "number": 119
+  },
+  {
+    "year": 2021,
+    "type": "wildfire",
+    "number": 19
+  }
+]

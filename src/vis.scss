@@ -1,0 +1,281 @@
+/* Label styles */
+
+.label,
+.vis text,
+.vis tspan {
+  font-family: var(--font-families-open-sans);
+  font-weight: var(--font-weights-regular);
+  line-height: var(--line-heights-145);
+  font-size: var(--font-size-m);
+
+  &.start {
+    text-anchor: start;
+  }
+
+  &.middle {
+    text-anchor: middle;
+  }
+  &.end {
+    text-anchor: end;
+  }
+  &.central {
+    dominant-baseline: central;
+  }
+  &.no-stroke {
+    stroke: none;
+  }
+  &.caps {
+    text-transform: uppercase;
+    letter-spacing: var(--letter-spacing-5);
+  }
+
+  &.stronger {
+    font-weight: var(--font-weights-semibold);
+  }
+
+  &.large {
+    stroke-width: 8px;
+    font-size: var(--font-size-l);
+  }
+
+  &.small {
+    font-size: var(--font-size-s);
+    stroke-width: 4px;
+  }
+
+  &.weaker {
+    color: var(--color-theme-text-weaker);
+    fill: var(--color-theme-text-weaker);
+  }
+
+  &.white {
+    color: var(--color-theme-dark-text);
+    fill: var(--color-theme-dark-text);
+    stroke: none;
+  }
+  &.centered {
+    text-align: center;
+  }
+}
+
+.vis text,
+.vis tspan {
+  white-space: nowrap;
+  stroke-width: 6px;
+  stroke: var(--color-theme-bg-weaker);
+  paint-order: stroke;
+  stroke-linejoin: round;
+}
+.main .vis text,
+.main .vis tspan,
+.layout-main .vis text,
+.layout-main .vis tspan {
+  stroke: var(--color-theme-bg);
+}
+
+.main .vis text.white,
+.main .vis tspan.white,
+.layout-main .vis text.white,
+.layout-main .vis tspan.white {
+  stroke: none;
+}
+
+/* Semantic label classes */
+
+.vis .category {
+  @extend .label;
+  @extend .caps;
+  @extend .small;
+  @extend .stronger;
+  stroke-width: 6px;
+}
+
+.vis .geo {
+  @extend .label;
+  @extend .caps;
+}
+
+.vis .number {
+  @extend .label;
+  @extend .stronger;
+  stroke-width: 4px;
+}
+
+.vis .axis-label {
+  @extend .label;
+  @extend .small;
+}
+
+.vis .title {
+  @extend .label;
+  margin: 0 0 var(--space-m) 0;
+  padding-top: var(--space-xs);
+  font-family: var(--font-families-andes);
+  width: 100%;
+  border-top: 0.1px solid var(--color-grey-300);
+  letter-spacing: var(--letter-spacing-5);
+}
+
+.vis .reference-label,
+.banner .reference-label {
+  @extend .label;
+  pointer-events: none;
+  text-transform: uppercase;
+  fill: var(--color-reference-country);
+  stroke: var(--color-theme-dark-text);
+  font-weight: var(--font-weights-semibold);
+  letter-spacing: var(--letter-spacing-5);
+}
+
+.vis .reference-label-country {
+  @extend .reference-label;
+  @extend .small;
+}
+
+path:focus {
+  outline: none;
+}
+
+/* Visual marks */
+
+.vis {
+  /* Annotated hatched areas can be used in different charts */
+  .annotated-area {
+    fill: url(#diagonalHatch);
+    stroke: var(--color-grey-100);
+  }
+
+  .emphasisbg {
+    stroke: white;
+    stroke-width: 4;
+    fill: none;
+    pointer-events: none;
+  }
+
+  .emphasis {
+    stroke-width: 1.5;
+    stroke: var(--color-theme-text);
+    fill: none;
+    pointer-events: none;
+  }
+
+  .reference {
+    stroke-width: 1.5;
+    stroke: var(--color-reference-country);
+    fill: none;
+    pointer-events: none;
+  }
+
+  .scatterplot,
+  .linechart,
+  .beeswarm,
+  .slopechart,
+  .arrowplot,
+  .rangeplot,
+  .stacked-area {
+    /* Circles with white outline */
+    circle {
+      stroke-width: 1px;
+      stroke: white;
+    }
+    circle:focus {
+      outline: none;
+      stroke: var(--color-theme-text);
+      stroke-width: 2px;
+    }
+    .emphasisbg {
+      @extend .emphasisbg;
+      fill: transparent;
+    }
+    .emphasis {
+      @extend .emphasis;
+      fill: transparent;
+    }
+    .reference {
+      @extend .reference;
+    }
+  }
+
+  .rangeplot line {
+    stroke: var(--color-grey-100);
+    stroke-width: 8;
+  }
+
+  .linechart path,
+  .slopechart path,
+  .slopechart line,
+  .arrowplot line {
+    stroke-width: 2px;
+    fill: transparent;
+    stroke-linecap: round;
+
+    &.gridline {
+      stroke: var(--color-grey-200);
+      stroke-width: 1;
+    }
+
+    &.bg {
+      stroke-width: 6px;
+      stroke: var(--color-theme-bg-weaker);
+    }
+    &.projection {
+      stroke-dasharray: 4 4;
+    }
+    &.area {
+      opacity: 0.4;
+    }
+  }
+
+  .stacked-area {
+    path {
+      stroke-width: 0.5;
+      stroke: var(--color-theme-bg-weaker);
+
+      &.total-line {
+        stroke-width: 2;
+        fill: none;
+        stroke-linecap: round;
+      }
+      &.total-line-bg {
+        stroke-width: 4;
+        stroke: white;
+        fill: none;
+        stroke-linecap: round;
+      }
+    }
+  }
+
+  .map {
+    path {
+      stroke: var(--color-theme-bg);
+      stroke-width: 0.5;
+      outline: none;
+
+      &.land {
+        fill: none;
+        stroke: var(--color-grey-600);
+        pointer-events: none;
+      }
+      &.not-available {
+        fill: var(--color-vis-not-available);
+      }
+      &.emphasisbg {
+        @extend .emphasisbg;
+      }
+      &.emphasis {
+        @extend .emphasis;
+      }
+      &.reference {
+        @extend .reference;
+      }
+
+      &.country {
+        pointer-events: all;
+      }
+    }
+  }
+}
+.main .vis .linechart path.bg {
+  stroke-width: 6px;
+  stroke: var(--color-theme-bg);
+}

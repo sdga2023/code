@@ -1,0 +1,4004 @@
+[
+  {
+    "iso3c": "SOM",
+    "source": "solidbiofuels",
+    "share": 95,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SOM",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 95
+  },
+  {
+    "iso3c": "SOM",
+    "source": "nonrenewable",
+    "share": 5,
+    "cumperc": 95
+  },
+  {
+    "iso3c": "COD",
+    "source": "solidbiofuels",
+    "share": 92.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "COD",
+    "source": "otherrenewables",
+    "share": 3.6,
+    "cumperc": 92.6
+  },
+  {
+    "iso3c": "COD",
+    "source": "nonrenewable",
+    "share": 3.8,
+    "cumperc": 96.2
+  },
+  {
+    "iso3c": "CAF",
+    "source": "solidbiofuels",
+    "share": 89.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CAF",
+    "source": "otherrenewables",
+    "share": 1.4,
+    "cumperc": 89.9
+  },
+  {
+    "iso3c": "CAF",
+    "source": "nonrenewable",
+    "share": 8.7,
+    "cumperc": 91.3
+  },
+  {
+    "iso3c": "UGA",
+    "source": "solidbiofuels",
+    "share": 88.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "UGA",
+    "source": "otherrenewables",
+    "share": 1.4,
+    "cumperc": 88.8
+  },
+  {
+    "iso3c": "UGA",
+    "source": "nonrenewable",
+    "share": 9.8,
+    "cumperc": 90.2
+  },
+  {
+    "iso3c": "GAB",
+    "source": "solidbiofuels",
+    "share": 87.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GAB",
+    "source": "otherrenewables",
+    "share": 2,
+    "cumperc": 87.9
+  },
+  {
+    "iso3c": "GAB",
+    "source": "nonrenewable",
+    "share": 10.1,
+    "cumperc": 89.9
+  },
+  {
+    "iso3c": "LBR",
+    "source": "solidbiofuels",
+    "share": 86.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LBR",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 86.8
+  },
+  {
+    "iso3c": "LBR",
+    "source": "nonrenewable",
+    "share": 12.8,
+    "cumperc": 87.2
+  },
+  {
+    "iso3c": "ETH",
+    "source": "solidbiofuels",
+    "share": 86.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ETH",
+    "source": "otherrenewables",
+    "share": 2.3,
+    "cumperc": 86.7
+  },
+  {
+    "iso3c": "ETH",
+    "source": "nonrenewable",
+    "share": 11,
+    "cumperc": 89
+  },
+  {
+    "iso3c": "GNB",
+    "source": "solidbiofuels",
+    "share": 86.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GNB",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 86.2
+  },
+  {
+    "iso3c": "GNB",
+    "source": "nonrenewable",
+    "share": 13.8,
+    "cumperc": 86.2
+  },
+  {
+    "iso3c": "TZA",
+    "source": "solidbiofuels",
+    "share": 84.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TZA",
+    "source": "otherrenewables",
+    "share": 1,
+    "cumperc": 84.2
+  },
+  {
+    "iso3c": "TZA",
+    "source": "nonrenewable",
+    "share": 14.8,
+    "cumperc": 85.2
+  },
+  {
+    "iso3c": "BDI",
+    "source": "solidbiofuels",
+    "share": 83.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BDI",
+    "source": "otherrenewables",
+    "share": 0.9,
+    "cumperc": 83.9
+  },
+  {
+    "iso3c": "BDI",
+    "source": "nonrenewable",
+    "share": 15.2,
+    "cumperc": 84.8
+  },
+  {
+    "iso3c": "MDG",
+    "source": "solidbiofuels",
+    "share": 81.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MDG",
+    "source": "otherrenewables",
+    "share": 1.1,
+    "cumperc": 81.6
+  },
+  {
+    "iso3c": "MDG",
+    "source": "nonrenewable",
+    "share": 17.3,
+    "cumperc": 82.7
+  },
+  {
+    "iso3c": "NGA",
+    "source": "solidbiofuels",
+    "share": 81,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NGA",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 81
+  },
+  {
+    "iso3c": "NGA",
+    "source": "nonrenewable",
+    "share": 18.6,
+    "cumperc": 81.4
+  },
+  {
+    "iso3c": "NER",
+    "source": "solidbiofuels",
+    "share": 80.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NER",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 80.7
+  },
+  {
+    "iso3c": "NER",
+    "source": "nonrenewable",
+    "share": 19.2,
+    "cumperc": 80.8
+  },
+  {
+    "iso3c": "ZWE",
+    "source": "solidbiofuels",
+    "share": 78.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ZWE",
+    "source": "otherrenewables",
+    "share": 3.3,
+    "cumperc": 78.1
+  },
+  {
+    "iso3c": "ZWE",
+    "source": "nonrenewable",
+    "share": 18.6,
+    "cumperc": 81.4
+  },
+  {
+    "iso3c": "TCD",
+    "source": "solidbiofuels",
+    "share": 77.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TCD",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 77.8
+  },
+  {
+    "iso3c": "TCD",
+    "source": "nonrenewable",
+    "share": 22.2,
+    "cumperc": 77.8
+  },
+  {
+    "iso3c": "RWA",
+    "source": "solidbiofuels",
+    "share": 76.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "RWA",
+    "source": "otherrenewables",
+    "share": 1.5,
+    "cumperc": 76.4
+  },
+  {
+    "iso3c": "RWA",
+    "source": "nonrenewable",
+    "share": 22.1,
+    "cumperc": 77.9
+  },
+  {
+    "iso3c": "HTI",
+    "source": "solidbiofuels",
+    "share": 76,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HTI",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 76
+  },
+  {
+    "iso3c": "HTI",
+    "source": "nonrenewable",
+    "share": 23.6,
+    "cumperc": 76.4
+  },
+  {
+    "iso3c": "CMR",
+    "source": "solidbiofuels",
+    "share": 75,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CMR",
+    "source": "otherrenewables",
+    "share": 4.4,
+    "cumperc": 75
+  },
+  {
+    "iso3c": "CMR",
+    "source": "nonrenewable",
+    "share": 20.6,
+    "cumperc": 79.4
+  },
+  {
+    "iso3c": "MLI",
+    "source": "solidbiofuels",
+    "share": 74.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MLI",
+    "source": "otherrenewables",
+    "share": 2.2,
+    "cumperc": 74.5
+  },
+  {
+    "iso3c": "MLI",
+    "source": "nonrenewable",
+    "share": 23.3,
+    "cumperc": 76.7
+  },
+  {
+    "iso3c": "SLE",
+    "source": "solidbiofuels",
+    "share": 74.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SLE",
+    "source": "otherrenewables",
+    "share": 1,
+    "cumperc": 74.4
+  },
+  {
+    "iso3c": "SLE",
+    "source": "nonrenewable",
+    "share": 24.6,
+    "cumperc": 75.4
+  },
+  {
+    "iso3c": "TGO",
+    "source": "solidbiofuels",
+    "share": 74.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TGO",
+    "source": "otherrenewables",
+    "share": 1.8,
+    "cumperc": 74.4
+  },
+  {
+    "iso3c": "TGO",
+    "source": "nonrenewable",
+    "share": 23.8,
+    "cumperc": 76.2
+  },
+  {
+    "iso3c": "ERI",
+    "source": "solidbiofuels",
+    "share": 73.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ERI",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 73.4
+  },
+  {
+    "iso3c": "ERI",
+    "source": "nonrenewable",
+    "share": 26.3,
+    "cumperc": 73.7
+  },
+  {
+    "iso3c": "ZMB",
+    "source": "solidbiofuels",
+    "share": 73.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ZMB",
+    "source": "otherrenewables",
+    "share": 11.4,
+    "cumperc": 73.1
+  },
+  {
+    "iso3c": "ZMB",
+    "source": "nonrenewable",
+    "share": 15.5,
+    "cumperc": 84.5
+  },
+  {
+    "iso3c": "NPL",
+    "source": "solidbiofuels",
+    "share": 71.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NPL",
+    "source": "otherrenewables",
+    "share": 6.2,
+    "cumperc": 71.2
+  },
+  {
+    "iso3c": "NPL",
+    "source": "nonrenewable",
+    "share": 22.6,
+    "cumperc": 77.4
+  },
+  {
+    "iso3c": "BTN",
+    "source": "solidbiofuels",
+    "share": 70.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BTN",
+    "source": "otherrenewables",
+    "share": 12,
+    "cumperc": 70.3
+  },
+  {
+    "iso3c": "BTN",
+    "source": "nonrenewable",
+    "share": 17.7,
+    "cumperc": 82.3
+  },
+  {
+    "iso3c": "MOZ",
+    "source": "solidbiofuels",
+    "share": 67.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MOZ",
+    "source": "otherrenewables",
+    "share": 10.6,
+    "cumperc": 67.4
+  },
+  {
+    "iso3c": "MOZ",
+    "source": "nonrenewable",
+    "share": 22,
+    "cumperc": 78
+  },
+  {
+    "iso3c": "COG",
+    "source": "solidbiofuels",
+    "share": 67,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "COG",
+    "source": "otherrenewables",
+    "share": 1.6,
+    "cumperc": 67
+  },
+  {
+    "iso3c": "COG",
+    "source": "nonrenewable",
+    "share": 31.4,
+    "cumperc": 68.6
+  },
+  {
+    "iso3c": "MWI",
+    "source": "solidbiofuels",
+    "share": 65.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MWI",
+    "source": "otherrenewables",
+    "share": 7.8,
+    "cumperc": 65.2
+  },
+  {
+    "iso3c": "MWI",
+    "source": "nonrenewable",
+    "share": 27,
+    "cumperc": 73
+  },
+  {
+    "iso3c": "KEN",
+    "source": "solidbiofuels",
+    "share": 64.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KEN",
+    "source": "otherrenewables",
+    "share": 3.7,
+    "cumperc": 64.4
+  },
+  {
+    "iso3c": "KEN",
+    "source": "nonrenewable",
+    "share": 31.9,
+    "cumperc": 68.1
+  },
+  {
+    "iso3c": "BFA",
+    "source": "solidbiofuels",
+    "share": 64.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BFA",
+    "source": "otherrenewables",
+    "share": 0.8,
+    "cumperc": 64.1
+  },
+  {
+    "iso3c": "BFA",
+    "source": "nonrenewable",
+    "share": 35.1,
+    "cumperc": 64.9
+  },
+  {
+    "iso3c": "GIN",
+    "source": "solidbiofuels",
+    "share": 63.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GIN",
+    "source": "otherrenewables",
+    "share": 2.3,
+    "cumperc": 63.1
+  },
+  {
+    "iso3c": "GIN",
+    "source": "nonrenewable",
+    "share": 34.6,
+    "cumperc": 65.4
+  },
+  {
+    "iso3c": "SWZ",
+    "source": "solidbiofuels",
+    "share": 60.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SWZ",
+    "source": "otherrenewables",
+    "share": 5.2,
+    "cumperc": 60.7
+  },
+  {
+    "iso3c": "SWZ",
+    "source": "nonrenewable",
+    "share": 34.1,
+    "cumperc": 65.9
+  },
+  {
+    "iso3c": "GTM",
+    "source": "solidbiofuels",
+    "share": 59.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GTM",
+    "source": "otherrenewables",
+    "share": 3,
+    "cumperc": 59.9
+  },
+  {
+    "iso3c": "GTM",
+    "source": "nonrenewable",
+    "share": 37.1,
+    "cumperc": 62.9
+  },
+  {
+    "iso3c": "CIV",
+    "source": "solidbiofuels",
+    "share": 59.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CIV",
+    "source": "otherrenewables",
+    "share": 2.8,
+    "cumperc": 59.7
+  },
+  {
+    "iso3c": "CIV",
+    "source": "nonrenewable",
+    "share": 37.5,
+    "cumperc": 62.5
+  },
+  {
+    "iso3c": "SDN",
+    "source": "solidbiofuels",
+    "share": 56.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SDN",
+    "source": "otherrenewables",
+    "share": 5.6,
+    "cumperc": 56.6
+  },
+  {
+    "iso3c": "SDN",
+    "source": "nonrenewable",
+    "share": 37.8,
+    "cumperc": 62.2
+  },
+  {
+    "iso3c": "MMR",
+    "source": "solidbiofuels",
+    "share": 54.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MMR",
+    "source": "otherrenewables",
+    "share": 3.7,
+    "cumperc": 54.1
+  },
+  {
+    "iso3c": "MMR",
+    "source": "nonrenewable",
+    "share": 42.2,
+    "cumperc": 57.8
+  },
+  {
+    "iso3c": "COM",
+    "source": "solidbiofuels",
+    "share": 53.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "COM",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 53.4
+  },
+  {
+    "iso3c": "COM",
+    "source": "nonrenewable",
+    "share": 46.6,
+    "cumperc": 53.4
+  },
+  {
+    "iso3c": "PNG",
+    "source": "solidbiofuels",
+    "share": 49.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PNG",
+    "source": "otherrenewables",
+    "share": 3.1,
+    "cumperc": 49.9
+  },
+  {
+    "iso3c": "PNG",
+    "source": "nonrenewable",
+    "share": 47,
+    "cumperc": 53
+  },
+  {
+    "iso3c": "GMB",
+    "source": "solidbiofuels",
+    "share": 49.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GMB",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 49.2
+  },
+  {
+    "iso3c": "GMB",
+    "source": "nonrenewable",
+    "share": 50.7,
+    "cumperc": 49.3
+  },
+  {
+    "iso3c": "SLB",
+    "source": "solidbiofuels",
+    "share": 48.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SLB",
+    "source": "otherrenewables",
+    "share": 0.2,
+    "cumperc": 48.2
+  },
+  {
+    "iso3c": "SLB",
+    "source": "nonrenewable",
+    "share": 51.6,
+    "cumperc": 48.4
+  },
+  {
+    "iso3c": "KHM",
+    "source": "solidbiofuels",
+    "share": 47.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KHM",
+    "source": "otherrenewables",
+    "share": 6.1,
+    "cumperc": 47.2
+  },
+  {
+    "iso3c": "KHM",
+    "source": "nonrenewable",
+    "share": 46.7,
+    "cumperc": 53.3
+  },
+  {
+    "iso3c": "AGO",
+    "source": "solidbiofuels",
+    "share": 46.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AGO",
+    "source": "otherrenewables",
+    "share": 7.7,
+    "cumperc": 46.9
+  },
+  {
+    "iso3c": "AGO",
+    "source": "nonrenewable",
+    "share": 45.4,
+    "cumperc": 54.6
+  },
+  {
+    "iso3c": "BEN",
+    "source": "solidbiofuels",
+    "share": 46.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BEN",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 46.4
+  },
+  {
+    "iso3c": "BEN",
+    "source": "nonrenewable",
+    "share": 53.6,
+    "cumperc": 46.4
+  },
+  {
+    "iso3c": "NIC",
+    "source": "solidbiofuels",
+    "share": 45.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NIC",
+    "source": "otherrenewables",
+    "share": 4.8,
+    "cumperc": 45.9
+  },
+  {
+    "iso3c": "NIC",
+    "source": "nonrenewable",
+    "share": 49.3,
+    "cumperc": 50.7
+  },
+  {
+    "iso3c": "LKA",
+    "source": "solidbiofuels",
+    "share": 45.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LKA",
+    "source": "otherrenewables",
+    "share": 4.1,
+    "cumperc": 45.9
+  },
+  {
+    "iso3c": "LKA",
+    "source": "nonrenewable",
+    "share": 50,
+    "cumperc": 50
+  },
+  {
+    "iso3c": "URY",
+    "source": "solidbiofuels",
+    "share": 41.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "URY",
+    "source": "otherrenewables",
+    "share": 19.1,
+    "cumperc": 41.6
+  },
+  {
+    "iso3c": "URY",
+    "source": "nonrenewable",
+    "share": 39.3,
+    "cumperc": 60.7
+  },
+  {
+    "iso3c": "PAK",
+    "source": "solidbiofuels",
+    "share": 40.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PAK",
+    "source": "otherrenewables",
+    "share": 2.7,
+    "cumperc": 40.8
+  },
+  {
+    "iso3c": "PAK",
+    "source": "nonrenewable",
+    "share": 56.5,
+    "cumperc": 43.5
+  },
+  {
+    "iso3c": "KIR",
+    "source": "solidbiofuels",
+    "share": 39.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KIR",
+    "source": "otherrenewables",
+    "share": 1.1,
+    "cumperc": 39.9
+  },
+  {
+    "iso3c": "KIR",
+    "source": "nonrenewable",
+    "share": 59,
+    "cumperc": 41
+  },
+  {
+    "iso3c": "PRY",
+    "source": "solidbiofuels",
+    "share": 39.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PRY",
+    "source": "otherrenewables",
+    "share": 20.2,
+    "cumperc": 39.9
+  },
+  {
+    "iso3c": "PRY",
+    "source": "nonrenewable",
+    "share": 39.9,
+    "cumperc": 60.1
+  },
+  {
+    "iso3c": "HND",
+    "source": "solidbiofuels",
+    "share": 39.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HND",
+    "source": "otherrenewables",
+    "share": 6.6,
+    "cumperc": 39.3
+  },
+  {
+    "iso3c": "HND",
+    "source": "nonrenewable",
+    "share": 54.1,
+    "cumperc": 45.9
+  },
+  {
+    "iso3c": "LAO",
+    "source": "solidbiofuels",
+    "share": 37.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LAO",
+    "source": "otherrenewables",
+    "share": 10.7,
+    "cumperc": 37.7
+  },
+  {
+    "iso3c": "LAO",
+    "source": "nonrenewable",
+    "share": 51.6,
+    "cumperc": 48.4
+  },
+  {
+    "iso3c": "SEN",
+    "source": "solidbiofuels",
+    "share": 36.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SEN",
+    "source": "otherrenewables",
+    "share": 0.8,
+    "cumperc": 36.4
+  },
+  {
+    "iso3c": "SEN",
+    "source": "nonrenewable",
+    "share": 62.8,
+    "cumperc": 37.2
+  },
+  {
+    "iso3c": "STP",
+    "source": "solidbiofuels",
+    "share": 36.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "STP",
+    "source": "otherrenewables",
+    "share": 0.9,
+    "cumperc": 36.2
+  },
+  {
+    "iso3c": "STP",
+    "source": "nonrenewable",
+    "share": 62.9,
+    "cumperc": 37.1
+  },
+  {
+    "iso3c": "GHA",
+    "source": "solidbiofuels",
+    "share": 35.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GHA",
+    "source": "otherrenewables",
+    "share": 6.1,
+    "cumperc": 35.6
+  },
+  {
+    "iso3c": "GHA",
+    "source": "nonrenewable",
+    "share": 58.3,
+    "cumperc": 41.7
+  },
+  {
+    "iso3c": "FIN",
+    "source": "solidbiofuels",
+    "share": 34.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FIN",
+    "source": "otherrenewables",
+    "share": 11.5,
+    "cumperc": 34.4
+  },
+  {
+    "iso3c": "FIN",
+    "source": "nonrenewable",
+    "share": 54.1,
+    "cumperc": 45.9
+  },
+  {
+    "iso3c": "LVA",
+    "source": "solidbiofuels",
+    "share": 33.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LVA",
+    "source": "otherrenewables",
+    "share": 8.1,
+    "cumperc": 33.4
+  },
+  {
+    "iso3c": "LVA",
+    "source": "nonrenewable",
+    "share": 58.5,
+    "cumperc": 41.5
+  },
+  {
+    "iso3c": "LSO",
+    "source": "solidbiofuels",
+    "share": 33,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LSO",
+    "source": "otherrenewables",
+    "share": 6.5,
+    "cumperc": 33
+  },
+  {
+    "iso3c": "LSO",
+    "source": "nonrenewable",
+    "share": 60.5,
+    "cumperc": 39.5
+  },
+  {
+    "iso3c": "VUT",
+    "source": "solidbiofuels",
+    "share": 29.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VUT",
+    "source": "otherrenewables",
+    "share": 2.3,
+    "cumperc": 29.4
+  },
+  {
+    "iso3c": "VUT",
+    "source": "nonrenewable",
+    "share": 68.3,
+    "cumperc": 31.7
+  },
+  {
+    "iso3c": "WSM",
+    "source": "solidbiofuels",
+    "share": 29.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "WSM",
+    "source": "otherrenewables",
+    "share": 4.9,
+    "cumperc": 29.3
+  },
+  {
+    "iso3c": "WSM",
+    "source": "nonrenewable",
+    "share": 65.8,
+    "cumperc": 34.2
+  },
+  {
+    "iso3c": "IND",
+    "source": "solidbiofuels",
+    "share": 28.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IND",
+    "source": "otherrenewables",
+    "share": 4.1,
+    "cumperc": 28.8
+  },
+  {
+    "iso3c": "IND",
+    "source": "nonrenewable",
+    "share": 67.1,
+    "cumperc": 32.9
+  },
+  {
+    "iso3c": "BIH",
+    "source": "solidbiofuels",
+    "share": 28.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BIH",
+    "source": "otherrenewables",
+    "share": 8.2,
+    "cumperc": 28.7
+  },
+  {
+    "iso3c": "BIH",
+    "source": "nonrenewable",
+    "share": 63.1,
+    "cumperc": 36.9
+  },
+  {
+    "iso3c": "DJI",
+    "source": "solidbiofuels",
+    "share": 27.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DJI",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 27.9
+  },
+  {
+    "iso3c": "DJI",
+    "source": "nonrenewable",
+    "share": 72.1,
+    "cumperc": 27.9
+  },
+  {
+    "iso3c": "EST",
+    "source": "solidbiofuels",
+    "share": 26.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "EST",
+    "source": "otherrenewables",
+    "share": 4.5,
+    "cumperc": 26.9
+  },
+  {
+    "iso3c": "EST",
+    "source": "nonrenewable",
+    "share": 68.6,
+    "cumperc": 31.4
+  },
+  {
+    "iso3c": "SWE",
+    "source": "solidbiofuels",
+    "share": 26.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SWE",
+    "source": "otherrenewables",
+    "share": 26.3,
+    "cumperc": 26.7
+  },
+  {
+    "iso3c": "SWE",
+    "source": "nonrenewable",
+    "share": 47,
+    "cumperc": 53
+  },
+  {
+    "iso3c": "SSD",
+    "source": "solidbiofuels",
+    "share": 26.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SSD",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 26.6
+  },
+  {
+    "iso3c": "SSD",
+    "source": "nonrenewable",
+    "share": 73.3,
+    "cumperc": 26.7
+  },
+  {
+    "iso3c": "BWA",
+    "source": "solidbiofuels",
+    "share": 25.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BWA",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 25.5
+  },
+  {
+    "iso3c": "BWA",
+    "source": "nonrenewable",
+    "share": 74.4,
+    "cumperc": 25.6
+  },
+  {
+    "iso3c": "BLZ",
+    "source": "solidbiofuels",
+    "share": 25.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BLZ",
+    "source": "otherrenewables",
+    "share": 4,
+    "cumperc": 25.1
+  },
+  {
+    "iso3c": "BLZ",
+    "source": "nonrenewable",
+    "share": 70.9,
+    "cumperc": 29.1
+  },
+  {
+    "iso3c": "BGD",
+    "source": "solidbiofuels",
+    "share": 24.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BGD",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 24.5
+  },
+  {
+    "iso3c": "BGD",
+    "source": "nonrenewable",
+    "share": 75.2,
+    "cumperc": 24.8
+  },
+  {
+    "iso3c": "MRT",
+    "source": "solidbiofuels",
+    "share": 23.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MRT",
+    "source": "otherrenewables",
+    "share": 1.2,
+    "cumperc": 23.5
+  },
+  {
+    "iso3c": "MRT",
+    "source": "nonrenewable",
+    "share": 75.3,
+    "cumperc": 24.7
+  },
+  {
+    "iso3c": "BRA",
+    "source": "solidbiofuels",
+    "share": 21.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BRA",
+    "source": "otherrenewables",
+    "share": 26,
+    "cumperc": 21.5
+  },
+  {
+    "iso3c": "BRA",
+    "source": "nonrenewable",
+    "share": 52.5,
+    "cumperc": 47.5
+  },
+  {
+    "iso3c": "LTU",
+    "source": "solidbiofuels",
+    "share": 21.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LTU",
+    "source": "otherrenewables",
+    "share": 12.4,
+    "cumperc": 21.2
+  },
+  {
+    "iso3c": "LTU",
+    "source": "nonrenewable",
+    "share": 66.4,
+    "cumperc": 33.6
+  },
+  {
+    "iso3c": "MDA",
+    "source": "solidbiofuels",
+    "share": 21.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MDA",
+    "source": "otherrenewables",
+    "share": 1,
+    "cumperc": 21.1
+  },
+  {
+    "iso3c": "MDA",
+    "source": "nonrenewable",
+    "share": 77.9,
+    "cumperc": 22.1
+  },
+  {
+    "iso3c": "PHL",
+    "source": "solidbiofuels",
+    "share": 20.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PHL",
+    "source": "otherrenewables",
+    "share": 5.7,
+    "cumperc": 20.9
+  },
+  {
+    "iso3c": "PHL",
+    "source": "nonrenewable",
+    "share": 73.4,
+    "cumperc": 26.6
+  },
+  {
+    "iso3c": "DNK",
+    "source": "solidbiofuels",
+    "share": 19.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DNK",
+    "source": "otherrenewables",
+    "share": 17.8,
+    "cumperc": 19.7
+  },
+  {
+    "iso3c": "DNK",
+    "source": "nonrenewable",
+    "share": 62.5,
+    "cumperc": 37.5
+  },
+  {
+    "iso3c": "MNE",
+    "source": "solidbiofuels",
+    "share": 19.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MNE",
+    "source": "otherrenewables",
+    "share": 19.5,
+    "cumperc": 19.3
+  },
+  {
+    "iso3c": "MNE",
+    "source": "nonrenewable",
+    "share": 61.2,
+    "cumperc": 38.8
+  },
+  {
+    "iso3c": "CPV",
+    "source": "solidbiofuels",
+    "share": 18.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CPV",
+    "source": "otherrenewables",
+    "share": 3.4,
+    "cumperc": 18.8
+  },
+  {
+    "iso3c": "CPV",
+    "source": "nonrenewable",
+    "share": 77.8,
+    "cumperc": 22.2
+  },
+  {
+    "iso3c": "FJI",
+    "source": "solidbiofuels",
+    "share": 18.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FJI",
+    "source": "otherrenewables",
+    "share": 8.1,
+    "cumperc": 18.4
+  },
+  {
+    "iso3c": "FJI",
+    "source": "nonrenewable",
+    "share": 73.5,
+    "cumperc": 26.5
+  },
+  {
+    "iso3c": "THA",
+    "source": "solidbiofuels",
+    "share": 18.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "THA",
+    "source": "otherrenewables",
+    "share": 5.7,
+    "cumperc": 18.2
+  },
+  {
+    "iso3c": "THA",
+    "source": "nonrenewable",
+    "share": 76.1,
+    "cumperc": 23.9
+  },
+  {
+    "iso3c": "CUB",
+    "source": "solidbiofuels",
+    "share": 17.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CUB",
+    "source": "otherrenewables",
+    "share": 3.7,
+    "cumperc": 17.8
+  },
+  {
+    "iso3c": "CUB",
+    "source": "nonrenewable",
+    "share": 78.5,
+    "cumperc": 21.5
+  },
+  {
+    "iso3c": "HRV",
+    "source": "solidbiofuels",
+    "share": 17.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HRV",
+    "source": "otherrenewables",
+    "share": 14.3,
+    "cumperc": 17.3
+  },
+  {
+    "iso3c": "HRV",
+    "source": "nonrenewable",
+    "share": 68.4,
+    "cumperc": 31.6
+  },
+  {
+    "iso3c": "AUT",
+    "source": "solidbiofuels",
+    "share": 15.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AUT",
+    "source": "otherrenewables",
+    "share": 18,
+    "cumperc": 15.7
+  },
+  {
+    "iso3c": "AUT",
+    "source": "nonrenewable",
+    "share": 66.3,
+    "cumperc": 33.7
+  },
+  {
+    "iso3c": "CHL",
+    "source": "solidbiofuels",
+    "share": 15.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CHL",
+    "source": "otherrenewables",
+    "share": 9.7,
+    "cumperc": 15.6
+  },
+  {
+    "iso3c": "CHL",
+    "source": "nonrenewable",
+    "share": 74.7,
+    "cumperc": 25.3
+  },
+  {
+    "iso3c": "COL",
+    "source": "solidbiofuels",
+    "share": 14.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "COL",
+    "source": "otherrenewables",
+    "share": 15.9,
+    "cumperc": 14.8
+  },
+  {
+    "iso3c": "COL",
+    "source": "nonrenewable",
+    "share": 69.3,
+    "cumperc": 30.7
+  },
+  {
+    "iso3c": "ROU",
+    "source": "solidbiofuels",
+    "share": 14.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ROU",
+    "source": "otherrenewables",
+    "share": 8.8,
+    "cumperc": 14.8
+  },
+  {
+    "iso3c": "ROU",
+    "source": "nonrenewable",
+    "share": 76.4,
+    "cumperc": 23.6
+  },
+  {
+    "iso3c": "IDN",
+    "source": "solidbiofuels",
+    "share": 14.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IDN",
+    "source": "otherrenewables",
+    "share": 4.9,
+    "cumperc": 14.2
+  },
+  {
+    "iso3c": "IDN",
+    "source": "nonrenewable",
+    "share": 80.9,
+    "cumperc": 19.1
+  },
+  {
+    "iso3c": "CRI",
+    "source": "solidbiofuels",
+    "share": 13.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CRI",
+    "source": "otherrenewables",
+    "share": 22.2,
+    "cumperc": 13.6
+  },
+  {
+    "iso3c": "CRI",
+    "source": "nonrenewable",
+    "share": 64.2,
+    "cumperc": 35.8
+  },
+  {
+    "iso3c": "PRT",
+    "source": "solidbiofuels",
+    "share": 13.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PRT",
+    "source": "otherrenewables",
+    "share": 15.1,
+    "cumperc": 13.1
+  },
+  {
+    "iso3c": "PRT",
+    "source": "nonrenewable",
+    "share": 71.8,
+    "cumperc": 28.2
+  },
+  {
+    "iso3c": "SRB",
+    "source": "solidbiofuels",
+    "share": 13.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SRB",
+    "source": "otherrenewables",
+    "share": 8.4,
+    "cumperc": 13.1
+  },
+  {
+    "iso3c": "SRB",
+    "source": "nonrenewable",
+    "share": 78.5,
+    "cumperc": 21.5
+  },
+  {
+    "iso3c": "BGR",
+    "source": "solidbiofuels",
+    "share": 12.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BGR",
+    "source": "otherrenewables",
+    "share": 6.9,
+    "cumperc": 12.6
+  },
+  {
+    "iso3c": "BGR",
+    "source": "nonrenewable",
+    "share": 80.5,
+    "cumperc": 19.5
+  },
+  {
+    "iso3c": "PER",
+    "source": "solidbiofuels",
+    "share": 12.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PER",
+    "source": "otherrenewables",
+    "share": 14.7,
+    "cumperc": 12.5
+  },
+  {
+    "iso3c": "PER",
+    "source": "nonrenewable",
+    "share": 72.8,
+    "cumperc": 27.2
+  },
+  {
+    "iso3c": "NAM",
+    "source": "solidbiofuels",
+    "share": 12.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NAM",
+    "source": "otherrenewables",
+    "share": 18.6,
+    "cumperc": 12.2
+  },
+  {
+    "iso3c": "NAM",
+    "source": "nonrenewable",
+    "share": 69.2,
+    "cumperc": 30.8
+  },
+  {
+    "iso3c": "DOM",
+    "source": "solidbiofuels",
+    "share": 11.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DOM",
+    "source": "otherrenewables",
+    "share": 2.1,
+    "cumperc": 11.8
+  },
+  {
+    "iso3c": "DOM",
+    "source": "nonrenewable",
+    "share": 86.1,
+    "cumperc": 13.9
+  },
+  {
+    "iso3c": "CZE",
+    "source": "solidbiofuels",
+    "share": 11.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CZE",
+    "source": "otherrenewables",
+    "share": 4.2,
+    "cumperc": 11.6
+  },
+  {
+    "iso3c": "CZE",
+    "source": "nonrenewable",
+    "share": 84.2,
+    "cumperc": 15.8
+  },
+  {
+    "iso3c": "TLS",
+    "source": "solidbiofuels",
+    "share": 11.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TLS",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 11.6
+  },
+  {
+    "iso3c": "TLS",
+    "source": "nonrenewable",
+    "share": 88.3,
+    "cumperc": 11.7
+  },
+  {
+    "iso3c": "SVK",
+    "source": "solidbiofuels",
+    "share": 11.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SVK",
+    "source": "otherrenewables",
+    "share": 6.1,
+    "cumperc": 11.4
+  },
+  {
+    "iso3c": "SVK",
+    "source": "nonrenewable",
+    "share": 82.5,
+    "cumperc": 17.5
+  },
+  {
+    "iso3c": "MHL",
+    "source": "solidbiofuels",
+    "share": 11.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MHL",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 11.3
+  },
+  {
+    "iso3c": "MHL",
+    "source": "nonrenewable",
+    "share": 88.3,
+    "cumperc": 11.7
+  },
+  {
+    "iso3c": "GUY",
+    "source": "solidbiofuels",
+    "share": 11.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GUY",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 11.2
+  },
+  {
+    "iso3c": "GUY",
+    "source": "nonrenewable",
+    "share": 88.7,
+    "cumperc": 11.3
+  },
+  {
+    "iso3c": "SVN",
+    "source": "solidbiofuels",
+    "share": 10.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SVN",
+    "source": "otherrenewables",
+    "share": 10.1,
+    "cumperc": 10.8
+  },
+  {
+    "iso3c": "SVN",
+    "source": "nonrenewable",
+    "share": 79.1,
+    "cumperc": 20.9
+  },
+  {
+    "iso3c": "TUN",
+    "source": "solidbiofuels",
+    "share": 10.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TUN",
+    "source": "otherrenewables",
+    "share": 1.5,
+    "cumperc": 10.7
+  },
+  {
+    "iso3c": "TUN",
+    "source": "nonrenewable",
+    "share": 87.8,
+    "cumperc": 12.2
+  },
+  {
+    "iso3c": "GRD",
+    "source": "solidbiofuels",
+    "share": 10.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GRD",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 10.1
+  },
+  {
+    "iso3c": "GRD",
+    "source": "nonrenewable",
+    "share": 89.6,
+    "cumperc": 10.4
+  },
+  {
+    "iso3c": "HUN",
+    "source": "solidbiofuels",
+    "share": 9.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HUN",
+    "source": "otherrenewables",
+    "share": 3.7,
+    "cumperc": 9.9
+  },
+  {
+    "iso3c": "HUN",
+    "source": "nonrenewable",
+    "share": 86.4,
+    "cumperc": 13.6
+  },
+  {
+    "iso3c": "MKD",
+    "source": "solidbiofuels",
+    "share": 9.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MKD",
+    "source": "otherrenewables",
+    "share": 6.6,
+    "cumperc": 9.7
+  },
+  {
+    "iso3c": "MKD",
+    "source": "nonrenewable",
+    "share": 83.7,
+    "cumperc": 16.3
+  },
+  {
+    "iso3c": "LCA",
+    "source": "solidbiofuels",
+    "share": 9.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LCA",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 9.5
+  },
+  {
+    "iso3c": "LCA",
+    "source": "nonrenewable",
+    "share": 90.2,
+    "cumperc": 9.8
+  },
+  {
+    "iso3c": "VNM",
+    "source": "solidbiofuels",
+    "share": 9.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VNM",
+    "source": "otherrenewables",
+    "share": 9.2,
+    "cumperc": 9.5
+  },
+  {
+    "iso3c": "VNM",
+    "source": "nonrenewable",
+    "share": 81.3,
+    "cumperc": 18.7
+  },
+  {
+    "iso3c": "ZAF",
+    "source": "solidbiofuels",
+    "share": 9.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ZAF",
+    "source": "otherrenewables",
+    "share": 1.5,
+    "cumperc": 9.1
+  },
+  {
+    "iso3c": "ZAF",
+    "source": "nonrenewable",
+    "share": 89.4,
+    "cumperc": 10.6
+  },
+  {
+    "iso3c": "POL",
+    "source": "solidbiofuels",
+    "share": 8.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "POL",
+    "source": "otherrenewables",
+    "share": 3.9,
+    "cumperc": 8.3
+  },
+  {
+    "iso3c": "POL",
+    "source": "nonrenewable",
+    "share": 87.8,
+    "cumperc": 12.2
+  },
+  {
+    "iso3c": "SLV",
+    "source": "solidbiofuels",
+    "share": 8.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SLV",
+    "source": "otherrenewables",
+    "share": 11.3,
+    "cumperc": 8.2
+  },
+  {
+    "iso3c": "SLV",
+    "source": "nonrenewable",
+    "share": 80.5,
+    "cumperc": 19.5
+  },
+  {
+    "iso3c": "AFG",
+    "source": "solidbiofuels",
+    "share": 8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AFG",
+    "source": "otherrenewables",
+    "share": 10.6,
+    "cumperc": 8
+  },
+  {
+    "iso3c": "AFG",
+    "source": "nonrenewable",
+    "share": 81.4,
+    "cumperc": 18.6
+  },
+  {
+    "iso3c": "NZL",
+    "source": "solidbiofuels",
+    "share": 7.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NZL",
+    "source": "otherrenewables",
+    "share": 21.9,
+    "cumperc": 7.8
+  },
+  {
+    "iso3c": "NZL",
+    "source": "nonrenewable",
+    "share": 70.3,
+    "cumperc": 29.7
+  },
+  {
+    "iso3c": "ALB",
+    "source": "solidbiofuels",
+    "share": 7.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ALB",
+    "source": "otherrenewables",
+    "share": 32.6,
+    "cumperc": 7.6
+  },
+  {
+    "iso3c": "ALB",
+    "source": "nonrenewable",
+    "share": 59.8,
+    "cumperc": 40.2
+  },
+  {
+    "iso3c": "BLR",
+    "source": "solidbiofuels",
+    "share": 7.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BLR",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 7.4
+  },
+  {
+    "iso3c": "BLR",
+    "source": "nonrenewable",
+    "share": 92.2,
+    "cumperc": 7.8
+  },
+  {
+    "iso3c": "MAR",
+    "source": "solidbiofuels",
+    "share": 7.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MAR",
+    "source": "otherrenewables",
+    "share": 3.2,
+    "cumperc": 7.4
+  },
+  {
+    "iso3c": "MAR",
+    "source": "nonrenewable",
+    "share": 89.4,
+    "cumperc": 10.6
+  },
+  {
+    "iso3c": "FRA",
+    "source": "solidbiofuels",
+    "share": 7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FRA",
+    "source": "otherrenewables",
+    "share": 8.4,
+    "cumperc": 7
+  },
+  {
+    "iso3c": "FRA",
+    "source": "nonrenewable",
+    "share": 84.6,
+    "cumperc": 15.4
+  },
+  {
+    "iso3c": "PAN",
+    "source": "solidbiofuels",
+    "share": 7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PAN",
+    "source": "otherrenewables",
+    "share": 11.9,
+    "cumperc": 7
+  },
+  {
+    "iso3c": "PAN",
+    "source": "nonrenewable",
+    "share": 81.1,
+    "cumperc": 18.9
+  },
+  {
+    "iso3c": "ITA",
+    "source": "solidbiofuels",
+    "share": 6.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ITA",
+    "source": "otherrenewables",
+    "share": 10.6,
+    "cumperc": 6.8
+  },
+  {
+    "iso3c": "ITA",
+    "source": "nonrenewable",
+    "share": 82.6,
+    "cumperc": 17.4
+  },
+  {
+    "iso3c": "LIE",
+    "source": "solidbiofuels",
+    "share": 6.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LIE",
+    "source": "otherrenewables",
+    "share": 49.3,
+    "cumperc": 6.8
+  },
+  {
+    "iso3c": "LIE",
+    "source": "nonrenewable",
+    "share": 43.9,
+    "cumperc": 56.1
+  },
+  {
+    "iso3c": "MEX",
+    "source": "solidbiofuels",
+    "share": 6.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MEX",
+    "source": "otherrenewables",
+    "share": 3.6,
+    "cumperc": 6.7
+  },
+  {
+    "iso3c": "MEX",
+    "source": "nonrenewable",
+    "share": 89.7,
+    "cumperc": 10.3
+  },
+  {
+    "iso3c": "MUS",
+    "source": "solidbiofuels",
+    "share": 6.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MUS",
+    "source": "otherrenewables",
+    "share": 2.4,
+    "cumperc": 6.5
+  },
+  {
+    "iso3c": "MUS",
+    "source": "nonrenewable",
+    "share": 91.1,
+    "cumperc": 8.9
+  },
+  {
+    "iso3c": "PRK",
+    "source": "solidbiofuels",
+    "share": 6.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PRK",
+    "source": "otherrenewables",
+    "share": 5,
+    "cumperc": 6.3
+  },
+  {
+    "iso3c": "PRK",
+    "source": "nonrenewable",
+    "share": 88.7,
+    "cumperc": 11.3
+  },
+  {
+    "iso3c": "GEO",
+    "source": "solidbiofuels",
+    "share": 5.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GEO",
+    "source": "otherrenewables",
+    "share": 19.4,
+    "cumperc": 5.9
+  },
+  {
+    "iso3c": "GEO",
+    "source": "nonrenewable",
+    "share": 74.7,
+    "cumperc": 25.3
+  },
+  {
+    "iso3c": "JAM",
+    "source": "solidbiofuels",
+    "share": 5.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "JAM",
+    "source": "otherrenewables",
+    "share": 3.2,
+    "cumperc": 5.9
+  },
+  {
+    "iso3c": "JAM",
+    "source": "nonrenewable",
+    "share": 90.9,
+    "cumperc": 9.1
+  },
+  {
+    "iso3c": "GNQ",
+    "source": "solidbiofuels",
+    "share": 5.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GNQ",
+    "source": "otherrenewables",
+    "share": 0.9,
+    "cumperc": 5.7
+  },
+  {
+    "iso3c": "GNQ",
+    "source": "nonrenewable",
+    "share": 93.4,
+    "cumperc": 6.6
+  },
+  {
+    "iso3c": "ESP",
+    "source": "solidbiofuels",
+    "share": 5.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ESP",
+    "source": "otherrenewables",
+    "share": 11.7,
+    "cumperc": 5.7
+  },
+  {
+    "iso3c": "ESP",
+    "source": "nonrenewable",
+    "share": 82.6,
+    "cumperc": 17.4
+  },
+  {
+    "iso3c": "DEU",
+    "source": "solidbiofuels",
+    "share": 5.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DEU",
+    "source": "otherrenewables",
+    "share": 11.6,
+    "cumperc": 5.6
+  },
+  {
+    "iso3c": "DEU",
+    "source": "nonrenewable",
+    "share": 82.8,
+    "cumperc": 17.2
+  },
+  {
+    "iso3c": "GRC",
+    "source": "solidbiofuels",
+    "share": 5.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GRC",
+    "source": "otherrenewables",
+    "share": 13.1,
+    "cumperc": 5.6
+  },
+  {
+    "iso3c": "GRC",
+    "source": "nonrenewable",
+    "share": 81.3,
+    "cumperc": 18.7
+  },
+  {
+    "iso3c": "UKR",
+    "source": "solidbiofuels",
+    "share": 5.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "UKR",
+    "source": "otherrenewables",
+    "share": 1.9,
+    "cumperc": 5.6
+  },
+  {
+    "iso3c": "UKR",
+    "source": "nonrenewable",
+    "share": 92.5,
+    "cumperc": 7.5
+  },
+  {
+    "iso3c": "CHE",
+    "source": "solidbiofuels",
+    "share": 5.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CHE",
+    "source": "otherrenewables",
+    "share": 19.3,
+    "cumperc": 5.5
+  },
+  {
+    "iso3c": "CHE",
+    "source": "nonrenewable",
+    "share": 75.2,
+    "cumperc": 24.8
+  },
+  {
+    "iso3c": "CAN",
+    "source": "solidbiofuels",
+    "share": 5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CAN",
+    "source": "otherrenewables",
+    "share": 17.1,
+    "cumperc": 5
+  },
+  {
+    "iso3c": "CAN",
+    "source": "nonrenewable",
+    "share": 77.9,
+    "cumperc": 22.1
+  },
+  {
+    "iso3c": "AUS",
+    "source": "solidbiofuels",
+    "share": 4.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AUS",
+    "source": "otherrenewables",
+    "share": 5.3,
+    "cumperc": 4.9
+  },
+  {
+    "iso3c": "AUS",
+    "source": "nonrenewable",
+    "share": 89.8,
+    "cumperc": 10.2
+  },
+  {
+    "iso3c": "NOR",
+    "source": "solidbiofuels",
+    "share": 4.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NOR",
+    "source": "otherrenewables",
+    "share": 57.4,
+    "cumperc": 4.9
+  },
+  {
+    "iso3c": "NOR",
+    "source": "nonrenewable",
+    "share": 37.7,
+    "cumperc": 62.3
+  },
+  {
+    "iso3c": "PSE",
+    "source": "solidbiofuels",
+    "share": 4.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PSE",
+    "source": "otherrenewables",
+    "share": 9.1,
+    "cumperc": 4.8
+  },
+  {
+    "iso3c": "PSE",
+    "source": "nonrenewable",
+    "share": 86.1,
+    "cumperc": 13.9
+  },
+  {
+    "iso3c": "BOL",
+    "source": "solidbiofuels",
+    "share": 4.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BOL",
+    "source": "otherrenewables",
+    "share": 4,
+    "cumperc": 4.7
+  },
+  {
+    "iso3c": "BOL",
+    "source": "nonrenewable",
+    "share": 91.3,
+    "cumperc": 8.7
+  },
+  {
+    "iso3c": "BEL",
+    "source": "solidbiofuels",
+    "share": 4.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BEL",
+    "source": "otherrenewables",
+    "share": 5.7,
+    "cumperc": 4.5
+  },
+  {
+    "iso3c": "BEL",
+    "source": "nonrenewable",
+    "share": 89.8,
+    "cumperc": 10.2
+  },
+  {
+    "iso3c": "GBR",
+    "source": "solidbiofuels",
+    "share": 4.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GBR",
+    "source": "otherrenewables",
+    "share": 7.8,
+    "cumperc": 4.4
+  },
+  {
+    "iso3c": "GBR",
+    "source": "nonrenewable",
+    "share": 87.8,
+    "cumperc": 12.2
+  },
+  {
+    "iso3c": "CHN",
+    "source": "solidbiofuels",
+    "share": 4.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CHN",
+    "source": "otherrenewables",
+    "share": 10.3,
+    "cumperc": 4.3
+  },
+  {
+    "iso3c": "CHN",
+    "source": "nonrenewable",
+    "share": 85.4,
+    "cumperc": 14.6
+  },
+  {
+    "iso3c": "LUX",
+    "source": "solidbiofuels",
+    "share": 4.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LUX",
+    "source": "otherrenewables",
+    "share": 12.2,
+    "cumperc": 4.2
+  },
+  {
+    "iso3c": "LUX",
+    "source": "nonrenewable",
+    "share": 83.6,
+    "cumperc": 16.4
+  },
+  {
+    "iso3c": "SUR",
+    "source": "solidbiofuels",
+    "share": 3.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SUR",
+    "source": "otherrenewables",
+    "share": 10.5,
+    "cumperc": 3.9
+  },
+  {
+    "iso3c": "SUR",
+    "source": "nonrenewable",
+    "share": 85.6,
+    "cumperc": 14.4
+  },
+  {
+    "iso3c": "DMA",
+    "source": "solidbiofuels",
+    "share": 3.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DMA",
+    "source": "otherrenewables",
+    "share": 4.2,
+    "cumperc": 3.8
+  },
+  {
+    "iso3c": "DMA",
+    "source": "nonrenewable",
+    "share": 92,
+    "cumperc": 8
+  },
+  {
+    "iso3c": "ECU",
+    "source": "solidbiofuels",
+    "share": 3.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ECU",
+    "source": "otherrenewables",
+    "share": 13.8,
+    "cumperc": 3.8
+  },
+  {
+    "iso3c": "ECU",
+    "source": "nonrenewable",
+    "share": 82.4,
+    "cumperc": 17.6
+  },
+  {
+    "iso3c": "SHN",
+    "source": "solidbiofuels",
+    "share": 3.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SHN",
+    "source": "otherrenewables",
+    "share": 5.8,
+    "cumperc": 3.6
+  },
+  {
+    "iso3c": "SHN",
+    "source": "nonrenewable",
+    "share": 90.6,
+    "cumperc": 9.4
+  },
+  {
+    "iso3c": "USA",
+    "source": "solidbiofuels",
+    "share": 3.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "USA",
+    "source": "otherrenewables",
+    "share": 6.9,
+    "cumperc": 3.6
+  },
+  {
+    "iso3c": "USA",
+    "source": "nonrenewable",
+    "share": 89.5,
+    "cumperc": 10.5
+  },
+  {
+    "iso3c": "ARM",
+    "source": "solidbiofuels",
+    "share": 3.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ARM",
+    "source": "otherrenewables",
+    "share": 6.9,
+    "cumperc": 3.4
+  },
+  {
+    "iso3c": "ARM",
+    "source": "nonrenewable",
+    "share": 89.7,
+    "cumperc": 10.3
+  },
+  {
+    "iso3c": "ARG",
+    "source": "solidbiofuels",
+    "share": 2.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ARG",
+    "source": "otherrenewables",
+    "share": 7.7,
+    "cumperc": 2.9
+  },
+  {
+    "iso3c": "ARG",
+    "source": "nonrenewable",
+    "share": 89.4,
+    "cumperc": 10.6
+  },
+  {
+    "iso3c": "BRB",
+    "source": "solidbiofuels",
+    "share": 2.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BRB",
+    "source": "otherrenewables",
+    "share": 1.4,
+    "cumperc": 2.9
+  },
+  {
+    "iso3c": "BRB",
+    "source": "nonrenewable",
+    "share": 95.7,
+    "cumperc": 4.3
+  },
+  {
+    "iso3c": "EGY",
+    "source": "solidbiofuels",
+    "share": 2.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "EGY",
+    "source": "otherrenewables",
+    "share": 2.4,
+    "cumperc": 2.9
+  },
+  {
+    "iso3c": "EGY",
+    "source": "nonrenewable",
+    "share": 94.7,
+    "cumperc": 5.3
+  },
+  {
+    "iso3c": "LBN",
+    "source": "solidbiofuels",
+    "share": 2.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LBN",
+    "source": "otherrenewables",
+    "share": 2.6,
+    "cumperc": 2.9
+  },
+  {
+    "iso3c": "LBN",
+    "source": "nonrenewable",
+    "share": 94.5,
+    "cumperc": 5.5
+  },
+  {
+    "iso3c": "LBY",
+    "source": "solidbiofuels",
+    "share": 2.8,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "LBY",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 2.8
+  },
+  {
+    "iso3c": "LBY",
+    "source": "nonrenewable",
+    "share": 97.2,
+    "cumperc": 2.8
+  },
+  {
+    "iso3c": "JPN",
+    "source": "solidbiofuels",
+    "share": 2.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "JPN",
+    "source": "otherrenewables",
+    "share": 5.3,
+    "cumperc": 2.4
+  },
+  {
+    "iso3c": "JPN",
+    "source": "nonrenewable",
+    "share": 92.3,
+    "cumperc": 7.7
+  },
+  {
+    "iso3c": "NLD",
+    "source": "solidbiofuels",
+    "share": 2.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NLD",
+    "source": "otherrenewables",
+    "share": 6.2,
+    "cumperc": 2.4
+  },
+  {
+    "iso3c": "NLD",
+    "source": "nonrenewable",
+    "share": 91.4,
+    "cumperc": 8.6
+  },
+  {
+    "iso3c": "CYP",
+    "source": "solidbiofuels",
+    "share": 2.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CYP",
+    "source": "otherrenewables",
+    "share": 9.8,
+    "cumperc": 2.2
+  },
+  {
+    "iso3c": "CYP",
+    "source": "nonrenewable",
+    "share": 88,
+    "cumperc": 12
+  },
+  {
+    "iso3c": "VCT",
+    "source": "solidbiofuels",
+    "share": 2.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VCT",
+    "source": "otherrenewables",
+    "share": 3.5,
+    "cumperc": 2.2
+  },
+  {
+    "iso3c": "VCT",
+    "source": "nonrenewable",
+    "share": 94.3,
+    "cumperc": 5.7
+  },
+  {
+    "iso3c": "MNG",
+    "source": "solidbiofuels",
+    "share": 2.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MNG",
+    "source": "otherrenewables",
+    "share": 1.3,
+    "cumperc": 2.1
+  },
+  {
+    "iso3c": "MNG",
+    "source": "nonrenewable",
+    "share": 96.6,
+    "cumperc": 3.4
+  },
+  {
+    "iso3c": "YEM",
+    "source": "solidbiofuels",
+    "share": 2.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "YEM",
+    "source": "otherrenewables",
+    "share": 1,
+    "cumperc": 2.1
+  },
+  {
+    "iso3c": "YEM",
+    "source": "nonrenewable",
+    "share": 96.9,
+    "cumperc": 3.1
+  },
+  {
+    "iso3c": "IRL",
+    "source": "solidbiofuels",
+    "share": 1.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IRL",
+    "source": "otherrenewables",
+    "share": 10.4,
+    "cumperc": 1.9
+  },
+  {
+    "iso3c": "IRL",
+    "source": "nonrenewable",
+    "share": 87.7,
+    "cumperc": 12.3
+  },
+  {
+    "iso3c": "TUR",
+    "source": "solidbiofuels",
+    "share": 1.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TUR",
+    "source": "otherrenewables",
+    "share": 12.5,
+    "cumperc": 1.6
+  },
+  {
+    "iso3c": "TUR",
+    "source": "nonrenewable",
+    "share": 85.9,
+    "cumperc": 14.1
+  },
+  {
+    "iso3c": "VEN",
+    "source": "solidbiofuels",
+    "share": 1.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VEN",
+    "source": "otherrenewables",
+    "share": 14,
+    "cumperc": 1.6
+  },
+  {
+    "iso3c": "VEN",
+    "source": "nonrenewable",
+    "share": 84.4,
+    "cumperc": 15.6
+  },
+  {
+    "iso3c": "BHS",
+    "source": "solidbiofuels",
+    "share": 1.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BHS",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 1.1
+  },
+  {
+    "iso3c": "BHS",
+    "source": "nonrenewable",
+    "share": 98.9,
+    "cumperc": 1.1
+  },
+  {
+    "iso3c": "FLK",
+    "source": "solidbiofuels",
+    "share": 1.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FLK",
+    "source": "otherrenewables",
+    "share": 3.5,
+    "cumperc": 1.1
+  },
+  {
+    "iso3c": "FLK",
+    "source": "nonrenewable",
+    "share": 95.4,
+    "cumperc": 4.6
+  },
+  {
+    "iso3c": "JOR",
+    "source": "solidbiofuels",
+    "share": 1.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "JOR",
+    "source": "otherrenewables",
+    "share": 7.1,
+    "cumperc": 1.1
+  },
+  {
+    "iso3c": "JOR",
+    "source": "nonrenewable",
+    "share": 91.8,
+    "cumperc": 8.2
+  },
+  {
+    "iso3c": "FSM",
+    "source": "solidbiofuels",
+    "share": 1.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FSM",
+    "source": "otherrenewables",
+    "share": 0.7,
+    "cumperc": 1.1
+  },
+  {
+    "iso3c": "FSM",
+    "source": "nonrenewable",
+    "share": 98.2,
+    "cumperc": 1.8
+  },
+  {
+    "iso3c": "VGB",
+    "source": "solidbiofuels",
+    "share": 1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VGB",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 1
+  },
+  {
+    "iso3c": "VGB",
+    "source": "nonrenewable",
+    "share": 98.7,
+    "cumperc": 1.3
+  },
+  {
+    "iso3c": "KOR",
+    "source": "solidbiofuels",
+    "share": 1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KOR",
+    "source": "otherrenewables",
+    "share": 2.3,
+    "cumperc": 1
+  },
+  {
+    "iso3c": "KOR",
+    "source": "nonrenewable",
+    "share": 96.7,
+    "cumperc": 3.3
+  },
+  {
+    "iso3c": "SPM",
+    "source": "solidbiofuels",
+    "share": 0.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SPM",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0.9
+  },
+  {
+    "iso3c": "SPM",
+    "source": "nonrenewable",
+    "share": 99.1,
+    "cumperc": 0.9
+  },
+  {
+    "iso3c": "MDV",
+    "source": "solidbiofuels",
+    "share": 0.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MDV",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 0.7
+  },
+  {
+    "iso3c": "MDV",
+    "source": "nonrenewable",
+    "share": 99,
+    "cumperc": 1
+  },
+  {
+    "iso3c": "TON",
+    "source": "solidbiofuels",
+    "share": 0.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TON",
+    "source": "otherrenewables",
+    "share": 1.1,
+    "cumperc": 0.7
+  },
+  {
+    "iso3c": "TON",
+    "source": "nonrenewable",
+    "share": 98.2,
+    "cumperc": 1.8
+  },
+  {
+    "iso3c": "RUS",
+    "source": "solidbiofuels",
+    "share": 0.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "RUS",
+    "source": "otherrenewables",
+    "share": 2.6,
+    "cumperc": 0.6
+  },
+  {
+    "iso3c": "RUS",
+    "source": "nonrenewable",
+    "share": 96.8,
+    "cumperc": 3.2
+  },
+  {
+    "iso3c": "SYC",
+    "source": "solidbiofuels",
+    "share": 0.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SYC",
+    "source": "otherrenewables",
+    "share": 0.8,
+    "cumperc": 0.6
+  },
+  {
+    "iso3c": "SYC",
+    "source": "nonrenewable",
+    "share": 98.6,
+    "cumperc": 1.4
+  },
+  {
+    "iso3c": "NIU",
+    "source": "solidbiofuels",
+    "share": 0.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NIU",
+    "source": "otherrenewables",
+    "share": 21.9,
+    "cumperc": 0.5
+  },
+  {
+    "iso3c": "NIU",
+    "source": "nonrenewable",
+    "share": 77.6,
+    "cumperc": 22.4
+  },
+  {
+    "iso3c": "AND",
+    "source": "solidbiofuels",
+    "share": 0.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AND",
+    "source": "otherrenewables",
+    "share": 18.1,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "AND",
+    "source": "nonrenewable",
+    "share": 81.5,
+    "cumperc": 18.5
+  },
+  {
+    "iso3c": "AZE",
+    "source": "solidbiofuels",
+    "share": 0.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AZE",
+    "source": "otherrenewables",
+    "share": 1.2,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "AZE",
+    "source": "nonrenewable",
+    "share": 98.4,
+    "cumperc": 1.6
+  },
+  {
+    "iso3c": "BES",
+    "source": "solidbiofuels",
+    "share": 0.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BES",
+    "source": "otherrenewables",
+    "share": 12,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "BES",
+    "source": "nonrenewable",
+    "share": 87.6,
+    "cumperc": 12.4
+  },
+  {
+    "iso3c": "TTO",
+    "source": "solidbiofuels",
+    "share": 0.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TTO",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "TTO",
+    "source": "nonrenewable",
+    "share": 99.6,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "PYF",
+    "source": "solidbiofuels",
+    "share": 0.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PYF",
+    "source": "otherrenewables",
+    "share": 7.3,
+    "cumperc": 0.3
+  },
+  {
+    "iso3c": "PYF",
+    "source": "nonrenewable",
+    "share": 92.4,
+    "cumperc": 7.6
+  },
+  {
+    "iso3c": "IRN",
+    "source": "solidbiofuels",
+    "share": 0.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IRN",
+    "source": "otherrenewables",
+    "share": 0.6,
+    "cumperc": 0.3
+  },
+  {
+    "iso3c": "IRN",
+    "source": "nonrenewable",
+    "share": 99.1,
+    "cumperc": 0.9
+  },
+  {
+    "iso3c": "MLT",
+    "source": "solidbiofuels",
+    "share": 0.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MLT",
+    "source": "otherrenewables",
+    "share": 7.4,
+    "cumperc": 0.3
+  },
+  {
+    "iso3c": "MLT",
+    "source": "nonrenewable",
+    "share": 92.3,
+    "cumperc": 7.7
+  },
+  {
+    "iso3c": "NCL",
+    "source": "solidbiofuels",
+    "share": 0.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NCL",
+    "source": "otherrenewables",
+    "share": 5.1,
+    "cumperc": 0.3
+  },
+  {
+    "iso3c": "NCL",
+    "source": "nonrenewable",
+    "share": 94.6,
+    "cumperc": 5.4
+  },
+  {
+    "iso3c": "TCA",
+    "source": "solidbiofuels",
+    "share": 0.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TCA",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 0.3
+  },
+  {
+    "iso3c": "TCA",
+    "source": "nonrenewable",
+    "share": 99.6,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "ABW",
+    "source": "solidbiofuels",
+    "share": 0.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ABW",
+    "source": "otherrenewables",
+    "share": 7.2,
+    "cumperc": 0.2
+  },
+  {
+    "iso3c": "ABW",
+    "source": "nonrenewable",
+    "share": 92.6,
+    "cumperc": 7.4
+  },
+  {
+    "iso3c": "SGP",
+    "source": "solidbiofuels",
+    "share": 0.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SGP",
+    "source": "otherrenewables",
+    "share": 0.7,
+    "cumperc": 0.2
+  },
+  {
+    "iso3c": "SGP",
+    "source": "nonrenewable",
+    "share": 99.1,
+    "cumperc": 0.9
+  },
+  {
+    "iso3c": "AIA",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "AIA",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "AIA",
+    "source": "nonrenewable",
+    "share": 99.5,
+    "cumperc": 0.5
+  },
+  {
+    "iso3c": "BMU",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BMU",
+    "source": "otherrenewables",
+    "share": 0.7,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "BMU",
+    "source": "nonrenewable",
+    "share": 99.2,
+    "cumperc": 0.8
+  },
+  {
+    "iso3c": "MAC",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MAC",
+    "source": "otherrenewables",
+    "share": 8.3,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "MAC",
+    "source": "nonrenewable",
+    "share": 91.6,
+    "cumperc": 8.4
+  },
+  {
+    "iso3c": "IRQ",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IRQ",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "IRQ",
+    "source": "nonrenewable",
+    "share": 99.6,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "ISR",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KAZ",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KAZ",
+    "source": "otherrenewables",
+    "share": 1.6,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "KAZ",
+    "source": "nonrenewable",
+    "share": 98.3,
+    "cumperc": 1.7
+  },
+  {
+    "iso3c": "KGZ",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KGZ",
+    "source": "otherrenewables",
+    "share": 27.8,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "KGZ",
+    "source": "nonrenewable",
+    "share": 72.1,
+    "cumperc": 27.9
+  },
+  {
+    "iso3c": "MYS",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MYS",
+    "source": "otherrenewables",
+    "share": 4.9,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "MYS",
+    "source": "nonrenewable",
+    "share": 95,
+    "cumperc": 5
+  },
+  {
+    "iso3c": "SXM",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SXM",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "SXM",
+    "source": "nonrenewable",
+    "share": 99.9,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "SYR",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SYR",
+    "source": "otherrenewables",
+    "share": 0.9,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "SYR",
+    "source": "nonrenewable",
+    "share": 99,
+    "cumperc": 1
+  },
+  {
+    "iso3c": "TKM",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TKM",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "TKM",
+    "source": "nonrenewable",
+    "share": 99.9,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "ARE",
+    "source": "solidbiofuels",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ARE",
+    "source": "otherrenewables",
+    "share": 0.6,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "ARE",
+    "source": "nonrenewable",
+    "share": 99.3,
+    "cumperc": 0.7
+  },
+  {
+    "iso3c": "DZA",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DZA",
+    "source": "otherrenewables",
+    "share": 0.1,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "DZA",
+    "source": "nonrenewable",
+    "share": 99.9,
+    "cumperc": 0.1
+  },
+  {
+    "iso3c": "ASM",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ASM",
+    "source": "otherrenewables",
+    "share": 0.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ASM",
+    "source": "nonrenewable",
+    "share": 99.5,
+    "cumperc": 0.5
+  },
+  {
+    "iso3c": "ATG",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ATG",
+    "source": "otherrenewables",
+    "share": 0.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ATG",
+    "source": "nonrenewable",
+    "share": 99.1,
+    "cumperc": 0.9
+  },
+  {
+    "iso3c": "BHR",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BHR",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BHR",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BRN",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BRN",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "BRN",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CYM",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CYM",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CYM",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HKG",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HKG",
+    "source": "otherrenewables",
+    "share": 0.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "HKG",
+    "source": "nonrenewable",
+    "share": 99.8,
+    "cumperc": 0.2
+  },
+  {
+    "iso3c": "COK",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "COK",
+    "source": "otherrenewables",
+    "share": 3.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "COK",
+    "source": "nonrenewable",
+    "share": 96.3,
+    "cumperc": 3.7
+  },
+  {
+    "iso3c": "CUW",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CUW",
+    "source": "otherrenewables",
+    "share": 2.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "CUW",
+    "source": "nonrenewable",
+    "share": 97.4,
+    "cumperc": 2.6
+  },
+  {
+    "iso3c": "FRO",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FRO",
+    "source": "otherrenewables",
+    "share": 5.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "FRO",
+    "source": "nonrenewable",
+    "share": 94.6,
+    "cumperc": 5.4
+  },
+  {
+    "iso3c": "GIB",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GIB",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GIB",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GRL",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GRL",
+    "source": "otherrenewables",
+    "share": 12.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GRL",
+    "source": "nonrenewable",
+    "share": 87.4,
+    "cumperc": 12.6
+  },
+  {
+    "iso3c": "GUM",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GUM",
+    "source": "otherrenewables",
+    "share": 3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GUM",
+    "source": "nonrenewable",
+    "share": 97,
+    "cumperc": 3
+  },
+  {
+    "iso3c": "GGY",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GGY",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "GGY",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ISL",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ISL",
+    "source": "otherrenewables",
+    "share": 81,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "ISL",
+    "source": "nonrenewable",
+    "share": 19,
+    "cumperc": 81
+  },
+  {
+    "iso3c": "IMN",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IMN",
+    "source": "otherrenewables",
+    "share": 1.9,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "IMN",
+    "source": "nonrenewable",
+    "share": 98.1,
+    "cumperc": 1.9
+  },
+  {
+    "iso3c": "JEY",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "JEY",
+    "source": "otherrenewables",
+    "share": 17.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "JEY",
+    "source": "nonrenewable",
+    "share": 82.3,
+    "cumperc": 17.7
+  },
+  {
+    "iso3c": "KWT",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KWT",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KWT",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MSR",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MSR",
+    "source": "otherrenewables",
+    "share": 0.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MSR",
+    "source": "nonrenewable",
+    "share": 99.6,
+    "cumperc": 0.4
+  },
+  {
+    "iso3c": "NRU",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NRU",
+    "source": "otherrenewables",
+    "share": 0.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "NRU",
+    "source": "nonrenewable",
+    "share": 99.4,
+    "cumperc": 0.6
+  },
+  {
+    "iso3c": "MNP",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MNP",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "MNP",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "OMN",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "OMN",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "OMN",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PLW",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PLW",
+    "source": "otherrenewables",
+    "share": 0.3,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PLW",
+    "source": "nonrenewable",
+    "share": 99.7,
+    "cumperc": 0.3
+  },
+  {
+    "iso3c": "PRI",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PRI",
+    "source": "otherrenewables",
+    "share": 2.4,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "PRI",
+    "source": "nonrenewable",
+    "share": 97.6,
+    "cumperc": 2.4
+  },
+  {
+    "iso3c": "QAT",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "QAT",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "QAT",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KNA",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KNA",
+    "source": "otherrenewables",
+    "share": 1.5,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "KNA",
+    "source": "nonrenewable",
+    "share": 98.5,
+    "cumperc": 1.5
+  },
+  {
+    "iso3c": "SAU",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SAU",
+    "source": "otherrenewables",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "SAU",
+    "source": "nonrenewable",
+    "share": 100,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TJK",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TJK",
+    "source": "otherrenewables",
+    "share": 38.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TJK",
+    "source": "nonrenewable",
+    "share": 61.4,
+    "cumperc": 38.6
+  },
+  {
+    "iso3c": "TUV",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TUV",
+    "source": "otherrenewables",
+    "share": 8.2,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "TUV",
+    "source": "nonrenewable",
+    "share": 91.8,
+    "cumperc": 8.2
+  },
+  {
+    "iso3c": "VIR",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VIR",
+    "source": "otherrenewables",
+    "share": 3.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "VIR",
+    "source": "nonrenewable",
+    "share": 96.4,
+    "cumperc": 3.6
+  },
+  {
+    "iso3c": "UZB",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "UZB",
+    "source": "otherrenewables",
+    "share": 1.6,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "UZB",
+    "source": "nonrenewable",
+    "share": 98.4,
+    "cumperc": 1.6
+  },
+  {
+    "iso3c": "WLF",
+    "source": "solidbiofuels",
+    "share": 0,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "WLF",
+    "source": "otherrenewables",
+    "share": 0.7,
+    "cumperc": 0
+  },
+  {
+    "iso3c": "WLF",
+    "source": "nonrenewable",
+    "share": 99.3,
+    "cumperc": 0.7
+  }
+]

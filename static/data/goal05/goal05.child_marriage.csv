@@ -1,0 +1,122 @@
+"code","country","married_by_15","married_by_18"
+"NER","Niger",0.28,0.763
+"CAF","Central African Republic",0.258,0.61
+"TCD","Chad",0.242,0.606
+"MLI","Mali",0.159,0.537
+"MOZ","Mozambique",0.168,0.529
+"BFA","Burkina Faso",0.102,0.516
+"SSD","South Sudan",0.08855218,0.5154554
+"BGD","Bangladesh",0.1548339997,0.5141993793
+"GIN","Guinea",0.17,0.465
+"NGA","Nigeria",0.157,0.434
+"MWI","Malawi",0.09,0.421
+"ERI","Eritrea",0.1285728,0.4067618
+"ETH","Ethiopia",0.141,0.403
+"MDG","Madagascar",0.1273039145,0.4028252799
+"MRT","Mauritania",0.178,0.3698420177
+"SUR","Suriname",0.08801885158,0.3603528096
+"DOM","Dominican Republic",0.123,0.359
+"SOM","Somalia",0.168,0.355
+"NIC","Nicaragua",0.097,0.352
+"SDN","Sudan",0.11875164,0.3419883
+"UGA","Uganda",0.073,0.34
+"ZWE","Zimbabwe",0.05418352119,0.336580568
+"HND","Honduras",0.076,0.336
+"BLZ","Belize",0.063,0.335
+"NPL","Nepal",0.079,0.328
+"LAO","Lao PDR",0.071,0.327
+"YEM","Yemen, Rep.",0.094,0.319
+"COM","Comoros",0.1,0.316
+"BEN","Benin",0.094,0.306
+"SEN","Senegal",0.088,0.305
+"TZA","Tanzania",0.052,0.305
+"AGO","Angola",0.079,0.303
+"GUY","Guyana",0.036,0.302
+"CMR","Cameroon",0.107,0.298
+"SLE","Sierra Leone",0.086,0.296
+"GNQ","Equatorial Guinea",0.086,0.295
+"GTM","Guatemala",0.062,0.295
+"CUB","Cuba",0.048,0.294
+"COD","Congo, Dem. Rep.",0.08444061036,0.291127603
+"ZMB","Zambia",0.052,0.29
+"AFG","Afghanistan",0.04201457,0.2825738
+"STP","Sao Tome and Principe",0.054,0.28
+"IRQ","Iraq",0.072,0.279
+"PNG","Papua New Guinea",0.08,0.273
+"COG","Congo, Rep.",0.069,0.273
+"CIV","Cote d'Ivoire",0.07,0.27
+"PAN","Panama",0.068,0.264
+"BTN","Bhutan",0.062,0.258
+"GNB","Guinea-Bissau",0.081,0.257
+"SLV","El Salvador",0.058,0.255
+"IND","India",0.054,0.253
+"LBR","Liberia",0.058,0.249
+"TGO","Togo",0.064,0.248
+"URY","Uruguay",0.007,0.2462669186
+"LCA","St. Lucia",0.03709589,0.2399081
+"COL","Colombia",0.049,0.234
+"GMB","Gambia, The",0.056,0.231
+"KEN","Kenya",0.044,0.229
+"ECU","Ecuador",0.038,0.222
+"GAB","Gabon",0.056,0.219
+"PRY","Paraguay",0.036,0.216
+"VUT","Vanuatu",0.02475145,0.2138568
+"SLB","Solomon Islands",0.0559622,0.2128157
+"MEX","Mexico",0.036302,0.20701
+"THA","Thailand",0.03,0.202
+"BOL","Bolivia",0.034297907,0.196611257
+"GHA","Ghana",0.05002300718,0.193291986
+"BDI","Burundi",0.028,0.19
+"KHM","Cambodia",0.019,0.185
+"KIR","Kiribati",0.02391157856,0.1843464835
+"PAK","Pakistan",0.036,0.183
+"PER","Peru",0.02521869032,0.1742714615
+"EGY","Egypt, Arab Rep.",0.02,0.174
+"CRI","Costa Rica",0.02,0.171
+"IRN","Iran, Islamic Rep.",0.027,0.17
+"PHL","Philippines",0.022,0.165
+"LSO","Lesotho",0.01037508994,0.1641238527
+"IDN","Indonesia",0.02,0.163
+"MMR","Myanmar",0.019,0.16
+"TLS","Timor-Leste",0.026,0.149
+"HTI","Haiti",0.021,0.149
+"TUR","Turkiye",0.02,0.147
+"GEO","Georgia",0.003,0.139
+"MAR","Morocco",0.005,0.137
+"PSE","West Bank and Gaza",0.007,0.134
+"KGZ","Kyrgyz Republic",0.003072951171,0.12867392
+"MDA","Moldova",0.004,0.122
+"MNG","Mongolia",0.009288641544,0.1203123058
+"ALB","Albania",0.014,0.118
+"TTO","Trinidad and Tobago",0.027,0.111829983
+"AZE","Azerbaijan",0.019,0.11
+"BRB","Barbados",0.006612519,0.10712449
+"VNM","Vietnam",0.009,0.1056603565
+"TON","Tonga",0.004,0.101
+"LKA","Sri Lanka",0.009,0.098
+"JOR","Jordan",0.015,0.097
+"UKR","Ukraine",0.001,0.09058896548
+"TJK","Tajikistan",0.001,0.087
+"JAM","Jamaica",0.013649266,0.07867521
+"MKD","North Macedonia",0.003,0.075
+"WSM","Samoa",0.009,0.074
+"KAZ","Kazakhstan",0.002,0.07
+"NAM","Namibia",0.016,0.069
+"TKM","Turkmenistan",0.002,0.061
+"LBN","Lebanon",0.014,0.06
+"MNE","Montenegro",0.019,0.058
+"SRB","Serbia",0.012,0.055
+"RWA","Rwanda",0.003,0.055
+"SWZ","Eswatini",0.008186311,0.053025
+"DJI","Djibouti",0.013,0.053
+"ARM","Armenia",0,0.053
+"BLR","Belarus",0.001,0.047
+"QAT","Qatar",0,0.0416574132
+"OMN","Oman",0.012,0.04
+"DZA","Algeria",0,0.038
+"ZAF","South Africa",0.009,0.036
+"BIH","Bosnia and Herzegovina",0.00157505,0.03496291
+"MDV","Maldives",0,0.022
+"TUN","Tunisia",0,0.0148592558
+"PRK","Korea, Dem. People's Rep.",0,0.001
+"SGP","Singapore",0,0.001

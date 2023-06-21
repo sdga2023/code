@@ -1,0 +1,862 @@
+[
+  {
+    "country_code": "SVK",
+    "country_name": "Slovak Republic",
+    "gini": 23.2323
+  },
+  {
+    "country_code": "SVN",
+    "country_name": "Slovenia",
+    "gini": 24.0315
+  },
+  {
+    "country_code": "BLR",
+    "country_name": "Belarus",
+    "gini": 24.3834
+  },
+  {
+    "country_code": "UKR",
+    "country_name": "Ukraine",
+    "gini": 25.6274
+  },
+  {
+    "country_code": "MDA",
+    "country_name": "Moldova",
+    "gini": 25.7316
+  },
+  {
+    "country_code": "BEL",
+    "country_name": "Belgium",
+    "gini": 25.9583
+  },
+  {
+    "country_code": "ARE",
+    "country_name": "United Arab Emirates",
+    "gini": 25.9663
+  },
+  {
+    "country_code": "NLD",
+    "country_name": "Netherlands",
+    "gini": 25.9942
+  },
+  {
+    "country_code": "ISL",
+    "country_name": "Iceland",
+    "gini": 26.1316
+  },
+  {
+    "country_code": "CZE",
+    "country_name": "Czech Republic",
+    "gini": 26.2451
+  },
+  {
+    "country_code": "AZE",
+    "country_name": "Azerbaijan",
+    "gini": 26.5549
+  },
+  {
+    "country_code": "FIN",
+    "country_name": "Finland",
+    "gini": 27.0912
+  },
+  {
+    "country_code": "DNK",
+    "country_name": "Denmark",
+    "gini": 27.5043
+  },
+  {
+    "country_code": "DZA",
+    "country_name": "Algeria",
+    "gini": 27.6157
+  },
+  {
+    "country_code": "NOR",
+    "country_name": "Norway",
+    "gini": 27.7423
+  },
+  {
+    "country_code": "KAZ",
+    "country_name": "Kazakhstan",
+    "gini": 27.7929
+  },
+  {
+    "country_code": "KIR",
+    "country_name": "Kiribati",
+    "gini": 27.8327
+  },
+  {
+    "country_code": "ARM",
+    "country_name": "Armenia",
+    "gini": 27.9401
+  },
+  {
+    "country_code": "TLS",
+    "country_name": "Timor-Leste",
+    "gini": 28.6529
+  },
+  {
+    "country_code": "POL",
+    "country_name": "Poland",
+    "gini": 28.7603
+  },
+  {
+    "country_code": "SWE",
+    "country_name": "Sweden",
+    "gini": 28.8719
+  },
+  {
+    "country_code": "KGZ",
+    "country_name": "Kyrgyz Republic",
+    "gini": 28.9893
+  },
+  {
+    "country_code": "XKX",
+    "country_name": "Kosovo",
+    "gini": 29.0129
+  },
+  {
+    "country_code": "IRL",
+    "country_name": "Ireland",
+    "gini": 29.2285
+  },
+  {
+    "country_code": "MDV",
+    "country_name": "Maldives",
+    "gini": 29.2851
+  },
+  {
+    "country_code": "ALB",
+    "country_name": "Albania",
+    "gini": 29.4196
+  },
+  {
+    "country_code": "IRQ",
+    "country_name": "Iraq",
+    "gini": 29.5419
+  },
+  {
+    "country_code": "HRV",
+    "country_name": "Croatia",
+    "gini": 29.5443
+  },
+  {
+    "country_code": "PAK",
+    "country_name": "Pakistan",
+    "gini": 29.5893
+  },
+  {
+    "country_code": "GIN",
+    "country_name": "Guinea",
+    "gini": 29.592
+  },
+  {
+    "country_code": "HUN",
+    "country_name": "Hungary",
+    "gini": 29.7131
+  },
+  {
+    "country_code": "AUT",
+    "country_name": "Austria",
+    "gini": 29.8018
+  },
+  {
+    "country_code": "POL",
+    "country_name": "Poland",
+    "gini": 30.2395
+  },
+  {
+    "country_code": "FRA",
+    "country_name": "France",
+    "gini": 30.6615
+  },
+  {
+    "country_code": "MMR",
+    "country_name": "Myanmar",
+    "gini": 30.6969
+  },
+  {
+    "country_code": "FJI",
+    "country_name": "Fiji",
+    "gini": 30.7069
+  },
+  {
+    "country_code": "EST",
+    "country_name": "Estonia",
+    "gini": 30.7379
+  },
+  {
+    "country_code": "MLT",
+    "country_name": "Malta",
+    "gini": 31.4038
+  },
+  {
+    "country_code": "KOR",
+    "country_name": "Korea, Rep.",
+    "gini": 31.4049
+  },
+  {
+    "country_code": "TWN",
+    "country_name": "Taiwan, China",
+    "gini": 31.4827
+  },
+  {
+    "country_code": "DEU",
+    "country_name": "Germany",
+    "gini": 31.7194
+  },
+  {
+    "country_code": "CYP",
+    "country_name": "Cyprus",
+    "gini": 31.7279
+  },
+  {
+    "country_code": "LBN",
+    "country_name": "Lebanon",
+    "gini": 31.8324
+  },
+  {
+    "country_code": "EGY",
+    "country_name": "Egypt, Arab Rep.",
+    "gini": 31.8936
+  },
+  {
+    "country_code": "SYC",
+    "country_name": "Seychelles",
+    "gini": 32.1253
+  },
+  {
+    "country_code": "VUT",
+    "country_name": "Vanuatu",
+    "gini": 32.3176
+  },
+  {
+    "country_code": "NRU",
+    "country_name": "Nauru",
+    "gini": 32.3616
+  },
+  {
+    "country_code": "BGD",
+    "country_name": "Bangladesh",
+    "gini": 32.3853
+  },
+  {
+    "country_code": "CAN",
+    "country_name": "Canada",
+    "gini": 32.5093
+  },
+  {
+    "country_code": "MRT",
+    "country_name": "Mauritania",
+    "gini": 32.6193
+  },
+  {
+    "country_code": "GBR",
+    "country_name": "United Kingdom",
+    "gini": 32.6455
+  },
+  {
+    "country_code": "MNG",
+    "country_name": "Mongolia",
+    "gini": 32.741
+  },
+  {
+    "country_code": "TUN",
+    "country_name": "Tunisia",
+    "gini": 32.8159
+  },
+  {
+    "country_code": "NPL",
+    "country_name": "Nepal",
+    "gini": 32.8406
+  },
+  {
+    "country_code": "JPN",
+    "country_name": "Japan",
+    "gini": 32.8547
+  },
+  {
+    "country_code": "BIH",
+    "country_name": "Bosnia and Herzegovina",
+    "gini": 33.0302
+  },
+  {
+    "country_code": "CHE",
+    "country_name": "Switzerland",
+    "gini": 33.1411
+  },
+  {
+    "country_code": "LUX",
+    "country_name": "Luxembourg",
+    "gini": 33.3736
+  },
+  {
+    "country_code": "MKD",
+    "country_name": "North Macedonia",
+    "gini": 33.5059
+  },
+  {
+    "country_code": "TON",
+    "country_name": "Tonga",
+    "gini": 33.5213
+  },
+  {
+    "country_code": "GRC",
+    "country_name": "Greece",
+    "gini": 33.5606
+  },
+  {
+    "country_code": "JOR",
+    "country_name": "Jordan",
+    "gini": 33.6557
+  },
+  {
+    "country_code": "PSE",
+    "country_name": "West Bank and Gaza",
+    "gini": 33.69
+  },
+  {
+    "country_code": "TJK",
+    "country_name": "Tajikistan",
+    "gini": 33.9957
+  },
+  {
+    "country_code": "GEO",
+    "country_name": "Georgia",
+    "gini": 34.1786
+  },
+  {
+    "country_code": "SDN",
+    "country_name": "Sudan",
+    "gini": 34.2432
+  },
+  {
+    "country_code": "AUS",
+    "country_name": "Australia",
+    "gini": 34.3338
+  },
+  {
+    "country_code": "ROU",
+    "country_name": "Romania",
+    "gini": 34.5725
+  },
+  {
+    "country_code": "PRT",
+    "country_name": "Portugal",
+    "gini": 34.6686
+  },
+  {
+    "country_code": "GNB",
+    "country_name": "Guinea-Bissau",
+    "gini": 34.7652
+  },
+  {
+    "country_code": "ESP",
+    "country_name": "Spain",
+    "gini": 34.8656
+  },
+  {
+    "country_code": "SRB",
+    "country_name": "Serbia",
+    "gini": 34.9523
+  },
+  {
+    "country_code": "ETH",
+    "country_name": "Ethiopia",
+    "gini": 34.9931
+  },
+  {
+    "country_code": "THA",
+    "country_name": "Thailand",
+    "gini": 35.1153
+  },
+  {
+    "country_code": "NGA",
+    "country_name": "Nigeria",
+    "gini": 35.1277
+  },
+  {
+    "country_code": "ITA",
+    "country_name": "Italy",
+    "gini": 35.2442
+  },
+  {
+    "country_code": "LBR",
+    "country_name": "Liberia",
+    "gini": 35.2655
+  },
+  {
+    "country_code": "UZB",
+    "country_name": "Uzbekistan",
+    "gini": 35.2688
+  },
+  {
+    "country_code": "MHL",
+    "country_name": "Marshall Islands",
+    "gini": 35.4829
+  },
+  {
+    "country_code": "SLE",
+    "country_name": "Sierra Leone",
+    "gini": 35.6902
+  },
+  {
+    "country_code": "LVA",
+    "country_name": "Latvia",
+    "gini": 35.7048
+  },
+  {
+    "country_code": "IND",
+    "country_name": "India",
+    "gini": 35.7339
+  },
+  {
+    "country_code": "LTU",
+    "country_name": "Lithuania",
+    "gini": 35.9574
+  },
+  {
+    "country_code": "RUS",
+    "country_name": "Russian Federation",
+    "gini": 36.0298
+  },
+  {
+    "country_code": "MLI",
+    "country_name": "Mali",
+    "gini": 36.1369
+  },
+  {
+    "country_code": "YEM",
+    "country_name": "Yemen, Rep.",
+    "gini": 36.7071
+  },
+  {
+    "country_code": "MUS",
+    "country_name": "Mauritius",
+    "gini": 36.7612
+  },
+  {
+    "country_code": "MNE",
+    "country_name": "Montenegro",
+    "gini": 36.8119
+  },
+  {
+    "country_code": "VNM",
+    "country_name": "Vietnam",
+    "gini": 36.8134
+  },
+  {
+    "country_code": "SLB",
+    "country_name": "Solomon Islands",
+    "gini": 37.0549
+  },
+  {
+    "country_code": "CIV",
+    "country_name": "Cote d'Ivoire",
+    "gini": 37.1836
+  },
+  {
+    "country_code": "PHL",
+    "country_name": "Philippines",
+    "gini": 37.2685
+  },
+  {
+    "country_code": "NER",
+    "country_name": "Niger",
+    "gini": 37.281
+  },
+  {
+    "country_code": "BTN",
+    "country_name": "Bhutan",
+    "gini": 37.4414
+  },
+  {
+    "country_code": "TCD",
+    "country_name": "Chad",
+    "gini": 37.4992
+  },
+  {
+    "country_code": "SYR",
+    "country_name": "Syrian Arab Republic",
+    "gini": 37.5146
+  },
+  {
+    "country_code": "LKA",
+    "country_name": "Sri Lanka",
+    "gini": 37.6638
+  },
+  {
+    "country_code": "BEN",
+    "country_name": "Benin",
+    "gini": 37.8086
+  },
+  {
+    "country_code": "IDN",
+    "country_name": "Indonesia",
+    "gini": 37.9191
+  },
+  {
+    "country_code": "GAB",
+    "country_name": "Gabon",
+    "gini": 38.0244
+  },
+  {
+    "country_code": "SEN",
+    "country_name": "Senegal",
+    "gini": 38.1225
+  },
+  {
+    "country_code": "CHN",
+    "country_name": "China",
+    "gini": 38.1683
+  },
+  {
+    "country_code": "DOM",
+    "country_name": "Dominican Republic",
+    "gini": 38.5299
+  },
+  {
+    "country_code": "MWI",
+    "country_name": "Malawi",
+    "gini": 38.5432
+  },
+  {
+    "country_code": "ISR",
+    "country_name": "Israel",
+    "gini": 38.5772
+  },
+  {
+    "country_code": "BDI",
+    "country_name": "Burundi",
+    "gini": 38.6248
+  },
+  {
+    "country_code": "WSM",
+    "country_name": "Samoa",
+    "gini": 38.7318
+  },
+  {
+    "country_code": "GMB",
+    "country_name": "Gambia, The",
+    "gini": 38.7572
+  },
+  {
+    "country_code": "LAO",
+    "country_name": "Lao PDR",
+    "gini": 38.8024
+  },
+  {
+    "country_code": "SLV",
+    "country_name": "El Salvador",
+    "gini": 39.0125
+  },
+  {
+    "country_code": "TUV",
+    "country_name": "Tuvalu",
+    "gini": 39.139
+  },
+  {
+    "country_code": "MAR",
+    "country_name": "Morocco",
+    "gini": 39.5485
+  },
+  {
+    "country_code": "USA",
+    "country_name": "United States",
+    "gini": 39.6831
+  },
+  {
+    "country_code": "FSM",
+    "country_name": "Micronesia, Fed. Sts.",
+    "gini": 40.0576
+  },
+  {
+    "country_code": "PER",
+    "country_name": "Peru",
+    "gini": 40.2499
+  },
+  {
+    "country_code": "TTO",
+    "country_name": "Trinidad and Tobago",
+    "gini": 40.273
+  },
+  {
+    "country_code": "TZA",
+    "country_name": "Tanzania",
+    "gini": 40.4912
+  },
+  {
+    "country_code": "BGR",
+    "country_name": "Bulgaria",
+    "gini": 40.5232
+  },
+  {
+    "country_code": "PHL",
+    "country_name": "Philippines",
+    "gini": 40.6791
+  },
+  {
+    "country_code": "STP",
+    "country_name": "Sao Tome and Principe",
+    "gini": 40.7496
+  },
+  {
+    "country_code": "KEN",
+    "country_name": "Kenya",
+    "gini": 40.7758
+  },
+  {
+    "country_code": "URY",
+    "country_name": "Uruguay",
+    "gini": 40.7774
+  },
+  {
+    "country_code": "TKM",
+    "country_name": "Turkmenistan",
+    "gini": 40.8069
+  },
+  {
+    "country_code": "BOL",
+    "country_name": "Bolivia",
+    "gini": 40.9133
+  },
+  {
+    "country_code": "IRN",
+    "country_name": "Iran, Islamic Rep.",
+    "gini": 40.936
+  },
+  {
+    "country_code": "HTI",
+    "country_name": "Haiti",
+    "gini": 41.1038
+  },
+  {
+    "country_code": "MYS",
+    "country_name": "Malaysia",
+    "gini": 41.1768
+  },
+  {
+    "country_code": "DJI",
+    "country_name": "Djibouti",
+    "gini": 41.588
+  },
+  {
+    "country_code": "PNG",
+    "country_name": "Papua New Guinea",
+    "gini": 41.8508
+  },
+  {
+    "country_code": "TUR",
+    "country_name": "Turkiye",
+    "gini": 41.9091
+  },
+  {
+    "country_code": "ARG",
+    "country_name": "Argentina",
+    "gini": 42.0051
+  },
+  {
+    "country_code": "COD",
+    "country_name": "Congo, Dem. Rep.",
+    "gini": 42.0997
+  },
+  {
+    "country_code": "TGO",
+    "country_name": "Togo",
+    "gini": 42.3522
+  },
+  {
+    "country_code": "CPV",
+    "country_name": "Cabo Verde",
+    "gini": 42.3811
+  },
+  {
+    "country_code": "MDG",
+    "country_name": "Madagascar",
+    "gini": 42.6482
+  },
+  {
+    "country_code": "UGA",
+    "country_name": "Uganda",
+    "gini": 42.7055
+  },
+  {
+    "country_code": "PRY",
+    "country_name": "Paraguay",
+    "gini": 42.9056
+  },
+  {
+    "country_code": "GHA",
+    "country_name": "Ghana",
+    "gini": 43.5209
+  },
+  {
+    "country_code": "RWA",
+    "country_name": "Rwanda",
+    "gini": 43.71
+  },
+  {
+    "country_code": "SSD",
+    "country_name": "South Sudan",
+    "gini": 44.1441
+  },
+  {
+    "country_code": "VEN",
+    "country_name": "Venezuela, RB",
+    "gini": 44.7705
+  },
+  {
+    "country_code": "LSO",
+    "country_name": "Lesotho",
+    "gini": 44.8797
+  },
+  {
+    "country_code": "CHL",
+    "country_name": "Chile",
+    "gini": 44.9209
+  },
+  {
+    "country_code": "GUY",
+    "country_name": "Guyana",
+    "gini": 45.1181
+  },
+  {
+    "country_code": "COM",
+    "country_name": "Comoros",
+    "gini": 45.3346
+  },
+  {
+    "country_code": "MEX",
+    "country_name": "Mexico",
+    "gini": 45.3987
+  },
+  {
+    "country_code": "JAM",
+    "country_name": "Jamaica",
+    "gini": 45.4575
+  },
+  {
+    "country_code": "ECU",
+    "country_name": "Ecuador",
+    "gini": 45.8004
+  },
+  {
+    "country_code": "NIC",
+    "country_name": "Nicaragua",
+    "gini": 46.1563
+  },
+  {
+    "country_code": "CMR",
+    "country_name": "Cameroon",
+    "gini": 46.6409
+  },
+  {
+    "country_code": "BFA",
+    "country_name": "Burkina Faso",
+    "gini": 47.3471
+  },
+  {
+    "country_code": "HND",
+    "country_name": "Honduras",
+    "gini": 48.1682
+  },
+  {
+    "country_code": "GTM",
+    "country_name": "Guatemala",
+    "gini": 48.2786
+  },
+  {
+    "country_code": "CRI",
+    "country_name": "Costa Rica",
+    "gini": 48.6911
+  },
+  {
+    "country_code": "COG",
+    "country_name": "Congo, Rep.",
+    "gini": 48.9387
+  },
+  {
+    "country_code": "ZWE",
+    "country_name": "Zimbabwe",
+    "gini": 50.2565
+  },
+  {
+    "country_code": "PAN",
+    "country_name": "Panama",
+    "gini": 50.8612
+  },
+  {
+    "country_code": "LCA",
+    "country_name": "St. Lucia",
+    "gini": 51.2333
+  },
+  {
+    "country_code": "AGO",
+    "country_name": "Angola",
+    "gini": 51.2721
+  },
+  {
+    "country_code": "COL",
+    "country_name": "Colombia",
+    "gini": 51.4993
+  },
+  {
+    "country_code": "BRA",
+    "country_name": "Brazil",
+    "gini": 52.9167
+  },
+  {
+    "country_code": "BLZ",
+    "country_name": "Belize",
+    "gini": 53.2628
+  },
+  {
+    "country_code": "BWA",
+    "country_name": "Botswana",
+    "gini": 53.325
+  },
+  {
+    "country_code": "MOZ",
+    "country_name": "Mozambique",
+    "gini": 53.9967
+  },
+  {
+    "country_code": "SWZ",
+    "country_name": "Eswatini",
+    "gini": 54.5798
+  },
+  {
+    "country_code": "CAF",
+    "country_name": "Central African Republic",
+    "gini": 56.2366
+  },
+  {
+    "country_code": "ZMB",
+    "country_name": "Zambia",
+    "gini": 57.1361
+  },
+  {
+    "country_code": "SUR",
+    "country_name": "Suriname",
+    "gini": 57.8514
+  },
+  {
+    "country_code": "NAM",
+    "country_name": "Namibia",
+    "gini": 59.0666
+  },
+  {
+    "country_code": "HTI",
+    "country_name": "Haiti",
+    "gini": 60.7868
+  },
+  {
+    "country_code": "WLD",
+    "country_name": "World",
+    "gini": 62.0245
+  },
+  {
+    "country_code": "ZAF",
+    "country_name": "South Africa",
+    "gini": 63.0261
+  }
+]

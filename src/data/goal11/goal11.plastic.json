@@ -1,0 +1,551 @@
+[
+  {
+    "year": 2000,
+    "generation": 156.1724,
+    "incinerated": 16.98,
+    "landfilled": 92.77343,
+    "mismanaged": 40.18816,
+    "recycled": 5.783667,
+    "littered": 0.447137
+  },
+  {
+    "year": 2001,
+    "generation": 163.8236,
+    "incinerated": 18.57081,
+    "landfilled": 96.06519,
+    "mismanaged": 42.18831,
+    "recycled": 6.529903,
+    "littered": 0.469395
+  },
+  {
+    "year": 2002,
+    "generation": 174.047,
+    "incinerated": 20.5308,
+    "landfilled": 100.7219,
+    "mismanaged": 44.85264,
+    "recycled": 7.43975,
+    "littered": 0.501885
+  },
+  {
+    "year": 2003,
+    "generation": 183.6499,
+    "incinerated": 22.50744,
+    "landfilled": 104.9279,
+    "mismanaged": 47.29958,
+    "recycled": 8.383408,
+    "littered": 0.531584
+  },
+  {
+    "year": 2004,
+    "generation": 194.647,
+    "incinerated": 24.74373,
+    "landfilled": 109.7974,
+    "mismanaged": 50.07903,
+    "recycled": 9.45986,
+    "littered": 0.567008
+  },
+  {
+    "year": 2005,
+    "generation": 203.7163,
+    "incinerated": 26.82864,
+    "landfilled": 113.5265,
+    "mismanaged": 52.27358,
+    "recycled": 10.4926,
+    "littered": 0.594932
+  },
+  {
+    "year": 2006,
+    "generation": 215.2638,
+    "incinerated": 29.32658,
+    "landfilled": 118.5028,
+    "mismanaged": 55.08018,
+    "recycled": 11.72106,
+    "littered": 0.633215
+  },
+  {
+    "year": 2007,
+    "generation": 227.398,
+    "incinerated": 32.00715,
+    "landfilled": 123.6966,
+    "mismanaged": 57.96677,
+    "recycled": 13.05389,
+    "littered": 0.673579
+  },
+  {
+    "year": 2008,
+    "generation": 231.1607,
+    "incinerated": 33.58948,
+    "landfilled": 124.4442,
+    "mismanaged": 58.52519,
+    "recycled": 13.92389,
+    "littered": 0.67788
+  },
+  {
+    "year": 2009,
+    "generation": 239.8779,
+    "incinerated": 35.93447,
+    "landfilled": 127.7491,
+    "mismanaged": 60.34531,
+    "recycled": 15.14614,
+    "littered": 0.702852
+  },
+  {
+    "year": 2010,
+    "generation": 254.7164,
+    "incinerated": 39.28041,
+    "landfilled": 134.0969,
+    "mismanaged": 63.71577,
+    "recycled": 16.8693,
+    "littered": 0.753993
+  },
+  {
+    "year": 2011,
+    "generation": 265.9659,
+    "incinerated": 42.21717,
+    "landfilled": 138.4794,
+    "mismanaged": 66.03387,
+    "recycled": 18.44533,
+    "littered": 0.79018
+  },
+  {
+    "year": 2012,
+    "generation": 275.8048,
+    "incinerated": 45.01795,
+    "landfilled": 142.1798,
+    "mismanaged": 67.81894,
+    "recycled": 19.96505,
+    "littered": 0.823102
+  },
+  {
+    "year": 2013,
+    "generation": 286.6458,
+    "incinerated": 48.0971,
+    "landfilled": 146.3968,
+    "mismanaged": 69.68334,
+    "recycled": 21.60647,
+    "littered": 0.862141
+  },
+  {
+    "year": 2014,
+    "generation": 296.1851,
+    "incinerated": 51.00089,
+    "landfilled": 149.7378,
+    "mismanaged": 71.34182,
+    "recycled": 23.21008,
+    "littered": 0.894448
+  },
+  {
+    "year": 2015,
+    "generation": 308.3011,
+    "incinerated": 54.33851,
+    "landfilled": 154.5423,
+    "mismanaged": 73.31356,
+    "recycled": 25.17185,
+    "littered": 0.934888
+  },
+  {
+    "year": 2016,
+    "generation": 319.5635,
+    "incinerated": 57.79281,
+    "landfilled": 159.264,
+    "mismanaged": 74.53483,
+    "recycled": 27.00377,
+    "littered": 0.9681
+  },
+  {
+    "year": 2017,
+    "generation": 331.0198,
+    "incinerated": 61.49829,
+    "landfilled": 163.7714,
+    "mismanaged": 75.79244,
+    "recycled": 28.95485,
+    "littered": 1.002834
+  },
+  {
+    "year": 2018,
+    "generation": 342.2391,
+    "incinerated": 65.31256,
+    "landfilled": 168.3179,
+    "mismanaged": 76.64424,
+    "recycled": 30.92735,
+    "littered": 1.037017
+  },
+  {
+    "year": 2019,
+    "generation": 353.2911,
+    "incinerated": 67.311,
+    "landfilled": 173.8644,
+    "mismanaged": 79.28664,
+    "recycled": 32.82903,
+    "littered": 0
+  },
+  {
+    "year": 2020,
+    "generation": 359.9827,
+    "incinerated": 68.04461,
+    "landfilled": 177.0088,
+    "mismanaged": 80.63696,
+    "recycled": 34.29233,
+    "littered": 0
+  },
+  {
+    "year": 2021,
+    "generation": 368.715,
+    "incinerated": 69.62248,
+    "landfilled": 181.2828,
+    "mismanaged": 81.71621,
+    "recycled": 36.09343,
+    "littered": 0
+  },
+  {
+    "year": 2022,
+    "generation": 379.3076,
+    "incinerated": 71.54809,
+    "landfilled": 186.5765,
+    "mismanaged": 83.09911,
+    "recycled": 38.08389,
+    "littered": 0
+  },
+  {
+    "year": 2023,
+    "generation": 389.3276,
+    "incinerated": 73.38781,
+    "landfilled": 191.6185,
+    "mismanaged": 84.23578,
+    "recycled": 40.08546,
+    "littered": 0
+  },
+  {
+    "year": 2024,
+    "generation": 398.9204,
+    "incinerated": 75.07282,
+    "landfilled": 196.472,
+    "mismanaged": 85.30685,
+    "recycled": 42.06866,
+    "littered": 0
+  },
+  {
+    "year": 2025,
+    "generation": 408.751,
+    "incinerated": 76.73873,
+    "landfilled": 201.4797,
+    "mismanaged": 86.43072,
+    "recycled": 44.10193,
+    "littered": 0
+  },
+  {
+    "year": 2026,
+    "generation": 419.2926,
+    "incinerated": 78.48492,
+    "landfilled": 206.8696,
+    "mismanaged": 87.68286,
+    "recycled": 46.25523,
+    "littered": 0
+  },
+  {
+    "year": 2027,
+    "generation": 430.5056,
+    "incinerated": 80.3183,
+    "landfilled": 212.6158,
+    "mismanaged": 89.03201,
+    "recycled": 48.53951,
+    "littered": 0
+  },
+  {
+    "year": 2028,
+    "generation": 442.3322,
+    "incinerated": 82.23998,
+    "landfilled": 218.6662,
+    "mismanaged": 90.46732,
+    "recycled": 50.95871,
+    "littered": 0
+  },
+  {
+    "year": 2029,
+    "generation": 454.5755,
+    "incinerated": 84.22827,
+    "landfilled": 224.9087,
+    "mismanaged": 91.93871,
+    "recycled": 53.49988,
+    "littered": 0
+  },
+  {
+    "year": 2030,
+    "generation": 467.1434,
+    "incinerated": 86.27319,
+    "landfilled": 231.2968,
+    "mismanaged": 93.41924,
+    "recycled": 56.15416,
+    "littered": 0
+  },
+  {
+    "year": 2031,
+    "generation": 480.0324,
+    "incinerated": 88.37691,
+    "landfilled": 237.8214,
+    "mismanaged": 94.91495,
+    "recycled": 58.91914,
+    "littered": 0
+  },
+  {
+    "year": 2032,
+    "generation": 493.2895,
+    "incinerated": 90.53989,
+    "landfilled": 244.522,
+    "mismanaged": 96.44004,
+    "recycled": 61.78753,
+    "littered": 0
+  },
+  {
+    "year": 2033,
+    "generation": 506.9732,
+    "incinerated": 92.76756,
+    "landfilled": 251.4329,
+    "mismanaged": 98.01738,
+    "recycled": 64.75539,
+    "littered": 0
+  },
+  {
+    "year": 2034,
+    "generation": 521.1532,
+    "incinerated": 95.06681,
+    "landfilled": 258.593,
+    "mismanaged": 99.66504,
+    "recycled": 67.82836,
+    "littered": 0
+  },
+  {
+    "year": 2035,
+    "generation": 535.7853,
+    "incinerated": 97.43616,
+    "landfilled": 265.9728,
+    "mismanaged": 101.3772,
+    "recycled": 70.99905,
+    "littered": 0
+  },
+  {
+    "year": 2036,
+    "generation": 550.8387,
+    "incinerated": 99.87027,
+    "landfilled": 273.563,
+    "mismanaged": 103.1439,
+    "recycled": 74.26152,
+    "littered": 0
+  },
+  {
+    "year": 2037,
+    "generation": 566.3675,
+    "incinerated": 102.3622,
+    "landfilled": 281.4211,
+    "mismanaged": 104.9561,
+    "recycled": 77.62819,
+    "littered": 0
+  },
+  {
+    "year": 2038,
+    "generation": 582.2675,
+    "incinerated": 104.9075,
+    "landfilled": 289.3112,
+    "mismanaged": 106.9608,
+    "recycled": 81.08795,
+    "littered": 0
+  },
+  {
+    "year": 2039,
+    "generation": 598.5236,
+    "incinerated": 107.509,
+    "landfilled": 297.3702,
+    "mismanaged": 109.0044,
+    "recycled": 84.63997,
+    "littered": 0
+  },
+  {
+    "year": 2040,
+    "generation": 615.1011,
+    "incinerated": 110.1632,
+    "landfilled": 305.596,
+    "mismanaged": 111.062,
+    "recycled": 88.27978,
+    "littered": 0
+  },
+  {
+    "year": 2041,
+    "generation": 631.9908,
+    "incinerated": 112.8593,
+    "landfilled": 313.9975,
+    "mismanaged": 113.13,
+    "recycled": 92.00397,
+    "littered": 0
+  },
+  {
+    "year": 2042,
+    "generation": 649.2277,
+    "incinerated": 115.6096,
+    "landfilled": 322.5889,
+    "mismanaged": 115.2093,
+    "recycled": 95.81997,
+    "littered": 0
+  },
+  {
+    "year": 2043,
+    "generation": 666.842,
+    "incinerated": 118.4233,
+    "landfilled": 331.4052,
+    "mismanaged": 117.3161,
+    "recycled": 99.69747,
+    "littered": 0
+  },
+  {
+    "year": 2044,
+    "generation": 684.8114,
+    "incinerated": 121.3019,
+    "landfilled": 340.4238,
+    "mismanaged": 119.4486,
+    "recycled": 103.637,
+    "littered": 0
+  },
+  {
+    "year": 2045,
+    "generation": 703.0767,
+    "incinerated": 124.2421,
+    "landfilled": 349.6123,
+    "mismanaged": 121.5707,
+    "recycled": 107.6515,
+    "littered": 0
+  },
+  {
+    "year": 2046,
+    "generation": 721.6309,
+    "incinerated": 127.2479,
+    "landfilled": 358.9671,
+    "mismanaged": 123.6766,
+    "recycled": 111.7394,
+    "littered": 0
+  },
+  {
+    "year": 2047,
+    "generation": 740.4085,
+    "incinerated": 130.3127,
+    "landfilled": 368.4445,
+    "mismanaged": 125.7498,
+    "recycled": 115.9015,
+    "littered": 0
+  },
+  {
+    "year": 2048,
+    "generation": 759.4966,
+    "incinerated": 133.4505,
+    "landfilled": 378.0911,
+    "mismanaged": 127.8023,
+    "recycled": 120.1527,
+    "littered": 0
+  },
+  {
+    "year": 2049,
+    "generation": 778.8656,
+    "incinerated": 136.6574,
+    "landfilled": 387.8899,
+    "mismanaged": 129.8316,
+    "recycled": 124.4866,
+    "littered": 0
+  },
+  {
+    "year": 2050,
+    "generation": 798.5842,
+    "incinerated": 139.9454,
+    "landfilled": 397.8213,
+    "mismanaged": 131.9011,
+    "recycled": 128.9164,
+    "littered": 0
+  },
+  {
+    "year": 2051,
+    "generation": 818.5242,
+    "incinerated": 143.3249,
+    "landfilled": 407.8448,
+    "mismanaged": 133.9584,
+    "recycled": 133.3961,
+    "littered": 0
+  },
+  {
+    "year": 2052,
+    "generation": 838.7324,
+    "incinerated": 146.8266,
+    "landfilled": 418.0248,
+    "mismanaged": 135.9907,
+    "recycled": 137.8903,
+    "littered": 0
+  },
+  {
+    "year": 2053,
+    "generation": 859.2657,
+    "incinerated": 150.4215,
+    "landfilled": 428.3615,
+    "mismanaged": 138.0108,
+    "recycled": 142.472,
+    "littered": 0
+  },
+  {
+    "year": 2054,
+    "generation": 880.1158,
+    "incinerated": 154.1217,
+    "landfilled": 438.9036,
+    "mismanaged": 140.0233,
+    "recycled": 147.0671,
+    "littered": 0
+  },
+  {
+    "year": 2055,
+    "generation": 901.3279,
+    "incinerated": 157.9261,
+    "landfilled": 449.5556,
+    "mismanaged": 142.0864,
+    "recycled": 151.7597,
+    "littered": 0
+  },
+  {
+    "year": 2056,
+    "generation": 922.9673,
+    "incinerated": 161.8908,
+    "landfilled": 460.4651,
+    "mismanaged": 144.1955,
+    "recycled": 156.4159,
+    "littered": 0
+  },
+  {
+    "year": 2057,
+    "generation": 945.0465,
+    "incinerated": 165.9816,
+    "landfilled": 471.6054,
+    "mismanaged": 146.3027,
+    "recycled": 161.1567,
+    "littered": 0
+  },
+  {
+    "year": 2058,
+    "generation": 967.5381,
+    "incinerated": 170.1935,
+    "landfilled": 482.9554,
+    "mismanaged": 148.3922,
+    "recycled": 165.997,
+    "littered": 0
+  },
+  {
+    "year": 2059,
+    "generation": 990.496,
+    "incinerated": 174.5374,
+    "landfilled": 494.5357,
+    "mismanaged": 150.4716,
+    "recycled": 170.9513,
+    "littered": 0
+  },
+  {
+    "year": 2060,
+    "generation": 1014.144,
+    "incinerated": 179.0904,
+    "landfilled": 506.5273,
+    "mismanaged": 152.5825,
+    "recycled": 175.9435,
+    "littered": 0
+  }
+]

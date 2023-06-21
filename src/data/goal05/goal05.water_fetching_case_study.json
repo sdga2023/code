@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Distance traveled",
+    "normal": 0.479305,
+    "drought": 0.616204
+  },
+  {
+    "category": "Hours of labor",
+    "normal": 13.99652,
+    "drought": 14.90222
+  }
+]

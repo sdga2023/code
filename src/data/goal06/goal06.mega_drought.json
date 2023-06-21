@@ -1,0 +1,38 @@
+[
+  {
+    "number_of_countries": 3,
+    "international_basins": "Asi (Orontes), Awash, Cavally, Cestos, Chiloango, Dnieper, Dniester, Drin, Ebro, Essequibo, Gambia, Garonne, Gash, Geba, Har Us Nur, Hari (Harirud), Helmand, Hondo, Ili (Kunes He), Incomati, Irrawaddy, Juba-Shibeli, Kemi, Lake Prespa, Lake Titicaca-Poopo System, Lempa, Maputo, Maritsa, Maroni, Moa, Neretva, Ntem, Ob, Oueme, Pasvik, Red (Song Hong), Rhone, Ruvuma, Salween, Schelde, Seine, St. John, Sulak, Torne (Tornealven), Tumen, Umbeluzi, Vardar, Volga, and Zapaleri"
+  },
+  {
+    "number_of_countries": 4,
+    "international_basins": "Amur, Daugava, Elbe, Indus, Komoe, Lake Turkana, Limpopo, Lotagipi Swamp, Narva, Oder (Odra), Ogooue, Okavango, Orange, Po, Pu-Lun-T'o, Senegal, and Struma"
+  },
+  {
+    "number_of_countries": 5,
+    "international_basins": "La Plata, Neman, and Vistula (Wista)"
+  },
+  {
+    "number_of_countries": 6,
+    "international_basins": "Aral Sea, Ganges-Brahmaputra-Meghna, Jordan, Kura-Araks, Mekong, Tarim, Tigris and Euphrates (Shatt al Arab), and Volta"
+  },
+  {
+    "number_of_countries": 8,
+    "international_basins": "Amazon and Lake Chad"
+  },
+  {
+    "number_of_countries": 9,
+    "international_basins": "Rhine and Zambezi"
+  },
+  {
+    "number_of_countries": 10,
+    "international_basins": "Nile"
+  },
+  {
+    "number_of_countries": 11,
+    "international_basins": "Congo and Niger"
+  },
+  {
+    "number_of_countries": 17,
+    "international_basins": "Danube"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "year": 2018,
+    "gdp_growth": 3.5,
+    "is_projected": false
+  },
+  {
+    "year": 2019,
+    "gdp_growth": 3.2,
+    "is_projected": false
+  },
+  {
+    "year": 2020,
+    "gdp_growth": -3.8,
+    "is_projected": false
+  },
+  {
+    "year": 2021,
+    "gdp_growth": 3.4,
+    "is_projected": false
+  },
+  {
+    "year": 2021,
+    "gdp_growth": 3.4,
+    "is_projected": true
+  },
+  {
+    "year": 2022,
+    "gdp_growth": -35,
+    "is_projected": true
+  },
+  {
+    "year": 2023,
+    "gdp_growth": 3.3,
+    "is_projected": true
+  },
+  {
+    "year": 2024,
+    "gdp_growth": 4.1,
+    "is_projected": true
+  }
+]

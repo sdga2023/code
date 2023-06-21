@@ -1,0 +1,97 @@
+[
+  {
+    "iso3c": "MEX",
+    "closurelength": 48,
+    "yearslost": -1.67
+  },
+  {
+    "iso3c": "BRA",
+    "closurelength": 26,
+    "yearslost": -0.97
+  },
+  {
+    "iso3c": "POL",
+    "closurelength": 20,
+    "yearslost": -0.91
+  },
+  {
+    "iso3c": "RUS",
+    "closurelength": 14,
+    "yearslost": -0.82
+  },
+  {
+    "iso3c": "NOR",
+    "closurelength": 7,
+    "yearslost": -0.73
+  },
+  {
+    "iso3c": "CHN",
+    "closurelength": 7,
+    "yearslost": -0.67
+  },
+  {
+    "iso3c": "ZAF",
+    "closurelength": 22,
+    "yearslost": -0.67
+  },
+  {
+    "iso3c": "CHE",
+    "closurelength": 8,
+    "yearslost": -0.61
+  },
+  {
+    "iso3c": "ITA",
+    "closurelength": 15,
+    "yearslost": -0.58
+  },
+  {
+    "iso3c": "BEL",
+    "closurelength": 9,
+    "yearslost": -0.55
+  },
+  {
+    "iso3c": "NLD",
+    "closurelength": 10,
+    "yearslost": -0.52
+  },
+  {
+    "iso3c": "DEU",
+    "closurelength": 10,
+    "yearslost": -0.42
+  },
+  {
+    "iso3c": "USA",
+    "closurelength": 23,
+    "yearslost": -0.42
+  },
+  {
+    "iso3c": "CZE",
+    "closurelength": 9,
+    "yearslost": -0.33
+  },
+  {
+    "iso3c": "ENGLAND",
+    "closurelength": 10,
+    "yearslost": -0.27
+  },
+  {
+    "iso3c": "ESP",
+    "closurelength": 12,
+    "yearslost": -0.15
+  },
+  {
+    "iso3c": "AUS",
+    "closurelength": 8,
+    "yearslost": 0
+  },
+  {
+    "iso3c": "DNK",
+    "closurelength": 8,
+    "yearslost": 0
+  },
+  {
+    "iso3c": "JPN",
+    "closurelength": 11,
+    "yearslost": 0
+  }
+]

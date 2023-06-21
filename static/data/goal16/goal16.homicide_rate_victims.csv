@@ -1,0 +1,85 @@
+"iso3c","year","regions_aggregation","rate","total"
+"EAS",2010,"East Asia & Pacific",1.545120335,34300
+"EAS",2011,"East Asia & Pacific",1.452625068,32500
+"EAS",2012,"East Asia & Pacific",1.429520648,32200
+"EAS",2013,"East Asia & Pacific",1.383780296,31500
+"EAS",2014,"East Asia & Pacific",1.366635523,31300
+"EAS",2015,"East Asia & Pacific",1.294059949,29900
+"EAS",2016,"East Asia & Pacific",1.316020944,30600
+"EAS",2017,"East Asia & Pacific",1.153664145,27000
+"EAS",2018,"East Asia & Pacific",1.013518285,23900
+"EAS",2019,"East Asia & Pacific",0.9641006289,22800
+"EAS",2020,"East Asia & Pacific",0.9734539546,23100
+"EAS",2021,"East Asia & Pacific",0.9339714914,22300
+"ECS",2010,"Europe & Central Asia",3.67990945,32700
+"ECS",2011,"Europe & Central Asia",3.545247178,31700
+"ECS",2012,"Europe & Central Asia",3.499276167,31400
+"ECS",2013,"Europe & Central Asia",3.385297794,30500
+"ECS",2014,"Europe & Central Asia",3.380698294,30600
+"ECS",2015,"Europe & Central Asia",3.348630626,30400
+"ECS",2016,"Europe & Central Asia",3.3023653,30100
+"ECS",2017,"Europe & Central Asia",2.942393223,26900
+"ECS",2018,"Europe & Central Asia",2.681134883,24600
+"ECS",2019,"Europe & Central Asia",2.525112031,23200
+"ECS",2020,"Europe & Central Asia",2.468751589,22800
+"ECS",2021,"Europe & Central Asia",2.453113491,22600
+"LCN",2010,"Latin America & Caribbean",23.79515045,140300
+"LCN",2011,"Latin America & Caribbean",24.23655784,144500
+"LCN",2012,"Latin America & Caribbean",24.40909318,147100
+"LCN",2013,"Latin America & Caribbean",23.69923388,144400
+"LCN",2014,"Latin America & Caribbean",23.31381748,143500
+"LCN",2015,"Latin America & Caribbean",22.64245328,140800
+"LCN",2016,"Latin America & Caribbean",23.47039576,147500
+"LCN",2017,"Latin America & Caribbean",23.93086334,151800
+"LCN",2018,"Latin America & Caribbean",23.13063685,148100
+"LCN",2019,"Latin America & Caribbean",20.92848514,135100
+"LCN",2020,"Latin America & Caribbean",20.07931171,130700
+"LCN",2021,"Latin America & Caribbean",19.47769829,127600
+"MEA",2010,"Middle East & North Africa",2.898029618,11500
+"MEA",2011,"Middle East & North Africa",3.800983044,15400
+"MEA",2012,"Middle East & North Africa",3.720243317,15400
+"MEA",2013,"Middle East & North Africa",3.916379606,16600
+"MEA",2014,"Middle East & North Africa",3.862496487,16700
+"MEA",2015,"Middle East & North Africa",3.695298951,16200
+"MEA",2016,"Middle East & North Africa",3.807469838,17000
+"MEA",2017,"Middle East & North Africa",3.951261945,17900
+"MEA",2018,"Middle East & North Africa",4.016917112,18600
+"MEA",2019,"Middle East & North Africa",3.826437848,18000
+"MEA",2020,"Middle East & North Africa",3.538911259,16900
+"MEA",2021,"Middle East & North Africa",3.899875497,18900
+"NAC",2010,"North America",4.427743427,15300
+"NAC",2011,"North America",4.3860446,15300
+"NAC",2012,"North America",4.385231519,15400
+"NAC",2013,"North America",4.184175212,14800
+"NAC",2014,"North America",4.109068766,14700
+"NAC",2015,"North America",4.577375291,16500
+"NAC",2016,"North America",4.962480778,18000
+"NAC",2017,"North America",4.903265806,18000
+"NAC",2018,"North America",4.614224944,17000
+"NAC",2019,"North America",4.665963146,17400
+"NAC",2020,"North America",5.970432692,22300
+"NAC",2021,"North America",6.31185589,23700
+"SAS",2010,"South Asia",3.987784394,66200
+"SAS",2011,"South Asia",4.044339766,68100
+"SAS",2012,"South Asia",4.023335241,68700
+"SAS",2013,"South Asia",3.918339304,67900
+"SAS",2014,"South Asia",3.942435173,69200
+"SAS",2015,"South Asia",3.510020511,62300
+"SAS",2016,"South Asia",3.221906473,57900
+"SAS",2017,"South Asia",3.099347033,56400
+"SAS",2018,"South Asia",3.080889962,56700
+"SAS",2019,"South Asia",3.040362747,56600
+"SAS",2020,"South Asia",3.036021598,57100
+"SAS",2021,"South Asia",3.009894157,57200
+"SSF",2010,"Sub-Saharan Africa",13.62078497,119800
+"SSF",2011,"Sub-Saharan Africa",13.57751006,122800
+"SSF",2012,"Sub-Saharan Africa",13.65871847,126900
+"SSF",2013,"Sub-Saharan Africa",13.62969874,130200
+"SSF",2014,"Sub-Saharan Africa",13.71382727,134600
+"SSF",2015,"Sub-Saharan Africa",13.67761402,138000
+"SSF",2016,"Sub-Saharan Africa",13.62561194,141200
+"SSF",2017,"Sub-Saharan Africa",13.79865277,146800
+"SSF",2018,"Sub-Saharan Africa",13.5648659,148200
+"SSF",2019,"Sub-Saharan Africa",13.54182051,151900
+"SSF",2020,"Sub-Saharan Africa",13.2486586,152500
+"SSF",2021,"Sub-Saharan Africa",13.85677793,163700

@@ -1,0 +1,155 @@
+"country","iso3c","acled"
+"Afghanistan","AFG",2307
+"Albania","ALB",3
+"Algeria","DZA",17
+"Angola","AGO",21
+"Argentina","ARG",23
+"Armenia","ARM",145
+"Australia","AUS",1
+"Austria","AUT",1
+"Azerbaijan","AZE",385
+"Bahamas","BHS",1
+"Bahrain","BHR",8
+"Bangladesh","BGD",235
+"Belarus","BLR",42
+"Belgium","BEL",2
+"Belize","BLZ",20
+"Benin","BEN",129
+"Bolivia","BOL",6
+"Bosnia and Herzegovina","BIH",4
+"Brazil","BRA",8873
+"Burkina Faso","BFA",1641
+"Burundi","BDI",327
+"Cambodia","KHM",5
+"Cameroon","CMR",675
+"Canada","CAN",1
+"Cape Verde","CPV",1
+"Central African Republic","CAF",256
+"Chad","TCD",111
+"Chile","CHL",134
+"China","CHN",168
+"Colombia","COL",2461
+"Comoros","COM",2
+"Costa Rica","CRI",5
+"Cuba","CUB",62
+"Cyprus","CYP",10
+"Czech Republic","CZE",1
+"Democratic Republic of Congo","COD",2823
+"Djibouti","DJI",3
+"Dominican Republic","DOM",19
+"East Timor","UNK",2
+"Ecuador","ECU",19
+"Egypt","EGY",186
+"El Salvador","SLV",273
+"Eritrea","ERI",4
+"eSwatini","SWZ",40
+"Ethiopia","ETH",1225
+"Fiji","FJI",1
+"Finland","FIN",2
+"France","FRA",31
+"Gabon","GAB",4
+"Gambia","GMB",4
+"Georgia","GEO",1
+"Germany","DEU",3
+"Ghana","GHA",99
+"Greece","GRC",48
+"Guatemala","GTM",724
+"Guinea","GIN",26
+"Guinea-Bissau","GNB",12
+"Guyana","GUY",5
+"Haiti","HTI",639
+"Honduras","HND",587
+"Hungary","HUN",1
+"India","IND",1026
+"Indonesia","IDN",124
+"Iran","IRN",235
+"Iraq","IRQ",5669
+"Israel","ISR",67
+"Italy","ITA",11
+"Ivory Coast","CIV",41
+"Jamaica","JAM",350
+"Japan","JPN",1
+"Jordan","JOR",5
+"Kazakhstan","KAZ",121
+"Kenya","KEN",438
+"Kosovo","XKX",19
+"Kyrgyzstan","KGZ",53
+"Lebanon","LBN",141
+"Lesotho","LSO",9
+"Liberia","LBR",9
+"Libya","LBY",112
+"Madagascar","MDG",156
+"Malawi","MWI",10
+"Malaysia","MYS",4
+"Mali","MLI",1342
+"Mauritania","MRT",5
+"Mauritius","MUS",15
+"Mayotte","UNK",3
+"Mexico","MEX",6779
+"Moldova","MDA",12
+"Montenegro","MNE",1
+"Morocco","MAR",46
+"Mozambique","MOZ",474
+"Myanmar","MMR",9286
+"Namibia","NAM",2
+"Nepal","NPL",39
+"Netherlands","NLD",1
+"Nicaragua","NIC",12
+"Niger","NER",565
+"Nigeria","NGA",3324
+"North Korea","PRK",17
+"North Macedonia","MKD",1
+"Norway","NOR",2
+"Oman","OMN",1
+"Pakistan","PAK",1006
+"Palestine","PSE",798
+"Panama","PAN",1
+"Papua New Guinea","PNG",89
+"Paraguay","PRY",30
+"Peru","PER",7
+"Philippines","PHL",820
+"Poland","POL",1
+"Puerto Rico","PRI",234
+"Republic of Congo","COG",6
+"Reunion","REU",3
+"Romania","ROM",4
+"Russia","RUS",410
+"Rwanda","RWA",21
+"Sao Tome and Principe","STP",2
+"Saudi Arabia","SAU",41
+"Senegal","SEN",19
+"Serbia","SRB",2
+"Sierra Leone","SLE",6
+"Sint Maarten","SXM",2
+"Slovenia","SVN",1
+"Solomon Islands","SLB",1
+"Somalia","SOM",2930
+"South Africa","ZAF",146
+"South Sudan","SSD",597
+"Spain","ESP",4
+"Sri Lanka","LKA",2
+"Sudan","SDN",678
+"Suriname","SUR",3
+"Sweden","SWE",4
+"Switzerland","CHE",2
+"Syria","SYR",10483
+"Taiwan","TWN",2
+"Tajikistan","TJK",23
+"Tanzania","TZA",25
+"Thailand","THA",108
+"Togo","TGO",29
+"Trinidad and Tobago","TTO",330
+"Tunisia","TUN",4
+"Turkey","TUR",324
+"Uganda","UGA",245
+"Ukraine","UKR",34631
+"United Arab Emirates","ARE",7
+"United Kingdom","GBR",5
+"United States","USA",94
+"Uruguay","URY",2
+"Uzbekistan","UZB",27
+"Venezuela","VEN",646
+"Yemen","YEM",6429
+"Zambia","ZMB",9
+"Zimbabwe","ZWE",38
+,"WLD",116723

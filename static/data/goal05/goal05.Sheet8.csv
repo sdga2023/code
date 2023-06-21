@@ -1,0 +1,123 @@
+"iso3c","country","date","year","type","value"
+482,"AFG","Afghanistan",2017,"married_by_18",28.25738
+483,"AGO","Angola",2016,"married_by_18",30.3
+484,"ALB","Albania",2018,"married_by_18",11.8
+485,"ARM","Armenia",2016,"married_by_18",5.3
+486,"AZE","Azerbaijan",2011,"married_by_18",11
+487,"BDI","Burundi",2017,"married_by_18",19
+488,"BEN","Benin",2018,"married_by_18",30.6
+489,"BFA","Burkina Faso",2010,"married_by_18",51.6
+490,"BGD","Bangladesh",2019,"married_by_18",51.41993793
+491,"BIH","Bosnia and Herzegovina",2012,"married_by_18",3.496291
+492,"BLR","Belarus",2019,"married_by_18",4.7
+493,"BLZ","Belize",2016,"married_by_18",33.5
+494,"BOL","Bolivia",2016,"married_by_18",19.6611257
+495,"BRB","Barbados",2012,"married_by_18",10.712449
+496,"BTN","Bhutan",2010,"married_by_18",25.8
+497,"CAF","Central African Republic",2019,"married_by_18",61
+498,"CIV","Cote d'Ivoire",2016,"married_by_18",27
+499,"CMR","Cameroon",2018,"married_by_18",29.8
+500,"COD","Congo, Dem. Rep.",2018,"married_by_18",29.1127603
+501,"COG","Congo, Rep.",2015,"married_by_18",27.3
+502,"COL","Colombia",2015,"married_by_18",23.4
+503,"COM","Comoros",2012,"married_by_18",31.6
+504,"CRI","Costa Rica",2018,"married_by_18",17.1
+505,"CUB","Cuba",2019,"married_by_18",29.4
+506,"DJI","Djibouti",2012,"married_by_18",5.3
+507,"DOM","Dominican Republic",2014,"married_by_18",35.9
+508,"DZA","Algeria",2019,"married_by_18",3.8
+509,"ECU","Ecuador",2018,"married_by_18",22.2
+510,"EGY","Egypt, Arab Rep.",2014,"married_by_18",17.4
+511,"ERI","Eritrea",2010,"married_by_18",40.67618
+512,"ETH","Ethiopia",2016,"married_by_18",40.3
+513,"FIN","Finland",2017,"married_by_18",0
+514,"GAB","Gabon",2012,"married_by_18",21.9
+516,"GEO","Georgia",2018,"married_by_18",13.9
+517,"GHA","Ghana",2018,"married_by_18",19.3291986
+518,"GIN","Guinea",2018,"married_by_18",46.5
+519,"GMB","Gambia, The",2020,"married_by_18",23.1
+520,"GNB","Guinea-Bissau",2019,"married_by_18",25.7
+521,"GNQ","Equatorial Guinea",2011,"married_by_18",29.5
+522,"GTM","Guatemala",2015,"married_by_18",29.5
+523,"GUY","Guyana",2014,"married_by_18",30.2
+524,"HND","Honduras",2012,"married_by_18",33.6
+525,"HTI","Haiti",2017,"married_by_18",14.9
+526,"IDN","Indonesia",2017,"married_by_18",16.3
+527,"IND","India",2016,"married_by_18",25.3
+528,"IRN","Iran, Islamic Rep.",2011,"married_by_18",17
+529,"IRQ","Iraq",2018,"married_by_18",27.9
+530,"JAM","Jamaica",2011,"married_by_18",7.867521
+531,"JOR","Jordan",2018,"married_by_18",9.7
+532,"KAZ","Kazakhstan",2015,"married_by_18",7
+533,"KEN","Kenya",2014,"married_by_18",22.9
+534,"KGZ","Kyrgyz Republic",2018,"married_by_18",12.867392
+535,"KHM","Cambodia",2014,"married_by_18",18.5
+536,"KIR","Kiribati",2019,"married_by_18",18.43464835
+537,"LAO","Lao PDR",2017,"married_by_18",32.7
+538,"LBN","Lebanon",2016,"married_by_18",6
+539,"LBR","Liberia",2020,"married_by_18",24.9
+540,"LCA","St. Lucia",2012,"married_by_18",23.99081
+541,"LKA","Sri Lanka",2016,"married_by_18",9.8
+542,"LSO","Lesotho",2018,"married_by_18",16.41238527
+544,"MAR","Morocco",2018,"married_by_18",13.7
+545,"MDA","Moldova",2012,"married_by_18",12.2
+546,"MDG","Madagascar",2018,"married_by_18",40.28252799
+547,"MDV","Maldives",2017,"married_by_18",2.2
+548,"MEX","Mexico",2018,"married_by_18",20.701
+549,"MKD","North Macedonia",2019,"married_by_18",7.5
+550,"MLI","Mali",2018,"married_by_18",53.7
+551,"MMR","Myanmar",2016,"married_by_18",16
+552,"MNE","Montenegro",2018,"married_by_18",5.8
+553,"MNG","Mongolia",2018,"married_by_18",12.03123058
+554,"MOZ","Mozambique",2015,"married_by_18",52.9
+555,"MRT","Mauritania",2015,"married_by_18",36.98420177
+556,"MWI","Malawi",2016,"married_by_18",42.1
+557,"NAM","Namibia",2013,"married_by_18",6.9
+558,"NER","Niger",2012,"married_by_18",76.3
+559,"NGA","Nigeria",2018,"married_by_18",43.4
+560,"NIC","Nicaragua",2012,"married_by_18",35.2
+561,"NPL","Nepal",2019,"married_by_18",32.8
+562,"OMN","Oman",2014,"married_by_18",4
+563,"PAK","Pakistan",2018,"married_by_18",18.3
+564,"PAN","Panama",2013,"married_by_18",26.4
+565,"PER","Peru",2018,"married_by_18",17.42714615
+566,"PHL","Philippines",2017,"married_by_18",16.5
+567,"PNG","Papua New Guinea",2018,"married_by_18",27.3
+568,"PRK","Korea, Dem. People's Rep.",2018,"married_by_18",0.1
+569,"PRY","Paraguay",2016,"married_by_18",21.6
+570,"PSE","West Bank and Gaza",2020,"married_by_18",13.4
+571,"QAT","Qatar",2012,"married_by_18",4.16574132
+572,"RWA","Rwanda",2020,"married_by_18",5.5
+573,"SDN","Sudan",2014,"married_by_18",34.19883
+574,"SEN","Senegal",2019,"married_by_18",30.5
+575,"SGP","Singapore",2020,"married_by_18",0.1
+576,"SLB","Solomon Islands",2015,"married_by_18",21.28157
+577,"SLE","Sierra Leone",2019,"married_by_18",29.6
+578,"SLV","El Salvador",2014,"married_by_18",25.5
+579,"SOM","Somalia",2020,"married_by_18",35.5
+580,"SRB","Serbia",2019,"married_by_18",5.5
+581,"SSD","South Sudan",2010,"married_by_18",51.54554
+582,"STP","Sao Tome and Principe",2019,"married_by_18",28
+583,"SUR","Suriname",2018,"married_by_18",36.03528096
+584,"SWZ","Eswatini",2014,"married_by_18",5.3025
+585,"TCD","Chad",2019,"married_by_18",60.6
+586,"TGO","Togo",2017,"married_by_18",24.8
+587,"THA","Thailand",2019,"married_by_18",20.2
+588,"TJK","Tajikistan",2017,"married_by_18",8.7
+589,"TKM","Turkmenistan",2019,"married_by_18",6.1
+590,"TLS","Timor-Leste",2016,"married_by_18",14.9
+591,"TON","Tonga",2019,"married_by_18",10.1
+592,"TTO","Trinidad and Tobago",2011,"married_by_18",11.1829983
+593,"TUN","Tunisia",2018,"married_by_18",1.48592558
+594,"TUR","Turkiye",2018,"married_by_18",14.7
+595,"TZA","Tanzania",2016,"married_by_18",30.5
+596,"UGA","Uganda",2016,"married_by_18",34
+597,"UKR","Ukraine",2012,"married_by_18",9.058896548
+598,"URY","Uruguay",2013,"married_by_18",24.62669186
+599,"VNM","Vietnam",2014,"married_by_18",10.56603565
+600,"VUT","Vanuatu",2013,"married_by_18",21.38568
+601,"WSM","Samoa",2020,"married_by_18",7.4
+602,"YEM","Yemen, Rep.",2013,"married_by_18",31.9
+603,"ZAF","South Africa",2016,"married_by_18",3.6
+604,"ZMB","Zambia",2018,"married_by_18",29
+605,"ZWE","Zimbabwe",2019,"married_by_18",33.6580568

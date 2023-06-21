@@ -1,0 +1,586 @@
+[
+  {
+    "iso3c": "EGY",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "ZAF",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "SYC",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "SDN",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "SDN",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "BTN",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "IND",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "IDN",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "NPL",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "PHL",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "THA",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "TUR",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "ARG",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "BRA",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "CHL",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "COL",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "ECU",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "URY",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "VEN",
+    "ranking": "banned"
+  },
+  {
+    "iso3c": "BGD",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "PAK",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "BIH",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "MKD",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "MNE",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "SRB",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "UZB",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "BOL",
+    "ranking": "euro3"
+  },
+  {
+    "iso3c": "MAR",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "RWA",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "BRN",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "MYS",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "NZL",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "LKA",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "VNM",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "AZE",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "BLR",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "KAZ",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "TJK",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "CRI",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "MEX",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "PER",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "GHA",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "NGA",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "BEN",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "BFA",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "CPV",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "CIV",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "GMB",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "GIN",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "GNB",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "LBR",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "MLI",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "NER",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "SEN",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "SLE",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "TGO",
+    "ranking": "euro4"
+  },
+  {
+    "iso3c": "SGP",
+    "ranking": "euro5"
+  },
+  {
+    "iso3c": "ALB",
+    "ranking": "euro5"
+  },
+  {
+    "iso3c": "RUS",
+    "ranking": "euro5"
+  },
+  {
+    "iso3c": "UKR",
+    "ranking": "euro5"
+  },
+  {
+    "iso3c": "DZA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "AGO",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BWA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BDI",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "CMR",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "CAF",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TCD",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "COM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "COG",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "COD",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "DJI",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GNQ",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ERI",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "SWZ",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ETH",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GAB",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "KEN",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "LSO",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "LBY",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MWI",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MRT",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MUS",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MOZ",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "NAM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "STP",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "SOM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "SSD",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TZA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TUN",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "UGA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ZMB",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ZWE",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "AFG",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "KHM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "FJI",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "LAO",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MDV",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MNG",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MMR",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "NRU",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "PLW",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "PNG",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "WSM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TLS",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ARM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GEO",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "KGZ",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "MDA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TKM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ATG",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ABW",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BHS",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BRB",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BLZ",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BMU",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "CUB",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "DMA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "DOM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "SLV",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GUF",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GRD",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GTM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "GUY",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "HTI",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "HND",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "JAM",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "NIC",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "PAN",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "PRY",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "KNA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "LCA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "VCT",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "SUR",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TTO",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "TCA",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "BHR",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "IRN",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "IRQ",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ISR",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "JOR",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "KWT",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "LBN",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "OMN",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "QAT",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "SAU",
+    "ranking": "nostandard"
+  },
+  {
+    "iso3c": "ARE",
+    "ranking": "nostandard"
+  }
+]

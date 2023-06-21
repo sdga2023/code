@@ -1,0 +1,463 @@
+{
+  "config": {
+    "goal": "8",
+    "headline": "Rebuilding economies after COVID-19: Will countries recover?",
+    "introtext": "[goal: 8] aims to promote sustained, inclusive, and sustainable economic growth, full employment, and decent work for all. COVID-19 caused the deepest global recession in decades, reducing global GDP by 3.1 percent in 2020. Today only 5 percent of the world population live in a country that is on track to return to or surpass pre-COVID projections of economic output.",
+    "path": "data/goal08/goal08.globe_data.json",
+    "country_data_label": "Growth of GDP in 2020",
+    "legend_label": "GDP growth in 2020",
+    "legend_units": "%",
+    "targets_covered": [
+      {
+        "target": "1",
+        "translationPrefix": "goal08.config.targets_covered.#0"
+      },
+      {
+        "target": "5",
+        "translationPrefix": "goal08.config.targets_covered.#1"
+      },
+      {
+        "target": "9",
+        "translationPrefix": "goal08.config.targets_covered.#2"
+      }
+    ],
+    "source": "Gross Domestic Product (GDP). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+    "citation": "Stacy, Brian, and Maarten Lambrechts. 2023. “Rebuilding economies after COVID-19: Will countries recover?” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/9h86-kn38 https://www.doi.org/10.60616/9h86-kn38]",
+    "credits": "Brian Stacy",
+    "inputs": "Christian Eigen-Zucchi, Philip George Kenworthy, Nishant Yonzan",
+    "visuals": "Maarten Lambrechts"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "The global emergence of COVID-19 in 2020 [target: 3.3], along with the accompanying government measures taken to contain the disease, caused the greatest reduction in global economic activity since World War II [target: 8.1]. Following this shock and others such as inflation and Russia’s invasion of Ukraine, the world is not on track to make up the lost economic output in the foreseeable future.",
+      "translationPrefix": "goal08.content.#0"
+    },
+    {
+      "type": "subhed",
+      "text": "The damage done",
+      "translationPrefix": "goal08.content.#1"
+    },
+    {
+      "type": "factoid",
+      "title": "Global GDP growth",
+      "number": "-3.1%",
+      "label": "in 2020",
+      "text": "The global economy had been growing at a steady pace since 2010, but this trend abruptly reversed in 2020.  It was the worst economic decline in decades. Gross Domestic Product (GDP) dropped 3.1 percent in 2020 – more than twice the contraction seen in 2009 following the global financial crisis.",
+      "translationPrefix": "goal08.content.#2"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "barchartgdpgrowthworld",
+      "path": "data/goal08/goal08.gdp_loss.json",
+      "title": "COVID-19 took a heavy toll on the global economy in 2020",
+      "subtitle": "GDP growth (annual %)",
+      "visdescription": "Bar chart showing global annual economic growth from the period 1961 to 2024. In 2020, global economic growth was -3.1%, which was the lowest rate seen since World War II.",
+      "source": "World Bank, Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG NY.GDP.MKTP.KD.ZG]).",
+      "bartype": "gdp",
+      "translationPrefix": "goal08.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "Latin America and the Caribbean saw a reduction in GDP of 6.6 percent, while the GDP in South Asia fell 5.2 percent. East Asia and the Pacific saw GDP decline in 2020 for the first time since at least the 1960s.",
+      "translationPrefix": "goal08.content.#4"
+    },
+    {
+      "type": "vis",
+      "size": "content",
+      "graphic": "multiplebarcharts",
+      "bartype": "gdp",
+      "path": "data/goal08/goal08.gdp_loss.json",
+      "title": "The pandemic's impact across regions continues",
+      "subtitle": "GDP growth rate, adjusted for inflation. Post-2022 data is projected",
+      "visdescription": "Bar chart showing economic growth rates across regions from 2019 to 2024. Economic growth was negative for all regions in 2020.",
+      "source": "World Bank, Global Economic Prospects June 2023 ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ])",
+      "translationPrefix": "goal08.content.#5"
+    },
+    {
+      "type": "text",
+      "text": "Economic growth resumed in 2021, an important step toward recovery. But due to the sharp declines in the prior year, it is starting from a lower base, and the trajectory remains below pre-pandemic forecasts in the next few years due in part to the slow recovery from COVID as well as additional headwinds from inflation and the war in Ukraine.",
+      "translationPrefix": "goal08.content.#6"
+    },
+    {
+      "type": "subhed",
+      "text": "Global economic recovery remains elusive",
+      "translationPrefix": "goal08.content.#7"
+    },
+    {
+      "type": "text",
+      "text": "One way to assess whether the world is on track to recover the losses sustained in 2020 is to compare the current projected levels of economic output to the forecasts prior to COVID-19.  The January 2020 World Bank Global Economic Prospects Report was released before the declaration by the World Health Organization of the pandemic (which took place in March), and thus did not reflect the impact of COVID-19.  At the time, the World Bank expected global GDP to grow from roughly $85 trillion in 2019 to close to $87 trillion by 2020.[reference: Source: [link: https://www.worldbank.org/en/publication/global-economic-prospects January 2020 Global Economic Prospects].  All values expressed in 2015 U.S. dollars.]  The subsequent 2023 Global Economic Prospects shows a shortfall of close to $4.7 trillion from the 2020 forecast.[reference: Source: [link: https://www.worldbank.org/en/publication/global-economic-prospects June 2023 Global Economic Prospects]]",
+      "translationPrefix": "goal08.content.#8"
+    },
+    {
+      "type": "factoid",
+      "title": "Economic output",
+      "number": "$4.7",
+      "units": "trillion",
+      "label": "lower than expected in 2020",
+      "text": "Looking ahead, global GDP is not currently forecast to catch up to expected GDP levels prior to COVID-19, at least until 2025.  The dotted line in the chart shows the pre-COVID forecasts of global GDP, while the solid line shows the current projections.  By 2025, global GDP is expected to still fall $2.5 trillion short.",
+      "translationPrefix": "goal08.content.#9"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartworld",
+      "path": "data/goal08/goal08.gdp_diff.json",
+      "title": "Global GDP has fallen behind pre-COVID projections",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of global GDP compared to projections prior to COVID-19.  Global GDP is lagging behind pre-COVID projections even into 2024.",
+      "source": "[link: https://www.worldbank.org/en/publication/global-economic-prospects World Bank Global Economic Prospects]",
+      "precovid": "Pre-Covid forecasts",
+      "current": "Current projections",
+      "annotation": "In 2020, <b>global GDP fell by 3.1 percent</b>, while growth of 2.5 percent was forecast, <b>a difference of 5.6 percentage points</b>, which in absolute numbers is a difference of <b>close to 4.7 trillion dollars</b>.",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#10"
+    },
+    {
+      "type": "text",
+      "text": "These shortfalls are evident across all regions. By 2025, economic output in East Asia & Pacific is expected to be around 6 percent below its pre-pandemic trend, with Latin America & Caribbean 4 percent lower, and South Asia 8 percent below prior expectations. Economic activity in Europe & Central Asia is expected to have declined in 2022. The GDP of Ukraine is estimated to have fallen 29 percent in 2022 due to the Russian invasion, and the output of the Russian Federation dropped 2 percent. GDP growth for the region as a whole is not expected to return to the pre-COVID trend in the coming years.",
+      "translationPrefix": "goal08.content.#11"
+    },
+    {
+      "type": "vis",
+      "size": "content",
+      "graphic": "differencechartsregions",
+      "path": "data/goal08/goal08.gdp_diff.json",
+      "title": "COVID-19 caused damage across regions",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of regional GDP compared to projections prior to COVID-19. GDP across all regions is lagging behind pre-COVID projections even into 2024.",
+      "source": "[link: https://www.worldbank.org/en/publication/global-economic-prospects World Bank Global Economic Prospects]",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#12"
+    },
+    {
+      "type": "text_emphasis",
+      "text": "In 2023, [emphasis: 95 percent of people] live in countries with [emphasis: lower GDP growth] than forecast before the pandemic.",
+      "translationPrefix": "goal08.content.#13"
+    },
+    {
+      "type": "text",
+      "text": "Data comparing current economic projections to those prior to COVID-19 are available for each country in this chart.  Out of 188 economies with data, 165 were on track to have lower GDP in 2023 than forecast prior to COVID-19.[reference: Data come from the January 2020 and June 2023 Global Economic Prospects (GEP), when available.  For some countries, data from the October 2019 and April 2023 IMF World Economic Outlook is used when GEP data is not available.]  These 165 countries make up around 95 percent of the world population.",
+      "translationPrefix": "goal08.content.#14"
+    },
+    {
+      "type": "vis",
+      "size": "full",
+      "graphic": "worldtilegrid",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "Only 23 countries out of 188 are on track to recover from COVID-19 impacts by 2023",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "World tile grid chart showing line graphs for each country with the pre-COVID and current GDP projections. Only 23 out 183 countries are on track to be at a level of GDP equal to pre-COVID projections by 2023.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD])",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#15"
+    },
+    {
+      "type": "text",
+      "text": "India and Indonesia, two of the most populated countries in the world, have both taken a major economic hit. In 2023, India’s GDP is expected to see a shortfall of around $296 billion compared to pre-COVID expectations, 8.7 percent below earlier projections. Indonesia’s GDP will be around $107 billion lower, 8.3 percent below the 2020 projection, and both countrys’ economy is not expected to make up the lost ground at least through 2025. This suggests long-lasting damage.",
+      "translationPrefix": "goal08.content.#16"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartscountries",
+      "id": "idn-ind",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "Growth in India and Indonesia not on track to make up lost GDP",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of GDP for Indonesia and India compared to projections prior to COVID-19.  Both are lagging behind pre-COVID projections even into 2024.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#17"
+    },
+    {
+      "type": "text",
+      "text": "China initially outperformed other economies during the pandemic, but its growth has since slowed. China’s 2025 GDP is expected to be around 6 percent lower than expected prior to COVID-19.",
+      "translationPrefix": "goal08.content.#18"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartscountries",
+      "id": "chn",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "China on lower growth trajectory",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of GDP for China compared to projections prior to COVID-19.  China nearly caught up to pre-COVID projections by 2021, but now is expected to lag behind pre-COVID projections into 2024.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#19"
+    },
+    {
+      "type": "text",
+      "text": "A few dozen countries, including Ecuador and the Democratic Republic of Congo, are expected to nearly meet or surpass GDP projections from January 2020.  Ecuador caught back up to its original growth path due to a strong COVID vaccination campaign, favourable oil prices, and expanding domestic credit.[reference: [link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099302410122214877/idu06ea0d9ac04528040ab09429014f9fd11075b \"Macro Poverty Outlook for Ecuador : October 2022.\"](2022).] The Democratic Republic of Congo benefited from increased production and prices of copper and cobalt.[reference: [link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099037504262221926/idu07421d2520fe95041420a88d0bc58222ba500 \"Macro Poverty Outlook for Democratic Republic of Congo : April 2022.\"](2022).]",
+      "translationPrefix": "goal08.content.#20"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartscountries",
+      "id": "cod-ecu",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "Some countries have made up lost ground",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of GDP for the Democratic Republic of the Congo and Ecuador compared to projections prior to COVID-19.  Both are at or surpassing pre-COVID projections into 2024.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#21"
+    },
+    {
+      "type": "text",
+      "text": "A handful of countries are expected to surpass pre-COVID projections by a considerable degree.  Many of these countries have reaped outsized benefits from higher commodity prices or natural resource discoveries in recent years.  Nicaragua benefited from higher gold and coffee prices, which are major exports.[reference: [link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099521310132215673/idu0004e99730661b042900b96b031fba9e08d79 \"Macro Poverty Outlook for Nicaragua : October 2022\" ] (2022).] Guyana is benefiting from increased production and exports of oil and gas.[reference: [link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099317110122223108/idu02dfc1c8d0b2fe04942094ac0850f88e34d0e \"Macro Poverty Outlook for Guyana : October 2022\"](2022).]",
+      "translationPrefix": "goal08.content.#22"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartscountries",
+      "id": "nic-guy",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "Some countries have benefited from high commodity prices or natural resource discoveries",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of GDP for Nicaragua and Guyana compared to projections prior to COVID-19. Both are significantly surpassing pre-COVID projections into 2024.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#23"
+    },
+    {
+      "type": "text",
+      "text": "Factors beyond COVID-19 are also at play in several countries. Russia’s invasion devastated Ukraine’s economy.  Projections prior to the COVID-19 pandemic suggested that the GDP in Ukraine was expected to be $115 billion in 2022. Projections just prior to the war suggested a shortfall of around $10 billion compared to pre-COVID projection as a result of the pandemic. The latest projection shows 2022 GDP at $72 billion, cut by more than 40% as a result of the conflict.",
+      "translationPrefix": "goal08.content.#24"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartukraine",
+      "path": "data/goal08/goal08.ukraine_diff.json",
+      "title": "Ukraine: a double impact",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of GDP for Ukraine compared to projections prior to COVID-19 and after COVID-19 but before Russia’s invasion. Current forecasts of GDP are significantly below pre-COVID and pre-war forecasts.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "covidimpact": "COVID-19 impact",
+      "warimpact": "Impact of the war",
+      "current": "Current forecast",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "precovid": "Pre-Covid forecast",
+      "prewar": "Pre-war forecast",
+      "translationPrefix": "goal08.content.#25"
+    },
+    {
+      "type": "factoid",
+      "title": "GDP in tourism-dependent economies",
+      "number": "10%",
+      "label": "lower than expected",
+      "text": "Tourism took an exceptionally severe hit from COVID-19. [target: 8.9] focuses on promoting sustainable tourism that creates jobs and supports local culture and products. For countries where tourism made up more than 10 percent of GDP (around 34 countries), economic output was more than 9 percent lower in 2021 compared to pre-pandemic forecasts. For the 25 countries where tourism makes up 5 to 10 percent of GDP, the shortfall was on average around 6 percent.",
+      "translationPrefix": "goal08.content.#26"
+    },
+    {
+      "type": "vis",
+      "id": "tourism",
+      "size": "main",
+      "graphic": "differencechartscountries",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "Economies based on tourism took a large hit",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current GDP projections of four tourism-dependent countries (Bahamas, Fiji, Mauritius, and Thailand) versus pre-COVID projections. These countries saw large impacts of COVID-19 on GDP and are not expected to catch up to pre-COVID projections into 2024.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#27"
+    },
+    {
+      "type": "text",
+      "text": "You may search for the data for any country of interest below:",
+      "translationPrefix": "goal08.content.#28"
+    },
+    {
+      "type": "vis",
+      "size": "main",
+      "graphic": "differencechartsearch",
+      "path": "data/goal08/goal08.gdp_diff_countries.json",
+      "title": "Choose a country to explore impacts",
+      "subtitle": "Level of GDP compared to pre-COVID projections (value for 2019=100)",
+      "visdescription": "Line chart showing current projections of GDP for the user’s selected country compared to projections prior to COVID-19.",
+      "source": "Global Economic Prospects ([link: https://www.worldbank.org/en/publication/global-economic-prospects NYGDPMKTPKDZ]). World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD NY.GDP.MKTP.KD]).",
+      "change": "Change",
+      "absolutedifference": "Total difference in billion dollars",
+      "translationPrefix": "goal08.content.#29"
+    },
+    {
+      "type": "subhed",
+      "text": "COVID-19’s impact on jobs",
+      "translationPrefix": "goal08.content.#30"
+    },
+    {
+      "type": "text",
+      "text": "[target: 8.5] is to achieve full and productive employment and decent work for everyone. COVID-19 had substantial impacts on jobs.  The unemployment rate jumped from 7.8 percent in Latin America & the Caribbean in 2019 to 10 percent in 2020. It remained elevated into 2021. North America saw a jump in the unemployment rate from 3.9 percent in 2019 to 8.2 percent in 2020.  South Asia also saw a spike in 2020 from a jobless rate of around 6.3 percent to 9.3 percent.   Sub-Saharan Africa saw rates rise from around 6.3 percent to more than 7 percent in 2021 and 2022.",
+      "translationPrefix": "goal08.content.#31"
+    },
+    {
+      "type": "vis",
+      "size": "content",
+      "graphic": "multiplebarcharts",
+      "bartype": "unemployment",
+      "path": "data/goal08/goal08.unemployment.json",
+      "title": "Unemployment remains elevated compared with pre-COVID levels",
+      "subtitle": "Unemployment, total (% of total labor force)",
+      "visdescription": "Bar chart showing unemployment rates by region from 2017 to 2022.  Unemployment rose for all regions in 2020 and remains elevated in most regions.",
+      "source": "[link: https://ilostat.ilo.org/ ILOSTAT]",
+      "translationPrefix": "goal08.content.#32"
+    },
+    {
+      "type": "text",
+      "text": "Unemployment rates are particularly high for women in most regions, and this issue has persisted even before the COVID-19 pandemic [target: 5.1]. In 2022, the rate of unemployment for women in Latin America and Caribbean was 2.5 percentage points higher than for men. In Middle East & North Africa, the gap was even more significant, exceeding 10 percentage points.",
+      "translationPrefix": "goal08.content.#33"
+    },
+    {
+      "type": "vis",
+      "size": "content",
+      "graphic": "unemploymentgender",
+      "path": "data/goal08/goal08.unemploymentgender.json",
+      "title": "Women have higher rates of unemployment than men in most regions",
+      "subtitle": "Regional gap between the unemployment rate of men and women",
+      "visdescription": "Line chart showing unemployment rates from 2015 to 2022 for males and females. Female unemployment is higher in most regions.",
+      "source": "[link: https://ilostat.ilo.org/ ILOSTAT]",
+      "yaxistitle": "More unemployment for women",
+      "yaxisunits": "percentage points difference between unemployment for women and for men",
+      "gap": "gap",
+      "pp": "percentage points",
+      "translationPrefix": "goal08.content.#34"
+    },
+    {
+      "type": "subhed",
+      "text": "Will the recovery be shared?",
+      "translationPrefix": "goal08.content.#35"
+    },
+    {
+      "type": "text",
+      "text": "[target: 10.1] reminds us that not only does growth need to be restored, it must be achieved in a way that benefits everyone.",
+      "translationPrefix": "goal08.content.#36"
+    },
+    {
+      "type": "text",
+      "text": "One measure of whether economic growth is broadly shared is the shared prosperity premium.[footnote: For more information on the shared prosperity premium, visit https://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity] The shared prosperity premium is the gap between income growth for the bottom 40 percent of households compared to the growth of all households. Places where incomes for the bottom 40 percent grow faster than the overall average have a positive premium. In countries with a negative premium, income growth is slower for the bottom 40 percent.  There is sufficient data for ninety countries to calculate the shared prosperity premium.",
+      "translationPrefix": "goal08.content.#37"
+    },
+    {
+      "type": "text_emphasis",
+      "text": "In [emphasis: 60 percent] of countries with data, the bottom 40 percent of income grew faster from 2012 to 2017.",
+      "translationPrefix": "goal08.content.#38"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "Countries differ in how well prosperity is shared",
+      "Subtitle": "Income growth for the bottom 40% compared to income growth for the entire population",
+      "visdescription": "Scatterplot showing the income growth for the bottom 40% compared to income growth for the entire population across 90 economies.  Out of 90 economies with data for the period circa 2012-2017, 53 had faster growth in the bottom 40 percent, while the rest had a negative shared prosperity premium.",
+      "source": "[link: https://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity World Bank Global Database of Shared Prosperity, 2012-17.  9th vintage].",
+      "fasterlabel": "Faster growth for bottom 40%",
+      "slowerlabel": "Slower growth for bottom 40%",
+      "xaxistitle": "Growth for bottom 40% income",
+      "yaxistitle": "Growth in mean income",
+      "graphic": "sharedprosperity",
+      "path": "data/goal08/goal08.sharedprosperity.json",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro-xaxis",
+          "text": "On this chart, each dot is a country and the x-axis represents the growth in income of the poorest 40 percent of people in that country: the more to the right a country is, the faster the income growth of the poor.",
+          "translationPrefix": "goal08.content.#39.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "intro-y axis",
+          "text": "The y-axis represents the overall growth of the mean income of the whole country: the higher a country is on the chart, the faster its overall income growth.",
+          "translationPrefix": "goal08.content.#39.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "diagonal",
+          "text": "For any country on the line of equality, the slanted line with an angle of 45 degrees, incomes of the bottom 40 percent grew as much as the average of all household incomes.",
+          "translationPrefix": "goal08.content.#39.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "rotate",
+          "text": "Mean income growth for the bottom 40 percent in countries to the left of the line of equality was slower than overall income growth, while in countries to the right of the 45 degree line it was faster, meaning that the bottom 40 percent is catching up. In recent periods, countries have a mixed record in generating broadly shared growth. Out of 90 economies with data for the period circa 2012-2017, 53 had faster growth in the bottom 40 percent, while the rest had a negative shared prosperity premium.",
+          "translationPrefix": "goal08.content.#39.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "SSF",
+          "text": "In 10 of the 15 countries in Sub-Saharan Africa where data is available to calculate the shared prosperity premium, growth for the bottom 40 percent lagged overall growth (the premium is negative and there has been slippage in reducing inequality).",
+          "translationPrefix": "goal08.content.#39.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "SAS",
+          "text": "In all four South Asia economies where data is available to calculate the shared prosperity premium, incomes for the bottom 40 percent lagged overall growth (the premium is negative and there has been slippage in reducing inequality).",
+          "translationPrefix": "goal08.content.#39.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "EAS",
+          "text": "In six out of the seven economies with adequate data in East Asia and the Pacific, growth for the bottom 40 percent was higher than the growth of the overall average (the premium is positive and progress has been made in reducing inequality).",
+          "translationPrefix": "goal08.content.#39.scenes.#6"
+        }
+      ],
+      "translationPrefix": "goal08.content.#39"
+    },
+    {
+      "type": "text",
+      "text": "How can prosperity be more broadly shared?  Research by World Bank economists highlights a few policies that have a proven track record.[reference:  Ferreira, Francisco HG, Emanuela Galasso, and Mario Negre. [link: https://openknowledge.worldbank.org/handle/10986/29861 \"Shared prosperity: concepts, data, and some policy examples.\"] World Bank Policy Research Working Paper 8451 (2018).] One set of policies centers on enhancing the health, education, and early childhood development of individuals ([target: 2.2], [target: 4.1] and [target: 4.2]).  Improvements in these areas tend to increase economic productivity ([target: 8.2]), and translate into higher economic output. Eliminating socio-economic gaps in childhood development can improve the economic prospects  in the bottom 40 percent of the income distribution. COVID-19 has resulted in large disruptions to learning for children, compounding existing inequalities. A joint UNESCO, UNICEF, and World Bank report suggests the damage could lead to losses of about $17 trillion in lifetime earnings for children today.[footnote: The World Bank, UNESCO and UNICEF (2021). The State of the Global Education Crisis: A Path to Recovery. Washington D.C., Paris, New York: The World Bank, UNESCO, and UNICEF.] Safety net policies, like conditional cash transfers, which have shown promise for improving access to education and health services, could be salient in responding to the economic fallout of COVID-19 and other crises.",
+      "translationPrefix": "goal08.content.#40"
+    },
+    {
+      "type": "text",
+      "text": "The COVID-19 pandemic was a massive shock to economic growth, with global GDP falling the most on record since World War II. While growth has resumed, GDP remains lower for most economies compared to pre-COVID trajectories. Much work is needed to secure a stronger recovery and ensure that the gains are broadly shared.",
+      "translationPrefix": "goal08.content.#41"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "Financial account ownership is lower among women and those with less education.",
+          "shorttitle": "Financial account ownership is lower among women and those with less education",
+          "subtitle": "Account ownership by gender and education, 2021 (% of population ages 15 and older)",
+          "source": "Global Findex Database. Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/FX.OWN.TOTL.MA.ZS FX.OWN.TOTL.MA.ZS], [link: https://data.worldbank.org/indicator/FX.OWN.TOTL.FE.ZS FX.OWN.TOTL.FE.ZS], [link: https://data.worldbank.org/indicator/FX.OWN.TOTL.PL.ZS FX.OWN.TOTL.PL.ZS], [link: https://data.worldbank.org/indicator/FX.OWN.TOTL.SO.ZS FX.OWN.TOTL.SO.ZS]).",
+          "target": "8.10",
+          "image": "goal08/sdg8_account_pop15plus_rev.png",
+          "translationPrefix": "goal08.content.#42.charts.#0"
+        },
+        {
+          "title": "In most countries, young women are less likely to participate in education, employment, or training.",
+          "shorttitle": "Women (and girls) aged 15-24. are less likely to participate in education, employment, or training",
+          "subtitle": "Proportion of youth (aged 15-24 years) not in education, employment or training (NEET)",
+          "note": "The figure only includes countries with at least one estimate for 2010-2019. When multiple estimates are available for the same country in the same decade, the latest value is used. Only data for eight high-income countries are available.",
+          "source": "International Labour Organization (ILO). Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/SL.UEM.NEET.MA.ZS SL.UEM.NEET.MA.ZS], [link: https://data.worldbank.org/indicator/SL.UEM.NEET.FE.ZS SL.UEM.NEET.FE.ZS]).",
+          "target": "8.6",
+          "image": "goal08/sdg8_pct_pop15t24_no_edu_employed.png",
+          "translationPrefix": "goal08.content.#42.charts.#1"
+        },
+        {
+          "title": "The unbanked population has shrunk from close to 2.5 billion in 2011 to around 1.2 billion in 2021",
+          "shorttitle": "The unbanked population has shrunk over time",
+          "subtitle": "Adults with no account (%), 2011-2021",
+          "source": "World Bank. [link: https://globalfindex.worldbank.org/ Global Findex Database]",
+          "target": "8.10",
+          "image": "goal08/sdg8_unbanked_2011_2021_rev.png",
+          "translationPrefix": "goal08.content.#42.charts.#2"
+        }
+      ],
+      "translationPrefix": "goal08.content.#42"
+    }
+  ]
+}

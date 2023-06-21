@@ -1,0 +1,26 @@
+[
+  {
+    "status": "policy",
+    "countries": 49,
+    "share": 57.8,
+    "stacked": 0
+  },
+  {
+    "status": "law",
+    "countries": 21,
+    "share": 16.5,
+    "stacked": 57.8
+  },
+  {
+    "status": "pledge",
+    "countries": 19,
+    "share": 4.4,
+    "stacked": 74.3
+  },
+  {
+    "status": "nodocument",
+    "countries": 108,
+    "share": 21.3,
+    "stacked": 78.7
+  }
+]

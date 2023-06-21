@@ -1,0 +1,332 @@
+[
+  {
+    "iso3c": "SSD",
+    "country": "South Sudan",
+    "male": 0.05,
+    "female": 0.9
+  },
+  {
+    "iso3c": "MOZ",
+    "country": "Mozambique",
+    "male": 0.07,
+    "female": 0.84
+  },
+  {
+    "iso3c": "MWI",
+    "country": "Malawi",
+    "male": 0.06,
+    "female": 0.84
+  },
+  {
+    "iso3c": "BFA",
+    "country": "Burkina Faso",
+    "male": 0.08,
+    "female": 0.81
+  },
+  {
+    "iso3c": "BDI",
+    "country": "Burundi",
+    "male": 0.17,
+    "female": 0.78
+  },
+  {
+    "iso3c": "CAF",
+    "country": "Central African Republic",
+    "male": 0.14,
+    "female": 0.76
+  },
+  {
+    "iso3c": "ETH",
+    "country": "Ethiopia",
+    "male": 0.12,
+    "female": 0.76
+  },
+  {
+    "iso3c": "COD",
+    "country": "Democratic Republic of Congo",
+    "male": 0.09,
+    "female": 0.75
+  },
+  {
+    "iso3c": "GNB",
+    "country": "Guinea-Bissau",
+    "male": 0.03,
+    "female": 0.72
+  },
+  {
+    "iso3c": "TCD",
+    "country": "Chad",
+    "male": 0.07,
+    "female": 0.71
+  },
+  {
+    "iso3c": "ZMB",
+    "country": "Zambia",
+    "male": 0.08,
+    "female": 0.69
+  },
+  {
+    "iso3c": "MDG",
+    "country": "Madagascar",
+    "male": 0.15,
+    "female": 0.69
+  },
+  {
+    "iso3c": "LBR",
+    "country": "Liberia",
+    "male": 0.2,
+    "female": 0.69
+  },
+  {
+    "iso3c": "SLE",
+    "country": "Sierra Leone",
+    "male": 0.2,
+    "female": 0.66
+  },
+  {
+    "iso3c": "NER",
+    "country": "Niger",
+    "male": 0.26,
+    "female": 0.65
+  },
+  {
+    "iso3c": "SOM",
+    "country": "Somalia",
+    "male": 0.24,
+    "female": 0.61
+  },
+  {
+    "iso3c": "TGO",
+    "country": "Togo",
+    "male": 0.12,
+    "female": 0.61
+  },
+  {
+    "iso3c": "LSO",
+    "country": "Lesotho",
+    "male": 0.17,
+    "female": 0.61
+  },
+  {
+    "iso3c": "MLI",
+    "country": "Mali",
+    "male": 0.04,
+    "female": 0.6
+  },
+  {
+    "iso3c": "STP",
+    "country": "Sao Tome and Principe",
+    "male": 0.16,
+    "female": 0.59
+  },
+  {
+    "iso3c": "NPL",
+    "country": "Nepal",
+    "male": 0.03,
+    "female": 0.56
+  },
+  {
+    "iso3c": "BEN",
+    "country": "Benin",
+    "male": 0.09,
+    "female": 0.56
+  },
+  {
+    "iso3c": "ZWE",
+    "country": "Zimbabwe",
+    "male": 0.09,
+    "female": 0.54
+  },
+  {
+    "iso3c": "GMB",
+    "country": "Gambia",
+    "male": 0.05,
+    "female": 0.53
+  },
+  {
+    "iso3c": "KEN",
+    "country": "Kenya",
+    "male": 0.11,
+    "female": 0.53
+  },
+  {
+    "iso3c": "GHA",
+    "country": "Ghana",
+    "male": 0.16,
+    "female": 0.49
+  },
+  {
+    "iso3c": "MMR",
+    "country": "Myanmar",
+    "male": 0.17,
+    "female": 0.48
+  },
+  {
+    "iso3c": "CMR",
+    "country": "Cameroon",
+    "male": 0.31,
+    "female": 0.48
+  },
+  {
+    "iso3c": "TJK",
+    "country": "Tajikistan",
+    "male": 0.08,
+    "female": 0.47
+  },
+  {
+    "iso3c": "TLS",
+    "country": "Timor-Leste",
+    "male": 0.09,
+    "female": 0.44
+  },
+  {
+    "iso3c": "IND",
+    "country": "India",
+    "male": 0.07,
+    "female": 0.42
+  },
+  {
+    "iso3c": "CIV",
+    "country": "Cote d'Ivoire",
+    "male": 0.03,
+    "female": 0.42
+  },
+  {
+    "iso3c": "YEM",
+    "country": "Yemen",
+    "male": 0.09,
+    "female": 0.42
+  },
+  {
+    "iso3c": "NGA",
+    "country": "Nigeria",
+    "male": 0.31,
+    "female": 0.42
+  },
+  {
+    "iso3c": "MRT",
+    "country": "Mauritania",
+    "male": 0.21,
+    "female": 0.41
+  },
+  {
+    "iso3c": "SEN",
+    "country": "Senegal",
+    "male": 0.05,
+    "female": 0.34
+  },
+  {
+    "iso3c": "SWZ",
+    "country": "eSwatini",
+    "male": 0.11,
+    "female": 0.34
+  },
+  {
+    "iso3c": "VUT",
+    "country": "Vanuatu",
+    "male": 0.17,
+    "female": 0.34
+  },
+  {
+    "iso3c": "NAM",
+    "country": "Namibia",
+    "male": 0.13,
+    "female": 0.32
+  },
+  {
+    "iso3c": "AFG",
+    "country": "Afghanistan",
+    "male": 0.29,
+    "female": 0.29
+  },
+  {
+    "iso3c": "LAO",
+    "country": "Lao PDR",
+    "male": 0.07,
+    "female": 0.27
+  },
+  {
+    "iso3c": "MNG",
+    "country": "Mongolia",
+    "male": 0.5,
+    "female": 0.26
+  },
+  {
+    "iso3c": "UZB",
+    "country": "Uzbekistan",
+    "male": 0.16,
+    "female": 0.25
+  },
+  {
+    "iso3c": "AZE",
+    "country": "Azerbaijan",
+    "male": 0.05,
+    "female": 0.19
+  },
+  {
+    "iso3c": "MDA",
+    "country": "Republic of Moldova",
+    "male": 0.16,
+    "female": 0.16
+  },
+  {
+    "iso3c": "DJI",
+    "country": "Djibouti",
+    "male": 0.02,
+    "female": 0.15
+  },
+  {
+    "iso3c": "PER",
+    "country": "Peru",
+    "male": 0.07,
+    "female": 0.14
+  },
+  {
+    "iso3c": "IDN",
+    "country": "Indonesia",
+    "male": 0.08,
+    "female": 0.14
+  },
+  {
+    "iso3c": "GEO",
+    "country": "Georgia",
+    "male": 0.08,
+    "female": 0.13
+  },
+  {
+    "iso3c": "ALB",
+    "country": "Albania",
+    "male": 0.06,
+    "female": 0.08
+  },
+  {
+    "iso3c": "HND",
+    "country": "Honduras",
+    "male": 0.04,
+    "female": 0.08
+  },
+  {
+    "iso3c": "KAZ",
+    "country": "Kazakhstan",
+    "male": 0.12,
+    "female": 0.05
+  },
+  {
+    "iso3c": "JAM",
+    "country": "Jamaica",
+    "male": 0.07,
+    "female": 0.04
+  },
+  {
+    "iso3c": "SYR",
+    "country": "Syrian Arab Republic",
+    "male": 0.1,
+    "female": 0.03
+  },
+  {
+    "iso3c": "CUB",
+    "country": "Cuba",
+    "male": 0.08,
+    "female": 0.02
+  }
+]

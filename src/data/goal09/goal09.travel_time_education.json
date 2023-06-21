@@ -1,0 +1,32 @@
+[
+  {
+    "level": "primary",
+    "variable": "gross_enroll",
+    "effect": 2.05
+  },
+  {
+    "level": "primary",
+    "variable": "net_enroll",
+    "effect": 1.84
+  },
+  {
+    "level": "primary",
+    "variable": "completion",
+    "effect": 1.34
+  },
+  {
+    "level": "postprimary",
+    "variable": "gross_enroll",
+    "effect": 2.8
+  },
+  {
+    "level": "postprimary",
+    "variable": "net_enroll",
+    "effect": 1.83
+  },
+  {
+    "level": "postprimary",
+    "variable": "completion",
+    "effect": 3.26
+  }
+]

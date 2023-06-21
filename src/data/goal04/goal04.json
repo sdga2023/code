@@ -1,0 +1,363 @@
+{
+  "config": {
+    "goal": "4",
+    "headline": "Rebuilding education systems after COVID-19",
+    "introtext": "[goal: 4] aims to provide high-quality education and lifelong learning opportunities for all. Globally, 1.6 billion children were affected by school closures during COVID. The average student saw schools fully or partially closed for 199 days between March 2020 and September 2021.  As a result, the average student globally is roughly 1 year behind their expected learning levels, with larger losses in the poorest countries.",
+    "path": "data/goal04/goal04.schoolclosures.json",
+    "country_data_label": "COVID-19 full or partial school closure",
+    "legend_label": "COVID-19 school closure",
+    "legend_units": "days",
+    "targets_covered": [
+      {
+        "target": "1",
+        "translationPrefix": "goal04.config.targets_covered.#0"
+      },
+      {
+        "target": "2",
+        "translationPrefix": "goal04.config.targets_covered.#1"
+      },
+      {
+        "target": "4",
+        "translationPrefix": "goal04.config.targets_covered.#2"
+      },
+      {
+        "target": "5",
+        "translationPrefix": "goal04.config.targets_covered.#3"
+      }
+    ],
+    "source": "[link: https://covid19.uis.unesco.org/global-monitoring-school-closures-covid19/ UNESCO Global monitoring of school closures caused by COVID-19]",
+    "citation": "Stacy, Brian and Maarten Lambrechts. 2023. “Rebuilding education systems after COVID-19” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/pp3f-d004 https://www.doi.org/10.60616/pp3f-d004]",
+    "credits": "Brian Stacy",
+    "inputs": "Marie-Helene Cloutier, Halsey Rogers, Divyanshi Wadhwa, Nishant Yonzan",
+    "visuals": "Maarten Lambrechts"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "Prior to the COVID-19 pandemic, most countries were not on track to provide high-quality education to all children by 2030. Over half of children in low- and middle-income countries experienced learning poverty, meaning they were unable to understand a simple written text by the end of primary school. This indicator helps inform [target: 4.1] as it captures both schooling and learning, combining the rate of children out of school (schooling) with the percentage who are in school but have not achieved basic reading proficiency (learning).",
+      "translationPrefix": "goal04.content.#0"
+    },
+    {
+      "type": "subhed",
+      "text": "An Education Crisis",
+      "translationPrefix": "goal04.content.#1"
+    },
+    {
+      "type": "text",
+      "text": "A country's income level is strongly related to learning poverty.  Since COVID-19, learning poverty rates are estimated to have increased, and disparities between countries have widened.",
+      "translationPrefix": "goal04.content.#2"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "Disparities in access to learning",
+      "Subtitle": "",
+      "visdescription": "Connected line graph showing that higher income countries have less learning poverty, school closures that lasted slightly fewer days, and more internet users capable of remote instruction than low and lower-middle income countries.",
+      "source": "World Bank World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GNP.PCAP.CD NY.GNP.PCAP.CD], [link: https://data.worldbank.org/indicator/IT.NET.USER.ZS IT.NET.USER.ZS]), [link: https://datacatalog.worldbank.org/int/search/dataset/0038947/Learning-Poverty-Global-Database--Historical-data-and-sub-components Learning Poverty Database], [link: https://covid19.uis.unesco.org/global-monitoring-school-closures-covid19/ UNESCO Global monitoring of school closures caused by COVID-19]",
+      "graphic": "parcoordscroller",
+      "path": "data/goal04/goal04.lpovclosuresinternet.json",
+      "income": "GNI per capita",
+      "learningpoverty": "Learning poverty rate",
+      "instructiondayslost": "Instruction days lost",
+      "internetusers": "Share of internet users",
+      "higherincome": "Higher income",
+      "lowerincome": "Lower income",
+      "morelearningpoverty": "More learning poverty",
+      "lesslearningpoverty": "Less learning poverty",
+      "longerclosure": "Longer school closure",
+      "shorterclosure": "Shorter school closure",
+      "moreinternetusers": "More internet users",
+      "lessinternetusers": "Less internet users",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "income",
+          "text": "Countries are ranked according to the average income level of their populations.",
+          "translationPrefix": "goal04.content.#3.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "learningpovertyHigh",
+          "text": "High incomes are associated with lower levels of learning poverty.  Out of 49 <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-high)\">high income countries</span> with data for learning poverty, 29 have learning poverty rates of less than 10 percent.[reference: World Bank. 2022. [link: https://www.worldbank.org/en/topic/education/publication/state-of-global-learning-poverty \"The State of Global Learning Poverty.\"]]",
+          "translationPrefix": "goal04.content.#3.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "instructiondayslostHigh",
+          "text": "Globally, 1.6 billion children were impacted by school closures during COVID-19.  The average student in a high income country saw schools fully or partially closed for 148 days from March 2020 to September 2021.[footnote: Following the approach in the [link: https://www.worldbank.org/en/publication/human-capital/publication/collapse-recovery-how-covid-19-eroded-human-capital-and-what-to-do-about-it World Bank Collapse and Recovery Report], each day of partial opening is counted as half a day of school closure.]  The global average was 199 days lost. Fifteen (around 22 percent) high income countries closed schools for more than 180 days, about the length of a typical school year.",
+          "translationPrefix": "goal04.content.#3.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "internetHigh",
+          "text": "While schools were closed, high income countries had more options to move learning online, due to better access to the internet and electricity, and more availability of computers and tablets.  This is closely related to [target: 4.4], which is to ensure that youths and adults have relevant technical and vocational skills.",
+          "translationPrefix": "goal04.content.#3.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "learningpovertLow",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-low)\">Low income countries</span>, on the other hand, have high learning poverty rates.  All low or lower middle income countries have  learning poverty rates of 10 percent or higher.  In 20 of 29 low-income countries with available data, more than 90 percent of children can’t read or understand a basic text by the end of primary school.",
+          "translationPrefix": "goal04.content.#3.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "instructiondayslostLow",
+          "text": "These countries had slightly longer periods of school closures, losing an average of 158 days of in-school instruction.  This was even worse in lower middle income countries, with 236 days of schools closed due to COVID-19.",
+          "translationPrefix": "goal04.content.#3.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "internetLow",
+          "text": "Additionally, instruction was unable to move to online platforms and reach most children, because of the lack of connectivity in low and middle income countries. In 95 percent of <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-low)\">low-income countries</span>, fewer than half of all people have access to the internet.",
+          "translationPrefix": "goal04.content.#3.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "explore",
+          "text": "Explore the data for all countries by hovering over the dots on the chart.",
+          "translationPrefix": "goal04.content.#3.scenes.#7"
+        }
+      ],
+      "translationPrefix": "goal04.content.#3"
+    },
+    {
+      "type": "subhed",
+      "text": "Rising Learning Poverty",
+      "translationPrefix": "goal04.content.#4"
+    },
+    {
+      "type": "text",
+      "text": "While online instruction was provided in virtually all <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-high)\">high income countries</span>, it was available in just over half of <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-low)\">low income countries</span>.  As a result, in low income countries, remote instruction was often through radio, where children were not supervised by an instructor.",
+      "translationPrefix": "goal04.content.#5"
+    },
+    {
+      "type": "vis",
+      "graphic": "learningplatforms",
+      "title": "Distance learning platforms",
+      "visdescription": "Connected dot plot showing that high income countries tended to use online platforms for remote instruction during COVID-19, while low income countries tended to use less interactive tools like radio.",
+      "subtitle": "% of countries reporting the use of distance learning platform",
+      "source": "World Bank, UNESCO UIS, OECD; [link: https://www.google.com/url?q=https://tcg.uis.unesco.org/survey-education-covid-school-closures/&sa=D&source=docs&ust=1686066926313685&usg=AOvVaw3OV9PjhAUSnC0iqYpYhI5v Survey on National Education Responses to COVID-19 School Closures]",
+      "size": "main",
+      "path": "data/goal04/goal04.instructionplatforms.json",
+      "onlineplatforms": "Online platforms",
+      "television": "Television",
+      "radio": "Radio",
+      "mobilephones": "Mobile phones",
+      "takehomepackages": "Take home packages",
+      "otherdistancelearningm": "Other",
+      "lowincome": "55% of low income countries used online platforms…",
+      "highincome": "...while 96% of high income countries did so",
+      "translationPrefix": "goal04.content.#6"
+    },
+    {
+      "type": "text",
+      "text": "Because of these factors, learning poverty is expected to have increased from already high pre-pandemic rates.[reference: World Bank, UNESCO, UNICEF, USAID, FCDO, Bill & Melinda Gates Foundation. 2022. [link: https://www.worldbank.org/en/topic/education/publication/state-of-global-learning-poverty \"The State of Global Learning Poverty 2022 update.\"]] All income groups saw increases. In low and middle income countries, learning poverty is estimated to have risen from 57 percent in 2019 to between 68 and 71 percent (depending on assumptions made about the impact of school closures and remote instruction).",
+      "translationPrefix": "goal04.content.#7"
+    },
+    {
+      "type": "vis",
+      "graphic": "learningpovertyscenarios",
+      "title": "Learning Poverty projected to rise due to COVID-19",
+      "subtitle": "COVID-19 Learning Poverty Projections",
+      "visdescription": "Line chart showing that learning poverty rates are projected to have increased across all income groups following COVID-19.",
+      "source": "World Bank, UNESCO, UNICEF, USAID, FCDO, Bill & Melinda Gates Foundation. [link: https://www.worldbank.org/en/topic/education/publication/state-of-global-learning-poverty \"The State of Global Learning Poverty 2022 update.\"]",
+      "size": "main",
+      "path": "data/goal04/goal04.learningpovertysimulations.json",
+      "optimisticscenario": "Optimistic scenario",
+      "pessimisticscenario": "Pessimistic scenario",
+      "translationPrefix": "goal04.content.#8"
+    },
+    {
+      "type": "factoid",
+      "title": "Learning losses",
+      "number": "1",
+      "units": "year",
+      "label": "of lost learning due to COVID-19",
+      "text": "Preliminary studies are available on the impact of COVID-19 disruptions on student learning. An analysis of these studies found that on average students lost the equivalent of a year of learning.[reference: Schady, Norbert; Holla, Alaka; Sabarwal, Shwetlena; Silva, Joana; Yi Chang, Andres. 2023.  [link: https://openknowledge.worldbank.org/handle/10986/39403 Collapse and Recovery : How the COVID-19 Pandemic Eroded Human Capital and What to Do about It. ] Washington, DC: World Bank. © World Bank. ]",
+      "translationPrefix": "goal04.content.#9"
+    },
+    {
+      "type": "text",
+      "text": "These impacts not only affect school-age children, but also children in early childhood, [target: 4.2].  Recent studies indicate that pre-school age children gained only 25 to 50 percent of the early language and numeracy skills that are typically acquired in early childhood.[reference: Schady, Norbert; Holla, Alaka; Sabarwal, Shwetlena; Silva, Joana; Yi Chang, Andres. 2023.  [link: https://openknowledge.worldbank.org/handle/10986/39403 Collapse and Recovery : How the COVID-19 Pandemic Eroded Human Capital and What to Do about It. ] Washington, DC: World Bank. © World Bank.]",
+      "translationPrefix": "goal04.content.#10"
+    },
+    {
+      "type": "text",
+      "text": "The impacts on learning in the poorest countries were likely severe. High frequency phone survey data from the Living Standards Measurement Study in Burkina Faso, Ethiopia, Malawi, Mali, Nigeria, and Uganda indicates that, between April 2020 to June 2020, the share of school-age children involved in any learning activities dropped dramatically – by more than 50 percent on average across these six countries.[reference:  Dang, Hai-Anh H.; Siwatu,Gbemisola Oseni; Zezza,Alberto; Abanokova, Kseniya. 2021. [link: http://documents.worldbank.org/curated/en/656051621919132722/Impact-of-COVID-19-on-Learning-Evidence-from-Six-Sub-Saharan-African-Countries Impact of COVID-19 on Learning : Evidence from Six Sub-Saharan African Countries (English).] LSMS COVID-19 Cross Country Brief Washington, D.C. : World Bank Group.]",
+      "translationPrefix": "goal04.content.#11"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "The pandemic caused a dramatic drop in learning activities",
+      "subtitle": "Share of children engaged in learning activities",
+      "visdescription": "Dot plot showing that the share of children engaged in learning activities dropped significantly during COVID-19 in Nigeria, Uganda, and Ethiopia.  The drop in learning activities was particularly bad for children in the poorest 20% of households in those countries.",
+      "source": "Dang et al. 2021.  [link: http://documents.worldbank.org/curated/en/656051621919132722/Impact-of-COVID-19-on-Learning-Evidence-from-Six-Sub-Saharan-African-Countries Impact of COVID-19 on Learning : Evidence from Six Sub-Saharan African Countries (English).] LSMS COVID-19 Cross Country Brief Washington, D.C. : World Bank Group.",
+      "graphic": "learning_activities_scroller",
+      "path": "data/goal04/goal04.learningactivitiesinequality.json",
+      "beforecovid": "Before Covid-19",
+      "apriljune": "Apr - Jun 2020",
+      "richest": "Richest 20%",
+      "poorest": "Poorest 20%",
+      "allchildren": "All children",
+      "yaxistitle": "Share of children engaged in learning activities",
+      "bottom20": "Poorest 20%",
+      "secondquintile": "20-40%",
+      "thirdquintile": "40-60%",
+      "fourthquintile": "60-80%",
+      "top20": "Richest 20%",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "nigeriabefore",
+          "text": "Before the pandemic, household surveys showed that more than 90 percent of children 6-14 years old in Nigeria, Uganda and Ethiopia were going to school. [reference:  Dang, Hai-Anh H.; Siwatu,Gbemisola Oseni; Zezza,Alberto; Abanokova, Kseniya. 2021. [link: http://documents.worldbank.org/curated/en/656051621919132722/Impact-of-COVID-19-on-Learning-Evidence-from-Six-Sub-Saharan-African-Countries Impact of COVID-19 on Learning : Evidence from Six Sub-Saharan African Countries (English).] LSMS COVID-19 Cross Country Brief Washington, D.C. : World Bank Group.]",
+          "translationPrefix": "goal04.content.#12.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "nigeriaafter",
+          "text": "When COVID-19 hit, the <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-reference)\">share of children engaged in any learning activity</span> declined to less than 60 percent in Nigeria and Uganda and  as low as 28 percent in Ethiopia.",
+          "translationPrefix": "goal04.content.#12.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "nigeriaquintilesbefore",
+          "text": "The impact of the pandemic on education was unequal: higher household income was associated with more learning activities during school closures, due to more resources available to wealthier families.  This cuts against [target: 4.5], which includes a commitment to equalize access to quality education.",
+          "translationPrefix": "goal04.content.#12.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "nigeriaquintilesafter",
+          "text": "COVID-19 widened this gap: <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-pink300)\">children from lower income households</span> were impacted more than <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-green300)\">those from higher income households</span>.",
+          "translationPrefix": "goal04.content.#12.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal04.content.#12"
+    },
+    {
+      "type": "text",
+      "text": "In other countries, like Mexico, students from high socio-economic status (SES) backgrounds experienced large learning losses too.  A comparison of household survey data from 2019 and 2021 showed the number of children scoring at low levels in reading and mathematics increased sharply in the early part of the pandemic.[reference: Hevia, Felipe J., Samana Vergara-Lope, Anabel Velásquez-Durán, and David Calderón. 2022. [link: https://doi.org/10.1016/j.ijedudev.2021.102515 \"Estimation of the fundamental learning loss and learning poverty related to COVID-19 pandemic in Mexico.\"] International Journal of Educational Development 88 (2022): 102515.]  The number of students able to solve a 4th-grade division problem dropped by at least half across all socioeconomic statuses, and the number able to comprehend a short text fell by 15 to 25 percentage points. In mathematics, the gap between low- and high-SES students grew only slightly.  In reading, however, this gap grew markedly.  There was a drop of 25 percentage points among low income students but 12 percentage points for high income students.",
+      "translationPrefix": "goal04.content.#13"
+    },
+    {
+      "type": "vis",
+      "graphic": "learning_losses_mexico",
+      "title": "Mathematical and reading ability by socio-economic status in Mexico",
+      "visdescription": "Connected line graph showing that the percentage of 10-15 year olds able to solve 4th grade math and reading problems dropped by at least half across all socioeconomic groups.",
+      "subtitle": "Share of 10-15 year olds able to solve 4th grade division or comprehend short text",
+      "xaxisunits": "%",
+      "source": "Hevia, Vergara-Lope, Velásquez-Durán, and Calderón. 2022. [link: https://doi.org/10.1016/j.ijedudev.2021.102515 \"Estimation of the fundamental learning loss and learning poverty related to COVID-19 pandemic in Mexico.\"] International Journal of Educational Development 88 (2022): 102515.",
+      "size": "main",
+      "path": "data/goal04/goal04.lossesmexico.json",
+      "low": "Low",
+      "middlelow": "Middle low",
+      "middlehigh": "Middle High",
+      "high": "High",
+      "status": "Socio-economic status",
+      "math": "Math",
+      "reading": "Reading",
+      "translationPrefix": "goal04.content.#14"
+    },
+    {
+      "type": "text",
+      "text": "In some countries, many students dropped out before completing their education when the pandemic hit.[reference: Laura Moscoviz and David K. Evans. 2022. [link: https://www.cgdev.org/publication/learning-loss-and-student-dropouts-during-covid-19-pandemic-review-evidence-two-years “Learning Loss and Student Dropouts during the COVID-19 Pandemic: A Review of the Evidence Two Years after Schools Shut Down.”] CGD Working Paper 609. Washington, DC: Center for Global Development.] Compared to pre-COVID-19 rates, girls in secondary school in rural Kenya were three times as likely to drop out of school and twice as likely to get pregnant prior to completing school, making progress on [target: 4.5] even more difficult.",
+      "translationPrefix": "goal04.content.#15"
+    },
+    {
+      "type": "vis",
+      "graphic": "drop_out_rates",
+      "title": "Dropout rates increased during the COVID-19 Pandemic",
+      "subtitle": "Dropout Rates Pre-COVID-19 and During COVID-19",
+      "visdescription": "Connected line graph showing that dropout rates increased during the COVID-19 pandemic in several low and middle income countries.",
+      "xaxistitle": "Dropout rate",
+      "xaxisunits": "%",
+      "source": "Moscoviz, Laura, and David Evans.2022. [link: https://www.cgdev.org/publication/learning-loss-and-student-dropouts-during-covid-19-pandemic-review-evidence-two-years “Learning Loss and Student Dropouts during the COVID-19 Pandemic: A Review of the Evidence Two Years after Schools Shut Down.”] CGD Working Paper 609. Washington, DC: Center for Global Development.",
+      "size": "main",
+      "path": "data/goal04/goal04.dropout.json",
+      "precovid": "Pre Covid-19",
+      "postcovid": "Post Covid-19",
+      "translationPrefix": "goal04.content.#16"
+    },
+    {
+      "type": "text",
+      "text": "In São Paulo, Brazil, students in remote schooling during 2020 learned roughly one-fourth of what they typically would in face-to-face instruction according to recent research. [reference: The World Bank, UNESCO and UNICEF (2021). The State of the Global Education Crisis: A Path to Recovery. Washington D.C., Paris, New York: The World Bank, UNESCO, and UNICEF. ]",
+      "translationPrefix": "goal04.content.#17"
+    },
+    {
+      "type": "text",
+      "text": "The result of these losses is that the steady upward progress toward universal education over the past decade in São Paulo has been reversed.",
+      "translationPrefix": "goal04.content.#18"
+    },
+    {
+      "type": "vis",
+      "graphic": "test_scores_saopaulo",
+      "title": "Test scores in São Paulo dropped below pre-pandemic projections",
+      "subtitle": "5th grade National Basic Education Assessment System (SAEB) scores",
+      "visdescription": "Line chart showing that progress on increasing student achievement in São Paulo, Brazil was reversed during COVID-19.",
+      "yaxistitle": "SAEB scores",
+      "source": "Azevedo,Joao Pedro Wagner De; Rogers,F. Halsey; Ahlgren,Sanna Ellinore; Cloutier,Marie-Helene; Chakroun,Borhene; Chang,Gwang-Chol; Mizunoya,Suguru; Reuge,Nicolas Jean; Brossard,Matt; Bergmann,Jessica Lynn (2022). [link: https://unesdoc.unesco.org/ark:/48223/pf0000380128 The State of the Global Education Crisis: A Path to Recovery].  Authors’ calculations using data from SEDUC-SP, 2021.  SAEB scores range from 0 to 500.",
+      "size": "main",
+      "path": "data/goal04/goal04.saopaulo.json",
+      "math": "Mathematics",
+      "language": "Language",
+      "projection": "Pre-covid Projection",
+      "translationPrefix": "goal04.content.#19"
+    },
+    {
+      "type": "subhed",
+      "text": "The Recovery",
+      "translationPrefix": "goal04.content.#20"
+    },
+    {
+      "type": "text",
+      "text": "Taken together the impacts of COVID-19 on education could reduce the lifetime earnings of this generation of students by $21 trillion [target: 8.1].[reference: World Bank. 2022. [link: https://www.worldbank.org/en/topic/education/publication/state-of-global-learning-poverty \"The State of Global Learning Poverty.\".]] In low and middle income countries, the total lifetime earnings losses are estimated to be $11 trillion.  On a per capita basis, the current school-age generation might see a reduction in annual income of $975.  To avert these losses, a strong recovery will be needed.",
+      "translationPrefix": "goal04.content.#21"
+    },
+    {
+      "type": "text",
+      "text": "One policy that has helped is returning children to school. Looking at some municipalities in São Paulo that resumed classes earlier than others, researchers found that test scores increased 20 percent for students in schools where in-person instruction resumed compared to students in schools where it did not.[reference: Lichand, G., Doria, C.A., Leal-Neto, O. et al. 2022. [link: https://doi.org/10.1038/s41562-022-01350-6 The impacts of remote learning in secondary education during the pandemic in Brazil]. Nat Hum Behav 6, 1079–1086. ] Student attendance also increased in schools resuming in-person instruction sooner.",
+      "translationPrefix": "goal04.content.#22"
+    },
+    {
+      "type": "text",
+      "text": "In a study conducted in the Indian state of Tamil Nadu, students sustained learning losses equivalent to around two years in mathematics and one year in language.[reference: Singh, A., Romero, M. and Muralidharan, K. 2022. [link: https://doi.org/10.35489/BSG-RISEWP_2022/112 COVID-19 Learning Loss and Recovery: Panel Data Evidence from India.] RISE Working Paper Series. 22/112. ] However, they were able to regain around two-thirds of the losses (that is roughly 15 months in mathematics and 7 months in language) in just five months by returning to school and participating in a remediation program introduced by the government.",
+      "translationPrefix": "goal04.content.#23"
+    },
+    {
+      "type": "text",
+      "text": "While returning to in-person schooling will help recover losses, this will not be enough as countries were likely to fall short of targets even prior to COVID-19. A strong response by countries to repair the damage of COVID-19 and accelerate improvements in learning will be needed to meet the goal of ensuring all children are provided a high quality education and lifelong learning opportunities.",
+      "translationPrefix": "goal04.content.#24"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "Many youth and adults in low and middle income countries lack basic ICT skills such as copying or moving a file or folder.",
+          "shorttitle": "Many youth and adults in low and middle income countries lack basic ICT skills",
+          "subtitle": "Proportion of youth (aged 15-24 years) and adults (aged 15 years and above) with basic information and communications technology (ICT) skills, most recent value in 2017-20 (%)",
+          "note": "Each dot represents a country.",
+          "source": "United Nations Statistics Division (UNSD). Retrieved from [link: https://unstats.un.org/sdgs/dataportal/database UN SDG Portal (4.2)]",
+          "target": "4.2",
+          "image": "goal04/sdg_4_IT__cmfl_skills_rev.png",
+          "translationPrefix": "goal04.content.#25.charts.#0"
+        },
+        {
+          "title": "Adult literacy rates between men and women have converged over time, but gaps still remain",
+          "shorttitle": "Adult literacy rates between men and women have converged over time",
+          "subtitle": "Literacy rate (% of people ages 15 and above) by region, 1980-2020",
+          "source": "UNESCO UIS. Retrieved from World Development Indicators([link: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS SE.ADT.LITR.ZS], [link: https://data.worldbank.org/indicator/SE.ADT.LITR.MA.ZS SE.ADT.LITR.MA.ZS], [link: https://data.worldbank.org/indicator/SE.ADT.LITR.FE.ZS SE.ADT.LITR.FE.ZS]).",
+          "target": "4.6",
+          "image": "goal04/sdg_4_literacy_region.png",
+          "translationPrefix": "goal04.content.#25.charts.#1"
+        },
+        {
+          "title": "Despite global progress, gender gaps in primary completion remain in Sub-Saharan Africa and Middle East & North Africa.",
+          "shorttitle": "Gender gaps in primary completion remain in Sub-Saharan Africa and Middle East subtitle: Primary completion rate (% of relevant age group) by region, 2000-2020",
+          "source": "UNESCO UIS, Retrieved from World Development Indicators, ([link: https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS SE.PRM.CMPT.ZS], [link: https://data.worldbank.org/indicator/SE.PRM.CMPT.MA.ZS SE.PRM.CMPT.MA.ZS], [link: https://data.worldbank.org/indicator/SE.PRM.CMPT.FE.ZS SE.PRM.CMPT.FE.ZS]).",
+          "target": "4.5",
+          "image": "goal04/sdg_4_completion.png",
+          "translationPrefix": "goal04.content.#25.charts.#2"
+        }
+      ],
+      "translationPrefix": "goal04.content.#25"
+    }
+  ]
+}

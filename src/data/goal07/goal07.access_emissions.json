@@ -1,0 +1,962 @@
+[
+  {
+    "iso3c": "EAS",
+    "year": 2000,
+    "access": 92.22,
+    "emissions_percap": 1.34
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2001,
+    "access": 92.72,
+    "emissions_percap": 1.39
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2002,
+    "access": 93.2,
+    "emissions_percap": 1.49
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2003,
+    "access": 93.39,
+    "emissions_percap": 1.66
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2004,
+    "access": 94.21,
+    "emissions_percap": 1.76
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2005,
+    "access": 93.84,
+    "emissions_percap": 1.85
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2006,
+    "access": 94.85,
+    "emissions_percap": 2.01
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2007,
+    "access": 94.92,
+    "emissions_percap": 2.17
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2008,
+    "access": 95.35,
+    "emissions_percap": 2.18
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2009,
+    "access": 95.17,
+    "emissions_percap": 2.27
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2010,
+    "access": 95.54,
+    "emissions_percap": 2.47
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2011,
+    "access": 96.14,
+    "emissions_percap": 2.73
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2012,
+    "access": 96.4,
+    "emissions_percap": 2.79
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2013,
+    "access": 96.6,
+    "emissions_percap": 2.9
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2014,
+    "access": 96.73,
+    "emissions_percap": 2.86
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2015,
+    "access": 97.1,
+    "emissions_percap": 2.8
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2016,
+    "access": 97.2,
+    "emissions_percap": 2.85
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2017,
+    "access": 97.85,
+    "emissions_percap": 2.98
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2018,
+    "access": 97.87,
+    "emissions_percap": 3.13
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2019,
+    "access": 98.06,
+    "emissions_percap": 3.22
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2000,
+    "access": 99.95,
+    "emissions_percap": 3.48
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2001,
+    "access": 99.95,
+    "emissions_percap": 3.49
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2002,
+    "access": 99.96,
+    "emissions_percap": 3.53
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2003,
+    "access": 99.97,
+    "emissions_percap": 3.65
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2004,
+    "access": 99.96,
+    "emissions_percap": 3.6
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2005,
+    "access": 99.95,
+    "emissions_percap": 3.61
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2006,
+    "access": 99.95,
+    "emissions_percap": 3.72
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2007,
+    "access": 99.95,
+    "emissions_percap": 3.71
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2008,
+    "access": 99.96,
+    "emissions_percap": 3.61
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2009,
+    "access": 99.96,
+    "emissions_percap": 3.31
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2010,
+    "access": 99.97,
+    "emissions_percap": 3.45
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2011,
+    "access": 99.97,
+    "emissions_percap": 3.51
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2012,
+    "access": 99.98,
+    "emissions_percap": 3.49
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2013,
+    "access": 99.98,
+    "emissions_percap": 3.34
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2014,
+    "access": 99.98,
+    "emissions_percap": 3.1
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2015,
+    "access": 99.26,
+    "emissions_percap": 3.02
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2016,
+    "access": 99.97,
+    "emissions_percap": 2.95
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2017,
+    "access": 99.99,
+    "emissions_percap": 2.94
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2018,
+    "access": 99.99,
+    "emissions_percap": 2.89
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2019,
+    "access": 99.99,
+    "emissions_percap": 2.74
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2000,
+    "access": 91.74,
+    "emissions_percap": 0.77
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2001,
+    "access": 92.35,
+    "emissions_percap": 0.78
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2002,
+    "access": 92.66,
+    "emissions_percap": 0.78
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2003,
+    "access": 92.75,
+    "emissions_percap": 0.8
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2004,
+    "access": 93.23,
+    "emissions_percap": 0.82
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2005,
+    "access": 93.57,
+    "emissions_percap": 0.84
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2006,
+    "access": 94.28,
+    "emissions_percap": 0.84
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2007,
+    "access": 94.5,
+    "emissions_percap": 0.85
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2008,
+    "access": 95.24,
+    "emissions_percap": 0.87
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2009,
+    "access": 95.38,
+    "emissions_percap": 0.87
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2010,
+    "access": 95.86,
+    "emissions_percap": 0.89
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2011,
+    "access": 96.18,
+    "emissions_percap": 0.89
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2012,
+    "access": 96.56,
+    "emissions_percap": 0.95
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2013,
+    "access": 96.84,
+    "emissions_percap": 0.97
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2014,
+    "access": 97.03,
+    "emissions_percap": 0.98
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2015,
+    "access": 97.28,
+    "emissions_percap": 0.99
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2016,
+    "access": 97.48,
+    "emissions_percap": 0.94
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2017,
+    "access": 97.74,
+    "emissions_percap": 0.9
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2018,
+    "access": 97.8,
+    "emissions_percap": 0.85
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2019,
+    "access": 98.09,
+    "emissions_percap": 0.83
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2000,
+    "access": 92.52,
+    "emissions_percap": 1.63
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2001,
+    "access": 92.73,
+    "emissions_percap": 1.72
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2002,
+    "access": 92.65,
+    "emissions_percap": 1.77
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2003,
+    "access": 93.48,
+    "emissions_percap": 1.82
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2004,
+    "access": 93.41,
+    "emissions_percap": 1.92
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2005,
+    "access": 94.04,
+    "emissions_percap": 2
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2006,
+    "access": 95.95,
+    "emissions_percap": 2.06
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2007,
+    "access": 94.23,
+    "emissions_percap": 2.04
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2008,
+    "access": 94.81,
+    "emissions_percap": 2.18
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2009,
+    "access": 94.91,
+    "emissions_percap": 2.19
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2010,
+    "access": 95.74,
+    "emissions_percap": 2.25
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2011,
+    "access": 95.8,
+    "emissions_percap": 2.27
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2012,
+    "access": 95.38,
+    "emissions_percap": 2.39
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2013,
+    "access": 97.08,
+    "emissions_percap": 2.38
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2014,
+    "access": 96.07,
+    "emissions_percap": 2.42
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2015,
+    "access": 96.52,
+    "emissions_percap": 2.44
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2016,
+    "access": 96.83,
+    "emissions_percap": 2.41
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2017,
+    "access": 97.69,
+    "emissions_percap": 2.46
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2018,
+    "access": 96.28,
+    "emissions_percap": 2.39
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2019,
+    "access": 97.23,
+    "emissions_percap": 2.39
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2000,
+    "access": 100,
+    "emissions_percap": 9.6
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2001,
+    "access": 100,
+    "emissions_percap": 9.56
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2002,
+    "access": 100,
+    "emissions_percap": 9.05
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2003,
+    "access": 100,
+    "emissions_percap": 9.09
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2004,
+    "access": 100,
+    "emissions_percap": 9.07
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2005,
+    "access": 100,
+    "emissions_percap": 9.2
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2006,
+    "access": 100,
+    "emissions_percap": 8.9
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2007,
+    "access": 100,
+    "emissions_percap": 9.07
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2008,
+    "access": 100,
+    "emissions_percap": 8.73
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2009,
+    "access": 100,
+    "emissions_percap": 7.94
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2010,
+    "access": 100,
+    "emissions_percap": 8.24
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2011,
+    "access": 100,
+    "emissions_percap": 7.83
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2012,
+    "access": 100,
+    "emissions_percap": 7.4
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2013,
+    "access": 100,
+    "emissions_percap": 7.41
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2014,
+    "access": 100,
+    "emissions_percap": 7.36
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2015,
+    "access": 100,
+    "emissions_percap": 6.9
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2016,
+    "access": 100,
+    "emissions_percap": 6.59
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2017,
+    "access": 100,
+    "emissions_percap": 6.32
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2018,
+    "access": 100,
+    "emissions_percap": 6.36
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2019,
+    "access": 100,
+    "emissions_percap": 5.95
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2000,
+    "access": 56.24,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2001,
+    "access": 54.17,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2002,
+    "access": 59.85,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2003,
+    "access": 61.49,
+    "emissions_percap": 0.4
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2004,
+    "access": 61.82,
+    "emissions_percap": 0.43
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2005,
+    "access": 64.81,
+    "emissions_percap": 0.43
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2006,
+    "access": 65.86,
+    "emissions_percap": 0.46
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2007,
+    "access": 68.03,
+    "emissions_percap": 0.49
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2008,
+    "access": 70.33,
+    "emissions_percap": 0.5
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2009,
+    "access": 72.36,
+    "emissions_percap": 0.54
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2010,
+    "access": 73.19,
+    "emissions_percap": 0.55
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2011,
+    "access": 67.05,
+    "emissions_percap": 0.56
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2012,
+    "access": 77.49,
+    "emissions_percap": 0.64
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2013,
+    "access": 78.71,
+    "emissions_percap": 0.64
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2014,
+    "access": 80.76,
+    "emissions_percap": 0.7
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2015,
+    "access": 84.61,
+    "emissions_percap": 0.68
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2016,
+    "access": 86.3,
+    "emissions_percap": 0.68
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2017,
+    "access": 89.4,
+    "emissions_percap": 0.71
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2018,
+    "access": 92.71,
+    "emissions_percap": 0.75
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2019,
+    "access": 94.04,
+    "emissions_percap": 0.73
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2000,
+    "access": 25.57,
+    "emissions_percap": 0.34
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2001,
+    "access": 26.08,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2002,
+    "access": 27.27,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2003,
+    "access": 29.5,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2004,
+    "access": 29.34,
+    "emissions_percap": 0.41
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2005,
+    "access": 29.29,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2006,
+    "access": 30.8,
+    "emissions_percap": 0.38
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2007,
+    "access": 32.42,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2008,
+    "access": 32.31,
+    "emissions_percap": 0.41
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2009,
+    "access": 32.49,
+    "emissions_percap": 0.36
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2010,
+    "access": 33.3,
+    "emissions_percap": 0.41
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2011,
+    "access": 35.88,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2012,
+    "access": 36.82,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2013,
+    "access": 37.95,
+    "emissions_percap": 0.38
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2014,
+    "access": 38.29,
+    "emissions_percap": 0.39
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2015,
+    "access": 39.07,
+    "emissions_percap": 0.37
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2016,
+    "access": 43.75,
+    "emissions_percap": 0.37
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2017,
+    "access": 43.73,
+    "emissions_percap": 0.35
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2018,
+    "access": 46.37,
+    "emissions_percap": 0.34
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2019,
+    "access": 47.1,
+    "emissions_percap": 0.34
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2000,
+    "access": 78.22,
+    "emissions_percap": 1.73
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2001,
+    "access": 77.87,
+    "emissions_percap": 1.75
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2002,
+    "access": 79.34,
+    "emissions_percap": 1.76
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2003,
+    "access": 79.93,
+    "emissions_percap": 1.84
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2004,
+    "access": 80.15,
+    "emissions_percap": 1.87
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2005,
+    "access": 80.65,
+    "emissions_percap": 1.91
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2006,
+    "access": 81.36,
+    "emissions_percap": 1.96
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2007,
+    "access": 81.85,
+    "emissions_percap": 2.02
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2008,
+    "access": 82.48,
+    "emissions_percap": 2
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2009,
+    "access": 82.85,
+    "emissions_percap": 1.95
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2010,
+    "access": 83.22,
+    "emissions_percap": 2.05
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2011,
+    "access": 82.17,
+    "emissions_percap": 2.12
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2012,
+    "access": 84.74,
+    "emissions_percap": 2.13
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2013,
+    "access": 85.24,
+    "emissions_percap": 2.14
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2014,
+    "access": 85.65,
+    "emissions_percap": 2.11
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2015,
+    "access": 86.62,
+    "emissions_percap": 2.05
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2016,
+    "access": 87.7,
+    "emissions_percap": 2.03
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2017,
+    "access": 88.59,
+    "emissions_percap": 2.05
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2018,
+    "access": 89.57,
+    "emissions_percap": 2.09
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2019,
+    "access": 90.01,
+    "emissions_percap": 2.06
+  }
+]

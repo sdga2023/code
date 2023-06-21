@@ -1,0 +1,132 @@
+[
+  {
+    "source": "HIC",
+    "target": "nodoc",
+    "value": 0.912201537
+  },
+  {
+    "source": "HIC",
+    "target": "pledge",
+    "value": 1.849695822
+  },
+  {
+    "source": "HIC",
+    "target": "policy",
+    "value": 14.53468411
+  },
+  {
+    "source": "HIC",
+    "target": "law",
+    "value": 13.63831912
+  },
+  {
+    "source": "UMC",
+    "target": "nodoc",
+    "value": 4.497619946
+  },
+  {
+    "source": "UMC",
+    "target": "pledge",
+    "value": 1.752722971
+  },
+  {
+    "source": "UMC",
+    "target": "policy",
+    "value": 32.63481429
+  },
+  {
+    "source": "UMC",
+    "target": "law",
+    "value": 5.147583285
+  },
+  {
+    "source": "LMC",
+    "target": "nodoc",
+    "value": 7.251619817
+  },
+  {
+    "source": "LMC",
+    "target": "pledge",
+    "value": 0.96523941
+  },
+  {
+    "source": "LMC",
+    "target": "policy",
+    "value": 10.90971591
+  },
+  {
+    "source": "LIC",
+    "target": "nodoc",
+    "value": 2.061390091
+  },
+  {
+    "source": "LIC",
+    "target": "pledge",
+    "value": 0.033855288
+  },
+  {
+    "source": "LIC",
+    "target": "policy",
+    "value": 0.009476987
+  },
+  {
+    "source": "unknown",
+    "target": "nodoc",
+    "value": 3.801061423
+  },
+  {
+    "source": "law",
+    "target": "achieved",
+    "value": 0
+  },
+  {
+    "source": "law",
+    "target": "≥2030",
+    "value": 0.106990192
+  },
+  {
+    "source": "law",
+    "target": "≥2040",
+    "value": 1.66003139
+  },
+  {
+    "source": "law",
+    "target": "≥2050",
+    "value": 17.01888082
+  },
+  {
+    "source": "policy",
+    "target": "achieved",
+    "value": 0.032192659
+  },
+  {
+    "source": "policy",
+    "target": "≥2040",
+    "value": 0.094437341
+  },
+  {
+    "source": "policy",
+    "target": "≥2050",
+    "value": 57.96206129
+  },
+  {
+    "source": "pledge",
+    "target": "achieved",
+    "value": 0.011804668
+  },
+  {
+    "source": "pledge",
+    "target": "≥2030",
+    "value": 0.042978966
+  },
+  {
+    "source": "pledge",
+    "target": "≥2050",
+    "value": 4.546729858
+  },
+  {
+    "source": "nodoc",
+    "target": "notarget",
+    "value": 18.52389281
+  }
+]

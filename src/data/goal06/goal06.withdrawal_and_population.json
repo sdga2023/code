@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1960,
+    "agriculture": 1481,
+    "industries": 339,
+    "municipalities": 118,
+    "water_withdrawals": 1938,
+    "population": 3032.15607
+  },
+  {
+    "year": 1970,
+    "agriculture": 1743,
+    "industries": 547,
+    "municipalities": 160,
+    "water_withdrawals": 2450,
+    "population": 3681.975908
+  },
+  {
+    "year": 1980,
+    "agriculture": 2112,
+    "industries": 713,
+    "municipalities": 219,
+    "water_withdrawals": 3044,
+    "population": 4432.963653
+  },
+  {
+    "year": 1990,
+    "agriculture": 2425,
+    "industries": 735,
+    "municipalities": 305,
+    "water_withdrawals": 3465,
+    "population": 5280.062644
+  },
+  {
+    "year": 2000,
+    "agriculture": 2605,
+    "industries": 776,
+    "municipalities": 384,
+    "water_withdrawals": 3765,
+    "population": 6114.324044
+  },
+  {
+    "year": 2010,
+    "agriculture": 2799,
+    "industries": 731,
+    "municipalities": 470,
+    "water_withdrawals": 4000,
+    "population": 6921.854591
+  },
+  {
+    "year": 2018,
+    "agriculture": 2950,
+    "industries": 646,
+    "municipalities": 483,
+    "water_withdrawals": 4079,
+    "population": 7602.716232
+  }
+]

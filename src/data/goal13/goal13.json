@@ -1,0 +1,507 @@
+{
+  "config": {
+    "goal": "13",
+    "headline": "From climate science to global action",
+    "subhead": "Climate action",
+    "introtext": "[goal: 13]  calls for urgent action to combat climate change and its impacts. Scientists and policymakers have set a goal of limiting global warming to 1.5°C above pre-industrial levels. Today, the planet is only 0.4°C from that mark. On average, each person accounts for 6.2 tons of CO2 emissions. But in many countries, the number is three times greater.",
+    "targets_covered": [
+      {
+        "target": "1",
+        "translationPrefix": "goal13.config.targets_covered.#0"
+      },
+      {
+        "target": "2",
+        "translationPrefix": "goal13.config.targets_covered.#1"
+      }
+    ],
+    "path": "data/goal13/goal13.emissions_globe.json",
+    "card_unit": "tonne",
+    "country_data_label": "CO₂e per capita in 2019",
+    "legend_label": "Emissions",
+    "legend_units": "tonne CO₂e/capita/year",
+    "source": "[link: https://www.climatewatchdata.org/ghg-emissions Climate Watch] and World Development Indicators ([link: https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE EN.ATM.GHGT.KT.CE]; [link: https://data.worldbank.org/indicator/SP.POP.TOTL SP.POP.TOTL])",
+    "citation": "Li, Jia, Kamwoo Lee, Divyanshi Wadhwa, and Maarten Lambrechts. 2023. “From climate science to global action” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/vg01-7787 https://www.doi.org/10.60616/vg01-7787]",
+    "credits": "Jia Li, Kamwoo Lee, Divyanshi Wadhwa",
+    "inputs": "Javier Parada",
+    "visuals": "Maarten Lambrechts"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "The past eight years (2015 to 2022) were the warmest on record.[reference: World Meteorological Organization. 2022. [link: https://public.wmo.int/en/media/press-release/eight-warmest-years-record-witness-upsurge-climate-change-impacts Eight warmest years on record witness upsurge in climate change impacts.]] The latest climate assessment report published by the Intergovernmental Panel on Climate Change (IPCC) confirms that the earth’s atmosphere, ocean, and ecosystems are undergoing widespread and unprecedented changes.[reference: Intergovernmental Panel on Climate Change. 2023. [link: https://www.ipcc.ch/report/ar6/syr/ Climate Change 2023: Synthesis Report]]",
+      "translationPrefix": "goal13.content.#0"
+    },
+    {
+      "type": "scroller",
+      "id": "global warming scroller",
+      "title": "The Earth's average surface temperature has increased rapidly since the 1900s",
+      "subtitle": "Change in global surface temperature relative to 1850–1900 decadal average (5-2016)",
+      "visdescription": "Line chart showing global surface temperatures from year 5 to 2016. The chart shows both reconstructed temperatures from year 5 to 1995 and observed temperatures from 1855 to 2016. The chart shows a sharp rise in global surface temperatures starting in the 1850s.",
+      "source": "[link: https://www.ipcc.ch/report/ar6/wg1/ IPCC Sixth Assessment Report, Climate Change 2021: The Physical Science Basis]",
+      "note": "Data for years 5 to 1995 are based on reconstructed global surface temperature. Data for years 1855 to 2016 are observed global temperature (1855-2016).",
+      "graphic": "temperature_scroller",
+      "path": "data/goal13/goal13.temperature.json",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "historical",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-teal)\">Global surface temperature</span> remained relatively stable until 1850.[reference: Intergovernmental Panel on Climate Change. 2021. [link: https://catalogue.ceda.ac.uk/uuid/76cad0b4f6f141ada1c44a4ce9e7d4bd Sixth Assessment Report, Climate Change 2021: The Physical Science Basis.]]",
+          "translationPrefix": "goal13.content.#1.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "historical-observed",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-red400)\">Global surface temperatures</span> then rose sharply from 1850 onwards.[reference: Intergovernmental Panel on Climate Change. 2021. [link: https://catalogue.ceda.ac.uk/uuid/76cad0b4f6f141ada1c44a4ce9e7d4bd Sixth Assessment Report, Climate Change 2021: The Physical Science Basis.]]",
+          "translationPrefix": "goal13.content.#1.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "observed",
+          "text": "Since 1850, an increase in greenhouse gas emissions has led to a rise in surface temperature.[reference: Osman, Matthew B., et al. 2021. [link: https://www.nature.com/articles/s41586-021-03984-4 Globally resolved surface temperatures since the Last Glacial Maximum.]  Nature, 599(7884), 239-244.] Between 2013 and 2022, the global surface temperature was 1.14°C above the pre-industrial period of 1850–1900.[reference: World Meteorological Organization. 2022. [link: https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate State of the Global Climate in 2022.]]",
+          "translationPrefix": "goal13.content.#1.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "first-projection",
+          "text": "Scientists and policymakers have set a goal of limiting the Earth's warming to well below 2.0°C above pre-industrial levels, while pursuing efforts to limit warming to 1.5°C to avoid dangerous climate change. The earth is now only 0.4°C away from an increase of 1.5°C.",
+          "translationPrefix": "goal13.content.#1.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal13.content.#1"
+    },
+    {
+      "type": "text",
+      "text": "The number of climate disasters has increased from fewer than 50 per year in 1950 to between 300 and 500 annually since 2000.[reference: World Meteorological Organization. 2021. [link: https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer Weather-related disasters increase over past 50 years, causing more damage but fewer deaths.]]",
+      "translationPrefix": "goal13.content.#2"
+    },
+    {
+      "type": "vis",
+      "title": "Over the past few decades, climate-related natural disasters have increased",
+      "subtitle": "Number of climate-related natural disasters",
+      "visdescription": "Visual shows an area plot of the trend in the total number of climate-related natural disasters from 1970 to 2021. The chart shows a general increase since the 1970s.",
+      "source": "[link: https://public.emdat.be/data The international disasters database 2022]",
+      "graphic": "disasters",
+      "path": "data/goal13/goal13.disasters_total.json",
+      "size": "main",
+      "yaxistitle": "Number of reported natural disasters",
+      "translationPrefix": "goal13.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "The frequency and magnitude of extreme weather events such as heatwaves, hurricanes, droughts, flooding, and wildfires, and shifting average temperature and precipitation patterns around the world are increasing; most of this increase is attributed to climate change.[reference: Intergovernmental Panel on Climate Change. 2021. [link: https://www.ipcc.ch/report/ar6/wg1/resources/climate-change-in-data/ Climate change in data.]]",
+      "translationPrefix": "goal13.content.#4"
+    },
+    {
+      "type": "vis",
+      "title": "Frequency of natural disasters has increased across different types",
+      "subtitle": "Number of climate-related natural disasters by type",
+      "visdescription": "Visual shows an area chart with the count of floods, storms, extreme temperatures, wildfires, and droughts from 1970 to 2021.",
+      "source": "[link: https://public.emdat.be/data The international disasters database 2022]",
+      "graphic": "disaster_multiples",
+      "path": "data/goal13/goal13.disasters.json",
+      "size": "content",
+      "drought": "Drought",
+      "flood": "Flood",
+      "storm": "Storm",
+      "wildfire": "Wildfire",
+      "temperature": "Extreme temperature",
+      "yaxistitle": "Number of reported natural disasters",
+      "translationPrefix": "goal13.content.#5"
+    },
+    {
+      "type": "text",
+      "text": "These events have cascading impacts on people, communities, infrastructure, economies, and ecosystems. The devastating flooding in Pakistan in 2022 is an example of the destruction that can result from climate-induced disasters. As of October 2022, around 33 million people, one seventh of Pakistan’s population, were impacted. Nearly 1,700 people died, about 8 million people were reported displaced, and many were living in conditions compromised by damage to critical infrastructure and utility services.[reference: World Bank. 2022. [link: https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme Pakistan: Flood Damages and Economic Losses Over USD 30 billion and Reconstruction Needs Over USD 16 billion - New Assessment.] Washington, DC.]",
+      "translationPrefix": "goal13.content.#6"
+    },
+    {
+      "type": "subhed",
+      "text": "Damage from climate change is increasing",
+      "translationPrefix": "goal13.content.#7"
+    },
+    {
+      "type": "text",
+      "text": "Even though the number of disasters has increased, deaths from these events have been falling. The decline in fatalities can be attributed to better early warning systems and disaster risk preparedness.[target: 13.1].[reference: World Meteorological Organization. 2021. [link: https://library.wmo.int/index.php?lvl=notice_display&id=21930#.YS4KedP7TX0 WMO Atlas of Mortality and Economic Losses from Weather, Climate and Water Extremes (1970–2019).]]",
+      "translationPrefix": "goal13.content.#8"
+    },
+    {
+      "type": "vis",
+      "title": "Deaths from climate-related natural disasters has fluctuated from year to year, with a subtle indication of a downward trend",
+      "subtitle": "Number of deaths from climate-related natural disasters",
+      "visdescription": "Visual shows and area chart with the number of deaths from climate-related natural disasters from 1900 to 2021",
+      "source": "[link: https://public.emdat.be/data The international disasters database 2022]",
+      "graphic": "disaster_damage_deaths",
+      "size": "main",
+      "path": "data/goal13/goal13.disasters_damage.json",
+      "yaxistitle": "Deaths",
+      "yaxisunits": "million people",
+      "translationPrefix": "goal13.content.#9"
+    },
+    {
+      "type": "text",
+      "text": "Nonetheless, more people are affected by disasters than before. Climate change-related disasters are causing billions of dollars in damage each year and economic losses have increased sevenfold globally since the 1970s.[reference: World Meteorological Organization. 2021. [link: https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer Weather-related disasters increase over past 50 years, causing more damage but fewer deaths.]] Natural disasters are estimated to cost low- and middle-income countries $18 billion a year to power generation and transport infrastructure and at least $390 billion in overall costs.[reference: World Bank. 2019. [link: https://www.worldbank.org/en/news/infographic/2019/06/17/lifelines-the-resilient-infrastructure-opportunity Lifelines: The Resilient Infrastructure Opportunity.] Washington, DC.] The cost of overall damage was more than the combined GDP of Hungary, Ecuador, and Sri Lanka.[reference: World Bank. World Development Indicators ([link: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD NY.GDP.MKTP.CD]).]",
+      "translationPrefix": "goal13.content.#10"
+    },
+    {
+      "type": "vis",
+      "title": "The rapid surge in the number of victims and economic damage is indicative of the growing impact of climate change on our environment and society",
+      "subtitle": "The number of victims and economic damage from climate-related natural disasters",
+      "visdescription": "Visual shows an area chart with the trend in the number of victims and economic damage from climate-related natural disasters between 1900 and 2021. The chart shows a dramatic increase in the number of victims and damage starting in the 1970s.",
+      "source": "[link: https://public.emdat.be/data The international disasters database 2022]",
+      "graphic": "disaster_damage_multiples",
+      "size": "main",
+      "path": "data/goal13/goal13.disasters_damage.json",
+      "deaths": "Deaths",
+      "victims": "Total number of people affected",
+      "damage": "Economic damage",
+      "unitsdeaths": "million people",
+      "unitsvictims": "million people",
+      "unitsdamage": "million dollar",
+      "translationPrefix": "goal13.content.#11"
+    },
+    {
+      "type": "text",
+      "text": "Climate change and climate extremes can reverse years of development gains. Natural disasters often push people into poverty with long-term impacts on education, employment, and general well-being. With climate change intensifying, food prices and food security, health, and labor productivity are expected to be adversely impacted, potentially pushing as many as 132 million people into poverty by 2030.[reference: World Bank. 2021. [link: https://www.worldbank.org/en/news/feature/2021/09/13/millions-on-the-move-in-their-own-countries-the-human-face-of-climate-change Millions on the Move in Their Own Countries: The Human Face of Climate Change.] Washington, DC.] Longer term impacts of climate change - such as increases in water stress, drops in crop productivity, and sea-level rise – can push over 200 million people to migrate within their countries by 2050.[reference: World Bank. 2021. [link: https://www.worldbank.org/en/news/feature/2021/09/13/millions-on-the-move-in-their-own-countries-the-human-face-of-climate-change Millions on the Move in Their Own Countries: The Human Face of Climate Change.] Washington, DC.]",
+      "translationPrefix": "goal13.content.#12"
+    },
+    {
+      "type": "subhed",
+      "text": "Human activities are responsible",
+      "translationPrefix": "goal13.content.#13"
+    },
+    {
+      "type": "text",
+      "text": "Human activities are responsible for increases in greenhouse emissions, which lead to the warming of the atmosphere, ocean, and land.[reference: United Nations. [link: https://www.un.org/en/climatechange/science/key-findings Climate Action Fast Facts.] Accessed Date 06/07/2023.] Virtually all global warming over the last 200 years was caused by humans.[reference: Intergovernmental Panel on Climate Change. 2021. [link: https://www.ipcc.ch/report/ar6/wg1/resources/climate-change-in-data/ Climate change in data.]]",
+      "translationPrefix": "goal13.content.#14"
+    },
+    {
+      "type": "text",
+      "text": "A number of greenhouse gases contribute to the warming.[target: 13.2] Carbon dioxide (CO2) is the most important because once produced, it stays in the atmosphere for thousands of years.  Other greenhouse gases include methane (CH₄), nitrous oxide, and fluorinated-gases. These do not remain in the atmosphere as long as CO₂, but have greater ability to absorb energy and cause warming. Global warming potential (GWP) is a metric used to estimate the ability of a gas to cause warming of the atmosphere relative to CO₂. For example, 1 ton of methane causes 27-30 times more warming than one 1 ton of carbon dioxide over a 100 year period.[reference: United States Environmental Protection Agency. [link: https://www.epa.gov/ghgemissions/understanding-global-warming-potentials Understanding Global Warming Potentials.] Accessed Date 06/07/2023.]",
+      "translationPrefix": "goal13.content.#15"
+    },
+    {
+      "type": "text",
+      "text": "Accounting for the global warming potential of the different gases, emissions can be compared and aggregated using CO₂ equivalent emissions. CO₂ equivalent (CO₂e) estimates the amount of carbon dioxide that results in the same warming for each gas.[reference: United States Environmental Protection Agency. [link: https://sor.epa.gov/sor_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do?search=&term=carbon%20dioxide%20equivalent&matchCriteria=Contains&checkedAcronym=true&checkedTerm=true&hasDefinitions=false#:~:text=CO%E2%82%82%20Eq.,global%20warming%20potential%20(GWP) Carbon dioxide equivalent.] Accessed Date 06/07/2023.] In CO₂ equivalent terms, emissions from CO₂ contribute three-fourths of the total annual GHG emissions and methane contributes about one-sixth.",
+      "translationPrefix": "goal13.content.#16"
+    },
+    {
+      "type": "vis",
+      "title": "Carbon dioxide accounts for around three-quarters of total emissions",
+      "subtitle": "",
+      "visdescription": "A bar chart displays the global warming potential of individual greenhouse gases, while a pie chart illustrates the distribution of global emissions in terms of carbon dioxide-equivalents",
+      "source": "[link: https://www.epa.gov/ghgemissions/understanding-global-warming-potentials US Environmental Protection Agency] and [link: https://www.climatewatchdata.org/ghg-emissions Climate Watch]",
+      "graphic": "ghgases",
+      "size": "content",
+      "path": "data/goal13/goal13.ghgases.json",
+      "gwp": "Global warming potential",
+      "shares": "Share of human-caused greenhouse gas",
+      "co2": "Carbon dioxide",
+      "ch4": "Methane",
+      "n20": "Nitrous oxide",
+      "fluor": "Fluorinated gases",
+      "translationPrefix": "goal13.content.#17"
+    },
+    {
+      "type": "text",
+      "text": "In 2021, the three main greenhouse gases - carbon dioxide, methane and nitrous oxide - reached record levels, trapping nearly 50 percent more heat than in 1990. [reference: World Meteorological Organization. 2022. [link: https://public.wmo.int/en/greenhouse-gas-bulletin Greenhouse Gas Bulletin.]]  [reference: National Oceanic and Atmospheric Administration. 2022. [link: https://research.noaa.gov/article/ArtMID/587/ArticleID/2877/Greenhouse-gas-pollution-trapped-49-more-heat-in-2021-than-in-1990-NOAA-finds NOAA Research News: Greenhouse gas pollution trapped 49 percent more heat in 2021 than in 1990, NOAA finds.]]",
+      "translationPrefix": "goal13.content.#18"
+    },
+    {
+      "type": "text",
+      "text": "The highest rates of increase in methane were in 2020 and 2021. Given its high GWP, even a small concentration of methane can have a very large warming impact. Reducing methane in the environment can have quick and significant impacts on mitigating its effect on atmospheric warming. On the other hand, given the larger contribution and longer lifetime of CO₂, reducing carbon dioxide emissions is essential for long-term mitigation of global warming.",
+      "translationPrefix": "goal13.content.#19"
+    },
+    {
+      "type": "subhed2",
+      "text": "Sources of GHGs by sector",
+      "translationPrefix": "goal13.content.#20"
+    },
+    {
+      "type": "text",
+      "text": "Since the beginning of industrial times (in the 18th century), human activities have led to increasing emissions of GHGs. Major sources of GHG emissions are deeply ingrained in our way of life.",
+      "translationPrefix": "goal13.content.#21"
+    },
+    {
+      "type": "scroller",
+      "title": "The electricity and heat generation sector is the largest contributor to greenhouse gas emissions",
+      "subtitle": "Greenhouse gas emissions by economic sector and gas type",
+      "visdescription": "Visual shows a treemap with a series of breakdowns of greenhouse gas emissions by economic sector and gas type",
+      "source": "[link: https://www.climatewatchdata.org/ghg-emissions Climate Watch]",
+      "graphic": "sector_emissions_treemap",
+      "path": "data/goal13/goal13.ghg_gas_sectors.json",
+      "share": "Share of global emissions",
+      "units": "Million tonnes CO₂ equivalents",
+      "nonenergy": "Non-energy",
+      "industrial": "Industrial Processes",
+      "agriculture": "Agriculture",
+      "waste": "Waste",
+      "landuse": "Land-Use Change and Forestry",
+      "energy": "Energy",
+      "building": "Building",
+      "electricityheat": "Electricity/Heat",
+      "fugitive": "Fugitive Emissions",
+      "manufacturing": "Manufacturing/Construction",
+      "other": "Other Fuel Combustion",
+      "transportation": "Transportation",
+      "bunker": "Bunker fuels",
+      "CO2": "CO₂",
+      "CH4": "CH₄",
+      "othergas": "Other gases",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "energy",
+          "text": "Globally, close to three-quarters of total emissions come from<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">energy consumption</span>.<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">Electricity and heat generation</span>[footnote: According to the IPCC Common Reporting Framework, this category refers to emissions from main activity producers of electricity generation, combined heat and power generation, and heat plants.] alone account for about a third of all emissions;<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">transportation</span>[footnote: Emissions from the combustion and evaporation of fuel for all transport activity (excluding military transport), regardless of the sector.] is responsible for 17 percent, followed by<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">manufacturing and construction</span>[footnote: Emissions from combustion of fuels in industry as well as combustion for the generation of electricity and heat for own use in these industries.] (13 percent).",
+          "translationPrefix": "goal13.content.#22.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "nonenergy",
+          "text": "The remaining emissions come from<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">non-energy sectors</span> such as agriculture,[footnote: Agriculture sector contains emissions from enteric fermentation, manure management, rice cultivation, agriculture soils, and other agricultural sources. Note that it differs from the Land-Use Change and Forestry sector which contains emissions from forest land, net forest conversion, drained organic soils, and fires.] including livestock farming and crop cultivation, making up a sizable portion of total emissions (about 12 percent).",
+          "translationPrefix": "goal13.content.#22.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "co2",
+          "text": "Carbon dioxide represents about three-fourths of all greenhouse gases. About 88 percent of CO₂ emissions come from<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">the energy sector</span>, and the remaining from<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">the non-energy sector</span>.",
+          "translationPrefix": "goal13.content.#22.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "co2",
+          "text": "Specifically,<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">electricity and heat generation</span> (41 percent of CO₂ emissions) is the largest source of carbon dioxide, followed by<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">transportation</span> (22 percent of CO₂ emissions),<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">manufacturing and construction</span> (16 percent of CO₂ emissions), and<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">building</span> (7 percent of CO₂ emissions).",
+          "translationPrefix": "goal13.content.#22.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "methane",
+          "text": "Methane is the second largest greenhouse gas contributing about 17 percent of the total. In contrast to CO₂, methane is emitted largely from<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">the non-energy sector</span>.",
+          "translationPrefix": "goal13.content.#22.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "methane",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">Agriculture</span>, which includes livestock, crop cultivation and biomass burning, is the biggest source of methane emissions (about two-fifths of all CH4 emissions). 40 percent of methane emissions comes from the energy sector, most of which can be attributed to<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">fugitive emissions</span>.<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-yellow200)\">Fugitive emissions</span> are the intentional or unintentional release of greenhouse gases during exploration, processing, and delivery of oil, gas, and coal.",
+          "translationPrefix": "goal13.content.#22.scenes.#5"
+        }
+      ],
+      "translationPrefix": "goal13.content.#22"
+    },
+    {
+      "type": "subhed2",
+      "text": "Sources of GHGs by country",
+      "translationPrefix": "goal13.content.#23"
+    },
+    {
+      "type": "text",
+      "text": "Total greenhouse gas emissions in 2019 were 48 million CO₂ equivalent tonnes (tCO₂e) with a wide variation across countries. Countries with a higher population tend to emit more. Countries with higher income levels also tend to emit more.",
+      "translationPrefix": "goal13.content.#24"
+    },
+    {
+      "type": "scroller",
+      "title": "Who contributes most to global greenhouse gas emissions?",
+      "subtitle": "GHG emissions and population in 2019",
+      "visdescription": "Visual shows a Marimekko plot with a series of breakdowns of greenhouse gas emissions by income group, country and gas type",
+      "source": "[link: https://www.climatewatchdata.org/ghg-emissions Climate Watch]",
+      "graphic": "variable_width_bars",
+      "path": "data/goal13/goal13.emissions_population.json",
+      "yaxisunits": "tonnes CO₂e/capita/year",
+      "countrypopulation": "Country population",
+      "totalpopulation": "Total population",
+      "percapita": "Per capita CO₂e emissions",
+      "legendtitle": "Total emissions",
+      "legendunits": "million tonnes CO₂e/year",
+      "millionpeople": "million people",
+      "ghg": "Total greenhouse gases",
+      "co2": "CO₂",
+      "ch4": "CH₄",
+      "scenes": [
+        {
+          "type": "scene",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple500)\">High-income countries</span> comprise 16 percent of the global population, but produce 31 percent of CO₂ emissions. On average,<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple500)\">high-income countries</span> emit 12 tCO₂e GHG emissions per person per year, compared to 8 tCO₂e in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">upper-middle income countries</span>, 3 tCO₂e in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue500)\">lower-middle income countries</span>, and around 2.5 tCO₂e in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal400)\">low-income countries</span>.",
+          "translationPrefix": "goal13.content.#25.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "text": "While high-income countries contribute most to global emissions, the poorest countries and people are most vulnerable to the impacts of climate change.[reference: World Bank. [link: https://www.worldbank.org/en/topic/social-dimensions-of-climate-change Social Dimensions of Climate Change.] Accessed Date 06/07/2023.]",
+          "translationPrefix": "goal13.content.#25.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "text": "A small number of countries produce most of the world’s greenhouse gas emissions. The top 10 emitters[footnote:  The top 10 emitters are China (26.4%), United States (12.47%), India (7.06%),  Russia (5.15%), Japan (2.42%), Brazil (2.20%), Indonesia (2.08%), Iran (1.86%), Germany (1.56%) and  Canada (1.53%), measured in GHG emissions excluding LUCF in 2019] account for more than 60 percent (30.2 Gt CO₂e) of the global total. Most of them have large populations and higher emissions per person than the world average of 6.21 tCO₂e per person.",
+          "translationPrefix": "goal13.content.#25.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "text": "As of 2019, China topped the list, producing 26.4 percent of global greenhouse gas emissions (with 18 percent of global population), followed by the United States at 12.5 percent (with 4 percent of global population), India at 7.1 percent (with 18 percent of global population), and the European Union at 7.0 percent (with 6 percent of global population).",
+          "translationPrefix": "goal13.content.#25.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "text": "In 2019, of all the greenhouse gases, CO₂ emissions were largest, reaching 35.5 billion metric tonnes. The difference in CO₂ emissions among income groups is stark. Emissions per capita in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple500)\">high-income countries</span> was twice (9.9 tCO₂e) the global average (4.6 tCO₂e), whereas, in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal400)\">lower-middle income countries</span>, it was less than half (1.7 tCO₂e) and in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">low-income countries</span> it was one-fifteenth (0.3 tCO₂e) of the global rate.",
+          "translationPrefix": "goal13.content.#25.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "text": "The largest contributors to current CO₂ concentrations are China (30 percent)  and the United States (nearly 14 percent). However, the US and China are ranked 10th and 29th in terms of CO₂ emissions per capita. The largest emitters of CO₂ per capita are oil-rich countries such as Qatar, Bahrain and Kuwait.",
+          "translationPrefix": "goal13.content.#25.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "text": "Since methane is emitted largely from agricultural activities and this sector is important in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">low-</span> and<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal400)\">middle-income countries</span>, the differences in methane emissions between income groups are smaller. Methane emissions per capita range from nearly 0.8 tCO₂e in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal400)\">lower-middle income countries</span> to 1.5 tCO₂e in<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">high-income countries</span>.",
+          "translationPrefix": "goal13.content.#25.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "text": "China, the United States, Russia, and India are among the largest contributors to methane emissions. However, Turkmenistan has among the highest methane emissions per capita with a large amount from fugitive emissions.[reference: Irakulis-Loitxate, Itziar, Luis Guanter, Joannes D. Maasakkers, Daniel Zavala-Araiza, and Ilse Aben. 2022. [link: https://pubs.acs.org/doi/full/10.1021/acs.est.1c04873 Satellites detect abatable super-emissions in one of the world’s largest methane hotspot regions.] Environmental Science & Technology 56, no. 4 (2022): 2143-2152.] Countries with large livestock populations such as New Zealand and important agricultural producers like Mongolia are also among the top 10 methane emitters in per capita terms.",
+          "translationPrefix": "goal13.content.#25.scenes.#7"
+        }
+      ],
+      "translationPrefix": "goal13.content.#25"
+    },
+    {
+      "type": "text",
+      "text": "Since 1750, nearly 1,700 billion tCO₂e have been emitted. The largest contributors have been high-income countries, accounting for more than half of all emissions (58 percent). This is in sharp contrast with emissions from low-income countries (0.6 percent) and lower-middle income countries (10 percent).",
+      "translationPrefix": "goal13.content.#26"
+    },
+    {
+      "type": "vis",
+      "graphic": "ghg_income_pies",
+      "path": "data/goal13/goal13.cumulative_co2_income.json",
+      "title": "High-income countries are responsible for the highest share of current and historical CO2 emissions",
+      "subtitle": "",
+      "visdescription": "Two pie charts show the distribution and cumulative shares of CO₂ emissions",
+      "source": "[link: https://www.globalcarbonproject.org/ The Global Carbon Project]",
+      "sharescumulative": "Shares of cumulative emissions from 1750 to 2019",
+      "emissions2019": "Emissions in 2021",
+      "shares2019": "Shares of emissions in 2021",
+      "translationPrefix": "goal13.content.#27"
+    },
+    {
+      "type": "subhed2",
+      "text": "Impacts of shocks (Russia’s invasion of Ukraine)",
+      "translationPrefix": "goal13.content.#28"
+    },
+    {
+      "type": "text",
+      "text": "Russia’s invasion of Ukraine in 2022 has led to a sharp reduction in oil and gas from Russia, destabilizing the energy market in Europe and triggering a global energy crisis.[reference: International Energy Agency. [link: https://www.iea.org/topics/russias-war-on-ukraine Russia's War on Ukraine.] Accessed Date 06/07/2023.] In the near term, countries in Europe have taken a number of actions to reduce their energy demand, diversify supply and boost investment in renewable energy, while addressing the impacts of energy price increases on households and businesses. With these parallel efforts, there has been no visible increase on CO₂ emissions in Europe.",
+      "translationPrefix": "goal13.content.#29"
+    },
+    {
+      "type": "vis",
+      "graphic": "ukraine_impact",
+      "path": "data/goal13/goal13.impact_ukraine.json",
+      "title": "Have emissions from the European Union reached a plateau?",
+      "subtitle": "Monthly CO₂ emissions from 2019 to 2022 for European Union",
+      "visdescription": "Line chart compares monthly CO₂ emissions in 2019, 2020, 2021, and 2022.",
+      "source": "[link: https://carbonmonitor.org/ Carbon Monitor real-time track of CO2 emissions]",
+      "yaxistitle": "Monthly CO₂ emissions",
+      "yaxisunits": "Mt CO₂",
+      "size": "main",
+      "january": "January",
+      "december": "December",
+      "translationPrefix": "goal13.content.#30"
+    },
+    {
+      "type": "text",
+      "text": "European countries have ramped up their efforts towards energy transitions. Energy efficiency has improved, solar capacity has been added, and electric car sales have gone up. These signals may suggest that Europe is taking this energy crisis as an opportunity to transition to clean energy. The longer term impacts on emissions will depend on whether this transition persists and whether decision makers create policies and market conditions to support clean energy sources.[reference: International Energy Agency. 2022. [link: https://www.iea.org/news/world-energy-outlook-2022-shows-the-global-energy-crisis-can-be-a-historic-turning-point-towards-a-cleaner-and-more-secure-future World Energy Outlook 2022 shows the global energy crisis can be a historic turning point towards a cleaner and more secure future.]]",
+      "translationPrefix": "goal13.content.#31"
+    },
+    {
+      "type": "subhed",
+      "text": "What can be done?",
+      "translationPrefix": "goal13.content.#32"
+    },
+    {
+      "type": "text",
+      "text": "Climate change and the severity of its impacts can be tackled through two approaches: mitigation and adaptation.[reference: Intergovernmental Panel on Climate Change. 2022. [link: https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/ Sixth Assessment Report - Working Group II. Climate Change 2022: Impacts, Adaptation and Vulnerability.]]",
+      "translationPrefix": "goal13.content.#33"
+    },
+    {
+      "type": "text",
+      "text": "Climate mitigation means reducing or stabilizing the level of greenhouse gases in the atmosphere to prevent dangerous warming of the planet. Mitigation reduces the sources of the heat-trapping gases or increases the carbon sequestered in ecosystems. These actions include burning less fossil fuels, establishing a cleaner transportation system, and increasing the size of forests.[reference: European Environment Agency. [link: https://www.eea.europa.eu/help/faq/what-is-the-difference-between What is the difference between adaptation and mitigation?] Accessed Date 06/07/2023.]",
+      "translationPrefix": "goal13.content.#34"
+    },
+    {
+      "type": "text",
+      "text": "Climate adaptation refers to strategies and actions that help prepare for the current and future impacts of climate change. The goal of adaptation is to reduce risks from phenomena like sea-level rise, more intense extreme weather events, and food insecurity. Climate adaptation also includes making the most of potentially beneficial opportunities associated with climate change like longer growing seasons or increased crop yields in some regions.[reference: European Environment Agency. [link: https://www.eea.europa.eu/help/faq/what-is-the-difference-between What is the difference between adaptation and mitigation?] Accessed Date 06/07/2023.]",
+      "translationPrefix": "goal13.content.#35"
+    },
+    {
+      "type": "subhed2",
+      "text": "Mitigation actions",
+      "translationPrefix": "goal13.content.#36"
+    },
+    {
+      "type": "text",
+      "text": "To prevent irreversible effects of climate change, the Paris Agreement has set a goal to substantially reduce global greenhouse gas emissions to limit the Earth's warming to well below 2.0°C above pre-industrial levels in this century, while pursuing efforts to limit warming to 1.5°C above pre-industrial levels. Stabilizing climate change requires bringing net global CO₂ emissions to zero by 2050. [footnote: Net zero means cutting greenhouse gas emissions to the point where they are counterbalanced by an equal amount of emissions that are reabsorbed from the atmosphere]",
+      "translationPrefix": "goal13.content.#37"
+    },
+    {
+      "type": "text",
+      "text": "To be successful, all countries must act. The top emitting countries need to substantially reduce emissions and achieve net zero by 2050, but this is not enough. Even if top emitters reduce emissions and achieve net zero by 2050, warming will not be limited to 1.5°C. To achieve this, all countries will need to lower emissions as they grow.",
+      "translationPrefix": "goal13.content.#38"
+    },
+    {
+      "type": "vis",
+      "graphic": "top_income_emissions",
+      "path": "data/goal13/goal13.top_income_emissions.json",
+      "title": "The road to net zero requires concerted efforts from all countries",
+      "subtitle": "",
+      "visdescription": "Area chart shows hypothetical scenarios for greenhouse gas emissions. It depicts that the net zero target cannot be realized solely through the efforts of top emitters or high-income countries.",
+      "source": "World Bank Greenhouse Gas Emissions Pathways Dashboard 2022",
+      "size": "content",
+      "toprest": "If only the top emitters follow a Net-Zero pathway",
+      "income": "If only HIC and UMIC follow a Net-Zero pathway",
+      "topemitters": "Top emitters",
+      "restofworld": "Rest of the world",
+      "units": "Gt CO₂e",
+      "projection": "Projection",
+      "target": "Emission level to meet 1.5°C target by 2050",
+      "translationPrefix": "goal13.content.#39"
+    },
+    {
+      "type": "text",
+      "text": "The number of climate actions taken by governments, local authorities, businesses and individuals has been growing rapidly. With technology change and declining costs of clean renewable energy,[reference: International Renewable Energy Agency. 2022. [link: https://www.irena.org/News/articles/2022/Jul/Competitiveness-of-Renewables-Continued-Amid-Fossil-Fuel-Crisis Infographic: Competitiveness of Renewables Continued amid Fossil Fuel Crisis.]] the world energy outlook sees a definitive peak in global demand for fossil fuels in this decade.[reference: International Energy Agency. 2022. [link: https://www.iea.org/reports/world-energy-outlook-2022/key-findings World Energy Outlook 2022 Key findings.]] However, nearly seven years after the Paris Agreement and despite the ambitious pledges by governments and industry, global emissions continue to increase, which would still lead to 2.5 degrees warming by the end of the century.[reference: United Nations Framework Convention on Climate Change. 2022. [link: https://unfccc.int/ndc-synthesis-report-2022 Nationally determined contributions under the Paris Agreement. Synthesis report by the secretariat.]] The world needs more ambitious actions to avoid unprecedented risks from each additional increment of warming.",
+      "translationPrefix": "goal13.content.#40"
+    },
+    {
+      "type": "subhed2",
+      "text": "Adaptation actions",
+      "translationPrefix": "goal13.content.#41"
+    },
+    {
+      "type": "text",
+      "text": "Approximately 3.3 to 3.6 billion people live in areas that are highly vulnerable to climate change.[reference: Intergovernmental Panel on Climate Change. 2022. [link: https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/ Sixth Assessment Report - Working Group II. Climate Change 2022: Impacts, Adaptation and Vulnerability.]] It is vital to help communities build adaptation capacity and resilience to climate change by rapid and inclusive development and ensuring climate risks are considered in all decisions and investments.[reference: World Bank Group. 2022. [link: https://openknowledge.worldbank.org/handle/10986/38220 Climate and Development: an Agenda for Action.]] [target: 13.2]",
+      "translationPrefix": "goal13.content.#42"
+    },
+    {
+      "type": "text",
+      "text": "The World Bank Group’s [link: https://www.worldbank.org/en/publication/country-climate-development-reports Country Climate and Development Reports (CCDRs)] are new core diagnostic reports that integrate climate change and development considerations. They will help countries prioritize the most impactful actions that can reduce greenhouse gas (GHG) emissions and boost adaptation, while delivering on broader development goals. CCDRs identify main pathways to reduce GHG emissions and climate vulnerabilities, including the costs and challenges as well as benefits and opportunities from doing so. CCDRs aim to inform governments, citizens, the private sector, and development partners and enable engagements with the development and climate agenda.[reference: World Bank, [link: https://www.worldbank.org/en/publication/country-climate-development-reports Country Climate and Development Reports (CCDRs)]",
+      "translationPrefix": "goal13.content.#43"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "Many local governments in low-and middle-income countries lack disaster risk reduction strategies that align with their national strategies.",
+          "shorttitle": "Many local governments in low-and middle-income countries lack disaster risk reduction strategies that align with their national strategies.",
+          "subtitle": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%). 2018-2022 average",
+          "source": "United Nations Office for Disaster Reduction (UNISDR). Retrieved from [link: https://unstats.un.org/sdgs/dataportal/database UN SDG Portal (13.1.3)].",
+          "target": "13.1.3.",
+          "image": "goal13/sdg13_drr.dot.png",
+          "translationPrefix": "goal13.content.#44.charts.#0"
+        },
+        {
+          "title": "Energy systems received the largest share of climate investment from both public and private sources.",
+          "shorttitle": "Energy systems received the largest share of climate investment from both public and private sources.",
+          "subtitle": "Climate investment by public and private sources in USD billion, 2020",
+          "source": "Climate Policy Initiative. [link: https://www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-a-decade-of-data/ Global Landscape of Climate Finance: A Decade of Data].",
+          "target": "13.a.1",
+          "image": "goal13/sdg13_climate_finance_column.png",
+          "translationPrefix": "goal13.content.#44.charts.#1"
+        }
+      ],
+      "translationPrefix": "goal13.content.#44"
+    }
+  ]
+}

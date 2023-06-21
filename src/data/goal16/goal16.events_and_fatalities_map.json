@@ -1,0 +1,4352 @@
+[
+  {
+    "year": 2018,
+    "country": "Afghanistan",
+    "iso3c": "AFG",
+    "fatalities": 42977
+  },
+  {
+    "year": 2018,
+    "country": "Albania",
+    "iso3c": "ALB",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Algeria",
+    "iso3c": "DZA",
+    "fatalities": 63
+  },
+  {
+    "year": 2018,
+    "country": "Angola",
+    "iso3c": "AGO",
+    "fatalities": 40
+  },
+  {
+    "year": 2018,
+    "country": "Antigua and Barbuda",
+    "iso3c": "ATG",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Argentina",
+    "iso3c": "ARG",
+    "fatalities": 13
+  },
+  {
+    "year": 2018,
+    "country": "Armenia",
+    "iso3c": "ARM",
+    "fatalities": 6
+  },
+  {
+    "year": 2018,
+    "country": "Azerbaijan",
+    "iso3c": "AZE",
+    "fatalities": 45
+  },
+  {
+    "year": 2018,
+    "country": "Bahrain",
+    "iso3c": "BHR",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Bangladesh",
+    "iso3c": "BGD",
+    "fatalities": 180
+  },
+  {
+    "year": 2018,
+    "country": "Barbados",
+    "iso3c": "BRB",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Belarus",
+    "iso3c": "BLR",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Belize",
+    "iso3c": "BLZ",
+    "fatalities": 55
+  },
+  {
+    "year": 2018,
+    "country": "Benin",
+    "iso3c": "BEN",
+    "fatalities": 29
+  },
+  {
+    "year": 2018,
+    "country": "Bolivia",
+    "iso3c": "BOL",
+    "fatalities": 20
+  },
+  {
+    "year": 2018,
+    "country": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Brazil",
+    "iso3c": "BRA",
+    "fatalities": 6810
+  },
+  {
+    "year": 2018,
+    "country": "Burkina Faso",
+    "iso3c": "BFA",
+    "fatalities": 300
+  },
+  {
+    "year": 2018,
+    "country": "Burundi",
+    "iso3c": "BDI",
+    "fatalities": 297
+  },
+  {
+    "year": 2018,
+    "country": "Cambodia",
+    "iso3c": "KHM",
+    "fatalities": 4
+  },
+  {
+    "year": 2018,
+    "country": "Cameroon",
+    "iso3c": "CMR",
+    "fatalities": 1656
+  },
+  {
+    "year": 2018,
+    "country": "Central African Republic",
+    "iso3c": "CAF",
+    "fatalities": 1146
+  },
+  {
+    "year": 2018,
+    "country": "Chad",
+    "iso3c": "TCD",
+    "fatalities": 257
+  },
+  {
+    "year": 2018,
+    "country": "Chile",
+    "iso3c": "CHL",
+    "fatalities": 3
+  },
+  {
+    "year": 2018,
+    "country": "China",
+    "iso3c": "CHN",
+    "fatalities": 33
+  },
+  {
+    "year": 2018,
+    "country": "Colombia",
+    "iso3c": "COL",
+    "fatalities": 1452
+  },
+  {
+    "year": 2018,
+    "country": "Congo, Dem. Rep.",
+    "iso3c": "COD",
+    "fatalities": 3129
+  },
+  {
+    "year": 2018,
+    "country": "Congo, Rep.",
+    "iso3c": "COG",
+    "fatalities": 27
+  },
+  {
+    "year": 2018,
+    "country": "Cote d'Ivoire",
+    "iso3c": "CIV",
+    "fatalities": 13
+  },
+  {
+    "year": 2018,
+    "country": "Croatia",
+    "iso3c": "HRV",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Cyprus",
+    "iso3c": "CYP",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Dominican Republic",
+    "iso3c": "DOM",
+    "fatalities": 5
+  },
+  {
+    "year": 2018,
+    "country": "Ecuador",
+    "iso3c": "ECU",
+    "fatalities": 7
+  },
+  {
+    "year": 2018,
+    "country": "Egypt, Arab Rep.",
+    "iso3c": "EGY",
+    "fatalities": 1113
+  },
+  {
+    "year": 2018,
+    "country": "El Salvador",
+    "iso3c": "SLV",
+    "fatalities": 943
+  },
+  {
+    "year": 2018,
+    "country": "Equatorial Guinea",
+    "iso3c": "GNQ",
+    "fatalities": 4
+  },
+  {
+    "year": 2018,
+    "country": "Eritrea",
+    "iso3c": "ERI",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Eswatini",
+    "iso3c": "SWZ",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Ethiopia",
+    "iso3c": "ETH",
+    "fatalities": 1322
+  },
+  {
+    "year": 2018,
+    "country": "Gabon",
+    "iso3c": "GAB",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Gambia, The",
+    "iso3c": "GMB",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Georgia",
+    "iso3c": "GEO",
+    "fatalities": 3
+  },
+  {
+    "year": 2018,
+    "country": "Ghana",
+    "iso3c": "GHA",
+    "fatalities": 25
+  },
+  {
+    "year": 2018,
+    "country": "Greece",
+    "iso3c": "GRC",
+    "fatalities": 8
+  },
+  {
+    "year": 2018,
+    "country": "Guatemala",
+    "iso3c": "GTM",
+    "fatalities": 766
+  },
+  {
+    "year": 2018,
+    "country": "Guinea",
+    "iso3c": "GIN",
+    "fatalities": 13
+  },
+  {
+    "year": 2018,
+    "country": "Guyana",
+    "iso3c": "GUY",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Haiti",
+    "iso3c": "HTI",
+    "fatalities": 165
+  },
+  {
+    "year": 2018,
+    "country": "Honduras",
+    "iso3c": "HND",
+    "fatalities": 780
+  },
+  {
+    "year": 2018,
+    "country": "India",
+    "iso3c": "IND",
+    "fatalities": 1908
+  },
+  {
+    "year": 2018,
+    "country": "Indonesia",
+    "iso3c": "IDN",
+    "fatalities": 148
+  },
+  {
+    "year": 2018,
+    "country": "Iran, Islamic Rep.",
+    "iso3c": "IRN",
+    "fatalities": 186
+  },
+  {
+    "year": 2018,
+    "country": "Iraq",
+    "iso3c": "IRQ",
+    "fatalities": 5564
+  },
+  {
+    "year": 2018,
+    "country": "Israel",
+    "iso3c": "ISR",
+    "fatalities": 7
+  },
+  {
+    "year": 2018,
+    "country": "Jamaica",
+    "iso3c": "JAM",
+    "fatalities": 219
+  },
+  {
+    "year": 2018,
+    "country": "Jordan",
+    "iso3c": "JOR",
+    "fatalities": 6
+  },
+  {
+    "year": 2018,
+    "country": "Kazakhstan",
+    "iso3c": "KAZ",
+    "fatalities": 3
+  },
+  {
+    "year": 2018,
+    "country": "Kenya",
+    "iso3c": "KEN",
+    "fatalities": 363
+  },
+  {
+    "year": 2018,
+    "country": "Korea, Dem. People's Rep.",
+    "iso3c": "PRK",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Kyrgyz Republic",
+    "iso3c": "KGZ",
+    "fatalities": 4
+  },
+  {
+    "year": 2018,
+    "country": "Lao PDR",
+    "iso3c": "LAO",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Lebanon",
+    "iso3c": "LBN",
+    "fatalities": 30
+  },
+  {
+    "year": 2018,
+    "country": "Liberia",
+    "iso3c": "LBR",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Libya",
+    "iso3c": "LBY",
+    "fatalities": 1226
+  },
+  {
+    "year": 2018,
+    "country": "Madagascar",
+    "iso3c": "MDG",
+    "fatalities": 123
+  },
+  {
+    "year": 2018,
+    "country": "Malawi",
+    "iso3c": "MWI",
+    "fatalities": 2
+  },
+  {
+    "year": 2018,
+    "country": "Malaysia",
+    "iso3c": "MYS",
+    "fatalities": 11
+  },
+  {
+    "year": 2018,
+    "country": "Mali",
+    "iso3c": "MLI",
+    "fatalities": 1719
+  },
+  {
+    "year": 2018,
+    "country": "Mauritania",
+    "iso3c": "MRT",
+    "fatalities": 3
+  },
+  {
+    "year": 2018,
+    "country": "Mexico",
+    "iso3c": "MEX",
+    "fatalities": 9673
+  },
+  {
+    "year": 2018,
+    "country": "Moldova",
+    "iso3c": "MDA",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Mongolia",
+    "iso3c": "MNG",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Montenegro",
+    "iso3c": "MNE",
+    "fatalities": 2
+  },
+  {
+    "year": 2018,
+    "country": "Morocco",
+    "iso3c": "MAR",
+    "fatalities": 4
+  },
+  {
+    "year": 2018,
+    "country": "Mozambique",
+    "iso3c": "MOZ",
+    "fatalities": 206
+  },
+  {
+    "year": 2018,
+    "country": "Myanmar",
+    "iso3c": "MMR",
+    "fatalities": 255
+  },
+  {
+    "year": 2018,
+    "country": "Nepal",
+    "iso3c": "NPL",
+    "fatalities": 13
+  },
+  {
+    "year": 2018,
+    "country": "Nicaragua",
+    "iso3c": "NIC",
+    "fatalities": 26
+  },
+  {
+    "year": 2018,
+    "country": "Niger",
+    "iso3c": "NER",
+    "fatalities": 506
+  },
+  {
+    "year": 2018,
+    "country": "Nigeria",
+    "iso3c": "NGA",
+    "fatalities": 6098
+  },
+  {
+    "year": 2018,
+    "country": "North Macedonia",
+    "iso3c": "MKD",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Oman",
+    "iso3c": "OMN",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Pakistan",
+    "iso3c": "PAK",
+    "fatalities": 1185
+  },
+  {
+    "year": 2018,
+    "country": "Panama",
+    "iso3c": "PAN",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Paraguay",
+    "iso3c": "PRY",
+    "fatalities": 5
+  },
+  {
+    "year": 2018,
+    "country": "Peru",
+    "iso3c": "PER",
+    "fatalities": 15
+  },
+  {
+    "year": 2018,
+    "country": "Philippines",
+    "iso3c": "PHL",
+    "fatalities": 2102
+  },
+  {
+    "year": 2018,
+    "country": "Puerto Rico",
+    "iso3c": "PRI",
+    "fatalities": 123
+  },
+  {
+    "year": 2018,
+    "country": "Romania",
+    "iso3c": "ROU",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Russian Federation",
+    "iso3c": "RUS",
+    "fatalities": 119
+  },
+  {
+    "year": 2018,
+    "country": "Rwanda",
+    "iso3c": "RWA",
+    "fatalities": 37
+  },
+  {
+    "year": 2018,
+    "country": "Saudi Arabia",
+    "iso3c": "SAU",
+    "fatalities": 1514
+  },
+  {
+    "year": 2018,
+    "country": "Senegal",
+    "iso3c": "SEN",
+    "fatalities": 28
+  },
+  {
+    "year": 2018,
+    "country": "Serbia",
+    "iso3c": "SRB",
+    "fatalities": 5
+  },
+  {
+    "year": 2018,
+    "country": "Sierra Leone",
+    "iso3c": "SLE",
+    "fatalities": 7
+  },
+  {
+    "year": 2018,
+    "country": "Somalia",
+    "iso3c": "SOM",
+    "fatalities": 5372
+  },
+  {
+    "year": 2018,
+    "country": "South Africa",
+    "iso3c": "ZAF",
+    "fatalities": 41
+  },
+  {
+    "year": 2018,
+    "country": "South Sudan",
+    "iso3c": "SSD",
+    "fatalities": 1704
+  },
+  {
+    "year": 2018,
+    "country": "Sri Lanka",
+    "iso3c": "LKA",
+    "fatalities": 19
+  },
+  {
+    "year": 2018,
+    "country": "St. Kitts and Nevis",
+    "iso3c": "KNA",
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "country": "Sudan",
+    "iso3c": "SDN",
+    "fatalities": 1017
+  },
+  {
+    "year": 2018,
+    "country": "Suriname",
+    "iso3c": "SUR",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Syrian Arab Republic",
+    "iso3c": "SYR",
+    "fatalities": 30117
+  },
+  {
+    "year": 2018,
+    "country": "Tajikistan",
+    "iso3c": "TJK",
+    "fatalities": 11
+  },
+  {
+    "year": 2018,
+    "country": "Tanzania",
+    "iso3c": "TZA",
+    "fatalities": 26
+  },
+  {
+    "year": 2018,
+    "country": "Thailand",
+    "iso3c": "THA",
+    "fatalities": 117
+  },
+  {
+    "year": 2018,
+    "country": "Togo",
+    "iso3c": "TGO",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "fatalities": 242
+  },
+  {
+    "year": 2018,
+    "country": "Tunisia",
+    "iso3c": "TUN",
+    "fatalities": 31
+  },
+  {
+    "year": 2018,
+    "country": "Turkiye",
+    "iso3c": "TUR",
+    "fatalities": 1931
+  },
+  {
+    "year": 2018,
+    "country": "Turkmenistan",
+    "iso3c": "TKM",
+    "fatalities": 25
+  },
+  {
+    "year": 2018,
+    "country": "Uganda",
+    "iso3c": "UGA",
+    "fatalities": 94
+  },
+  {
+    "year": 2018,
+    "country": "Ukraine",
+    "iso3c": "UKR",
+    "fatalities": 873
+  },
+  {
+    "year": 2018,
+    "country": "United Arab Emirates",
+    "iso3c": "ARE",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": "Uzbekistan",
+    "iso3c": "UZB",
+    "fatalities": 2
+  },
+  {
+    "year": 2018,
+    "country": "Venezuela, RB",
+    "iso3c": "VEN",
+    "fatalities": 1726
+  },
+  {
+    "year": 2018,
+    "country": "Vietnam",
+    "iso3c": "VNM",
+    "fatalities": 3
+  },
+  {
+    "year": 2018,
+    "country": "West Bank and Gaza",
+    "iso3c": "PSE",
+    "fatalities": 153
+  },
+  {
+    "year": 2018,
+    "country": "Yemen, Rep.",
+    "iso3c": "YEM",
+    "fatalities": 34237
+  },
+  {
+    "year": 2018,
+    "country": "Zambia",
+    "iso3c": "ZMB",
+    "fatalities": 8
+  },
+  {
+    "year": 2018,
+    "country": "Zimbabwe",
+    "iso3c": "ZWE",
+    "fatalities": 14
+  },
+  {
+    "year": 2018,
+    "country": null,
+    "iso3c": "GUF",
+    "fatalities": 0
+  },
+  {
+    "year": 2018,
+    "country": null,
+    "iso3c": null,
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Afghanistan",
+    "iso3c": "AFG",
+    "fatalities": 41422
+  },
+  {
+    "year": 2019,
+    "country": "Albania",
+    "iso3c": "ALB",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Algeria",
+    "iso3c": "DZA",
+    "fatalities": 21
+  },
+  {
+    "year": 2019,
+    "country": "Angola",
+    "iso3c": "AGO",
+    "fatalities": 19
+  },
+  {
+    "year": 2019,
+    "country": "Antigua and Barbuda",
+    "iso3c": "ATG",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Argentina",
+    "iso3c": "ARG",
+    "fatalities": 15
+  },
+  {
+    "year": 2019,
+    "country": "Armenia",
+    "iso3c": "ARM",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Azerbaijan",
+    "iso3c": "AZE",
+    "fatalities": 14
+  },
+  {
+    "year": 2019,
+    "country": "Bahamas, The",
+    "iso3c": "BHS",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Bangladesh",
+    "iso3c": "BGD",
+    "fatalities": 259
+  },
+  {
+    "year": 2019,
+    "country": "Belarus",
+    "iso3c": "BLR",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Belize",
+    "iso3c": "BLZ",
+    "fatalities": 55
+  },
+  {
+    "year": 2019,
+    "country": "Benin",
+    "iso3c": "BEN",
+    "fatalities": 25
+  },
+  {
+    "year": 2019,
+    "country": "Bolivia",
+    "iso3c": "BOL",
+    "fatalities": 5
+  },
+  {
+    "year": 2019,
+    "country": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Brazil",
+    "iso3c": "BRA",
+    "fatalities": 5338
+  },
+  {
+    "year": 2019,
+    "country": "Bulgaria",
+    "iso3c": "BGR",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Burkina Faso",
+    "iso3c": "BFA",
+    "fatalities": 2204
+  },
+  {
+    "year": 2019,
+    "country": "Burundi",
+    "iso3c": "BDI",
+    "fatalities": 283
+  },
+  {
+    "year": 2019,
+    "country": "Cambodia",
+    "iso3c": "KHM",
+    "fatalities": 5
+  },
+  {
+    "year": 2019,
+    "country": "Cameroon",
+    "iso3c": "CMR",
+    "fatalities": 1306
+  },
+  {
+    "year": 2019,
+    "country": "Central African Republic",
+    "iso3c": "CAF",
+    "fatalities": 592
+  },
+  {
+    "year": 2019,
+    "country": "Chad",
+    "iso3c": "TCD",
+    "fatalities": 559
+  },
+  {
+    "year": 2019,
+    "country": "Chile",
+    "iso3c": "CHL",
+    "fatalities": 7
+  },
+  {
+    "year": 2019,
+    "country": "China",
+    "iso3c": "CHN",
+    "fatalities": 11
+  },
+  {
+    "year": 2019,
+    "country": "Colombia",
+    "iso3c": "COL",
+    "fatalities": 1403
+  },
+  {
+    "year": 2019,
+    "country": "Congo, Dem. Rep.",
+    "iso3c": "COD",
+    "fatalities": 3677
+  },
+  {
+    "year": 2019,
+    "country": "Congo, Rep.",
+    "iso3c": "COG",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Costa Rica",
+    "iso3c": "CRI",
+    "fatalities": 10
+  },
+  {
+    "year": 2019,
+    "country": "Cote d'Ivoire",
+    "iso3c": "CIV",
+    "fatalities": 29
+  },
+  {
+    "year": 2019,
+    "country": "Croatia",
+    "iso3c": "HRV",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Cuba",
+    "iso3c": "CUB",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Cyprus",
+    "iso3c": "CYP",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Djibouti",
+    "iso3c": "DJI",
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Dominica",
+    "iso3c": "DMA",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Dominican Republic",
+    "iso3c": "DOM",
+    "fatalities": 10
+  },
+  {
+    "year": 2019,
+    "country": "Ecuador",
+    "iso3c": "ECU",
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Egypt, Arab Rep.",
+    "iso3c": "EGY",
+    "fatalities": 1003
+  },
+  {
+    "year": 2019,
+    "country": "El Salvador",
+    "iso3c": "SLV",
+    "fatalities": 874
+  },
+  {
+    "year": 2019,
+    "country": "Equatorial Guinea",
+    "iso3c": "GNQ",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Eswatini",
+    "iso3c": "SWZ",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Ethiopia",
+    "iso3c": "ETH",
+    "fatalities": 497
+  },
+  {
+    "year": 2019,
+    "country": "Gabon",
+    "iso3c": "GAB",
+    "fatalities": 6
+  },
+  {
+    "year": 2019,
+    "country": "Gambia, The",
+    "iso3c": "GMB",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Georgia",
+    "iso3c": "GEO",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Ghana",
+    "iso3c": "GHA",
+    "fatalities": 36
+  },
+  {
+    "year": 2019,
+    "country": "Greece",
+    "iso3c": "GRC",
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Guatemala",
+    "iso3c": "GTM",
+    "fatalities": 1095
+  },
+  {
+    "year": 2019,
+    "country": "Guinea",
+    "iso3c": "GIN",
+    "fatalities": 19
+  },
+  {
+    "year": 2019,
+    "country": "Guyana",
+    "iso3c": "GUY",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Haiti",
+    "iso3c": "HTI",
+    "fatalities": 288
+  },
+  {
+    "year": 2019,
+    "country": "Honduras",
+    "iso3c": "HND",
+    "fatalities": 1003
+  },
+  {
+    "year": 2019,
+    "country": "India",
+    "iso3c": "IND",
+    "fatalities": 1225
+  },
+  {
+    "year": 2019,
+    "country": "Indonesia",
+    "iso3c": "IDN",
+    "fatalities": 134
+  },
+  {
+    "year": 2019,
+    "country": "Iran, Islamic Rep.",
+    "iso3c": "IRN",
+    "fatalities": 76
+  },
+  {
+    "year": 2019,
+    "country": "Iraq",
+    "iso3c": "IRQ",
+    "fatalities": 3254
+  },
+  {
+    "year": 2019,
+    "country": "Israel",
+    "iso3c": "ISR",
+    "fatalities": 10
+  },
+  {
+    "year": 2019,
+    "country": "Jamaica",
+    "iso3c": "JAM",
+    "fatalities": 272
+  },
+  {
+    "year": 2019,
+    "country": "Japan",
+    "iso3c": "JPN",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Jordan",
+    "iso3c": "JOR",
+    "fatalities": 5
+  },
+  {
+    "year": 2019,
+    "country": "Kazakhstan",
+    "iso3c": "KAZ",
+    "fatalities": 6
+  },
+  {
+    "year": 2019,
+    "country": "Kenya",
+    "iso3c": "KEN",
+    "fatalities": 263
+  },
+  {
+    "year": 2019,
+    "country": "Korea, Dem. People's Rep.",
+    "iso3c": "PRK",
+    "fatalities": 9
+  },
+  {
+    "year": 2019,
+    "country": "Kyrgyz Republic",
+    "iso3c": "KGZ",
+    "fatalities": 7
+  },
+  {
+    "year": 2019,
+    "country": "Lao PDR",
+    "iso3c": "LAO",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Lebanon",
+    "iso3c": "LBN",
+    "fatalities": 17
+  },
+  {
+    "year": 2019,
+    "country": "Lesotho",
+    "iso3c": "LSO",
+    "fatalities": 3
+  },
+  {
+    "year": 2019,
+    "country": "Liberia",
+    "iso3c": "LBR",
+    "fatalities": 3
+  },
+  {
+    "year": 2019,
+    "country": "Libya",
+    "iso3c": "LBY",
+    "fatalities": 2294
+  },
+  {
+    "year": 2019,
+    "country": "Madagascar",
+    "iso3c": "MDG",
+    "fatalities": 319
+  },
+  {
+    "year": 2019,
+    "country": "Malawi",
+    "iso3c": "MWI",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Malaysia",
+    "iso3c": "MYS",
+    "fatalities": 15
+  },
+  {
+    "year": 2019,
+    "country": "Mali",
+    "iso3c": "MLI",
+    "fatalities": 1871
+  },
+  {
+    "year": 2019,
+    "country": "Mauritania",
+    "iso3c": "MRT",
+    "fatalities": 3
+  },
+  {
+    "year": 2019,
+    "country": "Mexico",
+    "iso3c": "MEX",
+    "fatalities": 9277
+  },
+  {
+    "year": 2019,
+    "country": "Moldova",
+    "iso3c": "MDA",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Montenegro",
+    "iso3c": "MNE",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Morocco",
+    "iso3c": "MAR",
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Mozambique",
+    "iso3c": "MOZ",
+    "fatalities": 662
+  },
+  {
+    "year": 2019,
+    "country": "Myanmar",
+    "iso3c": "MMR",
+    "fatalities": 1484
+  },
+  {
+    "year": 2019,
+    "country": "Namibia",
+    "iso3c": "NAM",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Nepal",
+    "iso3c": "NPL",
+    "fatalities": 36
+  },
+  {
+    "year": 2019,
+    "country": "Nicaragua",
+    "iso3c": "NIC",
+    "fatalities": 24
+  },
+  {
+    "year": 2019,
+    "country": "Niger",
+    "iso3c": "NER",
+    "fatalities": 727
+  },
+  {
+    "year": 2019,
+    "country": "Nigeria",
+    "iso3c": "NGA",
+    "fatalities": 5847
+  },
+  {
+    "year": 2019,
+    "country": "North Macedonia",
+    "iso3c": "MKD",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Pakistan",
+    "iso3c": "PAK",
+    "fatalities": 1143
+  },
+  {
+    "year": 2019,
+    "country": "Panama",
+    "iso3c": "PAN",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Paraguay",
+    "iso3c": "PRY",
+    "fatalities": 21
+  },
+  {
+    "year": 2019,
+    "country": "Peru",
+    "iso3c": "PER",
+    "fatalities": 29
+  },
+  {
+    "year": 2019,
+    "country": "Philippines",
+    "iso3c": "PHL",
+    "fatalities": 1700
+  },
+  {
+    "year": 2019,
+    "country": "Puerto Rico",
+    "iso3c": "PRI",
+    "fatalities": 144
+  },
+  {
+    "year": 2019,
+    "country": "Romania",
+    "iso3c": "ROU",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "Russian Federation",
+    "iso3c": "RUS",
+    "fatalities": 46
+  },
+  {
+    "year": 2019,
+    "country": "Rwanda",
+    "iso3c": "RWA",
+    "fatalities": 83
+  },
+  {
+    "year": 2019,
+    "country": "Saudi Arabia",
+    "iso3c": "SAU",
+    "fatalities": 1010
+  },
+  {
+    "year": 2019,
+    "country": "Senegal",
+    "iso3c": "SEN",
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Serbia",
+    "iso3c": "SRB",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Sierra Leone",
+    "iso3c": "SLE",
+    "fatalities": 6
+  },
+  {
+    "year": 2019,
+    "country": "Somalia",
+    "iso3c": "SOM",
+    "fatalities": 4489
+  },
+  {
+    "year": 2019,
+    "country": "South Africa",
+    "iso3c": "ZAF",
+    "fatalities": 60
+  },
+  {
+    "year": 2019,
+    "country": "South Sudan",
+    "iso3c": "SSD",
+    "fatalities": 1797
+  },
+  {
+    "year": 2019,
+    "country": "Sri Lanka",
+    "iso3c": "LKA",
+    "fatalities": 296
+  },
+  {
+    "year": 2019,
+    "country": "St. Lucia",
+    "iso3c": "LCA",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Sudan",
+    "iso3c": "SDN",
+    "fatalities": 560
+  },
+  {
+    "year": 2019,
+    "country": "Suriname",
+    "iso3c": "SUR",
+    "fatalities": 7
+  },
+  {
+    "year": 2019,
+    "country": "Syrian Arab Republic",
+    "iso3c": "SYR",
+    "fatalities": 15576
+  },
+  {
+    "year": 2019,
+    "country": "Taiwan, China",
+    "iso3c": "TWN",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Tajikistan",
+    "iso3c": "TJK",
+    "fatalities": 33
+  },
+  {
+    "year": 2019,
+    "country": "Tanzania",
+    "iso3c": "TZA",
+    "fatalities": 29
+  },
+  {
+    "year": 2019,
+    "country": "Thailand",
+    "iso3c": "THA",
+    "fatalities": 173
+  },
+  {
+    "year": 2019,
+    "country": "Togo",
+    "iso3c": "TGO",
+    "fatalities": 4
+  },
+  {
+    "year": 2019,
+    "country": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "fatalities": 178
+  },
+  {
+    "year": 2019,
+    "country": "Tunisia",
+    "iso3c": "TUN",
+    "fatalities": 30
+  },
+  {
+    "year": 2019,
+    "country": "Turkiye",
+    "iso3c": "TUR",
+    "fatalities": 961
+  },
+  {
+    "year": 2019,
+    "country": "Turkmenistan",
+    "iso3c": "TKM",
+    "fatalities": 8
+  },
+  {
+    "year": 2019,
+    "country": "Uganda",
+    "iso3c": "UGA",
+    "fatalities": 89
+  },
+  {
+    "year": 2019,
+    "country": "Ukraine",
+    "iso3c": "UKR",
+    "fatalities": 388
+  },
+  {
+    "year": 2019,
+    "country": "United Arab Emirates",
+    "iso3c": "ARE",
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "country": "Uruguay",
+    "iso3c": "URY",
+    "fatalities": 2
+  },
+  {
+    "year": 2019,
+    "country": "Uzbekistan",
+    "iso3c": "UZB",
+    "fatalities": 3
+  },
+  {
+    "year": 2019,
+    "country": "Venezuela, RB",
+    "iso3c": "VEN",
+    "fatalities": 2386
+  },
+  {
+    "year": 2019,
+    "country": "Vietnam",
+    "iso3c": "VNM",
+    "fatalities": 1
+  },
+  {
+    "year": 2019,
+    "country": "West Bank and Gaza",
+    "iso3c": "PSE",
+    "fatalities": 133
+  },
+  {
+    "year": 2019,
+    "country": "Yemen, Rep.",
+    "iso3c": "YEM",
+    "fatalities": 27875
+  },
+  {
+    "year": 2019,
+    "country": "Zambia",
+    "iso3c": "ZMB",
+    "fatalities": 10
+  },
+  {
+    "year": 2019,
+    "country": "Zimbabwe",
+    "iso3c": "ZWE",
+    "fatalities": 21
+  },
+  {
+    "year": 2019,
+    "country": null,
+    "iso3c": null,
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Afghanistan",
+    "iso3c": "AFG",
+    "fatalities": 30956
+  },
+  {
+    "year": 2020,
+    "country": "Albania",
+    "iso3c": "ALB",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Algeria",
+    "iso3c": "DZA",
+    "fatalities": 31
+  },
+  {
+    "year": 2020,
+    "country": "Andorra",
+    "iso3c": "AND",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Angola",
+    "iso3c": "AGO",
+    "fatalities": 53
+  },
+  {
+    "year": 2020,
+    "country": "Antigua and Barbuda",
+    "iso3c": "ATG",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Argentina",
+    "iso3c": "ARG",
+    "fatalities": 8
+  },
+  {
+    "year": 2020,
+    "country": "Armenia",
+    "iso3c": "ARM",
+    "fatalities": 27
+  },
+  {
+    "year": 2020,
+    "country": "Austria",
+    "iso3c": "AUT",
+    "fatalities": 6
+  },
+  {
+    "year": 2020,
+    "country": "Azerbaijan",
+    "iso3c": "AZE",
+    "fatalities": 7057
+  },
+  {
+    "year": 2020,
+    "country": "Bahamas, The",
+    "iso3c": "BHS",
+    "fatalities": 4
+  },
+  {
+    "year": 2020,
+    "country": "Bahrain",
+    "iso3c": "BHR",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Bangladesh",
+    "iso3c": "BGD",
+    "fatalities": 171
+  },
+  {
+    "year": 2020,
+    "country": "Barbados",
+    "iso3c": "BRB",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Belarus",
+    "iso3c": "BLR",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Belgium",
+    "iso3c": "BEL",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Belize",
+    "iso3c": "BLZ",
+    "fatalities": 46
+  },
+  {
+    "year": 2020,
+    "country": "Benin",
+    "iso3c": "BEN",
+    "fatalities": 52
+  },
+  {
+    "year": 2020,
+    "country": "Bhutan",
+    "iso3c": "BTN",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Bolivia",
+    "iso3c": "BOL",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Botswana",
+    "iso3c": "BWA",
+    "fatalities": 4
+  },
+  {
+    "year": 2020,
+    "country": "Brazil",
+    "iso3c": "BRA",
+    "fatalities": 5258
+  },
+  {
+    "year": 2020,
+    "country": "Bulgaria",
+    "iso3c": "BGR",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Burkina Faso",
+    "iso3c": "BFA",
+    "fatalities": 2296
+  },
+  {
+    "year": 2020,
+    "country": "Burundi",
+    "iso3c": "BDI",
+    "fatalities": 318
+  },
+  {
+    "year": 2020,
+    "country": "Cabo Verde",
+    "iso3c": "CPV",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Cambodia",
+    "iso3c": "KHM",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Cameroon",
+    "iso3c": "CMR",
+    "fatalities": 1726
+  },
+  {
+    "year": 2020,
+    "country": "Central African Republic",
+    "iso3c": "CAF",
+    "fatalities": 441
+  },
+  {
+    "year": 2020,
+    "country": "Chad",
+    "iso3c": "TCD",
+    "fatalities": 715
+  },
+  {
+    "year": 2020,
+    "country": "Chile",
+    "iso3c": "CHL",
+    "fatalities": 10
+  },
+  {
+    "year": 2020,
+    "country": "China",
+    "iso3c": "CHN",
+    "fatalities": 9
+  },
+  {
+    "year": 2020,
+    "country": "Colombia",
+    "iso3c": "COL",
+    "fatalities": 1691
+  },
+  {
+    "year": 2020,
+    "country": "Comoros",
+    "iso3c": "COM",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Congo, Dem. Rep.",
+    "iso3c": "COD",
+    "fatalities": 5885
+  },
+  {
+    "year": 2020,
+    "country": "Congo, Rep.",
+    "iso3c": "COG",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Costa Rica",
+    "iso3c": "CRI",
+    "fatalities": 9
+  },
+  {
+    "year": 2020,
+    "country": "Cote d'Ivoire",
+    "iso3c": "CIV",
+    "fatalities": 81
+  },
+  {
+    "year": 2020,
+    "country": "Croatia",
+    "iso3c": "HRV",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Cuba",
+    "iso3c": "CUB",
+    "fatalities": 4
+  },
+  {
+    "year": 2020,
+    "country": "Cyprus",
+    "iso3c": "CYP",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Czechia",
+    "iso3c": "CZE",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Denmark",
+    "iso3c": "DNK",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Djibouti",
+    "iso3c": "DJI",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Dominican Republic",
+    "iso3c": "DOM",
+    "fatalities": 8
+  },
+  {
+    "year": 2020,
+    "country": "Ecuador",
+    "iso3c": "ECU",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Egypt, Arab Rep.",
+    "iso3c": "EGY",
+    "fatalities": 623
+  },
+  {
+    "year": 2020,
+    "country": "El Salvador",
+    "iso3c": "SLV",
+    "fatalities": 367
+  },
+  {
+    "year": 2020,
+    "country": "Equatorial Guinea",
+    "iso3c": "GNQ",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Eritrea",
+    "iso3c": "ERI",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Eswatini",
+    "iso3c": "SWZ",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Ethiopia",
+    "iso3c": "ETH",
+    "fatalities": 3832
+  },
+  {
+    "year": 2020,
+    "country": "Finland",
+    "iso3c": "FIN",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "France",
+    "iso3c": "FRA",
+    "fatalities": 7
+  },
+  {
+    "year": 2020,
+    "country": "Gabon",
+    "iso3c": "GAB",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Gambia, The",
+    "iso3c": "GMB",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Georgia",
+    "iso3c": "GEO",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Germany",
+    "iso3c": "DEU",
+    "fatalities": 14
+  },
+  {
+    "year": 2020,
+    "country": "Ghana",
+    "iso3c": "GHA",
+    "fatalities": 30
+  },
+  {
+    "year": 2020,
+    "country": "Greece",
+    "iso3c": "GRC",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Guatemala",
+    "iso3c": "GTM",
+    "fatalities": 562
+  },
+  {
+    "year": 2020,
+    "country": "Guinea",
+    "iso3c": "GIN",
+    "fatalities": 41
+  },
+  {
+    "year": 2020,
+    "country": "Guinea-Bissau",
+    "iso3c": "GNB",
+    "fatalities": 7
+  },
+  {
+    "year": 2020,
+    "country": "Guyana",
+    "iso3c": "GUY",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Haiti",
+    "iso3c": "HTI",
+    "fatalities": 488
+  },
+  {
+    "year": 2020,
+    "country": "Honduras",
+    "iso3c": "HND",
+    "fatalities": 724
+  },
+  {
+    "year": 2020,
+    "country": "India",
+    "iso3c": "IND",
+    "fatalities": 1007
+  },
+  {
+    "year": 2020,
+    "country": "Indonesia",
+    "iso3c": "IDN",
+    "fatalities": 124
+  },
+  {
+    "year": 2020,
+    "country": "Iran, Islamic Rep.",
+    "iso3c": "IRN",
+    "fatalities": 324
+  },
+  {
+    "year": 2020,
+    "country": "Iraq",
+    "iso3c": "IRQ",
+    "fatalities": 2734
+  },
+  {
+    "year": 2020,
+    "country": "Ireland",
+    "iso3c": "IRL",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Israel",
+    "iso3c": "ISR",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Italy",
+    "iso3c": "ITA",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Jamaica",
+    "iso3c": "JAM",
+    "fatalities": 252
+  },
+  {
+    "year": 2020,
+    "country": "Jordan",
+    "iso3c": "JOR",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Kazakhstan",
+    "iso3c": "KAZ",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Kenya",
+    "iso3c": "KEN",
+    "fatalities": 252
+  },
+  {
+    "year": 2020,
+    "country": "Korea, Dem. People's Rep.",
+    "iso3c": "PRK",
+    "fatalities": 11
+  },
+  {
+    "year": 2020,
+    "country": "Korea, Rep.",
+    "iso3c": "KOR",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Kyrgyz Republic",
+    "iso3c": "KGZ",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Lao PDR",
+    "iso3c": "LAO",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Latvia",
+    "iso3c": "LVA",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Lebanon",
+    "iso3c": "LBN",
+    "fatalities": 45
+  },
+  {
+    "year": 2020,
+    "country": "Lesotho",
+    "iso3c": "LSO",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Liberia",
+    "iso3c": "LBR",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Libya",
+    "iso3c": "LBY",
+    "fatalities": 1555
+  },
+  {
+    "year": 2020,
+    "country": "Madagascar",
+    "iso3c": "MDG",
+    "fatalities": 307
+  },
+  {
+    "year": 2020,
+    "country": "Malawi",
+    "iso3c": "MWI",
+    "fatalities": 10
+  },
+  {
+    "year": 2020,
+    "country": "Malaysia",
+    "iso3c": "MYS",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Maldives",
+    "iso3c": "MDV",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Mali",
+    "iso3c": "MLI",
+    "fatalities": 2829
+  },
+  {
+    "year": 2020,
+    "country": "Malta",
+    "iso3c": "MLT",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Mauritania",
+    "iso3c": "MRT",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Mauritius",
+    "iso3c": "MUS",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Mexico",
+    "iso3c": "MEX",
+    "fatalities": 8346
+  },
+  {
+    "year": 2020,
+    "country": "Moldova",
+    "iso3c": "MDA",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Montenegro",
+    "iso3c": "MNE",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Morocco",
+    "iso3c": "MAR",
+    "fatalities": 4
+  },
+  {
+    "year": 2020,
+    "country": "Mozambique",
+    "iso3c": "MOZ",
+    "fatalities": 1762
+  },
+  {
+    "year": 2020,
+    "country": "Myanmar",
+    "iso3c": "MMR",
+    "fatalities": 675
+  },
+  {
+    "year": 2020,
+    "country": "Namibia",
+    "iso3c": "NAM",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Nepal",
+    "iso3c": "NPL",
+    "fatalities": 17
+  },
+  {
+    "year": 2020,
+    "country": "Netherlands",
+    "iso3c": "NLD",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Nicaragua",
+    "iso3c": "NIC",
+    "fatalities": 21
+  },
+  {
+    "year": 2020,
+    "country": "Niger",
+    "iso3c": "NER",
+    "fatalities": 1119
+  },
+  {
+    "year": 2020,
+    "country": "Nigeria",
+    "iso3c": "NGA",
+    "fatalities": 8210
+  },
+  {
+    "year": 2020,
+    "country": "North Macedonia",
+    "iso3c": "MKD",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Norway",
+    "iso3c": "NOR",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Pakistan",
+    "iso3c": "PAK",
+    "fatalities": 785
+  },
+  {
+    "year": 2020,
+    "country": "Panama",
+    "iso3c": "PAN",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Paraguay",
+    "iso3c": "PRY",
+    "fatalities": 18
+  },
+  {
+    "year": 2020,
+    "country": "Peru",
+    "iso3c": "PER",
+    "fatalities": 15
+  },
+  {
+    "year": 2020,
+    "country": "Philippines",
+    "iso3c": "PHL",
+    "fatalities": 1477
+  },
+  {
+    "year": 2020,
+    "country": "Poland",
+    "iso3c": "POL",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Portugal",
+    "iso3c": "PRT",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Puerto Rico",
+    "iso3c": "PRI",
+    "fatalities": 113
+  },
+  {
+    "year": 2020,
+    "country": "Romania",
+    "iso3c": "ROU",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Russian Federation",
+    "iso3c": "RUS",
+    "fatalities": 55
+  },
+  {
+    "year": 2020,
+    "country": "Rwanda",
+    "iso3c": "RWA",
+    "fatalities": 63
+  },
+  {
+    "year": 2020,
+    "country": "Saudi Arabia",
+    "iso3c": "SAU",
+    "fatalities": 71
+  },
+  {
+    "year": 2020,
+    "country": "Senegal",
+    "iso3c": "SEN",
+    "fatalities": 3
+  },
+  {
+    "year": 2020,
+    "country": "Serbia",
+    "iso3c": "SRB",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Sierra Leone",
+    "iso3c": "SLE",
+    "fatalities": 8
+  },
+  {
+    "year": 2020,
+    "country": "Sint Maarten (Dutch part)",
+    "iso3c": "SXM",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Somalia",
+    "iso3c": "SOM",
+    "fatalities": 3232
+  },
+  {
+    "year": 2020,
+    "country": "South Africa",
+    "iso3c": "ZAF",
+    "fatalities": 63
+  },
+  {
+    "year": 2020,
+    "country": "South Sudan",
+    "iso3c": "SSD",
+    "fatalities": 2375
+  },
+  {
+    "year": 2020,
+    "country": "Spain",
+    "iso3c": "ESP",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Sri Lanka",
+    "iso3c": "LKA",
+    "fatalities": 10
+  },
+  {
+    "year": 2020,
+    "country": "Sudan",
+    "iso3c": "SDN",
+    "fatalities": 925
+  },
+  {
+    "year": 2020,
+    "country": "Suriname",
+    "iso3c": "SUR",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Sweden",
+    "iso3c": "SWE",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Switzerland",
+    "iso3c": "CHE",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Syrian Arab Republic",
+    "iso3c": "SYR",
+    "fatalities": 8191
+  },
+  {
+    "year": 2020,
+    "country": "Tajikistan",
+    "iso3c": "TJK",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "Tanzania",
+    "iso3c": "TZA",
+    "fatalities": 40
+  },
+  {
+    "year": 2020,
+    "country": "Thailand",
+    "iso3c": "THA",
+    "fatalities": 101
+  },
+  {
+    "year": 2020,
+    "country": "Timor-Leste",
+    "iso3c": "TLS",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "Togo",
+    "iso3c": "TGO",
+    "fatalities": 9
+  },
+  {
+    "year": 2020,
+    "country": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "fatalities": 160
+  },
+  {
+    "year": 2020,
+    "country": "Tunisia",
+    "iso3c": "TUN",
+    "fatalities": 15
+  },
+  {
+    "year": 2020,
+    "country": "Turkiye",
+    "iso3c": "TUR",
+    "fatalities": 568
+  },
+  {
+    "year": 2020,
+    "country": "Turkmenistan",
+    "iso3c": "TKM",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Uganda",
+    "iso3c": "UGA",
+    "fatalities": 163
+  },
+  {
+    "year": 2020,
+    "country": "Ukraine",
+    "iso3c": "UKR",
+    "fatalities": 113
+  },
+  {
+    "year": 2020,
+    "country": "United Arab Emirates",
+    "iso3c": "ARE",
+    "fatalities": 2
+  },
+  {
+    "year": 2020,
+    "country": "United Kingdom",
+    "iso3c": "GBR",
+    "fatalities": 5
+  },
+  {
+    "year": 2020,
+    "country": "United States",
+    "iso3c": "USA",
+    "fatalities": 53
+  },
+  {
+    "year": 2020,
+    "country": "Uruguay",
+    "iso3c": "URY",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": "Uzbekistan",
+    "iso3c": "UZB",
+    "fatalities": 4
+  },
+  {
+    "year": 2020,
+    "country": "Venezuela, RB",
+    "iso3c": "VEN",
+    "fatalities": 1919
+  },
+  {
+    "year": 2020,
+    "country": "Vietnam",
+    "iso3c": "VNM",
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "country": "West Bank and Gaza",
+    "iso3c": "PSE",
+    "fatalities": 34
+  },
+  {
+    "year": 2020,
+    "country": "Yemen, Rep.",
+    "iso3c": "YEM",
+    "fatalities": 19685
+  },
+  {
+    "year": 2020,
+    "country": "Zambia",
+    "iso3c": "ZMB",
+    "fatalities": 5
+  },
+  {
+    "year": 2020,
+    "country": "Zimbabwe",
+    "iso3c": "ZWE",
+    "fatalities": 9
+  },
+  {
+    "year": 2020,
+    "country": null,
+    "iso3c": "GLP",
+    "fatalities": 1
+  },
+  {
+    "year": 2020,
+    "country": null,
+    "iso3c": null,
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Afghanistan",
+    "iso3c": "AFG",
+    "fatalities": 42340
+  },
+  {
+    "year": 2021,
+    "country": "Albania",
+    "iso3c": "ALB",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Algeria",
+    "iso3c": "DZA",
+    "fatalities": 24
+  },
+  {
+    "year": 2021,
+    "country": "Angola",
+    "iso3c": "AGO",
+    "fatalities": 9
+  },
+  {
+    "year": 2021,
+    "country": "Antigua and Barbuda",
+    "iso3c": "ATG",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Argentina",
+    "iso3c": "ARG",
+    "fatalities": 10
+  },
+  {
+    "year": 2021,
+    "country": "Armenia",
+    "iso3c": "ARM",
+    "fatalities": 24
+  },
+  {
+    "year": 2021,
+    "country": "Australia",
+    "iso3c": "AUS",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Austria",
+    "iso3c": "AUT",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Azerbaijan",
+    "iso3c": "AZE",
+    "fatalities": 33
+  },
+  {
+    "year": 2021,
+    "country": "Bahamas, The",
+    "iso3c": "BHS",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Bahrain",
+    "iso3c": "BHR",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Bangladesh",
+    "iso3c": "BGD",
+    "fatalities": 138
+  },
+  {
+    "year": 2021,
+    "country": "Belarus",
+    "iso3c": "BLR",
+    "fatalities": 5
+  },
+  {
+    "year": 2021,
+    "country": "Belgium",
+    "iso3c": "BEL",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Belize",
+    "iso3c": "BLZ",
+    "fatalities": 40
+  },
+  {
+    "year": 2021,
+    "country": "Benin",
+    "iso3c": "BEN",
+    "fatalities": 60
+  },
+  {
+    "year": 2021,
+    "country": "Bhutan",
+    "iso3c": "BTN",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Bolivia",
+    "iso3c": "BOL",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Botswana",
+    "iso3c": "BWA",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Brazil",
+    "iso3c": "BRA",
+    "fatalities": 5823
+  },
+  {
+    "year": 2021,
+    "country": "Bulgaria",
+    "iso3c": "BGR",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Burkina Faso",
+    "iso3c": "BFA",
+    "fatalities": 2355
+  },
+  {
+    "year": 2021,
+    "country": "Burundi",
+    "iso3c": "BDI",
+    "fatalities": 285
+  },
+  {
+    "year": 2021,
+    "country": "Cabo Verde",
+    "iso3c": "CPV",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Cambodia",
+    "iso3c": "KHM",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Cameroon",
+    "iso3c": "CMR",
+    "fatalities": 1389
+  },
+  {
+    "year": 2021,
+    "country": "Canada",
+    "iso3c": "CAN",
+    "fatalities": 8
+  },
+  {
+    "year": 2021,
+    "country": "Central African Republic",
+    "iso3c": "CAF",
+    "fatalities": 1704
+  },
+  {
+    "year": 2021,
+    "country": "Chad",
+    "iso3c": "TCD",
+    "fatalities": 816
+  },
+  {
+    "year": 2021,
+    "country": "Chile",
+    "iso3c": "CHL",
+    "fatalities": 9
+  },
+  {
+    "year": 2021,
+    "country": "China",
+    "iso3c": "CHN",
+    "fatalities": 12
+  },
+  {
+    "year": 2021,
+    "country": "Colombia",
+    "iso3c": "COL",
+    "fatalities": 2024
+  },
+  {
+    "year": 2021,
+    "country": "Comoros",
+    "iso3c": "COM",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Congo, Dem. Rep.",
+    "iso3c": "COD",
+    "fatalities": 5909
+  },
+  {
+    "year": 2021,
+    "country": "Congo, Rep.",
+    "iso3c": "COG",
+    "fatalities": 10
+  },
+  {
+    "year": 2021,
+    "country": "Costa Rica",
+    "iso3c": "CRI",
+    "fatalities": 3
+  },
+  {
+    "year": 2021,
+    "country": "Cote d'Ivoire",
+    "iso3c": "CIV",
+    "fatalities": 27
+  },
+  {
+    "year": 2021,
+    "country": "Croatia",
+    "iso3c": "HRV",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Cuba",
+    "iso3c": "CUB",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Cyprus",
+    "iso3c": "CYP",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Czechia",
+    "iso3c": "CZE",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Denmark",
+    "iso3c": "DNK",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Djibouti",
+    "iso3c": "DJI",
+    "fatalities": 5
+  },
+  {
+    "year": 2021,
+    "country": "Dominica",
+    "iso3c": "DMA",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Dominican Republic",
+    "iso3c": "DOM",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Ecuador",
+    "iso3c": "ECU",
+    "fatalities": 3
+  },
+  {
+    "year": 2021,
+    "country": "Egypt, Arab Rep.",
+    "iso3c": "EGY",
+    "fatalities": 263
+  },
+  {
+    "year": 2021,
+    "country": "El Salvador",
+    "iso3c": "SLV",
+    "fatalities": 410
+  },
+  {
+    "year": 2021,
+    "country": "Equatorial Guinea",
+    "iso3c": "GNQ",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Eritrea",
+    "iso3c": "ERI",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Estonia",
+    "iso3c": "EST",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Eswatini",
+    "iso3c": "SWZ",
+    "fatalities": 5
+  },
+  {
+    "year": 2021,
+    "country": "Ethiopia",
+    "iso3c": "ETH",
+    "fatalities": 9015
+  },
+  {
+    "year": 2021,
+    "country": "Finland",
+    "iso3c": "FIN",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "France",
+    "iso3c": "FRA",
+    "fatalities": 4
+  },
+  {
+    "year": 2021,
+    "country": "Gabon",
+    "iso3c": "GAB",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Gambia, The",
+    "iso3c": "GMB",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Georgia",
+    "iso3c": "GEO",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Germany",
+    "iso3c": "DEU",
+    "fatalities": 9
+  },
+  {
+    "year": 2021,
+    "country": "Ghana",
+    "iso3c": "GHA",
+    "fatalities": 15
+  },
+  {
+    "year": 2021,
+    "country": "Greece",
+    "iso3c": "GRC",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Guatemala",
+    "iso3c": "GTM",
+    "fatalities": 651
+  },
+  {
+    "year": 2021,
+    "country": "Guinea",
+    "iso3c": "GIN",
+    "fatalities": 7
+  },
+  {
+    "year": 2021,
+    "country": "Guinea-Bissau",
+    "iso3c": "GNB",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Guyana",
+    "iso3c": "GUY",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Haiti",
+    "iso3c": "HTI",
+    "fatalities": 515
+  },
+  {
+    "year": 2021,
+    "country": "Honduras",
+    "iso3c": "HND",
+    "fatalities": 705
+  },
+  {
+    "year": 2021,
+    "country": "Hungary",
+    "iso3c": "HUN",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Iceland",
+    "iso3c": "ISL",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "India",
+    "iso3c": "IND",
+    "fatalities": 816
+  },
+  {
+    "year": 2021,
+    "country": "Indonesia",
+    "iso3c": "IDN",
+    "fatalities": 127
+  },
+  {
+    "year": 2021,
+    "country": "Iran, Islamic Rep.",
+    "iso3c": "IRN",
+    "fatalities": 169
+  },
+  {
+    "year": 2021,
+    "country": "Iraq",
+    "iso3c": "IRQ",
+    "fatalities": 2809
+  },
+  {
+    "year": 2021,
+    "country": "Israel",
+    "iso3c": "ISR",
+    "fatalities": 19
+  },
+  {
+    "year": 2021,
+    "country": "Italy",
+    "iso3c": "ITA",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Jamaica",
+    "iso3c": "JAM",
+    "fatalities": 272
+  },
+  {
+    "year": 2021,
+    "country": "Jordan",
+    "iso3c": "JOR",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Kazakhstan",
+    "iso3c": "KAZ",
+    "fatalities": 3
+  },
+  {
+    "year": 2021,
+    "country": "Kenya",
+    "iso3c": "KEN",
+    "fatalities": 391
+  },
+  {
+    "year": 2021,
+    "country": "Korea, Dem. People's Rep.",
+    "iso3c": "PRK",
+    "fatalities": 14
+  },
+  {
+    "year": 2021,
+    "country": "Kyrgyz Republic",
+    "iso3c": "KGZ",
+    "fatalities": 32
+  },
+  {
+    "year": 2021,
+    "country": "Lao PDR",
+    "iso3c": "LAO",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Lebanon",
+    "iso3c": "LBN",
+    "fatalities": 36
+  },
+  {
+    "year": 2021,
+    "country": "Lesotho",
+    "iso3c": "LSO",
+    "fatalities": 6
+  },
+  {
+    "year": 2021,
+    "country": "Liberia",
+    "iso3c": "LBR",
+    "fatalities": 5
+  },
+  {
+    "year": 2021,
+    "country": "Libya",
+    "iso3c": "LBY",
+    "fatalities": 115
+  },
+  {
+    "year": 2021,
+    "country": "Madagascar",
+    "iso3c": "MDG",
+    "fatalities": 281
+  },
+  {
+    "year": 2021,
+    "country": "Malawi",
+    "iso3c": "MWI",
+    "fatalities": 5
+  },
+  {
+    "year": 2021,
+    "country": "Malaysia",
+    "iso3c": "MYS",
+    "fatalities": 13
+  },
+  {
+    "year": 2021,
+    "country": "Maldives",
+    "iso3c": "MDV",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Mali",
+    "iso3c": "MLI",
+    "fatalities": 1903
+  },
+  {
+    "year": 2021,
+    "country": "Mauritania",
+    "iso3c": "MRT",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Mauritius",
+    "iso3c": "MUS",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Mexico",
+    "iso3c": "MEX",
+    "fatalities": 8232
+  },
+  {
+    "year": 2021,
+    "country": "Moldova",
+    "iso3c": "MDA",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Mongolia",
+    "iso3c": "MNG",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Montenegro",
+    "iso3c": "MNE",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Morocco",
+    "iso3c": "MAR",
+    "fatalities": 46
+  },
+  {
+    "year": 2021,
+    "country": "Mozambique",
+    "iso3c": "MOZ",
+    "fatalities": 1142
+  },
+  {
+    "year": 2021,
+    "country": "Myanmar",
+    "iso3c": "MMR",
+    "fatalities": 10359
+  },
+  {
+    "year": 2021,
+    "country": "Namibia",
+    "iso3c": "NAM",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Nepal",
+    "iso3c": "NPL",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Netherlands",
+    "iso3c": "NLD",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "New Zealand",
+    "iso3c": "NZL",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Nicaragua",
+    "iso3c": "NIC",
+    "fatalities": 30
+  },
+  {
+    "year": 2021,
+    "country": "Niger",
+    "iso3c": "NER",
+    "fatalities": 1492
+  },
+  {
+    "year": 2021,
+    "country": "Nigeria",
+    "iso3c": "NGA",
+    "fatalities": 10647
+  },
+  {
+    "year": 2021,
+    "country": "North Macedonia",
+    "iso3c": "MKD",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Oman",
+    "iso3c": "OMN",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Pakistan",
+    "iso3c": "PAK",
+    "fatalities": 1324
+  },
+  {
+    "year": 2021,
+    "country": "Panama",
+    "iso3c": "PAN",
+    "fatalities": 5
+  },
+  {
+    "year": 2021,
+    "country": "Papua New Guinea",
+    "iso3c": "PNG",
+    "fatalities": 94
+  },
+  {
+    "year": 2021,
+    "country": "Paraguay",
+    "iso3c": "PRY",
+    "fatalities": 32
+  },
+  {
+    "year": 2021,
+    "country": "Peru",
+    "iso3c": "PER",
+    "fatalities": 21
+  },
+  {
+    "year": 2021,
+    "country": "Philippines",
+    "iso3c": "PHL",
+    "fatalities": 1156
+  },
+  {
+    "year": 2021,
+    "country": "Poland",
+    "iso3c": "POL",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Puerto Rico",
+    "iso3c": "PRI",
+    "fatalities": 175
+  },
+  {
+    "year": 2021,
+    "country": "Romania",
+    "iso3c": "ROU",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Russian Federation",
+    "iso3c": "RUS",
+    "fatalities": 24
+  },
+  {
+    "year": 2021,
+    "country": "Rwanda",
+    "iso3c": "RWA",
+    "fatalities": 28
+  },
+  {
+    "year": 2021,
+    "country": "Samoa",
+    "iso3c": "WSM",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Sao Tome and Principe",
+    "iso3c": "STP",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Saudi Arabia",
+    "iso3c": "SAU",
+    "fatalities": 21
+  },
+  {
+    "year": 2021,
+    "country": "Senegal",
+    "iso3c": "SEN",
+    "fatalities": 13
+  },
+  {
+    "year": 2021,
+    "country": "Serbia",
+    "iso3c": "SRB",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Sierra Leone",
+    "iso3c": "SLE",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Slovak Republic",
+    "iso3c": "SVK",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Slovenia",
+    "iso3c": "SVN",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Solomon Islands",
+    "iso3c": "SLB",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Somalia",
+    "iso3c": "SOM",
+    "fatalities": 3181
+  },
+  {
+    "year": 2021,
+    "country": "South Africa",
+    "iso3c": "ZAF",
+    "fatalities": 133
+  },
+  {
+    "year": 2021,
+    "country": "South Sudan",
+    "iso3c": "SSD",
+    "fatalities": 2151
+  },
+  {
+    "year": 2021,
+    "country": "Spain",
+    "iso3c": "ESP",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Sri Lanka",
+    "iso3c": "LKA",
+    "fatalities": 4
+  },
+  {
+    "year": 2021,
+    "country": "Sudan",
+    "iso3c": "SDN",
+    "fatalities": 1567
+  },
+  {
+    "year": 2021,
+    "country": "Suriname",
+    "iso3c": "SUR",
+    "fatalities": 1
+  },
+  {
+    "year": 2021,
+    "country": "Syrian Arab Republic",
+    "iso3c": "SYR",
+    "fatalities": 5859
+  },
+  {
+    "year": 2021,
+    "country": "Taiwan, China",
+    "iso3c": "TWN",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Tajikistan",
+    "iso3c": "TJK",
+    "fatalities": 19
+  },
+  {
+    "year": 2021,
+    "country": "Tanzania",
+    "iso3c": "TZA",
+    "fatalities": 35
+  },
+  {
+    "year": 2021,
+    "country": "Thailand",
+    "iso3c": "THA",
+    "fatalities": 64
+  },
+  {
+    "year": 2021,
+    "country": "Timor-Leste",
+    "iso3c": "TLS",
+    "fatalities": 2
+  },
+  {
+    "year": 2021,
+    "country": "Togo",
+    "iso3c": "TGO",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "fatalities": 185
+  },
+  {
+    "year": 2021,
+    "country": "Tunisia",
+    "iso3c": "TUN",
+    "fatalities": 19
+  },
+  {
+    "year": 2021,
+    "country": "Turkiye",
+    "iso3c": "TUR",
+    "fatalities": 302
+  },
+  {
+    "year": 2021,
+    "country": "Uganda",
+    "iso3c": "UGA",
+    "fatalities": 330
+  },
+  {
+    "year": 2021,
+    "country": "Ukraine",
+    "iso3c": "UKR",
+    "fatalities": 149
+  },
+  {
+    "year": 2021,
+    "country": "United Arab Emirates",
+    "iso3c": "ARE",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "United Kingdom",
+    "iso3c": "GBR",
+    "fatalities": 3
+  },
+  {
+    "year": 2021,
+    "country": "United States",
+    "iso3c": "USA",
+    "fatalities": 80
+  },
+  {
+    "year": 2021,
+    "country": "Uzbekistan",
+    "iso3c": "UZB",
+    "fatalities": 4
+  },
+  {
+    "year": 2021,
+    "country": "Venezuela, RB",
+    "iso3c": "VEN",
+    "fatalities": 1379
+  },
+  {
+    "year": 2021,
+    "country": "Vietnam",
+    "iso3c": "VNM",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": "West Bank and Gaza",
+    "iso3c": "PSE",
+    "fatalities": 336
+  },
+  {
+    "year": 2021,
+    "country": "Yemen, Rep.",
+    "iso3c": "YEM",
+    "fatalities": 18333
+  },
+  {
+    "year": 2021,
+    "country": "Zambia",
+    "iso3c": "ZMB",
+    "fatalities": 8
+  },
+  {
+    "year": 2021,
+    "country": "Zimbabwe",
+    "iso3c": "ZWE",
+    "fatalities": 10
+  },
+  {
+    "year": 2021,
+    "country": null,
+    "iso3c": "GLP",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": null,
+    "iso3c": "MYT",
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "country": null,
+    "iso3c": null,
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Afghanistan",
+    "iso3c": "AFG",
+    "fatalities": 3983
+  },
+  {
+    "year": 2022,
+    "country": "Albania",
+    "iso3c": "ALB",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Algeria",
+    "iso3c": "DZA",
+    "fatalities": 27
+  },
+  {
+    "year": 2022,
+    "country": "Angola",
+    "iso3c": "AGO",
+    "fatalities": 68
+  },
+  {
+    "year": 2022,
+    "country": "Argentina",
+    "iso3c": "ARG",
+    "fatalities": 10
+  },
+  {
+    "year": 2022,
+    "country": "Armenia",
+    "iso3c": "ARM",
+    "fatalities": 210
+  },
+  {
+    "year": 2022,
+    "country": "Australia",
+    "iso3c": "AUS",
+    "fatalities": 6
+  },
+  {
+    "year": 2022,
+    "country": "Austria",
+    "iso3c": "AUT",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Azerbaijan",
+    "iso3c": "AZE",
+    "fatalities": 68
+  },
+  {
+    "year": 2022,
+    "country": "Bahamas, The",
+    "iso3c": "BHS",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Bahrain",
+    "iso3c": "BHR",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Bangladesh",
+    "iso3c": "BGD",
+    "fatalities": 156
+  },
+  {
+    "year": 2022,
+    "country": "Belarus",
+    "iso3c": "BLR",
+    "fatalities": 4
+  },
+  {
+    "year": 2022,
+    "country": "Belgium",
+    "iso3c": "BEL",
+    "fatalities": 2
+  },
+  {
+    "year": 2022,
+    "country": "Belize",
+    "iso3c": "BLZ",
+    "fatalities": 15
+  },
+  {
+    "year": 2022,
+    "country": "Benin",
+    "iso3c": "BEN",
+    "fatalities": 149
+  },
+  {
+    "year": 2022,
+    "country": "Bolivia",
+    "iso3c": "BOL",
+    "fatalities": 3
+  },
+  {
+    "year": 2022,
+    "country": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Brazil",
+    "iso3c": "BRA",
+    "fatalities": 6968
+  },
+  {
+    "year": 2022,
+    "country": "Burkina Faso",
+    "iso3c": "BFA",
+    "fatalities": 4238
+  },
+  {
+    "year": 2022,
+    "country": "Burundi",
+    "iso3c": "BDI",
+    "fatalities": 245
+  },
+  {
+    "year": 2022,
+    "country": "Cabo Verde",
+    "iso3c": "CPV",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Cambodia",
+    "iso3c": "KHM",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Cameroon",
+    "iso3c": "CMR",
+    "fatalities": 959
+  },
+  {
+    "year": 2022,
+    "country": "Canada",
+    "iso3c": "CAN",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Central African Republic",
+    "iso3c": "CAF",
+    "fatalities": 837
+  },
+  {
+    "year": 2022,
+    "country": "Chad",
+    "iso3c": "TCD",
+    "fatalities": 617
+  },
+  {
+    "year": 2022,
+    "country": "Chile",
+    "iso3c": "CHL",
+    "fatalities": 12
+  },
+  {
+    "year": 2022,
+    "country": "China",
+    "iso3c": "CHN",
+    "fatalities": 4
+  },
+  {
+    "year": 2022,
+    "country": "Colombia",
+    "iso3c": "COL",
+    "fatalities": 2239
+  },
+  {
+    "year": 2022,
+    "country": "Comoros",
+    "iso3c": "COM",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Congo, Dem. Rep.",
+    "iso3c": "COD",
+    "fatalities": 6145
+  },
+  {
+    "year": 2022,
+    "country": "Congo, Rep.",
+    "iso3c": "COG",
+    "fatalities": 11
+  },
+  {
+    "year": 2022,
+    "country": "Costa Rica",
+    "iso3c": "CRI",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Cote d'Ivoire",
+    "iso3c": "CIV",
+    "fatalities": 37
+  },
+  {
+    "year": 2022,
+    "country": "Cuba",
+    "iso3c": "CUB",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Cyprus",
+    "iso3c": "CYP",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Czechia",
+    "iso3c": "CZE",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Djibouti",
+    "iso3c": "DJI",
+    "fatalities": 7
+  },
+  {
+    "year": 2022,
+    "country": "Dominican Republic",
+    "iso3c": "DOM",
+    "fatalities": 12
+  },
+  {
+    "year": 2022,
+    "country": "Ecuador",
+    "iso3c": "ECU",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Egypt, Arab Rep.",
+    "iso3c": "EGY",
+    "fatalities": 272
+  },
+  {
+    "year": 2022,
+    "country": "El Salvador",
+    "iso3c": "SLV",
+    "fatalities": 267
+  },
+  {
+    "year": 2022,
+    "country": "Eritrea",
+    "iso3c": "ERI",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Eswatini",
+    "iso3c": "SWZ",
+    "fatalities": 11
+  },
+  {
+    "year": 2022,
+    "country": "Ethiopia",
+    "iso3c": "ETH",
+    "fatalities": 6741
+  },
+  {
+    "year": 2022,
+    "country": "Fiji",
+    "iso3c": "FJI",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Finland",
+    "iso3c": "FIN",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "France",
+    "iso3c": "FRA",
+    "fatalities": 14
+  },
+  {
+    "year": 2022,
+    "country": "Gabon",
+    "iso3c": "GAB",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Gambia, The",
+    "iso3c": "GMB",
+    "fatalities": 4
+  },
+  {
+    "year": 2022,
+    "country": "Georgia",
+    "iso3c": "GEO",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Germany",
+    "iso3c": "DEU",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Ghana",
+    "iso3c": "GHA",
+    "fatalities": 107
+  },
+  {
+    "year": 2022,
+    "country": "Greece",
+    "iso3c": "GRC",
+    "fatalities": 3
+  },
+  {
+    "year": 2022,
+    "country": "Guatemala",
+    "iso3c": "GTM",
+    "fatalities": 728
+  },
+  {
+    "year": 2022,
+    "country": "Guinea",
+    "iso3c": "GIN",
+    "fatalities": 12
+  },
+  {
+    "year": 2022,
+    "country": "Guinea-Bissau",
+    "iso3c": "GNB",
+    "fatalities": 12
+  },
+  {
+    "year": 2022,
+    "country": "Guyana",
+    "iso3c": "GUY",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Haiti",
+    "iso3c": "HTI",
+    "fatalities": 1208
+  },
+  {
+    "year": 2022,
+    "country": "Honduras",
+    "iso3c": "HND",
+    "fatalities": 687
+  },
+  {
+    "year": 2022,
+    "country": "Hungary",
+    "iso3c": "HUN",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "India",
+    "iso3c": "IND",
+    "fatalities": 688
+  },
+  {
+    "year": 2022,
+    "country": "Indonesia",
+    "iso3c": "IDN",
+    "fatalities": 99
+  },
+  {
+    "year": 2022,
+    "country": "Iran, Islamic Rep.",
+    "iso3c": "IRN",
+    "fatalities": 233
+  },
+  {
+    "year": 2022,
+    "country": "Iraq",
+    "iso3c": "IRQ",
+    "fatalities": 4477
+  },
+  {
+    "year": 2022,
+    "country": "Israel",
+    "iso3c": "ISR",
+    "fatalities": 34
+  },
+  {
+    "year": 2022,
+    "country": "Italy",
+    "iso3c": "ITA",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Jamaica",
+    "iso3c": "JAM",
+    "fatalities": 368
+  },
+  {
+    "year": 2022,
+    "country": "Japan",
+    "iso3c": "JPN",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Jordan",
+    "iso3c": "JOR",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Kazakhstan",
+    "iso3c": "KAZ",
+    "fatalities": 15
+  },
+  {
+    "year": 2022,
+    "country": "Kenya",
+    "iso3c": "KEN",
+    "fatalities": 482
+  },
+  {
+    "year": 2022,
+    "country": "Korea, Dem. People's Rep.",
+    "iso3c": "PRK",
+    "fatalities": 34
+  },
+  {
+    "year": 2022,
+    "country": "Kyrgyz Republic",
+    "iso3c": "KGZ",
+    "fatalities": 70
+  },
+  {
+    "year": 2022,
+    "country": "Lebanon",
+    "iso3c": "LBN",
+    "fatalities": 37
+  },
+  {
+    "year": 2022,
+    "country": "Lesotho",
+    "iso3c": "LSO",
+    "fatalities": 7
+  },
+  {
+    "year": 2022,
+    "country": "Liberia",
+    "iso3c": "LBR",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Libya",
+    "iso3c": "LBY",
+    "fatalities": 155
+  },
+  {
+    "year": 2022,
+    "country": "Madagascar",
+    "iso3c": "MDG",
+    "fatalities": 283
+  },
+  {
+    "year": 2022,
+    "country": "Malawi",
+    "iso3c": "MWI",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Malaysia",
+    "iso3c": "MYS",
+    "fatalities": 4
+  },
+  {
+    "year": 2022,
+    "country": "Mali",
+    "iso3c": "MLI",
+    "fatalities": 4842
+  },
+  {
+    "year": 2022,
+    "country": "Mauritania",
+    "iso3c": "MRT",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Mauritius",
+    "iso3c": "MUS",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Mexico",
+    "iso3c": "MEX",
+    "fatalities": 7720
+  },
+  {
+    "year": 2022,
+    "country": "Moldova",
+    "iso3c": "MDA",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Montenegro",
+    "iso3c": "MNE",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Morocco",
+    "iso3c": "MAR",
+    "fatalities": 30
+  },
+  {
+    "year": 2022,
+    "country": "Mozambique",
+    "iso3c": "MOZ",
+    "fatalities": 902
+  },
+  {
+    "year": 2022,
+    "country": "Myanmar",
+    "iso3c": "MMR",
+    "fatalities": 19327
+  },
+  {
+    "year": 2022,
+    "country": "Namibia",
+    "iso3c": "NAM",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Nepal",
+    "iso3c": "NPL",
+    "fatalities": 6
+  },
+  {
+    "year": 2022,
+    "country": "Netherlands",
+    "iso3c": "NLD",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Nicaragua",
+    "iso3c": "NIC",
+    "fatalities": 7
+  },
+  {
+    "year": 2022,
+    "country": "Niger",
+    "iso3c": "NER",
+    "fatalities": 978
+  },
+  {
+    "year": 2022,
+    "country": "Nigeria",
+    "iso3c": "NGA",
+    "fatalities": 10547
+  },
+  {
+    "year": 2022,
+    "country": "North Macedonia",
+    "iso3c": "MKD",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Norway",
+    "iso3c": "NOR",
+    "fatalities": 2
+  },
+  {
+    "year": 2022,
+    "country": "Oman",
+    "iso3c": "OMN",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Pakistan",
+    "iso3c": "PAK",
+    "fatalities": 1629
+  },
+  {
+    "year": 2022,
+    "country": "Panama",
+    "iso3c": "PAN",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Papua New Guinea",
+    "iso3c": "PNG",
+    "fatalities": 177
+  },
+  {
+    "year": 2022,
+    "country": "Paraguay",
+    "iso3c": "PRY",
+    "fatalities": 28
+  },
+  {
+    "year": 2022,
+    "country": "Peru",
+    "iso3c": "PER",
+    "fatalities": 15
+  },
+  {
+    "year": 2022,
+    "country": "Philippines",
+    "iso3c": "PHL",
+    "fatalities": 877
+  },
+  {
+    "year": 2022,
+    "country": "Poland",
+    "iso3c": "POL",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Puerto Rico",
+    "iso3c": "PRI",
+    "fatalities": 202
+  },
+  {
+    "year": 2022,
+    "country": "Romania",
+    "iso3c": "ROU",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Russian Federation",
+    "iso3c": "RUS",
+    "fatalities": 89
+  },
+  {
+    "year": 2022,
+    "country": "Rwanda",
+    "iso3c": "RWA",
+    "fatalities": 15
+  },
+  {
+    "year": 2022,
+    "country": "Sao Tome and Principe",
+    "iso3c": "STP",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Saudi Arabia",
+    "iso3c": "SAU",
+    "fatalities": 8
+  },
+  {
+    "year": 2022,
+    "country": "Senegal",
+    "iso3c": "SEN",
+    "fatalities": 13
+  },
+  {
+    "year": 2022,
+    "country": "Serbia",
+    "iso3c": "SRB",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Sierra Leone",
+    "iso3c": "SLE",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": "Sint Maarten (Dutch part)",
+    "iso3c": "SXM",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Slovenia",
+    "iso3c": "SVN",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Solomon Islands",
+    "iso3c": "SLB",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Somalia",
+    "iso3c": "SOM",
+    "fatalities": 6483
+  },
+  {
+    "year": 2022,
+    "country": "South Africa",
+    "iso3c": "ZAF",
+    "fatalities": 105
+  },
+  {
+    "year": 2022,
+    "country": "South Sudan",
+    "iso3c": "SSD",
+    "fatalities": 2235
+  },
+  {
+    "year": 2022,
+    "country": "Spain",
+    "iso3c": "ESP",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Sri Lanka",
+    "iso3c": "LKA",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Sudan",
+    "iso3c": "SDN",
+    "fatalities": 1982
+  },
+  {
+    "year": 2022,
+    "country": "Suriname",
+    "iso3c": "SUR",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Sweden",
+    "iso3c": "SWE",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Switzerland",
+    "iso3c": "CHE",
+    "fatalities": 2
+  },
+  {
+    "year": 2022,
+    "country": "Syrian Arab Republic",
+    "iso3c": "SYR",
+    "fatalities": 5666
+  },
+  {
+    "year": 2022,
+    "country": "Taiwan, China",
+    "iso3c": "TWN",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Tajikistan",
+    "iso3c": "TJK",
+    "fatalities": 48
+  },
+  {
+    "year": 2022,
+    "country": "Tanzania",
+    "iso3c": "TZA",
+    "fatalities": 32
+  },
+  {
+    "year": 2022,
+    "country": "Thailand",
+    "iso3c": "THA",
+    "fatalities": 43
+  },
+  {
+    "year": 2022,
+    "country": "Timor-Leste",
+    "iso3c": "TLS",
+    "fatalities": 2
+  },
+  {
+    "year": 2022,
+    "country": "Togo",
+    "iso3c": "TGO",
+    "fatalities": 76
+  },
+  {
+    "year": 2022,
+    "country": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "fatalities": 275
+  },
+  {
+    "year": 2022,
+    "country": "Tunisia",
+    "iso3c": "TUN",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "Turkiye",
+    "iso3c": "TUR",
+    "fatalities": 253
+  },
+  {
+    "year": 2022,
+    "country": "Uganda",
+    "iso3c": "UGA",
+    "fatalities": 239
+  },
+  {
+    "year": 2022,
+    "country": "Ukraine",
+    "iso3c": "UKR",
+    "fatalities": 32537
+  },
+  {
+    "year": 2022,
+    "country": "United Arab Emirates",
+    "iso3c": "ARE",
+    "fatalities": 3
+  },
+  {
+    "year": 2022,
+    "country": "United Kingdom",
+    "iso3c": "GBR",
+    "fatalities": 1
+  },
+  {
+    "year": 2022,
+    "country": "United States",
+    "iso3c": "USA",
+    "fatalities": 94
+  },
+  {
+    "year": 2022,
+    "country": "Uruguay",
+    "iso3c": "URY",
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "country": "Uzbekistan",
+    "iso3c": "UZB",
+    "fatalities": 2
+  },
+  {
+    "year": 2022,
+    "country": "Venezuela, RB",
+    "iso3c": "VEN",
+    "fatalities": 815
+  },
+  {
+    "year": 2022,
+    "country": "West Bank and Gaza",
+    "iso3c": "PSE",
+    "fatalities": 177
+  },
+  {
+    "year": 2022,
+    "country": "Yemen, Rep.",
+    "iso3c": "YEM",
+    "fatalities": 6713
+  },
+  {
+    "year": 2022,
+    "country": "Zambia",
+    "iso3c": "ZMB",
+    "fatalities": 3
+  },
+  {
+    "year": 2022,
+    "country": "Zimbabwe",
+    "iso3c": "ZWE",
+    "fatalities": 5
+  },
+  {
+    "year": 2022,
+    "country": null,
+    "iso3c": "MYT",
+    "fatalities": 2
+  },
+  {
+    "year": 2022,
+    "country": null,
+    "iso3c": "REU",
+    "fatalities": 0
+  }
+]

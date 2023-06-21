@@ -1,0 +1,178 @@
+[
+  {
+    "year": 2000,
+    "road": 4.25,
+    "rail": 0.09,
+    "shipping": 0.63,
+    "aviation": 0.67,
+    "pipelines": 0.13
+  },
+  {
+    "year": 2001,
+    "road": 4.32,
+    "rail": 0.08,
+    "shipping": 0.6,
+    "aviation": 0.66,
+    "pipelines": 0.13
+  },
+  {
+    "year": 2002,
+    "road": 4.44,
+    "rail": 0.08,
+    "shipping": 0.62,
+    "aviation": 0.66,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2003,
+    "road": 4.55,
+    "rail": 0.09,
+    "shipping": 0.63,
+    "aviation": 0.66,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2004,
+    "road": 4.72,
+    "rail": 0.09,
+    "shipping": 0.68,
+    "aviation": 0.7,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2005,
+    "road": 4.8,
+    "rail": 0.1,
+    "shipping": 0.7,
+    "aviation": 0.73,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2006,
+    "road": 4.89,
+    "rail": 0.11,
+    "shipping": 0.75,
+    "aviation": 0.74,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2007,
+    "road": 5.03,
+    "rail": 0.1,
+    "shipping": 0.79,
+    "aviation": 0.76,
+    "pipelines": 0.16
+  },
+  {
+    "year": 2008,
+    "road": 5.06,
+    "rail": 0.1,
+    "shipping": 0.78,
+    "aviation": 0.75,
+    "pipelines": 0.16
+  },
+  {
+    "year": 2009,
+    "road": 5.03,
+    "rail": 0.08,
+    "shipping": 0.75,
+    "aviation": 0.71,
+    "pipelines": 0.13
+  },
+  {
+    "year": 2010,
+    "road": 5.21,
+    "rail": 0.09,
+    "shipping": 0.8,
+    "aviation": 0.75,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2011,
+    "road": 5.28,
+    "rail": 0.1,
+    "shipping": 0.81,
+    "aviation": 0.78,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2012,
+    "road": 5.38,
+    "rail": 0.09,
+    "shipping": 0.77,
+    "aviation": 0.78,
+    "pipelines": 0.13
+  },
+  {
+    "year": 2013,
+    "road": 5.54,
+    "rail": 0.09,
+    "shipping": 0.78,
+    "aviation": 0.8,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2014,
+    "road": 5.62,
+    "rail": 0.09,
+    "shipping": 0.8,
+    "aviation": 0.83,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2015,
+    "road": 5.78,
+    "rail": 0.09,
+    "shipping": 0.82,
+    "aviation": 0.87,
+    "pipelines": 0.13
+  },
+  {
+    "year": 2016,
+    "road": 5.87,
+    "rail": 0.09,
+    "shipping": 0.84,
+    "aviation": 0.92,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2017,
+    "road": 5.96,
+    "rail": 0.09,
+    "shipping": 0.88,
+    "aviation": 0.98,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2018,
+    "road": 6.09,
+    "rail": 0.1,
+    "shipping": 0.88,
+    "aviation": 1.02,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2019,
+    "road": 6.08,
+    "rail": 0.1,
+    "shipping": 0.87,
+    "aviation": 1.04,
+    "pipelines": 0.15
+  },
+  {
+    "year": 2020,
+    "road": 5.48,
+    "rail": 0.09,
+    "shipping": 0.8,
+    "aviation": 0.59,
+    "pipelines": 0.14
+  },
+  {
+    "year": 2021,
+    "road": 5.86,
+    "rail": 0.09,
+    "shipping": 0.84,
+    "aviation": 0.71,
+    "pipelines": 0.15
+  }
+]

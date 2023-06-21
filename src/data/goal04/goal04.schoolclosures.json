@@ -1,0 +1,822 @@
+[
+  {
+    "iso3c": "ABW",
+    "unicef_total_closed": 50
+  },
+  {
+    "iso3c": "AFG",
+    "unicef_total_closed": 240
+  },
+  {
+    "iso3c": "AGO",
+    "unicef_total_closed": 185
+  },
+  {
+    "iso3c": "ALB",
+    "unicef_total_closed": 99
+  },
+  {
+    "iso3c": "AND",
+    "unicef_total_closed": 78
+  },
+  {
+    "iso3c": "ARE",
+    "unicef_total_closed": 208
+  },
+  {
+    "iso3c": "ARG",
+    "unicef_total_closed": 260
+  },
+  {
+    "iso3c": "ARM",
+    "unicef_total_closed": 53
+  },
+  {
+    "iso3c": "ATG",
+    "unicef_total_closed": 263
+  },
+  {
+    "iso3c": "AUS",
+    "unicef_total_closed": 116
+  },
+  {
+    "iso3c": "AUT",
+    "unicef_total_closed": 138
+  },
+  {
+    "iso3c": "AZE",
+    "unicef_total_closed": 196
+  },
+  {
+    "iso3c": "BDI",
+    "unicef_total_closed": 0
+  },
+  {
+    "iso3c": "BEL",
+    "unicef_total_closed": 92
+  },
+  {
+    "iso3c": "BEN",
+    "unicef_total_closed": 48
+  },
+  {
+    "iso3c": "BFA",
+    "unicef_total_closed": 64
+  },
+  {
+    "iso3c": "BGD",
+    "unicef_total_closed": 376
+  },
+  {
+    "iso3c": "BGR",
+    "unicef_total_closed": 164
+  },
+  {
+    "iso3c": "BHR",
+    "unicef_total_closed": 276
+  },
+  {
+    "iso3c": "BHS",
+    "unicef_total_closed": 276
+  },
+  {
+    "iso3c": "BIH",
+    "unicef_total_closed": 170
+  },
+  {
+    "iso3c": "BLR",
+    "unicef_total_closed": 0
+  },
+  {
+    "iso3c": "BLZ",
+    "unicef_total_closed": 292
+  },
+  {
+    "iso3c": "BMU",
+    "unicef_total_closed": 124
+  },
+  {
+    "iso3c": "BOL",
+    "unicef_total_closed": 332
+  },
+  {
+    "iso3c": "BRA",
+    "unicef_total_closed": 293
+  },
+  {
+    "iso3c": "BRB",
+    "unicef_total_closed": 250
+  },
+  {
+    "iso3c": "BRN",
+    "unicef_total_closed": 152
+  },
+  {
+    "iso3c": "BTN",
+    "unicef_total_closed": 216
+  },
+  {
+    "iso3c": "BWA",
+    "unicef_total_closed": 104
+  },
+  {
+    "iso3c": "CAF",
+    "unicef_total_closed": 93
+  },
+  {
+    "iso3c": "CAN",
+    "unicef_total_closed": 162
+  },
+  {
+    "iso3c": "CHE",
+    "unicef_total_closed": 30
+  },
+  {
+    "iso3c": "CHL",
+    "unicef_total_closed": 207
+  },
+  {
+    "iso3c": "CHN",
+    "unicef_total_closed": 98
+  },
+  {
+    "iso3c": "CIV",
+    "unicef_total_closed": 50
+  },
+  {
+    "iso3c": "CMR",
+    "unicef_total_closed": 66
+  },
+  {
+    "iso3c": "COD",
+    "unicef_total_closed": 142
+  },
+  {
+    "iso3c": "COG",
+    "unicef_total_closed": 123
+  },
+  {
+    "iso3c": "COL",
+    "unicef_total_closed": 250
+  },
+  {
+    "iso3c": "COM",
+    "unicef_total_closed": 160
+  },
+  {
+    "iso3c": "CPV",
+    "unicef_total_closed": 101
+  },
+  {
+    "iso3c": "CRI",
+    "unicef_total_closed": 314
+  },
+  {
+    "iso3c": "CUB",
+    "unicef_total_closed": 238
+  },
+  {
+    "iso3c": "CUW",
+    "unicef_total_closed": 53
+  },
+  {
+    "iso3c": "CYM",
+    "unicef_total_closed": 76
+  },
+  {
+    "iso3c": "CYP",
+    "unicef_total_closed": 100
+  },
+  {
+    "iso3c": "CZE",
+    "unicef_total_closed": 163
+  },
+  {
+    "iso3c": "DEU",
+    "unicef_total_closed": 130
+  },
+  {
+    "iso3c": "DJI",
+    "unicef_total_closed": 44
+  },
+  {
+    "iso3c": "DMA",
+    "unicef_total_closed": 194
+  },
+  {
+    "iso3c": "DNK",
+    "unicef_total_closed": 110
+  },
+  {
+    "iso3c": "DOM",
+    "unicef_total_closed": 222
+  },
+  {
+    "iso3c": "DZA",
+    "unicef_total_closed": 115
+  },
+  {
+    "iso3c": "ECU",
+    "unicef_total_closed": 328
+  },
+  {
+    "iso3c": "EGY",
+    "unicef_total_closed": 91
+  },
+  {
+    "iso3c": "ERI",
+    "unicef_total_closed": 159
+  },
+  {
+    "iso3c": "ESP",
+    "unicef_total_closed": 62
+  },
+  {
+    "iso3c": "EST",
+    "unicef_total_closed": 102
+  },
+  {
+    "iso3c": "ETH",
+    "unicef_total_closed": 209
+  },
+  {
+    "iso3c": "FIN",
+    "unicef_total_closed": 104
+  },
+  {
+    "iso3c": "FJI",
+    "unicef_total_closed": 214
+  },
+  {
+    "iso3c": "FRA",
+    "unicef_total_closed": 47
+  },
+  {
+    "iso3c": "FRO",
+    "unicef_total_closed": 42
+  },
+  {
+    "iso3c": "FSM",
+    "unicef_total_closed": 88
+  },
+  {
+    "iso3c": "GAB",
+    "unicef_total_closed": 94
+  },
+  {
+    "iso3c": "GBR",
+    "unicef_total_closed": 104
+  },
+  {
+    "iso3c": "GEO",
+    "unicef_total_closed": 134
+  },
+  {
+    "iso3c": "GHA",
+    "unicef_total_closed": 121
+  },
+  {
+    "iso3c": "GIB",
+    "unicef_total_closed": 100
+  },
+  {
+    "iso3c": "GIN",
+    "unicef_total_closed": 109
+  },
+  {
+    "iso3c": "GMB",
+    "unicef_total_closed": 120
+  },
+  {
+    "iso3c": "GNB",
+    "unicef_total_closed": 100
+  },
+  {
+    "iso3c": "GNQ",
+    "unicef_total_closed": 152
+  },
+  {
+    "iso3c": "GRC",
+    "unicef_total_closed": 138
+  },
+  {
+    "iso3c": "GRD",
+    "unicef_total_closed": 243
+  },
+  {
+    "iso3c": "GRL",
+    "unicef_total_closed": 14
+  },
+  {
+    "iso3c": "GTM",
+    "unicef_total_closed": 298
+  },
+  {
+    "iso3c": "GUY",
+    "unicef_total_closed": 274
+  },
+  {
+    "iso3c": "HND",
+    "unicef_total_closed": 392
+  },
+  {
+    "iso3c": "HRV",
+    "unicef_total_closed": 45
+  },
+  {
+    "iso3c": "HTI",
+    "unicef_total_closed": 124
+  },
+  {
+    "iso3c": "HUN",
+    "unicef_total_closed": 148
+  },
+  {
+    "iso3c": "IDN",
+    "unicef_total_closed": 282
+  },
+  {
+    "iso3c": "IND",
+    "unicef_total_closed": 296
+  },
+  {
+    "iso3c": "IRL",
+    "unicef_total_closed": 118
+  },
+  {
+    "iso3c": "IRN",
+    "unicef_total_closed": 250
+  },
+  {
+    "iso3c": "IRQ",
+    "unicef_total_closed": 326
+  },
+  {
+    "iso3c": "ISL",
+    "unicef_total_closed": 16
+  },
+  {
+    "iso3c": "ISR",
+    "unicef_total_closed": 121
+  },
+  {
+    "iso3c": "ITA",
+    "unicef_total_closed": 128
+  },
+  {
+    "iso3c": "JAM",
+    "unicef_total_closed": 246
+  },
+  {
+    "iso3c": "JOR",
+    "unicef_total_closed": 246
+  },
+  {
+    "iso3c": "JPN",
+    "unicef_total_closed": 38
+  },
+  {
+    "iso3c": "KAZ",
+    "unicef_total_closed": 154
+  },
+  {
+    "iso3c": "KEN",
+    "unicef_total_closed": 164
+  },
+  {
+    "iso3c": "KGZ",
+    "unicef_total_closed": 104
+  },
+  {
+    "iso3c": "KHM",
+    "unicef_total_closed": 296
+  },
+  {
+    "iso3c": "KIR",
+    "unicef_total_closed": 15
+  },
+  {
+    "iso3c": "KNA",
+    "unicef_total_closed": 128
+  },
+  {
+    "iso3c": "KOR",
+    "unicef_total_closed": 228
+  },
+  {
+    "iso3c": "KWT",
+    "unicef_total_closed": 350
+  },
+  {
+    "iso3c": "LAO",
+    "unicef_total_closed": 195
+  },
+  {
+    "iso3c": "LBN",
+    "unicef_total_closed": 211
+  },
+  {
+    "iso3c": "LBR",
+    "unicef_total_closed": 130
+  },
+  {
+    "iso3c": "LBY",
+    "unicef_total_closed": 208
+  },
+  {
+    "iso3c": "LCA",
+    "unicef_total_closed": 260
+  },
+  {
+    "iso3c": "LIE",
+    "unicef_total_closed": 46
+  },
+  {
+    "iso3c": "LKA",
+    "unicef_total_closed": 309
+  },
+  {
+    "iso3c": "LSO",
+    "unicef_total_closed": 134
+  },
+  {
+    "iso3c": "LTU",
+    "unicef_total_closed": 120
+  },
+  {
+    "iso3c": "LUX",
+    "unicef_total_closed": 60
+  },
+  {
+    "iso3c": "LVA",
+    "unicef_total_closed": 160
+  },
+  {
+    "iso3c": "MAR",
+    "unicef_total_closed": 138
+  },
+  {
+    "iso3c": "MCO",
+    "unicef_total_closed": 46
+  },
+  {
+    "iso3c": "MDA",
+    "unicef_total_closed": 80
+  },
+  {
+    "iso3c": "MDG",
+    "unicef_total_closed": 94
+  },
+  {
+    "iso3c": "MDV",
+    "unicef_total_closed": 103
+  },
+  {
+    "iso3c": "MEX",
+    "unicef_total_closed": 338
+  },
+  {
+    "iso3c": "MHL",
+    "unicef_total_closed": 8
+  },
+  {
+    "iso3c": "MKD",
+    "unicef_total_closed": 186
+  },
+  {
+    "iso3c": "MLI",
+    "unicef_total_closed": 72
+  },
+  {
+    "iso3c": "MLT",
+    "unicef_total_closed": 97
+  },
+  {
+    "iso3c": "MMR",
+    "unicef_total_closed": 345
+  },
+  {
+    "iso3c": "MNE",
+    "unicef_total_closed": 188
+  },
+  {
+    "iso3c": "MNG",
+    "unicef_total_closed": 209
+  },
+  {
+    "iso3c": "MOZ",
+    "unicef_total_closed": 210
+  },
+  {
+    "iso3c": "MRT",
+    "unicef_total_closed": 118
+  },
+  {
+    "iso3c": "MUS",
+    "unicef_total_closed": 123
+  },
+  {
+    "iso3c": "MWI",
+    "unicef_total_closed": 112
+  },
+  {
+    "iso3c": "MYS",
+    "unicef_total_closed": 280
+  },
+  {
+    "iso3c": "NAM",
+    "unicef_total_closed": 96
+  },
+  {
+    "iso3c": "NER",
+    "unicef_total_closed": 83
+  },
+  {
+    "iso3c": "NGA",
+    "unicef_total_closed": 106
+  },
+  {
+    "iso3c": "NIC",
+    "unicef_total_closed": 38
+  },
+  {
+    "iso3c": "NLD",
+    "unicef_total_closed": 108
+  },
+  {
+    "iso3c": "NOR",
+    "unicef_total_closed": 84
+  },
+  {
+    "iso3c": "NPL",
+    "unicef_total_closed": 316
+  },
+  {
+    "iso3c": "NRU",
+    "unicef_total_closed": 0
+  },
+  {
+    "iso3c": "NZL",
+    "unicef_total_closed": 88
+  },
+  {
+    "iso3c": "OMN",
+    "unicef_total_closed": 186
+  },
+  {
+    "iso3c": "PAK",
+    "unicef_total_closed": 244
+  },
+  {
+    "iso3c": "PAN",
+    "unicef_total_closed": 358
+  },
+  {
+    "iso3c": "PER",
+    "unicef_total_closed": 280
+  },
+  {
+    "iso3c": "PHL",
+    "unicef_total_closed": 380
+  },
+  {
+    "iso3c": "PLW",
+    "unicef_total_closed": 60
+  },
+  {
+    "iso3c": "PNG",
+    "unicef_total_closed": 30
+  },
+  {
+    "iso3c": "POL",
+    "unicef_total_closed": 176
+  },
+  {
+    "iso3c": "PRK",
+    "unicef_total_closed": 176
+  },
+  {
+    "iso3c": "PRT",
+    "unicef_total_closed": 90
+  },
+  {
+    "iso3c": "PRY",
+    "unicef_total_closed": 262
+  },
+  {
+    "iso3c": "PSE",
+    "unicef_total_closed": 190
+  },
+  {
+    "iso3c": "QAT",
+    "unicef_total_closed": 212
+  },
+  {
+    "iso3c": "ROU",
+    "unicef_total_closed": 146
+  },
+  {
+    "iso3c": "RUS",
+    "unicef_total_closed": 48
+  },
+  {
+    "iso3c": "RWA",
+    "unicef_total_closed": 208
+  },
+  {
+    "iso3c": "SAU",
+    "unicef_total_closed": 296
+  },
+  {
+    "iso3c": "SDN",
+    "unicef_total_closed": 114
+  },
+  {
+    "iso3c": "SEN",
+    "unicef_total_closed": 86
+  },
+  {
+    "iso3c": "SGP",
+    "unicef_total_closed": 52
+  },
+  {
+    "iso3c": "SLB",
+    "unicef_total_closed": 76
+  },
+  {
+    "iso3c": "SLE",
+    "unicef_total_closed": 60
+  },
+  {
+    "iso3c": "SLV",
+    "unicef_total_closed": 336
+  },
+  {
+    "iso3c": "SMR",
+    "unicef_total_closed": 134
+  },
+  {
+    "iso3c": "SOM",
+    "unicef_total_closed": 96
+  },
+  {
+    "iso3c": "SRB",
+    "unicef_total_closed": 194
+  },
+  {
+    "iso3c": "SSD",
+    "unicef_total_closed": 216
+  },
+  {
+    "iso3c": "STP",
+    "unicef_total_closed": 86
+  },
+  {
+    "iso3c": "SUR",
+    "unicef_total_closed": 253
+  },
+  {
+    "iso3c": "SVK",
+    "unicef_total_closed": 121
+  },
+  {
+    "iso3c": "SVN",
+    "unicef_total_closed": 170
+  },
+  {
+    "iso3c": "SWE",
+    "unicef_total_closed": 60
+  },
+  {
+    "iso3c": "SWZ",
+    "unicef_total_closed": 224
+  },
+  {
+    "iso3c": "SXM",
+    "unicef_total_closed": 112
+  },
+  {
+    "iso3c": "SYC",
+    "unicef_total_closed": 156
+  },
+  {
+    "iso3c": "SYR",
+    "unicef_total_closed": 100
+  },
+  {
+    "iso3c": "TCA",
+    "unicef_total_closed": 186
+  },
+  {
+    "iso3c": "TCD",
+    "unicef_total_closed": 128
+  },
+  {
+    "iso3c": "TGO",
+    "unicef_total_closed": 60
+  },
+  {
+    "iso3c": "THA",
+    "unicef_total_closed": 218
+  },
+  {
+    "iso3c": "TJK",
+    "unicef_total_closed": 0
+  },
+  {
+    "iso3c": "TKM",
+    "unicef_total_closed": 11
+  },
+  {
+    "iso3c": "TLS",
+    "unicef_total_closed": 128
+  },
+  {
+    "iso3c": "TON",
+    "unicef_total_closed": 43
+  },
+  {
+    "iso3c": "TTO",
+    "unicef_total_closed": 248
+  },
+  {
+    "iso3c": "TUN",
+    "unicef_total_closed": 134
+  },
+  {
+    "iso3c": "TUR",
+    "unicef_total_closed": 194
+  },
+  {
+    "iso3c": "TUV",
+    "unicef_total_closed": 42
+  },
+  {
+    "iso3c": "TZA",
+    "unicef_total_closed": 62
+  },
+  {
+    "iso3c": "UGA",
+    "unicef_total_closed": 388
+  },
+  {
+    "iso3c": "UKR",
+    "unicef_total_closed": 122
+  },
+  {
+    "iso3c": "URY",
+    "unicef_total_closed": 126
+  },
+  {
+    "iso3c": "USA",
+    "unicef_total_closed": 193
+  },
+  {
+    "iso3c": "UZB",
+    "unicef_total_closed": 66
+  },
+  {
+    "iso3c": "VCT",
+    "unicef_total_closed": 238
+  },
+  {
+    "iso3c": "VEN",
+    "unicef_total_closed": 337
+  },
+  {
+    "iso3c": "VGB",
+    "unicef_total_closed": 165
+  },
+  {
+    "iso3c": "VNM",
+    "unicef_total_closed": 132
+  },
+  {
+    "iso3c": "VUT",
+    "unicef_total_closed": 35
+  },
+  {
+    "iso3c": "WSM",
+    "unicef_total_closed": 21
+  },
+  {
+    "iso3c": "YEM",
+    "unicef_total_closed": 84
+  },
+  {
+    "iso3c": "ZAF",
+    "unicef_total_closed": 196
+  },
+  {
+    "iso3c": "ZMB",
+    "unicef_total_closed": 106
+  },
+  {
+    "iso3c": "ZWE",
+    "unicef_total_closed": 198
+  },
+  {
+    "iso3c": "WLD",
+    "unicef_total_closed": 199
+  }
+]

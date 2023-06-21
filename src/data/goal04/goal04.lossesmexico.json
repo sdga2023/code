@@ -1,0 +1,50 @@
+[
+  {
+    "ses": "low",
+    "y2019": 43.2,
+    "y2021": 14.8,
+    "test": "math"
+  },
+  {
+    "ses": "middlelow",
+    "y2019": 44.2,
+    "y2021": 19.3,
+    "test": "math"
+  },
+  {
+    "ses": "middlehigh",
+    "y2019": 50.5,
+    "y2021": 22.3,
+    "test": "math"
+  },
+  {
+    "ses": "high",
+    "y2019": 56,
+    "y2021": 27.3,
+    "test": "math"
+  },
+  {
+    "ses": "low",
+    "y2019": 68.5,
+    "y2021": 48.1,
+    "test": "reading"
+  },
+  {
+    "ses": "middlelow",
+    "y2019": 72.3,
+    "y2021": 55.6,
+    "test": "reading"
+  },
+  {
+    "ses": "middlehigh",
+    "y2019": 81,
+    "y2021": 64.3,
+    "test": "reading"
+  },
+  {
+    "ses": "high",
+    "y2019": 81.8,
+    "y2021": 69.7,
+    "test": "reading"
+  }
+]

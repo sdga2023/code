@@ -1,0 +1,730 @@
+[
+  {
+    "code": "ARG",
+    "mean2019": 9585.541,
+    "ginichange": -0.85328221,
+    "meanchange": -10.954034,
+    "fiscalspending": 3.7991929,
+    "logmean": 3.9816167
+  },
+  {
+    "code": "ARM",
+    "mean2019": 2899.7993,
+    "ginichange": -5.2387238,
+    "meanchange": -9.039629,
+    "fiscalspending": 0.97887927,
+    "logmean": 3.462368
+  },
+  {
+    "code": "AUS",
+    "mean2019": 23019.639,
+    "ginichange": -1.8399149,
+    "meanchange": 0.52277309,
+    "fiscalspending": 16.177853,
+    "logmean": 4.3620987
+  },
+  {
+    "code": "AUT",
+    "mean2019": 24120.922,
+    "ginichange": 0.83173513,
+    "meanchange": -0.18238293,
+    "fiscalspending": 8.5545883,
+    "logmean": 4.3823938
+  },
+  {
+    "code": "BEL",
+    "mean2019": 21469.543,
+    "ginichange": 0.7175386,
+    "meanchange": -2.2822752,
+    "fiscalspending": 7.2204847,
+    "logmean": 4.3318229
+  },
+  {
+    "code": "BFA",
+    "mean2019": 1869.0966,
+    "ginichange": 0.040584803,
+    "meanchange": -3.6199603,
+    "fiscalspending": 4.2976413,
+    "logmean": 3.2716317
+  },
+  {
+    "code": "BGR",
+    "mean2019": 10001.148,
+    "ginichange": 1.4017612,
+    "meanchange": -7.6694946,
+    "fiscalspending": 4.3861065,
+    "logmean": 4.0000501
+  },
+  {
+    "code": "BOL",
+    "mean2019": 7167.5337,
+    "ginichange": 1.8868446,
+    "meanchange": -1.5214986,
+    "fiscalspending": 5.2037497,
+    "logmean": 3.8553698
+  },
+  {
+    "code": "BRA",
+    "mean2019": 7653.4565,
+    "ginichange": -4.3089838,
+    "meanchange": -0.95321995,
+    "fiscalspending": 8.2569418,
+    "logmean": 3.8838577
+  },
+  {
+    "code": "CAF",
+    "mean2019": 1017.968,
+    "ginichange": -2.6577115,
+    "meanchange": -8.2288074,
+    "fiscalspending": 1.163644,
+    "logmean": 3.0077341
+  },
+  {
+    "code": "CAN",
+    "mean2019": 24177.148,
+    "ginichange": -2.8734744,
+    "meanchange": 7.2461443,
+    "fiscalspending": 14.646142,
+    "logmean": 4.3834052
+  },
+  {
+    "code": "CHL",
+    "mean2019": 9837.0039,
+    "ginichange": 0.36885142,
+    "meanchange": -6.8236146,
+    "fiscalspending": 8.245409,
+    "logmean": 3.9928629
+  },
+  {
+    "code": "CHN",
+    "mean2019": 5152.4014,
+    "ginichange": -0.048941374,
+    "meanchange": -7.2520499,
+    "fiscalspending": 4.7347941,
+    "logmean": 3.7120097
+  },
+  {
+    "code": "COD",
+    "mean2019": 866.2301,
+    "ginichange": -0.21191835,
+    "meanchange": -1.5776604,
+    "fiscalspending": 1.076678,
+    "logmean": 2.9376333
+  },
+  {
+    "code": "COL",
+    "mean2019": 5681.4673,
+    "ginichange": 2.7300775,
+    "meanchange": -17.488033,
+    "fiscalspending": 4.1001315,
+    "logmean": 3.7544606
+  },
+  {
+    "code": "CRI",
+    "mean2019": 9366.0889,
+    "ginichange": 0.83959699,
+    "meanchange": -14.68819,
+    "fiscalspending": 1.4290119,
+    "logmean": 3.9715583
+  },
+  {
+    "code": "CYP",
+    "mean2019": 18833.799,
+    "ginichange": -0.15184283,
+    "meanchange": -4.5009193,
+    "fiscalspending": 6.3795013,
+    "logmean": 4.2749381
+  },
+  {
+    "code": "CZE",
+    "mean2019": 14367.686,
+    "ginichange": -1.164721,
+    "meanchange": -2.4974034,
+    "fiscalspending": 5.4442334,
+    "logmean": 4.1573868
+  },
+  {
+    "code": "DEU",
+    "mean2019": 23811.627,
+    "ginichange": -0.32136142,
+    "meanchange": 0.078536175,
+    "fiscalspending": 11.033706,
+    "logmean": 4.3767891
+  },
+  {
+    "code": "DNK",
+    "mean2019": 22604.951,
+    "ginichange": 1.7262816,
+    "meanchange": 1.1351929,
+    "fiscalspending": 1.7728572,
+    "logmean": 4.3542037
+  },
+  {
+    "code": "DOM",
+    "mean2019": 5993.0947,
+    "ginichange": -2.0358741,
+    "meanchange": -15.674858,
+    "fiscalspending": 2.0449429,
+    "logmean": 3.7776511
+  },
+  {
+    "code": "ESP",
+    "mean2019": 17082.85,
+    "ginichange": 0.70414543,
+    "meanchange": -2.1779275,
+    "fiscalspending": 4.1298485,
+    "logmean": 4.2325602
+  },
+  {
+    "code": "EST",
+    "mean2019": 14952.899,
+    "ginichange": -0.39994717,
+    "meanchange": -1.2086997,
+    "fiscalspending": 3.490015,
+    "logmean": 4.1747255
+  },
+  {
+    "code": "ETH",
+    "mean2019": 1630.569,
+    "ginichange": 2.0439565,
+    "meanchange": -2.0982637,
+    "fiscalspending": 1.5410379,
+    "logmean": 3.2123392
+  },
+  {
+    "code": "FIN",
+    "mean2019": 21463.055,
+    "ginichange": -0.5946815,
+    "meanchange": -1.2609078,
+    "fiscalspending": 2.9740074,
+    "logmean": 4.3316917
+  },
+  {
+    "code": "GAB",
+    "mean2019": 4476.8472,
+    "ginichange": 0.20644367,
+    "meanchange": -3.0360639,
+    "fiscalspending": 1.9941533,
+    "logmean": 3.6509724
+  },
+  {
+    "code": "GBR",
+    "mean2019": 20262.914,
+    "ginichange": -0.37020445,
+    "meanchange": -2.084686,
+    "fiscalspending": 16.258003,
+    "logmean": 4.3067021
+  },
+  {
+    "code": "GEO",
+    "mean2019": 2960.8774,
+    "ginichange": -2.4996428,
+    "meanchange": -13.280327,
+    "fiscalspending": 6.417191,
+    "logmean": 3.4714205
+  },
+  {
+    "code": "GHA",
+    "mean2019": 2038.9641,
+    "ginichange": -0.4901737,
+    "meanchange": -4.43151,
+    "fiscalspending": 2.8833694,
+    "logmean": 3.3094096
+  },
+  {
+    "code": "GIN",
+    "mean2019": 1626.5413,
+    "ginichange": 1.3296545,
+    "meanchange": -0.89869475,
+    "fiscalspending": 1.8,
+    "logmean": 3.2112651
+  },
+  {
+    "code": "GMB",
+    "mean2019": 2017.9081,
+    "ginichange": -0.21613538,
+    "meanchange": -4.1460743,
+    "fiscalspending": 2.8599999,
+    "logmean": 3.3049014
+  },
+  {
+    "code": "GRC",
+    "mean2019": 10489.841,
+    "ginichange": 1.4398068,
+    "meanchange": -3.3683839,
+    "fiscalspending": 11.028872,
+    "logmean": 4.0207691
+  },
+  {
+    "code": "GTM",
+    "mean2019": 3857.8389,
+    "ginichange": 0.60712993,
+    "meanchange": -2.7301669,
+    "fiscalspending": 3.3550115,
+    "logmean": 3.586344
+  },
+  {
+    "code": "HND",
+    "mean2019": 3691.7068,
+    "ginichange": 0.22015572,
+    "meanchange": -11.937556,
+    "fiscalspending": 2.2719588,
+    "logmean": 3.5672271
+  },
+  {
+    "code": "HRV",
+    "mean2019": 10615.35,
+    "ginichange": 1.6781569,
+    "meanchange": -8.67799,
+    "fiscalspending": 2.5940223,
+    "logmean": 4.0259342
+  },
+  {
+    "code": "HUN",
+    "mean2019": 10157.941,
+    "ginichange": 1.0655075,
+    "meanchange": -4.0764594,
+    "fiscalspending": 4,
+    "logmean": 4.0068059
+  },
+  {
+    "code": "IDN",
+    "mean2019": 2681.5742,
+    "ginichange": 0.45160651,
+    "meanchange": -0.55902314,
+    "fiscalspending": 2.6804101,
+    "logmean": 3.4283898
+  },
+  {
+    "code": "IND",
+    "mean2019": 1897.194,
+    "ginichange": 0.59063733,
+    "meanchange": -9.6624613,
+    "fiscalspending": 3.0568213,
+    "logmean": 3.2781117
+  },
+  {
+    "code": "IRL",
+    "mean2019": 20079.119,
+    "ginichange": 2.8512983,
+    "meanchange": -0.97566527,
+    "fiscalspending": 5.3874865,
+    "logmean": 4.3027449
+  },
+  {
+    "code": "IRN",
+    "mean2019": 5241.8101,
+    "ginichange": -7.0551305,
+    "meanchange": -16.692579,
+    "fiscalspending": 4.8631172,
+    "logmean": 3.7194812
+  },
+  {
+    "code": "ITA",
+    "mean2019": 17814.35,
+    "ginichange": -0.022271276,
+    "meanchange": -2.2680137,
+    "fiscalspending": 6.8248553,
+    "logmean": 4.2507701
+  },
+  {
+    "code": "JPN",
+    "mean2019": 18159.912,
+    "ginichange": -0.16086102,
+    "meanchange": 3.6177552,
+    "fiscalspending": 15.580393,
+    "logmean": 4.2591138
+  },
+  {
+    "code": "KAZ",
+    "mean2019": 4745.4526,
+    "ginichange": 0.017854571,
+    "meanchange": -4.4221087,
+    "fiscalspending": 2.4103732,
+    "logmean": 3.6762776
+  },
+  {
+    "code": "KEN",
+    "mean2019": 1661.5383,
+    "ginichange": 1.1372238,
+    "meanchange": -1.854542,
+    "fiscalspending": 2.3882594,
+    "logmean": 3.2205105
+  },
+  {
+    "code": "KGZ",
+    "mean2019": 2592.4531,
+    "ginichange": -0.7825166,
+    "meanchange": -10.557091,
+    "fiscalspending": 6.0999999,
+    "logmean": 3.4137108
+  },
+  {
+    "code": "KOR",
+    "mean2019": 16813.613,
+    "ginichange": 0.088372827,
+    "meanchange": 1.7164757,
+    "fiscalspending": 3.4422076,
+    "logmean": 4.2256613
+  },
+  {
+    "code": "LAO",
+    "mean2019": 2459.6897,
+    "ginichange": -0.41952729,
+    "meanchange": -4.4704552,
+    "fiscalspending": 0.016976109,
+    "logmean": 3.3908803
+  },
+  {
+    "code": "LUX",
+    "mean2019": 30629.516,
+    "ginichange": -0.51110387,
+    "meanchange": -1.3800036,
+    "fiscalspending": 4.1587272,
+    "logmean": 4.4861403
+  },
+  {
+    "code": "LVA",
+    "mean2019": 12001.881,
+    "ginichange": 0.76954663,
+    "meanchange": 0.17298511,
+    "fiscalspending": 7.9280658,
+    "logmean": 4.0792494
+  },
+  {
+    "code": "MEX",
+    "mean2019": 5406.7676,
+    "ginichange": -1.0324478,
+    "meanchange": -5.3969364,
+    "fiscalspending": 0.68126553,
+    "logmean": 3.7329378
+  },
+  {
+    "code": "MLI",
+    "mean2019": 1832.2466,
+    "ginichange": 1.6565502,
+    "meanchange": -4.0766673,
+    "fiscalspending": 2.2,
+    "logmean": 3.262984
+  },
+  {
+    "code": "MMR",
+    "mean2019": 2708.1438,
+    "ginichange": -0.65931678,
+    "meanchange": -3.5410559,
+    "fiscalspending": 0.87078613,
+    "logmean": 3.4326718
+  },
+  {
+    "code": "MNG",
+    "mean2019": 3924.4939,
+    "ginichange": -0.26589334,
+    "meanchange": -7.1685514,
+    "fiscalspending": 7.5891614,
+    "logmean": 3.5937836
+  },
+  {
+    "code": "MOZ",
+    "mean2019": 1101.6978,
+    "ginichange": -0.90711117,
+    "meanchange": -5.1841092,
+    "fiscalspending": 4.8269753,
+    "logmean": 3.0420625
+  },
+  {
+    "code": "MUS",
+    "mean2019": 6486.4399,
+    "ginichange": 0.7227391,
+    "meanchange": -13.268194,
+    "fiscalspending": 9.975563,
+    "logmean": 3.8120065
+  },
+  {
+    "code": "MWI",
+    "mean2019": 776.90564,
+    "ginichange": -0.66486895,
+    "meanchange": -2.2810819,
+    "fiscalspending": 0.60000002,
+    "logmean": 2.8903682
+  },
+  {
+    "code": "NER",
+    "mean2019": 1051.8851,
+    "ginichange": -0.35881996,
+    "meanchange": -1.2855977,
+    "fiscalspending": 0.75126851,
+    "logmean": 3.0219684
+  },
+  {
+    "code": "NGA",
+    "mean2019": 1336.4729,
+    "ginichange": -0.36625564,
+    "meanchange": -2.9469287,
+    "fiscalspending": 1.458917,
+    "logmean": 3.1259601
+  },
+  {
+    "code": "NLD",
+    "mean2019": 22703.871,
+    "ginichange": -0.054550171,
+    "meanchange": -1.7105139,
+    "fiscalspending": 4.519278,
+    "logmean": 4.3561001
+  },
+  {
+    "code": "PER",
+    "mean2019": 5061.0801,
+    "ginichange": 2.0892234,
+    "meanchange": -22.628811,
+    "fiscalspending": 5.3603501,
+    "logmean": 3.7042432
+  },
+  {
+    "code": "PHL",
+    "mean2019": 2695.0796,
+    "ginichange": 4.5295477,
+    "meanchange": -10.573068,
+    "fiscalspending": 2.5426457,
+    "logmean": 3.4305716
+  },
+  {
+    "code": "POL",
+    "mean2019": 7485.7231,
+    "ginichange": -0.0065863132,
+    "meanchange": -4.2371287,
+    "fiscalspending": 7.6769896,
+    "logmean": 3.8742337
+  },
+  {
+    "code": "PRT",
+    "mean2019": 12848.166,
+    "ginichange": 0.90239942,
+    "meanchange": -1.991802,
+    "fiscalspending": 4.7257657,
+    "logmean": 4.1088409
+  },
+  {
+    "code": "PRY",
+    "mean2019": 7004.0615,
+    "ginichange": -1.3397157,
+    "meanchange": -11.798802,
+    "fiscalspending": 2.5845778,
+    "logmean": 3.84535
+  },
+  {
+    "code": "ROU",
+    "mean2019": 7836.3125,
+    "ginichange": 1.2762636,
+    "meanchange": -6.8345599,
+    "fiscalspending": 2.2661936,
+    "logmean": 3.8941116
+  },
+  {
+    "code": "RUS",
+    "mean2019": 8677.1309,
+    "ginichange": -1.8199176,
+    "meanchange": -6.2937117,
+    "fiscalspending": 2.909477,
+    "logmean": 3.9383762
+  },
+  {
+    "code": "SDN",
+    "mean2019": 1495.2399,
+    "ginichange": 0.15102029,
+    "meanchange": -1.4863343,
+    "fiscalspending": 0.92045122,
+    "logmean": 3.1747108
+  },
+  {
+    "code": "SEN",
+    "mean2019": 2211.9482,
+    "ginichange": -0.82628429,
+    "meanchange": -3.6590462,
+    "fiscalspending": 3.1628411,
+    "logmean": 3.344775
+  },
+  {
+    "code": "SLB",
+    "mean2019": 1528.0988,
+    "ginichange": -0.92947781,
+    "meanchange": -5.6107621,
+    "fiscalspending": 2.9187818,
+    "logmean": 3.1841514
+  },
+  {
+    "code": "SLV",
+    "mean2019": 4737.6206,
+    "ginichange": -0.0044256449,
+    "meanchange": -10.11535,
+    "fiscalspending": 2.5419271,
+    "logmean": 3.6755602
+  },
+  {
+    "code": "SSD",
+    "mean2019": 701.20367,
+    "ginichange": 0.87780952,
+    "meanchange": -3.4353845,
+    "fiscalspending": 0.19225156,
+    "logmean": 2.8458443
+  },
+  {
+    "code": "SVK",
+    "mean2019": 9504.6445,
+    "ginichange": 1.6844869,
+    "meanchange": -3.3542745,
+    "fiscalspending": 3.7952313,
+    "logmean": 3.9779358
+  },
+  {
+    "code": "SVN",
+    "mean2019": 15888.943,
+    "ginichange": 0.040245056,
+    "meanchange": -0.73238289,
+    "fiscalspending": 5.3460565,
+    "logmean": 4.2010951
+  },
+  {
+    "code": "SWE",
+    "mean2019": 20848.781,
+    "ginichange": 0.13049245,
+    "meanchange": -0.38671038,
+    "fiscalspending": 4.2006969,
+    "logmean": 4.3190808
+  },
+  {
+    "code": "THA",
+    "mean2019": 5853.5854,
+    "ginichange": 0.18886626,
+    "meanchange": 0.49525201,
+    "fiscalspending": 8.2790022,
+    "logmean": 3.767422
+  },
+  {
+    "code": "TJK",
+    "mean2019": 2852.4224,
+    "ginichange": 0.38486719,
+    "meanchange": -0.57467425,
+    "fiscalspending": 3.0156043,
+    "logmean": 3.4552138
+  },
+  {
+    "code": "TUN",
+    "mean2019": 5259.0151,
+    "ginichange": 0.4499644,
+    "meanchange": -8.2853632,
+    "fiscalspending": 2.4182894,
+    "logmean": 3.7209044
+  },
+  {
+    "code": "TUR",
+    "mean2019": 8138.1226,
+    "ginichange": -0.95954537,
+    "meanchange": -5.6407018,
+    "fiscalspending": 1.0708244,
+    "logmean": 3.9105241
+  },
+  {
+    "code": "TZA",
+    "mean2019": 1277.0918,
+    "ginichange": -1.6504258,
+    "meanchange": -5.3212795,
+    "fiscalspending": 0.030015888,
+    "logmean": 3.1062222
+  },
+  {
+    "code": "UGA",
+    "mean2019": 1329.562,
+    "ginichange": -0.25666356,
+    "meanchange": -2.3431177,
+    "fiscalspending": 0.56941497,
+    "logmean": 3.1237085
+  },
+  {
+    "code": "UKR",
+    "mean2019": 5445.1118,
+    "ginichange": -0.92742145,
+    "meanchange": -6.8100076,
+    "fiscalspending": 3.3775239,
+    "logmean": 3.7360067
+  },
+  {
+    "code": "URY",
+    "mean2019": 10521.516,
+    "ginichange": 0.40328801,
+    "meanchange": -9.461216,
+    "fiscalspending": 0.83186698,
+    "logmean": 4.0220785
+  },
+  {
+    "code": "USA",
+    "mean2019": 31245.451,
+    "ginichange": -1.4539003,
+    "meanchange": 0.86031193,
+    "fiscalspending": 16.719307,
+    "logmean": 4.4947867
+  },
+  {
+    "code": "UZB",
+    "mean2019": 1304.6652,
+    "ginichange": -0.084421039,
+    "meanchange": -3.1086872,
+    "fiscalspending": 3.7045641,
+    "logmean": 3.115499
+  },
+  {
+    "code": "VNM",
+    "mean2019": 5226.0063,
+    "ginichange": 0.45433342,
+    "meanchange": 0.99387515,
+    "fiscalspending": 0.5356133,
+    "logmean": 3.7181699
+  },
+  {
+    "code": "ZAF",
+    "mean2019": 4265.7251,
+    "ginichange": -5.2801552,
+    "meanchange": -7.7892823,
+    "fiscalspending": 5.477479,
+    "logmean": 3.629993
+  },
+  {
+    "code": "ZMB",
+    "mean2019": 1114.0018,
+    "ginichange": -0.60611367,
+    "meanchange": -3.952111,
+    "fiscalspending": 2.0996001,
+    "logmean": 3.046886
+  },
+  {
+    "code": "ZWE",
+    "mean2019": 1649.7451,
+    "ginichange": -0.19249916,
+    "meanchange": -6.8002672,
+    "fiscalspending": 4.8015924,
+    "logmean": 3.2174168
+  },
+  {
+    "code": "BLR",
+    "mean2019": 6978.4556,
+    "ginichange": -0.78772157,
+    "meanchange": 0.15589617,
+    "fiscalspending": null,
+    "logmean": 3.8437593
+  },
+  {
+    "code": "ECU",
+    "mean2019": 5663.3252,
+    "ginichange": 1.2060285,
+    "meanchange": -10.525664,
+    "fiscalspending": null,
+    "logmean": 3.7530715
+  },
+  {
+    "code": "PSE",
+    "mean2019": 5019.0444,
+    "ginichange": 0.18721223,
+    "meanchange": -7.8044443,
+    "fiscalspending": null,
+    "logmean": 3.7006211
+  }
+]

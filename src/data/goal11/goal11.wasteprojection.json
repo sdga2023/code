@@ -1,0 +1,5162 @@
+[
+  {
+    "iso3c": "WLD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2030,
+    "was": 125,
+    "pop": 109.7
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2040,
+    "was": 148.9,
+    "pop": 118.1
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2050,
+    "was": 172.9,
+    "pop": 125
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2030,
+    "was": 107.5,
+    "pop": 96.4
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2040,
+    "was": 109.8,
+    "pop": 90.4
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2050,
+    "was": 107.5,
+    "pop": 82.6
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2030,
+    "was": 110.4,
+    "pop": 104.2
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2040,
+    "was": 119.4,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2050,
+    "was": 124.1,
+    "pop": 109.4
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2030,
+    "was": 112.8,
+    "pop": 106.4
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2040,
+    "was": 124.1,
+    "pop": 112.1
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2050,
+    "was": 132.9,
+    "pop": 117.2
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2030,
+    "was": 129.1,
+    "pop": 96.3
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2040,
+    "was": 155.1,
+    "pop": 90.3
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2050,
+    "was": 168.8,
+    "pop": 83.3
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2030,
+    "was": 95.7,
+    "pop": 97.1
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2040,
+    "was": 87.4,
+    "pop": 92.3
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2050,
+    "was": 76.3,
+    "pop": 85.6
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2030,
+    "was": 112.8,
+    "pop": 101.6
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2040,
+    "was": 113.8,
+    "pop": 94
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2050,
+    "was": 110.2,
+    "pop": 85.5
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2030,
+    "was": 117.2,
+    "pop": 105.1
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2040,
+    "was": 129.5,
+    "pop": 106.6
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2050,
+    "was": 135.8,
+    "pop": 104.3
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2030,
+    "was": 152.8,
+    "pop": 113.4
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2040,
+    "was": 210.6,
+    "pop": 124.7
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2050,
+    "was": 265.9,
+    "pop": 135.7
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2030,
+    "was": 111,
+    "pop": 111.6
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2040,
+    "was": 111.4,
+    "pop": 121.7
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2050,
+    "was": 95.8,
+    "pop": 128.8
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2030,
+    "was": 106.5,
+    "pop": 100.6
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2040,
+    "was": 108.5,
+    "pop": 98
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2050,
+    "was": 106.5,
+    "pop": 93.9
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2030,
+    "was": 109.5,
+    "pop": 103.3
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2040,
+    "was": 116.7,
+    "pop": 105.4
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2050,
+    "was": 120,
+    "pop": 105.8
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2030,
+    "was": 113.8,
+    "pop": 103.3
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2040,
+    "was": 122.6,
+    "pop": 103.9
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2050,
+    "was": 125.5,
+    "pop": 101.8
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2030,
+    "was": 111.4,
+    "pop": 107.3
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2040,
+    "was": 118.4,
+    "pop": 112.2
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2050,
+    "was": 120.6,
+    "pop": 114.2
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2030,
+    "was": 106.8,
+    "pop": 103.6
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2040,
+    "was": 112.3,
+    "pop": 106.1
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2050,
+    "was": 115.7,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "USA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "USA",
+    "year": 2030,
+    "was": 109,
+    "pop": 105.6
+  },
+  {
+    "iso3c": "USA",
+    "year": 2040,
+    "was": 115.4,
+    "pop": 110.7
+  },
+  {
+    "iso3c": "USA",
+    "year": 2050,
+    "was": 119.5,
+    "pop": 114.6
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2030,
+    "was": 111.5,
+    "pop": 107
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2040,
+    "was": 114.5,
+    "pop": 108.6
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2050,
+    "was": 112.2,
+    "pop": 107.3
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2030,
+    "was": 99.9,
+    "pop": 110.3
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2040,
+    "was": 98.2,
+    "pop": 118.9
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2050,
+    "was": 94.5,
+    "pop": 126.2
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2030,
+    "was": 109.9,
+    "pop": 108.4
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2040,
+    "was": 118.5,
+    "pop": 115.7
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2050,
+    "was": 125.6,
+    "pop": 121.7
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2030,
+    "was": 112.9,
+    "pop": 107.3
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2040,
+    "was": 125.3,
+    "pop": 112.7
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2050,
+    "was": 136.5,
+    "pop": 116.3
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2030,
+    "was": 113,
+    "pop": 108.2
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2040,
+    "was": 125.3,
+    "pop": 115.2
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2050,
+    "was": 135.3,
+    "pop": 121
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2030,
+    "was": 108,
+    "pop": 106.1
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2040,
+    "was": 112.3,
+    "pop": 110.4
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2050,
+    "was": 111.2,
+    "pop": 113.4
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2030,
+    "was": 114.8,
+    "pop": 108.5
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2040,
+    "was": 127,
+    "pop": 114.5
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2050,
+    "was": 136.6,
+    "pop": 117.8
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2030,
+    "was": 111.8,
+    "pop": 101.7
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2040,
+    "was": 117.4,
+    "pop": 99.7
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2050,
+    "was": 116.5,
+    "pop": 96.7
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2030,
+    "was": 125.4,
+    "pop": 115.3
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2040,
+    "was": 152.2,
+    "pop": 130.9
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2050,
+    "was": 179.1,
+    "pop": 147
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2030,
+    "was": 109.6,
+    "pop": 103.5
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2040,
+    "was": 117.3,
+    "pop": 106
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2050,
+    "was": 121,
+    "pop": 106.7
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2030,
+    "was": 111.2,
+    "pop": 105.4
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2040,
+    "was": 118.3,
+    "pop": 108.9
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2050,
+    "was": 118.2,
+    "pop": 110.4
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2030,
+    "was": 131.2,
+    "pop": 118.3
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2040,
+    "was": 151.7,
+    "pop": 129.3
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2050,
+    "was": 162.3,
+    "pop": 136.1
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2030,
+    "was": 110.8,
+    "pop": 105.6
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2040,
+    "was": 121.9,
+    "pop": 109.6
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2050,
+    "was": 131.4,
+    "pop": 112.2
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2030,
+    "was": 109.6,
+    "pop": 100.7
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2040,
+    "was": 118.4,
+    "pop": 99.7
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2050,
+    "was": 125.1,
+    "pop": 96.4
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2030,
+    "was": 117.7,
+    "pop": 105
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2040,
+    "was": 131.3,
+    "pop": 106.6
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2050,
+    "was": 140.7,
+    "pop": 105.6
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2030,
+    "was": 119.7,
+    "pop": 104.3
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2040,
+    "was": 136,
+    "pop": 106.5
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2050,
+    "was": 147.5,
+    "pop": 106.3
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2030,
+    "was": 103,
+    "pop": 99.2
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2040,
+    "was": 105.3,
+    "pop": 97.9
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2050,
+    "was": 105,
+    "pop": 95.6
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2030,
+    "was": 110.1,
+    "pop": 106.1
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2040,
+    "was": 115.3,
+    "pop": 109.3
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2050,
+    "was": 113.8,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2030,
+    "was": 103,
+    "pop": 106.3
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2040,
+    "was": 99.9,
+    "pop": 111.2
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2050,
+    "was": 91.4,
+    "pop": 115
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2030,
+    "was": 106,
+    "pop": 101.9
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2040,
+    "was": 109.7,
+    "pop": 102.3
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2050,
+    "was": 109.8,
+    "pop": 101.4
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2030,
+    "was": 110.4,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2040,
+    "was": 109.3,
+    "pop": 107.7
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2050,
+    "was": 104.5,
+    "pop": 105.4
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2030,
+    "was": 116.4,
+    "pop": 110.5
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2040,
+    "was": 130.6,
+    "pop": 119.9
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2050,
+    "was": 143.7,
+    "pop": 128.7
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2030,
+    "was": 105.7,
+    "pop": 100.7
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2040,
+    "was": 110.2,
+    "pop": 100.2
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2050,
+    "was": 112.3,
+    "pop": 99
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2030,
+    "was": 101.1,
+    "pop": 112.7
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2040,
+    "was": 96.4,
+    "pop": 121.8
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2050,
+    "was": 90.9,
+    "pop": 129.1
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2030,
+    "was": 111.1,
+    "pop": 96.1
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2040,
+    "was": 138.2,
+    "pop": 102.9
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2050,
+    "was": 165.1,
+    "pop": 108.4
+  },
+  {
+    "iso3c": "AND",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "AND",
+    "year": 2030,
+    "was": 106.9,
+    "pop": 100.9
+  },
+  {
+    "iso3c": "AND",
+    "year": 2040,
+    "was": 111.6,
+    "pop": 100.8
+  },
+  {
+    "iso3c": "AND",
+    "year": 2050,
+    "was": 111.7,
+    "pop": 98.5
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2030,
+    "was": 118.5,
+    "pop": 99.4
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2040,
+    "was": 131.1,
+    "pop": 97.2
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2050,
+    "was": 138,
+    "pop": 93.8
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2030,
+    "was": 118.9,
+    "pop": 111.2
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2040,
+    "was": 134.6,
+    "pop": 120.7
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2050,
+    "was": 142.9,
+    "pop": 126.3
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2030,
+    "was": 107.9,
+    "pop": 102.2
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2040,
+    "was": 115,
+    "pop": 103.5
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2050,
+    "was": 119.4,
+    "pop": 103.5
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2030,
+    "was": 106.6,
+    "pop": 100.6
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2040,
+    "was": 112.2,
+    "pop": 101.3
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2050,
+    "was": 114.2,
+    "pop": 100.7
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2030,
+    "was": 109.6,
+    "pop": 105.6
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2040,
+    "was": 115.5,
+    "pop": 109.5
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2050,
+    "was": 116.8,
+    "pop": 110.6
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2030,
+    "was": 105.9,
+    "pop": 95.1
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2040,
+    "was": 111.6,
+    "pop": 91.2
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2050,
+    "was": 114.5,
+    "pop": 86.6
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2030,
+    "was": 105.6,
+    "pop": 101.4
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2040,
+    "was": 106.8,
+    "pop": 101.2
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2050,
+    "was": 102.2,
+    "pop": 99.1
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2030,
+    "was": 113.9,
+    "pop": 101
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2040,
+    "was": 123,
+    "pop": 99.5
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2050,
+    "was": 126.5,
+    "pop": 96
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2030,
+    "was": 124.8,
+    "pop": 111.9
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2040,
+    "was": 149.1,
+    "pop": 122.7
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2050,
+    "was": 171.1,
+    "pop": 131.5
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2030,
+    "was": 111.4,
+    "pop": 107.7
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2040,
+    "was": 116.9,
+    "pop": 111.7
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2050,
+    "was": 116.3,
+    "pop": 112.6
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2030,
+    "was": 105.7,
+    "pop": 97.2
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2040,
+    "was": 109.6,
+    "pop": 93.7
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2050,
+    "was": 111.3,
+    "pop": 89.1
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2030,
+    "was": 105.9,
+    "pop": 101.8
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2040,
+    "was": 109,
+    "pop": 101.9
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2050,
+    "was": 108,
+    "pop": 100.2
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2030,
+    "was": 107.5,
+    "pop": 98.9
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2040,
+    "was": 112.9,
+    "pop": 96.5
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2050,
+    "was": 114.9,
+    "pop": 93.3
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2030,
+    "was": 122.4,
+    "pop": 113
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2040,
+    "was": 137.6,
+    "pop": 122
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2050,
+    "was": 147.4,
+    "pop": 128
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2030,
+    "was": 113.2,
+    "pop": 100.3
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2040,
+    "was": 120.7,
+    "pop": 99.2
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2050,
+    "was": 122.3,
+    "pop": 98.5
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2030,
+    "was": 103.3,
+    "pop": 97.6
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2040,
+    "was": 105.4,
+    "pop": 94.5
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2050,
+    "was": 105.4,
+    "pop": 89.9
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2030,
+    "was": 121.3,
+    "pop": 101.5
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2040,
+    "was": 142.3,
+    "pop": 101.6
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2050,
+    "was": 162.6,
+    "pop": 99.7
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2030,
+    "was": 101.7,
+    "pop": 91.3
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2040,
+    "was": 101.4,
+    "pop": 83.9
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2050,
+    "was": 98.5,
+    "pop": 77.9
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2030,
+    "was": 130.4,
+    "pop": 111.5
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2040,
+    "was": 158.2,
+    "pop": 119.7
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2050,
+    "was": 179.6,
+    "pop": 125.3
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2030,
+    "was": 110,
+    "pop": 115.5
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2040,
+    "was": 120,
+    "pop": 125.9
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2050,
+    "was": 126.4,
+    "pop": 133.7
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2030,
+    "was": 103.4,
+    "pop": 98.9
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2040,
+    "was": 105.9,
+    "pop": 96.7
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2050,
+    "was": 106.5,
+    "pop": 93.3
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2030,
+    "was": 117.5,
+    "pop": 98
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2040,
+    "was": 129.6,
+    "pop": 94.6
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2050,
+    "was": 136.9,
+    "pop": 91.4
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2030,
+    "was": 110.1,
+    "pop": 103.8
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2040,
+    "was": 118.5,
+    "pop": 106.8
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2050,
+    "was": 125.2,
+    "pop": 109.1
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2030,
+    "was": 119.1,
+    "pop": 102.8
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2040,
+    "was": 136,
+    "pop": 102.3
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2050,
+    "was": 150.5,
+    "pop": 99.2
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2030,
+    "was": 127.7,
+    "pop": 110.7
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2040,
+    "was": 152.6,
+    "pop": 118.6
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2050,
+    "was": 171.7,
+    "pop": 124.1
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2030,
+    "was": 110.5,
+    "pop": 105.3
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2040,
+    "was": 118.5,
+    "pop": 109
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2050,
+    "was": 124.9,
+    "pop": 112.8
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2030,
+    "was": 105.9,
+    "pop": 91.2
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2040,
+    "was": 107.3,
+    "pop": 84
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2050,
+    "was": 106.3,
+    "pop": 78.4
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2030,
+    "was": 104.1,
+    "pop": 94.4
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2040,
+    "was": 105.9,
+    "pop": 88.4
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2050,
+    "was": 104.6,
+    "pop": 82
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2030,
+    "was": 118.1,
+    "pop": 101.8
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2040,
+    "was": 137,
+    "pop": 105.4
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2050,
+    "was": 151.7,
+    "pop": 106.3
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2030,
+    "was": 117.1,
+    "pop": 98.2
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2040,
+    "was": 127.2,
+    "pop": 95.3
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2050,
+    "was": 131.6,
+    "pop": 93.1
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2030,
+    "was": 110.4,
+    "pop": 102.1
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2040,
+    "was": 117.2,
+    "pop": 101.3
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2050,
+    "was": 120.7,
+    "pop": 97.9
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2030,
+    "was": 125.4,
+    "pop": 108.5
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2040,
+    "was": 150.3,
+    "pop": 114.5
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2050,
+    "was": 173.9,
+    "pop": 118
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2030,
+    "was": 123.7,
+    "pop": 109.3
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2040,
+    "was": 147.8,
+    "pop": 116.2
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2050,
+    "was": 171.4,
+    "pop": 120.3
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2030,
+    "was": 121.4,
+    "pop": 105.7
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2040,
+    "was": 142.5,
+    "pop": 111.6
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2050,
+    "was": 159.7,
+    "pop": 115.2
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2030,
+    "was": 112.4,
+    "pop": 99
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2040,
+    "was": 120.2,
+    "pop": 95.6
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2050,
+    "was": 122.4,
+    "pop": 91.3
+  },
+  {
+    "iso3c": "THA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "THA",
+    "year": 2030,
+    "was": 126.8,
+    "pop": 100.8
+  },
+  {
+    "iso3c": "THA",
+    "year": 2040,
+    "was": 149.2,
+    "pop": 98.9
+  },
+  {
+    "iso3c": "THA",
+    "year": 2050,
+    "was": 163,
+    "pop": 94.5
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2030,
+    "was": 113.8,
+    "pop": 92.3
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2040,
+    "was": 119.5,
+    "pop": 84.5
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2050,
+    "was": 119.1,
+    "pop": 77.5
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2030,
+    "was": 108.3,
+    "pop": 102.7
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2040,
+    "was": 115.2,
+    "pop": 104.6
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2050,
+    "was": 118,
+    "pop": 105.4
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2030,
+    "was": 128.3,
+    "pop": 116.2
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2040,
+    "was": 151.5,
+    "pop": 126.1
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2050,
+    "was": 172.6,
+    "pop": 135.4
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2030,
+    "was": 125.9,
+    "pop": 108.5
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2040,
+    "was": 151,
+    "pop": 115.7
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2050,
+    "was": 173.8,
+    "pop": 121.4
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2030,
+    "was": 112.3,
+    "pop": 99.8
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2040,
+    "was": 115.5,
+    "pop": 97.1
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2050,
+    "was": 110.2,
+    "pop": 91.3
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2030,
+    "was": 135.4,
+    "pop": 114.2
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2040,
+    "was": 165.4,
+    "pop": 126.1
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2050,
+    "was": 188.2,
+    "pop": 135.6
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2030,
+    "was": 113.1,
+    "pop": 108.9
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2040,
+    "was": 122.7,
+    "pop": 116.3
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2050,
+    "was": 128.2,
+    "pop": 121.4
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2030,
+    "was": 109.2,
+    "pop": 96.7
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2040,
+    "was": 115.8,
+    "pop": 92.2
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2050,
+    "was": 118.4,
+    "pop": 87.7
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2030,
+    "was": 117.4,
+    "pop": 95.3
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2040,
+    "was": 130,
+    "pop": 89.1
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2050,
+    "was": 134.8,
+    "pop": 81.8
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2030,
+    "was": 119.6,
+    "pop": 105.3
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2040,
+    "was": 135.6,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2050,
+    "was": 149.2,
+    "pop": 107.7
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2030,
+    "was": 141.1,
+    "pop": 124.8
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2040,
+    "was": 187.8,
+    "pop": 150.6
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2050,
+    "was": 237.1,
+    "pop": 176.4
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2030,
+    "was": 109.7,
+    "pop": 96.8
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2040,
+    "was": 117.1,
+    "pop": 91.5
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2050,
+    "was": 121,
+    "pop": 84.2
+  },
+  {
+    "iso3c": "URY",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "URY",
+    "year": 2030,
+    "was": 120.1,
+    "pop": 102.8
+  },
+  {
+    "iso3c": "URY",
+    "year": 2040,
+    "was": 138,
+    "pop": 104.3
+  },
+  {
+    "iso3c": "URY",
+    "year": 2050,
+    "was": 153.8,
+    "pop": 104.8
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2030,
+    "was": 138.7,
+    "pop": 125.3
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2040,
+    "was": 190.3,
+    "pop": 151.6
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2050,
+    "was": 260.8,
+    "pop": 177.9
+  },
+  {
+    "iso3c": "EST",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "EST",
+    "year": 2030,
+    "was": 110.7,
+    "pop": 96.5
+  },
+  {
+    "iso3c": "EST",
+    "year": 2040,
+    "was": 115.4,
+    "pop": 91.9
+  },
+  {
+    "iso3c": "EST",
+    "year": 2050,
+    "was": 113.3,
+    "pop": 87.3
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2030,
+    "was": 125.2,
+    "pop": 111.6
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2040,
+    "was": 155.2,
+    "pop": 123.6
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2050,
+    "was": 192.2,
+    "pop": 135.5
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2030,
+    "was": 119,
+    "pop": 100.2
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2040,
+    "was": 131.3,
+    "pop": 97.9
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2050,
+    "was": 138,
+    "pop": 93.2
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2030,
+    "was": 111.5,
+    "pop": 102.9
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2040,
+    "was": 123.1,
+    "pop": 102.8
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2050,
+    "was": 136.2,
+    "pop": 100
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2030,
+    "was": 115.2,
+    "pop": 93.5
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2040,
+    "was": 128.6,
+    "pop": 86.9
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2050,
+    "was": 137.5,
+    "pop": 80.5
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2030,
+    "was": 119.4,
+    "pop": 99.2
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2040,
+    "was": 138.9,
+    "pop": 98.3
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2050,
+    "was": 158.6,
+    "pop": 97.1
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2030,
+    "was": 130,
+    "pop": 111.2
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2040,
+    "was": 161,
+    "pop": 120.3
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2050,
+    "was": 191.4,
+    "pop": 127.3
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2030,
+    "was": 120.2,
+    "pop": 107.1
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2040,
+    "was": 137.8,
+    "pop": 111.4
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2050,
+    "was": 152.7,
+    "pop": 113.2
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2030,
+    "was": 154.4,
+    "pop": 124.3
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2040,
+    "was": 234.6,
+    "pop": 149
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2050,
+    "was": 340.5,
+    "pop": 172.8
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2030,
+    "was": 137.8,
+    "pop": 118.3
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2040,
+    "was": 168.5,
+    "pop": 126
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2050,
+    "was": 198.5,
+    "pop": 130.2
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2030,
+    "was": 108.6,
+    "pop": 94.4
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2040,
+    "was": 112.9,
+    "pop": 87.9
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2050,
+    "was": 114.5,
+    "pop": 81.1
+  },
+  {
+    "iso3c": "POL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "POL",
+    "year": 2030,
+    "was": 110.7,
+    "pop": 97.6
+  },
+  {
+    "iso3c": "POL",
+    "year": 2040,
+    "was": 115.8,
+    "pop": 93.2
+  },
+  {
+    "iso3c": "POL",
+    "year": 2050,
+    "was": 115.3,
+    "pop": 88
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2030,
+    "was": 106.7,
+    "pop": 90.8
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2040,
+    "was": 126.7,
+    "pop": 93.4
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2050,
+    "was": 146.5,
+    "pop": 95.6
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2030,
+    "was": 101.8,
+    "pop": 95.5
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2040,
+    "was": 100,
+    "pop": 89.6
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2050,
+    "was": 97.2,
+    "pop": 83.7
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2030,
+    "was": 123.3,
+    "pop": 107.3
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2040,
+    "was": 144.1,
+    "pop": 111.7
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2050,
+    "was": 161.8,
+    "pop": 113.3
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2030,
+    "was": 128,
+    "pop": 112.3
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2040,
+    "was": 161.5,
+    "pop": 123.3
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2050,
+    "was": 200.8,
+    "pop": 132.2
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2030,
+    "was": 119.5,
+    "pop": 102.9
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2040,
+    "was": 137.8,
+    "pop": 103.5
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2050,
+    "was": 155.9,
+    "pop": 102.7
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2030,
+    "was": 94.3,
+    "pop": 107
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2040,
+    "was": 85.8,
+    "pop": 110.2
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2050,
+    "was": 76.1,
+    "pop": 109.5
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2030,
+    "was": 137.9,
+    "pop": 125.9
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2040,
+    "was": 190.3,
+    "pop": 155.4
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2050,
+    "was": 264.1,
+    "pop": 187.8
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2030,
+    "was": 104.7,
+    "pop": 100.8
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2040,
+    "was": 104.5,
+    "pop": 99.1
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2050,
+    "was": 99.4,
+    "pop": 94.1
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2030,
+    "was": 128.2,
+    "pop": 116.5
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2040,
+    "was": 161.5,
+    "pop": 131.9
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2050,
+    "was": 205.2,
+    "pop": 147.9
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2030,
+    "was": 118.8,
+    "pop": 98.4
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2040,
+    "was": 134,
+    "pop": 94.4
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2050,
+    "was": 142.2,
+    "pop": 89.1
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2030,
+    "was": 137.7,
+    "pop": 109.9
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2040,
+    "was": 165.1,
+    "pop": 119.1
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2050,
+    "was": 183.2,
+    "pop": 127.9
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2030,
+    "was": 131.4,
+    "pop": 114.8
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2040,
+    "was": 156.8,
+    "pop": 126.9
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2050,
+    "was": 188.7,
+    "pop": 138.9
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2030,
+    "was": 113.4,
+    "pop": 105.9
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2040,
+    "was": 120,
+    "pop": 109
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2050,
+    "was": 128.3,
+    "pop": 109.1
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2030,
+    "was": 128.2,
+    "pop": 104.4
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2040,
+    "was": 177.1,
+    "pop": 116.5
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2050,
+    "was": 232.5,
+    "pop": 126.7
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2030,
+    "was": 117.3,
+    "pop": 101.9
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2040,
+    "was": 133.4,
+    "pop": 101.4
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2050,
+    "was": 148.1,
+    "pop": 98.4
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2030,
+    "was": 134.1,
+    "pop": 101.7
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2040,
+    "was": 155.4,
+    "pop": 100.7
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2050,
+    "was": 167.2,
+    "pop": 97.4
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2030,
+    "was": 117.1,
+    "pop": 104.5
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2040,
+    "was": 136.6,
+    "pop": 106.9
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2050,
+    "was": 158.3,
+    "pop": 106.9
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2030,
+    "was": 136.4,
+    "pop": 111.5
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2040,
+    "was": 181.8,
+    "pop": 120.8
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2050,
+    "was": 231.7,
+    "pop": 127.6
+  },
+  {
+    "iso3c": "COL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "COL",
+    "year": 2030,
+    "was": 118.2,
+    "pop": 105
+  },
+  {
+    "iso3c": "COL",
+    "year": 2040,
+    "was": 139.7,
+    "pop": 108.8
+  },
+  {
+    "iso3c": "COL",
+    "year": 2050,
+    "was": 161,
+    "pop": 110
+  },
+  {
+    "iso3c": "PER",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PER",
+    "year": 2030,
+    "was": 132.5,
+    "pop": 109.3
+  },
+  {
+    "iso3c": "PER",
+    "year": 2040,
+    "was": 165.3,
+    "pop": 116.9
+  },
+  {
+    "iso3c": "PER",
+    "year": 2050,
+    "was": 198.4,
+    "pop": 122.4
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2030,
+    "was": 112.3,
+    "pop": 95.2
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2040,
+    "was": 118.1,
+    "pop": 90
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2050,
+    "was": 118.8,
+    "pop": 84.5
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2030,
+    "was": 132,
+    "pop": 111.6
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2040,
+    "was": 177.2,
+    "pop": 121.5
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2050,
+    "was": 234.9,
+    "pop": 128.8
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2030,
+    "was": 124.4,
+    "pop": 104.5
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2040,
+    "was": 147.7,
+    "pop": 106.2
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2050,
+    "was": 174.1,
+    "pop": 104.9
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2030,
+    "was": 129.6,
+    "pop": 117.6
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2040,
+    "was": 164.5,
+    "pop": 132.3
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2050,
+    "was": 204.5,
+    "pop": 143.6
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2030,
+    "was": 138.8,
+    "pop": 132.6
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2040,
+    "was": 192.5,
+    "pop": 170.3
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2050,
+    "was": 271.1,
+    "pop": 213
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2030,
+    "was": 127.6,
+    "pop": 109.7
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2040,
+    "was": 158.8,
+    "pop": 117.3
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2050,
+    "was": 192.8,
+    "pop": 122.2
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2030,
+    "was": 142,
+    "pop": 109.4
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2040,
+    "was": 186.9,
+    "pop": 116.5
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2050,
+    "was": 229.8,
+    "pop": 121
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2030,
+    "was": 114.7,
+    "pop": 98.4
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2040,
+    "was": 127.2,
+    "pop": 95
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2050,
+    "was": 136.8,
+    "pop": 89.7
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2030,
+    "was": 135.8,
+    "pop": 124.8
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2040,
+    "was": 186,
+    "pop": 152.2
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2050,
+    "was": 257,
+    "pop": 181.3
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2030,
+    "was": 146.2,
+    "pop": 118.1
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2040,
+    "was": 208.2,
+    "pop": 137.1
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2050,
+    "was": 281.5,
+    "pop": 156.3
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2030,
+    "was": 134.6,
+    "pop": 107.9
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2040,
+    "was": 171.2,
+    "pop": 113
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2050,
+    "was": 204.6,
+    "pop": 116.7
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2030,
+    "was": 128.6,
+    "pop": 123
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2040,
+    "was": 166.7,
+    "pop": 149.2
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2050,
+    "was": 215.4,
+    "pop": 173.9
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2030,
+    "was": 124,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2040,
+    "was": 156,
+    "pop": 114.6
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2050,
+    "was": 194.7,
+    "pop": 119.5
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2030,
+    "was": 135.5,
+    "pop": 123.6
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2040,
+    "was": 188.3,
+    "pop": 150.6
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2050,
+    "was": 267.2,
+    "pop": 178.3
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2030,
+    "was": 169.9,
+    "pop": 127.8
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2040,
+    "was": 285.2,
+    "pop": 159.5
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2050,
+    "was": 453.5,
+    "pop": 194.3
+  },
+  {
+    "iso3c": "HND",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "HND",
+    "year": 2030,
+    "was": 131,
+    "pop": 115.6
+  },
+  {
+    "iso3c": "HND",
+    "year": 2040,
+    "was": 171.1,
+    "pop": 129
+  },
+  {
+    "iso3c": "HND",
+    "year": 2050,
+    "was": 222.4,
+    "pop": 139.6
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2030,
+    "was": 120.3,
+    "pop": 96.6
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2040,
+    "was": 138.9,
+    "pop": 92.5
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2050,
+    "was": 154.1,
+    "pop": 88.2
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2030,
+    "was": 140.3,
+    "pop": 121.2
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2040,
+    "was": 200.9,
+    "pop": 145.2
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2050,
+    "was": 284.4,
+    "pop": 169.9
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2030,
+    "was": 188.3,
+    "pop": 152.4
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2040,
+    "was": 263.8,
+    "pop": 172.3
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2050,
+    "was": 350.1,
+    "pop": 189.3
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2030,
+    "was": 136.2,
+    "pop": 113.4
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2040,
+    "was": 182.4,
+    "pop": 125.5
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2050,
+    "was": 239.4,
+    "pop": 135.7
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2030,
+    "was": 147.7,
+    "pop": 109.2
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2040,
+    "was": 194.4,
+    "pop": 114.7
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2050,
+    "was": 234.1,
+    "pop": 117.2
+  },
+  {
+    "iso3c": "NER",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NER",
+    "year": 2030,
+    "was": 150.2,
+    "pop": 144
+  },
+  {
+    "iso3c": "NER",
+    "year": 2040,
+    "was": 224.6,
+    "pop": 201.4
+  },
+  {
+    "iso3c": "NER",
+    "year": 2050,
+    "was": 337.1,
+    "pop": 271
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2030,
+    "was": 128.8,
+    "pop": 111.7
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2040,
+    "was": 171.5,
+    "pop": 122
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2050,
+    "was": 232.7,
+    "pop": 130.5
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2030,
+    "was": 136.5,
+    "pop": 110.8
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2040,
+    "was": 182,
+    "pop": 119.1
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2050,
+    "was": 232.6,
+    "pop": 125.1
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2030,
+    "was": 125.4,
+    "pop": 110.3
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2040,
+    "was": 152.6,
+    "pop": 117.4
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2050,
+    "was": 178.7,
+    "pop": 122.7
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2030,
+    "was": 142.6,
+    "pop": 129.9
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2040,
+    "was": 202.1,
+    "pop": 162.8
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2050,
+    "was": 287.4,
+    "pop": 195.6
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2030,
+    "was": 138.5,
+    "pop": 118.5
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2040,
+    "was": 187.6,
+    "pop": 137.6
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2050,
+    "was": 247.5,
+    "pop": 156.7
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2030,
+    "was": 149.1,
+    "pop": 132.5
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2040,
+    "was": 223.5,
+    "pop": 171.7
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2050,
+    "was": 336.3,
+    "pop": 216.6
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2030,
+    "was": 137.2,
+    "pop": 123.3
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2040,
+    "was": 183.1,
+    "pop": 146.7
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2050,
+    "was": 241.5,
+    "pop": 171.1
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2030,
+    "was": 144.6,
+    "pop": 121.8
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2040,
+    "was": 206.5,
+    "pop": 144.4
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2050,
+    "was": 294.2,
+    "pop": 167.4
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2030,
+    "was": 135.6,
+    "pop": 114.1
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2040,
+    "was": 186,
+    "pop": 127.3
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2050,
+    "was": 250.2,
+    "pop": 139.9
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2030,
+    "was": 119.8,
+    "pop": 100.1
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2040,
+    "was": 138,
+    "pop": 98
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2050,
+    "was": 152.4,
+    "pop": 95
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2030,
+    "was": 151.2,
+    "pop": 132.3
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2040,
+    "was": 230.2,
+    "pop": 170.5
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2050,
+    "was": 353.8,
+    "pop": 212.8
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2030,
+    "was": 147.5,
+    "pop": 127.6
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2040,
+    "was": 217.3,
+    "pop": 159.6
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2050,
+    "was": 321.3,
+    "pop": 194.7
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2030,
+    "was": 116.9,
+    "pop": 101.7
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2040,
+    "was": 132.3,
+    "pop": 100.8
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2050,
+    "was": 147.8,
+    "pop": 98.4
+  },
+  {
+    "iso3c": "COD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "COD",
+    "year": 2030,
+    "was": 149,
+    "pop": 134
+  },
+  {
+    "iso3c": "COD",
+    "year": 2040,
+    "was": 226.1,
+    "pop": 173.9
+  },
+  {
+    "iso3c": "COD",
+    "year": 2050,
+    "was": 350,
+    "pop": 217.2
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2030,
+    "was": 150.8,
+    "pop": 122.1
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2040,
+    "was": 219,
+    "pop": 143.1
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2050,
+    "was": 298.2,
+    "pop": 161.2
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2030,
+    "was": 136.5,
+    "pop": 118.4
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2040,
+    "was": 184.8,
+    "pop": 135.4
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2050,
+    "was": 246.8,
+    "pop": 150.3
+  },
+  {
+    "iso3c": "TON",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TON",
+    "year": 2030,
+    "was": 126.1,
+    "pop": 109.4
+  },
+  {
+    "iso3c": "TON",
+    "year": 2040,
+    "was": 157.2,
+    "pop": 119
+  },
+  {
+    "iso3c": "TON",
+    "year": 2050,
+    "was": 192.7,
+    "pop": 126.9
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2030,
+    "was": 122.7,
+    "pop": 109.8
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2040,
+    "was": 150.1,
+    "pop": 120.4
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2050,
+    "was": 178.7,
+    "pop": 127.3
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2030,
+    "was": 131.1,
+    "pop": 119.6
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2040,
+    "was": 180.3,
+    "pop": 144.2
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2050,
+    "was": 253.7,
+    "pop": 169.3
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2030,
+    "was": 137.2,
+    "pop": 125.1
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2040,
+    "was": 194.9,
+    "pop": 152.2
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2050,
+    "was": 286.2,
+    "pop": 180.8
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2030,
+    "was": 146.2,
+    "pop": 133.3
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2040,
+    "was": 217.1,
+    "pop": 173.6
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2050,
+    "was": 329.3,
+    "pop": 219.7
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2030,
+    "was": 125.3,
+    "pop": 111.9
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2040,
+    "was": 172.1,
+    "pop": 129.9
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2050,
+    "was": 236.2,
+    "pop": 146.9
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2030,
+    "was": 143.4,
+    "pop": 128.7
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2040,
+    "was": 207.5,
+    "pop": 161.8
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2050,
+    "was": 306,
+    "pop": 198.2
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2030,
+    "was": 130.5,
+    "pop": 123.5
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2040,
+    "was": 168.1,
+    "pop": 146.2
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2050,
+    "was": 216.7,
+    "pop": 166.2
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2030,
+    "was": 139.5,
+    "pop": 126
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2040,
+    "was": 196.8,
+    "pop": 154.7
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2050,
+    "was": 284.1,
+    "pop": 184.7
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2030,
+    "was": 133.1,
+    "pop": 119
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2040,
+    "was": 178,
+    "pop": 136.8
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2050,
+    "was": 238,
+    "pop": 153
+  },
+  {
+    "iso3c": "COG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "COG",
+    "year": 2030,
+    "was": 142.9,
+    "pop": 127.2
+  },
+  {
+    "iso3c": "COG",
+    "year": 2040,
+    "was": 202.2,
+    "pop": 159.1
+  },
+  {
+    "iso3c": "COG",
+    "year": 2050,
+    "was": 282.8,
+    "pop": 193.9
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2030,
+    "was": 136.5,
+    "pop": 136.4
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2040,
+    "was": 177.5,
+    "pop": 181.9
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2050,
+    "was": 242.6,
+    "pop": 235.6
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2030,
+    "was": 134.2,
+    "pop": 125.9
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2040,
+    "was": 180.6,
+    "pop": 155.2
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2050,
+    "was": 247.8,
+    "pop": 186.2
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2030,
+    "was": 144.4,
+    "pop": 127.2
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2040,
+    "was": 209.9,
+    "pop": 157.7
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2050,
+    "was": 305.9,
+    "pop": 190.5
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2030,
+    "was": 138.2,
+    "pop": 111.8
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2040,
+    "was": 182.9,
+    "pop": 121.3
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2050,
+    "was": 228.6,
+    "pop": 128.3
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2030,
+    "was": 137.9,
+    "pop": 128.6
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2040,
+    "was": 192.4,
+    "pop": 160.6
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2050,
+    "was": 275.6,
+    "pop": 195.2
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2030,
+    "was": 116.7,
+    "pop": 104
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2040,
+    "was": 131.4,
+    "pop": 106.4
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2050,
+    "was": 143.6,
+    "pop": 107.1
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2030,
+    "was": 130.2,
+    "pop": 112.9
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2040,
+    "was": 166.5,
+    "pop": 123.8
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2050,
+    "was": 211,
+    "pop": 131.9
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2030,
+    "was": 131.5,
+    "pop": 107.8
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2040,
+    "was": 163,
+    "pop": 113.1
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2050,
+    "was": 192.5,
+    "pop": 116
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2030,
+    "was": 124,
+    "pop": 111.1
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2040,
+    "was": 154.1,
+    "pop": 122.9
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2050,
+    "was": 197.5,
+    "pop": 134.8
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2030,
+    "was": 143.2,
+    "pop": 131.2
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2040,
+    "was": 203.7,
+    "pop": 165.9
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2050,
+    "was": 288.5,
+    "pop": 202
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2030,
+    "was": 137.4,
+    "pop": 113
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2040,
+    "was": 187.6,
+    "pop": 123.2
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2050,
+    "was": 249.1,
+    "pop": 131.1
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2030,
+    "was": 140.6,
+    "pop": 123.6
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2040,
+    "was": 197.1,
+    "pop": 147.8
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2050,
+    "was": 275.6,
+    "pop": 170.3
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2030,
+    "was": 142.8,
+    "pop": 131.1
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2040,
+    "was": 205.2,
+    "pop": 167.7
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2050,
+    "was": 299.4,
+    "pop": 207.8
+  },
+  {
+    "iso3c": "IND",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "IND",
+    "year": 2030,
+    "was": 133.1,
+    "pop": 109
+  },
+  {
+    "iso3c": "IND",
+    "year": 2040,
+    "was": 170.1,
+    "pop": 115.4
+  },
+  {
+    "iso3c": "IND",
+    "year": 2050,
+    "was": 208,
+    "pop": 118.8
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2030,
+    "was": 124.9,
+    "pop": 107.5
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2040,
+    "was": 147.7,
+    "pop": 112.5
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2050,
+    "was": 170.1,
+    "pop": 114.4
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2030,
+    "was": 144.2,
+    "pop": 133.5
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2040,
+    "was": 194.4,
+    "pop": 167.2
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2050,
+    "was": 252.9,
+    "pop": 201.1
+  },
+  {
+    "iso3c": "STP",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "STP",
+    "year": 2030,
+    "was": 137.9,
+    "pop": 122.4
+  },
+  {
+    "iso3c": "STP",
+    "year": 2040,
+    "was": 194.1,
+    "pop": 149.8
+  },
+  {
+    "iso3c": "STP",
+    "year": 2050,
+    "was": 276.5,
+    "pop": 179.9
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2030,
+    "was": 141.4,
+    "pop": 129.3
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2040,
+    "was": 202.8,
+    "pop": 163.1
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2050,
+    "was": 297.7,
+    "pop": 200.3
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2030,
+    "was": 135.6,
+    "pop": 119.7
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2040,
+    "was": 185.5,
+    "pop": 139.6
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2050,
+    "was": 255.7,
+    "pop": 158.8
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2030,
+    "was": 146,
+    "pop": 128.3
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2040,
+    "was": 213,
+    "pop": 159.8
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2050,
+    "was": 313.5,
+    "pop": 194.1
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2030,
+    "was": 132.4,
+    "pop": 107
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2040,
+    "was": 166,
+    "pop": 110.7
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2050,
+    "was": 202.1,
+    "pop": 112.6
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2030,
+    "was": 130.7,
+    "pop": 102.8
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2040,
+    "was": 158.6,
+    "pop": 103.6
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2050,
+    "was": 181.4,
+    "pop": 101.9
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2030,
+    "was": 145.3,
+    "pop": 133.1
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2040,
+    "was": 214.6,
+    "pop": 172.5
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2050,
+    "was": 321.5,
+    "pop": 215.2
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2030,
+    "was": 136,
+    "pop": 118
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2040,
+    "was": 173,
+    "pop": 134.7
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2050,
+    "was": 210.9,
+    "pop": 149.3
+  },
+  {
+    "iso3c": "COM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "COM",
+    "year": 2030,
+    "was": 138.7,
+    "pop": 122.3
+  },
+  {
+    "iso3c": "COM",
+    "year": 2040,
+    "was": 197,
+    "pop": 145.6
+  },
+  {
+    "iso3c": "COM",
+    "year": 2050,
+    "was": 286.6,
+    "pop": 169.2
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2030,
+    "was": 130.4,
+    "pop": 121
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2040,
+    "was": 171.7,
+    "pop": 142.1
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2050,
+    "was": 230,
+    "pop": 162.3
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2030,
+    "was": 153.1,
+    "pop": 112.5
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2040,
+    "was": 201.2,
+    "pop": 122.8
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2050,
+    "was": 236.8,
+    "pop": 131.8
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2030,
+    "was": 134.1,
+    "pop": 118.4
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2040,
+    "was": 199.3,
+    "pop": 140.4
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2050,
+    "was": 311.5,
+    "pop": 161.1
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2030,
+    "was": 139.2,
+    "pop": 132.1
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2040,
+    "was": 194.5,
+    "pop": 168.3
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2050,
+    "was": 275.2,
+    "pop": 207.2
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2030,
+    "was": 129.7,
+    "pop": 108.7
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2040,
+    "was": 163.5,
+    "pop": 114.4
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2050,
+    "was": 202.6,
+    "pop": 116.9
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2030,
+    "was": 141.2,
+    "pop": 131.8
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2040,
+    "was": 198.1,
+    "pop": 168.7
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2050,
+    "was": 280.9,
+    "pop": 209
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2030,
+    "was": 161.3,
+    "pop": 129.6
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2040,
+    "was": 257.4,
+    "pop": 162.7
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2050,
+    "was": 403.6,
+    "pop": 197.8
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2030,
+    "was": 136.3,
+    "pop": 129.9
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2040,
+    "was": 184.4,
+    "pop": 163.7
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2050,
+    "was": 250.7,
+    "pop": 199.4
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2030,
+    "was": 132.1,
+    "pop": 112.3
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2040,
+    "was": 169.9,
+    "pop": 122.8
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2050,
+    "was": 216,
+    "pop": 130.8
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2030,
+    "was": 141.3,
+    "pop": 126
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2040,
+    "was": 200.5,
+    "pop": 154.9
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2050,
+    "was": 284.8,
+    "pop": 185.2
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2030,
+    "was": 138.3,
+    "pop": 126.1
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2040,
+    "was": 191.2,
+    "pop": 152.6
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2050,
+    "was": 269.6,
+    "pop": 178.7
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2030,
+    "was": 128.1,
+    "pop": 114.6
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2040,
+    "was": 155.2,
+    "pop": 119.7
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2050,
+    "was": 190,
+    "pop": 121.2
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2030,
+    "was": 140.3,
+    "pop": 113.1
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2040,
+    "was": 185.7,
+    "pop": 123.3
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2050,
+    "was": 236,
+    "pop": 130.3
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2030,
+    "was": 139.3,
+    "pop": 119.4
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2040,
+    "was": 191.8,
+    "pop": 137.2
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2050,
+    "was": 266.2,
+    "pop": 153.2
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2030,
+    "was": 119.9,
+    "pop": 108.5
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2040,
+    "was": 149.4,
+    "pop": 117
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2050,
+    "was": 192.9,
+    "pop": 124.4
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2030,
+    "was": null,
+    "pop": null
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2040,
+    "was": null,
+    "pop": null
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2050,
+    "was": null,
+    "pop": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2020,
+    "was": 100,
+    "pop": 100
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2030,
+    "was": null,
+    "pop": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2040,
+    "was": null,
+    "pop": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2050,
+    "was": null,
+    "pop": null
+  }
+]

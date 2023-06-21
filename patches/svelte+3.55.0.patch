@@ -1,0 +1,22 @@
+diff --git a/node_modules/svelte/internal/index.mjs b/node_modules/svelte/internal/index.mjs
+index 5d78ec8..61f54d3 100644
+--- a/node_modules/svelte/internal/index.mjs
++++ b/node_modules/svelte/internal/index.mjs
+@@ -1186,11 +1186,15 @@ function flush() {
+ }
+ function update($$) {
+     if ($$.fragment !== null) {
+-        $$.update();
++        try {
++            $$.update();
++        } catch(e) { console.log(e) }
+         run_all($$.before_update);
+         const dirty = $$.dirty;
+         $$.dirty = [-1];
+-        $$.fragment && $$.fragment.p($$.ctx, dirty);
++        try {
++            $$.fragment && $$.fragment.p($$.ctx, dirty);
++        } catch(e) { console.log(e) }
+         $$.after_update.forEach(add_render_callback);
+     }
+ }

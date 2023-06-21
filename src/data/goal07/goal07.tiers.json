@@ -1,0 +1,1298 @@
+[
+  {
+    "iso3c": "ETH",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 73,
+    "cumperc": 0,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 14.7,
+    "cumperc": 73,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 2,
+    "cumperc": 87.7,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 5.7,
+    "cumperc": 89.7,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 2.4,
+    "cumperc": 95.4,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 2.2,
+    "cumperc": 97.8,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 3.4,
+    "cumperc": 0,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 2.3,
+    "cumperc": 3.4,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 11.4,
+    "cumperc": 5.7,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 50.5,
+    "cumperc": 17.1,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 21.1,
+    "cumperc": 67.6,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "ETH",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 11.3,
+    "cumperc": 88.7,
+    "poprural": 78.305,
+    "popurban": 21.695
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 18.3,
+    "cumperc": 0,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 7.1,
+    "cumperc": 18.3,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 32.8,
+    "cumperc": 25.4,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 40.7,
+    "cumperc": 58.2,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 0.7,
+    "cumperc": 98.9,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 0.6,
+    "cumperc": 99.6,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 0.5,
+    "cumperc": 0,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 2.2,
+    "cumperc": 0.5,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 15,
+    "cumperc": 2.7,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 59.1,
+    "cumperc": 17.7,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 16.9,
+    "cumperc": 76.8,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "BGD",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 6.4,
+    "cumperc": 93.7,
+    "poprural": 61.823,
+    "popurban": 38.177
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 14.5,
+    "cumperc": 0,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 4.3,
+    "cumperc": 14.5,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 20.7,
+    "cumperc": 18.8,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 44.9,
+    "cumperc": 39.5,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 6.6,
+    "cumperc": 84.4,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 9,
+    "cumperc": 91,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 0.8,
+    "cumperc": 0,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 0.9,
+    "cumperc": 0.8,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 3.8,
+    "cumperc": 1.7,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 55,
+    "cumperc": 5.5,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 3.8,
+    "cumperc": 60.5,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "KHM",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 35.6,
+    "cumperc": 64.3,
+    "poprural": 75.768,
+    "popurban": 24.232
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 26,
+    "cumperc": 0,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 4.5,
+    "cumperc": 26,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 4,
+    "cumperc": 30.5,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 22.6,
+    "cumperc": 34.5,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 7,
+    "cumperc": 57.1,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 35.9,
+    "cumperc": 64.1,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 2.2,
+    "cumperc": 0,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 0.7,
+    "cumperc": 2.2,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 2.5,
+    "cumperc": 2.9,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 34.9,
+    "cumperc": 5.4,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 12.6,
+    "cumperc": 40.3,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "HND",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 47,
+    "cumperc": 52.9,
+    "poprural": 41.641,
+    "popurban": 58.359
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 63,
+    "cumperc": 0,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 15.1,
+    "cumperc": 63,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 4.8,
+    "cumperc": 78.1,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 6,
+    "cumperc": 82.9,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 5.2,
+    "cumperc": 88.9,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 5.9,
+    "cumperc": 94.1,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 15.6,
+    "cumperc": 0,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 3.5,
+    "cumperc": 15.6,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 3.6,
+    "cumperc": 19.1,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 23.1,
+    "cumperc": 22.7,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 23.1,
+    "cumperc": 45.8,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "KEN",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 31,
+    "cumperc": 68.9,
+    "poprural": 72.005,
+    "popurban": 27.995
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 92.2,
+    "cumperc": 0,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 6.2,
+    "cumperc": 92.2,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 1.4,
+    "cumperc": 98.4,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 0.2,
+    "cumperc": 99.8,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 0,
+    "cumperc": 100,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 0,
+    "cumperc": 100,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 59.5,
+    "cumperc": 0,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 9.5,
+    "cumperc": 59.5,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 24.4,
+    "cumperc": 69,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 5.7,
+    "cumperc": 93.4,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 0.9,
+    "cumperc": 99.1,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "LBR",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 0,
+    "cumperc": 100,
+    "poprural": 47.911,
+    "popurban": 52.089
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 37.5,
+    "cumperc": 0,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 24.7,
+    "cumperc": 37.5,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 15.2,
+    "cumperc": 62.2,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 5.4,
+    "cumperc": 77.4,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 9.4,
+    "cumperc": 82.8,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 7.9,
+    "cumperc": 92.2,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 7.8,
+    "cumperc": 0,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 3.8,
+    "cumperc": 7.8,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 3.6,
+    "cumperc": 11.6,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 17.9,
+    "cumperc": 15.2,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 39.8,
+    "cumperc": 33.1,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "MMR",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 27.2,
+    "cumperc": 72.9,
+    "poprural": 68.859,
+    "popurban": 31.141
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 91.5,
+    "cumperc": 0,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 0.5,
+    "cumperc": 91.5,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 2.9,
+    "cumperc": 92,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 2.2,
+    "cumperc": 94.9,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 1.5,
+    "cumperc": 97.1,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 1.4,
+    "cumperc": 98.6,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 51.2,
+    "cumperc": 0,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 0.9,
+    "cumperc": 51.2,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 9.7,
+    "cumperc": 52.1,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 9.4,
+    "cumperc": 61.8,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 12.3,
+    "cumperc": 71.2,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NER",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 16.5,
+    "cumperc": 83.5,
+    "poprural": 83.374,
+    "popurban": 16.626
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 73.3,
+    "cumperc": 0,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 1.8,
+    "cumperc": 73.3,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 10,
+    "cumperc": 75.1,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 12.7,
+    "cumperc": 85.1,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 2.1,
+    "cumperc": 97.8,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 0.2,
+    "cumperc": 99.9,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 24.3,
+    "cumperc": 0,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 7.4,
+    "cumperc": 24.3,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 25.9,
+    "cumperc": 31.7,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 35.6,
+    "cumperc": 57.6,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 6.2,
+    "cumperc": 93.2,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "NGA",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 0.7,
+    "cumperc": 99.4,
+    "poprural": 48.042,
+    "popurban": 51.958
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 84.4,
+    "cumperc": 0,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 3,
+    "cumperc": 84.4,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 1.8,
+    "cumperc": 87.4,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 5,
+    "cumperc": 89.2,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 3.7,
+    "cumperc": 94.2,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 2.1,
+    "cumperc": 97.9,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 22.6,
+    "cumperc": 0,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 1.9,
+    "cumperc": 22.6,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 3.7,
+    "cumperc": 24.5,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 34.5,
+    "cumperc": 28.2,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 26.3,
+    "cumperc": 62.7,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "RWA",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 11,
+    "cumperc": 89,
+    "poprural": 82.568,
+    "popurban": 17.432
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 23.3,
+    "cumperc": 0,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 1,
+    "cumperc": 23.3,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 5.1,
+    "cumperc": 24.3,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 25.4,
+    "cumperc": 29.4,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 25.6,
+    "cumperc": 54.8,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 19.6,
+    "cumperc": 80.4,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 39.5,
+    "cumperc": 0,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 0.5,
+    "cumperc": 39.5,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 7.6,
+    "cumperc": 40,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 19.8,
+    "cumperc": 47.6,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 14.4,
+    "cumperc": 67.4,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "STP",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 18.2,
+    "cumperc": 81.8,
+    "poprural": 25.646,
+    "popurban": 74.354
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "rural",
+    "tier": "tier0",
+    "percent": 91.3,
+    "cumperc": 0,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "rural",
+    "tier": "tier1",
+    "percent": 3.5,
+    "cumperc": 91.3,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "rural",
+    "tier": "tier2",
+    "percent": 1,
+    "cumperc": 94.8,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "rural",
+    "tier": "tier3",
+    "percent": 1.2,
+    "cumperc": 95.8,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "rural",
+    "tier": "tier4",
+    "percent": 0.5,
+    "cumperc": 97,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "rural",
+    "tier": "tier5",
+    "percent": 2.4,
+    "cumperc": 97.5,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "urban",
+    "tier": "tier0",
+    "percent": 24.8,
+    "cumperc": 0,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "urban",
+    "tier": "tier1",
+    "percent": 0.6,
+    "cumperc": 24.8,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "urban",
+    "tier": "tier2",
+    "percent": 1.8,
+    "cumperc": 25.4,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "urban",
+    "tier": "tier3",
+    "percent": 16,
+    "cumperc": 27.2,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "urban",
+    "tier": "tier4",
+    "percent": 14.9,
+    "cumperc": 43.2,
+    "poprural": 55.371,
+    "popurban": 44.629
+  },
+  {
+    "iso3c": "ZMB",
+    "rururb": "urban",
+    "tier": "tier5",
+    "percent": 41.9,
+    "cumperc": 58.1,
+    "poprural": 55.371,
+    "popurban": 44.629
+  }
+]

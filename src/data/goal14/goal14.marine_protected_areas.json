@@ -1,0 +1,1017 @@
+[
+  {
+    "iso3c": "ABNJ",
+    "totalmarinearea": 235080140,
+    "PAmarinecover": 1.4
+  },
+  {
+    "iso3c": "ABW",
+    "totalmarinearea": 25214,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "AGO",
+    "totalmarinearea": 493753,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "AIA",
+    "totalmarinearea": 92654,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "ALB",
+    "totalmarinearea": 11199,
+    "PAmarinecover": 2.8
+  },
+  {
+    "iso3c": "ARE",
+    "totalmarinearea": 54711,
+    "PAmarinecover": 11.5
+  },
+  {
+    "iso3c": "ARG",
+    "totalmarinearea": 1083151,
+    "PAmarinecover": 11.8
+  },
+  {
+    "iso3c": "ASM",
+    "totalmarinearea": 406816,
+    "PAmarinecover": 8.7
+  },
+  {
+    "iso3c": "ATF",
+    "totalmarinearea": 2277432,
+    "PAmarinecover": 74.8
+  },
+  {
+    "iso3c": "ATG",
+    "totalmarinearea": 108492,
+    "PAmarinecover": 0.3
+  },
+  {
+    "iso3c": "AUS",
+    "totalmarinearea": 7432133,
+    "PAmarinecover": 44.3
+  },
+  {
+    "iso3c": "AZE",
+    "totalmarinearea": 79032,
+    "PAmarinecover": 0.4
+  },
+  {
+    "iso3c": "BEL",
+    "totalmarinearea": 3465,
+    "PAmarinecover": 38.1
+  },
+  {
+    "iso3c": "BEN",
+    "totalmarinearea": 30426,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "BES",
+    "totalmarinearea": 25112,
+    "PAmarinecover": 100
+  },
+  {
+    "iso3c": "BGD",
+    "totalmarinearea": 84563,
+    "PAmarinecover": 5.4
+  },
+  {
+    "iso3c": "BGR",
+    "totalmarinearea": 35172,
+    "PAmarinecover": 8.1
+  },
+  {
+    "iso3c": "BHR",
+    "totalmarinearea": 7633,
+    "PAmarinecover": 21.1
+  },
+  {
+    "iso3c": "BHS",
+    "totalmarinearea": 597705,
+    "PAmarinecover": 7.9
+  },
+  {
+    "iso3c": "BIH",
+    "totalmarinearea": 13,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "BLM",
+    "totalmarinearea": 4318,
+    "PAmarinecover": 98.3
+  },
+  {
+    "iso3c": "BLZ",
+    "totalmarinearea": 36250,
+    "PAmarinecover": 11
+  },
+  {
+    "iso3c": "BMU",
+    "totalmarinearea": 451644,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "BRA",
+    "totalmarinearea": 3672584,
+    "PAmarinecover": 26.8
+  },
+  {
+    "iso3c": "BRB",
+    "totalmarinearea": 185020,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "BRN",
+    "totalmarinearea": 25698,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "BVT",
+    "totalmarinearea": 440224,
+    "PAmarinecover": 0.5
+  },
+  {
+    "iso3c": "CAN",
+    "totalmarinearea": 5698083,
+    "PAmarinecover": 9.1
+  },
+  {
+    "iso3c": "CCK",
+    "totalmarinearea": 470117,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "CHL",
+    "totalmarinearea": 3657313,
+    "PAmarinecover": 41.4
+  },
+  {
+    "iso3c": "CHN",
+    "totalmarinearea": 878364,
+    "PAmarinecover": 5.5
+  },
+  {
+    "iso3c": "CIV",
+    "totalmarinearea": 174842,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "CMR",
+    "totalmarinearea": 14704,
+    "PAmarinecover": 10.9
+  },
+  {
+    "iso3c": "COD",
+    "totalmarinearea": 13265,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "COG",
+    "totalmarinearea": 39864,
+    "PAmarinecover": 3
+  },
+  {
+    "iso3c": "COK",
+    "totalmarinearea": 1972842,
+    "PAmarinecover": 100
+  },
+  {
+    "iso3c": "COL",
+    "totalmarinearea": 730742,
+    "PAmarinecover": 17.1
+  },
+  {
+    "iso3c": "COM",
+    "totalmarinearea": 165505,
+    "PAmarinecover": 0.4
+  },
+  {
+    "iso3c": "CPV",
+    "totalmarinearea": 801065,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "CRI",
+    "totalmarinearea": 576110,
+    "PAmarinecover": 29
+  },
+  {
+    "iso3c": "CUB",
+    "totalmarinearea": 365756,
+    "PAmarinecover": 3.9
+  },
+  {
+    "iso3c": "CUW",
+    "totalmarinearea": 30535,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "CXR",
+    "totalmarinearea": 330036,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "CYM",
+    "totalmarinearea": 119605,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "CYP",
+    "totalmarinearea": 98280,
+    "PAmarinecover": 8.6
+  },
+  {
+    "iso3c": "DEU",
+    "totalmarinearea": 56358,
+    "PAmarinecover": 45.5
+  },
+  {
+    "iso3c": "DJI",
+    "totalmarinearea": 7031,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "DMA",
+    "totalmarinearea": 28749,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "DNK",
+    "totalmarinearea": 100470,
+    "PAmarinecover": 18.3
+  },
+  {
+    "iso3c": "DOM",
+    "totalmarinearea": 270774,
+    "PAmarinecover": 17.3
+  },
+  {
+    "iso3c": "DZA",
+    "totalmarinearea": 128993,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "ECU",
+    "totalmarinearea": 1079901,
+    "PAmarinecover": 19.1
+  },
+  {
+    "iso3c": "EGY",
+    "totalmarinearea": 236612,
+    "PAmarinecover": 5
+  },
+  {
+    "iso3c": "ERI",
+    "totalmarinearea": 78827,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "ESH",
+    "totalmarinearea": 252024,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "ESP",
+    "totalmarinearea": 1005717,
+    "PAmarinecover": 12.8
+  },
+  {
+    "iso3c": "EST",
+    "totalmarinearea": 36346,
+    "PAmarinecover": 18.8
+  },
+  {
+    "iso3c": "FIN",
+    "totalmarinearea": 79468,
+    "PAmarinecover": 12
+  },
+  {
+    "iso3c": "FJI",
+    "totalmarinearea": 1293035,
+    "PAmarinecover": 0.9
+  },
+  {
+    "iso3c": "FLK",
+    "totalmarinearea": 549092,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "FRA",
+    "totalmarinearea": 343866,
+    "PAmarinecover": 49.8
+  },
+  {
+    "iso3c": "FRO",
+    "totalmarinearea": 266720,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "FSM",
+    "totalmarinearea": 3011917,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "GAB",
+    "totalmarinearea": 193292,
+    "PAmarinecover": 28.8
+  },
+  {
+    "iso3c": "GBR",
+    "totalmarinearea": 723405,
+    "PAmarinecover": 44.1
+  },
+  {
+    "iso3c": "GEO",
+    "totalmarinearea": 22907,
+    "PAmarinecover": 0.7
+  },
+  {
+    "iso3c": "GGY",
+    "totalmarinearea": 8673,
+    "PAmarinecover": 0.4
+  },
+  {
+    "iso3c": "GHA",
+    "totalmarinearea": 226759,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "GIB",
+    "totalmarinearea": 427,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "GIN",
+    "totalmarinearea": 110136,
+    "PAmarinecover": 0.5
+  },
+  {
+    "iso3c": "GLP",
+    "totalmarinearea": 91039,
+    "PAmarinecover": 99.9
+  },
+  {
+    "iso3c": "GMB",
+    "totalmarinearea": 22746,
+    "PAmarinecover": 0.6
+  },
+  {
+    "iso3c": "GNB",
+    "totalmarinearea": 106507,
+    "PAmarinecover": 9
+  },
+  {
+    "iso3c": "GNQ",
+    "totalmarinearea": 310365,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "GRC",
+    "totalmarinearea": 494172,
+    "PAmarinecover": 4.5
+  },
+  {
+    "iso3c": "GRD",
+    "totalmarinearea": 26282,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "GRL",
+    "totalmarinearea": 2264467,
+    "PAmarinecover": 4.5
+  },
+  {
+    "iso3c": "GTM",
+    "totalmarinearea": 118336,
+    "PAmarinecover": 0.8
+  },
+  {
+    "iso3c": "GUF",
+    "totalmarinearea": 136564,
+    "PAmarinecover": 1
+  },
+  {
+    "iso3c": "GUM",
+    "totalmarinearea": 202535,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "GUY",
+    "totalmarinearea": 136910,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "HMD",
+    "totalmarinearea": 416111,
+    "PAmarinecover": 1.5
+  },
+  {
+    "iso3c": "HND",
+    "totalmarinearea": 219971,
+    "PAmarinecover": 4.6
+  },
+  {
+    "iso3c": "HRV",
+    "totalmarinearea": 55462,
+    "PAmarinecover": 9
+  },
+  {
+    "iso3c": "HTI",
+    "totalmarinearea": 123867,
+    "PAmarinecover": 1.5
+  },
+  {
+    "iso3c": "IDN",
+    "totalmarinearea": 5947954,
+    "PAmarinecover": 3.1
+  },
+  {
+    "iso3c": "IND",
+    "totalmarinearea": 2301226,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "IOT",
+    "totalmarinearea": 642745,
+    "PAmarinecover": 99.9
+  },
+  {
+    "iso3c": "IRL",
+    "totalmarinearea": 426442,
+    "PAmarinecover": 2.3
+  },
+  {
+    "iso3c": "IRN",
+    "totalmarinearea": 224801,
+    "PAmarinecover": 0.8
+  },
+  {
+    "iso3c": "IRQ",
+    "totalmarinearea": 596,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "ISL",
+    "totalmarinearea": 752784,
+    "PAmarinecover": 0.4
+  },
+  {
+    "iso3c": "ISR",
+    "totalmarinearea": 27855,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "ITA",
+    "totalmarinearea": 538881,
+    "PAmarinecover": 10.6
+  },
+  {
+    "iso3c": "JAM",
+    "totalmarinearea": 246488,
+    "PAmarinecover": 0.8
+  },
+  {
+    "iso3c": "JEY",
+    "totalmarinearea": 2962,
+    "PAmarinecover": 6.2
+  },
+  {
+    "iso3c": "JOR",
+    "totalmarinearea": 94,
+    "PAmarinecover": 1
+  },
+  {
+    "iso3c": "JPN",
+    "totalmarinearea": 4040612,
+    "PAmarinecover": 13.9
+  },
+  {
+    "iso3c": "KAZ",
+    "totalmarinearea": 119085,
+    "PAmarinecover": 50.7
+  },
+  {
+    "iso3c": "KEN",
+    "totalmarinearea": 112400,
+    "PAmarinecover": 0.7
+  },
+  {
+    "iso3c": "KHM",
+    "totalmarinearea": 47967,
+    "PAmarinecover": 1.4
+  },
+  {
+    "iso3c": "KIR",
+    "totalmarinearea": 3459130,
+    "PAmarinecover": 11.8
+  },
+  {
+    "iso3c": "KNA",
+    "totalmarinearea": 10263,
+    "PAmarinecover": 4
+  },
+  {
+    "iso3c": "KOR",
+    "totalmarinearea": 324994,
+    "PAmarinecover": 2.5
+  },
+  {
+    "iso3c": "KWT",
+    "totalmarinearea": 11896,
+    "PAmarinecover": 1.4
+  },
+  {
+    "iso3c": "LBN",
+    "totalmarinearea": 19316,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "LBR",
+    "totalmarinearea": 247768,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "LBY",
+    "totalmarinearea": 357895,
+    "PAmarinecover": 0.6
+  },
+  {
+    "iso3c": "LCA",
+    "totalmarinearea": 15560,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "LKA",
+    "totalmarinearea": 534085,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "LTU",
+    "totalmarinearea": 6126,
+    "PAmarinecover": 25.6
+  },
+  {
+    "iso3c": "LVA",
+    "totalmarinearea": 28880,
+    "PAmarinecover": 16
+  },
+  {
+    "iso3c": "MAF",
+    "totalmarinearea": 1069,
+    "PAmarinecover": 96.4
+  },
+  {
+    "iso3c": "MAR",
+    "totalmarinearea": 276136,
+    "PAmarinecover": 0.7
+  },
+  {
+    "iso3c": "MCO",
+    "totalmarinearea": 284,
+    "PAmarinecover": 99.7
+  },
+  {
+    "iso3c": "MDG",
+    "totalmarinearea": 1205825,
+    "PAmarinecover": 0.9
+  },
+  {
+    "iso3c": "MDV",
+    "totalmarinearea": 922110,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "MEX",
+    "totalmarinearea": 3284660,
+    "PAmarinecover": 21.6
+  },
+  {
+    "iso3c": "MHL",
+    "totalmarinearea": 2004587,
+    "PAmarinecover": 0.3
+  },
+  {
+    "iso3c": "MLT",
+    "totalmarinearea": 55697,
+    "PAmarinecover": 7.4
+  },
+  {
+    "iso3c": "MMR",
+    "totalmarinearea": 514147,
+    "PAmarinecover": 0.5
+  },
+  {
+    "iso3c": "MNE",
+    "totalmarinearea": 7459,
+    "PAmarinecover": 0.6
+  },
+  {
+    "iso3c": "MNP",
+    "totalmarinearea": 773668,
+    "PAmarinecover": 33.2
+  },
+  {
+    "iso3c": "MOZ",
+    "totalmarinearea": 574410,
+    "PAmarinecover": 2.1
+  },
+  {
+    "iso3c": "MRT",
+    "totalmarinearea": 156198,
+    "PAmarinecover": 4.2
+  },
+  {
+    "iso3c": "MSR",
+    "totalmarinearea": 7628,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "MTQ",
+    "totalmarinearea": 47644,
+    "PAmarinecover": 100
+  },
+  {
+    "iso3c": "MUS",
+    "totalmarinearea": 1280068,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "MYS",
+    "totalmarinearea": 451742,
+    "PAmarinecover": 5.6
+  },
+  {
+    "iso3c": "MYT",
+    "totalmarinearea": 63362,
+    "PAmarinecover": 100
+  },
+  {
+    "iso3c": "NAM",
+    "totalmarinearea": 562728,
+    "PAmarinecover": 1.7
+  },
+  {
+    "iso3c": "NCL",
+    "totalmarinearea": 1371803,
+    "PAmarinecover": 96.3
+  },
+  {
+    "iso3c": "NFK",
+    "totalmarinearea": 432638,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "NGA",
+    "totalmarinearea": 182868,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "NIC",
+    "totalmarinearea": 223935,
+    "PAmarinecover": 3.4
+  },
+  {
+    "iso3c": "NIU",
+    "totalmarinearea": 318244,
+    "PAmarinecover": 40.6
+  },
+  {
+    "iso3c": "NLD",
+    "totalmarinearea": 64205,
+    "PAmarinecover": 26.9
+  },
+  {
+    "iso3c": "NOR",
+    "totalmarinearea": 926318,
+    "PAmarinecover": 9.8
+  },
+  {
+    "iso3c": "NRU",
+    "totalmarinearea": 310565,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "NZL",
+    "totalmarinearea": 4106954,
+    "PAmarinecover": 30.4
+  },
+  {
+    "iso3c": "OMN",
+    "totalmarinearea": 538980,
+    "PAmarinecover": 0.3
+  },
+  {
+    "iso3c": "PAK",
+    "totalmarinearea": 222744,
+    "PAmarinecover": 0.8
+  },
+  {
+    "iso3c": "PAN",
+    "totalmarinearea": 332643,
+    "PAmarinecover": 26.8
+  },
+  {
+    "iso3c": "PCN",
+    "totalmarinearea": 839479,
+    "PAmarinecover": 100
+  },
+  {
+    "iso3c": "PER",
+    "totalmarinearea": 838330,
+    "PAmarinecover": 8
+  },
+  {
+    "iso3c": "PHL",
+    "totalmarinearea": 1835028,
+    "PAmarinecover": 1.7
+  },
+  {
+    "iso3c": "PLW",
+    "totalmarinearea": 608152,
+    "PAmarinecover": 100
+  },
+  {
+    "iso3c": "PNG",
+    "totalmarinearea": 2407382,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "POL",
+    "totalmarinearea": 31946,
+    "PAmarinecover": 22.6
+  },
+  {
+    "iso3c": "PRI",
+    "totalmarinearea": 176163,
+    "PAmarinecover": 1.8
+  },
+  {
+    "iso3c": "PRK",
+    "totalmarinearea": 115967,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "PRT",
+    "totalmarinearea": 1724156,
+    "PAmarinecover": 16.9
+  },
+  {
+    "iso3c": "PYF",
+    "totalmarinearea": 4795468,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "QAT",
+    "totalmarinearea": 31988,
+    "PAmarinecover": 2.3
+  },
+  {
+    "iso3c": "REU",
+    "totalmarinearea": 316499,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "ROU",
+    "totalmarinearea": 29726,
+    "PAmarinecover": 23.1
+  },
+  {
+    "iso3c": "RUS",
+    "totalmarinearea": 7673314,
+    "PAmarinecover": 2.2
+  },
+  {
+    "iso3c": "SAU",
+    "totalmarinearea": 220338,
+    "PAmarinecover": 2.5
+  },
+  {
+    "iso3c": "SDN",
+    "totalmarinearea": 66786,
+    "PAmarinecover": 16
+  },
+  {
+    "iso3c": "SEN",
+    "totalmarinearea": 158426,
+    "PAmarinecover": 1.9
+  },
+  {
+    "iso3c": "SGP",
+    "totalmarinearea": 763,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "SGS",
+    "totalmarinearea": 1445887,
+    "PAmarinecover": 85.3
+  },
+  {
+    "iso3c": "SHN",
+    "totalmarinearea": 1647745,
+    "PAmarinecover": 96.5
+  },
+  {
+    "iso3c": "SJM",
+    "totalmarinearea": 1081582,
+    "PAmarinecover": 7.5
+  },
+  {
+    "iso3c": "SLB",
+    "totalmarinearea": 1609757,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "SLE",
+    "totalmarinearea": 160453,
+    "PAmarinecover": 1.6
+  },
+  {
+    "iso3c": "SLV",
+    "totalmarinearea": 94238,
+    "PAmarinecover": 0.7
+  },
+  {
+    "iso3c": "SOM",
+    "totalmarinearea": 784502,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "SPM",
+    "totalmarinearea": 12367,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "STP",
+    "totalmarinearea": 131709,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "SUR",
+    "totalmarinearea": 128363,
+    "PAmarinecover": 1.5
+  },
+  {
+    "iso3c": "SVN",
+    "totalmarinearea": 186,
+    "PAmarinecover": 2.3
+  },
+  {
+    "iso3c": "SWE",
+    "totalmarinearea": 154980,
+    "PAmarinecover": 15.8
+  },
+  {
+    "iso3c": "SXM",
+    "totalmarinearea": 498,
+    "PAmarinecover": 8.7
+  },
+  {
+    "iso3c": "SYC",
+    "totalmarinearea": 1340839,
+    "PAmarinecover": 32.8
+  },
+  {
+    "iso3c": "SYR",
+    "totalmarinearea": 10204,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "TCA",
+    "totalmarinearea": 154242,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "TGO",
+    "totalmarinearea": 15521,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "THA",
+    "totalmarinearea": 306891,
+    "PAmarinecover": 4.4
+  },
+  {
+    "iso3c": "TKL",
+    "totalmarinearea": 321243,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "TKM",
+    "totalmarinearea": 77885,
+    "PAmarinecover": 3
+  },
+  {
+    "iso3c": "TLS",
+    "totalmarinearea": 42501,
+    "PAmarinecover": 1.4
+  },
+  {
+    "iso3c": "TON",
+    "totalmarinearea": 668055,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "TTO",
+    "totalmarinearea": 75798,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "TUN",
+    "totalmarinearea": 100661,
+    "PAmarinecover": 1
+  },
+  {
+    "iso3c": "TUR",
+    "totalmarinearea": 255926,
+    "PAmarinecover": 1.8
+  },
+  {
+    "iso3c": "TUV",
+    "totalmarinearea": 731900,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "TWN",
+    "totalmarinearea": 342997,
+    "PAmarinecover": 1.1
+  },
+  {
+    "iso3c": "TZA",
+    "totalmarinearea": 243130,
+    "PAmarinecover": 3
+  },
+  {
+    "iso3c": "UKR",
+    "totalmarinearea": 134873,
+    "PAmarinecover": 9.2
+  },
+  {
+    "iso3c": "UMI",
+    "totalmarinearea": 1964385,
+    "PAmarinecover": 64.9
+  },
+  {
+    "iso3c": "URY",
+    "totalmarinearea": 130098,
+    "PAmarinecover": 0.8
+  },
+  {
+    "iso3c": "USA",
+    "totalmarinearea": 8591493,
+    "PAmarinecover": 19
+  },
+  {
+    "iso3c": "VCT",
+    "totalmarinearea": 36511,
+    "PAmarinecover": 0.2
+  },
+  {
+    "iso3c": "VEN",
+    "totalmarinearea": 473325,
+    "PAmarinecover": 4.4
+  },
+  {
+    "iso3c": "VGB",
+    "totalmarinearea": 80529,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "VIR",
+    "totalmarinearea": 36030,
+    "PAmarinecover": 0.9
+  },
+  {
+    "iso3c": "VNM",
+    "totalmarinearea": 647232,
+    "PAmarinecover": 0.6
+  },
+  {
+    "iso3c": "VUT",
+    "totalmarinearea": 622073,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "WLF",
+    "totalmarinearea": 259805,
+    "PAmarinecover": 0
+  },
+  {
+    "iso3c": "WSM",
+    "totalmarinearea": 132306,
+    "PAmarinecover": 0.1
+  },
+  {
+    "iso3c": "YEM",
+    "totalmarinearea": 548014,
+    "PAmarinecover": 0.5
+  },
+  {
+    "iso3c": "ZAF",
+    "totalmarinearea": 1542560,
+    "PAmarinecover": 15.5
+  }
+]

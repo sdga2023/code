@@ -1,0 +1,128 @@
+[
+  {
+    "water_source": "Oceans, Seas, & Bays",
+    "water_volume_km3": 1338000000,
+    "pct_of_total_water": 96.54,
+    "pct_of_freshwater": null,
+    "is_fresh": false,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Groundwater",
+    "water_volume_km3": 23400000,
+    "pct_of_total_water": 1.69,
+    "pct_of_freshwater": null,
+    "is_fresh": false,
+    "is_subcategory": false,
+    "is_sum": true
+  },
+  {
+    "water_source": "Groundwater|Saline",
+    "water_volume_km3": 12870000,
+    "pct_of_total_water": 0.93,
+    "pct_of_freshwater": null,
+    "is_fresh": false,
+    "is_subcategory": true,
+    "is_sum": false
+  },
+  {
+    "water_source": "Lakes",
+    "water_volume_km3": 176400,
+    "pct_of_total_water": 0.013,
+    "pct_of_freshwater": null,
+    "is_fresh": false,
+    "is_subcategory": false,
+    "is_sum": true
+  },
+  {
+    "water_source": "Lakes|Saline",
+    "water_volume_km3": 85400,
+    "pct_of_total_water": 0.006,
+    "pct_of_freshwater": null,
+    "is_fresh": false,
+    "is_subcategory": true,
+    "is_sum": false
+  },
+  {
+    "water_source": "Ice caps, Glaciers, & Permanent Snow",
+    "water_volume_km3": 24064000,
+    "pct_of_total_water": 1.74,
+    "pct_of_freshwater": 68.7,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Groundwater|Fresh",
+    "water_volume_km3": 10530000,
+    "pct_of_total_water": 0.76,
+    "pct_of_freshwater": 30.1,
+    "is_fresh": true,
+    "is_subcategory": true,
+    "is_sum": false
+  },
+  {
+    "water_source": "Ground Ice & Permafrost",
+    "water_volume_km3": 300000,
+    "pct_of_total_water": 0.022,
+    "pct_of_freshwater": 0.86,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Lakes|Fresh",
+    "water_volume_km3": 91000,
+    "pct_of_total_water": 0.007,
+    "pct_of_freshwater": 0.26,
+    "is_fresh": true,
+    "is_subcategory": true,
+    "is_sum": false
+  },
+  {
+    "water_source": "Soil Moisture",
+    "water_volume_km3": 16500,
+    "pct_of_total_water": 0.001,
+    "pct_of_freshwater": 0.05,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Atmosphere",
+    "water_volume_km3": 12900,
+    "pct_of_total_water": 0.001,
+    "pct_of_freshwater": 0.04,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Swamp Water",
+    "water_volume_km3": 11470,
+    "pct_of_total_water": 0.0008,
+    "pct_of_freshwater": 0.03,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Rivers",
+    "water_volume_km3": 2120,
+    "pct_of_total_water": 0.0002,
+    "pct_of_freshwater": 0.006,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  },
+  {
+    "water_source": "Biological Water",
+    "water_volume_km3": 1120,
+    "pct_of_total_water": 0.0001,
+    "pct_of_freshwater": 0.003,
+    "is_fresh": true,
+    "is_subcategory": false,
+    "is_sum": false
+  }
+]

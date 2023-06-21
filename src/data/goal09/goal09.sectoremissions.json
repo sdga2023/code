@@ -1,0 +1,72 @@
+[
+  {
+    "year": 1990,
+    "transport": 4610,
+    "electricity_heat": 7621,
+    "industry": 3954,
+    "other_energy": 971,
+    "residential": 1832,
+    "services": 765,
+    "other": 757
+  },
+  {
+    "year": 1995,
+    "transport": 5024,
+    "electricity_heat": 8162,
+    "industry": 3937,
+    "other_energy": 1067,
+    "residential": 1847,
+    "services": 718,
+    "other": 611
+  },
+  {
+    "year": 2000,
+    "transport": 5773,
+    "electricity_heat": 9359,
+    "industry": 3874,
+    "other_energy": 1196,
+    "residential": 1829,
+    "services": 695,
+    "other": 514
+  },
+  {
+    "year": 2005,
+    "transport": 6502,
+    "electricity_heat": 10977,
+    "industry": 4925,
+    "other_energy": 1407,
+    "residential": 1901,
+    "services": 773,
+    "other": 600
+  },
+  {
+    "year": 2010,
+    "transport": 7013,
+    "electricity_heat": 12500,
+    "industry": 6082,
+    "other_energy": 1650,
+    "residential": 1898,
+    "services": 810,
+    "other": 623
+  },
+  {
+    "year": 2015,
+    "transport": 7725,
+    "electricity_heat": 13358,
+    "industry": 6325,
+    "other_energy": 1635,
+    "residential": 1870,
+    "services": 822,
+    "other": 627
+  },
+  {
+    "year": 2019,
+    "transport": 8222,
+    "electricity_heat": 14068,
+    "industry": 6254,
+    "other_energy": 1694,
+    "residential": 1969,
+    "services": 825,
+    "other": 589
+  }
+]

@@ -1,0 +1,1426 @@
+[
+  {
+    "iso": "AFG",
+    "country": "Afghanistan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 54.7570194,
+    "source": "FAO Aquastat",
+    "country_code": "AFG"
+  },
+  {
+    "iso": "ALB",
+    "country": "Albania",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.72355769,
+    "source": "FAO Aquastat",
+    "country_code": "ALB"
+  },
+  {
+    "iso": "DZA",
+    "country": "Algeria",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 137.92036,
+    "source": "FAO Aquastat",
+    "country_code": "DZA"
+  },
+  {
+    "iso": "AGO",
+    "country": "Angola",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.87188329,
+    "source": "FAO Aquastat",
+    "country_code": "AGO"
+  },
+  {
+    "iso": "ATG",
+    "country": "Antigua and Barbuda",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.46153846,
+    "source": "FAO Aquastat",
+    "country_code": "ATG"
+  },
+  {
+    "iso": "ARG",
+    "country": "Argentina",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 10.4566641,
+    "source": "FAO Aquastat",
+    "country_code": "ARG"
+  },
+  {
+    "iso": "ARM",
+    "country": "Armenia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 57.0909824,
+    "source": "FAO Aquastat",
+    "country_code": "ARM"
+  },
+  {
+    "iso": "AUS",
+    "country": "Australia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.47406514,
+    "source": "FAO Aquastat",
+    "country_code": "AUS"
+  },
+  {
+    "iso": "AUT",
+    "country": "Austria",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 9.64354794,
+    "source": "FAO Aquastat",
+    "country_code": "AUT"
+  },
+  {
+    "iso": "AZE",
+    "country": "Azerbaijan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 55.5972621,
+    "source": "FAO Aquastat",
+    "country_code": "AZE"
+  },
+  {
+    "iso": "BHR",
+    "country": "Bahrain",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 133.706897,
+    "source": "FAO Aquastat",
+    "country_code": "BHR"
+  },
+  {
+    "iso": "BGD",
+    "country": "Bangladesh",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.72333948,
+    "source": "FAO Aquastat",
+    "country_code": "BGD"
+  },
+  {
+    "iso": "BRB",
+    "country": "Barbados",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 87.5,
+    "source": "FAO Aquastat",
+    "country_code": "BRB"
+  },
+  {
+    "iso": "BLR",
+    "country": "Belarus",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.37705999,
+    "source": "FAO Aquastat",
+    "country_code": "BLR"
+  },
+  {
+    "iso": "BEL",
+    "country": "Belgium",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 51.5847666,
+    "source": "FAO Aquastat",
+    "country_code": "BEL"
+  },
+  {
+    "iso": "BLZ",
+    "country": "Belize",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.26029448,
+    "source": "FAO Aquastat",
+    "country_code": "BLZ"
+  },
+  {
+    "iso": "BEN",
+    "country": "Benin",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.97524381,
+    "source": "FAO Aquastat",
+    "country_code": "BEN"
+  },
+  {
+    "iso": "BTN",
+    "country": "Bhutan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.41380753,
+    "source": "FAO Aquastat",
+    "country_code": "BTN"
+  },
+  {
+    "iso": "BOL",
+    "country": "Bolivia (Plurinational State of)",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.17700113,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.00053121,
+    "source": "FAO Aquastat",
+    "country_code": "BIH"
+  },
+  {
+    "iso": "BWA",
+    "country": "Botswana",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.30500471,
+    "source": "FAO Aquastat",
+    "country_code": "BWA"
+  },
+  {
+    "iso": "BRA",
+    "country": "Brazil",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.47930427,
+    "source": "FAO Aquastat",
+    "country_code": "BRA"
+  },
+  {
+    "iso": "BRN",
+    "country": "Brunei Darussalam",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.46646571,
+    "source": "FAO Aquastat",
+    "country_code": "BRN"
+  },
+  {
+    "iso": "BGR",
+    "country": "Bulgaria",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 37.5194028,
+    "source": "FAO Aquastat",
+    "country_code": "BGR"
+  },
+  {
+    "iso": "BFA",
+    "country": "Burkina Faso",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 7.82026769,
+    "source": "FAO Aquastat",
+    "country_code": "BFA"
+  },
+  {
+    "iso": "BDI",
+    "country": "Burundi",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 10.1928675,
+    "source": "FAO Aquastat",
+    "country_code": "BDI"
+  },
+  {
+    "iso": "CPV",
+    "country": "Cabo Verde",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.43333333,
+    "source": "FAO Aquastat",
+    "country_code": "CPV"
+  },
+  {
+    "iso": "KHM",
+    "country": "Cambodia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.03654485,
+    "source": "FAO Aquastat",
+    "country_code": "KHM"
+  },
+  {
+    "iso": "CMR",
+    "country": "Cameroon",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.56043011,
+    "source": "FAO Aquastat",
+    "country_code": "CMR"
+  },
+  {
+    "iso": "CAN",
+    "country": "Canada",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.73357364,
+    "source": "FAO Aquastat",
+    "country_code": "CAN"
+  },
+  {
+    "iso": "CAF",
+    "country": "Central African Republic",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.33564815,
+    "source": "FAO Aquastat",
+    "country_code": "CAF"
+  },
+  {
+    "iso": "TCD",
+    "country": "Chad",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.29492188,
+    "source": "FAO Aquastat",
+    "country_code": "TCD"
+  },
+  {
+    "iso": "CHL",
+    "country": "Chile",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.98212109,
+    "source": "FAO Aquastat",
+    "country_code": "CHL"
+  },
+  {
+    "iso": "CHN",
+    "country": "China",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 41.5185288,
+    "source": "FAO Aquastat",
+    "country_code": "CHN"
+  },
+  {
+    "iso": "COL",
+    "country": "Colombia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.3586332,
+    "source": "FAO Aquastat",
+    "country_code": "COL"
+  },
+  {
+    "iso": "COM",
+    "country": "Comoros",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.83333333,
+    "source": "FAO Aquastat",
+    "country_code": "COM"
+  },
+  {
+    "iso": "COG",
+    "country": "Congo",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.0274463,
+    "source": "FAO Aquastat",
+    "country_code": "COG"
+  },
+  {
+    "iso": "CRI",
+    "country": "Costa Rica",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.35167235,
+    "source": "FAO Aquastat",
+    "country_code": "CRI"
+  },
+  {
+    "iso": "CIV",
+    "country": "Côte d'Ivoire",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.08756567,
+    "source": "FAO Aquastat",
+    "country_code": "CIV"
+  },
+  {
+    "iso": "HRV",
+    "country": "Croatia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.47843486,
+    "source": "FAO Aquastat",
+    "country_code": "HRV"
+  },
+  {
+    "iso": "CUB",
+    "country": "Cuba",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 23.9394461,
+    "source": "FAO Aquastat",
+    "country_code": "CUB"
+  },
+  {
+    "iso": "CYP",
+    "country": "Cyprus",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 37.5888464,
+    "source": "FAO Aquastat",
+    "country_code": "CYP"
+  },
+  {
+    "iso": "CZE",
+    "country": "Czechia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 20.7725061,
+    "source": "FAO Aquastat",
+    "country_code": "CZE"
+  },
+  {
+    "iso": "PRK",
+    "country": "Democratic People's Republic of Korea",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 27.7404678,
+    "source": "FAO Aquastat",
+    "country_code": "PRK"
+  },
+  {
+    "iso": "COD",
+    "country": "Democratic Republic of the Congo",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.2268835,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "DNK",
+    "country": "Denmark",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 26.4042726,
+    "source": "FAO Aquastat",
+    "country_code": "DNK"
+  },
+  {
+    "iso": "DJI",
+    "country": "Djibouti",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.33333333,
+    "source": "FAO Aquastat",
+    "country_code": "DJI"
+  },
+  {
+    "iso": "DMA",
+    "country": "Dominica",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 10,
+    "source": "FAO Aquastat",
+    "country_code": "DMA"
+  },
+  {
+    "iso": "DOM",
+    "country": "Dominican Republic",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 39.5533141,
+    "source": "FAO Aquastat",
+    "country_code": "DOM"
+  },
+  {
+    "iso": "ECU",
+    "country": "Ecuador",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.78235294,
+    "source": "FAO Aquastat",
+    "country_code": "ECU"
+  },
+  {
+    "iso": "EGY",
+    "country": "Egypt",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 141.165756,
+    "source": "FAO Aquastat",
+    "country_code": "EGY"
+  },
+  {
+    "iso": "SLV",
+    "country": "El Salvador",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.42732377,
+    "source": "FAO Aquastat",
+    "country_code": "SLV"
+  },
+  {
+    "iso": "GNQ",
+    "country": "Equatorial Guinea",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.18350324,
+    "source": "FAO Aquastat",
+    "country_code": "GNQ"
+  },
+  {
+    "iso": "ERI",
+    "country": "Eritrea",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 11.1751152,
+    "source": "FAO Aquastat",
+    "country_code": "ERI"
+  },
+  {
+    "iso": "EST",
+    "country": "Estonia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 9.2310855,
+    "source": "FAO Aquastat",
+    "country_code": "EST"
+  },
+  {
+    "iso": "SWZ",
+    "country": "Eswatini",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 77.5599129,
+    "source": "FAO Aquastat",
+    "country_code": "SWZ"
+  },
+  {
+    "iso": "ETH",
+    "country": "Ethiopia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 32.2571865,
+    "source": "FAO Aquastat",
+    "country_code": "ETH"
+  },
+  {
+    "iso": "FJI",
+    "country": "Fiji",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.29737303,
+    "source": "FAO Aquastat",
+    "country_code": "FJI"
+  },
+  {
+    "iso": "FIN",
+    "country": "Finland",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 7.11406213,
+    "source": "FAO Aquastat",
+    "country_code": "FIN"
+  },
+  {
+    "iso": "FRA",
+    "country": "France",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 22.9992818,
+    "source": "FAO Aquastat",
+    "country_code": "FRA"
+  },
+  {
+    "iso": "GAB",
+    "country": "Gabon",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.50216607,
+    "source": "FAO Aquastat",
+    "country_code": "GAB"
+  },
+  {
+    "iso": "GMB",
+    "country": "Gambia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.20965637,
+    "source": "FAO Aquastat",
+    "country_code": "GMB"
+  },
+  {
+    "iso": "GEO",
+    "country": "Georgia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.3867101,
+    "source": "FAO Aquastat",
+    "country_code": "GEO"
+  },
+  {
+    "iso": "DEU",
+    "country": "Germany",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 33.5019189,
+    "source": "FAO Aquastat",
+    "country_code": "DEU"
+  },
+  {
+    "iso": "GHA",
+    "country": "Ghana",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.31473409,
+    "source": "FAO Aquastat",
+    "country_code": "GHA"
+  },
+  {
+    "iso": "GRC",
+    "country": "Greece",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 20.4774428,
+    "source": "FAO Aquastat",
+    "country_code": "GRC"
+  },
+  {
+    "iso": "GRD",
+    "country": "Grenada",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 7.05,
+    "source": "FAO Aquastat",
+    "country_code": "GRD"
+  },
+  {
+    "iso": "GTM",
+    "country": "Guatemala",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.74209708,
+    "source": "FAO Aquastat",
+    "country_code": "GTM"
+  },
+  {
+    "iso": "GIN",
+    "country": "Guinea",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.36923077,
+    "source": "FAO Aquastat",
+    "country_code": "GIN"
+  },
+  {
+    "iso": "GNB",
+    "country": "Guinea-Bissau",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.4957265,
+    "source": "FAO Aquastat",
+    "country_code": "GNB"
+  },
+  {
+    "iso": "GUY",
+    "country": "Guyana",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.29840183,
+    "source": "FAO Aquastat",
+    "country_code": "GUY"
+  },
+  {
+    "iso": "HTI",
+    "country": "Haiti",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 13.3837918,
+    "source": "FAO Aquastat",
+    "country_code": "HTI"
+  },
+  {
+    "iso": "HND",
+    "country": "Honduras",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.62126876,
+    "source": "FAO Aquastat",
+    "country_code": "HND"
+  },
+  {
+    "iso": "HUN",
+    "country": "Hungary",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.0701209,
+    "source": "FAO Aquastat",
+    "country_code": "HUN"
+  },
+  {
+    "iso": "ISL",
+    "country": "Iceland",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.39407528,
+    "source": "FAO Aquastat",
+    "country_code": "ISL"
+  },
+  {
+    "iso": "IND",
+    "country": "India",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 66.4920928,
+    "source": "FAO Aquastat",
+    "country_code": "IND"
+  },
+  {
+    "iso": "IDN",
+    "country": "Indonesia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 29.6965453,
+    "source": "FAO Aquastat",
+    "country_code": "IDN"
+  },
+  {
+    "iso": "IRN",
+    "country": "Iran (Islamic Republic of)",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 81.2890813,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "IRQ",
+    "country": "Iraq",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 79.5140449,
+    "source": "FAO Aquastat",
+    "country_code": "IRQ"
+  },
+  {
+    "iso": "IRL",
+    "country": "Ireland",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 21.6404494,
+    "source": "FAO Aquastat",
+    "country_code": "IRL"
+  },
+  {
+    "iso": "ISR",
+    "country": "Israel",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 110.085411,
+    "source": "FAO Aquastat",
+    "country_code": "ISR"
+  },
+  {
+    "iso": "ITA",
+    "country": "Italy",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 29.6457838,
+    "source": "FAO Aquastat",
+    "country_code": "ITA"
+  },
+  {
+    "iso": "JAM",
+    "country": "Jamaica",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 12.4734362,
+    "source": "FAO Aquastat",
+    "country_code": "JAM"
+  },
+  {
+    "iso": "JPN",
+    "country": "Japan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 36.045977,
+    "source": "FAO Aquastat",
+    "country_code": "JPN"
+  },
+  {
+    "iso": "JOR",
+    "country": "Jordan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 104.31277,
+    "source": "FAO Aquastat",
+    "country_code": "JOR"
+  },
+  {
+    "iso": "KAZ",
+    "country": "Kazakhstan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 34.0984743,
+    "source": "FAO Aquastat",
+    "country_code": "KAZ"
+  },
+  {
+    "iso": "KEN",
+    "country": "Kenya",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 33.2399011,
+    "source": "FAO Aquastat",
+    "country_code": "KEN"
+  },
+  {
+    "iso": "KWT",
+    "country": "Kuwait",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3850.5,
+    "source": "FAO Aquastat",
+    "country_code": "KWT"
+  },
+  {
+    "iso": "KGZ",
+    "country": "Kyrgyzstan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 50.038956,
+    "source": "FAO Aquastat",
+    "country_code": "KGZ"
+  },
+  {
+    "iso": "LAO",
+    "country": "Lao People's Democratic Republic",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.79139505,
+    "source": "FAO Aquastat",
+    "country_code": "LAO"
+  },
+  {
+    "iso": "LVA",
+    "country": "Latvia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.06783147,
+    "source": "FAO Aquastat",
+    "country_code": "LVA"
+  },
+  {
+    "iso": "LBN",
+    "country": "Lebanon",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 58.7929916,
+    "source": "FAO Aquastat",
+    "country_code": "LBN"
+  },
+  {
+    "iso": "LSO",
+    "country": "Lesotho",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.5659051,
+    "source": "FAO Aquastat",
+    "country_code": "LSO"
+  },
+  {
+    "iso": "LBR",
+    "country": "Liberia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.26431159,
+    "source": "FAO Aquastat",
+    "country_code": "LBR"
+  },
+  {
+    "iso": "LBY",
+    "country": "Libya",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 817.142857,
+    "source": "FAO Aquastat",
+    "country_code": "LBY"
+  },
+  {
+    "iso": "LTU",
+    "country": "Lithuania",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.83410238,
+    "source": "FAO Aquastat",
+    "country_code": "LTU"
+  },
+  {
+    "iso": "LUX",
+    "country": "Luxembourg",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.96351575,
+    "source": "FAO Aquastat",
+    "country_code": "LUX"
+  },
+  {
+    "iso": "MDG",
+    "country": "Madagascar",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 11.2615063,
+    "source": "FAO Aquastat",
+    "country_code": "MDG"
+  },
+  {
+    "iso": "MWI",
+    "country": "Malawi",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 17.5048381,
+    "source": "FAO Aquastat",
+    "country_code": "MWI"
+  },
+  {
+    "iso": "MYS",
+    "country": "Malaysia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.43948718,
+    "source": "FAO Aquastat",
+    "country_code": "MYS"
+  },
+  {
+    "iso": "MDV",
+    "country": "Maldives",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 15.6666667,
+    "source": "FAO Aquastat",
+    "country_code": "MDV"
+  },
+  {
+    "iso": "MLI",
+    "country": "Mali",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.00308642,
+    "source": "FAO Aquastat",
+    "country_code": "MLI"
+  },
+  {
+    "iso": "MLT",
+    "country": "Malta",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 81.8599396,
+    "source": "FAO Aquastat",
+    "country_code": "MLT"
+  },
+  {
+    "iso": "MRT",
+    "country": "Mauritania",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 13.2462173,
+    "source": "FAO Aquastat",
+    "country_code": "MRT"
+  },
+  {
+    "iso": "MUS",
+    "country": "Mauritius",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 22.0647037,
+    "source": "FAO Aquastat",
+    "country_code": "MUS"
+  },
+  {
+    "iso": "MEX",
+    "country": "Mexico",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 44.8170243,
+    "source": "FAO Aquastat",
+    "country_code": "MEX"
+  },
+  {
+    "iso": "MNG",
+    "country": "Mongolia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.39500734,
+    "source": "FAO Aquastat",
+    "country_code": "MNG"
+  },
+  {
+    "iso": "MAR",
+    "country": "Morocco",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 50.751212,
+    "source": "FAO Aquastat",
+    "country_code": "MAR"
+  },
+  {
+    "iso": "MOZ",
+    "country": "Mozambique",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.75148633,
+    "source": "FAO Aquastat",
+    "country_code": "MOZ"
+  },
+  {
+    "iso": "MMR",
+    "country": "Myanmar",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.8015014,
+    "source": "FAO Aquastat",
+    "country_code": "MMR"
+  },
+  {
+    "iso": "NAM",
+    "country": "Namibia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.86155257,
+    "source": "FAO Aquastat",
+    "country_code": "NAM"
+  },
+  {
+    "iso": "NPL",
+    "country": "Nepal",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.31183266,
+    "source": "FAO Aquastat",
+    "country_code": "NPL"
+  },
+  {
+    "iso": "NLD",
+    "country": "Netherlands (Kingdom of the)",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 16.8035606,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "NZL",
+    "country": "New Zealand",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 8.04808476,
+    "source": "FAO Aquastat",
+    "country_code": "NZL"
+  },
+  {
+    "iso": "NIC",
+    "country": "Nicaragua",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.22090021,
+    "source": "FAO Aquastat",
+    "country_code": "NIC"
+  },
+  {
+    "iso": "NER",
+    "country": "Niger",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 11.0209377,
+    "source": "FAO Aquastat",
+    "country_code": "NER"
+  },
+  {
+    "iso": "NGA",
+    "country": "Nigeria",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 9.66821705,
+    "source": "FAO Aquastat",
+    "country_code": "NGA"
+  },
+  {
+    "iso": "MKD",
+    "country": "North Macedonia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 38.7023233,
+    "source": "FAO Aquastat",
+    "country_code": "MKD"
+  },
+  {
+    "iso": "NOR",
+    "country": "Norway",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.04646388,
+    "source": "FAO Aquastat",
+    "country_code": "NOR"
+  },
+  {
+    "iso": "OMN",
+    "country": "Oman",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 116.714286,
+    "source": "FAO Aquastat",
+    "country_code": "OMN"
+  },
+  {
+    "iso": "PAK",
+    "country": "Pakistan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 116.305748,
+    "source": "FAO Aquastat",
+    "country_code": "PAK"
+  },
+  {
+    "iso": "PSE",
+    "country": "Palestine",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 50.2638711,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "PAN",
+    "country": "Panama",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.90107111,
+    "source": "FAO Aquastat",
+    "country_code": "PAN"
+  },
+  {
+    "iso": "PNG",
+    "country": "Papua New Guinea",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.13224283,
+    "source": "FAO Aquastat",
+    "country_code": "PNG"
+  },
+  {
+    "iso": "PRY",
+    "country": "Paraguay",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.83539971,
+    "source": "FAO Aquastat",
+    "country_code": "PRY"
+  },
+  {
+    "iso": "PER",
+    "country": "Peru",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 7.1814456,
+    "source": "FAO Aquastat",
+    "country_code": "PER"
+  },
+  {
+    "iso": "PHL",
+    "country": "Philippines",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 26.2510385,
+    "source": "FAO Aquastat",
+    "country_code": "PHL"
+  },
+  {
+    "iso": "POL",
+    "country": "Poland",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 30,
+    "source": "FAO Aquastat",
+    "country_code": "POL"
+  },
+  {
+    "iso": "PRT",
+    "country": "Portugal",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 12.3157123,
+    "source": "FAO Aquastat",
+    "country_code": "PRT"
+  },
+  {
+    "iso": "PRI",
+    "country": "Puerto Rico",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 19.5356106,
+    "source": "FAO Aquastat",
+    "country_code": "PRI"
+  },
+  {
+    "iso": "QAT",
+    "country": "Qatar",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 431.034483,
+    "source": "FAO Aquastat",
+    "country_code": "QAT"
+  },
+  {
+    "iso": "KOR",
+    "country": "Republic of Korea",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 85.221833,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "MDA",
+    "country": "Republic of Moldova",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 12.5631126,
+    "source": "FAO Aquastat",
+    "country_code": "MDA"
+  },
+  {
+    "iso": "ROU",
+    "country": "Romania",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.00692819,
+    "source": "FAO Aquastat",
+    "country_code": "ROU"
+  },
+  {
+    "iso": "RUS",
+    "country": "Russian Federation",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.12224275,
+    "source": "FAO Aquastat",
+    "country_code": "RUS"
+  },
+  {
+    "iso": "RWA",
+    "country": "Rwanda",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 20.1986755,
+    "source": "FAO Aquastat",
+    "country_code": "RWA"
+  },
+  {
+    "iso": "KNA",
+    "country": "Saint Kitts and Nevis",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 50.8333333,
+    "source": "FAO Aquastat",
+    "country_code": "KNA"
+  },
+  {
+    "iso": "LCA",
+    "country": "Saint Lucia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 14.3,
+    "source": "FAO Aquastat",
+    "country_code": "LCA"
+  },
+  {
+    "iso": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 7.9,
+    "source": "FAO Aquastat",
+    "country_code": "VCT"
+  },
+  {
+    "iso": "STP",
+    "country": "Sao Tome and Principe",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1.87614679,
+    "source": "FAO Aquastat",
+    "country_code": "STP"
+  },
+  {
+    "iso": "SAU",
+    "country": "Saudi Arabia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 974.166667,
+    "source": "FAO Aquastat",
+    "country_code": "SAU"
+  },
+  {
+    "iso": "SEN",
+    "country": "Senegal",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 16.2764487,
+    "source": "FAO Aquastat",
+    "country_code": "SEN"
+  },
+  {
+    "iso": "SRB",
+    "country": "Serbia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.00078891,
+    "source": "FAO Aquastat",
+    "country_code": "SRB"
+  },
+  {
+    "iso": "SLE",
+    "country": "Sierra Leone",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 0.49579439,
+    "source": "FAO Aquastat",
+    "country_code": "SLE"
+  },
+  {
+    "iso": "SGP",
+    "country": "Singapore",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 83.1166667,
+    "source": "FAO Aquastat",
+    "country_code": "SGP"
+  },
+  {
+    "iso": "SVK",
+    "country": "Slovakia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.38812392,
+    "source": "FAO Aquastat",
+    "country_code": "SVK"
+  },
+  {
+    "iso": "SVN",
+    "country": "Slovenia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.7816092,
+    "source": "FAO Aquastat",
+    "country_code": "SVN"
+  },
+  {
+    "iso": "SOM",
+    "country": "Somalia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 24.5277406,
+    "source": "FAO Aquastat",
+    "country_code": "SOM"
+  },
+  {
+    "iso": "ZAF",
+    "country": "South Africa",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 65.0336215,
+    "source": "FAO Aquastat",
+    "country_code": "ZAF"
+  },
+  {
+    "iso": "SSD",
+    "country": "South Sudan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 4.22607579,
+    "source": "FAO Aquastat",
+    "country_code": "SSD"
+  },
+  {
+    "iso": "ESP",
+    "country": "Spain",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 43.2540392,
+    "source": "FAO Aquastat",
+    "country_code": "ESP"
+  },
+  {
+    "iso": "LKA",
+    "country": "Sri Lanka",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 90.7854137,
+    "source": "FAO Aquastat",
+    "country_code": "LKA"
+  },
+  {
+    "iso": "SDN",
+    "country": "Sudan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 118.656388,
+    "source": "FAO Aquastat",
+    "country_code": "SDN"
+  },
+  {
+    "iso": "SUR",
+    "country": "Suriname",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.95060937,
+    "source": "FAO Aquastat",
+    "country_code": "SUR"
+  },
+  {
+    "iso": "SWE",
+    "country": "Sweden",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.58297258,
+    "source": "FAO Aquastat",
+    "country_code": "SWE"
+  },
+  {
+    "iso": "CHE",
+    "country": "Switzerland",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 6.49885584,
+    "source": "FAO Aquastat",
+    "country_code": "CHE"
+  },
+  {
+    "iso": "SYR",
+    "country": "Syrian Arab Republic",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 124.360139,
+    "source": "FAO Aquastat",
+    "country_code": "SYR"
+  },
+  {
+    "iso": "TJK",
+    "country": "Tajikistan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 69.9432643,
+    "source": "FAO Aquastat",
+    "country_code": "TJK"
+  },
+  {
+    "iso": "THA",
+    "country": "Thailand",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 23.0139352,
+    "source": "FAO Aquastat",
+    "country_code": "THA"
+  },
+  {
+    "iso": "TLS",
+    "country": "Timor-Leste",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 28.2682103,
+    "source": "FAO Aquastat",
+    "country_code": "TLS"
+  },
+  {
+    "iso": "TGO",
+    "country": "Togo",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 3.39163498,
+    "source": "FAO Aquastat",
+    "country_code": "TGO"
+  },
+  {
+    "iso": "TTO",
+    "country": "Trinidad and Tobago",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 20.3264813,
+    "source": "FAO Aquastat",
+    "country_code": "TTO"
+  },
+  {
+    "iso": "TUN",
+    "country": "Tunisia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 98.1133992,
+    "source": "FAO Aquastat",
+    "country_code": "TUN"
+  },
+  {
+    "iso": "TUR",
+    "country": "Türkiye",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 45.7056971,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "TKM",
+    "country": "Turkmenistan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 135.213807,
+    "source": "FAO Aquastat",
+    "country_code": "TKM"
+  },
+  {
+    "iso": "UGA",
+    "country": "Uganda",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 5.82799634,
+    "source": "FAO Aquastat",
+    "country_code": "UGA"
+  },
+  {
+    "iso": "UKR",
+    "country": "Ukraine",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 12.2557657,
+    "source": "FAO Aquastat",
+    "country_code": "UKR"
+  },
+  {
+    "iso": "ARE",
+    "country": "United Arab Emirates",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 1587.33333,
+    "source": "FAO Aquastat",
+    "country_code": "ARE"
+  },
+  {
+    "iso": "GBR",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 14.3546462,
+    "source": "FAO Aquastat",
+    "country_code": "GBR"
+  },
+  {
+    "iso": "TZA",
+    "country": "United Republic of Tanzania",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 12.9632408,
+    "source": "FAO Aquastat",
+    "country_code": "TZA"
+  },
+  {
+    "iso": "USA",
+    "country": "United States of America",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 28.1619843,
+    "source": "FAO Aquastat",
+    "country_code": "USA"
+  },
+  {
+    "iso": "URY",
+    "country": "Uruguay",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 9.78609626,
+    "source": "FAO Aquastat",
+    "country_code": "URY"
+  },
+  {
+    "iso": "UZB",
+    "country": "Uzbekistan",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 168.924577,
+    "source": "FAO Aquastat",
+    "country_code": "UZB"
+  },
+  {
+    "iso": "VEN",
+    "country": "Venezuela (Bolivarian Republic of)",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 7.54036667,
+    "source": "FAO Aquastat",
+    "country_code": "NOT_FOUND"
+  },
+  {
+    "iso": "VNM",
+    "country": "Viet Nam",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 18.1303154,
+    "source": "FAO Aquastat",
+    "country_code": "VNM"
+  },
+  {
+    "iso": "YEM",
+    "country": "Yemen",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 169.761905,
+    "source": "FAO Aquastat",
+    "country_code": "YEM"
+  },
+  {
+    "iso": "ZMB",
+    "country": "Zambia",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 2.83549784,
+    "source": "FAO Aquastat",
+    "country_code": "ZMB"
+  },
+  {
+    "iso": "ZWE",
+    "country": "Zimbabwe",
+    "variable": "SDG 6.4.2. Water Stress (%)",
+    "water_stress": 35.4053854,
+    "source": "FAO Aquastat",
+    "country_code": "ZWE"
+  }
+]

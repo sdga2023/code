@@ -1,0 +1,4382 @@
+[
+  {
+    "iso3c": "HIC",
+    "year": 2020,
+    "percap_waste": 578
+  },
+  {
+    "iso3c": "UMC",
+    "year": 2020,
+    "percap_waste": 335
+  },
+  {
+    "iso3c": "LMC",
+    "year": 2020,
+    "percap_waste": 172
+  },
+  {
+    "iso3c": "LIC",
+    "year": 2020,
+    "percap_waste": 148
+  },
+  {
+    "iso3c": "unclassified",
+    "year": 2020,
+    "percap_waste": 349
+  },
+  {
+    "iso3c": "HIC",
+    "year": 2030,
+    "percap_waste": 614
+  },
+  {
+    "iso3c": "UMC",
+    "year": 2030,
+    "percap_waste": 416
+  },
+  {
+    "iso3c": "LMC",
+    "year": 2030,
+    "percap_waste": 208
+  },
+  {
+    "iso3c": "LIC",
+    "year": 2030,
+    "percap_waste": 165
+  },
+  {
+    "iso3c": "unclassified",
+    "year": 2030,
+    "percap_waste": 407
+  },
+  {
+    "iso3c": "HIC",
+    "year": 2040,
+    "percap_waste": 640
+  },
+  {
+    "iso3c": "UMC",
+    "year": 2040,
+    "percap_waste": 479
+  },
+  {
+    "iso3c": "LMC",
+    "year": 2040,
+    "percap_waste": 249
+  },
+  {
+    "iso3c": "LIC",
+    "year": 2040,
+    "percap_waste": 189
+  },
+  {
+    "iso3c": "unclassified",
+    "year": 2040,
+    "percap_waste": 467
+  },
+  {
+    "iso3c": "HIC",
+    "year": 2050,
+    "percap_waste": 658
+  },
+  {
+    "iso3c": "UMC",
+    "year": 2050,
+    "percap_waste": 531
+  },
+  {
+    "iso3c": "LMC",
+    "year": 2050,
+    "percap_waste": 297
+  },
+  {
+    "iso3c": "LIC",
+    "year": 2050,
+    "percap_waste": 225
+  },
+  {
+    "iso3c": "unclassified",
+    "year": 2050,
+    "percap_waste": 532
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2020,
+    "percap_waste": 1434
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2030,
+    "percap_waste": 1600
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2040,
+    "percap_waste": 1743
+  },
+  {
+    "iso3c": "VIR",
+    "year": 2050,
+    "percap_waste": 1867
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2020,
+    "percap_waste": 1325
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2030,
+    "percap_waste": 1404
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2040,
+    "percap_waste": 1467
+  },
+  {
+    "iso3c": "FRO",
+    "year": 2050,
+    "percap_waste": 1502
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2020,
+    "percap_waste": 1301
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2030,
+    "percap_waste": 1379
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2040,
+    "percap_waste": 1441
+  },
+  {
+    "iso3c": "MCO",
+    "year": 2050,
+    "percap_waste": 1476
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2020,
+    "percap_waste": 1288
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2030,
+    "percap_waste": 1726
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2040,
+    "percap_waste": 2212
+  },
+  {
+    "iso3c": "MDA",
+    "year": 2050,
+    "percap_waste": 2609
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2020,
+    "percap_waste": 1266
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2030,
+    "percap_waste": 1247
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2040,
+    "percap_waste": 1198
+  },
+  {
+    "iso3c": "BMU",
+    "year": 2050,
+    "percap_waste": 1129
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2020,
+    "percap_waste": 1220
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2030,
+    "percap_waste": 1355
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2040,
+    "percap_waste": 1477
+  },
+  {
+    "iso3c": "PRI",
+    "year": 2050,
+    "percap_waste": 1573
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2020,
+    "percap_waste": 1202
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2030,
+    "percap_waste": 1341
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2040,
+    "percap_waste": 1461
+  },
+  {
+    "iso3c": "VGB",
+    "year": 2050,
+    "percap_waste": 1565
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2020,
+    "percap_waste": 1061
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2030,
+    "percap_waste": 1430
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2040,
+    "percap_waste": 1791
+  },
+  {
+    "iso3c": "MNG",
+    "year": 2050,
+    "percap_waste": 2079
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2020,
+    "percap_waste": 1040
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2030,
+    "percap_waste": 1035
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2040,
+    "percap_waste": 952
+  },
+  {
+    "iso3c": "CYM",
+    "year": 2050,
+    "percap_waste": 774
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2020,
+    "percap_waste": 937
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2030,
+    "percap_waste": 992
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2040,
+    "percap_waste": 1037
+  },
+  {
+    "iso3c": "GRL",
+    "year": 2050,
+    "percap_waste": 1062
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2020,
+    "percap_waste": 927
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2030,
+    "percap_waste": 982
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2040,
+    "percap_waste": 1026
+  },
+  {
+    "iso3c": "LIE",
+    "year": 2050,
+    "percap_waste": 1051
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2020,
+    "percap_waste": 923
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2030,
+    "percap_waste": 1017
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2040,
+    "percap_waste": 1089
+  },
+  {
+    "iso3c": "ABW",
+    "year": 2050,
+    "percap_waste": 1137
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2020,
+    "percap_waste": 894
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2030,
+    "percap_waste": 928
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2040,
+    "percap_waste": 943
+  },
+  {
+    "iso3c": "GUM",
+    "year": 2050,
+    "percap_waste": 945
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2020,
+    "percap_waste": 847
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2030,
+    "percap_waste": 873
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2040,
+    "percap_waste": 897
+  },
+  {
+    "iso3c": "DNK",
+    "year": 2050,
+    "percap_waste": 909
+  },
+  {
+    "iso3c": "USA",
+    "year": 2020,
+    "percap_waste": 822
+  },
+  {
+    "iso3c": "USA",
+    "year": 2030,
+    "percap_waste": 848
+  },
+  {
+    "iso3c": "USA",
+    "year": 2040,
+    "percap_waste": 857
+  },
+  {
+    "iso3c": "USA",
+    "year": 2050,
+    "percap_waste": 857
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2020,
+    "percap_waste": 797
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2030,
+    "percap_waste": 831
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2040,
+    "percap_waste": 841
+  },
+  {
+    "iso3c": "HKG",
+    "year": 2050,
+    "percap_waste": 834
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2020,
+    "percap_waste": 785
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2030,
+    "percap_waste": 711
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2040,
+    "percap_waste": 648
+  },
+  {
+    "iso3c": "LUX",
+    "year": 2050,
+    "percap_waste": 588
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2020,
+    "percap_waste": 779
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2030,
+    "percap_waste": 789
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2040,
+    "percap_waste": 798
+  },
+  {
+    "iso3c": "NOR",
+    "year": 2050,
+    "percap_waste": 804
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2020,
+    "percap_waste": 746
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2030,
+    "percap_waste": 785
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2040,
+    "percap_waste": 829
+  },
+  {
+    "iso3c": "NZL",
+    "year": 2050,
+    "percap_waste": 875
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2020,
+    "percap_waste": 719
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2030,
+    "percap_waste": 751
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2040,
+    "percap_waste": 782
+  },
+  {
+    "iso3c": "CAN",
+    "year": 2050,
+    "percap_waste": 804
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2020,
+    "percap_waste": 711
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2030,
+    "percap_waste": 724
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2040,
+    "percap_waste": 724
+  },
+  {
+    "iso3c": "CHE",
+    "year": 2050,
+    "percap_waste": 697
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2020,
+    "percap_waste": 705
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2030,
+    "percap_waste": 745
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2040,
+    "percap_waste": 781
+  },
+  {
+    "iso3c": "BHS",
+    "year": 2050,
+    "percap_waste": 817
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2020,
+    "percap_waste": 700
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2030,
+    "percap_waste": 770
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2040,
+    "percap_waste": 824
+  },
+  {
+    "iso3c": "MLT",
+    "year": 2050,
+    "percap_waste": 844
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2020,
+    "percap_waste": 673
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2030,
+    "percap_waste": 732
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2040,
+    "percap_waste": 783
+  },
+  {
+    "iso3c": "ISR",
+    "year": 2050,
+    "percap_waste": 820
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2020,
+    "percap_waste": 665
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2030,
+    "percap_waste": 705
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2040,
+    "percap_waste": 737
+  },
+  {
+    "iso3c": "IMN",
+    "year": 2050,
+    "percap_waste": 755
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2020,
+    "percap_waste": 661
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2030,
+    "percap_waste": 698
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2040,
+    "percap_waste": 718
+  },
+  {
+    "iso3c": "ISL",
+    "year": 2050,
+    "percap_waste": 708
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2020,
+    "percap_waste": 652
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2030,
+    "percap_waste": 723
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2040,
+    "percap_waste": 765
+  },
+  {
+    "iso3c": "BHR",
+    "year": 2050,
+    "percap_waste": 777
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2020,
+    "percap_waste": 641
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2030,
+    "percap_waste": 672
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2040,
+    "percap_waste": 713
+  },
+  {
+    "iso3c": "CYP",
+    "year": 2050,
+    "percap_waste": 751
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2020,
+    "percap_waste": 632
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2030,
+    "percap_waste": 687
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2040,
+    "percap_waste": 749
+  },
+  {
+    "iso3c": "BRB",
+    "year": 2050,
+    "percap_waste": 820
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2020,
+    "percap_waste": 626
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2030,
+    "percap_waste": 701
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2040,
+    "percap_waste": 770
+  },
+  {
+    "iso3c": "KNA",
+    "year": 2050,
+    "percap_waste": 833
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2020,
+    "percap_waste": 625
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2030,
+    "percap_waste": 717
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2040,
+    "percap_waste": 798
+  },
+  {
+    "iso3c": "SYC",
+    "year": 2050,
+    "percap_waste": 867
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2020,
+    "percap_waste": 613
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2030,
+    "percap_waste": 636
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2040,
+    "percap_waste": 659
+  },
+  {
+    "iso3c": "DEU",
+    "year": 2050,
+    "percap_waste": 673
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2020,
+    "percap_waste": 607
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2030,
+    "percap_waste": 630
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2040,
+    "percap_waste": 640
+  },
+  {
+    "iso3c": "MNP",
+    "year": 2050,
+    "percap_waste": 641
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2020,
+    "percap_waste": 596
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2030,
+    "percap_waste": 578
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2040,
+    "percap_waste": 536
+  },
+  {
+    "iso3c": "IRL",
+    "year": 2050,
+    "percap_waste": 474
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2020,
+    "percap_waste": 592
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2030,
+    "percap_waste": 616
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2040,
+    "percap_waste": 634
+  },
+  {
+    "iso3c": "AUT",
+    "year": 2050,
+    "percap_waste": 641
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2020,
+    "percap_waste": 577
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2030,
+    "percap_waste": 591
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2040,
+    "percap_waste": 586
+  },
+  {
+    "iso3c": "ARE",
+    "year": 2050,
+    "percap_waste": 572
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2020,
+    "percap_waste": 575
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2030,
+    "percap_waste": 606
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2040,
+    "percap_waste": 627
+  },
+  {
+    "iso3c": "AUS",
+    "year": 2050,
+    "percap_waste": 642
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2020,
+    "percap_waste": 570
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2030,
+    "percap_waste": 598
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2040,
+    "percap_waste": 627
+  },
+  {
+    "iso3c": "FIN",
+    "year": 2050,
+    "percap_waste": 646
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2020,
+    "percap_waste": 563
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2030,
+    "percap_waste": 505
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2040,
+    "percap_waste": 445
+  },
+  {
+    "iso3c": "MAC",
+    "year": 2050,
+    "percap_waste": 396
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2020,
+    "percap_waste": 560
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2030,
+    "percap_waste": 647
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2040,
+    "percap_waste": 752
+  },
+  {
+    "iso3c": "MDV",
+    "year": 2050,
+    "percap_waste": 852
+  },
+  {
+    "iso3c": "AND",
+    "year": 2020,
+    "percap_waste": 558
+  },
+  {
+    "iso3c": "AND",
+    "year": 2030,
+    "percap_waste": 591
+  },
+  {
+    "iso3c": "AND",
+    "year": 2040,
+    "percap_waste": 617
+  },
+  {
+    "iso3c": "AND",
+    "year": 2050,
+    "percap_waste": 632
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2020,
+    "percap_waste": 552
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2030,
+    "percap_waste": 658
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2040,
+    "percap_waste": 745
+  },
+  {
+    "iso3c": "MNE",
+    "year": 2050,
+    "percap_waste": 812
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2020,
+    "percap_waste": 551
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2030,
+    "percap_waste": 589
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2040,
+    "percap_waste": 615
+  },
+  {
+    "iso3c": "KWT",
+    "year": 2050,
+    "percap_waste": 623
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2020,
+    "percap_waste": 550
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2030,
+    "percap_waste": 581
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2040,
+    "percap_waste": 611
+  },
+  {
+    "iso3c": "FRA",
+    "year": 2050,
+    "percap_waste": 635
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2020,
+    "percap_waste": 539
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2030,
+    "percap_waste": 571
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2040,
+    "percap_waste": 597
+  },
+  {
+    "iso3c": "GIB",
+    "year": 2050,
+    "percap_waste": 611
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2020,
+    "percap_waste": 538
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2030,
+    "percap_waste": 558
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2040,
+    "percap_waste": 567
+  },
+  {
+    "iso3c": "PYF",
+    "year": 2050,
+    "percap_waste": 568
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2020,
+    "percap_waste": 525
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2030,
+    "percap_waste": 585
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2040,
+    "percap_waste": 643
+  },
+  {
+    "iso3c": "GRC",
+    "year": 2050,
+    "percap_waste": 695
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2020,
+    "percap_waste": 525
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2030,
+    "percap_waste": 546
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2040,
+    "percap_waste": 554
+  },
+  {
+    "iso3c": "SMR",
+    "year": 2050,
+    "percap_waste": 541
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2020,
+    "percap_waste": 524
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2030,
+    "percap_waste": 591
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2040,
+    "percap_waste": 648
+  },
+  {
+    "iso3c": "TTO",
+    "year": 2050,
+    "percap_waste": 690
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2020,
+    "percap_waste": 518
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2030,
+    "percap_waste": 578
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2040,
+    "percap_waste": 630
+  },
+  {
+    "iso3c": "MAF",
+    "year": 2050,
+    "percap_waste": 675
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2020,
+    "percap_waste": 517
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2030,
+    "percap_waste": 535
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2040,
+    "percap_waste": 541
+  },
+  {
+    "iso3c": "BRN",
+    "year": 2050,
+    "percap_waste": 534
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2020,
+    "percap_waste": 515
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2030,
+    "percap_waste": 560
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2040,
+    "percap_waste": 602
+  },
+  {
+    "iso3c": "PRT",
+    "year": 2050,
+    "percap_waste": 643
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2020,
+    "percap_waste": 510
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2030,
+    "percap_waste": 530
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2040,
+    "percap_waste": 546
+  },
+  {
+    "iso3c": "NLD",
+    "year": 2050,
+    "percap_waste": 550
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2020,
+    "percap_waste": 508
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2030,
+    "percap_waste": 552
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2040,
+    "percap_waste": 595
+  },
+  {
+    "iso3c": "SVN",
+    "year": 2050,
+    "percap_waste": 625
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2020,
+    "percap_waste": 507
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2030,
+    "percap_waste": 549
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2040,
+    "percap_waste": 572
+  },
+  {
+    "iso3c": "SAU",
+    "year": 2050,
+    "percap_waste": 584
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2020,
+    "percap_waste": 507
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2030,
+    "percap_waste": 572
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2040,
+    "percap_waste": 616
+  },
+  {
+    "iso3c": "CZE",
+    "year": 2050,
+    "percap_waste": 629
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2020,
+    "percap_waste": 501
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2030,
+    "percap_waste": 530
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2040,
+    "percap_waste": 558
+  },
+  {
+    "iso3c": "ITA",
+    "year": 2050,
+    "percap_waste": 587
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2020,
+    "percap_waste": 491
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2030,
+    "percap_waste": 588
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2040,
+    "percap_waste": 689
+  },
+  {
+    "iso3c": "NRU",
+    "year": 2050,
+    "percap_waste": 801
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2020,
+    "percap_waste": 481
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2030,
+    "percap_waste": 536
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2040,
+    "percap_waste": 582
+  },
+  {
+    "iso3c": "LTU",
+    "year": 2050,
+    "percap_waste": 609
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2020,
+    "percap_waste": 481
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2030,
+    "percap_waste": 562
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2040,
+    "percap_waste": 635
+  },
+  {
+    "iso3c": "MYS",
+    "year": 2050,
+    "percap_waste": 690
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2020,
+    "percap_waste": 478
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2030,
+    "percap_waste": 455
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2040,
+    "percap_waste": 456
+  },
+  {
+    "iso3c": "QAT",
+    "year": 2050,
+    "percap_waste": 452
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2020,
+    "percap_waste": 477
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2030,
+    "percap_waste": 499
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2040,
+    "percap_waste": 523
+  },
+  {
+    "iso3c": "ESP",
+    "year": 2050,
+    "percap_waste": 545
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2020,
+    "percap_waste": 473
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2030,
+    "percap_waste": 567
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2040,
+    "percap_waste": 649
+  },
+  {
+    "iso3c": "BLR",
+    "year": 2050,
+    "percap_waste": 709
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2020,
+    "percap_waste": 468
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2030,
+    "percap_waste": 496
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2040,
+    "percap_waste": 519
+  },
+  {
+    "iso3c": "GBR",
+    "year": 2050,
+    "percap_waste": 537
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2020,
+    "percap_waste": 468
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2030,
+    "percap_waste": 542
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2040,
+    "percap_waste": 621
+  },
+  {
+    "iso3c": "LCA",
+    "year": 2050,
+    "percap_waste": 710
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2020,
+    "percap_waste": 465
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2030,
+    "percap_waste": 537
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2040,
+    "percap_waste": 598
+  },
+  {
+    "iso3c": "LBY",
+    "year": 2050,
+    "percap_waste": 643
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2020,
+    "percap_waste": 452
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2030,
+    "percap_waste": 475
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2040,
+    "percap_waste": 492
+  },
+  {
+    "iso3c": "SWE",
+    "year": 2050,
+    "percap_waste": 501
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2020,
+    "percap_waste": 449
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2030,
+    "percap_waste": 522
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2040,
+    "percap_waste": 574
+  },
+  {
+    "iso3c": "LVA",
+    "year": 2050,
+    "percap_waste": 609
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2020,
+    "percap_waste": 449
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2030,
+    "percap_waste": 494
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2040,
+    "percap_waste": 538
+  },
+  {
+    "iso3c": "HRV",
+    "year": 2050,
+    "percap_waste": 573
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2020,
+    "percap_waste": 445
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2030,
+    "percap_waste": 516
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2040,
+    "percap_waste": 577
+  },
+  {
+    "iso3c": "CHL",
+    "year": 2050,
+    "percap_waste": 634
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2020,
+    "percap_waste": 437
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2030,
+    "percap_waste": 521
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2040,
+    "percap_waste": 584
+  },
+  {
+    "iso3c": "RUS",
+    "year": 2050,
+    "percap_waste": 618
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2020,
+    "percap_waste": 434
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2030,
+    "percap_waste": 469
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2040,
+    "percap_waste": 502
+  },
+  {
+    "iso3c": "PLW",
+    "year": 2050,
+    "percap_waste": 535
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2020,
+    "percap_waste": 433
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2030,
+    "percap_waste": 501
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2040,
+    "percap_waste": 569
+  },
+  {
+    "iso3c": "DOM",
+    "year": 2050,
+    "percap_waste": 639
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2020,
+    "percap_waste": 432
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2030,
+    "percap_waste": 489
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2040,
+    "percap_waste": 550
+  },
+  {
+    "iso3c": "MEX",
+    "year": 2050,
+    "percap_waste": 616
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2020,
+    "percap_waste": 432
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2030,
+    "percap_waste": 496
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2040,
+    "percap_waste": 551
+  },
+  {
+    "iso3c": "TUR",
+    "year": 2050,
+    "percap_waste": 599
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2020,
+    "percap_waste": 428
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2030,
+    "percap_waste": 486
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2040,
+    "percap_waste": 538
+  },
+  {
+    "iso3c": "SVK",
+    "year": 2050,
+    "percap_waste": 573
+  },
+  {
+    "iso3c": "THA",
+    "year": 2020,
+    "percap_waste": 427
+  },
+  {
+    "iso3c": "THA",
+    "year": 2030,
+    "percap_waste": 538
+  },
+  {
+    "iso3c": "THA",
+    "year": 2040,
+    "percap_waste": 645
+  },
+  {
+    "iso3c": "THA",
+    "year": 2050,
+    "percap_waste": 737
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2020,
+    "percap_waste": 426
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2030,
+    "percap_waste": 524
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2040,
+    "percap_waste": 602
+  },
+  {
+    "iso3c": "BGR",
+    "year": 2050,
+    "percap_waste": 654
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2020,
+    "percap_waste": 417
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2030,
+    "percap_waste": 440
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2040,
+    "percap_waste": 459
+  },
+  {
+    "iso3c": "BEL",
+    "year": 2050,
+    "percap_waste": 466
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2020,
+    "percap_waste": 417
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2030,
+    "percap_waste": 460
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2040,
+    "percap_waste": 501
+  },
+  {
+    "iso3c": "OMN",
+    "year": 2050,
+    "percap_waste": 531
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2020,
+    "percap_waste": 409
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2030,
+    "percap_waste": 475
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2040,
+    "percap_waste": 534
+  },
+  {
+    "iso3c": "ARG",
+    "year": 2050,
+    "percap_waste": 586
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2020,
+    "percap_waste": 407
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2030,
+    "percap_waste": 458
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2040,
+    "percap_waste": 484
+  },
+  {
+    "iso3c": "KOR",
+    "year": 2050,
+    "percap_waste": 491
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2020,
+    "percap_waste": 404
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2030,
+    "percap_waste": 478
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2040,
+    "percap_waste": 529
+  },
+  {
+    "iso3c": "PAN",
+    "year": 2050,
+    "percap_waste": 560
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2020,
+    "percap_waste": 398
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2030,
+    "percap_waste": 413
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2040,
+    "percap_waste": 419
+  },
+  {
+    "iso3c": "NCL",
+    "year": 2050,
+    "percap_waste": 420
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2020,
+    "percap_waste": 390
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2030,
+    "percap_waste": 441
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2040,
+    "percap_waste": 490
+  },
+  {
+    "iso3c": "HUN",
+    "year": 2050,
+    "percap_waste": 527
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2020,
+    "percap_waste": 390
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2030,
+    "percap_waste": 480
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2040,
+    "percap_waste": 569
+  },
+  {
+    "iso3c": "BIH",
+    "year": 2050,
+    "percap_waste": 642
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2020,
+    "percap_waste": 386
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2030,
+    "percap_waste": 438
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2040,
+    "percap_waste": 485
+  },
+  {
+    "iso3c": "BRA",
+    "year": 2050,
+    "percap_waste": 534
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2020,
+    "percap_waste": 385
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2030,
+    "percap_waste": 435
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2040,
+    "percap_waste": 480
+  },
+  {
+    "iso3c": "IRQ",
+    "year": 2050,
+    "percap_waste": 518
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2020,
+    "percap_waste": 385
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2030,
+    "percap_waste": 436
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2040,
+    "percap_waste": 492
+  },
+  {
+    "iso3c": "ALB",
+    "year": 2050,
+    "percap_waste": 553
+  },
+  {
+    "iso3c": "URY",
+    "year": 2020,
+    "percap_waste": 384
+  },
+  {
+    "iso3c": "URY",
+    "year": 2030,
+    "percap_waste": 449
+  },
+  {
+    "iso3c": "URY",
+    "year": 2040,
+    "percap_waste": 508
+  },
+  {
+    "iso3c": "URY",
+    "year": 2050,
+    "percap_waste": 564
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2020,
+    "percap_waste": 379
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2030,
+    "percap_waste": 420
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2040,
+    "percap_waste": 476
+  },
+  {
+    "iso3c": "RWA",
+    "year": 2050,
+    "percap_waste": 556
+  },
+  {
+    "iso3c": "EST",
+    "year": 2020,
+    "percap_waste": 377
+  },
+  {
+    "iso3c": "EST",
+    "year": 2030,
+    "percap_waste": 432
+  },
+  {
+    "iso3c": "EST",
+    "year": 2040,
+    "percap_waste": 473
+  },
+  {
+    "iso3c": "EST",
+    "year": 2050,
+    "percap_waste": 489
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2020,
+    "percap_waste": 376
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2030,
+    "percap_waste": 421
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2040,
+    "percap_waste": 472
+  },
+  {
+    "iso3c": "TUV",
+    "year": 2050,
+    "percap_waste": 533
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2020,
+    "percap_waste": 374
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2030,
+    "percap_waste": 445
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2040,
+    "percap_waste": 502
+  },
+  {
+    "iso3c": "MUS",
+    "year": 2050,
+    "percap_waste": 554
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2020,
+    "percap_waste": 370
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2030,
+    "percap_waste": 401
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2040,
+    "percap_waste": 443
+  },
+  {
+    "iso3c": "JAM",
+    "year": 2050,
+    "percap_waste": 505
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2020,
+    "percap_waste": 364
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2030,
+    "percap_waste": 448
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2040,
+    "percap_waste": 538
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2050,
+    "percap_waste": 621
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2020,
+    "percap_waste": 363
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2030,
+    "percap_waste": 437
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2040,
+    "percap_waste": 513
+  },
+  {
+    "iso3c": "ASM",
+    "year": 2050,
+    "percap_waste": 594
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2020,
+    "percap_waste": 360
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2030,
+    "percap_waste": 421
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2040,
+    "percap_waste": 481
+  },
+  {
+    "iso3c": "ZAF",
+    "year": 2050,
+    "percap_waste": 541
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2020,
+    "percap_waste": 357
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2030,
+    "percap_waste": 401
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2040,
+    "percap_waste": 442
+  },
+  {
+    "iso3c": "ATG",
+    "year": 2050,
+    "percap_waste": 482
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2020,
+    "percap_waste": 353
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2030,
+    "percap_waste": 438
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2040,
+    "percap_waste": 556
+  },
+  {
+    "iso3c": "PSE",
+    "year": 2050,
+    "percap_waste": 695
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2020,
+    "percap_waste": 349
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2030,
+    "percap_waste": 407
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2040,
+    "percap_waste": 467
+  },
+  {
+    "iso3c": "VEN",
+    "year": 2050,
+    "percap_waste": 532
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2020,
+    "percap_waste": 342
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2030,
+    "percap_waste": 393
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2040,
+    "percap_waste": 439
+  },
+  {
+    "iso3c": "SRB",
+    "year": 2050,
+    "percap_waste": 483
+  },
+  {
+    "iso3c": "POL",
+    "year": 2020,
+    "percap_waste": 342
+  },
+  {
+    "iso3c": "POL",
+    "year": 2030,
+    "percap_waste": 387
+  },
+  {
+    "iso3c": "POL",
+    "year": 2040,
+    "percap_waste": 424
+  },
+  {
+    "iso3c": "POL",
+    "year": 2050,
+    "percap_waste": 448
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2020,
+    "percap_waste": 341
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2030,
+    "percap_waste": 401
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2040,
+    "percap_waste": 462
+  },
+  {
+    "iso3c": "LBN",
+    "year": 2050,
+    "percap_waste": 522
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2020,
+    "percap_waste": 338
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2030,
+    "percap_waste": 361
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2040,
+    "percap_waste": 378
+  },
+  {
+    "iso3c": "JPN",
+    "year": 2050,
+    "percap_waste": 393
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2020,
+    "percap_waste": 332
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2030,
+    "percap_waste": 381
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2040,
+    "percap_waste": 428
+  },
+  {
+    "iso3c": "CRI",
+    "year": 2050,
+    "percap_waste": 473
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2020,
+    "percap_waste": 325
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2030,
+    "percap_waste": 370
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2040,
+    "percap_waste": 425
+  },
+  {
+    "iso3c": "ECU",
+    "year": 2050,
+    "percap_waste": 494
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2020,
+    "percap_waste": 325
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2030,
+    "percap_waste": 377
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2040,
+    "percap_waste": 433
+  },
+  {
+    "iso3c": "GRD",
+    "year": 2050,
+    "percap_waste": 493
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2020,
+    "percap_waste": 325
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2030,
+    "percap_waste": 286
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2040,
+    "percap_waste": 253
+  },
+  {
+    "iso3c": "SGP",
+    "year": 2050,
+    "percap_waste": 225
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2020,
+    "percap_waste": 323
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2030,
+    "percap_waste": 354
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2040,
+    "percap_waste": 395
+  },
+  {
+    "iso3c": "SLB",
+    "year": 2050,
+    "percap_waste": 454
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2020,
+    "percap_waste": 320
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2030,
+    "percap_waste": 332
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2040,
+    "percap_waste": 337
+  },
+  {
+    "iso3c": "TWN",
+    "year": 2050,
+    "percap_waste": 338
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2020,
+    "percap_waste": 316
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2030,
+    "percap_waste": 347
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2040,
+    "percap_waste": 387
+  },
+  {
+    "iso3c": "KIR",
+    "year": 2050,
+    "percap_waste": 438
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2020,
+    "percap_waste": 311
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2030,
+    "percap_waste": 376
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2040,
+    "percap_waste": 442
+  },
+  {
+    "iso3c": "MKD",
+    "year": 2050,
+    "percap_waste": 496
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2020,
+    "percap_waste": 310
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2030,
+    "percap_waste": 388
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2040,
+    "percap_waste": 430
+  },
+  {
+    "iso3c": "KAZ",
+    "year": 2050,
+    "percap_waste": 444
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2020,
+    "percap_waste": 304
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2030,
+    "percap_waste": 348
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2040,
+    "percap_waste": 376
+  },
+  {
+    "iso3c": "DZA",
+    "year": 2050,
+    "percap_waste": 413
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2020,
+    "percap_waste": 302
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2030,
+    "percap_waste": 323
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2040,
+    "percap_waste": 332
+  },
+  {
+    "iso3c": "AZE",
+    "year": 2050,
+    "percap_waste": 355
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2020,
+    "percap_waste": 299
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2030,
+    "percap_waste": 367
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2040,
+    "percap_waste": 455
+  },
+  {
+    "iso3c": "JOR",
+    "year": 2050,
+    "percap_waste": 549
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2020,
+    "percap_waste": 299
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2030,
+    "percap_waste": 344
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2040,
+    "percap_waste": 393
+  },
+  {
+    "iso3c": "VCT",
+    "year": 2050,
+    "percap_waste": 450
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2020,
+    "percap_waste": 294
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2030,
+    "percap_waste": 388
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2040,
+    "percap_waste": 454
+  },
+  {
+    "iso3c": "CHN",
+    "year": 2050,
+    "percap_waste": 505
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2020,
+    "percap_waste": 290
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2030,
+    "percap_waste": 325
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2040,
+    "percap_waste": 371
+  },
+  {
+    "iso3c": "SLV",
+    "year": 2050,
+    "percap_waste": 430
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2020,
+    "percap_waste": 288
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2030,
+    "percap_waste": 352
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2040,
+    "percap_waste": 433
+  },
+  {
+    "iso3c": "PRY",
+    "year": 2050,
+    "percap_waste": 523
+  },
+  {
+    "iso3c": "COL",
+    "year": 2020,
+    "percap_waste": 288
+  },
+  {
+    "iso3c": "COL",
+    "year": 2030,
+    "percap_waste": 324
+  },
+  {
+    "iso3c": "COL",
+    "year": 2040,
+    "percap_waste": 370
+  },
+  {
+    "iso3c": "COL",
+    "year": 2050,
+    "percap_waste": 421
+  },
+  {
+    "iso3c": "PER",
+    "year": 2020,
+    "percap_waste": 287
+  },
+  {
+    "iso3c": "PER",
+    "year": 2030,
+    "percap_waste": 348
+  },
+  {
+    "iso3c": "PER",
+    "year": 2040,
+    "percap_waste": 406
+  },
+  {
+    "iso3c": "PER",
+    "year": 2050,
+    "percap_waste": 465
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2020,
+    "percap_waste": 284
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2030,
+    "percap_waste": 336
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2040,
+    "percap_waste": 373
+  },
+  {
+    "iso3c": "ROU",
+    "year": 2050,
+    "percap_waste": 400
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2020,
+    "percap_waste": 283
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2030,
+    "percap_waste": 335
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2040,
+    "percap_waste": 413
+  },
+  {
+    "iso3c": "NIC",
+    "year": 2050,
+    "percap_waste": 516
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2020,
+    "percap_waste": 281
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2030,
+    "percap_waste": 335
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2040,
+    "percap_waste": 391
+  },
+  {
+    "iso3c": "GUY",
+    "year": 2050,
+    "percap_waste": 467
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2020,
+    "percap_waste": 279
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2030,
+    "percap_waste": 308
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2040,
+    "percap_waste": 347
+  },
+  {
+    "iso3c": "BLZ",
+    "year": 2050,
+    "percap_waste": 397
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2020,
+    "percap_waste": 276
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2030,
+    "percap_waste": 289
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2040,
+    "percap_waste": 312
+  },
+  {
+    "iso3c": "BDI",
+    "year": 2050,
+    "percap_waste": 351
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2020,
+    "percap_waste": 274
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2030,
+    "percap_waste": 319
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2040,
+    "percap_waste": 371
+  },
+  {
+    "iso3c": "CPV",
+    "year": 2050,
+    "percap_waste": 432
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2020,
+    "percap_waste": 271
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2030,
+    "percap_waste": 351
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2040,
+    "percap_waste": 434
+  },
+  {
+    "iso3c": "IDN",
+    "year": 2050,
+    "percap_waste": 514
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2020,
+    "percap_waste": 267
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2030,
+    "percap_waste": 311
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2040,
+    "percap_waste": 357
+  },
+  {
+    "iso3c": "CUB",
+    "year": 2050,
+    "percap_waste": 406
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2020,
+    "percap_waste": 263
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2030,
+    "percap_waste": 286
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2040,
+    "percap_waste": 321
+  },
+  {
+    "iso3c": "VUT",
+    "year": 2050,
+    "percap_waste": 372
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2020,
+    "percap_waste": 258
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2030,
+    "percap_waste": 320
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2040,
+    "percap_waste": 392
+  },
+  {
+    "iso3c": "EGY",
+    "year": 2050,
+    "percap_waste": 465
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2020,
+    "percap_waste": 249
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2030,
+    "percap_waste": 310
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2040,
+    "percap_waste": 377
+  },
+  {
+    "iso3c": "TUN",
+    "year": 2050,
+    "percap_waste": 436
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2020,
+    "percap_waste": 248
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2030,
+    "percap_waste": 260
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2040,
+    "percap_waste": 277
+  },
+  {
+    "iso3c": "CAF",
+    "year": 2050,
+    "percap_waste": 308
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2020,
+    "percap_waste": 247
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2030,
+    "percap_waste": 284
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2040,
+    "percap_waste": 337
+  },
+  {
+    "iso3c": "FJI",
+    "year": 2050,
+    "percap_waste": 403
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2020,
+    "percap_waste": 245
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2030,
+    "percap_waste": 268
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2040,
+    "percap_waste": 306
+  },
+  {
+    "iso3c": "SSD",
+    "year": 2050,
+    "percap_waste": 367
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2020,
+    "percap_waste": 245
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2030,
+    "percap_waste": 325
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2040,
+    "percap_waste": 437
+  },
+  {
+    "iso3c": "CIV",
+    "year": 2050,
+    "percap_waste": 571
+  },
+  {
+    "iso3c": "HND",
+    "year": 2020,
+    "percap_waste": 244
+  },
+  {
+    "iso3c": "HND",
+    "year": 2030,
+    "percap_waste": 276
+  },
+  {
+    "iso3c": "HND",
+    "year": 2040,
+    "percap_waste": 323
+  },
+  {
+    "iso3c": "HND",
+    "year": 2050,
+    "percap_waste": 388
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2020,
+    "percap_waste": 242
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2030,
+    "percap_waste": 302
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2040,
+    "percap_waste": 364
+  },
+  {
+    "iso3c": "GEO",
+    "year": 2050,
+    "percap_waste": 424
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2020,
+    "percap_waste": 234
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2030,
+    "percap_waste": 271
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2040,
+    "percap_waste": 324
+  },
+  {
+    "iso3c": "TJK",
+    "year": 2050,
+    "percap_waste": 392
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2020,
+    "percap_waste": 220
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2030,
+    "percap_waste": 272
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2040,
+    "percap_waste": 336
+  },
+  {
+    "iso3c": "SYR",
+    "year": 2050,
+    "percap_waste": 407
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2020,
+    "percap_waste": 218
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2030,
+    "percap_waste": 262
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2040,
+    "percap_waste": 317
+  },
+  {
+    "iso3c": "BOL",
+    "year": 2050,
+    "percap_waste": 385
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2020,
+    "percap_waste": 216
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2030,
+    "percap_waste": 292
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2040,
+    "percap_waste": 365
+  },
+  {
+    "iso3c": "BTN",
+    "year": 2050,
+    "percap_waste": 430
+  },
+  {
+    "iso3c": "NER",
+    "year": 2020,
+    "percap_waste": 215
+  },
+  {
+    "iso3c": "NER",
+    "year": 2030,
+    "percap_waste": 225
+  },
+  {
+    "iso3c": "NER",
+    "year": 2040,
+    "percap_waste": 240
+  },
+  {
+    "iso3c": "NER",
+    "year": 2050,
+    "percap_waste": 268
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2020,
+    "percap_waste": 214
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2030,
+    "percap_waste": 247
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2040,
+    "percap_waste": 301
+  },
+  {
+    "iso3c": "HTI",
+    "year": 2050,
+    "percap_waste": 382
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2020,
+    "percap_waste": 210
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2030,
+    "percap_waste": 258
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2040,
+    "percap_waste": 320
+  },
+  {
+    "iso3c": "MAR",
+    "year": 2050,
+    "percap_waste": 390
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2020,
+    "percap_waste": 206
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2030,
+    "percap_waste": 235
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2040,
+    "percap_waste": 268
+  },
+  {
+    "iso3c": "IRN",
+    "year": 2050,
+    "percap_waste": 300
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2020,
+    "percap_waste": 206
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2030,
+    "percap_waste": 225
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2040,
+    "percap_waste": 255
+  },
+  {
+    "iso3c": "UGA",
+    "year": 2050,
+    "percap_waste": 302
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2020,
+    "percap_waste": 200
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2030,
+    "percap_waste": 233
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2040,
+    "percap_waste": 272
+  },
+  {
+    "iso3c": "NAM",
+    "year": 2050,
+    "percap_waste": 315
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2020,
+    "percap_waste": 199
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2030,
+    "percap_waste": 224
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2040,
+    "percap_waste": 259
+  },
+  {
+    "iso3c": "TZA",
+    "year": 2050,
+    "percap_waste": 308
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2020,
+    "percap_waste": 197
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2030,
+    "percap_waste": 219
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2040,
+    "percap_waste": 246
+  },
+  {
+    "iso3c": "GAB",
+    "year": 2050,
+    "percap_waste": 278
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2020,
+    "percap_waste": 196
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2030,
+    "percap_waste": 233
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2040,
+    "percap_waste": 280
+  },
+  {
+    "iso3c": "GHA",
+    "year": 2050,
+    "percap_waste": 344
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2020,
+    "percap_waste": 195
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2030,
+    "percap_waste": 232
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2040,
+    "percap_waste": 285
+  },
+  {
+    "iso3c": "KGZ",
+    "year": 2050,
+    "percap_waste": 349
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2020,
+    "percap_waste": 192
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2030,
+    "percap_waste": 230
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2040,
+    "percap_waste": 270
+  },
+  {
+    "iso3c": "ARM",
+    "year": 2050,
+    "percap_waste": 308
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2020,
+    "percap_waste": 188
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2030,
+    "percap_waste": 215
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2040,
+    "percap_waste": 254
+  },
+  {
+    "iso3c": "ZMB",
+    "year": 2050,
+    "percap_waste": 313
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2020,
+    "percap_waste": 186
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2030,
+    "percap_waste": 216
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2040,
+    "percap_waste": 254
+  },
+  {
+    "iso3c": "NGA",
+    "year": 2050,
+    "percap_waste": 308
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2020,
+    "percap_waste": 186
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2030,
+    "percap_waste": 214
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2040,
+    "percap_waste": 244
+  },
+  {
+    "iso3c": "DMA",
+    "year": 2050,
+    "percap_waste": 280
+  },
+  {
+    "iso3c": "COD",
+    "year": 2020,
+    "percap_waste": 184
+  },
+  {
+    "iso3c": "COD",
+    "year": 2030,
+    "percap_waste": 205
+  },
+  {
+    "iso3c": "COD",
+    "year": 2040,
+    "percap_waste": 240
+  },
+  {
+    "iso3c": "COD",
+    "year": 2050,
+    "percap_waste": 297
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2020,
+    "percap_waste": 181
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2030,
+    "percap_waste": 224
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2040,
+    "percap_waste": 277
+  },
+  {
+    "iso3c": "YEM",
+    "year": 2050,
+    "percap_waste": 335
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2020,
+    "percap_waste": 175
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2030,
+    "percap_waste": 202
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2040,
+    "percap_waste": 239
+  },
+  {
+    "iso3c": "GTM",
+    "year": 2050,
+    "percap_waste": 287
+  },
+  {
+    "iso3c": "TON",
+    "year": 2020,
+    "percap_waste": 174
+  },
+  {
+    "iso3c": "TON",
+    "year": 2030,
+    "percap_waste": 201
+  },
+  {
+    "iso3c": "TON",
+    "year": 2040,
+    "percap_waste": 230
+  },
+  {
+    "iso3c": "TON",
+    "year": 2050,
+    "percap_waste": 264
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2020,
+    "percap_waste": 170
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2030,
+    "percap_waste": 189
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2040,
+    "percap_waste": 211
+  },
+  {
+    "iso3c": "MHL",
+    "year": 2050,
+    "percap_waste": 238
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2020,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2030,
+    "percap_waste": 183
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2040,
+    "percap_waste": 209
+  },
+  {
+    "iso3c": "ERI",
+    "year": 2050,
+    "percap_waste": 250
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2020,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2030,
+    "percap_waste": 183
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2040,
+    "percap_waste": 214
+  },
+  {
+    "iso3c": "GNB",
+    "year": 2050,
+    "percap_waste": 264
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2020,
+    "percap_waste": 165
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2030,
+    "percap_waste": 181
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2040,
+    "percap_waste": 206
+  },
+  {
+    "iso3c": "SOM",
+    "year": 2050,
+    "percap_waste": 247
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2020,
+    "percap_waste": 164
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2030,
+    "percap_waste": 184
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2040,
+    "percap_waste": 218
+  },
+  {
+    "iso3c": "SWZ",
+    "year": 2050,
+    "percap_waste": 264
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2020,
+    "percap_waste": 164
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2030,
+    "percap_waste": 183
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2040,
+    "percap_waste": 210
+  },
+  {
+    "iso3c": "SEN",
+    "year": 2050,
+    "percap_waste": 253
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2020,
+    "percap_waste": 163
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2030,
+    "percap_waste": 172
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2040,
+    "percap_waste": 188
+  },
+  {
+    "iso3c": "AFG",
+    "year": 2050,
+    "percap_waste": 213
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2020,
+    "percap_waste": 163
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2030,
+    "percap_waste": 181
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2040,
+    "percap_waste": 207
+  },
+  {
+    "iso3c": "LBR",
+    "year": 2050,
+    "percap_waste": 251
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2020,
+    "percap_waste": 161
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2030,
+    "percap_waste": 180
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2040,
+    "percap_waste": 210
+  },
+  {
+    "iso3c": "PAK",
+    "year": 2050,
+    "percap_waste": 251
+  },
+  {
+    "iso3c": "COG",
+    "year": 2020,
+    "percap_waste": 159
+  },
+  {
+    "iso3c": "COG",
+    "year": 2030,
+    "percap_waste": 178
+  },
+  {
+    "iso3c": "COG",
+    "year": 2040,
+    "percap_waste": 202
+  },
+  {
+    "iso3c": "COG",
+    "year": 2050,
+    "percap_waste": 232
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2020,
+    "percap_waste": 158
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2030,
+    "percap_waste": 158
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2040,
+    "percap_waste": 154
+  },
+  {
+    "iso3c": "AGO",
+    "year": 2050,
+    "percap_waste": 162
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2020,
+    "percap_waste": 157
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2030,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2040,
+    "percap_waste": 182
+  },
+  {
+    "iso3c": "TGO",
+    "year": 2050,
+    "percap_waste": 209
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2020,
+    "percap_waste": 156
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2030,
+    "percap_waste": 178
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2040,
+    "percap_waste": 208
+  },
+  {
+    "iso3c": "CMR",
+    "year": 2050,
+    "percap_waste": 251
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2020,
+    "percap_waste": 153
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2030,
+    "percap_waste": 189
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2040,
+    "percap_waste": 230
+  },
+  {
+    "iso3c": "UZB",
+    "year": 2050,
+    "percap_waste": 272
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2020,
+    "percap_waste": 153
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2030,
+    "percap_waste": 164
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2040,
+    "percap_waste": 183
+  },
+  {
+    "iso3c": "MDG",
+    "year": 2050,
+    "percap_waste": 216
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2020,
+    "percap_waste": 152
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2030,
+    "percap_waste": 171
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2040,
+    "percap_waste": 188
+  },
+  {
+    "iso3c": "CUW",
+    "year": 2050,
+    "percap_waste": 204
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2020,
+    "percap_waste": 152
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2030,
+    "percap_waste": 176
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2040,
+    "percap_waste": 205
+  },
+  {
+    "iso3c": "PHL",
+    "year": 2050,
+    "percap_waste": 244
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2020,
+    "percap_waste": 150
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2030,
+    "percap_waste": 183
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2040,
+    "percap_waste": 217
+  },
+  {
+    "iso3c": "SUR",
+    "year": 2050,
+    "percap_waste": 250
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2020,
+    "percap_waste": 150
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2030,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2040,
+    "percap_waste": 188
+  },
+  {
+    "iso3c": "WSM",
+    "year": 2050,
+    "percap_waste": 219
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2020,
+    "percap_waste": 149
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2030,
+    "percap_waste": 162
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2040,
+    "percap_waste": 183
+  },
+  {
+    "iso3c": "GMB",
+    "year": 2050,
+    "percap_waste": 213
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2020,
+    "percap_waste": 147
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2030,
+    "percap_waste": 178
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2040,
+    "percap_waste": 223
+  },
+  {
+    "iso3c": "DJI",
+    "year": 2050,
+    "percap_waste": 279
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2020,
+    "percap_waste": 146
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2030,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2040,
+    "percap_waste": 195
+  },
+  {
+    "iso3c": "KEN",
+    "year": 2050,
+    "percap_waste": 237
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2020,
+    "percap_waste": 146
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2030,
+    "percap_waste": 159
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2040,
+    "percap_waste": 179
+  },
+  {
+    "iso3c": "BFA",
+    "year": 2050,
+    "percap_waste": 211
+  },
+  {
+    "iso3c": "IND",
+    "year": 2020,
+    "percap_waste": 145
+  },
+  {
+    "iso3c": "IND",
+    "year": 2030,
+    "percap_waste": 177
+  },
+  {
+    "iso3c": "IND",
+    "year": 2040,
+    "percap_waste": 213
+  },
+  {
+    "iso3c": "IND",
+    "year": 2050,
+    "percap_waste": 253
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2020,
+    "percap_waste": 140
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2030,
+    "percap_waste": 162
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2040,
+    "percap_waste": 184
+  },
+  {
+    "iso3c": "MMR",
+    "year": 2050,
+    "percap_waste": 208
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2020,
+    "percap_waste": 138
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2030,
+    "percap_waste": 149
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2040,
+    "percap_waste": 161
+  },
+  {
+    "iso3c": "GNQ",
+    "year": 2050,
+    "percap_waste": 174
+  },
+  {
+    "iso3c": "STP",
+    "year": 2020,
+    "percap_waste": 137
+  },
+  {
+    "iso3c": "STP",
+    "year": 2030,
+    "percap_waste": 155
+  },
+  {
+    "iso3c": "STP",
+    "year": 2040,
+    "percap_waste": 178
+  },
+  {
+    "iso3c": "STP",
+    "year": 2050,
+    "percap_waste": 211
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2020,
+    "percap_waste": 135
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2030,
+    "percap_waste": 148
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2040,
+    "percap_waste": 168
+  },
+  {
+    "iso3c": "BEN",
+    "year": 2050,
+    "percap_waste": 201
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2020,
+    "percap_waste": 135
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2030,
+    "percap_waste": 153
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2040,
+    "percap_waste": 179
+  },
+  {
+    "iso3c": "PNG",
+    "year": 2050,
+    "percap_waste": 217
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2020,
+    "percap_waste": 134
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2030,
+    "percap_waste": 153
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2040,
+    "percap_waste": 179
+  },
+  {
+    "iso3c": "MRT",
+    "year": 2050,
+    "percap_waste": 217
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2020,
+    "percap_waste": 133
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2030,
+    "percap_waste": 165
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2040,
+    "percap_waste": 200
+  },
+  {
+    "iso3c": "VNM",
+    "year": 2050,
+    "percap_waste": 239
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2020,
+    "percap_waste": 132
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2030,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2040,
+    "percap_waste": 202
+  },
+  {
+    "iso3c": "LKA",
+    "year": 2050,
+    "percap_waste": 235
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2020,
+    "percap_waste": 124
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2030,
+    "percap_waste": 136
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2040,
+    "percap_waste": 155
+  },
+  {
+    "iso3c": "MLI",
+    "year": 2050,
+    "percap_waste": 186
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2020,
+    "percap_waste": 120
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2030,
+    "percap_waste": 139
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2040,
+    "percap_waste": 154
+  },
+  {
+    "iso3c": "BWA",
+    "year": 2050,
+    "percap_waste": 170
+  },
+  {
+    "iso3c": "COM",
+    "year": 2020,
+    "percap_waste": 118
+  },
+  {
+    "iso3c": "COM",
+    "year": 2030,
+    "percap_waste": 134
+  },
+  {
+    "iso3c": "COM",
+    "year": 2040,
+    "percap_waste": 160
+  },
+  {
+    "iso3c": "COM",
+    "year": 2050,
+    "percap_waste": 200
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2020,
+    "percap_waste": 118
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2030,
+    "percap_waste": 127
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2040,
+    "percap_waste": 142
+  },
+  {
+    "iso3c": "SLE",
+    "year": 2050,
+    "percap_waste": 167
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2020,
+    "percap_waste": 114
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2030,
+    "percap_waste": 155
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2040,
+    "percap_waste": 187
+  },
+  {
+    "iso3c": "TKM",
+    "year": 2050,
+    "percap_waste": 205
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2020,
+    "percap_waste": 114
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2030,
+    "percap_waste": 129
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2040,
+    "percap_waste": 161
+  },
+  {
+    "iso3c": "ZWE",
+    "year": 2050,
+    "percap_waste": 220
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2020,
+    "percap_waste": 113
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2030,
+    "percap_waste": 119
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2040,
+    "percap_waste": 131
+  },
+  {
+    "iso3c": "TCD",
+    "year": 2050,
+    "percap_waste": 150
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2020,
+    "percap_waste": 107
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2030,
+    "percap_waste": 128
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2040,
+    "percap_waste": 154
+  },
+  {
+    "iso3c": "BGD",
+    "year": 2050,
+    "percap_waste": 186
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2020,
+    "percap_waste": 93
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2030,
+    "percap_waste": 100
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2040,
+    "percap_waste": 109
+  },
+  {
+    "iso3c": "MOZ",
+    "year": 2050,
+    "percap_waste": 125
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2020,
+    "percap_waste": 81
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2030,
+    "percap_waste": 100
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2040,
+    "percap_waste": 127
+  },
+  {
+    "iso3c": "GIN",
+    "year": 2050,
+    "percap_waste": 164
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2020,
+    "percap_waste": 79
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2030,
+    "percap_waste": 83
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2040,
+    "percap_waste": 89
+  },
+  {
+    "iso3c": "MWI",
+    "year": 2050,
+    "percap_waste": 99
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2020,
+    "percap_waste": 78
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2030,
+    "percap_waste": 92
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2040,
+    "percap_waste": 108
+  },
+  {
+    "iso3c": "KHM",
+    "year": 2050,
+    "percap_waste": 129
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2020,
+    "percap_waste": 73
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2030,
+    "percap_waste": 81
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2040,
+    "percap_waste": 94
+  },
+  {
+    "iso3c": "SDN",
+    "year": 2050,
+    "percap_waste": 112
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2020,
+    "percap_waste": 68
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2030,
+    "percap_waste": 75
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2040,
+    "percap_waste": 86
+  },
+  {
+    "iso3c": "ETH",
+    "year": 2050,
+    "percap_waste": 103
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2020,
+    "percap_waste": 64
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2030,
+    "percap_waste": 71
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2040,
+    "percap_waste": 83
+  },
+  {
+    "iso3c": "NPL",
+    "year": 2050,
+    "percap_waste": 100
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2020,
+    "percap_waste": 58
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2030,
+    "percap_waste": 72
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2040,
+    "percap_waste": 87
+  },
+  {
+    "iso3c": "LAO",
+    "year": 2050,
+    "percap_waste": 105
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2020,
+    "percap_waste": 52
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2030,
+    "percap_waste": 61
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2040,
+    "percap_waste": 73
+  },
+  {
+    "iso3c": "TLS",
+    "year": 2050,
+    "percap_waste": 90
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2020,
+    "percap_waste": 40
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2030,
+    "percap_waste": 44
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2040,
+    "percap_waste": 51
+  },
+  {
+    "iso3c": "LSO",
+    "year": 2050,
+    "percap_waste": 62
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2020,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2030,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2040,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "SXM",
+    "year": 2050,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2020,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2030,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2040,
+    "percap_waste": null
+  },
+  {
+    "iso3c": "TCA",
+    "year": 2050,
+    "percap_waste": null
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "countrycode": "BLR",
+    "consumption": 2094.6931,
+    "consumption_relative": 29.932261
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 2559.5862,
+    "consumption_relative": 36.575378
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 2746.5278,
+    "consumption_relative": 39.246693
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3039.9839,
+    "consumption_relative": 43.440056
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3257.5977,
+    "consumption_relative": 46.54966
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3368.4492,
+    "consumption_relative": 48.133682
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3427.4492,
+    "consumption_relative": 48.976768
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3521.6758,
+    "consumption_relative": 50.323223
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3599.9187,
+    "consumption_relative": 51.44128
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3690.1836,
+    "consumption_relative": 52.731125
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3775.2798,
+    "consumption_relative": 53.947113
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3823.665,
+    "consumption_relative": 54.638523
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 3936.3909,
+    "consumption_relative": 56.249325
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4017.3506,
+    "consumption_relative": 57.406204
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4090.439,
+    "consumption_relative": 58.450603
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4176.9287,
+    "consumption_relative": 59.686501
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4228.8374,
+    "consumption_relative": 60.428261
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4299.9102,
+    "consumption_relative": 61.443859
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4383.8838,
+    "consumption_relative": 62.643806
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4449.9219,
+    "consumption_relative": 63.587463
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4535.4678,
+    "consumption_relative": 64.809868
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4584.5425,
+    "consumption_relative": 65.511131
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4654.6211,
+    "consumption_relative": 66.512527
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4734.416,
+    "consumption_relative": 67.652756
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4778.4019,
+    "consumption_relative": 68.281296
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4844.5093,
+    "consumption_relative": 69.225945
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4935.3999,
+    "consumption_relative": 70.524727
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 4985.666,
+    "consumption_relative": 71.243011
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5028.6836,
+    "consumption_relative": 71.857712
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5090.522,
+    "consumption_relative": 72.741356
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5159.6738,
+    "consumption_relative": 73.7295
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5198.3584,
+    "consumption_relative": 74.282295
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5256.9756,
+    "consumption_relative": 75.119904
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5311.4346,
+    "consumption_relative": 75.898102
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5364.3481,
+    "consumption_relative": 76.654213
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5433.4321,
+    "consumption_relative": 77.641388
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5491.4385,
+    "consumption_relative": 78.470284
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5527.1064,
+    "consumption_relative": 78.979965
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5591.4546,
+    "consumption_relative": 79.899467
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5653.8042,
+    "consumption_relative": 80.790421
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5724.772,
+    "consumption_relative": 81.80452
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5762.1353,
+    "consumption_relative": 82.338417
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5801.8896,
+    "consumption_relative": 82.906494
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5861.2261,
+    "consumption_relative": 83.754387
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5938.0454,
+    "consumption_relative": 84.852097
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 5999.6484,
+    "consumption_relative": 85.732384
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6043.2227,
+    "consumption_relative": 86.355034
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6110.2817,
+    "consumption_relative": 87.313286
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6183.9487,
+    "consumption_relative": 88.365952
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6258.1445,
+    "consumption_relative": 89.426178
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6339.8218,
+    "consumption_relative": 90.593315
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6409.791,
+    "consumption_relative": 91.59314
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6473.8662,
+    "consumption_relative": 92.508751
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6537.0054,
+    "consumption_relative": 93.410973
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6631.5894,
+    "consumption_relative": 94.762543
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6699.5776,
+    "consumption_relative": 95.734062
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6761.0337,
+    "consumption_relative": 96.612251
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6838.0088,
+    "consumption_relative": 97.712181
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6902.835,
+    "consumption_relative": 98.638527
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 6979.2788,
+    "consumption_relative": 99.730873
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7056.7583,
+    "consumption_relative": 100.83802
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7129.8335,
+    "consumption_relative": 101.88224
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7208.3267,
+    "consumption_relative": 103.00387
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7295.8022,
+    "consumption_relative": 104.25385
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7327.1797,
+    "consumption_relative": 104.70223
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7384.1929,
+    "consumption_relative": 105.51692
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7471.105,
+    "consumption_relative": 106.75886
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7542.2749,
+    "consumption_relative": 107.77584
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7656.3198,
+    "consumption_relative": 109.4055
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7745.2144,
+    "consumption_relative": 110.67577
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7837.0288,
+    "consumption_relative": 111.98775
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 7977.1597,
+    "consumption_relative": 113.99017
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8075.2539,
+    "consumption_relative": 115.39188
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8202.9932,
+    "consumption_relative": 117.21723
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8373.7842,
+    "consumption_relative": 119.65775
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8500.2803,
+    "consumption_relative": 121.46532
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8605.1152,
+    "consumption_relative": 122.96338
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8719.6836,
+    "consumption_relative": 124.60051
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8797.1152,
+    "consumption_relative": 125.70699
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 8952.6738,
+    "consumption_relative": 127.92984
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 9095.3281,
+    "consumption_relative": 129.96831
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 9282.2451,
+    "consumption_relative": 132.63928
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 9472.876,
+    "consumption_relative": 135.36331
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 9637.2764,
+    "consumption_relative": 137.71251
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 9759.5371,
+    "consumption_relative": 139.45956
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 9911.7744,
+    "consumption_relative": 141.63496
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 10061.115,
+    "consumption_relative": 143.769
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 10249.618,
+    "consumption_relative": 146.46262
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 10464.354,
+    "consumption_relative": 149.5311
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 10726.497,
+    "consumption_relative": 153.27701
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 11016.17,
+    "consumption_relative": 157.41631
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 11296.547,
+    "consumption_relative": 161.42278
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 11662.553,
+    "consumption_relative": 166.65283
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 11961.392,
+    "consumption_relative": 170.92311
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 12540.184,
+    "consumption_relative": 179.1938
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 13207.551,
+    "consumption_relative": 188.73018
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 14288.231,
+    "consumption_relative": 204.17265
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 15622.798,
+    "consumption_relative": 223.24303
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 17835.037,
+    "consumption_relative": 254.855
+  },
+  {
+    "countrycode": "BLR",
+    "consumption": 22956.996,
+    "consumption_relative": 328.04556
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 192.55899,
+    "consumption_relative": 4.5923853
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 267.72723,
+    "consumption_relative": 6.3850908
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 326.7785,
+    "consumption_relative": 7.7934189
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 370.05524,
+    "consumption_relative": 8.8255358
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 410.29739,
+    "consumption_relative": 9.7852812
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 440.94601,
+    "consumption_relative": 10.516227
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 479.33865,
+    "consumption_relative": 11.431862
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 502.94803,
+    "consumption_relative": 11.994928
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 540.91913,
+    "consumption_relative": 12.900511
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 576.18042,
+    "consumption_relative": 13.741465
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 611.46161,
+    "consumption_relative": 14.582894
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 646.43958,
+    "consumption_relative": 15.417091
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 679.90558,
+    "consumption_relative": 16.215233
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 719.08655,
+    "consumption_relative": 17.149668
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 753.43817,
+    "consumption_relative": 17.968927
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 780.8905,
+    "consumption_relative": 18.623644
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 812.30927,
+    "consumption_relative": 19.372957
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 848.79401,
+    "consumption_relative": 20.243092
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 868.90045,
+    "consumption_relative": 20.722616
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 897.26337,
+    "consumption_relative": 21.39905
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 928.23199,
+    "consumption_relative": 22.137627
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 953.82739,
+    "consumption_relative": 22.748058
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 990.21564,
+    "consumption_relative": 23.615889
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1022.0396,
+    "consumption_relative": 24.374866
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1045.9156,
+    "consumption_relative": 24.944294
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1082.2758,
+    "consumption_relative": 25.811455
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1110.384,
+    "consumption_relative": 26.481815
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1131.2888,
+    "consumption_relative": 26.980379
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1167.9083,
+    "consumption_relative": 27.853724
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1205.6946,
+    "consumption_relative": 28.754898
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1243.9139,
+    "consumption_relative": 29.666403
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1276.9045,
+    "consumption_relative": 30.453201
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1309.2123,
+    "consumption_relative": 31.223717
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1340.6089,
+    "consumption_relative": 31.9725
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1379.1305,
+    "consumption_relative": 32.891212
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1426.1757,
+    "consumption_relative": 34.013206
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1465.5593,
+    "consumption_relative": 34.952477
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1515.6311,
+    "consumption_relative": 36.146648
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1547.8344,
+    "consumption_relative": 36.914673
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1591.5831,
+    "consumption_relative": 37.958046
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1621.4771,
+    "consumption_relative": 38.670998
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1666.6177,
+    "consumption_relative": 39.747562
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1699.6531,
+    "consumption_relative": 40.535435
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1740.2069,
+    "consumption_relative": 41.502613
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1788.306,
+    "consumption_relative": 42.649738
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1829.5826,
+    "consumption_relative": 43.634155
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1883.3728,
+    "consumption_relative": 44.917007
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1930.8568,
+    "consumption_relative": 46.049465
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 1991.4044,
+    "consumption_relative": 47.493481
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2037.788,
+    "consumption_relative": 48.599693
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2095.3149,
+    "consumption_relative": 49.971668
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2157.0378,
+    "consumption_relative": 51.443714
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2216.499,
+    "consumption_relative": 52.861816
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2267.2915,
+    "consumption_relative": 54.073177
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2320.8555,
+    "consumption_relative": 55.350639
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2387.8413,
+    "consumption_relative": 56.948204
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2442.8491,
+    "consumption_relative": 58.260094
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2512.0637,
+    "consumption_relative": 59.910809
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2591.1851,
+    "consumption_relative": 61.797791
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2663.1577,
+    "consumption_relative": 63.514294
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2740.0977,
+    "consumption_relative": 65.349243
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2804.0791,
+    "consumption_relative": 66.875153
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2898.9285,
+    "consumption_relative": 69.137238
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 2992.0066,
+    "consumption_relative": 71.357079
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3095.9089,
+    "consumption_relative": 73.835075
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3182.324,
+    "consumption_relative": 75.896004
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3273.8098,
+    "consumption_relative": 78.077873
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3413.564,
+    "consumption_relative": 81.410904
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3533.6506,
+    "consumption_relative": 84.274879
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3654.4827,
+    "consumption_relative": 87.156639
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3772.1611,
+    "consumption_relative": 89.963173
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 3898.1904,
+    "consumption_relative": 92.968872
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 4026.2126,
+    "consumption_relative": 96.02211
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 4137.3486,
+    "consumption_relative": 98.672615
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 4292.1279,
+    "consumption_relative": 102.36399
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 4467.1304,
+    "consumption_relative": 106.53767
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 4642.3882,
+    "consumption_relative": 110.71743
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 4791.0522,
+    "consumption_relative": 114.26295
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 5029.7534,
+    "consumption_relative": 119.9558
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 5268.7114,
+    "consumption_relative": 125.65475
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 5515.9224,
+    "consumption_relative": 131.55055
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 5714.3281,
+    "consumption_relative": 136.28238
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 5976.1191,
+    "consumption_relative": 142.52589
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 6344.0986,
+    "consumption_relative": 151.30193
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 6648.2607,
+    "consumption_relative": 158.55595
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 7015.2881,
+    "consumption_relative": 167.30928
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 7463.3545,
+    "consumption_relative": 177.99533
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 8001.3701,
+    "consumption_relative": 190.8266
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 8487.4951,
+    "consumption_relative": 202.4203
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 8989.1436,
+    "consumption_relative": 214.38425
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 9646.6533,
+    "consumption_relative": 230.06534
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 10597.571,
+    "consumption_relative": 252.74403
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 11527.867,
+    "consumption_relative": 274.93085
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 12847.222,
+    "consumption_relative": 306.39648
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 14620.124,
+    "consumption_relative": 348.67883
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 16457.092,
+    "consumption_relative": 392.48914
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 19193.004,
+    "consumption_relative": 457.73856
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 22943.184,
+    "consumption_relative": 547.17749
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 30122.793,
+    "consumption_relative": 718.4057
+  },
+  {
+    "countrycode": "NAM",
+    "consumption": 46971.816,
+    "consumption_relative": 1120.2421
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "region_iso3c": "EAS",
+    "production": 14658.77,
+    "lulucf": 434.68
+  },
+  {
+    "region_iso3c": "ECS",
+    "production": 6045.24,
+    "lulucf": -900.65
+  },
+  {
+    "region_iso3c": "LCN",
+    "production": 1627.99,
+    "lulucf": 775.51
+  },
+  {
+    "region_iso3c": "MEA",
+    "production": 2544.05,
+    "lulucf": -4.79
+  },
+  {
+    "region_iso3c": "NAC",
+    "production": 5397.93,
+    "lulucf": -196.46
+  },
+  {
+    "region_iso3c": "SAS",
+    "production": 2784.08,
+    "lulucf": -1.85
+  },
+  {
+    "region_iso3c": "SSF",
+    "production": 823.77,
+    "lulucf": 1254.01
+  }
+]

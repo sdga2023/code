@@ -1,0 +1,188 @@
+[
+  {
+    "year": 2017,
+    "source": "HIC_source",
+    "target": "HIC_target",
+    "value": 2184775305
+  },
+  {
+    "year": 2017,
+    "source": "HIC_source",
+    "target": "LIC_target",
+    "value": 9914990
+  },
+  {
+    "year": 2017,
+    "source": "HIC_source",
+    "target": "LMC_target",
+    "value": 392944425
+  },
+  {
+    "year": 2017,
+    "source": "HIC_source",
+    "target": "UMC_target",
+    "value": 2798596382
+  },
+  {
+    "year": 2017,
+    "source": "LIC_source",
+    "target": "HIC_target",
+    "value": 192987
+  },
+  {
+    "year": 2017,
+    "source": "LIC_source",
+    "target": "LIC_target",
+    "value": 588535
+  },
+  {
+    "year": 2017,
+    "source": "LIC_source",
+    "target": "LMC_target",
+    "value": 1042838
+  },
+  {
+    "year": 2017,
+    "source": "LIC_source",
+    "target": "UMC_target",
+    "value": 1121260
+  },
+  {
+    "year": 2017,
+    "source": "LMC_source",
+    "target": "HIC_target",
+    "value": 25624660
+  },
+  {
+    "year": 2017,
+    "source": "LMC_source",
+    "target": "LIC_target",
+    "value": 1712021
+  },
+  {
+    "year": 2017,
+    "source": "LMC_source",
+    "target": "LMC_target",
+    "value": 25555819
+  },
+  {
+    "year": 2017,
+    "source": "LMC_source",
+    "target": "UMC_target",
+    "value": 204130099
+  },
+  {
+    "year": 2017,
+    "source": "UMC_source",
+    "target": "HIC_target",
+    "value": 124663315
+  },
+  {
+    "year": 2017,
+    "source": "UMC_source",
+    "target": "LIC_target",
+    "value": 3334890
+  },
+  {
+    "year": 2017,
+    "source": "UMC_source",
+    "target": "LMC_target",
+    "value": 48679605
+  },
+  {
+    "year": 2017,
+    "source": "UMC_source",
+    "target": "UMC_target",
+    "value": 287551007
+  },
+  {
+    "year": 2022,
+    "source": "HIC_source",
+    "target": "HIC_target",
+    "value": 1217644700
+  },
+  {
+    "year": 2022,
+    "source": "HIC_source",
+    "target": "LIC_target",
+    "value": 41672
+  },
+  {
+    "year": 2022,
+    "source": "HIC_source",
+    "target": "LMC_target",
+    "value": 170456964
+  },
+  {
+    "year": 2022,
+    "source": "HIC_source",
+    "target": "UMC_target",
+    "value": 315954255
+  },
+  {
+    "year": 2022,
+    "source": "LIC_source",
+    "target": "HIC_target",
+    "value": 52000
+  },
+  {
+    "year": 2022,
+    "source": "LIC_source",
+    "target": "LMC_target",
+    "value": 90000
+  },
+  {
+    "year": 2022,
+    "source": "LIC_source",
+    "target": "UMC_target",
+    "value": 3209637
+  },
+  {
+    "year": 2022,
+    "source": "LMC_source",
+    "target": "HIC_target",
+    "value": 2091827
+  },
+  {
+    "year": 2022,
+    "source": "LMC_source",
+    "target": "LIC_target",
+    "value": 108630
+  },
+  {
+    "year": 2022,
+    "source": "LMC_source",
+    "target": "LMC_target",
+    "value": 13509267
+  },
+  {
+    "year": 2022,
+    "source": "LMC_source",
+    "target": "UMC_target",
+    "value": 7661142
+  },
+  {
+    "year": 2022,
+    "source": "UMC_source",
+    "target": "HIC_target",
+    "value": 137240136
+  },
+  {
+    "year": 2022,
+    "source": "UMC_source",
+    "target": "LIC_target",
+    "value": 2850
+  },
+  {
+    "year": 2022,
+    "source": "UMC_source",
+    "target": "LMC_target",
+    "value": 5776285
+  },
+  {
+    "year": 2022,
+    "source": "UMC_source",
+    "target": "UMC_target",
+    "value": 20476188
+  }
+]

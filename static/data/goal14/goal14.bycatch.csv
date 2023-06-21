@@ -1,0 +1,6 @@
+"source","target","value"
+"catch","intended",17.5
+"intended","target",17.5
+"catch","bycatch",82.5
+"bycatch","commercial",31.9
+"bycatch","discarded",50.6

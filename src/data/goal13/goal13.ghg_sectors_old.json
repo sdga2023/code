@@ -1,0 +1,176 @@
+[
+  {
+    "sector": "Energy",
+    "subsector": "Transport",
+    "subsubsector": "Road",
+    "share": 11.9
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Transport",
+    "subsubsector": "Aviation",
+    "share": 1.9
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Transport",
+    "subsubsector": "Rail",
+    "share": 0.4
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Transport",
+    "subsubsector": "Pipeline",
+    "share": 0.3
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Transport",
+    "subsubsector": "Ship",
+    "share": 1.7
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in buildings (elec and heat)",
+    "subsubsector": "Residential",
+    "share": 10.9
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in buildings (elec and heat)",
+    "subsubsector": "Commercial",
+    "share": 6.6
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Iron & Steel",
+    "share": 7.2
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Non-ferous metals",
+    "share": 0.7
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Machinery",
+    "share": 0.5
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Food and tobacco",
+    "share": 1
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Paper, pulp & printing",
+    "share": 0.6
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Chemical & petrochemical (energy)",
+    "share": 3.6
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in industry",
+    "subsubsector": "Other industry",
+    "share": 10.6
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Energy in Agri & Fishing",
+    "subsubsector": "Energy in Agri & Fishing",
+    "share": 1.7
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Unallocated fuel combustion",
+    "subsubsector": "Unallocated fuel combustion",
+    "share": 7.8
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Fugitive emissions from energy production",
+    "subsubsector": "Coal",
+    "share": 1.9
+  },
+  {
+    "sector": "Energy",
+    "subsector": "Fugitive emissions from energy production",
+    "subsubsector": "Oil & Natural Gas",
+    "share": 3.9
+  },
+  {
+    "sector": "Industry",
+    "subsector": "Cement",
+    "subsubsector": "Cement",
+    "share": 3
+  },
+  {
+    "sector": "Industry",
+    "subsector": "Chemical & petrochemical (industrial)",
+    "subsubsector": "Chemical & petrochemical (industrial)",
+    "share": 2.2
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Livestock & Manure",
+    "subsubsector": "Livestock & Manure",
+    "share": 5.8
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Rice Cultivation",
+    "subsubsector": "Rice Cultivation",
+    "share": 1.3
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Agricultural Soils",
+    "subsubsector": "Agricultural Soils",
+    "share": 4.1
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Crop Burning",
+    "subsubsector": "Crop Burning",
+    "share": 3.5
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Forest Land",
+    "subsubsector": "Forest Land",
+    "share": 2.2
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Cropland",
+    "subsubsector": "Cropland",
+    "share": 1.4
+  },
+  {
+    "sector": "Agriculture, Forestry & Land Use",
+    "subsector": "Grassland",
+    "subsubsector": "Grassland",
+    "share": 0.1
+  },
+  {
+    "sector": "Waste",
+    "subsector": "Landfills",
+    "subsubsector": "Landfills",
+    "share": 1.9
+  },
+  {
+    "sector": "Waste",
+    "subsector": "Wastewater",
+    "subsubsector": "Wastewater",
+    "share": 1.3
+  }
+]

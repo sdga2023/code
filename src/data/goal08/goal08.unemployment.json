@@ -1,0 +1,212 @@
+[
+  {
+    "iso3c": "EAS",
+    "year": 2017,
+    "value": 3.8
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2018,
+    "value": 3.7
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2019,
+    "value": 3.8
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2020,
+    "value": 4.3
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2021,
+    "value": 4
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2022,
+    "value": 4.1
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2017,
+    "value": 7.7
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2018,
+    "value": 7.1
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2019,
+    "value": 6.9
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2020,
+    "value": 7.3
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2021,
+    "value": 7.1
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2022,
+    "value": 6.5
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2017,
+    "value": 7.9
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2018,
+    "value": 7.8
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2019,
+    "value": 7.8
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2020,
+    "value": 10
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2021,
+    "value": 9.1
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2022,
+    "value": 6.9
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2017,
+    "value": 11
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2018,
+    "value": 10.7
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2019,
+    "value": 10
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2020,
+    "value": 10.7
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2021,
+    "value": 10.6
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2022,
+    "value": 10.3
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2017,
+    "value": 4.6
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2018,
+    "value": 4.1
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2019,
+    "value": 3.9
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2020,
+    "value": 8.2
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2021,
+    "value": 5.6
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2022,
+    "value": 3.8
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2017,
+    "value": 7
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2018,
+    "value": 7
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2019,
+    "value": 6.3
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2020,
+    "value": 9.3
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2021,
+    "value": 7.3
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2022,
+    "value": 7
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2017,
+    "value": 6.1
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2018,
+    "value": 6.2
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2019,
+    "value": 6.3
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2020,
+    "value": 6.9
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2021,
+    "value": 7.1
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2022,
+    "value": 7.1
+  }
+]

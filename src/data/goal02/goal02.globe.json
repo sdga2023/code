@@ -1,0 +1,877 @@
+[
+  {
+    "country_name": "Albania",
+    "country_code": "ALB",
+    "mln_people_no_healthy_diet": 0.6
+  },
+  {
+    "country_name": "Algeria",
+    "country_code": "DZA",
+    "mln_people_no_healthy_diet": 13.2
+  },
+  {
+    "country_name": "Angola",
+    "country_code": "AGO",
+    "mln_people_no_healthy_diet": 31
+  },
+  {
+    "country_name": "Anguilla",
+    "country_code": "AIA",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "country_code": "ATG",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Argentina",
+    "country_code": "ARG",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Armenia",
+    "country_code": "ARM",
+    "mln_people_no_healthy_diet": 1.3
+  },
+  {
+    "country_name": "Aruba",
+    "country_code": "ABW",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Australia",
+    "country_code": "AUS",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Austria",
+    "country_code": "AUT",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_code": "AZE",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Bahamas, The",
+    "country_code": "BHS",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Bahrain",
+    "country_code": "BHR",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Bangladesh",
+    "country_code": "BGD",
+    "mln_people_no_healthy_diet": 121.1
+  },
+  {
+    "country_name": "Barbados",
+    "country_code": "BRB",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Belarus",
+    "country_code": "BLR",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Belgium",
+    "country_code": "BEL",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Belize",
+    "country_code": "BLZ",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Benin",
+    "country_code": "BEN",
+    "mln_people_no_healthy_diet": 10.1
+  },
+  {
+    "country_name": "Bermuda",
+    "country_code": "BMU",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Bhutan",
+    "country_code": "BTN",
+    "mln_people_no_healthy_diet": 0.4
+  },
+  {
+    "country_name": "Bolivia",
+    "country_code": "BOL",
+    "mln_people_no_healthy_diet": 2.9
+  },
+  {
+    "country_name": "Bonaire",
+    "country_code": "BON",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_code": "BIH",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Botswana",
+    "country_code": "BWA",
+    "mln_people_no_healthy_diet": 1.4
+  },
+  {
+    "country_name": "Brazil",
+    "country_code": "BRA",
+    "mln_people_no_healthy_diet": 40.4
+  },
+  {
+    "country_name": "British Virgin Islands",
+    "country_code": "VGB",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "country_code": "BRN",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_code": "BGR",
+    "mln_people_no_healthy_diet": 0.6
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_code": "BFA",
+    "mln_people_no_healthy_diet": 16.7
+  },
+  {
+    "country_name": "Burundi",
+    "country_code": "BDI",
+    "mln_people_no_healthy_diet": 11.6
+  },
+  {
+    "country_name": "Cabo Verde",
+    "country_code": "CPV",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Cambodia",
+    "country_code": "KHM",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Cameroon",
+    "country_code": "CMR",
+    "mln_people_no_healthy_diet": 16.1
+  },
+  {
+    "country_name": "Canada",
+    "country_code": "CAN",
+    "mln_people_no_healthy_diet": 0.3
+  },
+  {
+    "country_name": "Cayman Islands",
+    "country_code": "CYM",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_code": "CAF",
+    "mln_people_no_healthy_diet": 4.6
+  },
+  {
+    "country_name": "Chad",
+    "country_code": "TCD",
+    "mln_people_no_healthy_diet": 13.7
+  },
+  {
+    "country_name": "Chile",
+    "country_code": "CHL",
+    "mln_people_no_healthy_diet": 0.7
+  },
+  {
+    "country_name": "China",
+    "country_code": "CHN",
+    "mln_people_no_healthy_diet": 168.7
+  },
+  {
+    "country_name": "Colombia",
+    "country_code": "COL",
+    "mln_people_no_healthy_diet": 13.5
+  },
+  {
+    "country_name": "Comoros",
+    "country_code": "COM",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Congo, Dem. Rep.",
+    "country_code": "COD",
+    "mln_people_no_healthy_diet": 80.6
+  },
+  {
+    "country_name": "Congo, Rep.",
+    "country_code": "COG",
+    "mln_people_no_healthy_diet": 5.1
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_code": "CRI",
+    "mln_people_no_healthy_diet": 0.9
+  },
+  {
+    "country_name": "Côte d'Ivoire",
+    "country_code": "CIV",
+    "mln_people_no_healthy_diet": 18.7
+  },
+  {
+    "country_name": "Croatia",
+    "country_code": "HRV",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Curacao",
+    "country_code": "CUW",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Cyprus",
+    "country_code": "CYP",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Czech Republic",
+    "country_code": "CZE",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Denmark",
+    "country_code": "DNK",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Djibouti",
+    "country_code": "DJI",
+    "mln_people_no_healthy_diet": 0.6
+  },
+  {
+    "country_name": "Dominica",
+    "country_code": "DMA",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Dominican Republic",
+    "country_code": "DOM",
+    "mln_people_no_healthy_diet": 2
+  },
+  {
+    "country_name": "Ecuador",
+    "country_code": "ECU",
+    "mln_people_no_healthy_diet": 3.8
+  },
+  {
+    "country_name": "Egypt, Arab Rep.",
+    "country_code": "EGY",
+    "mln_people_no_healthy_diet": 74.6
+  },
+  {
+    "country_name": "El Salvador",
+    "country_code": "SLV",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_code": "GNQ",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Estonia",
+    "country_code": "EST",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Eswatini",
+    "country_code": "SWZ",
+    "mln_people_no_healthy_diet": 0.8
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_code": "ETH",
+    "mln_people_no_healthy_diet": 99.7
+  },
+  {
+    "country_name": "Fiji",
+    "country_code": "FJI",
+    "mln_people_no_healthy_diet": 0.5
+  },
+  {
+    "country_name": "Finland",
+    "country_code": "FIN",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "France",
+    "country_code": "FRA",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Gabon",
+    "country_code": "GAB",
+    "mln_people_no_healthy_diet": 0.8
+  },
+  {
+    "country_name": "Gambia, The",
+    "country_code": "GMB",
+    "mln_people_no_healthy_diet": 1.5
+  },
+  {
+    "country_name": "Germany",
+    "country_code": "DEU",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Ghana",
+    "country_code": "GHA",
+    "mln_people_no_healthy_diet": 19
+  },
+  {
+    "country_name": "Greece",
+    "country_code": "GRC",
+    "mln_people_no_healthy_diet": 0.3
+  },
+  {
+    "country_name": "Grenada",
+    "country_code": "GRD",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Guinea",
+    "country_code": "GIN",
+    "mln_people_no_healthy_diet": 12.5
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_code": "GNB",
+    "mln_people_no_healthy_diet": 1.7
+  },
+  {
+    "country_name": "Guyana",
+    "country_code": "GUY",
+    "mln_people_no_healthy_diet": 0.3
+  },
+  {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "mln_people_no_healthy_diet": 9.8
+  },
+  {
+    "country_name": "Honduras",
+    "country_code": "HND",
+    "mln_people_no_healthy_diet": 5.1
+  },
+  {
+    "country_name": "Hong Kong SAR, China",
+    "country_code": "HKG",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Hungary",
+    "country_code": "HUN",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Iceland",
+    "country_code": "ISL",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "India",
+    "country_code": "IND",
+    "mln_people_no_healthy_diet": 973.3
+  },
+  {
+    "country_name": "Indonesia",
+    "country_code": "IDN",
+    "mln_people_no_healthy_diet": 189.1
+  },
+  {
+    "country_name": "Iran, Islamic Rep.",
+    "country_code": "IRN",
+    "mln_people_no_healthy_diet": 17.1
+  },
+  {
+    "country_name": "Iraq",
+    "country_code": "IRQ",
+    "mln_people_no_healthy_diet": 19.9
+  },
+  {
+    "country_name": "Ireland",
+    "country_code": "IRL",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Israel",
+    "country_code": "ISR",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Italy",
+    "country_code": "ITA",
+    "mln_people_no_healthy_diet": 1.7
+  },
+  {
+    "country_name": "Jamaica",
+    "country_code": "JAM",
+    "mln_people_no_healthy_diet": 2
+  },
+  {
+    "country_name": "Japan",
+    "country_code": "JPN",
+    "mln_people_no_healthy_diet": 3.1
+  },
+  {
+    "country_name": "Jordan",
+    "country_code": "JOR",
+    "mln_people_no_healthy_diet": 1.5
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_code": "KAZ",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Kenya",
+    "country_code": "KEN",
+    "mln_people_no_healthy_diet": 43.6
+  },
+  {
+    "country_name": "Korea, Rep.",
+    "country_code": "KOR",
+    "mln_people_no_healthy_diet": 0.9
+  },
+  {
+    "country_name": "Kuwait",
+    "country_code": "KWT",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Kyrgyz Republic",
+    "country_code": "KGZ",
+    "mln_people_no_healthy_diet": 3.3
+  },
+  {
+    "country_name": "Lao PDR",
+    "country_code": "LAO",
+    "mln_people_no_healthy_diet": 5.8
+  },
+  {
+    "country_name": "Latvia",
+    "country_code": "LVA",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Lesotho",
+    "country_code": "LSO",
+    "mln_people_no_healthy_diet": 1.8
+  },
+  {
+    "country_name": "Liberia",
+    "country_code": "LBR",
+    "mln_people_no_healthy_diet": 4.9
+  },
+  {
+    "country_name": "Lithuania",
+    "country_code": "LTU",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_code": "LUX",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Madagascar",
+    "country_code": "MDG",
+    "mln_people_no_healthy_diet": 26.9
+  },
+  {
+    "country_name": "Malawi",
+    "country_code": "MWI",
+    "mln_people_no_healthy_diet": 18.5
+  },
+  {
+    "country_name": "Malaysia",
+    "country_code": "MYS",
+    "mln_people_no_healthy_diet": 0.6
+  },
+  {
+    "country_name": "Maldives",
+    "country_code": "MDV",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Mali",
+    "country_code": "MLI",
+    "mln_people_no_healthy_diet": 15
+  },
+  {
+    "country_name": "Malta",
+    "country_code": "MLT",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Mauritania",
+    "country_code": "MRT",
+    "mln_people_no_healthy_diet": 2.8
+  },
+  {
+    "country_name": "Mauritius",
+    "country_code": "MUS",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Mexico",
+    "country_code": "MEX",
+    "mln_people_no_healthy_diet": 33.9
+  },
+  {
+    "country_name": "Moldova",
+    "country_code": "MDA",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Mongolia",
+    "country_code": "MNG",
+    "mln_people_no_healthy_diet": 1.7
+  },
+  {
+    "country_name": "Montenegro",
+    "country_code": "MNE",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Montserrat",
+    "country_code": "MSR",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Morocco",
+    "country_code": "MAR",
+    "mln_people_no_healthy_diet": 6.2
+  },
+  {
+    "country_name": "Mozambique",
+    "country_code": "MOZ",
+    "mln_people_no_healthy_diet": 28.6
+  },
+  {
+    "country_name": "Myanmar",
+    "country_code": "MMR",
+    "mln_people_no_healthy_diet": 35.4
+  },
+  {
+    "country_name": "Namibia",
+    "country_code": "NAM",
+    "mln_people_no_healthy_diet": 1.4
+  },
+  {
+    "country_name": "Nepal",
+    "country_code": "NPL",
+    "mln_people_no_healthy_diet": 24.5
+  },
+  {
+    "country_name": "Netherlands",
+    "country_code": "NLD",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "NZL",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_code": "NIC",
+    "mln_people_no_healthy_diet": 2.4
+  },
+  {
+    "country_name": "Niger",
+    "country_code": "NER",
+    "mln_people_no_healthy_diet": 21.5
+  },
+  {
+    "country_name": "Nigeria",
+    "country_code": "NGA",
+    "mln_people_no_healthy_diet": 197.6
+  },
+  {
+    "country_name": "North Macedonia",
+    "country_code": "MKD",
+    "mln_people_no_healthy_diet": 0.4
+  },
+  {
+    "country_name": "Norway",
+    "country_code": "NOR",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Oman",
+    "country_code": "OMN",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Pakistan",
+    "country_code": "PAK",
+    "mln_people_no_healthy_diet": 184.4
+  },
+  {
+    "country_name": "Panama",
+    "country_code": "PAN",
+    "mln_people_no_healthy_diet": 0.8
+  },
+  {
+    "country_name": "Paraguay",
+    "country_code": "PRY",
+    "mln_people_no_healthy_diet": 1.3
+  },
+  {
+    "country_name": "Peru",
+    "country_code": "PER",
+    "mln_people_no_healthy_diet": 6.8
+  },
+  {
+    "country_name": "Philippines",
+    "country_code": "PHL",
+    "mln_people_no_healthy_diet": 75.2
+  },
+  {
+    "country_name": "Poland",
+    "country_code": "POL",
+    "mln_people_no_healthy_diet": 0.4
+  },
+  {
+    "country_name": "Portugal",
+    "country_code": "PRT",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Qatar",
+    "country_code": "QAT",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Romania",
+    "country_code": "ROU",
+    "mln_people_no_healthy_diet": 1.7
+  },
+  {
+    "country_name": "Russian Federation",
+    "country_code": "RUS",
+    "mln_people_no_healthy_diet": 5
+  },
+  {
+    "country_name": "Rwanda",
+    "country_code": "RWA",
+    "mln_people_no_healthy_diet": 11.2
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "country_code": "STP",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_code": "SAU",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Senegal",
+    "country_code": "SEN",
+    "mln_people_no_healthy_diet": 7.7
+  },
+  {
+    "country_name": "Serbia",
+    "country_code": "SRB",
+    "mln_people_no_healthy_diet": 1.1
+  },
+  {
+    "country_name": "Seychelles",
+    "country_code": "SYC",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_code": "SLE",
+    "mln_people_no_healthy_diet": 7.1
+  },
+  {
+    "country_name": "Singapore",
+    "country_code": "SGP",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Sint Maarten (Dutch part)",
+    "country_code": "SXM",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Slovak Republic",
+    "country_code": "SVK",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Slovenia",
+    "country_code": "SVN",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "South Africa",
+    "country_code": "ZAF",
+    "mln_people_no_healthy_diet": 38.7
+  },
+  {
+    "country_name": "Spain",
+    "country_code": "ESP",
+    "mln_people_no_healthy_diet": 0.9
+  },
+  {
+    "country_name": "Sri Lanka",
+    "country_code": "LKA",
+    "mln_people_no_healthy_diet": 10.7
+  },
+  {
+    "country_name": "St. Kitts and Nevis",
+    "country_code": "KNA",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "St. Lucia",
+    "country_code": "LCA",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "St. Vincent and the Grenadines",
+    "country_code": "VCT",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Sudan",
+    "country_code": "SDN",
+    "mln_people_no_healthy_diet": 40.3
+  },
+  {
+    "country_name": "Suriname",
+    "country_code": "SUR",
+    "mln_people_no_healthy_diet": 0.3
+  },
+  {
+    "country_name": "Sweden",
+    "country_code": "SWE",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Switzerland",
+    "country_code": "CHE",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "Taiwan, China",
+    "country_code": "TWN",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_code": "TJK",
+    "mln_people_no_healthy_diet": 4
+  },
+  {
+    "country_name": "Tanzania",
+    "country_code": "TZA",
+    "mln_people_no_healthy_diet": 52.3
+  },
+  {
+    "country_name": "Thailand",
+    "country_code": "THA",
+    "mln_people_no_healthy_diet": 11.9
+  },
+  {
+    "country_name": "Togo",
+    "country_code": "TGO",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "country_code": "TTO",
+    "mln_people_no_healthy_diet": 0.2
+  },
+  {
+    "country_name": "Tunisia",
+    "country_code": "TUN",
+    "mln_people_no_healthy_diet": 2.4
+  },
+  {
+    "country_name": "Türkiye",
+    "country_code": "TUR",
+    "mln_people_no_healthy_diet": 6.9
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "country_code": "TCA",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Uganda",
+    "country_code": "UGA",
+    "mln_people_no_healthy_diet": 37.6
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "country_code": "ARE",
+    "mln_people_no_healthy_diet": 0
+  },
+  {
+    "country_name": "United Kingdom",
+    "country_code": "GBR",
+    "mln_people_no_healthy_diet": 0.3
+  },
+  {
+    "country_name": "United States",
+    "country_code": "USA",
+    "mln_people_no_healthy_diet": 4.9
+  },
+  {
+    "country_name": "Uruguay",
+    "country_code": "URY",
+    "mln_people_no_healthy_diet": 0.1
+  },
+  {
+    "country_name": "Vietnam",
+    "country_code": "VNM",
+    "mln_people_no_healthy_diet": 29.2
+  },
+  {
+    "country_name": "West Bank and Gaza",
+    "country_code": "PSE",
+    "mln_people_no_healthy_diet": 1.1
+  },
+  {
+    "country_name": "Zambia",
+    "country_code": "ZMB",
+    "mln_people_no_healthy_diet": 16.2
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_code": "ZWE",
+    "mln_people_no_healthy_diet": null
+  },
+  {
+    "country_name": "Worldwide",
+    "country_code": "WLD",
+    "mln_people_no_healthy_diet": 3056
+  }
+]

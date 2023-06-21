@@ -1,0 +1,5 @@
+"income","digestion","compost","landfill_controlled","incineration","landfill_unspecified","dump","recycling","landfill_sanitary"
+"HIC",0.0001,0.0632,0.03,0.23,0.35,0.02,0.29,0
+"UMC",0.0001,0.02,0.07,0.1,0.24,0.3,0.04,0.23
+"LMC",0,0.08,0.01,0,0.2,0.63,0.06,0.01
+"LIC",0,0,0.01,0,0.02,0.93,0.03,0.01

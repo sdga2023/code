@@ -1,0 +1,852 @@
+[
+  {
+    "Iso3_code": "ALB",
+    "Country": "Albania",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 3.550181128,
+    "Female": 0.636903911,
+    "ratio": 5.57412361,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "DZA",
+    "Country": "Algeria",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 2.247920538,
+    "Female": 0.3779283397,
+    "ratio": 5.948007339,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "BRB",
+    "Country": "Barbados",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 27.32161859,
+    "Female": 2.023103846,
+    "ratio": 13.50480285,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "COL",
+    "Country": "Colombia",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 42.44620799,
+    "Female": 3.525325195,
+    "ratio": 12.04036667,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "ARM",
+    "Country": "Armenia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 2.582965201,
+    "Female": 1.019441384,
+    "ratio": 2.53370644,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "AUS",
+    "Country": "Australia",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 1.181230251,
+    "Female": 0.5780682771,
+    "ratio": 2.043409573,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "AUT",
+    "Country": "Austria",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.6306745222,
+    "Female": 0.8102114674,
+    "ratio": 0.7784073017,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "AZE",
+    "Country": "Azerbaijan",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 2.981441612,
+    "Female": 1.556800251,
+    "ratio": 1.91510864,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "BRA",
+    "Country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 41.92049769,
+    "Female": 3.538542076,
+    "ratio": 11.84682753,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "PRI",
+    "Country": "Puerto Rico",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 35.63213473,
+    "Female": 3.055824601,
+    "ratio": 11.6603992,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "JAM",
+    "Country": "Jamaica",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 82.87738298,
+    "Female": 7.576163913,
+    "ratio": 10.93922781,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "BTN",
+    "Country": "Bhutan",
+    "region": "South Asia",
+    "Year": 2020,
+    "Male": 3.413909731,
+    "Female": 1.383030219,
+    "ratio": 2.468427431,
+    "region_iso3c": "SAS"
+  },
+  {
+    "Iso3_code": "BIH",
+    "Country": "Bosnia and Herzegovina",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 2.365230121,
+    "Female": 0.2986490312,
+    "ratio": 7.919764921,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "HND",
+    "Country": "Honduras",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 66.11596967,
+    "Female": 6.578246425,
+    "ratio": 10.05069823,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "BGR",
+    "Country": "Bulgaria",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.274405986,
+    "Female": 0.7274102739,
+    "ratio": 1.751976885,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "CPV",
+    "Country": "Cabo Verde",
+    "region": "Sub-Saharan Africa",
+    "Year": 2020,
+    "Male": 9.673362783,
+    "Female": 3.250611296,
+    "ratio": 2.975859586,
+    "region_iso3c": "SSF"
+  },
+  {
+    "Iso3_code": "CAN",
+    "Country": "Canada",
+    "region": "North America",
+    "Year": 2020,
+    "Male": 3.032215474,
+    "Female": 0.8995275587,
+    "ratio": 3.370897806,
+    "region_iso3c": "NAC"
+  },
+  {
+    "Iso3_code": "HKG",
+    "Country": "China, Hong Kong Special Administrative Region",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 0.3779436724,
+    "Female": 0.2218211914,
+    "ratio": 1.703821308,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "PAN",
+    "Country": "Panama",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 20.97338741,
+    "Female": 2.13468171,
+    "ratio": 9.825065402,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "LCA",
+    "Country": "Saint Lucia",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 51.97850081,
+    "Female": 5.364403961,
+    "ratio": 9.689520249,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "HRV",
+    "Country": "Croatia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.060985443,
+    "Female": 0.8937071726,
+    "ratio": 1.187173468,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "CYP",
+    "Country": "Cyprus",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.822658629,
+    "Female": 0.6624194539,
+    "ratio": 2.751517363,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "CZE",
+    "Country": "Czechia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.7207177135,
+    "Female": 0.7173785883,
+    "ratio": 1.004654621,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "DNK",
+    "Country": "Denmark",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.319737261,
+    "Female": 0.5836224553,
+    "ratio": 2.261285955,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "URY",
+    "Country": "Uruguay",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 17.87484747,
+    "Female": 2.060832431,
+    "ratio": 8.673605478,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "ATG",
+    "Country": "Antigua and Barbuda",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 16.92441135,
+    "Female": 1.973982905,
+    "ratio": 8.573737545,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "EST",
+    "Country": "Estonia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 5.091844139,
+    "Female": 1.432494417,
+    "ratio": 3.554529832,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "FRA",
+    "Country": "France",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.953199504,
+    "Female": 0.7124977478,
+    "ratio": 2.741341302,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "DEU",
+    "Country": "Germany",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.026175665,
+    "Female": 0.8426163933,
+    "ratio": 1.21784441,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "GRC",
+    "Country": "Greece",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.153283947,
+    "Female": 0.358002197,
+    "ratio": 3.221443769,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "MEX",
+    "Country": "Mexico",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 51.26880949,
+    "Female": 6.008083628,
+    "ratio": 8.533304904,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "BLZ",
+    "Country": "Belize",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 46.01513949,
+    "Female": 5.503852697,
+    "ratio": 8.360532525,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "CRI",
+    "Country": "Costa Rica",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 19.96011121,
+    "Female": 2.432290142,
+    "ratio": 8.206303542,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "ECU",
+    "Country": "Ecuador",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 13.67887199,
+    "Female": 1.870910996,
+    "ratio": 7.311342986,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "HUN",
+    "Country": "Hungary",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.8916361916,
+    "Female": 0.7704370274,
+    "ratio": 1.157312226,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "ISL",
+    "Country": "Iceland",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.5834135527,
+    "Female": 2.355088463,
+    "ratio": 0.2477246871,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "IND",
+    "Country": "India",
+    "region": "South Asia",
+    "Year": 2020,
+    "Male": 3.384121904,
+    "Female": 2.47146547,
+    "ratio": 1.369277437,
+    "region_iso3c": "SAS"
+  },
+  {
+    "Iso3_code": "IRL",
+    "Country": "Ireland",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.142228218,
+    "Female": 0.2413081799,
+    "ratio": 4.73348321,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "ITA",
+    "Country": "Italy",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.5740932766,
+    "Female": 0.3739028329,
+    "ratio": 1.535407668,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "DOM",
+    "Country": "Dominican Republic",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 15.37409246,
+    "Female": 2.357405513,
+    "ratio": 6.521615552,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "JPN",
+    "Country": "Japan",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 0.2121352882,
+    "Female": 0.288921723,
+    "ratio": 0.7342310092,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "JOR",
+    "Country": "Jordan",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 1.838954436,
+    "Female": 0.5360162202,
+    "ratio": 3.430781321,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "KAZ",
+    "Country": "Kazakhstan",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 5.003874162,
+    "Female": 1.552189581,
+    "ratio": 3.223751933,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "KEN",
+    "Country": "Kenya",
+    "region": "Sub-Saharan Africa",
+    "Year": 2020,
+    "Male": 5.277237027,
+    "Female": 1.65971895,
+    "ratio": 3.179596779,
+    "region_iso3c": "SSF"
+  },
+  {
+    "Iso3_code": "KGZ",
+    "Country": "Kyrgyzstan",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 2.974650401,
+    "Female": 0.5459639464,
+    "ratio": 5.448437431,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "LVA",
+    "Country": "Latvia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 3.220849016,
+    "Female": 4.130337724,
+    "ratio": 0.7798028227,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "LTU",
+    "Country": "Lithuania",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 5.714344672,
+    "Female": 1.983171762,
+    "ratio": 2.881416921,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "LUX",
+    "Country": "Luxembourg",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.3158689397,
+    "Female": 0,
+    "ratio": "Inf",
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "MLT",
+    "Country": "Malta",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 2.709782314,
+    "Female": 0.4542997197,
+    "ratio": 5.964745732,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "MUS",
+    "Country": "Mauritius",
+    "region": "Sub-Saharan Africa",
+    "Year": 2020,
+    "Male": 3.824823102,
+    "Female": 1.707313666,
+    "ratio": 2.240258002,
+    "region_iso3c": "SSF"
+  },
+  {
+    "Iso3_code": "GTM",
+    "Country": "Guatemala",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 30.3383588,
+    "Female": 4.962337946,
+    "ratio": 6.113722832,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "MNG",
+    "Country": "Mongolia",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 9.906881506,
+    "Female": 2.164433192,
+    "ratio": 4.577125107,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "MNE",
+    "Country": "Montenegro",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 4.829937887,
+    "Female": 0.9448848658,
+    "ratio": 5.111668164,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "MAR",
+    "Country": "Morocco",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 2.041831672,
+    "Female": 0.4517666253,
+    "ratio": 4.519660278,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "MMR",
+    "Country": "Myanmar",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 0.003813854896,
+    "Female": 0.0141896282,
+    "ratio": 0.2687776481,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "NAM",
+    "Country": "Namibia",
+    "region": "Sub-Saharan Africa",
+    "Year": 2020,
+    "Male": 17.29341072,
+    "Female": 6.874253857,
+    "ratio": 2.515678222,
+    "region_iso3c": "SSF"
+  },
+  {
+    "Iso3_code": "NLD",
+    "Country": "Netherlands",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.737951622,
+    "Female": 0.5117631076,
+    "ratio": 1.441978937,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "NOR",
+    "Country": "Norway",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.5839452289,
+    "Female": 0.5594386816,
+    "ratio": 1.0438056,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "OMN",
+    "Country": "Oman",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 0.2967156544,
+    "Female": 0.2303627292,
+    "ratio": 1.288036722,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "BHS",
+    "Country": "Bahamas",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 32.44493519,
+    "Female": 5.441369246,
+    "ratio": 5.962641703,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "PRY",
+    "Country": "Paraguay",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 11.3675242,
+    "Female": 1.966837411,
+    "ratio": 5.77959527,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "POL",
+    "Country": "Poland",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.9652150142,
+    "Female": 0.4562062036,
+    "ratio": 2.115742852,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "ARG",
+    "Country": "Argentina",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 9.26112966,
+    "Female": 1.607145334,
+    "ratio": 5.762471798,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "QAT",
+    "Country": "Qatar",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 0.4618649645,
+    "Female": 0.2793588714,
+    "ratio": 1.653303374,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "KOR",
+    "Country": "Republic of Korea",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 0.6389812706,
+    "Female": 0.5389924099,
+    "ratio": 1.185510703,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "MDA",
+    "Country": "Republic of Moldova",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 3.467993269,
+    "Female": 1.236911337,
+    "ratio": 2.803752512,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "ROU",
+    "Country": "Romania",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.97778213,
+    "Female": 0.9712892955,
+    "ratio": 2.036244134,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "RUS",
+    "Country": "Russian Federation",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 11.72082341,
+    "Female": 3.528998797,
+    "ratio": 3.321288582,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "SUR",
+    "Country": "Suriname",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 15.2634471,
+    "Female": 3.426863871,
+    "ratio": 4.454057024,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "SRB",
+    "Country": "Serbia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.542181827,
+    "Female": 0.5159589467,
+    "ratio": 2.988962275,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "SGP",
+    "Country": "Singapore",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 0.1632782618,
+    "Female": 0.1793344969,
+    "ratio": 0.9104676714,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "SVK",
+    "Country": "Slovakia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.241311291,
+    "Female": 0.9995844585,
+    "ratio": 1.241827322,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "SVN",
+    "Country": "Slovenia",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.4829844576,
+    "Female": 0.5748767368,
+    "ratio": 0.8401530739,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "ESP",
+    "Country": "Spain",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.778994547,
+    "Female": 0.5004953432,
+    "ratio": 1.556447143,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "PSE",
+    "Country": "State of Palestine",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 1.314278359,
+    "Female": 0.5567829084,
+    "ratio": 2.360486177,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "GRD",
+    "Country": "Grenada",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 19.41199308,
+    "Female": 5.371242368,
+    "ratio": 3.614060165,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "SWE",
+    "Country": "Sweden",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.956928981,
+    "Female": 0.4959999587,
+    "ratio": 3.945421662,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "CHE",
+    "Country": "Switzerland",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 0.4658043696,
+    "Female": 0.6191283132,
+    "ratio": 0.7523551414,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "TJK",
+    "Country": "Tajikistan",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 1.810335894,
+    "Female": 0.2113314218,
+    "ratio": 8.56633566,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "TUN",
+    "Country": "Tunisia",
+    "region": "Middle East & North Africa",
+    "Year": 2020,
+    "Male": 7.627007592,
+    "Female": 1.930221324,
+    "ratio": 3.95136428,
+    "region_iso3c": "MEA"
+  },
+  {
+    "Iso3_code": "TUR",
+    "Country": "Türkiye",
+    "region": "Europe & Central Asia",
+    "Year": 2020,
+    "Male": 4.126224523,
+    "Female": 0.882843154,
+    "ratio": 4.673791153,
+    "region_iso3c": "ECS"
+  },
+  {
+    "Iso3_code": "USA",
+    "Country": "United States of America",
+    "region": "North America",
+    "Year": 2020,
+    "Male": 10.51399513,
+    "Female": 2.60114453,
+    "ratio": 4.04206495,
+    "region_iso3c": "NAC"
+  },
+  {
+    "Iso3_code": "GUY",
+    "Country": "Guyana",
+    "region": "Latin America & Caribbean",
+    "Year": 2020,
+    "Male": 29.83195508,
+    "Female": 9.974169459,
+    "ratio": 2.990921219,
+    "region_iso3c": "LCN"
+  },
+  {
+    "Iso3_code": "VUT",
+    "Country": "Vanuatu",
+    "region": "East Asia & Pacific",
+    "Year": 2020,
+    "Male": 0,
+    "Female": 0.6602403275,
+    "ratio": 0,
+    "region_iso3c": "EAS"
+  },
+  {
+    "Iso3_code": "WORLD",
+    "Country": "World",
+    "region": "NA",
+    "Year": 2020,
+    "Male": 9.13447039,
+    "Female": 2.015786307,
+    "ratio": 4.531467626,
+    "region_iso3c": "NA"
+  }
+]

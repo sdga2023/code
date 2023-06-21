@@ -1,0 +1,101 @@
+[
+  {
+    "iso3c": "UKR",
+    "year": 2015,
+    "gdp": 89.3,
+    "gdp_forc20": 89.3,
+    "gdp_forc_jan2022": 89.3,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2016,
+    "gdp": 91.5,
+    "gdp_forc20": 91.5,
+    "gdp_forc_jan2022": 91.5,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2017,
+    "gdp": 93.6,
+    "gdp_forc20": 93.6,
+    "gdp_forc_jan2022": 93.6,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2018,
+    "gdp": 96.9,
+    "gdp_forc20": 96.9,
+    "gdp_forc_jan2022": 96.9,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gdp_forc_jan2022": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2020,
+    "gdp": 96.2,
+    "gdp_forc20": 103.7,
+    "gdp_forc_jan2022": 96,
+    "gap_dollars": -7597694769,
+    "gap_relative": -7.5
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2021,
+    "gdp": 99.5,
+    "gdp_forc20": 108.1,
+    "gdp_forc_jan2022": 99.3,
+    "gap_dollars": -8701744625,
+    "gap_relative": -8.6
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2022,
+    "gdp": 70.6,
+    "gdp_forc20": 112.6,
+    "gdp_forc_jan2022": 102.4,
+    "gap_dollars": -42851523316,
+    "gap_relative": -42
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2023,
+    "gdp": 72,
+    "gdp_forc20": 117.3,
+    "gdp_forc_jan2022": 106,
+    "gap_dollars": -46233772568,
+    "gap_relative": -45.3
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2024,
+    "gdp": 74.9,
+    "gdp_forc20": 122.3,
+    "gdp_forc_jan2022": 109.7,
+    "gap_dollars": -48248960788,
+    "gap_relative": -47.4
+  },
+  {
+    "iso3c": "UKR",
+    "year": 2025,
+    "gdp": 78,
+    "gdp_forc20": 127.4,
+    "gdp_forc_jan2022": 113.6,
+    "gap_dollars": -50351795073,
+    "gap_relative": -49.4
+  }
+]

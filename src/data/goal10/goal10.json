@@ -1,0 +1,299 @@
+{
+  "config": {
+    "goal": "10",
+    "headline": "Progress and setbacks in reducing income inequalities",
+    "introtext": "[goal: 10] is aimed at creating a more equitable world. Global inequality had been declining for decades before the arrival of COVID-19: the Gini index dropped from about 70 in 1990 to 62 in 2019. The pandemic, however, resulted in the largest increase in global inequality in three decades.",
+    "path": "data/goal10/goal10.global_gini.json",
+    "country_data_label": "Gini index",
+    "legend_label": "Gini index",
+    "targets_covered": [
+      {
+        "target": "4",
+        "translationPrefix": "goal10.config.targets_covered.#0"
+      }
+    ],
+    "source": "[link: https://pip.worldbank.org/ World Bank Poverty and Inequality Platform]. Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/SI.POV.GINI SI.POV.GINI]).",
+    "credits": "Daniel Gerszon Mahler",
+    "inputs": "Andrés Castañeda, Christoph Lakner, Dean Jolliffe, Marta Schoch, Martha Viveros, Nishant Yonzan, Samuel Kofi Tetteh Baah",
+    "visuals": "Dominikus Baur",
+    "citation": "Mahler, Daniel Gerszon, and Dominikus Baur. 2023. “Progress and setbacks in reducing income inequalities” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/97pn-6m86 https://www.doi.org/10.60616/97pn-6m86]"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "[goal: 10] calls for reducing inequalities from several perspectives. This story will focus on income inequality as measured by the Gini index, an indicator of [target: 10.4] .[reference: United Nations Department of Economic and Social Affairs. 2017. [link: https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%202022%20refinement_Eng.pdf Global Indicator Framework for the Sustainable Development Goals and Targets of the 2030 Agenda for Sustainable Development.] A/RES/71/313.]",
+      "translationPrefix": "goal10.content.#0"
+    },
+    {
+      "type": "text",
+      "text": "Gini indices measure inequality on a scale from zero, indicating perfect equality, to 100, indicating one person having all resources. Countries’ income Ginis typically lie within a range of 25 to 60.[footnote: Some countries measure inequality using incomes while others use consumption expenditures. For simplicity both types of Ginis are referred to here as income Ginis or simply as Ginis without reference to either income or consumption. Income Ginis are typically higher than consumption Ginis.] The lowest Gini currently observed is 23 in Slovakia, while the highest is 63 in South Africa.[reference: World Bank. 2023. [link: https://pip.worldbank.org/ Poverty and Inequality Platform] (version 20230328_2017_01_02_PROD) [Data set]  and World Development Indicators (SI.POV.GINI).]",
+      "translationPrefix": "goal10.content.#1"
+    },
+    {
+      "type": "vis",
+      "title": "Inequalities around the world vary greatly",
+      "subtitle": "Gini index of income or consumption, latest estimate available",
+      "graphic": "gini_world",
+      "visdescription": "Beeswarm of Gini indices around the world, showing that inequalities tend to be higher in Sub-Saharan Africa and Latin America & Caribbean.",
+      "path": "data/goal10/goal10.global_gini.json",
+      "size": "main",
+      "source": "[link: https://pip.worldbank.org/ World Bank Poverty and Inequality Platform]. Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/SI.POV.GINI SI.POV.GINI]).",
+      "y_label": "Gini index",
+      "global_label": "Global Gini",
+      "gini_explanation_more": "lower inequality",
+      "gini_explanation_less": "higher inequality",
+      "translationPrefix": "goal10.content.#2"
+    },
+    {
+      "type": "factoid",
+      "title": "The global Gini",
+      "number": "62",
+      "label": "in 2019",
+      "text": "Ginis can also be calculated globally. The global Gini pools all people of the world together, adjusts their incomes for differences in purchasing power, and evaluates how far their incomes are from each other. This accounts for inequality within and among countries.",
+      "translationPrefix": "goal10.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "Inequality <i>within</i> countries concerns the degree to which individuals’ incomes in a country differ from each other while inequality <i>between</i> countries concerns the degree to which countries’ average incomes differ from each other. In Malawi, for example, average consumption in 2019 was less than $1,000 compared to more than $30,000 in the United States.[reference: World Bank. 2023. [link: https://pip.worldbank.org/ Poverty and Inequality Platform] (version 20230328_2017_01_02_PROD) [Data set] and World Development Indicators (SI.SPR.PCAP).] Because of the large differences in average incomes between countries, the global Gini tends to be higher than those in individual countries. In 2019, the global Gini was 62.[reference: World Bank. 2022. [link: https://www.worldbank.org/en/publication/poverty-and-shared-prosperity Poverty and Shared Prosperity 2022: Correcting Course.] Washington, DC.][reference: Mahler, Daniel Gerszon ⓡ Nishant Yonzan ⓡ Christoph Lakner. 2022. [link: https://openknowledge.worldbank.org/handle/10986/38114 The Impact of COVID-19 on Global Inequality and Poverty.] Policy Research Working Paper 10198. World Bank, Washington, DC.]",
+      "translationPrefix": "goal10.content.#4"
+    },
+    {
+      "type": "scroller",
+      "id": "gini-scroller-1",
+      "title": "Global inequality declined until 2020 at which point the pandemic reversed the trend",
+      "subtitle": "Global Gini index",
+      "visdescription": "Line chart showing that the global Gini index fell from 1990 to 2019 but increased in 2020 due to the pandemic.",
+      "source": "[link: https://www.worldbank.org/en/publication/poverty-and-shared-prosperity 2022 Poverty and Shared Prosperity Report: Correcting Course] and [link: https://openknowledge.worldbank.org/handle/10986/38114  Mahler ⓡ al. (2022)].",
+      "graphic": "goal10_gini_linechart",
+      "y_label": "Gini index",
+      "covid_projection": "COVID projection",
+      "precovid_projection": "Pre-COVID projection",
+      "label_decrease": "decrease",
+      "label_increase": "increase since previous year",
+      "path": "data/goal10/goal10.global_gini_time.json",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "calculating_gini",
+          "text": "The <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-WLD)\">global Gini</span> has [emphasis: fallen since 1990], from about [emphasis: 70] in 1990 to [emphasis: 62 in 2019], which represents significant progress in reducing global inequality.",
+          "translationPrefix": "goal10.content.#5.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "gini_in_sweden",
+          "text": "This global progress might be surprising because inequality has risen in many western countries. In <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-ECS)\">Sweden</span>, for example, the Gini [emphasis: increased from 25 to 29] from 2003 to 2019.",
+          "translationPrefix": "goal10.content.#5.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "gini_in_paraguay",
+          "text": "But at the same time, inequality has fallen in many other countries. In <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-LCN)\">Paraguay</span>, the Gini [emphasis: fell from 55 to 46] during the same time period.",
+          "translationPrefix": "goal10.content.#5.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "gini_poor",
+          "text": "In addition, poorer countries have generally grown faster than richer countries, decreasing inequality between countries, which helps explain why the global Gini has declined.",
+          "translationPrefix": "goal10.content.#5.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "covid_impact_gini",
+          "text": "Before the pandemic, World Bank projections suggested that the trend of declining inequality would continue. Unfortunately, [emphasis: because of the pandemic], in 2020 the world witnessed the [emphasis: largest increase] in <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-region-WLD)\">global inequality</span> [emphasis: since 1990].",
+          "translationPrefix": "goal10.content.#5.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "pause",
+          "text": "This becomes more evident if one looks at the [emphasis: annual changes] in the global Gini.",
+          "translationPrefix": "goal10.content.#5.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "relative_changes_gini",
+          "subtitle": "Annual changes in global Gini index",
+          "text": "[emphasis: 2020] stands out as the year with the <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-binary-neg)\">largest increase</span> in the Gini since 1990. [emphasis: Compared to the projections] conducted prior to the pandemic, the global Gini [emphasis: increased by 0.7] in 2020.",
+          "translationPrefix": "goal10.content.#5.scenes.#6"
+        }
+      ],
+      "translationPrefix": "goal10.content.#5"
+    },
+    {
+      "type": "text",
+      "text": "An increase in the global Gini of 0.7 may seem like a minor change. What does it mean for a Gini index to change by this amount?",
+      "translationPrefix": "goal10.content.#6"
+    },
+    {
+      "type": "subhed",
+      "text": "Interpreting Gini indices",
+      "translationPrefix": "goal10.content.#7"
+    },
+    {
+      "type": "scroller",
+      "graphic": "goal10_beeswarm_explorer",
+      "path": "data/goal10/goal10.belarus_namibia.json",
+      "id": "gini-explorer",
+      "annual_consumption_label": "Annual consumption per capita (2017 USD, adjusted for purchasing power)",
+      "relative_consumption_label": "Consumption relative to mean (%)",
+      "gini_label": "Gini",
+      "label_100_people": "100 people",
+      "title": "Distribution of consumption in Belarus and Namibia",
+      "subtitle": "Annual consumption per capita (2017 USD)",
+      "visdescription": "Beeswarm showing the distribution of consumption per capita in Belarus and Namibia in dollars per year and explain how the Gini index can be derived.",
+      "source": "[link: https://pip.worldbank.org/ World Bank Poverty and Inequality Platform].",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "income_dist",
+          "text": "Let’s look at two countries, [emphasis: Belarus and Namibia], and reduce the entire distributions of these two countries to <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-pink600)\">100 percentiles</span>, which can be thought of as 100 people, each represented by a dot. Intuitively, inequality says something about how far these dots are from each other – how far people’s incomes or consumption levels are from each other.",
+          "translationPrefix": "goal10.content.#8.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "absolute",
+          "text": "Yet what matters is [emphasis: not the <i>absolute</i> distance between the dots]. If that were the case, inequality would change if individuals’ income or consumption were measured annually instead of monthly. Since the annual amounts are larger, there would be larger absolute differences between individuals.",
+          "translationPrefix": "goal10.content.#8.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "relative",
+          "subtitle": "Consumption relative to mean (%)",
+          "text": "What matters is [emphasis: how far individuals are from each other in <i>relative</i> terms], or how much one has relative to others. As a result, we can rescale the vertical axis and express how much each person has compared with the average.",
+          "translationPrefix": "goal10.content.#8.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "suppose",
+          "subtitle": "Consumption relative to mean (%)",
+          "text": "Suppose we pick two people in Namibia and ask how much would one need to transfer <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-binary-neg)\">from the richer</span> of the two <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-binary-pos)\">to the poorer</span> to make them equal?",
+          "translationPrefix": "goal10.content.#8.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "explanation",
+          "title": "Distribution of consumption in Belarus and Namibia",
+          "text": "In the case of these two people, it turns out to be around [emphasis: 557.8%] of the mean consumption. We can continue randomly selecting two people and determine how much we would need to [emphasis: transfer from the rich to the poor to make them equal].",
+          "translationPrefix": "goal10.content.#8.scenes.#4"
+        },
+        {
+          "type": "scene_gini_explorer_result",
+          "id": "explorable",
+          "autopicking_label": "Randomly select two people",
+          "average_transfers": "Average of mean consumption transferred in {num} transfers",
+          "translationPrefix": "goal10.content.#8.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "pre-conclusion",
+          "text": "Now imagine repeating this process continually. The average share of mean consumption that needs to be transferred to make two people equal gives you the Gini index. For [emphasis: Namibia] it is about [emphasis: 59] while for [emphasis: Belarus], it is about [emphasis: 25]. Hence, [emphasis: Namibia is more unequal] than Belarus.",
+          "translationPrefix": "goal10.content.#8.scenes.#6"
+        },
+        {
+          "type": "scene_gini_explorer_result",
+          "id": "conclusion",
+          "text": "[footnote: Due to the approximation involved with reducing the distributions to 100 percentiles, the actual Gini might differ a little from the average of the transfers.]",
+          "actual_gini": "Actual Gini of",
+          "average_transfers": "Average of mean consumption transferred in {num} transfers",
+          "translationPrefix": "goal10.content.#8.scenes.#7"
+        }
+      ],
+      "translationPrefix": "goal10.content.#8"
+    },
+    {
+      "type": "text",
+      "text": "We can now interpret the increase in the global Gini of 0.7 caused by the pandemic. It means that the expected transfer to make two people equal requires 0.7 percent more of the average global income. Based on an average income of about $6,000 in 2020, this means it now takes $42 more to make two people equal. Though this may seem small, it represents more than a week’s income for more than 40 percent of the world’s population.",
+      "translationPrefix": "goal10.content.#9"
+    },
+    {
+      "type": "subhed",
+      "text": "What drove the increase in the global Gini in 2020?",
+      "translationPrefix": "goal10.content.#10"
+    },
+    {
+      "type": "text",
+      "text": "This increase in global inequality in 2020 could be driven by (1) poorer countries suffering more economically during the pandemic or (2) by poorer people within countries being harmed disproportionately by the pandemic compared with their wealthier peers.",
+      "translationPrefix": "goal10.content.#11"
+    },
+    {
+      "type": "wide_scroller",
+      "graphic": "gini_covid_plot",
+      "path": "data/goal10/goal10.covid.json",
+      "id": "gini-covid-plot",
+      "title": "What drove the increase in the global Gini in 2020?",
+      "visdescription": "Country-level scatter plot of change in mean income in 2020 due to COVID against mean income, showing that middle-income countries were the worst affected economically.",
+      "source": "[link: https://www.worldbank.org/en/publication/poverty-and-shared-prosperity 2022 Poverty and Shared Prosperity Report: Correcting Course], [link: https://openknowledge.worldbank.org/handle/10986/38114  Mahler ⓡ al. (2022)], and [link: https://www.imf.org/en/Topics/imf-and-covid19/Fiscal-Policies-Database-in-Response-to-COVID-19 IMF Database of Fiscal Policy Responses to COVID-19].",
+      "note": "The dashed line is a linear fitted line. The changes in 2020 due to COVID-19 indicate the outcome in 2020 contrasted with an estimate of what would have happened to incomes in 2020 had COVID-19 not occurred.",
+      "x_label_1": "Mean annual income (logarithmic scale) in thousands",
+      "x_label_2": "Spending or foregone revenue in response to COVID-19",
+      "y_label_1": "Change in Gini in 2020 due to COVID",
+      "y_label_2": "Change in mean income in 2020 due to COVID",
+      "x_units_2": "share of GDP",
+      "scenes": [
+        {
+          "type": "scene",
+          "subtitle": "Change in mean income in 2020 due to COVID by income level",
+          "id": "between_countries",
+          "text": "The increase in global inequality was driven by <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-low)\">poorer countries</span> taking a bigger economic hit from the pandemic than <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-high)\">richer countries</span>. In particular, <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-upper-middle)\">middle-income countries</span> on average saw [emphasis: large negative shocks to average incomes]. Of all regions, South Asia saw the largest drop in 2020 incomes compared to what was expected before the pandemic.[reference: World Bank. 2023. [chapterlink: 8 Atlas of Sustainable Development Goals, Chapter 8.] Washington, DC.]",
+          "translationPrefix": "goal10.content.#12.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "subtitle": "Change in Gini in 2020 due to COVID by income level",
+          "id": "within_countries",
+          "text": "When looking at inequality within countries, there is no clear pattern. In some countries inequality increased, but in others, particularly <span class=\"highlighted\" style=\"--highlight-color: var(--color-vis-income-high)\">rich countries</span>, [emphasis: inequality fell]. Hence, we cannot say that poorer individuals within countries were systematically more economically harmed by the pandemic. In Brazil, for example, inequality fell, while in neighbouring Bolivia, Ecuador, and Peru, inequality increased.",
+          "translationPrefix": "goal10.content.#12.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "subtitle": "Change in Gini in 2020 due to COVID by fiscal spending",
+          "id": "government_response",
+          "text": "There are many reasons why some countries saw inequality increase in 2020 and others saw declines. One factor relates to [target: 10.4], the response of governments, particularly their [emphasis: ability to deliver social protection to the poor].",
+          "translationPrefix": "goal10.content.#12.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "subtitle": "Change in Gini in 2020 due to COVID by fiscal spending",
+          "id": "government_response",
+          "text": "Countries that [emphasis: responded to the pandemic by ramping up social spending] and/or by cutting taxes to help the most vulnerable often saw [emphasis: inequality decrease], while the opposite is often the case for those with little or no fiscal response. In the United States, for example, inequality in pre-tax incomes increased from 2019 to 2020, but due to progressive stimulus payments and tax credits, after-tax income inequality fell.[reference: Shrider, Emily A., Melissa Kollar, Frances Chen, and Jessica Semega. 2021. [link: https://www.census.gov/content/dam/Census/library/publications/2021/demo/p60-273.pdf Income and Poverty in the United States: 2020]. U.S. Government Publishing Office. Washington, DC.]",
+          "translationPrefix": "goal10.content.#12.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal10.content.#12"
+    },
+    {
+      "type": "text",
+      "text": "Reducing global inequality requires that the poorest nations close the gap with the wealthier ones and that the poorest people within each nation catch up with their less poor neighbours. This necessitates promoting universal, social, and political inclusion, in line with [target: 10.2], and ensuring equal opportunities and ending discrimination, in line with [target: 10.3].",
+      "translationPrefix": "goal10.content.#13"
+    },
+    {
+      "type": "text",
+      "text": "Progress in other SDGs can also help. For example, if children get quality education, in line with [goal: 4], or if women are allowed to participate fully and equally in societies, in line with [goal: 5], then current and future income inequality will decline. Reducing inequality can also have positive spillovers on other SDGs, such as curbing poverty ([target: 1.1]) while containing climate change ([target: 13.2]).[reference: World Bank. 2023. [chapterlink: 1 Atlas of Sustainable Development Goals, Chapter 1.] Washington, DC.]",
+      "translationPrefix": "goal10.content.#14"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "Most refugees originate from and are hosted by low-income and lower middle-income countries",
+          "shorttitle": "Most refugees originate from low-income and lower middle-income countries",
+          "subtitle": "Refugees by area of origin and destination by income, 2000-2021 (in millions)",
+          "note": "The total count includes all refugees under the mandate of the United Nations High Commissioner for Refugees (UNHCR). In addition, there are about 6 million refugees under the mandate of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA).",
+          "source": "UNHCR, [link: unhcr.org/refugee-statistics Refugee Data Finder] and World Development Indicators, World Bank ([link: https://data.worldbank.org/indicator/SM.POP.REG.OR SM.POP.REFG.OR]).",
+          "target": "10.7",
+          "image": "goal10/sdg10_refugee_by_origin_dest.png",
+          "translationPrefix": "goal10.content.#15.charts.#0"
+        },
+        {
+          "title": "The cost of sending remittances remain well above the SDG target of 3 percent in most  countries, particularly in Sub-Saharan Africa",
+          "shorttitle": "The cost of sending remittances remain well above the SDG target of 3 percent",
+          "subtitle": "Average transaction cost of sending remittances (%)",
+          "source": "Remittance Prices Worldwide. Retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/SI.RMT.COST.IB.ZS SI.RMT.COST.IB.ZS]).",
+          "target": "10.c",
+          "image": "goal10/sdg10_remittance.png",
+          "translationPrefix": "goal10.content.#15.charts.#1"
+        }
+      ],
+      "translationPrefix": "goal10.content.#15"
+    }
+  ]
+}

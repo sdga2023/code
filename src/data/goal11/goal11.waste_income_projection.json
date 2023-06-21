@@ -1,0 +1,242 @@
+[
+  {
+    "indicator": "total_waste",
+    "year": 2020,
+    "income": "HIC",
+    "value": 649206291348
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2020,
+    "income": "UMC",
+    "value": 768362625329
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2020,
+    "income": "LMC",
+    "value": 519015811266
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2020,
+    "income": "LIC",
+    "value": 88410443581
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2020,
+    "income": "unclassified",
+    "value": 9004363100
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2030,
+    "income": "HIC",
+    "value": 706347642346
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2030,
+    "income": "UMC",
+    "value": 989045985279
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2030,
+    "income": "LMC",
+    "value": 706124945325
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2030,
+    "income": "LIC",
+    "value": 127664849486
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2030,
+    "income": "unclassified",
+    "value": 12410863967
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2040,
+    "income": "HIC",
+    "value": 745902046942
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2040,
+    "income": "UMC",
+    "value": 1153609196221
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2040,
+    "income": "LMC",
+    "value": 932185430420
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2040,
+    "income": "LIC",
+    "value": 182599026127
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2040,
+    "income": "unclassified",
+    "value": 15175920650
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2050,
+    "income": "HIC",
+    "value": 767165522120
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2050,
+    "income": "UMC",
+    "value": 1270516515183
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2050,
+    "income": "LMC",
+    "value": 1198452023651
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2050,
+    "income": "LIC",
+    "value": 262974260268
+  },
+  {
+    "indicator": "total_waste",
+    "year": 2050,
+    "income": "unclassified",
+    "value": 17873089124
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2020,
+    "income": "HIC",
+    "value": 578.4968713
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2020,
+    "income": "UMC",
+    "value": 335.3689323
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2020,
+    "income": "LMC",
+    "value": 172.4668092
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2020,
+    "income": "LIC",
+    "value": 148.1644786
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2020,
+    "income": "unclassified",
+    "value": 349.0515089
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2030,
+    "income": "HIC",
+    "value": 614.0880082
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2030,
+    "income": "UMC",
+    "value": 416.3481888
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2030,
+    "income": "LMC",
+    "value": 207.8817974
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2030,
+    "income": "LIC",
+    "value": 164.7744861
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2030,
+    "income": "unclassified",
+    "value": 406.841293
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2040,
+    "income": "HIC",
+    "value": 640.2375127
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2040,
+    "income": "UMC",
+    "value": 479.3000193
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2040,
+    "income": "LMC",
+    "value": 248.8908444
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2040,
+    "income": "LIC",
+    "value": 188.7179073
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2040,
+    "income": "unclassified",
+    "value": 467.0266837
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2050,
+    "income": "HIC",
+    "value": 657.8524543
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2050,
+    "income": "UMC",
+    "value": 531.0289617
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2050,
+    "income": "LMC",
+    "value": 296.5229595
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2050,
+    "income": "LIC",
+    "value": 224.8043967
+  },
+  {
+    "indicator": "per_capita_waste",
+    "year": 2050,
+    "income": "unclassified",
+    "value": 532.145918
+  }
+]

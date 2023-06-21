@@ -1,0 +1,32 @@
+[
+  {
+    "iso3c": "BFA",
+    "before": 83.4,
+    "aprjune20": 31.8
+  },
+  {
+    "iso3c": "ETH",
+    "before": 91,
+    "aprjune20": 28
+  },
+  {
+    "iso3c": "MWI",
+    "before": 96.4,
+    "aprjune20": 20.4
+  },
+  {
+    "iso3c": "MLI",
+    "before": 85.4,
+    "aprjune20": 36
+  },
+  {
+    "iso3c": "NGA",
+    "before": 94.1,
+    "aprjune20": 58.4
+  },
+  {
+    "iso3c": "UGA",
+    "before": 92.7,
+    "aprjune20": 59.3
+  }
+]

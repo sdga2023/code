@@ -1,0 +1,6226 @@
+[
+  {
+    "param": "no2",
+    "dateRel": -80,
+    "key": "predic",
+    "val": 34.80216017,
+    "predUpr": 37.74588547,
+    "predLwr": 31.85843486
+  },
+  {
+    "param": "no2",
+    "dateRel": -80,
+    "key": "observed",
+    "val": 20.42713775,
+    "predUpr": 37.74588547,
+    "predLwr": 31.85843486
+  },
+  {
+    "param": "no2",
+    "dateRel": -79,
+    "key": "predic",
+    "val": 13.30440524,
+    "predUpr": 14.55469842,
+    "predLwr": 12.05411206
+  },
+  {
+    "param": "no2",
+    "dateRel": -79,
+    "key": "observed",
+    "val": 9.495146899,
+    "predUpr": 14.55469842,
+    "predLwr": 12.05411206
+  },
+  {
+    "param": "no2",
+    "dateRel": -78,
+    "key": "predic",
+    "val": 14.92131492,
+    "predUpr": 16.06027301,
+    "predLwr": 13.78235682
+  },
+  {
+    "param": "no2",
+    "dateRel": -78,
+    "key": "observed",
+    "val": 10.17195272,
+    "predUpr": 16.06027301,
+    "predLwr": 13.78235682
+  },
+  {
+    "param": "no2",
+    "dateRel": -77,
+    "key": "predic",
+    "val": 17.94880106,
+    "predUpr": 19.34225696,
+    "predLwr": 16.55534517
+  },
+  {
+    "param": "no2",
+    "dateRel": -77,
+    "key": "observed",
+    "val": 12.70229688,
+    "predUpr": 19.34225696,
+    "predLwr": 16.55534517
+  },
+  {
+    "param": "no2",
+    "dateRel": -76,
+    "key": "predic",
+    "val": 18.33198521,
+    "predUpr": 19.83388114,
+    "predLwr": 16.83008928
+  },
+  {
+    "param": "no2",
+    "dateRel": -76,
+    "key": "observed",
+    "val": 13.43949893,
+    "predUpr": 19.83388114,
+    "predLwr": 16.83008928
+  },
+  {
+    "param": "no2",
+    "dateRel": -75,
+    "key": "predic",
+    "val": 18.23675126,
+    "predUpr": 19.85244522,
+    "predLwr": 16.6210573
+  },
+  {
+    "param": "no2",
+    "dateRel": -75,
+    "key": "observed",
+    "val": 15.4167444,
+    "predUpr": 19.85244522,
+    "predLwr": 16.6210573
+  },
+  {
+    "param": "no2",
+    "dateRel": -74,
+    "key": "predic",
+    "val": 19.7533156,
+    "predUpr": 21.11582621,
+    "predLwr": 18.390805
+  },
+  {
+    "param": "no2",
+    "dateRel": -74,
+    "key": "observed",
+    "val": 13.88514363,
+    "predUpr": 21.11582621,
+    "predLwr": 18.390805
+  },
+  {
+    "param": "no2",
+    "dateRel": -73,
+    "key": "predic",
+    "val": 18.28215272,
+    "predUpr": 19.4583574,
+    "predLwr": 17.10594804
+  },
+  {
+    "param": "no2",
+    "dateRel": -73,
+    "key": "observed",
+    "val": 13.41153756,
+    "predUpr": 19.4583574,
+    "predLwr": 17.10594804
+  },
+  {
+    "param": "no2",
+    "dateRel": -72,
+    "key": "predic",
+    "val": 15.96084843,
+    "predUpr": 16.98259464,
+    "predLwr": 14.93910223
+  },
+  {
+    "param": "no2",
+    "dateRel": -72,
+    "key": "observed",
+    "val": 11.92478972,
+    "predUpr": 16.98259464,
+    "predLwr": 14.93910223
+  },
+  {
+    "param": "no2",
+    "dateRel": -71,
+    "key": "predic",
+    "val": 13.79461374,
+    "predUpr": 14.71672983,
+    "predLwr": 12.87249766
+  },
+  {
+    "param": "no2",
+    "dateRel": -71,
+    "key": "observed",
+    "val": 11.00159636,
+    "predUpr": 14.71672983,
+    "predLwr": 12.87249766
+  },
+  {
+    "param": "no2",
+    "dateRel": -70,
+    "key": "predic",
+    "val": 10.98963784,
+    "predUpr": 11.76179876,
+    "predLwr": 10.21747692
+  },
+  {
+    "param": "no2",
+    "dateRel": -70,
+    "key": "observed",
+    "val": 9.773689955,
+    "predUpr": 11.76179876,
+    "predLwr": 10.21747692
+  },
+  {
+    "param": "no2",
+    "dateRel": -69,
+    "key": "predic",
+    "val": 11.43632996,
+    "predUpr": 12.25604768,
+    "predLwr": 10.61661224
+  },
+  {
+    "param": "no2",
+    "dateRel": -69,
+    "key": "observed",
+    "val": 10.15711444,
+    "predUpr": 12.25604768,
+    "predLwr": 10.61661224
+  },
+  {
+    "param": "no2",
+    "dateRel": -68,
+    "key": "predic",
+    "val": 11.69258077,
+    "predUpr": 12.53099178,
+    "predLwr": 10.85416975
+  },
+  {
+    "param": "no2",
+    "dateRel": -68,
+    "key": "observed",
+    "val": 10.19819458,
+    "predUpr": 12.53099178,
+    "predLwr": 10.85416975
+  },
+  {
+    "param": "no2",
+    "dateRel": -67,
+    "key": "predic",
+    "val": 12.02948643,
+    "predUpr": 12.9105691,
+    "predLwr": 11.14840375
+  },
+  {
+    "param": "no2",
+    "dateRel": -67,
+    "key": "observed",
+    "val": 10.74346158,
+    "predUpr": 12.9105691,
+    "predLwr": 11.14840375
+  },
+  {
+    "param": "no2",
+    "dateRel": -66,
+    "key": "predic",
+    "val": 11.7618474,
+    "predUpr": 12.65416683,
+    "predLwr": 10.86952796
+  },
+  {
+    "param": "no2",
+    "dateRel": -66,
+    "key": "observed",
+    "val": 10.75511582,
+    "predUpr": 12.65416683,
+    "predLwr": 10.86952796
+  },
+  {
+    "param": "no2",
+    "dateRel": -65,
+    "key": "predic",
+    "val": 11.42049991,
+    "predUpr": 12.31931677,
+    "predLwr": 10.52168305
+  },
+  {
+    "param": "no2",
+    "dateRel": -65,
+    "key": "observed",
+    "val": 10.69087359,
+    "predUpr": 12.31931677,
+    "predLwr": 10.52168305
+  },
+  {
+    "param": "no2",
+    "dateRel": -64,
+    "key": "predic",
+    "val": 11.32514877,
+    "predUpr": 12.19154053,
+    "predLwr": 10.458757
+  },
+  {
+    "param": "no2",
+    "dateRel": -64,
+    "key": "observed",
+    "val": 10.84422547,
+    "predUpr": 12.19154053,
+    "predLwr": 10.458757
+  },
+  {
+    "param": "no2",
+    "dateRel": -63,
+    "key": "predic",
+    "val": 10.45257522,
+    "predUpr": 11.15478131,
+    "predLwr": 9.750369127
+  },
+  {
+    "param": "no2",
+    "dateRel": -63,
+    "key": "observed",
+    "val": 9.806066798,
+    "predUpr": 11.15478131,
+    "predLwr": 9.750369127
+  },
+  {
+    "param": "no2",
+    "dateRel": -62,
+    "key": "predic",
+    "val": 10.63264041,
+    "predUpr": 11.31841561,
+    "predLwr": 9.946865208
+  },
+  {
+    "param": "no2",
+    "dateRel": -62,
+    "key": "observed",
+    "val": 10.21811708,
+    "predUpr": 11.31841561,
+    "predLwr": 9.946865208
+  },
+  {
+    "param": "no2",
+    "dateRel": -61,
+    "key": "predic",
+    "val": 11.60030393,
+    "predUpr": 12.41458072,
+    "predLwr": 10.78602713
+  },
+  {
+    "param": "no2",
+    "dateRel": -61,
+    "key": "observed",
+    "val": 11.48639392,
+    "predUpr": 12.41458072,
+    "predLwr": 10.78602713
+  },
+  {
+    "param": "no2",
+    "dateRel": -60,
+    "key": "predic",
+    "val": 12.02639834,
+    "predUpr": 12.86230483,
+    "predLwr": 11.19049186
+  },
+  {
+    "param": "no2",
+    "dateRel": -60,
+    "key": "observed",
+    "val": 12.32899329,
+    "predUpr": 12.86230483,
+    "predLwr": 11.19049186
+  },
+  {
+    "param": "no2",
+    "dateRel": -59,
+    "key": "predic",
+    "val": 11.71733488,
+    "predUpr": 12.43350136,
+    "predLwr": 11.0011684
+  },
+  {
+    "param": "no2",
+    "dateRel": -59,
+    "key": "observed",
+    "val": 12.0734787,
+    "predUpr": 12.43350136,
+    "predLwr": 11.0011684
+  },
+  {
+    "param": "no2",
+    "dateRel": -58,
+    "key": "predic",
+    "val": 21.97991952,
+    "predUpr": 24.01772229,
+    "predLwr": 19.94211675
+  },
+  {
+    "param": "no2",
+    "dateRel": -58,
+    "key": "observed",
+    "val": 21.10645118,
+    "predUpr": 24.01772229,
+    "predLwr": 19.94211675
+  },
+  {
+    "param": "no2",
+    "dateRel": -57,
+    "key": "predic",
+    "val": 24.7056321,
+    "predUpr": 26.96024146,
+    "predLwr": 22.45102274
+  },
+  {
+    "param": "no2",
+    "dateRel": -57,
+    "key": "observed",
+    "val": 24.43242581,
+    "predUpr": 26.96024146,
+    "predLwr": 22.45102274
+  },
+  {
+    "param": "no2",
+    "dateRel": -56,
+    "key": "predic",
+    "val": 27.94235303,
+    "predUpr": 30.33477415,
+    "predLwr": 25.54993192
+  },
+  {
+    "param": "no2",
+    "dateRel": -56,
+    "key": "observed",
+    "val": 26.47004049,
+    "predUpr": 30.33477415,
+    "predLwr": 25.54993192
+  },
+  {
+    "param": "no2",
+    "dateRel": -55,
+    "key": "predic",
+    "val": 31.70483307,
+    "predUpr": 33.96916165,
+    "predLwr": 29.4405045
+  },
+  {
+    "param": "no2",
+    "dateRel": -55,
+    "key": "observed",
+    "val": 30.97207178,
+    "predUpr": 33.96916165,
+    "predLwr": 29.4405045
+  },
+  {
+    "param": "no2",
+    "dateRel": -54,
+    "key": "predic",
+    "val": 33.58206871,
+    "predUpr": 35.82025482,
+    "predLwr": 31.34388259
+  },
+  {
+    "param": "no2",
+    "dateRel": -54,
+    "key": "observed",
+    "val": 32.93741655,
+    "predUpr": 35.82025482,
+    "predLwr": 31.34388259
+  },
+  {
+    "param": "no2",
+    "dateRel": -53,
+    "key": "predic",
+    "val": 33.2607433,
+    "predUpr": 35.4548701,
+    "predLwr": 31.06661651
+  },
+  {
+    "param": "no2",
+    "dateRel": -53,
+    "key": "observed",
+    "val": 32.02703202,
+    "predUpr": 35.4548701,
+    "predLwr": 31.06661651
+  },
+  {
+    "param": "no2",
+    "dateRel": -52,
+    "key": "predic",
+    "val": 32.92622779,
+    "predUpr": 35.12531733,
+    "predLwr": 30.72713825
+  },
+  {
+    "param": "no2",
+    "dateRel": -52,
+    "key": "observed",
+    "val": 30.81568409,
+    "predUpr": 35.12531733,
+    "predLwr": 30.72713825
+  },
+  {
+    "param": "no2",
+    "dateRel": -51,
+    "key": "predic",
+    "val": 32.68536904,
+    "predUpr": 34.90049251,
+    "predLwr": 30.47024558
+  },
+  {
+    "param": "no2",
+    "dateRel": -51,
+    "key": "observed",
+    "val": 30.31447681,
+    "predUpr": 34.90049251,
+    "predLwr": 30.47024558
+  },
+  {
+    "param": "no2",
+    "dateRel": -50,
+    "key": "predic",
+    "val": 32.69113415,
+    "predUpr": 34.93024854,
+    "predLwr": 30.45201977
+  },
+  {
+    "param": "no2",
+    "dateRel": -50,
+    "key": "observed",
+    "val": 29.81483425,
+    "predUpr": 34.93024854,
+    "predLwr": 30.45201977
+  },
+  {
+    "param": "no2",
+    "dateRel": -49,
+    "key": "predic",
+    "val": 32.64982197,
+    "predUpr": 34.89262394,
+    "predLwr": 30.40701999
+  },
+  {
+    "param": "no2",
+    "dateRel": -49,
+    "key": "observed",
+    "val": 30.31612866,
+    "predUpr": 34.89262394,
+    "predLwr": 30.40701999
+  },
+  {
+    "param": "no2",
+    "dateRel": -48,
+    "key": "predic",
+    "val": 32.79413318,
+    "predUpr": 34.9161089,
+    "predLwr": 30.67215746
+  },
+  {
+    "param": "no2",
+    "dateRel": -48,
+    "key": "observed",
+    "val": 31.00773955,
+    "predUpr": 34.9161089,
+    "predLwr": 30.67215746
+  },
+  {
+    "param": "no2",
+    "dateRel": -47,
+    "key": "predic",
+    "val": 33.33372189,
+    "predUpr": 35.33693131,
+    "predLwr": 31.33051247
+  },
+  {
+    "param": "no2",
+    "dateRel": -47,
+    "key": "observed",
+    "val": 32.2806899,
+    "predUpr": 35.33693131,
+    "predLwr": 31.33051247
+  },
+  {
+    "param": "no2",
+    "dateRel": -46,
+    "key": "predic",
+    "val": 33.37809474,
+    "predUpr": 35.3882198,
+    "predLwr": 31.36796968
+  },
+  {
+    "param": "no2",
+    "dateRel": -46,
+    "key": "observed",
+    "val": 33.77359821,
+    "predUpr": 35.3882198,
+    "predLwr": 31.36796968
+  },
+  {
+    "param": "no2",
+    "dateRel": -45,
+    "key": "predic",
+    "val": 33.18524246,
+    "predUpr": 35.20337713,
+    "predLwr": 31.1671078
+  },
+  {
+    "param": "no2",
+    "dateRel": -45,
+    "key": "observed",
+    "val": 34.36972232,
+    "predUpr": 35.20337713,
+    "predLwr": 31.1671078
+  },
+  {
+    "param": "no2",
+    "dateRel": -44,
+    "key": "predic",
+    "val": 33.0994558,
+    "predUpr": 35.08181028,
+    "predLwr": 31.11710132
+  },
+  {
+    "param": "no2",
+    "dateRel": -44,
+    "key": "observed",
+    "val": 34.20512812,
+    "predUpr": 35.08181028,
+    "predLwr": 31.11710132
+  },
+  {
+    "param": "no2",
+    "dateRel": -43,
+    "key": "predic",
+    "val": 32.92876142,
+    "predUpr": 35.10664436,
+    "predLwr": 30.75087847
+  },
+  {
+    "param": "no2",
+    "dateRel": -43,
+    "key": "observed",
+    "val": 32.69144027,
+    "predUpr": 35.10664436,
+    "predLwr": 30.75087847
+  },
+  {
+    "param": "no2",
+    "dateRel": -42,
+    "key": "predic",
+    "val": 32.52746897,
+    "predUpr": 34.70054198,
+    "predLwr": 30.35439595
+  },
+  {
+    "param": "no2",
+    "dateRel": -42,
+    "key": "observed",
+    "val": 31.60870491,
+    "predUpr": 34.70054198,
+    "predLwr": 30.35439595
+  },
+  {
+    "param": "no2",
+    "dateRel": -41,
+    "key": "predic",
+    "val": 32.29446404,
+    "predUpr": 34.38843854,
+    "predLwr": 30.20048954
+  },
+  {
+    "param": "no2",
+    "dateRel": -41,
+    "key": "observed",
+    "val": 31.00098572,
+    "predUpr": 34.38843854,
+    "predLwr": 30.20048954
+  },
+  {
+    "param": "no2",
+    "dateRel": -40,
+    "key": "predic",
+    "val": 32.28550251,
+    "predUpr": 34.25507126,
+    "predLwr": 30.31593376
+  },
+  {
+    "param": "no2",
+    "dateRel": -40,
+    "key": "observed",
+    "val": 30.1705116,
+    "predUpr": 34.25507126,
+    "predLwr": 30.31593376
+  },
+  {
+    "param": "no2",
+    "dateRel": -39,
+    "key": "predic",
+    "val": 32.4392624,
+    "predUpr": 34.41978619,
+    "predLwr": 30.45873861
+  },
+  {
+    "param": "no2",
+    "dateRel": -39,
+    "key": "observed",
+    "val": 29.80726335,
+    "predUpr": 34.41978619,
+    "predLwr": 30.45873861
+  },
+  {
+    "param": "no2",
+    "dateRel": -38,
+    "key": "predic",
+    "val": 32.59796759,
+    "predUpr": 34.37485551,
+    "predLwr": 30.82107967
+  },
+  {
+    "param": "no2",
+    "dateRel": -38,
+    "key": "observed",
+    "val": 30.52011859,
+    "predUpr": 34.37485551,
+    "predLwr": 30.82107967
+  },
+  {
+    "param": "no2",
+    "dateRel": -37,
+    "key": "predic",
+    "val": 32.59077269,
+    "predUpr": 34.28860651,
+    "predLwr": 30.89293888
+  },
+  {
+    "param": "no2",
+    "dateRel": -37,
+    "key": "observed",
+    "val": 31.39847684,
+    "predUpr": 34.28860651,
+    "predLwr": 30.89293888
+  },
+  {
+    "param": "no2",
+    "dateRel": -36,
+    "key": "predic",
+    "val": 32.98816635,
+    "predUpr": 34.72692252,
+    "predLwr": 31.24941018
+  },
+  {
+    "param": "no2",
+    "dateRel": -36,
+    "key": "observed",
+    "val": 31.29777036,
+    "predUpr": 34.72692252,
+    "predLwr": 31.24941018
+  },
+  {
+    "param": "no2",
+    "dateRel": -35,
+    "key": "predic",
+    "val": 33.59199426,
+    "predUpr": 35.37936004,
+    "predLwr": 31.80462847
+  },
+  {
+    "param": "no2",
+    "dateRel": -35,
+    "key": "observed",
+    "val": 32.38535574,
+    "predUpr": 35.37936004,
+    "predLwr": 31.80462847
+  },
+  {
+    "param": "no2",
+    "dateRel": -34,
+    "key": "predic",
+    "val": 33.55236837,
+    "predUpr": 35.37076973,
+    "predLwr": 31.73396702
+  },
+  {
+    "param": "no2",
+    "dateRel": -34,
+    "key": "observed",
+    "val": 33.97268092,
+    "predUpr": 35.37076973,
+    "predLwr": 31.73396702
+  },
+  {
+    "param": "no2",
+    "dateRel": -33,
+    "key": "predic",
+    "val": 33.29842421,
+    "predUpr": 35.13998028,
+    "predLwr": 31.45686814
+  },
+  {
+    "param": "no2",
+    "dateRel": -33,
+    "key": "observed",
+    "val": 34.7299932,
+    "predUpr": 35.13998028,
+    "predLwr": 31.45686814
+  },
+  {
+    "param": "no2",
+    "dateRel": -32,
+    "key": "predic",
+    "val": 33.44521985,
+    "predUpr": 35.34433614,
+    "predLwr": 31.54610355
+  },
+  {
+    "param": "no2",
+    "dateRel": -32,
+    "key": "observed",
+    "val": 34.96471418,
+    "predUpr": 35.34433614,
+    "predLwr": 31.54610355
+  },
+  {
+    "param": "no2",
+    "dateRel": -31,
+    "key": "predic",
+    "val": 32.9039938,
+    "predUpr": 34.92818392,
+    "predLwr": 30.87980367
+  },
+  {
+    "param": "no2",
+    "dateRel": -31,
+    "key": "observed",
+    "val": 34.57033123,
+    "predUpr": 34.92818392,
+    "predLwr": 30.87980367
+  },
+  {
+    "param": "no2",
+    "dateRel": -30,
+    "key": "predic",
+    "val": 32.29764248,
+    "predUpr": 34.36963763,
+    "predLwr": 30.22564734
+  },
+  {
+    "param": "no2",
+    "dateRel": -30,
+    "key": "observed",
+    "val": 33.55108935,
+    "predUpr": 34.36963763,
+    "predLwr": 30.22564734
+  },
+  {
+    "param": "no2",
+    "dateRel": -29,
+    "key": "predic",
+    "val": 31.86671816,
+    "predUpr": 34.00135849,
+    "predLwr": 29.73207783
+  },
+  {
+    "param": "no2",
+    "dateRel": -29,
+    "key": "observed",
+    "val": 32.04411935,
+    "predUpr": 34.00135849,
+    "predLwr": 29.73207783
+  },
+  {
+    "param": "no2",
+    "dateRel": -28,
+    "key": "predic",
+    "val": 31.5865136,
+    "predUpr": 33.84785883,
+    "predLwr": 29.32516838
+  },
+  {
+    "param": "no2",
+    "dateRel": -28,
+    "key": "observed",
+    "val": 31.37425108,
+    "predUpr": 33.84785883,
+    "predLwr": 29.32516838
+  },
+  {
+    "param": "no2",
+    "dateRel": -27,
+    "key": "predic",
+    "val": 31.17416797,
+    "predUpr": 33.42375091,
+    "predLwr": 28.92458502
+  },
+  {
+    "param": "no2",
+    "dateRel": -27,
+    "key": "observed",
+    "val": 30.65739704,
+    "predUpr": 33.42375091,
+    "predLwr": 28.92458502
+  },
+  {
+    "param": "no2",
+    "dateRel": -26,
+    "key": "predic",
+    "val": 31.21026138,
+    "predUpr": 33.30955274,
+    "predLwr": 29.11097002
+  },
+  {
+    "param": "no2",
+    "dateRel": -26,
+    "key": "observed",
+    "val": 30.55275391,
+    "predUpr": 33.30955274,
+    "predLwr": 29.11097002
+  },
+  {
+    "param": "no2",
+    "dateRel": -25,
+    "key": "predic",
+    "val": 31.14365452,
+    "predUpr": 33.19914224,
+    "predLwr": 29.0881668
+  },
+  {
+    "param": "no2",
+    "dateRel": -25,
+    "key": "observed",
+    "val": 31.23836307,
+    "predUpr": 33.19914224,
+    "predLwr": 29.0881668
+  },
+  {
+    "param": "no2",
+    "dateRel": -24,
+    "key": "predic",
+    "val": 31.39377739,
+    "predUpr": 33.35268693,
+    "predLwr": 29.43486784
+  },
+  {
+    "param": "no2",
+    "dateRel": -24,
+    "key": "observed",
+    "val": 32.09249468,
+    "predUpr": 33.35268693,
+    "predLwr": 29.43486784
+  },
+  {
+    "param": "no2",
+    "dateRel": -23,
+    "key": "predic",
+    "val": 31.45960867,
+    "predUpr": 33.3573643,
+    "predLwr": 29.56185304
+  },
+  {
+    "param": "no2",
+    "dateRel": -23,
+    "key": "observed",
+    "val": 32.10715587,
+    "predUpr": 33.3573643,
+    "predLwr": 29.56185304
+  },
+  {
+    "param": "no2",
+    "dateRel": -22,
+    "key": "predic",
+    "val": 29.98753356,
+    "predUpr": 31.74388081,
+    "predLwr": 28.23118632
+  },
+  {
+    "param": "no2",
+    "dateRel": -22,
+    "key": "observed",
+    "val": 28.21553792,
+    "predUpr": 31.74388081,
+    "predLwr": 28.23118632
+  },
+  {
+    "param": "no2",
+    "dateRel": -21,
+    "key": "predic",
+    "val": 32.12873487,
+    "predUpr": 33.95824151,
+    "predLwr": 30.29922823
+  },
+  {
+    "param": "no2",
+    "dateRel": -21,
+    "key": "observed",
+    "val": 30.92254946,
+    "predUpr": 33.95824151,
+    "predLwr": 30.29922823
+  },
+  {
+    "param": "no2",
+    "dateRel": -20,
+    "key": "predic",
+    "val": 33.66057814,
+    "predUpr": 35.5753537,
+    "predLwr": 31.74580258
+  },
+  {
+    "param": "no2",
+    "dateRel": -20,
+    "key": "observed",
+    "val": 33.12342105,
+    "predUpr": 35.5753537,
+    "predLwr": 31.74580258
+  },
+  {
+    "param": "no2",
+    "dateRel": -19,
+    "key": "predic",
+    "val": 35.03314083,
+    "predUpr": 37.04975775,
+    "predLwr": 33.01652391
+  },
+  {
+    "param": "no2",
+    "dateRel": -19,
+    "key": "observed",
+    "val": 34.85492869,
+    "predUpr": 37.04975775,
+    "predLwr": 33.01652391
+  },
+  {
+    "param": "no2",
+    "dateRel": -18,
+    "key": "predic",
+    "val": 35.99615952,
+    "predUpr": 38.07224571,
+    "predLwr": 33.92007334
+  },
+  {
+    "param": "no2",
+    "dateRel": -18,
+    "key": "observed",
+    "val": 36.23465279,
+    "predUpr": 38.07224571,
+    "predLwr": 33.92007334
+  },
+  {
+    "param": "no2",
+    "dateRel": -17,
+    "key": "predic",
+    "val": 35.49729065,
+    "predUpr": 37.51880266,
+    "predLwr": 33.47577863
+  },
+  {
+    "param": "no2",
+    "dateRel": -17,
+    "key": "observed",
+    "val": 36.94846683,
+    "predUpr": 37.51880266,
+    "predLwr": 33.47577863
+  },
+  {
+    "param": "no2",
+    "dateRel": -16,
+    "key": "predic",
+    "val": 35.06371839,
+    "predUpr": 37.12792019,
+    "predLwr": 32.99951658
+  },
+  {
+    "param": "no2",
+    "dateRel": -16,
+    "key": "observed",
+    "val": 36.89607509,
+    "predUpr": 37.12792019,
+    "predLwr": 32.99951658
+  },
+  {
+    "param": "no2",
+    "dateRel": -15,
+    "key": "predic",
+    "val": 34.6808249,
+    "predUpr": 36.76397243,
+    "predLwr": 32.59767737
+  },
+  {
+    "param": "no2",
+    "dateRel": -15,
+    "key": "observed",
+    "val": 36.07465192,
+    "predUpr": 36.76397243,
+    "predLwr": 32.59767737
+  },
+  {
+    "param": "no2",
+    "dateRel": -14,
+    "key": "predic",
+    "val": 34.30882309,
+    "predUpr": 36.39332178,
+    "predLwr": 32.2243244
+  },
+  {
+    "param": "no2",
+    "dateRel": -14,
+    "key": "observed",
+    "val": 35.58854015,
+    "predUpr": 36.39332178,
+    "predLwr": 32.2243244
+  },
+  {
+    "param": "no2",
+    "dateRel": -13,
+    "key": "predic",
+    "val": 34.37307086,
+    "predUpr": 36.43927875,
+    "predLwr": 32.30686298
+  },
+  {
+    "param": "no2",
+    "dateRel": -13,
+    "key": "observed",
+    "val": 35.21661082,
+    "predUpr": 36.43927875,
+    "predLwr": 32.30686298
+  },
+  {
+    "param": "no2",
+    "dateRel": -12,
+    "key": "predic",
+    "val": 34.42631789,
+    "predUpr": 36.4618768,
+    "predLwr": 32.39075899
+  },
+  {
+    "param": "no2",
+    "dateRel": -12,
+    "key": "observed",
+    "val": 34.78758489,
+    "predUpr": 36.4618768,
+    "predLwr": 32.39075899
+  },
+  {
+    "param": "no2",
+    "dateRel": -11,
+    "key": "predic",
+    "val": 34.56404263,
+    "predUpr": 36.4872085,
+    "predLwr": 32.64087677
+  },
+  {
+    "param": "no2",
+    "dateRel": -11,
+    "key": "observed",
+    "val": 34.93262732,
+    "predUpr": 36.4872085,
+    "predLwr": 32.64087677
+  },
+  {
+    "param": "no2",
+    "dateRel": -10,
+    "key": "predic",
+    "val": 35.2956087,
+    "predUpr": 37.13081568,
+    "predLwr": 33.46040172
+  },
+  {
+    "param": "no2",
+    "dateRel": -10,
+    "key": "observed",
+    "val": 35.76517916,
+    "predUpr": 37.13081568,
+    "predLwr": 33.46040172
+  },
+  {
+    "param": "no2",
+    "dateRel": -9,
+    "key": "predic",
+    "val": 35.80539472,
+    "predUpr": 37.73502434,
+    "predLwr": 33.87576509
+  },
+  {
+    "param": "no2",
+    "dateRel": -9,
+    "key": "observed",
+    "val": 36.19888256,
+    "predUpr": 37.73502434,
+    "predLwr": 33.87576509
+  },
+  {
+    "param": "no2",
+    "dateRel": -8,
+    "key": "predic",
+    "val": 35.22127829,
+    "predUpr": 37.16804724,
+    "predLwr": 33.27450934
+  },
+  {
+    "param": "no2",
+    "dateRel": -8,
+    "key": "observed",
+    "val": 35.43862841,
+    "predUpr": 37.16804724,
+    "predLwr": 33.27450934
+  },
+  {
+    "param": "no2",
+    "dateRel": -7,
+    "key": "predic",
+    "val": 34.37241065,
+    "predUpr": 36.40695523,
+    "predLwr": 32.33786608
+  },
+  {
+    "param": "no2",
+    "dateRel": -7,
+    "key": "observed",
+    "val": 34.37520748,
+    "predUpr": 36.40695523,
+    "predLwr": 32.33786608
+  },
+  {
+    "param": "no2",
+    "dateRel": -6,
+    "key": "predic",
+    "val": 33.71213847,
+    "predUpr": 35.81564516,
+    "predLwr": 31.60863179
+  },
+  {
+    "param": "no2",
+    "dateRel": -6,
+    "key": "observed",
+    "val": 33.67140219,
+    "predUpr": 35.81564516,
+    "predLwr": 31.60863179
+  },
+  {
+    "param": "no2",
+    "dateRel": -5,
+    "key": "predic",
+    "val": 32.88432313,
+    "predUpr": 35.01120803,
+    "predLwr": 30.75743823
+  },
+  {
+    "param": "no2",
+    "dateRel": -5,
+    "key": "observed",
+    "val": 32.57118367,
+    "predUpr": 35.01120803,
+    "predLwr": 30.75743823
+  },
+  {
+    "param": "no2",
+    "dateRel": -4,
+    "key": "predic",
+    "val": 32.53172867,
+    "predUpr": 34.48157262,
+    "predLwr": 30.58188472
+  },
+  {
+    "param": "no2",
+    "dateRel": -4,
+    "key": "observed",
+    "val": 32.22404538,
+    "predUpr": 34.48157262,
+    "predLwr": 30.58188472
+  },
+  {
+    "param": "no2",
+    "dateRel": -3,
+    "key": "predic",
+    "val": 33.26234022,
+    "predUpr": 35.12072422,
+    "predLwr": 31.40395622
+  },
+  {
+    "param": "no2",
+    "dateRel": -3,
+    "key": "observed",
+    "val": 33.05676983,
+    "predUpr": 35.12072422,
+    "predLwr": 31.40395622
+  },
+  {
+    "param": "no2",
+    "dateRel": -2,
+    "key": "predic",
+    "val": 34.19052759,
+    "predUpr": 36.02076062,
+    "predLwr": 32.36029456
+  },
+  {
+    "param": "no2",
+    "dateRel": -2,
+    "key": "observed",
+    "val": 33.84459012,
+    "predUpr": 36.02076062,
+    "predLwr": 32.36029456
+  },
+  {
+    "param": "no2",
+    "dateRel": -1,
+    "key": "predic",
+    "val": 34.80011425,
+    "predUpr": 36.65395157,
+    "predLwr": 32.94627692
+  },
+  {
+    "param": "no2",
+    "dateRel": -1,
+    "key": "observed",
+    "val": 33.80575665,
+    "predUpr": 36.65395157,
+    "predLwr": 32.94627692
+  },
+  {
+    "param": "no2",
+    "dateRel": 0,
+    "key": "predic",
+    "val": 34.73403143,
+    "predUpr": 36.69153174,
+    "predLwr": 32.77653112
+  },
+  {
+    "param": "no2",
+    "dateRel": 0,
+    "key": "observed",
+    "val": 33.23474939,
+    "predUpr": 36.69153174,
+    "predLwr": 32.77653112
+  },
+  {
+    "param": "no2",
+    "dateRel": 1,
+    "key": "predic",
+    "val": 33.9106454,
+    "predUpr": 36.01358398,
+    "predLwr": 31.80770681
+  },
+  {
+    "param": "no2",
+    "dateRel": 1,
+    "key": "observed",
+    "val": 32.51002245,
+    "predUpr": 36.01358398,
+    "predLwr": 31.80770681
+  },
+  {
+    "param": "no2",
+    "dateRel": 2,
+    "key": "predic",
+    "val": 33.10035766,
+    "predUpr": 35.37903418,
+    "predLwr": 30.82168115
+  },
+  {
+    "param": "no2",
+    "dateRel": 2,
+    "key": "observed",
+    "val": 30.90748725,
+    "predUpr": 35.37903418,
+    "predLwr": 30.82168115
+  },
+  {
+    "param": "no2",
+    "dateRel": 3,
+    "key": "predic",
+    "val": 32.38859856,
+    "predUpr": 34.69375821,
+    "predLwr": 30.08343892
+  },
+  {
+    "param": "no2",
+    "dateRel": 3,
+    "key": "observed",
+    "val": 29.84412594,
+    "predUpr": 34.69375821,
+    "predLwr": 30.08343892
+  },
+  {
+    "param": "no2",
+    "dateRel": 4,
+    "key": "predic",
+    "val": 31.9125669,
+    "predUpr": 34.17772362,
+    "predLwr": 29.64741017
+  },
+  {
+    "param": "no2",
+    "dateRel": 4,
+    "key": "observed",
+    "val": 28.20207578,
+    "predUpr": 34.17772362,
+    "predLwr": 29.64741017
+  },
+  {
+    "param": "no2",
+    "dateRel": 5,
+    "key": "predic",
+    "val": 31.89025334,
+    "predUpr": 34.14822033,
+    "predLwr": 29.63228635
+  },
+  {
+    "param": "no2",
+    "dateRel": 5,
+    "key": "observed",
+    "val": 27.039219,
+    "predUpr": 34.14822033,
+    "predLwr": 29.63228635
+  },
+  {
+    "param": "no2",
+    "dateRel": 6,
+    "key": "predic",
+    "val": 32.17420106,
+    "predUpr": 34.45604854,
+    "predLwr": 29.89235358
+  },
+  {
+    "param": "no2",
+    "dateRel": 6,
+    "key": "observed",
+    "val": 25.35141147,
+    "predUpr": 34.45604854,
+    "predLwr": 29.89235358
+  },
+  {
+    "param": "no2",
+    "dateRel": 7,
+    "key": "predic",
+    "val": 32.14944723,
+    "predUpr": 34.50860119,
+    "predLwr": 29.79029328
+  },
+  {
+    "param": "no2",
+    "dateRel": 7,
+    "key": "observed",
+    "val": 23.88565634,
+    "predUpr": 34.50860119,
+    "predLwr": 29.79029328
+  },
+  {
+    "param": "no2",
+    "dateRel": 8,
+    "key": "predic",
+    "val": 32.26842297,
+    "predUpr": 34.70198698,
+    "predLwr": 29.83485897
+  },
+  {
+    "param": "no2",
+    "dateRel": 8,
+    "key": "observed",
+    "val": 22.55960581,
+    "predUpr": 34.70198698,
+    "predLwr": 29.83485897
+  },
+  {
+    "param": "no2",
+    "dateRel": 9,
+    "key": "predic",
+    "val": 32.41333864,
+    "predUpr": 34.89953929,
+    "predLwr": 29.92713799
+  },
+  {
+    "param": "no2",
+    "dateRel": 9,
+    "key": "observed",
+    "val": 22.25836992,
+    "predUpr": 34.89953929,
+    "predLwr": 29.92713799
+  },
+  {
+    "param": "no2",
+    "dateRel": 10,
+    "key": "predic",
+    "val": 31.42601856,
+    "predUpr": 33.81661877,
+    "predLwr": 29.03541834
+  },
+  {
+    "param": "no2",
+    "dateRel": 10,
+    "key": "observed",
+    "val": 21.52092929,
+    "predUpr": 33.81661877,
+    "predLwr": 29.03541834
+  },
+  {
+    "param": "no2",
+    "dateRel": 11,
+    "key": "predic",
+    "val": 31.59078415,
+    "predUpr": 33.86406291,
+    "predLwr": 29.31750539
+  },
+  {
+    "param": "no2",
+    "dateRel": 11,
+    "key": "observed",
+    "val": 21.08243105,
+    "predUpr": 33.86406291,
+    "predLwr": 29.31750539
+  },
+  {
+    "param": "no2",
+    "dateRel": 12,
+    "key": "predic",
+    "val": 31.55457674,
+    "predUpr": 33.75109222,
+    "predLwr": 29.35806125
+  },
+  {
+    "param": "no2",
+    "dateRel": 12,
+    "key": "observed",
+    "val": 20.88862662,
+    "predUpr": 33.75109222,
+    "predLwr": 29.35806125
+  },
+  {
+    "param": "no2",
+    "dateRel": 13,
+    "key": "predic",
+    "val": 30.95068109,
+    "predUpr": 33.06674216,
+    "predLwr": 28.83462003
+  },
+  {
+    "param": "no2",
+    "dateRel": 13,
+    "key": "observed",
+    "val": 20.61509723,
+    "predUpr": 33.06674216,
+    "predLwr": 28.83462003
+  },
+  {
+    "param": "no2",
+    "dateRel": 14,
+    "key": "predic",
+    "val": 30.24309348,
+    "predUpr": 32.37283108,
+    "predLwr": 28.11335588
+  },
+  {
+    "param": "no2",
+    "dateRel": 14,
+    "key": "observed",
+    "val": 20.0551109,
+    "predUpr": 32.37283108,
+    "predLwr": 28.11335588
+  },
+  {
+    "param": "no2",
+    "dateRel": 15,
+    "key": "predic",
+    "val": 30.086236,
+    "predUpr": 32.31092923,
+    "predLwr": 27.86154277
+  },
+  {
+    "param": "no2",
+    "dateRel": 15,
+    "key": "observed",
+    "val": 19.71874691,
+    "predUpr": 32.31092923,
+    "predLwr": 27.86154277
+  },
+  {
+    "param": "no2",
+    "dateRel": 16,
+    "key": "predic",
+    "val": 30.12781449,
+    "predUpr": 32.3487822,
+    "predLwr": 27.90684679
+  },
+  {
+    "param": "no2",
+    "dateRel": 16,
+    "key": "observed",
+    "val": 20.21132486,
+    "predUpr": 32.3487822,
+    "predLwr": 27.90684679
+  },
+  {
+    "param": "no2",
+    "dateRel": 17,
+    "key": "predic",
+    "val": 30.35764489,
+    "predUpr": 32.47058315,
+    "predLwr": 28.24470663
+  },
+  {
+    "param": "no2",
+    "dateRel": 17,
+    "key": "observed",
+    "val": 21.14196423,
+    "predUpr": 32.47058315,
+    "predLwr": 28.24470663
+  },
+  {
+    "param": "no2",
+    "dateRel": 18,
+    "key": "predic",
+    "val": 31.2870533,
+    "predUpr": 33.26875484,
+    "predLwr": 29.30535176
+  },
+  {
+    "param": "no2",
+    "dateRel": 18,
+    "key": "observed",
+    "val": 22.42498723,
+    "predUpr": 33.26875484,
+    "predLwr": 29.30535176
+  },
+  {
+    "param": "no2",
+    "dateRel": 19,
+    "key": "predic",
+    "val": 32.05105846,
+    "predUpr": 33.98241583,
+    "predLwr": 30.1197011
+  },
+  {
+    "param": "no2",
+    "dateRel": 19,
+    "key": "observed",
+    "val": 23.57313463,
+    "predUpr": 33.98241583,
+    "predLwr": 30.1197011
+  },
+  {
+    "param": "no2",
+    "dateRel": 20,
+    "key": "predic",
+    "val": 32.7605511,
+    "predUpr": 34.66143419,
+    "predLwr": 30.85966802
+  },
+  {
+    "param": "no2",
+    "dateRel": 20,
+    "key": "observed",
+    "val": 24.91756194,
+    "predUpr": 34.66143419,
+    "predLwr": 30.85966802
+  },
+  {
+    "param": "no2",
+    "dateRel": 21,
+    "key": "predic",
+    "val": 33.09879715,
+    "predUpr": 35.03457049,
+    "predLwr": 31.16302381
+  },
+  {
+    "param": "no2",
+    "dateRel": 21,
+    "key": "observed",
+    "val": 25.26374669,
+    "predUpr": 35.03457049,
+    "predLwr": 31.16302381
+  },
+  {
+    "param": "no2",
+    "dateRel": 22,
+    "key": "predic",
+    "val": 32.33756601,
+    "predUpr": 34.3541454,
+    "predLwr": 30.32098663
+  },
+  {
+    "param": "no2",
+    "dateRel": 22,
+    "key": "observed",
+    "val": 24.51334305,
+    "predUpr": 34.3541454,
+    "predLwr": 30.32098663
+  },
+  {
+    "param": "no2",
+    "dateRel": 23,
+    "key": "predic",
+    "val": 31.08556176,
+    "predUpr": 33.21729482,
+    "predLwr": 28.95382871
+  },
+  {
+    "param": "no2",
+    "dateRel": 23,
+    "key": "observed",
+    "val": 22.33877721,
+    "predUpr": 33.21729482,
+    "predLwr": 28.95382871
+  },
+  {
+    "param": "no2",
+    "dateRel": 24,
+    "key": "predic",
+    "val": 30.46592733,
+    "predUpr": 32.64709529,
+    "predLwr": 28.28475937
+  },
+  {
+    "param": "no2",
+    "dateRel": 24,
+    "key": "observed",
+    "val": 20.30654691,
+    "predUpr": 32.64709529,
+    "predLwr": 28.28475937
+  },
+  {
+    "param": "no2",
+    "dateRel": 25,
+    "key": "predic",
+    "val": 30.13572957,
+    "predUpr": 32.30104461,
+    "predLwr": 27.97041453
+  },
+  {
+    "param": "no2",
+    "dateRel": 25,
+    "key": "observed",
+    "val": 18.03573442,
+    "predUpr": 32.30104461,
+    "predLwr": 27.97041453
+  },
+  {
+    "param": "no2",
+    "dateRel": 26,
+    "key": "predic",
+    "val": 30.31575896,
+    "predUpr": 32.47377072,
+    "predLwr": 28.1577472
+  },
+  {
+    "param": "no2",
+    "dateRel": 26,
+    "key": "observed",
+    "val": 16.72109541,
+    "predUpr": 32.47377072,
+    "predLwr": 28.1577472
+  },
+  {
+    "param": "no2",
+    "dateRel": 27,
+    "key": "predic",
+    "val": 30.98910932,
+    "predUpr": 33.17298785,
+    "predLwr": 28.80523078
+  },
+  {
+    "param": "no2",
+    "dateRel": 27,
+    "key": "observed",
+    "val": 15.836758,
+    "predUpr": 33.17298785,
+    "predLwr": 28.80523078
+  },
+  {
+    "param": "no2",
+    "dateRel": 28,
+    "key": "predic",
+    "val": 31.52112462,
+    "predUpr": 33.86870838,
+    "predLwr": 29.17354085
+  },
+  {
+    "param": "no2",
+    "dateRel": 28,
+    "key": "observed",
+    "val": 15.75532599,
+    "predUpr": 33.86870838,
+    "predLwr": 29.17354085
+  },
+  {
+    "param": "no2",
+    "dateRel": 29,
+    "key": "predic",
+    "val": 31.7510062,
+    "predUpr": 34.12438875,
+    "predLwr": 29.37762366
+  },
+  {
+    "param": "no2",
+    "dateRel": 29,
+    "key": "observed",
+    "val": 15.45692874,
+    "predUpr": 34.12438875,
+    "predLwr": 29.37762366
+  },
+  {
+    "param": "no2",
+    "dateRel": 30,
+    "key": "predic",
+    "val": 31.51775893,
+    "predUpr": 33.84150042,
+    "predLwr": 29.19401744
+  },
+  {
+    "param": "no2",
+    "dateRel": 30,
+    "key": "observed",
+    "val": 15.27839109,
+    "predUpr": 33.84150042,
+    "predLwr": 29.19401744
+  },
+  {
+    "param": "no2",
+    "dateRel": 31,
+    "key": "predic",
+    "val": 31.21697306,
+    "predUpr": 33.50312185,
+    "predLwr": 28.93082426
+  },
+  {
+    "param": "no2",
+    "dateRel": 31,
+    "key": "observed",
+    "val": 15.26157696,
+    "predUpr": 33.50312185,
+    "predLwr": 28.93082426
+  },
+  {
+    "param": "no2",
+    "dateRel": 32,
+    "key": "predic",
+    "val": 30.9844338,
+    "predUpr": 33.18945823,
+    "predLwr": 28.77940937
+  },
+  {
+    "param": "no2",
+    "dateRel": 32,
+    "key": "observed",
+    "val": 15.32794391,
+    "predUpr": 33.18945823,
+    "predLwr": 28.77940937
+  },
+  {
+    "param": "no2",
+    "dateRel": 33,
+    "key": "predic",
+    "val": 31.41873646,
+    "predUpr": 33.44847753,
+    "predLwr": 29.38899539
+  },
+  {
+    "param": "no2",
+    "dateRel": 33,
+    "key": "observed",
+    "val": 15.44344702,
+    "predUpr": 33.44847753,
+    "predLwr": 29.38899539
+  },
+  {
+    "param": "no2",
+    "dateRel": 34,
+    "key": "predic",
+    "val": 31.04488858,
+    "predUpr": 33.03223399,
+    "predLwr": 29.05754318
+  },
+  {
+    "param": "no2",
+    "dateRel": 34,
+    "key": "observed",
+    "val": 15.28996708,
+    "predUpr": 33.03223399,
+    "predLwr": 29.05754318
+  },
+  {
+    "param": "no2",
+    "dateRel": 35,
+    "key": "predic",
+    "val": 30.74309876,
+    "predUpr": 32.78554321,
+    "predLwr": 28.70065432
+  },
+  {
+    "param": "no2",
+    "dateRel": 35,
+    "key": "observed",
+    "val": 15.4842532,
+    "predUpr": 32.78554321,
+    "predLwr": 28.70065432
+  },
+  {
+    "param": "no2",
+    "dateRel": 36,
+    "key": "predic",
+    "val": 30.92016638,
+    "predUpr": 32.98766188,
+    "predLwr": 28.85267089
+  },
+  {
+    "param": "no2",
+    "dateRel": 36,
+    "key": "observed",
+    "val": 15.70382451,
+    "predUpr": 32.98766188,
+    "predLwr": 28.85267089
+  },
+  {
+    "param": "no2",
+    "dateRel": 37,
+    "key": "predic",
+    "val": 30.66414767,
+    "predUpr": 32.68160745,
+    "predLwr": 28.64668789
+  },
+  {
+    "param": "no2",
+    "dateRel": 37,
+    "key": "observed",
+    "val": 15.47536091,
+    "predUpr": 32.68160745,
+    "predLwr": 28.64668789
+  },
+  {
+    "param": "no2",
+    "dateRel": 38,
+    "key": "predic",
+    "val": 30.55068267,
+    "predUpr": 32.52437988,
+    "predLwr": 28.57698546
+  },
+  {
+    "param": "no2",
+    "dateRel": 38,
+    "key": "observed",
+    "val": 15.25786318,
+    "predUpr": 32.52437988,
+    "predLwr": 28.57698546
+  },
+  {
+    "param": "no2",
+    "dateRel": 39,
+    "key": "predic",
+    "val": 30.63111275,
+    "predUpr": 32.54510441,
+    "predLwr": 28.71712109
+  },
+  {
+    "param": "no2",
+    "dateRel": 39,
+    "key": "observed",
+    "val": 15.47321755,
+    "predUpr": 32.54510441,
+    "predLwr": 28.71712109
+  },
+  {
+    "param": "no2",
+    "dateRel": 40,
+    "key": "predic",
+    "val": 31.07362874,
+    "predUpr": 32.93824582,
+    "predLwr": 29.20901166
+  },
+  {
+    "param": "no2",
+    "dateRel": 40,
+    "key": "observed",
+    "val": 15.50345506,
+    "predUpr": 32.93824582,
+    "predLwr": 29.20901166
+  },
+  {
+    "param": "no2",
+    "dateRel": 41,
+    "key": "predic",
+    "val": 30.65057469,
+    "predUpr": 32.53876925,
+    "predLwr": 28.76238013
+  },
+  {
+    "param": "no2",
+    "dateRel": 41,
+    "key": "observed",
+    "val": 15.48290161,
+    "predUpr": 32.53876925,
+    "predLwr": 28.76238013
+  },
+  {
+    "param": "no2",
+    "dateRel": 42,
+    "key": "predic",
+    "val": 30.43230368,
+    "predUpr": 32.37037684,
+    "predLwr": 28.49423053
+  },
+  {
+    "param": "no2",
+    "dateRel": 42,
+    "key": "observed",
+    "val": 15.48621975,
+    "predUpr": 32.37037684,
+    "predLwr": 28.49423053
+  },
+  {
+    "param": "no2",
+    "dateRel": 43,
+    "key": "predic",
+    "val": 30.35170132,
+    "predUpr": 32.28428359,
+    "predLwr": 28.41911904
+  },
+  {
+    "param": "no2",
+    "dateRel": 43,
+    "key": "observed",
+    "val": 16.01625236,
+    "predUpr": 32.28428359,
+    "predLwr": 28.41911904
+  },
+  {
+    "param": "no2",
+    "dateRel": 44,
+    "key": "predic",
+    "val": 30.6971423,
+    "predUpr": 32.60542126,
+    "predLwr": 28.78886334
+  },
+  {
+    "param": "no2",
+    "dateRel": 44,
+    "key": "observed",
+    "val": 16.51314976,
+    "predUpr": 32.60542126,
+    "predLwr": 28.78886334
+  },
+  {
+    "param": "no2",
+    "dateRel": 45,
+    "key": "predic",
+    "val": 30.75101958,
+    "predUpr": 32.64739431,
+    "predLwr": 28.85464486
+  },
+  {
+    "param": "no2",
+    "dateRel": 45,
+    "key": "observed",
+    "val": 16.87721955,
+    "predUpr": 32.64739431,
+    "predLwr": 28.85464486
+  },
+  {
+    "param": "no2",
+    "dateRel": 46,
+    "key": "predic",
+    "val": 30.99976715,
+    "predUpr": 32.9605424,
+    "predLwr": 29.03899189
+  },
+  {
+    "param": "no2",
+    "dateRel": 46,
+    "key": "observed",
+    "val": 16.74575936,
+    "predUpr": 32.9605424,
+    "predLwr": 29.03899189
+  },
+  {
+    "param": "no2",
+    "dateRel": 47,
+    "key": "predic",
+    "val": 30.96322854,
+    "predUpr": 32.8738232,
+    "predLwr": 29.05263389
+  },
+  {
+    "param": "no2",
+    "dateRel": 47,
+    "key": "observed",
+    "val": 16.51988415,
+    "predUpr": 32.8738232,
+    "predLwr": 29.05263389
+  },
+  {
+    "param": "no2",
+    "dateRel": 48,
+    "key": "predic",
+    "val": 31.01308533,
+    "predUpr": 32.93648148,
+    "predLwr": 29.08968919
+  },
+  {
+    "param": "no2",
+    "dateRel": 48,
+    "key": "observed",
+    "val": 16.67136693,
+    "predUpr": 32.93648148,
+    "predLwr": 29.08968919
+  },
+  {
+    "param": "no2",
+    "dateRel": 49,
+    "key": "predic",
+    "val": 30.35229595,
+    "predUpr": 32.37186585,
+    "predLwr": 28.33272605
+  },
+  {
+    "param": "no2",
+    "dateRel": 49,
+    "key": "observed",
+    "val": 16.57575544,
+    "predUpr": 32.37186585,
+    "predLwr": 28.33272605
+  },
+  {
+    "param": "no2",
+    "dateRel": 50,
+    "key": "predic",
+    "val": 31.7029811,
+    "predUpr": 33.83177227,
+    "predLwr": 29.57418994
+  },
+  {
+    "param": "no2",
+    "dateRel": 50,
+    "key": "observed",
+    "val": 16.86997192,
+    "predUpr": 33.83177227,
+    "predLwr": 29.57418994
+  },
+  {
+    "param": "no2",
+    "dateRel": 51,
+    "key": "predic",
+    "val": 31.69883482,
+    "predUpr": 33.74213733,
+    "predLwr": 29.6555323
+  },
+  {
+    "param": "no2",
+    "dateRel": 51,
+    "key": "observed",
+    "val": 16.85377037,
+    "predUpr": 33.74213733,
+    "predLwr": 29.6555323
+  },
+  {
+    "param": "no2",
+    "dateRel": 52,
+    "key": "predic",
+    "val": 31.65598079,
+    "predUpr": 33.76159892,
+    "predLwr": 29.55036267
+  },
+  {
+    "param": "no2",
+    "dateRel": 52,
+    "key": "observed",
+    "val": 17.22917358,
+    "predUpr": 33.76159892,
+    "predLwr": 29.55036267
+  },
+  {
+    "param": "no2",
+    "dateRel": 53,
+    "key": "predic",
+    "val": 31.82659928,
+    "predUpr": 33.89659321,
+    "predLwr": 29.75660536
+  },
+  {
+    "param": "no2",
+    "dateRel": 53,
+    "key": "observed",
+    "val": 17.15980228,
+    "predUpr": 33.89659321,
+    "predLwr": 29.75660536
+  },
+  {
+    "param": "no2",
+    "dateRel": 54,
+    "key": "predic",
+    "val": 32.96103307,
+    "predUpr": 35.02083279,
+    "predLwr": 30.90123335
+  },
+  {
+    "param": "no2",
+    "dateRel": 54,
+    "key": "observed",
+    "val": 17.92973001,
+    "predUpr": 35.02083279,
+    "predLwr": 30.90123335
+  },
+  {
+    "param": "no2",
+    "dateRel": 55,
+    "key": "predic",
+    "val": 32.56236876,
+    "predUpr": 34.63076873,
+    "predLwr": 30.4939688
+  },
+  {
+    "param": "no2",
+    "dateRel": 55,
+    "key": "observed",
+    "val": 18.46425575,
+    "predUpr": 34.63076873,
+    "predLwr": 30.4939688
+  },
+  {
+    "param": "no2",
+    "dateRel": 56,
+    "key": "predic",
+    "val": 33.12005306,
+    "predUpr": 35.25600607,
+    "predLwr": 30.98410004
+  },
+  {
+    "param": "no2",
+    "dateRel": 56,
+    "key": "observed",
+    "val": 19.05958297,
+    "predUpr": 35.25600607,
+    "predLwr": 30.98410004
+  },
+  {
+    "param": "no2",
+    "dateRel": 57,
+    "key": "predic",
+    "val": 30.23238289,
+    "predUpr": 31.8862348,
+    "predLwr": 28.57853099
+  },
+  {
+    "param": "no2",
+    "dateRel": 57,
+    "key": "observed",
+    "val": 24.08144713,
+    "predUpr": 31.8862348,
+    "predLwr": 28.57853099
+  },
+  {
+    "param": "no2",
+    "dateRel": 58,
+    "key": "predic",
+    "val": 35.57034933,
+    "predUpr": 37.94363473,
+    "predLwr": 33.19706393
+  },
+  {
+    "param": "no2",
+    "dateRel": 58,
+    "key": "observed",
+    "val": 21.25238574,
+    "predUpr": 37.94363473,
+    "predLwr": 33.19706393
+  },
+  {
+    "param": "no2",
+    "dateRel": 59,
+    "key": "predic",
+    "val": 31.71611901,
+    "predUpr": 34.00436585,
+    "predLwr": 29.42787217
+  },
+  {
+    "param": "no2",
+    "dateRel": 59,
+    "key": "observed",
+    "val": 18.79669152,
+    "predUpr": 34.00436585,
+    "predLwr": 29.42787217
+  },
+  {
+    "param": "no2",
+    "dateRel": 60,
+    "key": "predic",
+    "val": 31.77503575,
+    "predUpr": 34.09560419,
+    "predLwr": 29.45446732
+  },
+  {
+    "param": "no2",
+    "dateRel": 60,
+    "key": "observed",
+    "val": 18.28481768,
+    "predUpr": 34.09560419,
+    "predLwr": 29.45446732
+  },
+  {
+    "param": "no2",
+    "dateRel": 61,
+    "key": "predic",
+    "val": 35.0754469,
+    "predUpr": 37.67759627,
+    "predLwr": 32.47329753
+  },
+  {
+    "param": "no2",
+    "dateRel": 61,
+    "key": "observed",
+    "val": 20.07988625,
+    "predUpr": 37.67759627,
+    "predLwr": 32.47329753
+  },
+  {
+    "param": "no2",
+    "dateRel": 62,
+    "key": "predic",
+    "val": 34.06027477,
+    "predUpr": 36.80586539,
+    "predLwr": 31.31468414
+  },
+  {
+    "param": "no2",
+    "dateRel": 62,
+    "key": "observed",
+    "val": 19.76473787,
+    "predUpr": 36.80586539,
+    "predLwr": 31.31468414
+  },
+  {
+    "param": "no2",
+    "dateRel": 63,
+    "key": "predic",
+    "val": 34.18521541,
+    "predUpr": 36.95548796,
+    "predLwr": 31.41494286
+  },
+  {
+    "param": "no2",
+    "dateRel": 63,
+    "key": "observed",
+    "val": 18.97189641,
+    "predUpr": 36.95548796,
+    "predLwr": 31.41494286
+  },
+  {
+    "param": "no2",
+    "dateRel": 64,
+    "key": "predic",
+    "val": 34.14358365,
+    "predUpr": 36.96432971,
+    "predLwr": 31.32283758
+  },
+  {
+    "param": "no2",
+    "dateRel": 64,
+    "key": "observed",
+    "val": 18.43359956,
+    "predUpr": 36.96432971,
+    "predLwr": 31.32283758
+  },
+  {
+    "param": "no2",
+    "dateRel": 65,
+    "key": "predic",
+    "val": 33.33595707,
+    "predUpr": 36.21172469,
+    "predLwr": 30.46018945
+  },
+  {
+    "param": "no2",
+    "dateRel": 65,
+    "key": "observed",
+    "val": 17.45251318,
+    "predUpr": 36.21172469,
+    "predLwr": 30.46018945
+  },
+  {
+    "param": "no2",
+    "dateRel": 66,
+    "key": "predic",
+    "val": 33.29677085,
+    "predUpr": 36.11735293,
+    "predLwr": 30.47618877
+  },
+  {
+    "param": "no2",
+    "dateRel": 66,
+    "key": "observed",
+    "val": 16.92434917,
+    "predUpr": 36.11735293,
+    "predLwr": 30.47618877
+  },
+  {
+    "param": "no2",
+    "dateRel": 67,
+    "key": "predic",
+    "val": 33.60620325,
+    "predUpr": 36.36576181,
+    "predLwr": 30.8466447
+  },
+  {
+    "param": "no2",
+    "dateRel": 67,
+    "key": "observed",
+    "val": 16.92824603,
+    "predUpr": 36.36576181,
+    "predLwr": 30.8466447
+  },
+  {
+    "param": "no2",
+    "dateRel": 68,
+    "key": "predic",
+    "val": 34.18585314,
+    "predUpr": 36.97542677,
+    "predLwr": 31.39627951
+  },
+  {
+    "param": "no2",
+    "dateRel": 68,
+    "key": "observed",
+    "val": 17.22652705,
+    "predUpr": 36.97542677,
+    "predLwr": 31.39627951
+  },
+  {
+    "param": "no2",
+    "dateRel": 69,
+    "key": "predic",
+    "val": 34.84223445,
+    "predUpr": 37.5793779,
+    "predLwr": 32.10509101
+  },
+  {
+    "param": "no2",
+    "dateRel": 69,
+    "key": "observed",
+    "val": 18.25472192,
+    "predUpr": 37.5793779,
+    "predLwr": 32.10509101
+  },
+  {
+    "param": "no2",
+    "dateRel": 70,
+    "key": "predic",
+    "val": 35.12003984,
+    "predUpr": 37.78763038,
+    "predLwr": 32.45244929
+  },
+  {
+    "param": "no2",
+    "dateRel": 70,
+    "key": "observed",
+    "val": 18.83166745,
+    "predUpr": 37.78763038,
+    "predLwr": 32.45244929
+  },
+  {
+    "param": "no2",
+    "dateRel": 71,
+    "key": "predic",
+    "val": 35.51355801,
+    "predUpr": 38.08540903,
+    "predLwr": 32.94170698
+  },
+  {
+    "param": "no2",
+    "dateRel": 71,
+    "key": "observed",
+    "val": 19.17477081,
+    "predUpr": 38.08540903,
+    "predLwr": 32.94170698
+  },
+  {
+    "param": "no2",
+    "dateRel": 72,
+    "key": "predic",
+    "val": 35.44760747,
+    "predUpr": 37.98150343,
+    "predLwr": 32.91371151
+  },
+  {
+    "param": "no2",
+    "dateRel": 72,
+    "key": "observed",
+    "val": 18.86582721,
+    "predUpr": 37.98150343,
+    "predLwr": 32.91371151
+  },
+  {
+    "param": "no2",
+    "dateRel": 73,
+    "key": "predic",
+    "val": 35.07043526,
+    "predUpr": 37.5489588,
+    "predLwr": 32.59191172
+  },
+  {
+    "param": "no2",
+    "dateRel": 73,
+    "key": "observed",
+    "val": 18.82155974,
+    "predUpr": 37.5489588,
+    "predLwr": 32.59191172
+  },
+  {
+    "param": "no2",
+    "dateRel": 74,
+    "key": "predic",
+    "val": 35.60441426,
+    "predUpr": 38.05185635,
+    "predLwr": 33.15697217
+  },
+  {
+    "param": "no2",
+    "dateRel": 74,
+    "key": "observed",
+    "val": 18.92508149,
+    "predUpr": 38.05185635,
+    "predLwr": 33.15697217
+  },
+  {
+    "param": "no2",
+    "dateRel": 75,
+    "key": "predic",
+    "val": 36.26009112,
+    "predUpr": 38.83296557,
+    "predLwr": 33.68721667
+  },
+  {
+    "param": "no2",
+    "dateRel": 75,
+    "key": "observed",
+    "val": 21.23319846,
+    "predUpr": 38.83296557,
+    "predLwr": 33.68721667
+  },
+  {
+    "param": "no2",
+    "dateRel": 76,
+    "key": "predic",
+    "val": 36.11605436,
+    "predUpr": 38.69477457,
+    "predLwr": 33.53733415
+  },
+  {
+    "param": "no2",
+    "dateRel": 76,
+    "key": "observed",
+    "val": 22.19457153,
+    "predUpr": 38.69477457,
+    "predLwr": 33.53733415
+  },
+  {
+    "param": "no2",
+    "dateRel": 77,
+    "key": "predic",
+    "val": 35.81877938,
+    "predUpr": 38.0121388,
+    "predLwr": 33.62541996
+  },
+  {
+    "param": "no2",
+    "dateRel": 77,
+    "key": "observed",
+    "val": 33.55480097,
+    "predUpr": 38.0121388,
+    "predLwr": 33.62541996
+  },
+  {
+    "param": "no2",
+    "dateRel": 78,
+    "key": "predic",
+    "val": 34.54419455,
+    "predUpr": 36.79246235,
+    "predLwr": 32.29592674
+  },
+  {
+    "param": "no2",
+    "dateRel": 78,
+    "key": "observed",
+    "val": 33.42301176,
+    "predUpr": 36.79246235,
+    "predLwr": 32.29592674
+  },
+  {
+    "param": "no2",
+    "dateRel": 79,
+    "key": "predic",
+    "val": 32.81813563,
+    "predUpr": 35.21386343,
+    "predLwr": 30.42240784
+  },
+  {
+    "param": "no2",
+    "dateRel": 79,
+    "key": "observed",
+    "val": 31.94643915,
+    "predUpr": 35.21386343,
+    "predLwr": 30.42240784
+  },
+  {
+    "param": "no2",
+    "dateRel": 80,
+    "key": "predic",
+    "val": 31.77258531,
+    "predUpr": 34.16097225,
+    "predLwr": 29.38419837
+  },
+  {
+    "param": "no2",
+    "dateRel": 80,
+    "key": "observed",
+    "val": 30.10239138,
+    "predUpr": 34.16097225,
+    "predLwr": 29.38419837
+  },
+  {
+    "param": "no2",
+    "dateRel": 81,
+    "key": "predic",
+    "val": 32.31671472,
+    "predUpr": 34.80113665,
+    "predLwr": 29.8322928
+  },
+  {
+    "param": "no2",
+    "dateRel": 81,
+    "key": "observed",
+    "val": 29.98530572,
+    "predUpr": 34.80113665,
+    "predLwr": 29.8322928
+  },
+  {
+    "param": "no2",
+    "dateRel": 82,
+    "key": "predic",
+    "val": 34.0296846,
+    "predUpr": 36.46934955,
+    "predLwr": 31.59001965
+  },
+  {
+    "param": "no2",
+    "dateRel": 82,
+    "key": "observed",
+    "val": 31.63726228,
+    "predUpr": 36.46934955,
+    "predLwr": 31.59001965
+  },
+  {
+    "param": "no2",
+    "dateRel": 83,
+    "key": "predic",
+    "val": 35.7979651,
+    "predUpr": 38.1848169,
+    "predLwr": 33.4111133
+  },
+  {
+    "param": "no2",
+    "dateRel": 83,
+    "key": "observed",
+    "val": 33.57105467,
+    "predUpr": 38.1848169,
+    "predLwr": 33.4111133
+  },
+  {
+    "param": "no2",
+    "dateRel": 84,
+    "key": "predic",
+    "val": 37.04806952,
+    "predUpr": 39.31729723,
+    "predLwr": 34.77884181
+  },
+  {
+    "param": "no2",
+    "dateRel": 84,
+    "key": "observed",
+    "val": 35.45156186,
+    "predUpr": 39.31729723,
+    "predLwr": 34.77884181
+  },
+  {
+    "param": "no2",
+    "dateRel": 85,
+    "key": "predic",
+    "val": 36.75429005,
+    "predUpr": 39.0084388,
+    "predLwr": 34.5001413
+  },
+  {
+    "param": "no2",
+    "dateRel": 85,
+    "key": "observed",
+    "val": 36.63997735,
+    "predUpr": 39.0084388,
+    "predLwr": 34.5001413
+  },
+  {
+    "param": "no2",
+    "dateRel": 86,
+    "key": "predic",
+    "val": 34.86001603,
+    "predUpr": 37.14013817,
+    "predLwr": 32.5798939
+  },
+  {
+    "param": "no2",
+    "dateRel": 86,
+    "key": "observed",
+    "val": 35.2683289,
+    "predUpr": 37.14013817,
+    "predLwr": 32.5798939
+  },
+  {
+    "param": "no2",
+    "dateRel": 87,
+    "key": "predic",
+    "val": 33.4068137,
+    "predUpr": 35.71784553,
+    "predLwr": 31.09578186
+  },
+  {
+    "param": "no2",
+    "dateRel": 87,
+    "key": "observed",
+    "val": 31.87690369,
+    "predUpr": 35.71784553,
+    "predLwr": 31.09578186
+  },
+  {
+    "param": "no2",
+    "dateRel": 88,
+    "key": "predic",
+    "val": 32.63252875,
+    "predUpr": 34.98362125,
+    "predLwr": 30.28143625
+  },
+  {
+    "param": "no2",
+    "dateRel": 88,
+    "key": "observed",
+    "val": 29.12054359,
+    "predUpr": 34.98362125,
+    "predLwr": 30.28143625
+  },
+  {
+    "param": "no2",
+    "dateRel": 89,
+    "key": "predic",
+    "val": 31.34085165,
+    "predUpr": 33.82818284,
+    "predLwr": 28.85352045
+  },
+  {
+    "param": "no2",
+    "dateRel": 89,
+    "key": "observed",
+    "val": 26.96463981,
+    "predUpr": 33.82818284,
+    "predLwr": 28.85352045
+  },
+  {
+    "param": "no2",
+    "dateRel": 90,
+    "key": "predic",
+    "val": 29.5673942,
+    "predUpr": 32.1725926,
+    "predLwr": 26.9621958
+  },
+  {
+    "param": "no2",
+    "dateRel": 90,
+    "key": "observed",
+    "val": 24.94953629,
+    "predUpr": 32.1725926,
+    "predLwr": 26.9621958
+  },
+  {
+    "param": "no2",
+    "dateRel": 91,
+    "key": "predic",
+    "val": 29.54107405,
+    "predUpr": 32.1218831,
+    "predLwr": 26.96026499
+  },
+  {
+    "param": "no2",
+    "dateRel": 91,
+    "key": "observed",
+    "val": 24.15089247,
+    "predUpr": 32.1218831,
+    "predLwr": 26.96026499
+  },
+  {
+    "param": "no2",
+    "dateRel": 92,
+    "key": "predic",
+    "val": 30.04491403,
+    "predUpr": 32.70248177,
+    "predLwr": 27.3873463
+  },
+  {
+    "param": "no2",
+    "dateRel": 92,
+    "key": "observed",
+    "val": 25.00310729,
+    "predUpr": 32.70248177,
+    "predLwr": 27.3873463
+  },
+  {
+    "param": "no2",
+    "dateRel": 94,
+    "key": "predic",
+    "val": 31.06484802,
+    "predUpr": 33.76445597,
+    "predLwr": 28.36524007
+  },
+  {
+    "param": "no2",
+    "dateRel": 94,
+    "key": "observed",
+    "val": 26.08869715,
+    "predUpr": 33.76445597,
+    "predLwr": 28.36524007
+  },
+  {
+    "param": "no2",
+    "dateRel": 95,
+    "key": "predic",
+    "val": 33.59407106,
+    "predUpr": 36.27994787,
+    "predLwr": 30.90819425
+  },
+  {
+    "param": "no2",
+    "dateRel": 95,
+    "key": "observed",
+    "val": 28.27455476,
+    "predUpr": 36.27994787,
+    "predLwr": 30.90819425
+  },
+  {
+    "param": "no2",
+    "dateRel": 96,
+    "key": "predic",
+    "val": 37.02073286,
+    "predUpr": 39.70363967,
+    "predLwr": 34.33782605
+  },
+  {
+    "param": "no2",
+    "dateRel": 96,
+    "key": "observed",
+    "val": 30.60268902,
+    "predUpr": 39.70363967,
+    "predLwr": 34.33782605
+  },
+  {
+    "param": "no2",
+    "dateRel": 97,
+    "key": "predic",
+    "val": 38.004387,
+    "predUpr": 40.67773935,
+    "predLwr": 35.33103464
+  },
+  {
+    "param": "no2",
+    "dateRel": 97,
+    "key": "observed",
+    "val": 31.8010025,
+    "predUpr": 40.67773935,
+    "predLwr": 35.33103464
+  },
+  {
+    "param": "no2",
+    "dateRel": 98,
+    "key": "predic",
+    "val": 37.17156954,
+    "predUpr": 39.82671613,
+    "predLwr": 34.51642295
+  },
+  {
+    "param": "no2",
+    "dateRel": 98,
+    "key": "observed",
+    "val": 32.64247002,
+    "predUpr": 39.82671613,
+    "predLwr": 34.51642295
+  },
+  {
+    "param": "no2",
+    "dateRel": 99,
+    "key": "predic",
+    "val": 36.46927643,
+    "predUpr": 39.18642656,
+    "predLwr": 33.75212631
+  },
+  {
+    "param": "no2",
+    "dateRel": 99,
+    "key": "observed",
+    "val": 32.7684482,
+    "predUpr": 39.18642656,
+    "predLwr": 33.75212631
+  },
+  {
+    "param": "no2",
+    "dateRel": 100,
+    "key": "predic",
+    "val": 35.31430981,
+    "predUpr": 38.01599842,
+    "predLwr": 32.6126212
+  },
+  {
+    "param": "no2",
+    "dateRel": 100,
+    "key": "observed",
+    "val": 31.42349036,
+    "predUpr": 38.01599842,
+    "predLwr": 32.6126212
+  },
+  {
+    "param": "no2",
+    "dateRel": 101,
+    "key": "predic",
+    "val": 33.82782667,
+    "predUpr": 36.50133556,
+    "predLwr": 31.15431777
+  },
+  {
+    "param": "no2",
+    "dateRel": 101,
+    "key": "observed",
+    "val": 29.5816099,
+    "predUpr": 36.50133556,
+    "predLwr": 31.15431777
+  },
+  {
+    "param": "no2",
+    "dateRel": 102,
+    "key": "predic",
+    "val": 33.4844957,
+    "predUpr": 36.25068659,
+    "predLwr": 30.71830481
+  },
+  {
+    "param": "no2",
+    "dateRel": 102,
+    "key": "observed",
+    "val": 27.84048969,
+    "predUpr": 36.25068659,
+    "predLwr": 30.71830481
+  },
+  {
+    "param": "no2",
+    "dateRel": 103,
+    "key": "predic",
+    "val": 33.45499697,
+    "predUpr": 36.21452014,
+    "predLwr": 30.69547379
+  },
+  {
+    "param": "no2",
+    "dateRel": 103,
+    "key": "observed",
+    "val": 25.58099409,
+    "predUpr": 36.21452014,
+    "predLwr": 30.69547379
+  },
+  {
+    "param": "no2",
+    "dateRel": 104,
+    "key": "predic",
+    "val": 32.82374886,
+    "predUpr": 35.53418509,
+    "predLwr": 30.11331262
+  },
+  {
+    "param": "no2",
+    "dateRel": 104,
+    "key": "observed",
+    "val": 24.09911185,
+    "predUpr": 35.53418509,
+    "predLwr": 30.11331262
+  },
+  {
+    "param": "no2",
+    "dateRel": 105,
+    "key": "predic",
+    "val": 30.55451695,
+    "predUpr": 33.53902214,
+    "predLwr": 27.57001177
+  },
+  {
+    "param": "no2",
+    "dateRel": 105,
+    "key": "observed",
+    "val": 23.05078522,
+    "predUpr": 33.53902214,
+    "predLwr": 27.57001177
+  },
+  {
+    "param": "no2",
+    "dateRel": 106,
+    "key": "predic",
+    "val": 28.56959907,
+    "predUpr": 31.80604638,
+    "predLwr": 25.33315176
+  },
+  {
+    "param": "no2",
+    "dateRel": 106,
+    "key": "observed",
+    "val": 21.55224464,
+    "predUpr": 31.80604638,
+    "predLwr": 25.33315176
+  },
+  {
+    "param": "no2",
+    "dateRel": 107,
+    "key": "predic",
+    "val": 28.25216261,
+    "predUpr": 31.47582287,
+    "predLwr": 25.02850235
+  },
+  {
+    "param": "no2",
+    "dateRel": 107,
+    "key": "observed",
+    "val": 20.828804,
+    "predUpr": 31.47582287,
+    "predLwr": 25.02850235
+  },
+  {
+    "param": "no2",
+    "dateRel": 108,
+    "key": "predic",
+    "val": 28.80305511,
+    "predUpr": 31.92487639,
+    "predLwr": 25.68123382
+  },
+  {
+    "param": "no2",
+    "dateRel": 108,
+    "key": "observed",
+    "val": 21.17320593,
+    "predUpr": 31.92487639,
+    "predLwr": 25.68123382
+  },
+  {
+    "param": "no2",
+    "dateRel": 109,
+    "key": "predic",
+    "val": 29.517083,
+    "predUpr": 32.57122709,
+    "predLwr": 26.4629389
+  },
+  {
+    "param": "no2",
+    "dateRel": 109,
+    "key": "observed",
+    "val": 21.61697945,
+    "predUpr": 32.57122709,
+    "predLwr": 26.4629389
+  },
+  {
+    "param": "no2",
+    "dateRel": 110,
+    "key": "predic",
+    "val": 31.50512581,
+    "predUpr": 34.33582734,
+    "predLwr": 28.67442428
+  },
+  {
+    "param": "no2",
+    "dateRel": 110,
+    "key": "observed",
+    "val": 22.07146449,
+    "predUpr": 34.33582734,
+    "predLwr": 28.67442428
+  },
+  {
+    "param": "no2",
+    "dateRel": 112,
+    "key": "predic",
+    "val": 32.85258909,
+    "predUpr": 35.4782713,
+    "predLwr": 30.22690688
+  },
+  {
+    "param": "no2",
+    "dateRel": 112,
+    "key": "observed",
+    "val": 23.0436481,
+    "predUpr": 35.4782713,
+    "predLwr": 30.22690688
+  },
+  {
+    "param": "pm25",
+    "dateRel": -87,
+    "key": "predic",
+    "val": 55.25253052,
+    "predUpr": 67.14907174,
+    "predLwr": 43.35598929
+  },
+  {
+    "param": "pm25",
+    "dateRel": -87,
+    "key": "observed",
+    "val": 40.74486007,
+    "predUpr": 67.14907174,
+    "predLwr": 43.35598929
+  },
+  {
+    "param": "pm25",
+    "dateRel": -86,
+    "key": "predic",
+    "val": 48.21052766,
+    "predUpr": 62.18575372,
+    "predLwr": 34.23530161
+  },
+  {
+    "param": "pm25",
+    "dateRel": -86,
+    "key": "observed",
+    "val": 37.474933,
+    "predUpr": 62.18575372,
+    "predLwr": 34.23530161
+  },
+  {
+    "param": "pm25",
+    "dateRel": -85,
+    "key": "predic",
+    "val": 31.47208863,
+    "predUpr": 41.61892316,
+    "predLwr": 21.32525411
+  },
+  {
+    "param": "pm25",
+    "dateRel": -85,
+    "key": "observed",
+    "val": 30.38736971,
+    "predUpr": 41.61892316,
+    "predLwr": 21.32525411
+  },
+  {
+    "param": "pm25",
+    "dateRel": -84,
+    "key": "predic",
+    "val": 26.15471197,
+    "predUpr": 36.45680057,
+    "predLwr": 15.85262337
+  },
+  {
+    "param": "pm25",
+    "dateRel": -84,
+    "key": "observed",
+    "val": 24.99405843,
+    "predUpr": 36.45680057,
+    "predLwr": 15.85262337
+  },
+  {
+    "param": "pm25",
+    "dateRel": -83,
+    "key": "predic",
+    "val": 23.3995563,
+    "predUpr": 34.30777188,
+    "predLwr": 12.49134072
+  },
+  {
+    "param": "pm25",
+    "dateRel": -83,
+    "key": "observed",
+    "val": 26.15090576,
+    "predUpr": 34.30777188,
+    "predLwr": 12.49134072
+  },
+  {
+    "param": "pm25",
+    "dateRel": -82,
+    "key": "predic",
+    "val": 25.92618829,
+    "predUpr": 34.65389408,
+    "predLwr": 17.19848249
+  },
+  {
+    "param": "pm25",
+    "dateRel": -82,
+    "key": "observed",
+    "val": 29.46373733,
+    "predUpr": 34.65389408,
+    "predLwr": 17.19848249
+  },
+  {
+    "param": "pm25",
+    "dateRel": -81,
+    "key": "predic",
+    "val": 27.06309419,
+    "predUpr": 34.86462249,
+    "predLwr": 19.26156588
+  },
+  {
+    "param": "pm25",
+    "dateRel": -81,
+    "key": "observed",
+    "val": 32.68558159,
+    "predUpr": 34.86462249,
+    "predLwr": 19.26156588
+  },
+  {
+    "param": "pm25",
+    "dateRel": -80,
+    "key": "predic",
+    "val": 24.25735963,
+    "predUpr": 32.23392871,
+    "predLwr": 16.28079054
+  },
+  {
+    "param": "pm25",
+    "dateRel": -80,
+    "key": "observed",
+    "val": 30.72622652,
+    "predUpr": 32.23392871,
+    "predLwr": 16.28079054
+  },
+  {
+    "param": "pm25",
+    "dateRel": -79,
+    "key": "predic",
+    "val": 26.02023975,
+    "predUpr": 34.91738534,
+    "predLwr": 17.12309416
+  },
+  {
+    "param": "pm25",
+    "dateRel": -79,
+    "key": "observed",
+    "val": 30.80961332,
+    "predUpr": 34.91738534,
+    "predLwr": 17.12309416
+  },
+  {
+    "param": "pm25",
+    "dateRel": -78,
+    "key": "predic",
+    "val": 25.4820183,
+    "predUpr": 34.87043541,
+    "predLwr": 16.0936012
+  },
+  {
+    "param": "pm25",
+    "dateRel": -78,
+    "key": "observed",
+    "val": 29.31301678,
+    "predUpr": 34.87043541,
+    "predLwr": 16.0936012
+  },
+  {
+    "param": "pm25",
+    "dateRel": -77,
+    "key": "predic",
+    "val": 26.2700077,
+    "predUpr": 35.01736901,
+    "predLwr": 17.52264638
+  },
+  {
+    "param": "pm25",
+    "dateRel": -77,
+    "key": "observed",
+    "val": 31.33670186,
+    "predUpr": 35.01736901,
+    "predLwr": 17.52264638
+  },
+  {
+    "param": "pm25",
+    "dateRel": -76,
+    "key": "predic",
+    "val": 23.40197253,
+    "predUpr": 31.89637352,
+    "predLwr": 14.90757154
+  },
+  {
+    "param": "pm25",
+    "dateRel": -76,
+    "key": "observed",
+    "val": 27.3338638,
+    "predUpr": 31.89637352,
+    "predLwr": 14.90757154
+  },
+  {
+    "param": "pm25",
+    "dateRel": -75,
+    "key": "predic",
+    "val": 27.26146145,
+    "predUpr": 35.1345193,
+    "predLwr": 19.3884036
+  },
+  {
+    "param": "pm25",
+    "dateRel": -75,
+    "key": "observed",
+    "val": 28.08092187,
+    "predUpr": 35.1345193,
+    "predLwr": 19.3884036
+  },
+  {
+    "param": "pm25",
+    "dateRel": -74,
+    "key": "predic",
+    "val": 21.12365206,
+    "predUpr": 26.29380125,
+    "predLwr": 15.95350287
+  },
+  {
+    "param": "pm25",
+    "dateRel": -74,
+    "key": "observed",
+    "val": 19.86315994,
+    "predUpr": 26.29380125,
+    "predLwr": 15.95350287
+  },
+  {
+    "param": "pm25",
+    "dateRel": -73,
+    "key": "predic",
+    "val": 21.78473969,
+    "predUpr": 26.32781606,
+    "predLwr": 17.24166331
+  },
+  {
+    "param": "pm25",
+    "dateRel": -73,
+    "key": "observed",
+    "val": 19.98373672,
+    "predUpr": 26.32781606,
+    "predLwr": 17.24166331
+  },
+  {
+    "param": "pm25",
+    "dateRel": -72,
+    "key": "predic",
+    "val": 19.5859662,
+    "predUpr": 24.2346725,
+    "predLwr": 14.93725989
+  },
+  {
+    "param": "pm25",
+    "dateRel": -72,
+    "key": "observed",
+    "val": 17.70840547,
+    "predUpr": 24.2346725,
+    "predLwr": 14.93725989
+  },
+  {
+    "param": "pm25",
+    "dateRel": -71,
+    "key": "predic",
+    "val": 24.06026501,
+    "predUpr": 28.7430815,
+    "predLwr": 19.37744852
+  },
+  {
+    "param": "pm25",
+    "dateRel": -71,
+    "key": "observed",
+    "val": 21.5013272,
+    "predUpr": 28.7430815,
+    "predLwr": 19.37744852
+  },
+  {
+    "param": "pm25",
+    "dateRel": -70,
+    "key": "predic",
+    "val": 25.17886616,
+    "predUpr": 29.76360042,
+    "predLwr": 20.5941319
+  },
+  {
+    "param": "pm25",
+    "dateRel": -70,
+    "key": "observed",
+    "val": 23.21308791,
+    "predUpr": 29.76360042,
+    "predLwr": 20.5941319
+  },
+  {
+    "param": "pm25",
+    "dateRel": -69,
+    "key": "predic",
+    "val": 22.29566133,
+    "predUpr": 26.5850109,
+    "predLwr": 18.00631176
+  },
+  {
+    "param": "pm25",
+    "dateRel": -69,
+    "key": "observed",
+    "val": 22.68332232,
+    "predUpr": 26.5850109,
+    "predLwr": 18.00631176
+  },
+  {
+    "param": "pm25",
+    "dateRel": -68,
+    "key": "predic",
+    "val": 21.92675742,
+    "predUpr": 26.27239636,
+    "predLwr": 17.58111848
+  },
+  {
+    "param": "pm25",
+    "dateRel": -68,
+    "key": "observed",
+    "val": 23.14340981,
+    "predUpr": 26.27239636,
+    "predLwr": 17.58111848
+  },
+  {
+    "param": "pm25",
+    "dateRel": -67,
+    "key": "predic",
+    "val": 22.47939422,
+    "predUpr": 26.84612067,
+    "predLwr": 18.11266777
+  },
+  {
+    "param": "pm25",
+    "dateRel": -67,
+    "key": "observed",
+    "val": 21.32796719,
+    "predUpr": 26.84612067,
+    "predLwr": 18.11266777
+  },
+  {
+    "param": "pm25",
+    "dateRel": -66,
+    "key": "predic",
+    "val": 20.99331718,
+    "predUpr": 24.82876052,
+    "predLwr": 17.15787385
+  },
+  {
+    "param": "pm25",
+    "dateRel": -66,
+    "key": "observed",
+    "val": 20.81151942,
+    "predUpr": 24.82876052,
+    "predLwr": 17.15787385
+  },
+  {
+    "param": "pm25",
+    "dateRel": -65,
+    "key": "predic",
+    "val": 19.96786253,
+    "predUpr": 23.89549212,
+    "predLwr": 16.04023295
+  },
+  {
+    "param": "pm25",
+    "dateRel": -65,
+    "key": "observed",
+    "val": 20.37056949,
+    "predUpr": 23.89549212,
+    "predLwr": 16.04023295
+  },
+  {
+    "param": "pm25",
+    "dateRel": -64,
+    "key": "predic",
+    "val": 19.01447769,
+    "predUpr": 23.00915374,
+    "predLwr": 15.01980164
+  },
+  {
+    "param": "pm25",
+    "dateRel": -64,
+    "key": "observed",
+    "val": 18.7650321,
+    "predUpr": 23.00915374,
+    "predLwr": 15.01980164
+  },
+  {
+    "param": "pm25",
+    "dateRel": -63,
+    "key": "predic",
+    "val": 18.62743579,
+    "predUpr": 22.80559694,
+    "predLwr": 14.44927463
+  },
+  {
+    "param": "pm25",
+    "dateRel": -63,
+    "key": "observed",
+    "val": 17.87170105,
+    "predUpr": 22.80559694,
+    "predLwr": 14.44927463
+  },
+  {
+    "param": "pm25",
+    "dateRel": -62,
+    "key": "predic",
+    "val": 17.68415457,
+    "predUpr": 22.15439725,
+    "predLwr": 13.21391189
+  },
+  {
+    "param": "pm25",
+    "dateRel": -62,
+    "key": "observed",
+    "val": 18.79022544,
+    "predUpr": 22.15439725,
+    "predLwr": 13.21391189
+  },
+  {
+    "param": "pm25",
+    "dateRel": -61,
+    "key": "predic",
+    "val": 21.53827578,
+    "predUpr": 26.1442283,
+    "predLwr": 16.93232326
+  },
+  {
+    "param": "pm25",
+    "dateRel": -61,
+    "key": "observed",
+    "val": 20.43187184,
+    "predUpr": 26.1442283,
+    "predLwr": 16.93232326
+  },
+  {
+    "param": "pm25",
+    "dateRel": -60,
+    "key": "predic",
+    "val": 19.04173056,
+    "predUpr": 23.50953533,
+    "predLwr": 14.5739258
+  },
+  {
+    "param": "pm25",
+    "dateRel": -60,
+    "key": "observed",
+    "val": 19.37938186,
+    "predUpr": 23.50953533,
+    "predLwr": 14.5739258
+  },
+  {
+    "param": "pm25",
+    "dateRel": -59,
+    "key": "predic",
+    "val": 19.45764347,
+    "predUpr": 24.04776698,
+    "predLwr": 14.86751997
+  },
+  {
+    "param": "pm25",
+    "dateRel": -59,
+    "key": "observed",
+    "val": 19.85271699,
+    "predUpr": 24.04776698,
+    "predLwr": 14.86751997
+  },
+  {
+    "param": "pm25",
+    "dateRel": -58,
+    "key": "predic",
+    "val": 27.06846275,
+    "predUpr": 30.92300953,
+    "predLwr": 23.21391596
+  },
+  {
+    "param": "pm25",
+    "dateRel": -58,
+    "key": "observed",
+    "val": 32.20133903,
+    "predUpr": 30.92300953,
+    "predLwr": 23.21391596
+  },
+  {
+    "param": "pm25",
+    "dateRel": -57,
+    "key": "predic",
+    "val": 37.95386658,
+    "predUpr": 42.75438465,
+    "predLwr": 33.15334851
+  },
+  {
+    "param": "pm25",
+    "dateRel": -57,
+    "key": "observed",
+    "val": 47.16356768,
+    "predUpr": 42.75438465,
+    "predLwr": 33.15334851
+  },
+  {
+    "param": "pm25",
+    "dateRel": -56,
+    "key": "predic",
+    "val": 49.58252918,
+    "predUpr": 55.20981951,
+    "predLwr": 43.95523885
+  },
+  {
+    "param": "pm25",
+    "dateRel": -56,
+    "key": "observed",
+    "val": 57.88502192,
+    "predUpr": 55.20981951,
+    "predLwr": 43.95523885
+  },
+  {
+    "param": "pm25",
+    "dateRel": -55,
+    "key": "predic",
+    "val": 61.54706091,
+    "predUpr": 67.92279917,
+    "predLwr": 55.17132265
+  },
+  {
+    "param": "pm25",
+    "dateRel": -55,
+    "key": "observed",
+    "val": 69.57569811,
+    "predUpr": 67.92279917,
+    "predLwr": 55.17132265
+  },
+  {
+    "param": "pm25",
+    "dateRel": -54,
+    "key": "predic",
+    "val": 74.34455572,
+    "predUpr": 81.44794441,
+    "predLwr": 67.24116703
+  },
+  {
+    "param": "pm25",
+    "dateRel": -54,
+    "key": "observed",
+    "val": 80.82478499,
+    "predUpr": 81.44794441,
+    "predLwr": 67.24116703
+  },
+  {
+    "param": "pm25",
+    "dateRel": -53,
+    "key": "predic",
+    "val": 74.37911147,
+    "predUpr": 81.38663077,
+    "predLwr": 67.37159217
+  },
+  {
+    "param": "pm25",
+    "dateRel": -53,
+    "key": "observed",
+    "val": 75.00479097,
+    "predUpr": 81.38663077,
+    "predLwr": 67.37159217
+  },
+  {
+    "param": "pm25",
+    "dateRel": -52,
+    "key": "predic",
+    "val": 74.0435141,
+    "predUpr": 81.21466944,
+    "predLwr": 66.87235876
+  },
+  {
+    "param": "pm25",
+    "dateRel": -52,
+    "key": "observed",
+    "val": 70.58791174,
+    "predUpr": 81.21466944,
+    "predLwr": 66.87235876
+  },
+  {
+    "param": "pm25",
+    "dateRel": -51,
+    "key": "predic",
+    "val": 73.26422525,
+    "predUpr": 80.46140372,
+    "predLwr": 66.06704679
+  },
+  {
+    "param": "pm25",
+    "dateRel": -51,
+    "key": "observed",
+    "val": 70.27257128,
+    "predUpr": 80.46140372,
+    "predLwr": 66.06704679
+  },
+  {
+    "param": "pm25",
+    "dateRel": -50,
+    "key": "predic",
+    "val": 71.91354547,
+    "predUpr": 79.15920846,
+    "predLwr": 64.66788248
+  },
+  {
+    "param": "pm25",
+    "dateRel": -50,
+    "key": "observed",
+    "val": 66.94880548,
+    "predUpr": 79.15920846,
+    "predLwr": 64.66788248
+  },
+  {
+    "param": "pm25",
+    "dateRel": -49,
+    "key": "predic",
+    "val": 69.93960018,
+    "predUpr": 77.12826375,
+    "predLwr": 62.7509366
+  },
+  {
+    "param": "pm25",
+    "dateRel": -49,
+    "key": "observed",
+    "val": 65.05868634,
+    "predUpr": 77.12826375,
+    "predLwr": 62.7509366
+  },
+  {
+    "param": "pm25",
+    "dateRel": -48,
+    "key": "predic",
+    "val": 70.54184713,
+    "predUpr": 77.47629131,
+    "predLwr": 63.60740295
+  },
+  {
+    "param": "pm25",
+    "dateRel": -48,
+    "key": "observed",
+    "val": 65.57851452,
+    "predUpr": 77.47629131,
+    "predLwr": 63.60740295
+  },
+  {
+    "param": "pm25",
+    "dateRel": -47,
+    "key": "predic",
+    "val": 74.69651382,
+    "predUpr": 81.35075207,
+    "predLwr": 68.04227557
+  },
+  {
+    "param": "pm25",
+    "dateRel": -47,
+    "key": "observed",
+    "val": 69.24370401,
+    "predUpr": 81.35075207,
+    "predLwr": 68.04227557
+  },
+  {
+    "param": "pm25",
+    "dateRel": -46,
+    "key": "predic",
+    "val": 75.65271797,
+    "predUpr": 82.19236366,
+    "predLwr": 69.11307228
+  },
+  {
+    "param": "pm25",
+    "dateRel": -46,
+    "key": "observed",
+    "val": 72.9838322,
+    "predUpr": 82.19236366,
+    "predLwr": 69.11307228
+  },
+  {
+    "param": "pm25",
+    "dateRel": -45,
+    "key": "predic",
+    "val": 75.50371801,
+    "predUpr": 82.08850827,
+    "predLwr": 68.91892775
+  },
+  {
+    "param": "pm25",
+    "dateRel": -45,
+    "key": "observed",
+    "val": 76.73500428,
+    "predUpr": 82.08850827,
+    "predLwr": 68.91892775
+  },
+  {
+    "param": "pm25",
+    "dateRel": -44,
+    "key": "predic",
+    "val": 74.92251903,
+    "predUpr": 81.40409586,
+    "predLwr": 68.44094221
+  },
+  {
+    "param": "pm25",
+    "dateRel": -44,
+    "key": "observed",
+    "val": 77.7619348,
+    "predUpr": 81.40409586,
+    "predLwr": 68.44094221
+  },
+  {
+    "param": "pm25",
+    "dateRel": -43,
+    "key": "predic",
+    "val": 76.21613814,
+    "predUpr": 82.61730971,
+    "predLwr": 69.81496656
+  },
+  {
+    "param": "pm25",
+    "dateRel": -43,
+    "key": "observed",
+    "val": 77.9069494,
+    "predUpr": 82.61730971,
+    "predLwr": 69.81496656
+  },
+  {
+    "param": "pm25",
+    "dateRel": -42,
+    "key": "predic",
+    "val": 67.56406362,
+    "predUpr": 74.67397539,
+    "predLwr": 60.45415186
+  },
+  {
+    "param": "pm25",
+    "dateRel": -42,
+    "key": "observed",
+    "val": 68.51489932,
+    "predUpr": 74.67397539,
+    "predLwr": 60.45415186
+  },
+  {
+    "param": "pm25",
+    "dateRel": -41,
+    "key": "predic",
+    "val": 65.58348497,
+    "predUpr": 72.35995428,
+    "predLwr": 58.80701566
+  },
+  {
+    "param": "pm25",
+    "dateRel": -41,
+    "key": "observed",
+    "val": 62.77313046,
+    "predUpr": 72.35995428,
+    "predLwr": 58.80701566
+  },
+  {
+    "param": "pm25",
+    "dateRel": -40,
+    "key": "predic",
+    "val": 65.56896739,
+    "predUpr": 72.20332224,
+    "predLwr": 58.93461255
+  },
+  {
+    "param": "pm25",
+    "dateRel": -40,
+    "key": "observed",
+    "val": 59.30718928,
+    "predUpr": 72.20332224,
+    "predLwr": 58.93461255
+  },
+  {
+    "param": "pm25",
+    "dateRel": -39,
+    "key": "predic",
+    "val": 66.16407412,
+    "predUpr": 72.82858533,
+    "predLwr": 59.49956292
+  },
+  {
+    "param": "pm25",
+    "dateRel": -39,
+    "key": "observed",
+    "val": 58.13478886,
+    "predUpr": 72.82858533,
+    "predLwr": 59.49956292
+  },
+  {
+    "param": "pm25",
+    "dateRel": -38,
+    "key": "predic",
+    "val": 68.59780409,
+    "predUpr": 74.7147002,
+    "predLwr": 62.48090797
+  },
+  {
+    "param": "pm25",
+    "dateRel": -38,
+    "key": "observed",
+    "val": 60.86698518,
+    "predUpr": 74.7147002,
+    "predLwr": 62.48090797
+  },
+  {
+    "param": "pm25",
+    "dateRel": -37,
+    "key": "predic",
+    "val": 68.63780064,
+    "predUpr": 74.55790801,
+    "predLwr": 62.71769327
+  },
+  {
+    "param": "pm25",
+    "dateRel": -37,
+    "key": "observed",
+    "val": 63.37077677,
+    "predUpr": 74.55790801,
+    "predLwr": 62.71769327
+  },
+  {
+    "param": "pm25",
+    "dateRel": -36,
+    "key": "predic",
+    "val": 68.45586327,
+    "predUpr": 74.40170589,
+    "predLwr": 62.51002066
+  },
+  {
+    "param": "pm25",
+    "dateRel": -36,
+    "key": "observed",
+    "val": 63.25372556,
+    "predUpr": 74.40170589,
+    "predLwr": 62.51002066
+  },
+  {
+    "param": "pm25",
+    "dateRel": -35,
+    "key": "predic",
+    "val": 68.86328312,
+    "predUpr": 74.83004245,
+    "predLwr": 62.89652379
+  },
+  {
+    "param": "pm25",
+    "dateRel": -35,
+    "key": "observed",
+    "val": 63.50916129,
+    "predUpr": 74.83004245,
+    "predLwr": 62.89652379
+  },
+  {
+    "param": "pm25",
+    "dateRel": -34,
+    "key": "predic",
+    "val": 70.05906295,
+    "predUpr": 76.01897519,
+    "predLwr": 64.0991507
+  },
+  {
+    "param": "pm25",
+    "dateRel": -34,
+    "key": "observed",
+    "val": 65.34497724,
+    "predUpr": 76.01897519,
+    "predLwr": 64.0991507
+  },
+  {
+    "param": "pm25",
+    "dateRel": -33,
+    "key": "predic",
+    "val": 70.01703289,
+    "predUpr": 76.04449223,
+    "predLwr": 63.98957356
+  },
+  {
+    "param": "pm25",
+    "dateRel": -33,
+    "key": "observed",
+    "val": 66.51495301,
+    "predUpr": 76.04449223,
+    "predLwr": 63.98957356
+  },
+  {
+    "param": "pm25",
+    "dateRel": -32,
+    "key": "predic",
+    "val": 71.0499102,
+    "predUpr": 77.24601278,
+    "predLwr": 64.85380762
+  },
+  {
+    "param": "pm25",
+    "dateRel": -32,
+    "key": "observed",
+    "val": 67.58290568,
+    "predUpr": 77.24601278,
+    "predLwr": 64.85380762
+  },
+  {
+    "param": "pm25",
+    "dateRel": -31,
+    "key": "predic",
+    "val": 70.77439165,
+    "predUpr": 77.42213582,
+    "predLwr": 64.12664748
+  },
+  {
+    "param": "pm25",
+    "dateRel": -31,
+    "key": "observed",
+    "val": 67.93854853,
+    "predUpr": 77.42213582,
+    "predLwr": 64.12664748
+  },
+  {
+    "param": "pm25",
+    "dateRel": -30,
+    "key": "predic",
+    "val": 67.3746471,
+    "predUpr": 74.16471514,
+    "predLwr": 60.58457907
+  },
+  {
+    "param": "pm25",
+    "dateRel": -30,
+    "key": "observed",
+    "val": 64.59676656,
+    "predUpr": 74.16471514,
+    "predLwr": 60.58457907
+  },
+  {
+    "param": "pm25",
+    "dateRel": -29,
+    "key": "predic",
+    "val": 64.32988027,
+    "predUpr": 71.36547189,
+    "predLwr": 57.29428864
+  },
+  {
+    "param": "pm25",
+    "dateRel": -29,
+    "key": "observed",
+    "val": 60.28883886,
+    "predUpr": 71.36547189,
+    "predLwr": 57.29428864
+  },
+  {
+    "param": "pm25",
+    "dateRel": -28,
+    "key": "predic",
+    "val": 63.31503431,
+    "predUpr": 70.6680131,
+    "predLwr": 55.96205552
+  },
+  {
+    "param": "pm25",
+    "dateRel": -28,
+    "key": "observed",
+    "val": 55.08637739,
+    "predUpr": 70.6680131,
+    "predLwr": 55.96205552
+  },
+  {
+    "param": "pm25",
+    "dateRel": -27,
+    "key": "predic",
+    "val": 62.1340829,
+    "predUpr": 69.44288282,
+    "predLwr": 54.82528298
+  },
+  {
+    "param": "pm25",
+    "dateRel": -27,
+    "key": "observed",
+    "val": 50.51240099,
+    "predUpr": 69.44288282,
+    "predLwr": 54.82528298
+  },
+  {
+    "param": "pm25",
+    "dateRel": -26,
+    "key": "predic",
+    "val": 63.16155578,
+    "predUpr": 70.15333692,
+    "predLwr": 56.16977465
+  },
+  {
+    "param": "pm25",
+    "dateRel": -26,
+    "key": "observed",
+    "val": 49.63772032,
+    "predUpr": 70.15333692,
+    "predLwr": 56.16977465
+  },
+  {
+    "param": "pm25",
+    "dateRel": -25,
+    "key": "predic",
+    "val": 64.43771875,
+    "predUpr": 71.18769383,
+    "predLwr": 57.68774367
+  },
+  {
+    "param": "pm25",
+    "dateRel": -25,
+    "key": "observed",
+    "val": 52.32193582,
+    "predUpr": 71.18769383,
+    "predLwr": 57.68774367
+  },
+  {
+    "param": "pm25",
+    "dateRel": -24,
+    "key": "predic",
+    "val": 64.94765867,
+    "predUpr": 71.50882799,
+    "predLwr": 58.38648935
+  },
+  {
+    "param": "pm25",
+    "dateRel": -24,
+    "key": "observed",
+    "val": 56.16535641,
+    "predUpr": 71.50882799,
+    "predLwr": 58.38648935
+  },
+  {
+    "param": "pm25",
+    "dateRel": -23,
+    "key": "predic",
+    "val": 63.57082757,
+    "predUpr": 70.21087716,
+    "predLwr": 56.93077798
+  },
+  {
+    "param": "pm25",
+    "dateRel": -23,
+    "key": "observed",
+    "val": 57.76762469,
+    "predUpr": 70.21087716,
+    "predLwr": 56.93077798
+  },
+  {
+    "param": "pm25",
+    "dateRel": -22,
+    "key": "predic",
+    "val": 57.59395036,
+    "predUpr": 63.19428719,
+    "predLwr": 51.99361352
+  },
+  {
+    "param": "pm25",
+    "dateRel": -22,
+    "key": "observed",
+    "val": 50.23668515,
+    "predUpr": 63.19428719,
+    "predLwr": 51.99361352
+  },
+  {
+    "param": "pm25",
+    "dateRel": -21,
+    "key": "predic",
+    "val": 59.95970426,
+    "predUpr": 65.73906089,
+    "predLwr": 54.18034763
+  },
+  {
+    "param": "pm25",
+    "dateRel": -21,
+    "key": "observed",
+    "val": 54.03888576,
+    "predUpr": 65.73906089,
+    "predLwr": 54.18034763
+  },
+  {
+    "param": "pm25",
+    "dateRel": -20,
+    "key": "predic",
+    "val": 60.97984556,
+    "predUpr": 66.96408064,
+    "predLwr": 54.99561048
+  },
+  {
+    "param": "pm25",
+    "dateRel": -20,
+    "key": "observed",
+    "val": 58.23277115,
+    "predUpr": 66.96408064,
+    "predLwr": 54.99561048
+  },
+  {
+    "param": "pm25",
+    "dateRel": -19,
+    "key": "predic",
+    "val": 62.66785907,
+    "predUpr": 68.82425196,
+    "predLwr": 56.51146618
+  },
+  {
+    "param": "pm25",
+    "dateRel": -19,
+    "key": "observed",
+    "val": 59.77249518,
+    "predUpr": 68.82425196,
+    "predLwr": 56.51146618
+  },
+  {
+    "param": "pm25",
+    "dateRel": -18,
+    "key": "predic",
+    "val": 65.09190105,
+    "predUpr": 71.14809636,
+    "predLwr": 59.03570575
+  },
+  {
+    "param": "pm25",
+    "dateRel": -18,
+    "key": "observed",
+    "val": 61.73676419,
+    "predUpr": 71.14809636,
+    "predLwr": 59.03570575
+  },
+  {
+    "param": "pm25",
+    "dateRel": -17,
+    "key": "predic",
+    "val": 66.02873661,
+    "predUpr": 71.90284962,
+    "predLwr": 60.1546236
+  },
+  {
+    "param": "pm25",
+    "dateRel": -17,
+    "key": "observed",
+    "val": 64.45585051,
+    "predUpr": 71.90284962,
+    "predLwr": 60.1546236
+  },
+  {
+    "param": "pm25",
+    "dateRel": -16,
+    "key": "predic",
+    "val": 64.76458296,
+    "predUpr": 70.56688559,
+    "predLwr": 58.96228033
+  },
+  {
+    "param": "pm25",
+    "dateRel": -16,
+    "key": "observed",
+    "val": 63.99914968,
+    "predUpr": 70.56688559,
+    "predLwr": 58.96228033
+  },
+  {
+    "param": "pm25",
+    "dateRel": -15,
+    "key": "predic",
+    "val": 64.53566671,
+    "predUpr": 70.24623297,
+    "predLwr": 58.82510045
+  },
+  {
+    "param": "pm25",
+    "dateRel": -15,
+    "key": "observed",
+    "val": 61.076878,
+    "predUpr": 70.24623297,
+    "predLwr": 58.82510045
+  },
+  {
+    "param": "pm25",
+    "dateRel": -14,
+    "key": "predic",
+    "val": 65.04497268,
+    "predUpr": 70.7349223,
+    "predLwr": 59.35502306
+  },
+  {
+    "param": "pm25",
+    "dateRel": -14,
+    "key": "observed",
+    "val": 59.38448218,
+    "predUpr": 70.7349223,
+    "predLwr": 59.35502306
+  },
+  {
+    "param": "pm25",
+    "dateRel": -13,
+    "key": "predic",
+    "val": 65.64455097,
+    "predUpr": 71.10723404,
+    "predLwr": 60.1818679
+  },
+  {
+    "param": "pm25",
+    "dateRel": -13,
+    "key": "observed",
+    "val": 57.3826057,
+    "predUpr": 71.10723404,
+    "predLwr": 60.1818679
+  },
+  {
+    "param": "pm25",
+    "dateRel": -12,
+    "key": "predic",
+    "val": 66.32112961,
+    "predUpr": 71.58446109,
+    "predLwr": 61.05779813
+  },
+  {
+    "param": "pm25",
+    "dateRel": -12,
+    "key": "observed",
+    "val": 56.34752214,
+    "predUpr": 71.58446109,
+    "predLwr": 61.05779813
+  },
+  {
+    "param": "pm25",
+    "dateRel": -11,
+    "key": "predic",
+    "val": 68.66885393,
+    "predUpr": 73.67304538,
+    "predLwr": 63.66466248
+  },
+  {
+    "param": "pm25",
+    "dateRel": -11,
+    "key": "observed",
+    "val": 57.10194488,
+    "predUpr": 73.67304538,
+    "predLwr": 63.66466248
+  },
+  {
+    "param": "pm25",
+    "dateRel": -10,
+    "key": "predic",
+    "val": 71.74704272,
+    "predUpr": 76.63652179,
+    "predLwr": 66.85756365
+  },
+  {
+    "param": "pm25",
+    "dateRel": -10,
+    "key": "observed",
+    "val": 58.89770023,
+    "predUpr": 76.63652179,
+    "predLwr": 66.85756365
+  },
+  {
+    "param": "pm25",
+    "dateRel": -9,
+    "key": "predic",
+    "val": 70.10522139,
+    "predUpr": 75.23663602,
+    "predLwr": 64.97380675
+  },
+  {
+    "param": "pm25",
+    "dateRel": -9,
+    "key": "observed",
+    "val": 61.07980189,
+    "predUpr": 75.23663602,
+    "predLwr": 64.97380675
+  },
+  {
+    "param": "pm25",
+    "dateRel": -8,
+    "key": "predic",
+    "val": 67.14992261,
+    "predUpr": 72.48995824,
+    "predLwr": 61.80988697
+  },
+  {
+    "param": "pm25",
+    "dateRel": -8,
+    "key": "observed",
+    "val": 62.21172429,
+    "predUpr": 72.48995824,
+    "predLwr": 61.80988697
+  },
+  {
+    "param": "pm25",
+    "dateRel": -7,
+    "key": "predic",
+    "val": 63.24856016,
+    "predUpr": 68.87360166,
+    "predLwr": 57.62351866
+  },
+  {
+    "param": "pm25",
+    "dateRel": -7,
+    "key": "observed",
+    "val": 60.33090568,
+    "predUpr": 68.87360166,
+    "predLwr": 57.62351866
+  },
+  {
+    "param": "pm25",
+    "dateRel": -6,
+    "key": "predic",
+    "val": 60.14905906,
+    "predUpr": 65.98401502,
+    "predLwr": 54.3141031
+  },
+  {
+    "param": "pm25",
+    "dateRel": -6,
+    "key": "observed",
+    "val": 57.9714462,
+    "predUpr": 65.98401502,
+    "predLwr": 54.3141031
+  },
+  {
+    "param": "pm25",
+    "dateRel": -5,
+    "key": "predic",
+    "val": 57.11909422,
+    "predUpr": 62.99535895,
+    "predLwr": 51.24282949
+  },
+  {
+    "param": "pm25",
+    "dateRel": -5,
+    "key": "observed",
+    "val": 57.36801406,
+    "predUpr": 62.99535895,
+    "predLwr": 51.24282949
+  },
+  {
+    "param": "pm25",
+    "dateRel": -4,
+    "key": "predic",
+    "val": 58.29294504,
+    "predUpr": 63.70968151,
+    "predLwr": 52.87620858
+  },
+  {
+    "param": "pm25",
+    "dateRel": -4,
+    "key": "observed",
+    "val": 55.06476165,
+    "predUpr": 63.70968151,
+    "predLwr": 52.87620858
+  },
+  {
+    "param": "pm25",
+    "dateRel": -3,
+    "key": "predic",
+    "val": 61.19578714,
+    "predUpr": 66.48676074,
+    "predLwr": 55.90481355
+  },
+  {
+    "param": "pm25",
+    "dateRel": -3,
+    "key": "observed",
+    "val": 54.54573586,
+    "predUpr": 66.48676074,
+    "predLwr": 55.90481355
+  },
+  {
+    "param": "pm25",
+    "dateRel": -2,
+    "key": "predic",
+    "val": 62.64714405,
+    "predUpr": 68.0175033,
+    "predLwr": 57.2767848
+  },
+  {
+    "param": "pm25",
+    "dateRel": -2,
+    "key": "observed",
+    "val": 56.14420668,
+    "predUpr": 68.0175033,
+    "predLwr": 57.2767848
+  },
+  {
+    "param": "pm25",
+    "dateRel": -1,
+    "key": "predic",
+    "val": 63.37039238,
+    "predUpr": 68.90805759,
+    "predLwr": 57.83272718
+  },
+  {
+    "param": "pm25",
+    "dateRel": -1,
+    "key": "observed",
+    "val": 56.87427356,
+    "predUpr": 68.90805759,
+    "predLwr": 57.83272718
+  },
+  {
+    "param": "pm25",
+    "dateRel": 0,
+    "key": "predic",
+    "val": 62.01184029,
+    "predUpr": 67.76674961,
+    "predLwr": 56.25693097
+  },
+  {
+    "param": "pm25",
+    "dateRel": 0,
+    "key": "observed",
+    "val": 55.90247961,
+    "predUpr": 67.76674961,
+    "predLwr": 56.25693097
+  },
+  {
+    "param": "pm25",
+    "dateRel": 1,
+    "key": "predic",
+    "val": 60.47046272,
+    "predUpr": 66.63583779,
+    "predLwr": 54.30508764
+  },
+  {
+    "param": "pm25",
+    "dateRel": 1,
+    "key": "observed",
+    "val": 55.40502412,
+    "predUpr": 66.63583779,
+    "predLwr": 54.30508764
+  },
+  {
+    "param": "pm25",
+    "dateRel": 2,
+    "key": "predic",
+    "val": 58.21167243,
+    "predUpr": 64.71206411,
+    "predLwr": 51.71128074
+  },
+  {
+    "param": "pm25",
+    "dateRel": 2,
+    "key": "observed",
+    "val": 53.56488941,
+    "predUpr": 64.71206411,
+    "predLwr": 51.71128074
+  },
+  {
+    "param": "pm25",
+    "dateRel": 3,
+    "key": "predic",
+    "val": 58.01491121,
+    "predUpr": 64.45441785,
+    "predLwr": 51.57540456
+  },
+  {
+    "param": "pm25",
+    "dateRel": 3,
+    "key": "observed",
+    "val": 52.62315317,
+    "predUpr": 64.45441785,
+    "predLwr": 51.57540456
+  },
+  {
+    "param": "pm25",
+    "dateRel": 4,
+    "key": "predic",
+    "val": 58.29358969,
+    "predUpr": 64.63699001,
+    "predLwr": 51.95018937
+  },
+  {
+    "param": "pm25",
+    "dateRel": 4,
+    "key": "observed",
+    "val": 51.39379757,
+    "predUpr": 64.63699001,
+    "predLwr": 51.95018937
+  },
+  {
+    "param": "pm25",
+    "dateRel": 5,
+    "key": "predic",
+    "val": 57.97011192,
+    "predUpr": 64.34445353,
+    "predLwr": 51.5957703
+  },
+  {
+    "param": "pm25",
+    "dateRel": 5,
+    "key": "observed",
+    "val": 49.40088796,
+    "predUpr": 64.34445353,
+    "predLwr": 51.5957703
+  },
+  {
+    "param": "pm25",
+    "dateRel": 6,
+    "key": "predic",
+    "val": 56.30900746,
+    "predUpr": 62.83723105,
+    "predLwr": 49.78078388
+  },
+  {
+    "param": "pm25",
+    "dateRel": 6,
+    "key": "observed",
+    "val": 47.17708178,
+    "predUpr": 62.83723105,
+    "predLwr": 49.78078388
+  },
+  {
+    "param": "pm25",
+    "dateRel": 7,
+    "key": "predic",
+    "val": 53.5173817,
+    "predUpr": 60.29767042,
+    "predLwr": 46.73709297
+  },
+  {
+    "param": "pm25",
+    "dateRel": 7,
+    "key": "observed",
+    "val": 44.85257518,
+    "predUpr": 60.29767042,
+    "predLwr": 46.73709297
+  },
+  {
+    "param": "pm25",
+    "dateRel": 8,
+    "key": "predic",
+    "val": 51.46346111,
+    "predUpr": 58.49391222,
+    "predLwr": 44.43301
+  },
+  {
+    "param": "pm25",
+    "dateRel": 8,
+    "key": "observed",
+    "val": 42.25493749,
+    "predUpr": 58.49391222,
+    "predLwr": 44.43301
+  },
+  {
+    "param": "pm25",
+    "dateRel": 9,
+    "key": "predic",
+    "val": 50.61373424,
+    "predUpr": 57.98294244,
+    "predLwr": 43.24452604
+  },
+  {
+    "param": "pm25",
+    "dateRel": 9,
+    "key": "observed",
+    "val": 42.23057895,
+    "predUpr": 57.98294244,
+    "predLwr": 43.24452604
+  },
+  {
+    "param": "pm25",
+    "dateRel": 10,
+    "key": "predic",
+    "val": 49.73722753,
+    "predUpr": 56.71250118,
+    "predLwr": 42.76195388
+  },
+  {
+    "param": "pm25",
+    "dateRel": 10,
+    "key": "observed",
+    "val": 39.62241061,
+    "predUpr": 56.71250118,
+    "predLwr": 42.76195388
+  },
+  {
+    "param": "pm25",
+    "dateRel": 11,
+    "key": "predic",
+    "val": 52.13141441,
+    "predUpr": 58.83873374,
+    "predLwr": 45.42409507
+  },
+  {
+    "param": "pm25",
+    "dateRel": 11,
+    "key": "observed",
+    "val": 40.3497025,
+    "predUpr": 58.83873374,
+    "predLwr": 45.42409507
+  },
+  {
+    "param": "pm25",
+    "dateRel": 12,
+    "key": "predic",
+    "val": 51.8129891,
+    "predUpr": 58.2508434,
+    "predLwr": 45.3751348
+  },
+  {
+    "param": "pm25",
+    "dateRel": 12,
+    "key": "observed",
+    "val": 40.29204433,
+    "predUpr": 58.2508434,
+    "predLwr": 45.3751348
+  },
+  {
+    "param": "pm25",
+    "dateRel": 13,
+    "key": "predic",
+    "val": 50.53973375,
+    "predUpr": 56.74261322,
+    "predLwr": 44.33685429
+  },
+  {
+    "param": "pm25",
+    "dateRel": 13,
+    "key": "observed",
+    "val": 39.73365808,
+    "predUpr": 56.74261322,
+    "predLwr": 44.33685429
+  },
+  {
+    "param": "pm25",
+    "dateRel": 14,
+    "key": "predic",
+    "val": 51.03488135,
+    "predUpr": 57.33023726,
+    "predLwr": 44.73952544
+  },
+  {
+    "param": "pm25",
+    "dateRel": 14,
+    "key": "observed",
+    "val": 38.28503638,
+    "predUpr": 57.33023726,
+    "predLwr": 44.73952544
+  },
+  {
+    "param": "pm25",
+    "dateRel": 15,
+    "key": "predic",
+    "val": 49.95736208,
+    "predUpr": 56.38531393,
+    "predLwr": 43.52941022
+  },
+  {
+    "param": "pm25",
+    "dateRel": 15,
+    "key": "observed",
+    "val": 37.76053618,
+    "predUpr": 56.38531393,
+    "predLwr": 43.52941022
+  },
+  {
+    "param": "pm25",
+    "dateRel": 16,
+    "key": "predic",
+    "val": 49.65668545,
+    "predUpr": 56.10294747,
+    "predLwr": 43.21042344
+  },
+  {
+    "param": "pm25",
+    "dateRel": 16,
+    "key": "observed",
+    "val": 37.39688809,
+    "predUpr": 56.10294747,
+    "predLwr": 43.21042344
+  },
+  {
+    "param": "pm25",
+    "dateRel": 17,
+    "key": "predic",
+    "val": 51.57051989,
+    "predUpr": 57.64862843,
+    "predLwr": 45.49241135
+  },
+  {
+    "param": "pm25",
+    "dateRel": 17,
+    "key": "observed",
+    "val": 38.61975946,
+    "predUpr": 57.64862843,
+    "predLwr": 45.49241135
+  },
+  {
+    "param": "pm25",
+    "dateRel": 18,
+    "key": "predic",
+    "val": 54.94494198,
+    "predUpr": 60.74766438,
+    "predLwr": 49.14221957
+  },
+  {
+    "param": "pm25",
+    "dateRel": 18,
+    "key": "observed",
+    "val": 41.07923271,
+    "predUpr": 60.74766438,
+    "predLwr": 49.14221957
+  },
+  {
+    "param": "pm25",
+    "dateRel": 19,
+    "key": "predic",
+    "val": 55.04481355,
+    "predUpr": 60.64663041,
+    "predLwr": 49.44299668
+  },
+  {
+    "param": "pm25",
+    "dateRel": 19,
+    "key": "observed",
+    "val": 42.73366742,
+    "predUpr": 60.64663041,
+    "predLwr": 49.44299668
+  },
+  {
+    "param": "pm25",
+    "dateRel": 20,
+    "key": "predic",
+    "val": 56.75532685,
+    "predUpr": 62.33082929,
+    "predLwr": 51.17982441
+  },
+  {
+    "param": "pm25",
+    "dateRel": 20,
+    "key": "observed",
+    "val": 45.52934855,
+    "predUpr": 62.33082929,
+    "predLwr": 51.17982441
+  },
+  {
+    "param": "pm25",
+    "dateRel": 21,
+    "key": "predic",
+    "val": 57.60825145,
+    "predUpr": 63.2501182,
+    "predLwr": 51.96638471
+  },
+  {
+    "param": "pm25",
+    "dateRel": 21,
+    "key": "observed",
+    "val": 46.21228225,
+    "predUpr": 63.2501182,
+    "predLwr": 51.96638471
+  },
+  {
+    "param": "pm25",
+    "dateRel": 22,
+    "key": "predic",
+    "val": 57.3858104,
+    "predUpr": 63.16396356,
+    "predLwr": 51.60765723
+  },
+  {
+    "param": "pm25",
+    "dateRel": 22,
+    "key": "observed",
+    "val": 46.27797855,
+    "predUpr": 63.16396356,
+    "predLwr": 51.60765723
+  },
+  {
+    "param": "pm25",
+    "dateRel": 23,
+    "key": "predic",
+    "val": 54.78063442,
+    "predUpr": 60.70820783,
+    "predLwr": 48.85306101
+  },
+  {
+    "param": "pm25",
+    "dateRel": 23,
+    "key": "observed",
+    "val": 42.14764146,
+    "predUpr": 60.70820783,
+    "predLwr": 48.85306101
+  },
+  {
+    "param": "pm25",
+    "dateRel": 24,
+    "key": "predic",
+    "val": 55.33102247,
+    "predUpr": 61.34431461,
+    "predLwr": 49.31773033
+  },
+  {
+    "param": "pm25",
+    "dateRel": 24,
+    "key": "observed",
+    "val": 40.07631097,
+    "predUpr": 61.34431461,
+    "predLwr": 49.31773033
+  },
+  {
+    "param": "pm25",
+    "dateRel": 25,
+    "key": "predic",
+    "val": 55.64628679,
+    "predUpr": 61.67337541,
+    "predLwr": 49.61919817
+  },
+  {
+    "param": "pm25",
+    "dateRel": 25,
+    "key": "observed",
+    "val": 36.7884257,
+    "predUpr": 61.67337541,
+    "predLwr": 49.61919817
+  },
+  {
+    "param": "pm25",
+    "dateRel": 26,
+    "key": "predic",
+    "val": 54.85506407,
+    "predUpr": 60.99062094,
+    "predLwr": 48.7195072
+  },
+  {
+    "param": "pm25",
+    "dateRel": 26,
+    "key": "observed",
+    "val": 34.31482507,
+    "predUpr": 60.99062094,
+    "predLwr": 48.7195072
+  },
+  {
+    "param": "pm25",
+    "dateRel": 27,
+    "key": "predic",
+    "val": 54.55280928,
+    "predUpr": 60.97979288,
+    "predLwr": 48.12582568
+  },
+  {
+    "param": "pm25",
+    "dateRel": 27,
+    "key": "observed",
+    "val": 32.29238592,
+    "predUpr": 60.97979288,
+    "predLwr": 48.12582568
+  },
+  {
+    "param": "pm25",
+    "dateRel": 28,
+    "key": "predic",
+    "val": 54.48074803,
+    "predUpr": 61.58783987,
+    "predLwr": 47.37365619
+  },
+  {
+    "param": "pm25",
+    "dateRel": 28,
+    "key": "observed",
+    "val": 32.71200457,
+    "predUpr": 61.58783987,
+    "predLwr": 47.37365619
+  },
+  {
+    "param": "pm25",
+    "dateRel": 29,
+    "key": "predic",
+    "val": 53.03129547,
+    "predUpr": 60.06520528,
+    "predLwr": 45.99738566
+  },
+  {
+    "param": "pm25",
+    "dateRel": 29,
+    "key": "observed",
+    "val": 32.58417906,
+    "predUpr": 60.06520528,
+    "predLwr": 45.99738566
+  },
+  {
+    "param": "pm25",
+    "dateRel": 30,
+    "key": "predic",
+    "val": 52.979411,
+    "predUpr": 59.95308369,
+    "predLwr": 46.00573831
+  },
+  {
+    "param": "pm25",
+    "dateRel": 30,
+    "key": "observed",
+    "val": 31.63812244,
+    "predUpr": 59.95308369,
+    "predLwr": 46.00573831
+  },
+  {
+    "param": "pm25",
+    "dateRel": 31,
+    "key": "predic",
+    "val": 54.27765257,
+    "predUpr": 61.09935584,
+    "predLwr": 47.45594931
+  },
+  {
+    "param": "pm25",
+    "dateRel": 31,
+    "key": "observed",
+    "val": 31.76166607,
+    "predUpr": 61.09935584,
+    "predLwr": 47.45594931
+  },
+  {
+    "param": "pm25",
+    "dateRel": 32,
+    "key": "predic",
+    "val": 56.4540374,
+    "predUpr": 62.9471945,
+    "predLwr": 49.9608803
+  },
+  {
+    "param": "pm25",
+    "dateRel": 32,
+    "key": "observed",
+    "val": 32.88141086,
+    "predUpr": 62.9471945,
+    "predLwr": 49.9608803
+  },
+  {
+    "param": "pm25",
+    "dateRel": 33,
+    "key": "predic",
+    "val": 57.09363706,
+    "predUpr": 63.10861776,
+    "predLwr": 51.07865636
+  },
+  {
+    "param": "pm25",
+    "dateRel": 33,
+    "key": "observed",
+    "val": 34.74145581,
+    "predUpr": 63.10861776,
+    "predLwr": 51.07865636
+  },
+  {
+    "param": "pm25",
+    "dateRel": 34,
+    "key": "predic",
+    "val": 57.26289548,
+    "predUpr": 63.3820103,
+    "predLwr": 51.14378066
+  },
+  {
+    "param": "pm25",
+    "dateRel": 34,
+    "key": "observed",
+    "val": 36.43216007,
+    "predUpr": 63.3820103,
+    "predLwr": 51.14378066
+  },
+  {
+    "param": "pm25",
+    "dateRel": 35,
+    "key": "predic",
+    "val": 56.6370897,
+    "predUpr": 63.02699764,
+    "predLwr": 50.24718176
+  },
+  {
+    "param": "pm25",
+    "dateRel": 35,
+    "key": "observed",
+    "val": 38.62296613,
+    "predUpr": 63.02699764,
+    "predLwr": 50.24718176
+  },
+  {
+    "param": "pm25",
+    "dateRel": 36,
+    "key": "predic",
+    "val": 56.15612628,
+    "predUpr": 62.59941142,
+    "predLwr": 49.71284114
+  },
+  {
+    "param": "pm25",
+    "dateRel": 36,
+    "key": "observed",
+    "val": 40.7914403,
+    "predUpr": 62.59941142,
+    "predLwr": 49.71284114
+  },
+  {
+    "param": "pm25",
+    "dateRel": 37,
+    "key": "predic",
+    "val": 55.06728927,
+    "predUpr": 61.40948155,
+    "predLwr": 48.72509698
+  },
+  {
+    "param": "pm25",
+    "dateRel": 37,
+    "key": "observed",
+    "val": 41.58200281,
+    "predUpr": 61.40948155,
+    "predLwr": 48.72509698
+  },
+  {
+    "param": "pm25",
+    "dateRel": 38,
+    "key": "predic",
+    "val": 55.85040886,
+    "predUpr": 61.91092737,
+    "predLwr": 49.78989036
+  },
+  {
+    "param": "pm25",
+    "dateRel": 38,
+    "key": "observed",
+    "val": 41.34360065,
+    "predUpr": 61.91092737,
+    "predLwr": 49.78989036
+  },
+  {
+    "param": "pm25",
+    "dateRel": 39,
+    "key": "predic",
+    "val": 56.68521086,
+    "predUpr": 62.50602241,
+    "predLwr": 50.86439931
+  },
+  {
+    "param": "pm25",
+    "dateRel": 39,
+    "key": "observed",
+    "val": 40.89672237,
+    "predUpr": 62.50602241,
+    "predLwr": 50.86439931
+  },
+  {
+    "param": "pm25",
+    "dateRel": 40,
+    "key": "predic",
+    "val": 57.7812996,
+    "predUpr": 62.86738012,
+    "predLwr": 52.69521908
+  },
+  {
+    "param": "pm25",
+    "dateRel": 40,
+    "key": "observed",
+    "val": 40.65157984,
+    "predUpr": 62.86738012,
+    "predLwr": 52.69521908
+  },
+  {
+    "param": "pm25",
+    "dateRel": 41,
+    "key": "predic",
+    "val": 52.74690433,
+    "predUpr": 58.332416,
+    "predLwr": 47.16139265
+  },
+  {
+    "param": "pm25",
+    "dateRel": 41,
+    "key": "observed",
+    "val": 39.82384422,
+    "predUpr": 58.332416,
+    "predLwr": 47.16139265
+  },
+  {
+    "param": "pm25",
+    "dateRel": 42,
+    "key": "predic",
+    "val": 51.94387726,
+    "predUpr": 57.51371146,
+    "predLwr": 46.37404306
+  },
+  {
+    "param": "pm25",
+    "dateRel": 42,
+    "key": "observed",
+    "val": 40.33654793,
+    "predUpr": 57.51371146,
+    "predLwr": 46.37404306
+  },
+  {
+    "param": "pm25",
+    "dateRel": 43,
+    "key": "predic",
+    "val": 51.54961272,
+    "predUpr": 57.12325727,
+    "predLwr": 45.97596816
+  },
+  {
+    "param": "pm25",
+    "dateRel": 43,
+    "key": "observed",
+    "val": 42.38747054,
+    "predUpr": 57.12325727,
+    "predLwr": 45.97596816
+  },
+  {
+    "param": "pm25",
+    "dateRel": 44,
+    "key": "predic",
+    "val": 52.30936923,
+    "predUpr": 57.88240355,
+    "predLwr": 46.73633492
+  },
+  {
+    "param": "pm25",
+    "dateRel": 44,
+    "key": "observed",
+    "val": 45.61040923,
+    "predUpr": 57.88240355,
+    "predLwr": 46.73633492
+  },
+  {
+    "param": "pm25",
+    "dateRel": 45,
+    "key": "predic",
+    "val": 54.47911844,
+    "predUpr": 59.99025737,
+    "predLwr": 48.96797951
+  },
+  {
+    "param": "pm25",
+    "dateRel": 45,
+    "key": "observed",
+    "val": 50.16506243,
+    "predUpr": 59.99025737,
+    "predLwr": 48.96797951
+  },
+  {
+    "param": "pm25",
+    "dateRel": 46,
+    "key": "predic",
+    "val": 57.63448988,
+    "predUpr": 62.88495876,
+    "predLwr": 52.38402101
+  },
+  {
+    "param": "pm25",
+    "dateRel": 46,
+    "key": "observed",
+    "val": 53.17388578,
+    "predUpr": 62.88495876,
+    "predLwr": 52.38402101
+  },
+  {
+    "param": "pm25",
+    "dateRel": 47,
+    "key": "predic",
+    "val": 58.3158425,
+    "predUpr": 64.13571447,
+    "predLwr": 52.49597053
+  },
+  {
+    "param": "pm25",
+    "dateRel": 47,
+    "key": "observed",
+    "val": 54.77545747,
+    "predUpr": 64.13571447,
+    "predLwr": 52.49597053
+  },
+  {
+    "param": "pm25",
+    "dateRel": 48,
+    "key": "predic",
+    "val": 55.47696681,
+    "predUpr": 60.69298203,
+    "predLwr": 50.2609516
+  },
+  {
+    "param": "pm25",
+    "dateRel": 48,
+    "key": "observed",
+    "val": 53.4844836,
+    "predUpr": 60.69298203,
+    "predLwr": 50.2609516
+  },
+  {
+    "param": "pm25",
+    "dateRel": 49,
+    "key": "predic",
+    "val": 53.7660561,
+    "predUpr": 59.16494314,
+    "predLwr": 48.36716907
+  },
+  {
+    "param": "pm25",
+    "dateRel": 49,
+    "key": "observed",
+    "val": 51.03395524,
+    "predUpr": 59.16494314,
+    "predLwr": 48.36716907
+  },
+  {
+    "param": "pm25",
+    "dateRel": 50,
+    "key": "predic",
+    "val": 53.96443244,
+    "predUpr": 59.63093692,
+    "predLwr": 48.29792796
+  },
+  {
+    "param": "pm25",
+    "dateRel": 50,
+    "key": "observed",
+    "val": 47.34342714,
+    "predUpr": 59.63093692,
+    "predLwr": 48.29792796
+  },
+  {
+    "param": "pm25",
+    "dateRel": 51,
+    "key": "predic",
+    "val": 52.14867472,
+    "predUpr": 57.46689331,
+    "predLwr": 46.83045612
+  },
+  {
+    "param": "pm25",
+    "dateRel": 51,
+    "key": "observed",
+    "val": 45.44488452,
+    "predUpr": 57.46689331,
+    "predLwr": 46.83045612
+  },
+  {
+    "param": "pm25",
+    "dateRel": 52,
+    "key": "predic",
+    "val": 53.13075604,
+    "predUpr": 58.8253889,
+    "predLwr": 47.43612319
+  },
+  {
+    "param": "pm25",
+    "dateRel": 52,
+    "key": "observed",
+    "val": 44.50724071,
+    "predUpr": 58.8253889,
+    "predLwr": 47.43612319
+  },
+  {
+    "param": "pm25",
+    "dateRel": 53,
+    "key": "predic",
+    "val": 53.81309097,
+    "predUpr": 59.32370494,
+    "predLwr": 48.302477
+  },
+  {
+    "param": "pm25",
+    "dateRel": 53,
+    "key": "observed",
+    "val": 40.10114556,
+    "predUpr": 59.32370494,
+    "predLwr": 48.302477
+  },
+  {
+    "param": "pm25",
+    "dateRel": 54,
+    "key": "predic",
+    "val": 53.46403396,
+    "predUpr": 58.99335025,
+    "predLwr": 47.93471767
+  },
+  {
+    "param": "pm25",
+    "dateRel": 54,
+    "key": "observed",
+    "val": 39.67339934,
+    "predUpr": 58.99335025,
+    "predLwr": 47.93471767
+  },
+  {
+    "param": "pm25",
+    "dateRel": 55,
+    "key": "predic",
+    "val": 52.93758856,
+    "predUpr": 58.59642933,
+    "predLwr": 47.2787478
+  },
+  {
+    "param": "pm25",
+    "dateRel": 55,
+    "key": "observed",
+    "val": 39.83068831,
+    "predUpr": 58.59642933,
+    "predLwr": 47.2787478
+  },
+  {
+    "param": "pm25",
+    "dateRel": 56,
+    "key": "predic",
+    "val": 53.14302507,
+    "predUpr": 58.93982982,
+    "predLwr": 47.34622032
+  },
+  {
+    "param": "pm25",
+    "dateRel": 56,
+    "key": "observed",
+    "val": 38.10531418,
+    "predUpr": 58.93982982,
+    "predLwr": 47.34622032
+  },
+  {
+    "param": "pm25",
+    "dateRel": 57,
+    "key": "predic",
+    "val": 41.47164866,
+    "predUpr": 44.31387009,
+    "predLwr": 38.62942723
+  },
+  {
+    "param": "pm25",
+    "dateRel": 57,
+    "key": "observed",
+    "val": 25.44293665,
+    "predUpr": 44.31387009,
+    "predLwr": 38.62942723
+  },
+  {
+    "param": "pm25",
+    "dateRel": 58,
+    "key": "predic",
+    "val": 52.36184554,
+    "predUpr": 58.24930017,
+    "predLwr": 46.47439091
+  },
+  {
+    "param": "pm25",
+    "dateRel": 58,
+    "key": "observed",
+    "val": 35.65894059,
+    "predUpr": 58.24930017,
+    "predLwr": 46.47439091
+  },
+  {
+    "param": "pm25",
+    "dateRel": 59,
+    "key": "predic",
+    "val": 49.8605312,
+    "predUpr": 55.98831872,
+    "predLwr": 43.73274369
+  },
+  {
+    "param": "pm25",
+    "dateRel": 59,
+    "key": "observed",
+    "val": 34.66681118,
+    "predUpr": 55.98831872,
+    "predLwr": 43.73274369
+  },
+  {
+    "param": "pm25",
+    "dateRel": 60,
+    "key": "predic",
+    "val": 52.6579438,
+    "predUpr": 58.93923022,
+    "predLwr": 46.37665737
+  },
+  {
+    "param": "pm25",
+    "dateRel": 60,
+    "key": "observed",
+    "val": 33.83256692,
+    "predUpr": 58.93923022,
+    "predLwr": 46.37665737
+  },
+  {
+    "param": "pm25",
+    "dateRel": 61,
+    "key": "predic",
+    "val": 57.69497614,
+    "predUpr": 64.81729312,
+    "predLwr": 50.57265916
+  },
+  {
+    "param": "pm25",
+    "dateRel": 61,
+    "key": "observed",
+    "val": 38.16875064,
+    "predUpr": 64.81729312,
+    "predLwr": 50.57265916
+  },
+  {
+    "param": "pm25",
+    "dateRel": 62,
+    "key": "predic",
+    "val": 57.38774708,
+    "predUpr": 64.94927302,
+    "predLwr": 49.82622113
+  },
+  {
+    "param": "pm25",
+    "dateRel": 62,
+    "key": "observed",
+    "val": 39.66948503,
+    "predUpr": 64.94927302,
+    "predLwr": 49.82622113
+  },
+  {
+    "param": "pm25",
+    "dateRel": 63,
+    "key": "predic",
+    "val": 58.1030151,
+    "predUpr": 65.78059965,
+    "predLwr": 50.42543054
+  },
+  {
+    "param": "pm25",
+    "dateRel": 63,
+    "key": "observed",
+    "val": 41.74623182,
+    "predUpr": 65.78059965,
+    "predLwr": 50.42543054
+  },
+  {
+    "param": "pm25",
+    "dateRel": 64,
+    "key": "predic",
+    "val": 58.249377,
+    "predUpr": 66.04030894,
+    "predLwr": 50.45844506
+  },
+  {
+    "param": "pm25",
+    "dateRel": 64,
+    "key": "observed",
+    "val": 41.01367928,
+    "predUpr": 66.04030894,
+    "predLwr": 50.45844506
+  },
+  {
+    "param": "pm25",
+    "dateRel": 65,
+    "key": "predic",
+    "val": 55.93670038,
+    "predUpr": 63.72728339,
+    "predLwr": 48.14611737
+  },
+  {
+    "param": "pm25",
+    "dateRel": 65,
+    "key": "observed",
+    "val": 38.39898665,
+    "predUpr": 63.72728339,
+    "predLwr": 48.14611737
+  },
+  {
+    "param": "pm25",
+    "dateRel": 66,
+    "key": "predic",
+    "val": 55.4958238,
+    "predUpr": 63.07615747,
+    "predLwr": 47.91549014
+  },
+  {
+    "param": "pm25",
+    "dateRel": 66,
+    "key": "observed",
+    "val": 35.50623012,
+    "predUpr": 63.07615747,
+    "predLwr": 47.91549014
+  },
+  {
+    "param": "pm25",
+    "dateRel": 67,
+    "key": "predic",
+    "val": 56.20594127,
+    "predUpr": 63.67563251,
+    "predLwr": 48.73625003
+  },
+  {
+    "param": "pm25",
+    "dateRel": 67,
+    "key": "observed",
+    "val": 32.23585929,
+    "predUpr": 63.67563251,
+    "predLwr": 48.73625003
+  },
+  {
+    "param": "pm25",
+    "dateRel": 68,
+    "key": "predic",
+    "val": 55.593804,
+    "predUpr": 63.22761441,
+    "predLwr": 47.95999359
+  },
+  {
+    "param": "pm25",
+    "dateRel": 68,
+    "key": "observed",
+    "val": 29.96497571,
+    "predUpr": 63.22761441,
+    "predLwr": 47.95999359
+  },
+  {
+    "param": "pm25",
+    "dateRel": 69,
+    "key": "predic",
+    "val": 54.28174604,
+    "predUpr": 61.84899437,
+    "predLwr": 46.71449771
+  },
+  {
+    "param": "pm25",
+    "dateRel": 69,
+    "key": "observed",
+    "val": 28.65467211,
+    "predUpr": 61.84899437,
+    "predLwr": 46.71449771
+  },
+  {
+    "param": "pm25",
+    "dateRel": 70,
+    "key": "predic",
+    "val": 54.00732399,
+    "predUpr": 61.38394108,
+    "predLwr": 46.63070689
+  },
+  {
+    "param": "pm25",
+    "dateRel": 70,
+    "key": "observed",
+    "val": 33.39820868,
+    "predUpr": 61.38394108,
+    "predLwr": 46.63070689
+  },
+  {
+    "param": "pm25",
+    "dateRel": 71,
+    "key": "predic",
+    "val": 54.97047514,
+    "predUpr": 62.26884304,
+    "predLwr": 47.67210723
+  },
+  {
+    "param": "pm25",
+    "dateRel": 71,
+    "key": "observed",
+    "val": 42.23920999,
+    "predUpr": 62.26884304,
+    "predLwr": 47.67210723
+  },
+  {
+    "param": "pm25",
+    "dateRel": 72,
+    "key": "predic",
+    "val": 54.31963337,
+    "predUpr": 61.4947467,
+    "predLwr": 47.14452004
+  },
+  {
+    "param": "pm25",
+    "dateRel": 72,
+    "key": "observed",
+    "val": 44.13980202,
+    "predUpr": 61.4947467,
+    "predLwr": 47.14452004
+  },
+  {
+    "param": "pm25",
+    "dateRel": 73,
+    "key": "predic",
+    "val": 55.18378804,
+    "predUpr": 62.17468314,
+    "predLwr": 48.19289294
+  },
+  {
+    "param": "pm25",
+    "dateRel": 73,
+    "key": "observed",
+    "val": 46.28206455,
+    "predUpr": 62.17468314,
+    "predLwr": 48.19289294
+  },
+  {
+    "param": "pm25",
+    "dateRel": 74,
+    "key": "predic",
+    "val": 57.73429616,
+    "predUpr": 64.68133038,
+    "predLwr": 50.78726195
+  },
+  {
+    "param": "pm25",
+    "dateRel": 74,
+    "key": "observed",
+    "val": 47.39656668,
+    "predUpr": 64.68133038,
+    "predLwr": 50.78726195
+  },
+  {
+    "param": "pm25",
+    "dateRel": 75,
+    "key": "predic",
+    "val": 58.72278755,
+    "predUpr": 66.12035992,
+    "predLwr": 51.32521519
+  },
+  {
+    "param": "pm25",
+    "dateRel": 75,
+    "key": "observed",
+    "val": 49.16328835,
+    "predUpr": 66.12035992,
+    "predLwr": 51.32521519
+  },
+  {
+    "param": "pm25",
+    "dateRel": 76,
+    "key": "predic",
+    "val": 56.63779375,
+    "predUpr": 63.93346797,
+    "predLwr": 49.34211954
+  },
+  {
+    "param": "pm25",
+    "dateRel": 76,
+    "key": "observed",
+    "val": 41.17579474,
+    "predUpr": 63.93346797,
+    "predLwr": 49.34211954
+  },
+  {
+    "param": "pm25",
+    "dateRel": 77,
+    "key": "predic",
+    "val": 43.80489301,
+    "predUpr": 48.10075797,
+    "predLwr": 39.50902804
+  },
+  {
+    "param": "pm25",
+    "dateRel": 77,
+    "key": "observed",
+    "val": 36.75987385,
+    "predUpr": 48.10075797,
+    "predLwr": 39.50902804
+  },
+  {
+    "param": "pm25",
+    "dateRel": 78,
+    "key": "predic",
+    "val": 42.141292,
+    "predUpr": 46.56244271,
+    "predLwr": 37.72014129
+  },
+  {
+    "param": "pm25",
+    "dateRel": 78,
+    "key": "observed",
+    "val": 37.91662197,
+    "predUpr": 46.56244271,
+    "predLwr": 37.72014129
+  },
+  {
+    "param": "pm25",
+    "dateRel": 79,
+    "key": "predic",
+    "val": 40.15647587,
+    "predUpr": 44.84267058,
+    "predLwr": 35.47028117
+  },
+  {
+    "param": "pm25",
+    "dateRel": 79,
+    "key": "observed",
+    "val": 36.74794054,
+    "predUpr": 44.84267058,
+    "predLwr": 35.47028117
+  },
+  {
+    "param": "pm25",
+    "dateRel": 80,
+    "key": "predic",
+    "val": 39.20418883,
+    "predUpr": 43.92614541,
+    "predLwr": 34.48223225
+  },
+  {
+    "param": "pm25",
+    "dateRel": 80,
+    "key": "observed",
+    "val": 36.05275498,
+    "predUpr": 43.92614541,
+    "predLwr": 34.48223225
+  },
+  {
+    "param": "pm25",
+    "dateRel": 81,
+    "key": "predic",
+    "val": 40.91793115,
+    "predUpr": 45.8593343,
+    "predLwr": 35.97652799
+  },
+  {
+    "param": "pm25",
+    "dateRel": 81,
+    "key": "observed",
+    "val": 36.71592737,
+    "predUpr": 45.8593343,
+    "predLwr": 35.97652799
+  },
+  {
+    "param": "pm25",
+    "dateRel": 82,
+    "key": "predic",
+    "val": 42.70256196,
+    "predUpr": 47.58329718,
+    "predLwr": 37.82182673
+  },
+  {
+    "param": "pm25",
+    "dateRel": 82,
+    "key": "observed",
+    "val": 39.04592327,
+    "predUpr": 47.58329718,
+    "predLwr": 37.82182673
+  },
+  {
+    "param": "pm25",
+    "dateRel": 83,
+    "key": "predic",
+    "val": 43.44650904,
+    "predUpr": 48.26553356,
+    "predLwr": 38.62748452
+  },
+  {
+    "param": "pm25",
+    "dateRel": 83,
+    "key": "observed",
+    "val": 40.57596328,
+    "predUpr": 48.26553356,
+    "predLwr": 38.62748452
+  },
+  {
+    "param": "pm25",
+    "dateRel": 84,
+    "key": "predic",
+    "val": 44.34317263,
+    "predUpr": 48.85929488,
+    "predLwr": 39.82705038
+  },
+  {
+    "param": "pm25",
+    "dateRel": 84,
+    "key": "observed",
+    "val": 42.26954346,
+    "predUpr": 48.85929488,
+    "predLwr": 39.82705038
+  },
+  {
+    "param": "pm25",
+    "dateRel": 85,
+    "key": "predic",
+    "val": 43.99624181,
+    "predUpr": 48.40712102,
+    "predLwr": 39.5853626
+  },
+  {
+    "param": "pm25",
+    "dateRel": 85,
+    "key": "observed",
+    "val": 43.52069651,
+    "predUpr": 48.40712102,
+    "predLwr": 39.5853626
+  },
+  {
+    "param": "pm25",
+    "dateRel": 86,
+    "key": "predic",
+    "val": 43.16053,
+    "predUpr": 47.59122141,
+    "predLwr": 38.72983858
+  },
+  {
+    "param": "pm25",
+    "dateRel": 86,
+    "key": "observed",
+    "val": 43.89700568,
+    "predUpr": 47.59122141,
+    "predLwr": 38.72983858
+  },
+  {
+    "param": "pm25",
+    "dateRel": 87,
+    "key": "predic",
+    "val": 42.64843206,
+    "predUpr": 47.13497948,
+    "predLwr": 38.16188464
+  },
+  {
+    "param": "pm25",
+    "dateRel": 87,
+    "key": "observed",
+    "val": 41.73630853,
+    "predUpr": 47.13497948,
+    "predLwr": 38.16188464
+  },
+  {
+    "param": "pm25",
+    "dateRel": 88,
+    "key": "predic",
+    "val": 42.62296833,
+    "predUpr": 47.05353494,
+    "predLwr": 38.19240173
+  },
+  {
+    "param": "pm25",
+    "dateRel": 88,
+    "key": "observed",
+    "val": 37.86770212,
+    "predUpr": 47.05353494,
+    "predLwr": 38.19240173
+  },
+  {
+    "param": "pm25",
+    "dateRel": 89,
+    "key": "predic",
+    "val": 40.97831646,
+    "predUpr": 45.66185418,
+    "predLwr": 36.29477875
+  },
+  {
+    "param": "pm25",
+    "dateRel": 89,
+    "key": "observed",
+    "val": 33.42526572,
+    "predUpr": 45.66185418,
+    "predLwr": 36.29477875
+  },
+  {
+    "param": "pm25",
+    "dateRel": 90,
+    "key": "predic",
+    "val": 37.22335386,
+    "predUpr": 42.20713748,
+    "predLwr": 32.23957023
+  },
+  {
+    "param": "pm25",
+    "dateRel": 90,
+    "key": "observed",
+    "val": 29.43073073,
+    "predUpr": 42.20713748,
+    "predLwr": 32.23957023
+  },
+  {
+    "param": "pm25",
+    "dateRel": 91,
+    "key": "predic",
+    "val": 34.30717087,
+    "predUpr": 39.26513534,
+    "predLwr": 29.3492064
+  },
+  {
+    "param": "pm25",
+    "dateRel": 91,
+    "key": "observed",
+    "val": 25.45395282,
+    "predUpr": 39.26513534,
+    "predLwr": 29.3492064
+  },
+  {
+    "param": "pm25",
+    "dateRel": 92,
+    "key": "predic",
+    "val": 32.05850964,
+    "predUpr": 37.07015901,
+    "predLwr": 27.04686027
+  },
+  {
+    "param": "pm25",
+    "dateRel": 92,
+    "key": "observed",
+    "val": 22.94294464,
+    "predUpr": 37.07015901,
+    "predLwr": 27.04686027
+  },
+  {
+    "param": "pm25",
+    "dateRel": 94,
+    "key": "predic",
+    "val": 32.85542394,
+    "predUpr": 38.05683108,
+    "predLwr": 27.6540168
+  },
+  {
+    "param": "pm25",
+    "dateRel": 94,
+    "key": "observed",
+    "val": 23.6666143,
+    "predUpr": 38.05683108,
+    "predLwr": 27.6540168
+  },
+  {
+    "param": "pm25",
+    "dateRel": 95,
+    "key": "predic",
+    "val": 34.86644503,
+    "predUpr": 40.07002803,
+    "predLwr": 29.66286203
+  },
+  {
+    "param": "pm25",
+    "dateRel": 95,
+    "key": "observed",
+    "val": 25.99655452,
+    "predUpr": 40.07002803,
+    "predLwr": 29.66286203
+  },
+  {
+    "param": "pm25",
+    "dateRel": 96,
+    "key": "predic",
+    "val": 39.46253598,
+    "predUpr": 44.63451502,
+    "predLwr": 34.29055693
+  },
+  {
+    "param": "pm25",
+    "dateRel": 96,
+    "key": "observed",
+    "val": 28.79887582,
+    "predUpr": 44.63451502,
+    "predLwr": 34.29055693
+  },
+  {
+    "param": "pm25",
+    "dateRel": 97,
+    "key": "predic",
+    "val": 41.37613313,
+    "predUpr": 46.50255954,
+    "predLwr": 36.24970673
+  },
+  {
+    "param": "pm25",
+    "dateRel": 97,
+    "key": "observed",
+    "val": 31.75326964,
+    "predUpr": 46.50255954,
+    "predLwr": 36.24970673
+  },
+  {
+    "param": "pm25",
+    "dateRel": 98,
+    "key": "predic",
+    "val": 42.90968078,
+    "predUpr": 48.07577983,
+    "predLwr": 37.74358173
+  },
+  {
+    "param": "pm25",
+    "dateRel": 98,
+    "key": "observed",
+    "val": 34.49327299,
+    "predUpr": 48.07577983,
+    "predLwr": 37.74358173
+  },
+  {
+    "param": "pm25",
+    "dateRel": 99,
+    "key": "predic",
+    "val": 43.17911884,
+    "predUpr": 48.4470066,
+    "predLwr": 37.91123109
+  },
+  {
+    "param": "pm25",
+    "dateRel": 99,
+    "key": "observed",
+    "val": 36.33375469,
+    "predUpr": 48.4470066,
+    "predLwr": 37.91123109
+  },
+  {
+    "param": "pm25",
+    "dateRel": 100,
+    "key": "predic",
+    "val": 44.13697993,
+    "predUpr": 49.32061915,
+    "predLwr": 38.95334071
+  },
+  {
+    "param": "pm25",
+    "dateRel": 100,
+    "key": "observed",
+    "val": 37.17620807,
+    "predUpr": 49.32061915,
+    "predLwr": 38.95334071
+  },
+  {
+    "param": "pm25",
+    "dateRel": 101,
+    "key": "predic",
+    "val": 45.46921723,
+    "predUpr": 50.46955489,
+    "predLwr": 40.46887957
+  },
+  {
+    "param": "pm25",
+    "dateRel": 101,
+    "key": "observed",
+    "val": 37.34013528,
+    "predUpr": 50.46955489,
+    "predLwr": 40.46887957
+  },
+  {
+    "param": "pm25",
+    "dateRel": 102,
+    "key": "predic",
+    "val": 46.90322114,
+    "predUpr": 51.79039853,
+    "predLwr": 42.01604375
+  },
+  {
+    "param": "pm25",
+    "dateRel": 102,
+    "key": "observed",
+    "val": 36.21510685,
+    "predUpr": 51.79039853,
+    "predLwr": 42.01604375
+  },
+  {
+    "param": "pm25",
+    "dateRel": 103,
+    "key": "predic",
+    "val": 47.84584846,
+    "predUpr": 52.66632614,
+    "predLwr": 43.02537078
+  },
+  {
+    "param": "pm25",
+    "dateRel": 103,
+    "key": "observed",
+    "val": 33.53068847,
+    "predUpr": 52.66632614,
+    "predLwr": 43.02537078
+  },
+  {
+    "param": "pm25",
+    "dateRel": 104,
+    "key": "predic",
+    "val": 45.42875263,
+    "predUpr": 50.12667558,
+    "predLwr": 40.73082967
+  },
+  {
+    "param": "pm25",
+    "dateRel": 104,
+    "key": "observed",
+    "val": 31.37111448,
+    "predUpr": 50.12667558,
+    "predLwr": 40.73082967
+  },
+  {
+    "param": "pm25",
+    "dateRel": 105,
+    "key": "predic",
+    "val": 42.34764618,
+    "predUpr": 47.62716922,
+    "predLwr": 37.06812314
+  },
+  {
+    "param": "pm25",
+    "dateRel": 105,
+    "key": "observed",
+    "val": 29.55695779,
+    "predUpr": 47.62716922,
+    "predLwr": 37.06812314
+  },
+  {
+    "param": "pm25",
+    "dateRel": 106,
+    "key": "predic",
+    "val": 39.03488887,
+    "predUpr": 44.94620922,
+    "predLwr": 33.12356852
+  },
+  {
+    "param": "pm25",
+    "dateRel": 106,
+    "key": "observed",
+    "val": 26.61772745,
+    "predUpr": 44.94620922,
+    "predLwr": 33.12356852
+  },
+  {
+    "param": "pm25",
+    "dateRel": 107,
+    "key": "predic",
+    "val": 37.60249724,
+    "predUpr": 43.7729429,
+    "predLwr": 31.43205158
+  },
+  {
+    "param": "pm25",
+    "dateRel": 107,
+    "key": "observed",
+    "val": 25.04614909,
+    "predUpr": 43.7729429,
+    "predLwr": 31.43205158
+  },
+  {
+    "param": "pm25",
+    "dateRel": 108,
+    "key": "predic",
+    "val": 36.51277137,
+    "predUpr": 42.54901034,
+    "predLwr": 30.47653239
+  },
+  {
+    "param": "pm25",
+    "dateRel": 108,
+    "key": "observed",
+    "val": 25.66414956,
+    "predUpr": 42.54901034,
+    "predLwr": 30.47653239
+  },
+  {
+    "param": "pm25",
+    "dateRel": 109,
+    "key": "predic",
+    "val": 37.17839992,
+    "predUpr": 43.06327517,
+    "predLwr": 31.29352466
+  },
+  {
+    "param": "pm25",
+    "dateRel": 109,
+    "key": "observed",
+    "val": 25.52200568,
+    "predUpr": 43.06327517,
+    "predLwr": 31.29352466
+  },
+  {
+    "param": "pm25",
+    "dateRel": 110,
+    "key": "predic",
+    "val": 38.03532103,
+    "predUpr": 43.41456612,
+    "predLwr": 32.65607595
+  },
+  {
+    "param": "pm25",
+    "dateRel": 110,
+    "key": "observed",
+    "val": 24.82362809,
+    "predUpr": 43.41456612,
+    "predLwr": 32.65607595
+  },
+  {
+    "param": "pm25",
+    "dateRel": 112,
+    "key": "predic",
+    "val": 36.99871372,
+    "predUpr": 41.85371865,
+    "predLwr": 32.14370879
+  },
+  {
+    "param": "pm25",
+    "dateRel": 112,
+    "key": "observed",
+    "val": 26.59887298,
+    "predUpr": 41.85371865,
+    "predLwr": 32.14370879
+  }
+]

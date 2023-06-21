@@ -1,0 +1,730 @@
+[
+  {
+    "iso3_code": "ZAF",
+    "region_iso3c": "SSF",
+    "year": 2019,
+    "counts": 21325,
+    "per100000": 36.41671978,
+    "rate_change": -0.06935521688
+  },
+  {
+    "iso3_code": "VUT",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 2,
+    "per100000": 0.6669289921,
+    "rate_change": -0.5
+  },
+  {
+    "iso3_code": "USA",
+    "region_iso3c": "NAC",
+    "year": 2019,
+    "counts": 16669,
+    "per100000": 5.065565832,
+    "rate_change": 0.2940188374
+  },
+  {
+    "iso3_code": "URY",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 393,
+    "per100000": 11.35270187,
+    "rate_change": -0.1424936387
+  },
+  {
+    "iso3_code": "UGA",
+    "region_iso3c": "SSF",
+    "year": 2019,
+    "counts": 4718,
+    "per100000": 10.65742944,
+    "rate_change": -0.05468418822
+  },
+  {
+    "iso3_code": "TUR",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 2006,
+    "per100000": 2.404422209,
+    "rate_change": 0.0443668993
+  },
+  {
+    "iso3_code": "TUN",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 571,
+    "per100000": 4.882544868,
+    "rate_change": -0.01576182137
+  },
+  {
+    "iso3_code": "SWE",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 111,
+    "per100000": 1.105975245,
+    "rate_change": 0.1171171171
+  },
+  {
+    "iso3_code": "SVN",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 10,
+    "per100000": 0.4810805454,
+    "rate_change": 0.1
+  },
+  {
+    "iso3_code": "SVK",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 76,
+    "per100000": 1.392703553,
+    "rate_change": -0.1710526316
+  },
+  {
+    "iso3_code": "SUR",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 30,
+    "per100000": 5.160287118,
+    "rate_change": 0.8333333333
+  },
+  {
+    "iso3_code": "SRB",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 90,
+    "per100000": 1.025965125,
+    "rate_change": -0.01111111111
+  },
+  {
+    "iso3_code": "SGP",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 12,
+    "per100000": 0.2067417449,
+    "rate_change": -0.1666666667
+  },
+  {
+    "iso3_code": "RUS",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 11202,
+    "per100000": 7.67932162,
+    "rate_change": -0.04508123549
+  },
+  {
+    "iso3_code": "ROU",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 244,
+    "per100000": 1.260033924,
+    "rate_change": 0.1516393443
+  },
+  {
+    "iso3_code": "QAT",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 11,
+    "per100000": 0.3884083415,
+    "rate_change": 0.09090909091
+  },
+  {
+    "iso3_code": "PSE",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 35,
+    "per100000": 0.70261062,
+    "rate_change": 0.3714285714
+  },
+  {
+    "iso3_code": "PRY",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 554,
+    "per100000": 7.864136118,
+    "rate_change": -0.1317689531
+  },
+  {
+    "iso3_code": "PRT",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 89,
+    "per100000": 0.8703153808,
+    "rate_change": 0.04494382022
+  },
+  {
+    "iso3_code": "PRI",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 606,
+    "per100000": 20.65859322,
+    "rate_change": -0.1270627063
+  },
+  {
+    "iso3_code": "POL",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 253,
+    "per100000": 0.6677616374,
+    "rate_change": 0.05138339921
+  },
+  {
+    "iso3_code": "PAN",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 447,
+    "per100000": 10.52646452,
+    "rate_change": 0.1185682327
+  },
+  {
+    "iso3_code": "PAK",
+    "region_iso3c": "SAS",
+    "year": 2019,
+    "counts": 8153,
+    "per100000": 3.764684075,
+    "rate_change": 0.04133447811
+  },
+  {
+    "iso3_code": "OMN",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 23,
+    "per100000": 0.4623123012,
+    "rate_change": -0.3913043478
+  },
+  {
+    "iso3_code": "NOR",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 28,
+    "per100000": 0.5205564972,
+    "rate_change": 0.1071428571
+  },
+  {
+    "iso3_code": "NLD",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 109,
+    "per100000": 0.6375341629,
+    "rate_change": -0.01834862385
+  },
+  {
+    "iso3_code": "MUS",
+    "region_iso3c": "SSF",
+    "year": 2019,
+    "counts": 27,
+    "per100000": 2.126536817,
+    "rate_change": 0.2962962963
+  },
+  {
+    "iso3_code": "MNG",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 205,
+    "per100000": 6.356261972,
+    "rate_change": -0.04390243902
+  },
+  {
+    "iso3_code": "MNE",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 23,
+    "per100000": 3.662490366,
+    "rate_change": -0.2173913043
+  },
+  {
+    "iso3_code": "MLT",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 5,
+    "per100000": 1.135390813,
+    "rate_change": 0.4
+  },
+  {
+    "iso3_code": "MEX",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 36661,
+    "per100000": 28.73670232,
+    "rate_change": -0.00223670931
+  },
+  {
+    "iso3_code": "MDA",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 121,
+    "per100000": 2.992636137,
+    "rate_change": -0.2314049587
+  },
+  {
+    "iso3_code": "MAR",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 627,
+    "per100000": 1.719138031,
+    "rate_change": -0.2695374801
+  },
+  {
+    "iso3_code": "MAC",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 2,
+    "per100000": 0.3122823782,
+    "rate_change": 0
+  },
+  {
+    "iso3_code": "LVA",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 75,
+    "per100000": 3.933415148,
+    "rate_change": -0.06666666667
+  },
+  {
+    "iso3_code": "LUX",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 4,
+    "per100000": 0.6496353921,
+    "rate_change": -0.75
+  },
+  {
+    "iso3_code": "LTU",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 94,
+    "per100000": 3.406252503,
+    "rate_change": 0.07446808511
+  },
+  {
+    "iso3_code": "LIE",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 1,
+    "per100000": 2.630194634,
+    "rate_change": 0
+  },
+  {
+    "iso3_code": "LCA",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 46,
+    "per100000": 25.1648021,
+    "rate_change": 0.1304347826
+  },
+  {
+    "iso3_code": "LBN",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 182,
+    "per100000": 2.65472178,
+    "rate_change": -0.2967032967
+  },
+  {
+    "iso3_code": "KOR",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 297,
+    "per100000": 0.5797913887,
+    "rate_change": 0.03703703704
+  },
+  {
+    "iso3_code": "KNA",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 12,
+    "per100000": 22.71264716,
+    "rate_change": -0.1666666667
+  },
+  {
+    "iso3_code": "KGZ",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 141,
+    "per100000": 2.19768196,
+    "rate_change": -0.1914893617
+  },
+  {
+    "iso3_code": "KEN",
+    "region_iso3c": "SSF",
+    "year": 2019,
+    "counts": 1576,
+    "per100000": 2.997681343,
+    "rate_change": 0.1795685279
+  },
+  {
+    "iso3_code": "JPN",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 319,
+    "per100000": 0.2514577078,
+    "rate_change": -0.003134796238
+  },
+  {
+    "iso3_code": "JOR",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 115,
+    "per100000": 1.138422584,
+    "rate_change": 0.06086956522
+  },
+  {
+    "iso3_code": "JAM",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 1340,
+    "per100000": 45.45027486,
+    "rate_change": -0.00671641791
+  },
+  {
+    "iso3_code": "ITA",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 317,
+    "per100000": 0.5235334737,
+    "rate_change": -0.1009463722
+  },
+  {
+    "iso3_code": "ISL",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 1,
+    "per100000": 0.2949530582,
+    "rate_change": 4
+  },
+  {
+    "iso3_code": "IRL",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 34,
+    "per100000": 0.6963648526,
+    "rate_change": 0
+  },
+  {
+    "iso3_code": "IND",
+    "region_iso3c": "SAS",
+    "year": 2019,
+    "counts": 40479,
+    "per100000": 2.962417593,
+    "rate_change": 0.004249116826
+  },
+  {
+    "iso3_code": "HUN",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 64,
+    "per100000": 0.660837529,
+    "rate_change": 0.25
+  },
+  {
+    "iso3_code": "HRV",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 33,
+    "per100000": 0.7989736336,
+    "rate_change": 0.2121212121
+  },
+  {
+    "iso3_code": "HND",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 4094,
+    "per100000": 42.00648156,
+    "rate_change": -0.1211529067
+  },
+  {
+    "iso3_code": "HKG",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 24,
+    "per100000": 0.3227473546,
+    "rate_change": -0.08333333333
+  },
+  {
+    "iso3_code": "GUY",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 136,
+    "per100000": 17.37408578,
+    "rate_change": 0.1544117647
+  },
+  {
+    "iso3_code": "GTM",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 4387,
+    "per100000": 24.95239876,
+    "rate_change": -0.2867563255
+  },
+  {
+    "iso3_code": "GRD",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 16,
+    "per100000": 14.28545919,
+    "rate_change": -0.125
+  },
+  {
+    "iso3_code": "GRC",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 78,
+    "per100000": 0.7447401296,
+    "rate_change": 0
+  },
+  {
+    "iso3_code": "FRA",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 861,
+    "per100000": 1.321976902,
+    "rate_change": 0.02090592334
+  },
+  {
+    "iso3_code": "FIN",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 88,
+    "per100000": 1.590699038,
+    "rate_change": 0.03409090909
+  },
+  {
+    "iso3_code": "EST",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 23,
+    "per100000": 1.734999234,
+    "rate_change": 0.8260869565
+  },
+  {
+    "iso3_code": "ESP",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 333,
+    "per100000": 0.7125009163,
+    "rate_change": -0.1051051051
+  },
+  {
+    "iso3_code": "ECU",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 1187,
+    "per100000": 6.83218277,
+    "rate_change": 0.1558550969
+  },
+  {
+    "iso3_code": "DZA",
+    "region_iso3c": "MEA",
+    "year": 2019,
+    "counts": 571,
+    "per100000": 1.326270606,
+    "rate_change": 0.01576182137
+  },
+  {
+    "iso3_code": "DOM",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 1026,
+    "per100000": 9.554000449,
+    "rate_change": -0.06335282651
+  },
+  {
+    "iso3_code": "DNK",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 66,
+    "per100000": 1.143475511,
+    "rate_change": -0.1666666667
+  },
+  {
+    "iso3_code": "DMA",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 13,
+    "per100000": 18.10383244,
+    "rate_change": 0.1538461538
+  },
+  {
+    "iso3_code": "DEU",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 623,
+    "per100000": 0.7459555023,
+    "rate_change": 0.2552166934
+  },
+  {
+    "iso3_code": "CZE",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 97,
+    "per100000": 0.9074568914,
+    "rate_change": -0.206185567
+  },
+  {
+    "iso3_code": "CYP",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 15,
+    "per100000": 1.251487184,
+    "rate_change": 0
+  },
+  {
+    "iso3_code": "CRI",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 563,
+    "per100000": 11.15390185,
+    "rate_change": 0.01243339254
+  },
+  {
+    "iso3_code": "CPV",
+    "region_iso3c": "SSF",
+    "year": 2019,
+    "counts": 34,
+    "per100000": 6.182537604,
+    "rate_change": 0.05882352941
+  },
+  {
+    "iso3_code": "COL",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 12080,
+    "per100000": 23.99708714,
+    "rate_change": -0.04635761589
+  },
+  {
+    "iso3_code": "CHL",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 751,
+    "per100000": 3.962635147,
+    "rate_change": 0.2330226365
+  },
+  {
+    "iso3_code": "CHE",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 46,
+    "per100000": 0.5354215706,
+    "rate_change": 0.02173913043
+  },
+  {
+    "iso3_code": "CAN",
+    "region_iso3c": "NAC",
+    "year": 2019,
+    "counts": 687,
+    "per100000": 1.836356425,
+    "rate_change": 0.08151382824
+  },
+  {
+    "iso3_code": "BTN",
+    "region_iso3c": "SAS",
+    "year": 2019,
+    "counts": 8,
+    "per100000": 1.048363635,
+    "rate_change": 1.375
+  },
+  {
+    "iso3_code": "BRB",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 48,
+    "per100000": 16.723515,
+    "rate_change": -0.1458333333
+  },
+  {
+    "iso3_code": "BRA",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 44073,
+    "per100000": 20.8827768,
+    "rate_change": 0.08279445465
+  },
+  {
+    "iso3_code": "BLZ",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 134,
+    "per100000": 34.32807909,
+    "rate_change": -0.2388059701
+  },
+  {
+    "iso3_code": "BIH",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 42,
+    "per100000": 1.272342486,
+    "rate_change": 0.02380952381
+  },
+  {
+    "iso3_code": "BHS",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 95,
+    "per100000": 24.39112061,
+    "rate_change": -0.2315789474
+  },
+  {
+    "iso3_code": "BGR",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 83,
+    "per100000": 1.185694468,
+    "rate_change": -0.1686746988
+  },
+  {
+    "iso3_code": "AZE",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 168,
+    "per100000": 1.672021282,
+    "rate_change": 0.369047619
+  },
+  {
+    "iso3_code": "AUT",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 77,
+    "per100000": 0.8598444597,
+    "rate_change": -0.1558441558
+  },
+  {
+    "iso3_code": "AUS",
+    "region_iso3c": "EAS",
+    "year": 2019,
+    "counts": 225,
+    "per100000": 0.8927437786,
+    "rate_change": -0.01777777778
+  },
+  {
+    "iso3_code": "ATG",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 3,
+    "per100000": 3.089121145,
+    "rate_change": 2
+  },
+  {
+    "iso3_code": "ARM",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 73,
+    "per100000": 2.468110658,
+    "rate_change": -0.2876712329
+  },
+  {
+    "iso3_code": "ARG",
+    "region_iso3c": "LCN",
+    "year": 2019,
+    "counts": 2303,
+    "per100000": 5.142843425,
+    "rate_change": 0.04906643508
+  },
+  {
+    "iso3_code": "ALB",
+    "region_iso3c": "ECS",
+    "year": 2019,
+    "counts": 65,
+    "per100000": 2.256229188,
+    "rate_change": -0.06153846154
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "iso3c": "EAS",
+    "year": 2010,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.545120335,
+    "total": 34300
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2011,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.452625068,
+    "total": 32500
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2012,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.429520648,
+    "total": 32200
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2013,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.383780296,
+    "total": 31500
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2014,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.366635523,
+    "total": 31300
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2015,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.294059949,
+    "total": 29900
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2016,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.316020944,
+    "total": 30600
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2017,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.153664145,
+    "total": 27000
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2018,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 1.013518285,
+    "total": 23900
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2019,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 0.9641006289,
+    "total": 22800
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2020,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 0.9734539546,
+    "total": 23100
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2021,
+    "regions_aggregation": "East Asia & Pacific",
+    "rate": 0.9339714914,
+    "total": 22300
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2010,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.67990945,
+    "total": 32700
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2011,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.545247178,
+    "total": 31700
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2012,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.499276167,
+    "total": 31400
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2013,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.385297794,
+    "total": 30500
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2014,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.380698294,
+    "total": 30600
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2015,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.348630626,
+    "total": 30400
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2016,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 3.3023653,
+    "total": 30100
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2017,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 2.942393223,
+    "total": 26900
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2018,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 2.681134883,
+    "total": 24600
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2019,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 2.525112031,
+    "total": 23200
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2020,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 2.468751589,
+    "total": 22800
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2021,
+    "regions_aggregation": "Europe & Central Asia",
+    "rate": 2.453113491,
+    "total": 22600
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2010,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 23.79515045,
+    "total": 140300
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2011,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 24.23655784,
+    "total": 144500
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2012,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 24.40909318,
+    "total": 147100
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2013,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 23.69923388,
+    "total": 144400
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2014,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 23.31381748,
+    "total": 143500
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2015,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 22.64245328,
+    "total": 140800
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2016,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 23.47039576,
+    "total": 147500
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2017,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 23.93086334,
+    "total": 151800
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2018,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 23.13063685,
+    "total": 148100
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2019,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 20.92848514,
+    "total": 135100
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2020,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 20.07931171,
+    "total": 130700
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2021,
+    "regions_aggregation": "Latin America & Caribbean",
+    "rate": 19.47769829,
+    "total": 127600
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2010,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 2.898029618,
+    "total": 11500
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2011,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.800983044,
+    "total": 15400
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2012,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.720243317,
+    "total": 15400
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2013,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.916379606,
+    "total": 16600
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2014,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.862496487,
+    "total": 16700
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2015,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.695298951,
+    "total": 16200
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2016,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.807469838,
+    "total": 17000
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2017,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.951261945,
+    "total": 17900
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2018,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 4.016917112,
+    "total": 18600
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2019,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.826437848,
+    "total": 18000
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2020,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.538911259,
+    "total": 16900
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2021,
+    "regions_aggregation": "Middle East & North Africa",
+    "rate": 3.899875497,
+    "total": 18900
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2010,
+    "regions_aggregation": "North America",
+    "rate": 4.427743427,
+    "total": 15300
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2011,
+    "regions_aggregation": "North America",
+    "rate": 4.3860446,
+    "total": 15300
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2012,
+    "regions_aggregation": "North America",
+    "rate": 4.385231519,
+    "total": 15400
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2013,
+    "regions_aggregation": "North America",
+    "rate": 4.184175212,
+    "total": 14800
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2014,
+    "regions_aggregation": "North America",
+    "rate": 4.109068766,
+    "total": 14700
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2015,
+    "regions_aggregation": "North America",
+    "rate": 4.577375291,
+    "total": 16500
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2016,
+    "regions_aggregation": "North America",
+    "rate": 4.962480778,
+    "total": 18000
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2017,
+    "regions_aggregation": "North America",
+    "rate": 4.903265806,
+    "total": 18000
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2018,
+    "regions_aggregation": "North America",
+    "rate": 4.614224944,
+    "total": 17000
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2019,
+    "regions_aggregation": "North America",
+    "rate": 4.665963146,
+    "total": 17400
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2020,
+    "regions_aggregation": "North America",
+    "rate": 5.970432692,
+    "total": 22300
+  },
+  {
+    "iso3c": "NAC",
+    "year": 2021,
+    "regions_aggregation": "North America",
+    "rate": 6.31185589,
+    "total": 23700
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2010,
+    "regions_aggregation": "South Asia",
+    "rate": 3.987784394,
+    "total": 66200
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2011,
+    "regions_aggregation": "South Asia",
+    "rate": 4.044339766,
+    "total": 68100
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2012,
+    "regions_aggregation": "South Asia",
+    "rate": 4.023335241,
+    "total": 68700
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2013,
+    "regions_aggregation": "South Asia",
+    "rate": 3.918339304,
+    "total": 67900
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2014,
+    "regions_aggregation": "South Asia",
+    "rate": 3.942435173,
+    "total": 69200
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2015,
+    "regions_aggregation": "South Asia",
+    "rate": 3.510020511,
+    "total": 62300
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2016,
+    "regions_aggregation": "South Asia",
+    "rate": 3.221906473,
+    "total": 57900
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2017,
+    "regions_aggregation": "South Asia",
+    "rate": 3.099347033,
+    "total": 56400
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2018,
+    "regions_aggregation": "South Asia",
+    "rate": 3.080889962,
+    "total": 56700
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2019,
+    "regions_aggregation": "South Asia",
+    "rate": 3.040362747,
+    "total": 56600
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2020,
+    "regions_aggregation": "South Asia",
+    "rate": 3.036021598,
+    "total": 57100
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2021,
+    "regions_aggregation": "South Asia",
+    "rate": 3.009894157,
+    "total": 57200
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2010,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.62078497,
+    "total": 119800
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2011,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.57751006,
+    "total": 122800
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2012,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.65871847,
+    "total": 126900
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2013,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.62969874,
+    "total": 130200
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2014,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.71382727,
+    "total": 134600
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2015,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.67761402,
+    "total": 138000
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2016,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.62561194,
+    "total": 141200
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2017,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.79865277,
+    "total": 146800
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2018,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.5648659,
+    "total": 148200
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2019,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.54182051,
+    "total": 151900
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2020,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.2486586,
+    "total": 152500
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2021,
+    "regions_aggregation": "Sub-Saharan Africa",
+    "rate": 13.85677793,
+    "total": 163700
+  }
+]

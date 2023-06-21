@@ -1,0 +1,182 @@
+[
+  {
+    "Country": "Ukraine",
+    "Year": 2018,
+    "Fatalities": 873
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Fatalities": 389
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Fatalities": 113
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2021,
+    "Fatalities": 149
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2022,
+    "Fatalities": 32308
+  },
+  {
+    "Country": null,
+    "Year": null,
+    "Fatalities": null
+  },
+  {
+    "Country": null,
+    "Year": null,
+    "Fatalities": null
+  },
+  {
+    "Country": "Series Name",
+    "Year": "Refugee population by country or territory of origin",
+    "Fatalities": null
+  },
+  {
+    "Country": "Series Code",
+    "Year": "SM.POP.REFG.OR",
+    "Fatalities": null
+  },
+  {
+    "Country": "Country Name",
+    "Year": "Ukraine",
+    "Fatalities": null
+  },
+  {
+    "Country": "Country Code",
+    "Year": "UKR",
+    "Fatalities": null
+  },
+  {
+    "Country": 2010,
+    "Year": "25,102",
+    "Fatalities": null
+  },
+  {
+    "Country": 2011,
+    "Year": "25,372",
+    "Fatalities": null
+  },
+  {
+    "Country": 2012,
+    "Year": "25,248",
+    "Fatalities": null
+  },
+  {
+    "Country": 2013,
+    "Year": "5,154",
+    "Fatalities": null
+  },
+  {
+    "Country": 2014,
+    "Year": "237,617",
+    "Fatalities": "Annexation of Crimea by the Russian Federation"
+  },
+  {
+    "Country": 2015,
+    "Year": "321,399",
+    "Fatalities": null
+  },
+  {
+    "Country": 2016,
+    "Year": "239,062",
+    "Fatalities": null
+  },
+  {
+    "Country": 2017,
+    "Year": "139,581",
+    "Fatalities": null
+  },
+  {
+    "Country": 2018,
+    "Year": "93,248",
+    "Fatalities": null
+  },
+  {
+    "Country": 2019,
+    "Year": "59,844",
+    "Fatalities": null
+  },
+  {
+    "Country": 2020,
+    "Year": "35,156",
+    "Fatalities": null
+  },
+  {
+    "Country": 2021,
+    "Year": "27,562",
+    "Fatalities": null
+  },
+  {
+    "Country": "2022 (mid-year estimate)",
+    "Year": "5,437,961",
+    "Fatalities": "Russian invasion of Ukraine"
+  },
+  {
+    "Country": "2023 (latest date)",
+    "Year": "8,173,211",
+    "Fatalities": null
+  },
+  {
+    "Country": null,
+    "Year": null,
+    "Fatalities": null
+  },
+  {
+    "Country": null,
+    "Year": null,
+    "Fatalities": null
+  },
+  {
+    "Country": "Year",
+    "Year": "Ukraine GDP Growth",
+    "Fatalities": "Ukraine GDP Growth (projected)"
+  },
+  {
+    "Country": 2018,
+    "Year": 3.5,
+    "Fatalities": null
+  },
+  {
+    "Country": 2019,
+    "Year": 3.2,
+    "Fatalities": null
+  },
+  {
+    "Country": 2020,
+    "Year": -3.8,
+    "Fatalities": null
+  },
+  {
+    "Country": 2021,
+    "Year": 3.4,
+    "Fatalities": null
+  },
+  {
+    "Country": 2021,
+    "Year": null,
+    "Fatalities": 3.4
+  },
+  {
+    "Country": 2022,
+    "Year": null,
+    "Fatalities": -35
+  },
+  {
+    "Country": 2023,
+    "Year": null,
+    "Fatalities": 3.3
+  },
+  {
+    "Country": 2024,
+    "Year": null,
+    "Fatalities": 4.1
+  }
+]

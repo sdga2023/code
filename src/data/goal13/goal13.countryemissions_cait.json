@@ -1,0 +1,1353 @@
+[
+  {
+    "iso3c": "SLB",
+    "emissions": 46.36,
+    "pop": 674993,
+    "emispercap": 68.68219374,
+    "cumpop": 674993
+  },
+  {
+    "iso3c": "QAT",
+    "emissions": 114.76,
+    "pop": 2807235,
+    "emispercap": 40.88008307,
+    "cumpop": 3482228
+  },
+  {
+    "iso3c": "BHR",
+    "emissions": 54.41,
+    "pop": 1494188,
+    "emispercap": 36.4144271,
+    "cumpop": 4976416
+  },
+  {
+    "iso3c": "KWT",
+    "emissions": 136.69,
+    "pop": 4441100,
+    "emispercap": 30.77841075,
+    "cumpop": 9417516
+  },
+  {
+    "iso3c": "ARE",
+    "emissions": 243.55,
+    "pop": 9211657,
+    "emispercap": 26.43932574,
+    "cumpop": 18629173
+  },
+  {
+    "iso3c": "TKM",
+    "emissions": 157.33,
+    "pop": 6158420,
+    "emispercap": 25.54713709,
+    "cumpop": 24787593
+  },
+  {
+    "iso3c": "GUY",
+    "emissions": 19.8,
+    "pop": 798753,
+    "emispercap": 24.78863929,
+    "cumpop": 25586346
+  },
+  {
+    "iso3c": "AUS",
+    "emissions": 608.49,
+    "pop": 25340217,
+    "emispercap": 24.01281725,
+    "cumpop": 50926563
+  },
+  {
+    "iso3c": "SUR",
+    "emissions": 13.83,
+    "pop": 600301,
+    "emispercap": 23.03844238,
+    "cumpop": 51526864
+  },
+  {
+    "iso3c": "BRN",
+    "emissions": 9.63,
+    "pop": 438048,
+    "emispercap": 21.98389218,
+    "cumpop": 51964912
+  },
+  {
+    "iso3c": "OMN",
+    "emissions": 100.28,
+    "pop": 4602768,
+    "emispercap": 21.78688998,
+    "cumpop": 56567680
+  },
+  {
+    "iso3c": "BWA",
+    "emissions": 52.34,
+    "pop": 2499702,
+    "emispercap": 20.93849587,
+    "cumpop": 59067382
+  },
+  {
+    "iso3c": "CAN",
+    "emissions": 774.29,
+    "pop": 37601230,
+    "emispercap": 20.59214552,
+    "cumpop": 96668612
+  },
+  {
+    "iso3c": "SAU",
+    "emissions": 723.15,
+    "pop": 35827362,
+    "emispercap": 20.18429378,
+    "cumpop": 132495974
+  },
+  {
+    "iso3c": "GRD",
+    "emissions": 2.39,
+    "pop": 122724,
+    "emispercap": 19.4745934,
+    "cumpop": 132618698
+  },
+  {
+    "iso3c": "LBY",
+    "emissions": 126.69,
+    "pop": 6569088,
+    "emispercap": 19.28578214,
+    "cumpop": 139187786
+  },
+  {
+    "iso3c": "TTO",
+    "emissions": 28.47,
+    "pop": 1519955,
+    "emispercap": 18.73081769,
+    "cumpop": 140707741
+  },
+  {
+    "iso3c": "MNG",
+    "emissions": 59.15,
+    "pop": 3232430,
+    "emispercap": 18.29892681,
+    "cumpop": 143940171
+  },
+  {
+    "iso3c": "BLZ",
+    "emissions": 6.85,
+    "pop": 389095,
+    "emispercap": 17.60495509,
+    "cumpop": 144329266
+  },
+  {
+    "iso3c": "USA",
+    "emissions": 5771,
+    "pop": 328329953,
+    "emispercap": 17.57683071,
+    "cumpop": 472659219
+  },
+  {
+    "iso3c": "LUX",
+    "emissions": 10.2,
+    "pop": 620001,
+    "emispercap": 16.45158637,
+    "cumpop": 473279220
+  },
+  {
+    "iso3c": "PLW",
+    "emissions": 0.29,
+    "pop": 17916,
+    "emispercap": 16.18664881,
+    "cumpop": 473297136
+  },
+  {
+    "iso3c": "PRY",
+    "emissions": 96.6,
+    "pop": 6530026,
+    "emispercap": 14.79320297,
+    "cumpop": 479827162
+  },
+  {
+    "iso3c": "KAZ",
+    "emissions": 271.68,
+    "pop": 18513673,
+    "emispercap": 14.67455972,
+    "cumpop": 498340835
+  },
+  {
+    "iso3c": "NZL",
+    "emissions": 72.59,
+    "pop": 4979200,
+    "emispercap": 14.57864717,
+    "cumpop": 503320035
+  },
+  {
+    "iso3c": "BRB",
+    "emissions": 3.79,
+    "pop": 280180,
+    "emispercap": 13.52701835,
+    "cumpop": 503600215
+  },
+  {
+    "iso3c": "RUS",
+    "emissions": 1924.82,
+    "pop": 144406261,
+    "emispercap": 13.32920046,
+    "cumpop": 648006476
+  },
+  {
+    "iso3c": "ATG",
+    "emissions": 1.22,
+    "pop": 92117,
+    "emispercap": 13.24402662,
+    "cumpop": 648098593
+  },
+  {
+    "iso3c": "KOR",
+    "emissions": 652.66,
+    "pop": 51764822,
+    "emispercap": 12.60817626,
+    "cumpop": 699863415
+  },
+  {
+    "iso3c": "MYS",
+    "emissions": 396.11,
+    "pop": 32804020,
+    "emispercap": 12.07504446,
+    "cumpop": 732667435
+  },
+  {
+    "iso3c": "IRL",
+    "emissions": 58.68,
+    "pop": 4934340,
+    "emispercap": 11.89216795,
+    "cumpop": 737601775
+  },
+  {
+    "iso3c": "SGP",
+    "emissions": 67.26,
+    "pop": 5703569,
+    "emispercap": 11.79261617,
+    "cumpop": 743305344
+  },
+  {
+    "iso3c": "BOL",
+    "emissions": 138.72,
+    "pop": 11777315,
+    "emispercap": 11.77857602,
+    "cumpop": 755082659
+  },
+  {
+    "iso3c": "EST",
+    "emissions": 14.83,
+    "pop": 1326898,
+    "emispercap": 11.1764431,
+    "cumpop": 756409557
+  },
+  {
+    "iso3c": "FIN",
+    "emissions": 58.42,
+    "pop": 5521606,
+    "emispercap": 10.58025509,
+    "cumpop": 761931163
+  },
+  {
+    "iso3c": "VEN",
+    "emissions": 299.6,
+    "pop": 28971683,
+    "emispercap": 10.34113206,
+    "cumpop": 790902846
+  },
+  {
+    "iso3c": "IRN",
+    "emissions": 893.78,
+    "pop": 86564202,
+    "emispercap": 10.32505331,
+    "cumpop": 877467048
+  },
+  {
+    "iso3c": "URY",
+    "emissions": 34.36,
+    "pop": 3428409,
+    "emispercap": 10.02214147,
+    "cumpop": 880895457
+  },
+  {
+    "iso3c": "NLD",
+    "emissions": 173.59,
+    "pop": 17344874,
+    "emispercap": 10.00814419,
+    "cumpop": 898240331
+  },
+  {
+    "iso3c": "GNQ",
+    "emissions": 15.24,
+    "pop": 1553031,
+    "emispercap": 9.813068767,
+    "cumpop": 899793362
+  },
+  {
+    "iso3c": "ZAF",
+    "emissions": 562.19,
+    "pop": 58087055,
+    "emispercap": 9.67840425,
+    "cumpop": 957880417
+  },
+  {
+    "iso3c": "ISR",
+    "emissions": 87.26,
+    "pop": 9054000,
+    "emispercap": 9.63772918,
+    "cumpop": 966934417
+  },
+  {
+    "iso3c": "BEL",
+    "emissions": 108.22,
+    "pop": 11488980,
+    "emispercap": 9.419461084,
+    "cumpop": 978423397
+  },
+  {
+    "iso3c": "JPN",
+    "emissions": 1134.45,
+    "pop": 126633000,
+    "emispercap": 8.958565303,
+    "cumpop": 1105056397
+  },
+  {
+    "iso3c": "CAF",
+    "emissions": 46.58,
+    "pop": 5209324,
+    "emispercap": 8.941659225,
+    "cumpop": 1110265721
+  },
+  {
+    "iso3c": "SRB",
+    "emissions": 61.86,
+    "pop": 6945235,
+    "emispercap": 8.906826047,
+    "cumpop": 1117210956
+  },
+  {
+    "iso3c": "ARG",
+    "emissions": 398.91,
+    "pop": 44938712,
+    "emispercap": 8.876756414,
+    "cumpop": 1162149668
+  },
+  {
+    "iso3c": "GAB",
+    "emissions": 19.68,
+    "pop": 2242785,
+    "emispercap": 8.77480454,
+    "cumpop": 1164392453
+  },
+  {
+    "iso3c": "NAM",
+    "emissions": 21.22,
+    "pop": 2446644,
+    "emispercap": 8.673104873,
+    "cumpop": 1166839097
+  },
+  {
+    "iso3c": "DEU",
+    "emissions": 720.23,
+    "pop": 83092962,
+    "emispercap": 8.667761777,
+    "cumpop": 1249932059
+  },
+  {
+    "iso3c": "CHN",
+    "emissions": 12055.41,
+    "pop": 1407745000,
+    "emispercap": 8.563631908,
+    "cumpop": 2657677059
+  },
+  {
+    "iso3c": "POL",
+    "emissions": 320.23,
+    "pop": 37965475,
+    "emispercap": 8.434768694,
+    "cumpop": 2695642534
+  },
+  {
+    "iso3c": "AND",
+    "emissions": 0.63,
+    "pop": 76343,
+    "emispercap": 8.252230067,
+    "cumpop": 2695718877
+  },
+  {
+    "iso3c": "SVN",
+    "emissions": 16.81,
+    "pop": 2088385,
+    "emispercap": 8.049282101,
+    "cumpop": 2697807262
+  },
+  {
+    "iso3c": "SYC",
+    "emissions": 0.78,
+    "pop": 97625,
+    "emispercap": 7.989756722,
+    "cumpop": 2697904887
+  },
+  {
+    "iso3c": "BHS",
+    "emissions": 3.18,
+    "pop": 404557,
+    "emispercap": 7.860449825,
+    "cumpop": 2698309444
+  },
+  {
+    "iso3c": "AUT",
+    "emissions": 69.8,
+    "pop": 8879920,
+    "emispercap": 7.860431175,
+    "cumpop": 2707189364
+  },
+  {
+    "iso3c": "IRQ",
+    "emissions": 321.31,
+    "pop": 41563520,
+    "emispercap": 7.730577198,
+    "cumpop": 2748752884
+  },
+  {
+    "iso3c": "ISL",
+    "emissions": 2.77,
+    "pop": 360563,
+    "emispercap": 7.682429978,
+    "cumpop": 2749113447
+  },
+  {
+    "iso3c": "ZWE",
+    "emissions": 117.96,
+    "pop": 15354608,
+    "emispercap": 7.682384337,
+    "cumpop": 2764468055
+  },
+  {
+    "iso3c": "DNK",
+    "emissions": 44.06,
+    "pop": 5814422,
+    "emispercap": 7.577709358,
+    "cumpop": 2770282477
+  },
+  {
+    "iso3c": "COD",
+    "emissions": 679.57,
+    "pop": 89906890,
+    "emispercap": 7.558597567,
+    "cumpop": 2860189367
+  },
+  {
+    "iso3c": "GRC",
+    "emissions": 79.91,
+    "pop": 10721582,
+    "emispercap": 7.453191143,
+    "cumpop": 2870910949
+  },
+  {
+    "iso3c": "KNA",
+    "emissions": 0.35,
+    "pop": 47712,
+    "emispercap": 7.335680751,
+    "cumpop": 2870958661
+  },
+  {
+    "iso3c": "BIH",
+    "emissions": 24.5,
+    "pop": 3360711,
+    "emispercap": 7.290124024,
+    "cumpop": 2874319372
+  },
+  {
+    "iso3c": "IDN",
+    "emissions": 1959.71,
+    "pop": 269582878,
+    "emispercap": 7.269415679,
+    "cumpop": 3143902250
+  },
+  {
+    "iso3c": "BLR",
+    "emissions": 65.33,
+    "pop": 9419758,
+    "emispercap": 6.935422333,
+    "cumpop": 3153322008
+  },
+  {
+    "iso3c": "BRA",
+    "emissions": 1451.63,
+    "pop": 211782878,
+    "emispercap": 6.854331255,
+    "cumpop": 3365104886
+  },
+  {
+    "iso3c": "SVK",
+    "emissions": 37,
+    "pop": 5454147,
+    "emispercap": 6.783828892,
+    "cumpop": 3370559033
+  },
+  {
+    "iso3c": "CYP",
+    "emissions": 8.29,
+    "pop": 1228836,
+    "emispercap": 6.746221628,
+    "cumpop": 3371787869
+  },
+  {
+    "iso3c": "PNG",
+    "emissions": 63.47,
+    "pop": 9542486,
+    "emispercap": 6.651306588,
+    "cumpop": 3381330355
+  },
+  {
+    "iso3c": "DZA",
+    "emissions": 282.23,
+    "pop": 42705368,
+    "emispercap": 6.608771057,
+    "cumpop": 3424035723
+  },
+  {
+    "iso3c": "TCD",
+    "emissions": 105.68,
+    "pop": 16126866,
+    "emispercap": 6.553040126,
+    "cumpop": 3440162589
+  },
+  {
+    "iso3c": "LTU",
+    "emissions": 18.3,
+    "pop": 2794137,
+    "emispercap": 6.549428321,
+    "cumpop": 3442956726
+  },
+  {
+    "iso3c": "GBR",
+    "emissions": 429.13,
+    "pop": 66836327,
+    "emispercap": 6.420610157,
+    "cumpop": 3509793053
+  },
+  {
+    "iso3c": "HUN",
+    "emissions": 62.48,
+    "pop": 9771141,
+    "emispercap": 6.394340231,
+    "cumpop": 3519564194
+  },
+  {
+    "iso3c": "ITA",
+    "emissions": 376.19,
+    "pop": 59729081,
+    "emispercap": 6.298272026,
+    "cumpop": 3579293275
+  },
+  {
+    "iso3c": "ESP",
+    "emissions": 293.08,
+    "pop": 47134837,
+    "emispercap": 6.217906301,
+    "cumpop": 3626428112
+  },
+  {
+    "iso3c": "MNE",
+    "emissions": 3.86,
+    "pop": 622028,
+    "emispercap": 6.205508434,
+    "cumpop": 3627050140
+  },
+  {
+    "iso3c": "THA",
+    "emissions": 437.18,
+    "pop": 71307763,
+    "emispercap": 6.130889283,
+    "cumpop": 3698357903
+  },
+  {
+    "iso3c": "LBN",
+    "emissions": 35.13,
+    "pop": 5781907,
+    "emispercap": 6.075850061,
+    "cumpop": 3704139810
+  },
+  {
+    "iso3c": "PRT",
+    "emissions": 61.7,
+    "pop": 10286263,
+    "emispercap": 5.998291119,
+    "cumpop": 3714426073
+  },
+  {
+    "iso3c": "PAN",
+    "emissions": 25.3,
+    "pop": 4232532,
+    "emispercap": 5.977509444,
+    "cumpop": 3718658605
+  },
+  {
+    "iso3c": "PER",
+    "emissions": 190.66,
+    "pop": 32824861,
+    "emispercap": 5.808402357,
+    "cumpop": 3751483466
+  },
+  {
+    "iso3c": "SSD",
+    "emissions": 60.33,
+    "pop": 10447666,
+    "emispercap": 5.774495471,
+    "cumpop": 3761931132
+  },
+  {
+    "iso3c": "NRU",
+    "emissions": 0.07,
+    "pop": 12132,
+    "emispercap": 5.76986482,
+    "cumpop": 3761943264
+  },
+  {
+    "iso3c": "NIC",
+    "emissions": 38.41,
+    "pop": 6663924,
+    "emispercap": 5.763871257,
+    "cumpop": 3768607188
+  },
+  {
+    "iso3c": "ECU",
+    "emissions": 98.7,
+    "pop": 17343740,
+    "emispercap": 5.690814092,
+    "cumpop": 3785950928
+  },
+  {
+    "iso3c": "UZB",
+    "emissions": 185.39,
+    "pop": 33580350,
+    "emispercap": 5.520788199,
+    "cumpop": 3819531278
+  },
+  {
+    "iso3c": "LAO",
+    "emissions": 39.42,
+    "pop": 7212053,
+    "emispercap": 5.465850015,
+    "cumpop": 3826743331
+  },
+  {
+    "iso3c": "MKD",
+    "emissions": 11.26,
+    "pop": 2076694,
+    "emispercap": 5.422079517,
+    "cumpop": 3828820025
+  },
+  {
+    "iso3c": "COG",
+    "emissions": 30.07,
+    "pop": 5570733,
+    "emispercap": 5.397853388,
+    "cumpop": 3834390758
+  },
+  {
+    "iso3c": "MUS",
+    "emissions": 6.83,
+    "pop": 1265711,
+    "emispercap": 5.396176536,
+    "cumpop": 3835656469
+  },
+  {
+    "iso3c": "COL",
+    "emissions": 270.53,
+    "pop": 50187406,
+    "emispercap": 5.390396148,
+    "cumpop": 3885843875
+  },
+  {
+    "iso3c": "MEX",
+    "emissions": 670.84,
+    "pop": 125085311,
+    "emispercap": 5.363059776,
+    "cumpop": 4010929186
+  },
+  {
+    "iso3c": "AZE",
+    "emissions": 52.89,
+    "pop": 10024283,
+    "emispercap": 5.276187833,
+    "cumpop": 4020953469
+  },
+  {
+    "iso3c": "FRA",
+    "emissions": 352.1,
+    "pop": 67388001,
+    "emispercap": 5.224965792,
+    "cumpop": 4088341470
+  },
+  {
+    "iso3c": "CHE",
+    "emissions": 44.26,
+    "pop": 8575280,
+    "emispercap": 5.161347501,
+    "cumpop": 4096916750
+  },
+  {
+    "iso3c": "MDV",
+    "emissions": 2.6,
+    "pop": 504508,
+    "emispercap": 5.153535722,
+    "cumpop": 4097421258
+  },
+  {
+    "iso3c": "MHL",
+    "emissions": 0.23,
+    "pop": 44728,
+    "emispercap": 5.14219281,
+    "cumpop": 4097465986
+  },
+  {
+    "iso3c": "MDA",
+    "emissions": 13.5,
+    "pop": 2664224,
+    "emispercap": 5.067141502,
+    "cumpop": 4100130210
+  },
+  {
+    "iso3c": "NOR",
+    "emissions": 26.98,
+    "pop": 5347896,
+    "emispercap": 5.044974697,
+    "cumpop": 4105478106
+  },
+  {
+    "iso3c": "UKR",
+    "emissions": 221.29,
+    "pop": 44386203,
+    "emispercap": 4.985558238,
+    "cumpop": 4149864309
+  },
+  {
+    "iso3c": "TLS",
+    "emissions": 6.38,
+    "pop": 1280438,
+    "emispercap": 4.982669993,
+    "cumpop": 4151144747
+  },
+  {
+    "iso3c": "ZMB",
+    "emissions": 91.36,
+    "pop": 18380477,
+    "emispercap": 4.970491245,
+    "cumpop": 4169525224
+  },
+  {
+    "iso3c": "CMR",
+    "emissions": 124.79,
+    "pop": 25782341,
+    "emispercap": 4.840134571,
+    "cumpop": 4195307565
+  },
+  {
+    "iso3c": "GEO",
+    "emissions": 17.64,
+    "pop": 3720161,
+    "emispercap": 4.741730264,
+    "cumpop": 4199027726
+  },
+  {
+    "iso3c": "LVA",
+    "emissions": 8.93,
+    "pop": 1913822,
+    "emispercap": 4.666055673,
+    "cumpop": 4200941548
+  },
+  {
+    "iso3c": "MMR",
+    "emissions": 242.95,
+    "pop": 53040212,
+    "emispercap": 4.580486971,
+    "cumpop": 4253981760
+  },
+  {
+    "iso3c": "VNM",
+    "emissions": 438.11,
+    "pop": 95776716,
+    "emispercap": 4.574285049,
+    "cumpop": 4349758476
+  },
+  {
+    "iso3c": "KHM",
+    "emissions": 71.77,
+    "pop": 16207746,
+    "emispercap": 4.428129612,
+    "cumpop": 4365966222
+  },
+  {
+    "iso3c": "HRV",
+    "emissions": 17.92,
+    "pop": 4065253,
+    "emispercap": 4.40808973,
+    "cumpop": 4370031475
+  },
+  {
+    "iso3c": "MLT",
+    "emissions": 2.13,
+    "pop": 504062,
+    "emispercap": 4.225670652,
+    "cumpop": 4370535537
+  },
+  {
+    "iso3c": "LIE",
+    "emissions": 0.16,
+    "pop": 38482,
+    "emispercap": 4.157788057,
+    "cumpop": 4370574019
+  },
+  {
+    "iso3c": "LCA",
+    "emissions": 0.74,
+    "pop": 178583,
+    "emispercap": 4.143731486,
+    "cumpop": 4370752602
+  },
+  {
+    "iso3c": "ROU",
+    "emissions": 78.36,
+    "pop": 19371648,
+    "emispercap": 4.045086923,
+    "cumpop": 4390124250
+  },
+  {
+    "iso3c": "AGO",
+    "emissions": 128.29,
+    "pop": 32353588,
+    "emispercap": 3.965247997,
+    "cumpop": 4422477838
+  },
+  {
+    "iso3c": "WSM",
+    "emissions": 0.79,
+    "pop": 211905,
+    "emispercap": 3.728085699,
+    "cumpop": 4422689743
+  },
+  {
+    "iso3c": "DOM",
+    "emissions": 39.76,
+    "pop": 10881882,
+    "emispercap": 3.653779741,
+    "cumpop": 4433571625
+  },
+  {
+    "iso3c": "JAM",
+    "emissions": 10.15,
+    "pop": 2813773,
+    "emispercap": 3.607256165,
+    "cumpop": 4436385398
+  },
+  {
+    "iso3c": "ARM",
+    "emissions": 10,
+    "pop": 2820602,
+    "emispercap": 3.545342448,
+    "cumpop": 4439206000
+  },
+  {
+    "iso3c": "MOZ",
+    "emissions": 106.74,
+    "pop": 30285595,
+    "emispercap": 3.524447844,
+    "cumpop": 4469491595
+  },
+  {
+    "iso3c": "JOR",
+    "emissions": 36.57,
+    "pop": 10698683,
+    "emispercap": 3.418177733,
+    "cumpop": 4480190278
+  },
+  {
+    "iso3c": "CUB",
+    "emissions": 38.19,
+    "pop": 11316697,
+    "emispercap": 3.374659585,
+    "cumpop": 4491506975
+  },
+  {
+    "iso3c": "EGY",
+    "emissions": 351.96,
+    "pop": 105618671,
+    "emispercap": 3.332365354,
+    "cumpop": 4597125646
+  },
+  {
+    "iso3c": "VCT",
+    "emissions": 0.34,
+    "pop": 104924,
+    "emispercap": 3.2404407,
+    "cumpop": 4597230570
+  },
+  {
+    "iso3c": "PRK",
+    "emissions": 82.69,
+    "pop": 25755441,
+    "emispercap": 3.210583736,
+    "cumpop": 4622986011
+  },
+  {
+    "iso3c": "LBR",
+    "emissions": 15.87,
+    "pop": 4985289,
+    "emispercap": 3.1833661,
+    "cumpop": 4627971300
+  },
+  {
+    "iso3c": "GIN",
+    "emissions": 40.61,
+    "pop": 12877539,
+    "emispercap": 3.153552864,
+    "cumpop": 4640848839
+  },
+  {
+    "iso3c": "TUN",
+    "emissions": 37.81,
+    "pop": 12049314,
+    "emispercap": 3.137937977,
+    "cumpop": 4652898153
+  },
+  {
+    "iso3c": "DMA",
+    "emissions": 0.22,
+    "pop": 71428,
+    "emispercap": 3.08002464,
+    "cumpop": 4652969581
+  },
+  {
+    "iso3c": "ALB",
+    "emissions": 8.77,
+    "pop": 2854191,
+    "emispercap": 3.072674534,
+    "cumpop": 4655823772
+  },
+  {
+    "iso3c": "MRT",
+    "emissions": 13.21,
+    "pop": 4383849,
+    "emispercap": 3.013333717,
+    "cumpop": 4660207621
+  },
+  {
+    "iso3c": "TON",
+    "emissions": 0.31,
+    "pop": 104951,
+    "emispercap": 2.953759373,
+    "cumpop": 4660312572
+  },
+  {
+    "iso3c": "SDN",
+    "emissions": 127.07,
+    "pop": 43232093,
+    "emispercap": 2.939251634,
+    "cumpop": 4703544665
+  },
+  {
+    "iso3c": "CHL",
+    "emissions": 55.33,
+    "pop": 19039485,
+    "emispercap": 2.906065999,
+    "cumpop": 4722584150
+  },
+  {
+    "iso3c": "SWE",
+    "emissions": 29.87,
+    "pop": 10278887,
+    "emispercap": 2.905956647,
+    "cumpop": 4732863037
+  },
+  {
+    "iso3c": "VUT",
+    "emissions": 0.87,
+    "pop": 304404,
+    "emispercap": 2.858043915,
+    "cumpop": 4733167441
+  },
+  {
+    "iso3c": "HND",
+    "emissions": 28.14,
+    "pop": 9958829,
+    "emispercap": 2.825633415,
+    "cumpop": 4743126270
+  },
+  {
+    "iso3c": "TUV",
+    "emissions": 0.03,
+    "pop": 10956,
+    "emispercap": 2.73822563,
+    "cumpop": 4743137226
+  },
+  {
+    "iso3c": "BFA",
+    "emissions": 56.31,
+    "pop": 20951639,
+    "emispercap": 2.687617899,
+    "cumpop": 4764088865
+  },
+  {
+    "iso3c": "SOM",
+    "emissions": 42.51,
+    "pop": 15981300,
+    "emispercap": 2.659983856,
+    "cumpop": 4780070165
+  },
+  {
+    "iso3c": "TZA",
+    "emissions": 154.89,
+    "pop": 59872579,
+    "emispercap": 2.586993956,
+    "cumpop": 4839942744
+  },
+  {
+    "iso3c": "MAR",
+    "emissions": 91.15,
+    "pop": 36304408,
+    "emispercap": 2.510714401,
+    "cumpop": 4876247152
+  },
+  {
+    "iso3c": "BGR",
+    "emissions": 17.48,
+    "pop": 6975761,
+    "emispercap": 2.505819795,
+    "cumpop": 4883222913
+  },
+  {
+    "iso3c": "IND",
+    "emissions": 3363.59,
+    "pop": 1383112050,
+    "emispercap": 2.431899859,
+    "cumpop": 6266334963
+  },
+  {
+    "iso3c": "SYR",
+    "emissions": 48.48,
+    "pop": 20098251,
+    "emispercap": 2.412150192,
+    "cumpop": 6286433214
+  },
+  {
+    "iso3c": "GTM",
+    "emissions": 38.49,
+    "pop": 16604026,
+    "emispercap": 2.318112487,
+    "cumpop": 6303037240
+  },
+  {
+    "iso3c": "SWZ",
+    "emissions": 2.69,
+    "pop": 1169613,
+    "emispercap": 2.299906037,
+    "cumpop": 6304206853
+  },
+  {
+    "iso3c": "SLV",
+    "emissions": 13.92,
+    "pop": 6280217,
+    "emispercap": 2.216483921,
+    "cumpop": 6310487070
+  },
+  {
+    "iso3c": "MLI",
+    "emissions": 44.16,
+    "pop": 20567424,
+    "emispercap": 2.147084632,
+    "cumpop": 6331054494
+  },
+  {
+    "iso3c": "PHL",
+    "emissions": 236.79,
+    "pop": 110380804,
+    "emispercap": 2.145209959,
+    "cumpop": 6441435298
+  },
+  {
+    "iso3c": "GNB",
+    "emissions": 4.21,
+    "pop": 1970457,
+    "emispercap": 2.136560199,
+    "cumpop": 6443405755
+  },
+  {
+    "iso3c": "KGZ",
+    "emissions": 13.64,
+    "pop": 6456200,
+    "emispercap": 2.112697872,
+    "cumpop": 6449861955
+  },
+  {
+    "iso3c": "SEN",
+    "emissions": 33.6,
+    "pop": 16000781,
+    "emispercap": 2.099897499,
+    "cumpop": 6465862736
+  },
+  {
+    "iso3c": "BEN",
+    "emissions": 25.78,
+    "pop": 12290444,
+    "emispercap": 2.097564579,
+    "cumpop": 6478153180
+  },
+  {
+    "iso3c": "CIV",
+    "emissions": 51.51,
+    "pop": 26147551,
+    "emispercap": 1.969974167,
+    "cumpop": 6504300731
+  },
+  {
+    "iso3c": "PAK",
+    "emissions": 439.49,
+    "pop": 223293280,
+    "emispercap": 1.968218658,
+    "cumpop": 6727594011
+  },
+  {
+    "iso3c": "ERI",
+    "emissions": 6.78,
+    "pop": 3498818,
+    "emispercap": 1.937797279,
+    "cumpop": 6731092829
+  },
+  {
+    "iso3c": "NER",
+    "emissions": 43.96,
+    "pop": 23443393,
+    "emispercap": 1.875155188,
+    "cumpop": 6754536222
+  },
+  {
+    "iso3c": "STP",
+    "emissions": 0.4,
+    "pop": 214599,
+    "emispercap": 1.863941584,
+    "cumpop": 6754750821
+  },
+  {
+    "iso3c": "TJK",
+    "emissions": 17.38,
+    "pop": 9337003,
+    "emispercap": 1.86141099,
+    "cumpop": 6764087824
+  },
+  {
+    "iso3c": "NGA",
+    "emissions": 354.33,
+    "pop": 203304492,
+    "emispercap": 1.742853768,
+    "cumpop": 6967392316
+  },
+  {
+    "iso3c": "LKA",
+    "emissions": 37.9,
+    "pop": 21803000,
+    "emispercap": 1.738292895,
+    "cumpop": 6989195316
+  },
+  {
+    "iso3c": "NPL",
+    "emissions": 48.37,
+    "pop": 28832496,
+    "emispercap": 1.677620973,
+    "cumpop": 7018027812
+  },
+  {
+    "iso3c": "CRI",
+    "emissions": 8.48,
+    "pop": 5084532,
+    "emispercap": 1.667803448,
+    "cumpop": 7023112344
+  },
+  {
+    "iso3c": "ETH",
+    "emissions": 183.37,
+    "pop": 114120594,
+    "emispercap": 1.606809022,
+    "cumpop": 7137232938
+  },
+  {
+    "iso3c": "MDG",
+    "emissions": 40.22,
+    "pop": 27533134,
+    "emispercap": 1.460785394,
+    "cumpop": 7164766072
+  },
+  {
+    "iso3c": "KEN",
+    "emissions": 73.4,
+    "pop": 50951450,
+    "emispercap": 1.440587069,
+    "cumpop": 7215717522
+  },
+  {
+    "iso3c": "BGD",
+    "emissions": 237.7,
+    "pop": 165516222,
+    "emispercap": 1.436113011,
+    "cumpop": 7381233744
+  },
+  {
+    "iso3c": "UGA",
+    "emissions": 59.15,
+    "pop": 42949080,
+    "emispercap": 1.377212271,
+    "cumpop": 7424182824
+  },
+  {
+    "iso3c": "CPV",
+    "emissions": 0.75,
+    "pop": 577030,
+    "emispercap": 1.299759111,
+    "cumpop": 7424759854
+  },
+  {
+    "iso3c": "DJI",
+    "emissions": 1.38,
+    "pop": 1073994,
+    "emispercap": 1.284923379,
+    "cumpop": 7425833848
+  },
+  {
+    "iso3c": "SLE",
+    "emissions": 9.45,
+    "pop": 8046828,
+    "emispercap": 1.174375791,
+    "cumpop": 7433880676
+  },
+  {
+    "iso3c": "GMB",
+    "emissions": 2.86,
+    "pop": 2508883,
+    "emispercap": 1.139949531,
+    "cumpop": 7436389559
+  },
+  {
+    "iso3c": "LSO",
+    "emissions": 2.53,
+    "pop": 2225702,
+    "emispercap": 1.13672001,
+    "cumpop": 7438615261
+  },
+  {
+    "iso3c": "TGO",
+    "emissions": 8.71,
+    "pop": 8243094,
+    "emispercap": 1.056642081,
+    "cumpop": 7446858355
+  },
+  {
+    "iso3c": "MWI",
+    "emissions": 19.34,
+    "pop": 18867337,
+    "emispercap": 1.025051919,
+    "cumpop": 7465725692
+  },
+  {
+    "iso3c": "HTI",
+    "emissions": 11.13,
+    "pop": 11160438,
+    "emispercap": 0.9972726877,
+    "cumpop": 7476886130
+  },
+  {
+    "iso3c": "KIR",
+    "emissions": 0.12,
+    "pop": 124241,
+    "emispercap": 0.9658647306,
+    "cumpop": 7477010371
+  },
+  {
+    "iso3c": "COM",
+    "emissions": 0.7,
+    "pop": 790986,
+    "emispercap": 0.8849714154,
+    "cumpop": 7477801357
+  },
+  {
+    "iso3c": "YEM",
+    "emissions": 25.26,
+    "pop": 31546691,
+    "emispercap": 0.8007178946,
+    "cumpop": 7509348048
+  },
+  {
+    "iso3c": "AFG",
+    "emissions": 28.79,
+    "pop": 37769499,
+    "emispercap": 0.7622552791,
+    "cumpop": 7547117547
+  },
+  {
+    "iso3c": "BDI",
+    "emissions": 8.04,
+    "pop": 11874838,
+    "emispercap": 0.6770618681,
+    "cumpop": 7558992385
+  },
+  {
+    "iso3c": "RWA",
+    "emissions": 7,
+    "pop": 12835028,
+    "emispercap": 0.5453825266,
+    "cumpop": 7571827413
+  },
+  {
+    "iso3c": "BTN",
+    "emissions": 0.36,
+    "pop": 767459,
+    "emispercap": 0.469080433,
+    "cumpop": 7572594872
+  },
+  {
+    "iso3c": "GHA",
+    "emissions": 12.75,
+    "pop": 31522290,
+    "emispercap": 0.4044756901,
+    "cumpop": 7604117162
+  },
+  {
+    "iso3c": "FJI",
+    "emissions": -0.16,
+    "pop": 918465,
+    "emispercap": -0.1742036986,
+    "cumpop": 7605035627
+  },
+  {
+    "iso3c": "WLD",
+    "emissions": 47357.79,
+    "pop": 7605035627,
+    "emispercap": 6.227162149,
+    "cumpop": 0
+  },
+  {
+    "iso3c": "HIC",
+    "emissions": 14228.58,
+    "pop": 1188337504,
+    "emispercap": 11.97351758,
+    "cumpop": 1188337504
+  },
+  {
+    "iso3c": "UMC",
+    "emissions": 20052.1,
+    "pop": 2398606180,
+    "emispercap": 8.359896746,
+    "cumpop": 3586943684
+  },
+  {
+    "iso3c": "LMC",
+    "emissions": 10782.41,
+    "pop": 3309106792,
+    "emispercap": 3.258404965,
+    "cumpop": 6896050476
+  },
+  {
+    "iso3c": "LIC",
+    "emissions": 1995.1,
+    "pop": 680013468,
+    "emispercap": 2.93391248,
+    "cumpop": 7576063944
+  }
+]

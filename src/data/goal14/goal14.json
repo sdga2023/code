@@ -1,0 +1,677 @@
+{
+  "config": {
+    "goal": "14",
+    "headline": "Ending overfishing: An urgent need to protect our oceans",
+    "introtext": "[goal: 14] calls for the conservation and sustainable use of the oceans. Overfishing can lead to the depletion of marine resources and can endanger the livelihoods of millions of people. In 2021, an average of 11.6 kilograms of fish per person was caught at the global level. Establishing marine protected areas can be an important tool for managing ocean resources.",
+    "path": "data/goal14/goal14.percapita_catch.json",
+    "country_data_label": "kg of fish per capita caught in 2021",
+    "legend_label": "Fish catch",
+    "legend_units": "kg per capita",
+    "targets_covered": [
+      {
+        "target": "4",
+        "translationPrefix": "goal14.config.targets_covered.#0"
+      },
+      {
+        "target": "5",
+        "translationPrefix": "goal14.config.targets_covered.#1"
+      }
+    ],
+    "source": "Apparent fishing hours [footnote: [link: https://globalfishingwatch.org/dataset-and-code-fishing-effort/ Global Fishing Watch]. Total apparent fishing hours for each 0.1° x 0.1° degree cell in 2021. Estimated fishing effort is measured by analyzing the movements of fishing vessels and time spent in a location.] Fish catch [footnote: FAO. 2023. Fishery and Aquaculture Statistics. Global production by production source 1950-2021 ([link: https://www.fao.org/fishery/en/topic/166235 FishStatJ]). In: FAO Fisheries and Aquaculture Division [online]. Rome. Updated 2023. Population retrieved from World Development Indicators ([link: https://data.worldbank.org/indicator/SP.POP.TOTL SP.POP.TOTL]).]",
+    "citation": "Parada, Javier, Ana Florina Pirlea, and Maarten Lambrechts. 2023. “Ending overfishing: An urgent need to protect our oceans” In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. [link: https://www.doi.org/10.60616/agjx-8m69 https://www.doi.org/10.60616/agjx-8m69]",
+    "credits": "Javier Parada, Ana Florina Pirlea",
+    "inputs": "Gunilla Greig, Harrison Karisa, Jackie Alder, Marcia Moreno-Báez",
+    "visuals": "Maarten Lambrechts"
+  },
+  "content": [
+    {
+      "type": "text",
+      "text": "[goal: 14] aims to increase efforts to conserve and sustainably use the oceans. These efforts are measured and monitored through 10 interrelated targets. [target: 14.4] is designed to regulate fishing activities and eliminate overfishing as well as illegal, unreported, unregulated, and destructive fishing. Overfishing occurs when too many fish are caught too quickly, without allowing time for the population to recover. This threatens the marine environment and the livelihoods of those who depend on it. This story also focuses on the implementation of [target: 14.5] that focuses on the establishment of marine protected areas.",
+      "translationPrefix": "goal14.content.#0"
+    },
+    {
+      "type": "subhed",
+      "text": "Global fish production has reached an all-time high",
+      "translationPrefix": "goal14.content.#1"
+    },
+    {
+      "type": "text",
+      "text": "Fish production consists of <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-orange300)\">capture production</span>, which is defined as fish caught openly in the ocean or inland waters, and <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue500)\">aquaculture production</span>, which consists of farmed fish.",
+      "translationPrefix": "goal14.content.#2"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "Global fish production has expanded significantly since 1950",
+      "subtitle": "Tonnes of fish, crustaceans, and mollusks",
+      "visdescription": "Area chart of global fish production in tonnes from 1950 to 2021, showing the evolution of both capture fisheries and aquaculture. In 2021, an approximately equal amount of fish came from capture fisheries and aquaculture.",
+      "source": "FAO. 2023. Fishery and Aquaculture Statistics. Global production by production source 1950-2021 ([link: https://www.fao.org/fishery/en/topic/166235 FishStatJ]). In: FAO Fisheries and Aquaculture Division. Rome. Updated 2023.",
+      "graphic": "fish_production",
+      "path": "data/goal14/goal14.capture_aquaculture.json",
+      "capture": "Capture",
+      "aquaculture": "Aquaculture",
+      "capture_inland": "Capture inland",
+      "capture_sea": "Capture at sea",
+      "aquaculture_inland": "Aquaculture inland",
+      "aquaculture_sea": "Aquaculture at sea",
+      "arctic": "Arctic Ocean",
+      "atlantic": "Atlantic Ocean",
+      "indian": "Indian Ocean",
+      "inland": "Inland waters",
+      "pacific": "Pacific Ocean",
+      "medblack": "Mediterranean and Black Sea",
+      "othercountry": "Other countries",
+      "pollock": "Alaska pollock",
+      "anchovy": "Peruvian anchovy",
+      "herring": "Atlantic herring",
+      "whiting": "Blue whiting",
+      "sardine": "Sardine",
+      "cod": "Atlantic cod",
+      "pacific_sardine": "Pacific sardine",
+      "mackerel": "Pacific shub mackerel",
+      "skipjack": "Skipjack tuna",
+      "yellowfin": "Yellowfin tuna",
+      "otherspecies": "Other species",
+      "tonnes": "tonnes",
+      "yaxisunits": "million tonnes",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "In 2021, global fish production reached 182 million tonnes, with approximately equal amounts coming from <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-orange300)\">capture</span> (91.2 million tonnes) and <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue500)\">aquaculture</span> (90.9 million tonnes). Aquaculture has experienced rapid growth in recent decades, increasing almost sevenfold from 1990 to 2021.",
+          "translationPrefix": "goal14.content.#3.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "inland_sea",
+          "text": "Both capture and aquaculture can take place in the ocean or in inland waters (rivers and lakes). This story focuses on fish capture in the ocean.",
+          "translationPrefix": "goal14.content.#3.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "capture",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-orange300)\">Capture production</span> in the ocean has remained relatively stable since the late 1990s, hovering at around 80 million tonnes per year. The 2021 capture production was more than four times the level in 1950.",
+          "translationPrefix": "goal14.content.#3.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "area",
+          "text": "In 2021, about half of capture production was sourced from the <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue700)\">Pacific Ocean</span> (47 million tonnes), followed by the <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue600)\">Atlantic Ocean</span> (19 million tonnes), and the <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue400)\">Indian Ocean</span> (11 million tonnes).[footnote: In addition, 11 million tonnes of capture production came from inland waters, including rivers and lakes.]",
+          "translationPrefix": "goal14.content.#3.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "country",
+          "text": "The <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">top 10 capture producers</span> in 2021 (China, Indonesia, Peru, Russia, United States, Vietnam, India, Japan, Norway, and Chile) represented 60 percent of the global total (excluding inland capture production).",
+          "translationPrefix": "goal14.content.#3.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "species",
+          "text": "The most captured fish species is the Peruvian anchovy, primarily used in the production of fishmeal for other animals, including farmed fish.",
+          "translationPrefix": "goal14.content.#3.scenes.#5"
+        }
+      ],
+      "translationPrefix": "goal14.content.#3"
+    },
+    {
+      "type": "text",
+      "text": "Capture production is increasing pressure on wild fish stocks. In addition, aquaculture contributes to this pressure because farmed fish are often fed with captured wild fish, like the Peruvian anchovy. It can take large quantities of small wild fish to feed the larger fish in farms.[reference: Sumaila, U. Rashid, Andrea Pierruci, Muhammed A. Oyinlola, Rita Cannas, Rainer Froese, Sarah Glaser, Jennifer Jacquet, et al. 2022. [link: https://www.frontiersin.org/articles/10.3389/fmars.2022.984354/full \"Aquaculture over-optimism?\"] <i>Frontiers in Marine Science</i> 9.]",
+      "translationPrefix": "goal14.content.#4"
+    },
+    {
+      "type": "text",
+      "text": "Measuring and monitoring fish resources in the ocean is more challenging than monitoring resources on land. [emphasis: Illegal, unreported, and unregulated (IUU)] fishing makes this even harder. It is estimated that one in every five fish caught comes from IUU fishing.[reference: United Nations. 2022. [link: https://www.un.org/en/observances/end-illegal-fishing-day International Day for the Fight against Illegal, Unreported and Unregulated Fishing 5 June].]",
+      "translationPrefix": "goal14.content.#5"
+    },
+    {
+      "type": "subhed",
+      "text": "A third of the world’s capture fish stocks are overfished",
+      "translationPrefix": "goal14.content.#6"
+    },
+    {
+      "type": "text",
+      "text": "In 2019, [emphasis: 35 percent] of assessed fish stocks were classified as [emphasis: overfished] by FAO,[reference: FAO. 2022. [link: https://doi.org/10.4060/cc0461en The State of World Fisheries and Aquaculture 2022. Towards Blue Transformation]. Rome.] as measured by SDG Indicator 14.4.1.[reference: FAO. [link: https://www.fao.org/sustainable-development-goals/indicators/1441/en/ Sustainable Development Goals]. Indicator 14.4.1 - Proportion of fish stocks within biologically sustainable levels.] FAO monitors assessments made by governments or regional organizations for around 600 fish subspecies populations.",
+      "translationPrefix": "goal14.content.#7"
+    },
+    {
+      "type": "vis",
+      "graphic": "overfished_stocks",
+      "path": "data/goal14/goal14.overfishing.json",
+      "title": "The proportion of overfished stocks has reached 35 percent",
+      "subtitle": "Share of assessed fish stocks by sustainability level",
+      "visdescription": "Area chart showing the share of assessed fish stocks globally by sustainability level from 1974 to 2019. The chart shows how the share of fish stocks that are classified as overfished has increased over time and reached 35 percent in 2019.",
+      "source": "FAO. 2022. [link: https://doi.org/10.4060/cc0461en The State of World Fisheries and Aquaculture 2022. Towards Blue Transformation]. Rome.",
+      "fully": "Maximally sustainably fished",
+      "over": "Overfished",
+      "under": "Underfished",
+      "unsustainable": "Unsustainable",
+      "sustainable": "Sustainable",
+      "yaxistitle": "Share of fish stocks",
+      "size": "main",
+      "translationPrefix": "goal14.content.#8"
+    },
+    {
+      "type": "text",
+      "text": "A substantial share of fish stocks are <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-red600)\">overfished</span>. An even larger share are <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal400)\">maximally sustainably fished</span> (57 percent), meaning that if capture levels were to increase they would become overfished. Some stocks remain <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-blue300)\">underfished</span>, meaning they are not in danger but this share has become very small (7 percent).",
+      "translationPrefix": "goal14.content.#9"
+    },
+    {
+      "type": "text",
+      "text": "Data on the proportion of sustainable and unsustainable fish stocks (SDG Indicator 14.4.1) is available by [link: https://www.fao.org/fishery/en/area/search major fishing areas]. For example, in 2019, the <span class=\"highlighted\" style=\"--highlight-color: #7b281b;\">Southeast Pacific</span> and the <span class=\"highlighted\" style=\"--highlight-color: #7f351b;\">Mediterranean and Black Sea</span> had around two-thirds of their fish stocks within biologically unsustainable levels, much higher than the global average.",
+      "translationPrefix": "goal14.content.#10"
+    },
+    {
+      "type": "vis",
+      "graphic": "fishingareasmap",
+      "title": "Overfishing is worse in some fishing areas",
+      "subtitle": "Share of assessed fish stocks that are overfished (by FAO major fishing area)",
+      "visdescription": "Map of the world’s 19 major fishing areas as defined by FAO that shows the percentage of overfished fish stocks for each of these areas. The map shows that the Southeast Pacific and the Mediterranean and Black Sea have the highest percentages of overfished fish stocks (67 percent and 63 percent respectively).",
+      "source": "FAO. 2022. [link: https://doi.org/10.4060/cc0461en The State of World Fisheries and Aquaculture 2022. Towards Blue Transformation]. Rome.",
+      "legendtitle": "Percentage of overfished stocks in 2019",
+      "path": "data/goal14/goal14.fishingzones.json",
+      "pacificne": "Northeast Pacific",
+      "pacificec": "Eastern Central Pacific",
+      "pacificwc": "Western Central Pacific",
+      "pacificse": "Southeast Pacific",
+      "pacificsw": "Southwestern Pacific",
+      "pacificnw": "Pacific Northwest",
+      "pacificant": "Antarctic Pacific",
+      "arctic": "Arctic Sea",
+      "atlanticne": "Northeast Atlantic",
+      "atlanticnw": "Northwest Atlantic",
+      "atlanticec": "Eastern Central Atlantic",
+      "atlanticwc": "Western Central Atlantic",
+      "atlanticsw": "Southwestern Atlantic",
+      "atlanticse": "Southeastern Atlantic",
+      "atlanticant": "Antarctic Atlantic",
+      "medblack": "Mediterranean and Black Sea",
+      "indianw": "Western Indian Ocean",
+      "indianant": "Antarctic Indian Ocean",
+      "indiane": "Eastern Indian Ocean",
+      "translationPrefix": "goal14.content.#11"
+    },
+    {
+      "type": "subhed",
+      "text": "Overfishing can lead to declining fish populations, reduced fish size, and the extinction of fish species",
+      "translationPrefix": "goal14.content.#12"
+    },
+    {
+      "type": "text",
+      "text": "A fish stock becomes overfished (low abundance) after experiencing high levels of capture over a period of time. This happens once its population size falls to a level below the size that may produce its [emphasis: maximum sustainable yield (MSY)], the largest amount that can be sustainably captured over the long-term.[reference: FAO. [link: https://www.fao.org/sustainable-development-goals/indicators/1441/en/ Sustainable Development Goals]. Indicator 14.4.1 - Proportion of fish stocks within biologically sustainable levels.] Data from the [link: https://www.noaa.gov/ US National Oceanic and Atmospheric Administration (NOAA)] provides a dynamic way to look at fish [emphasis: capture] and [emphasis: abundance] over time.",
+      "translationPrefix": "goal14.content.#13"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "Understanding overfishing through a Kobe plot",
+      "subtitle": "Dots represent fish stocks",
+      "visdescription": "Scatterplot of fish stocks that locates them in four different quadrants according to their level of capture and abundance as measured by their latest assessment. The plot locates two-thirds of fish stocks (125 out of 189) in the not overfished and currently not overfishing quadrant. Additionally 45 fish stocks are classified as overfished but currently not overfishing, and 15 fish stocks are in the overfished and currently overfishing category",
+      "source": "NOAA Fisheries. 2022. Stock SMART data records. Retrieved from [link: https://apps-st.fisheries.noaa.gov/stocksmart?app=plot-stock-condition Stock SMART].",
+      "xaxistitle": "Abundance (Relative to MSY target size)",
+      "yaxistitle": "Capture (Relative to MSY)",
+      "graphic": "kobescroller",
+      "path": "data/goal14/goal14.kobe.json",
+      "topleft": "Overfished and currently overfishing",
+      "topright": "Not overfished but currently overfishing",
+      "bottomleft": "Overfished but currently not overfishing",
+      "bottomright": "Not overfished and currently not overfishing",
+      "overfished": "← Overfished",
+      "notoverfished": "Not overfished →",
+      "overfishing": "↑ Overfishing",
+      "notoverfishing": "↓ Not overfishing",
+      "specieslabels": [
+        {
+          "code": "Pacific_bluefin_tuna",
+          "label": "Pacific bluefin tuna",
+          "translationPrefix": "goal14.content.#14.specieslabels.#0"
+        },
+        {
+          "code": "Skipjack_tuna",
+          "label": "Skipjack tuna",
+          "translationPrefix": "goal14.content.#14.specieslabels.#1"
+        },
+        {
+          "code": "Yellowfin_tuna",
+          "label": "Yellowfin tuna",
+          "translationPrefix": "goal14.content.#14.specieslabels.#2"
+        },
+        {
+          "code": "Bigeye_tuna",
+          "label": "Bigeye tuna",
+          "translationPrefix": "goal14.content.#14.specieslabels.#3"
+        },
+        {
+          "code": "Pacific_ocean_perch",
+          "label": "Pacific ocean perch",
+          "translationPrefix": "goal14.content.#14.specieslabels.#4"
+        },
+        {
+          "code": "Red_snapper",
+          "label": "Red snapper",
+          "translationPrefix": "goal14.content.#14.specieslabels.#5"
+        },
+        {
+          "code": "Silky_shark",
+          "label": "Silky shark",
+          "translationPrefix": "goal14.content.#14.specieslabels.#6"
+        },
+        {
+          "code": "Atlantic_herring",
+          "label": "Atlantic herring",
+          "translationPrefix": "goal14.content.#14.specieslabels.#7"
+        }
+      ],
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro-xaxis",
+          "text": "A Kobe plot presents fish stock capture and abundance relative to the levels associated with the [emphasis: maximum sustainable yield (MSY)]. Each dot on this plot represents a <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-orange400)\">fish stock’s status</span>.",
+          "translationPrefix": "goal14.content.#14.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "abundance-line",
+          "text": "A fish stock’s location on the horizontal or [emphasis: x-axis] represents its [emphasis: abundance relative to the level that can produce the MSY]. The further to the right a fish stock is, the greater its abundance. When this falls below the level that can produce the MSY (the ratio of the two is below 1), it means that a stock is [emphasis: overfished].",
+          "translationPrefix": "goal14.content.#14.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "intro-yaxis",
+          "text": "The fish stock’s location on the vertical or [emphasis: y-axis] represents its [emphasis: capture relative to the MSY]. The further up a fish stock is, the greater its capture. When capture is greater than the MSY (the ratio of the two is above 1), it means that a fish stock is experiencing [emphasis: overfishing].",
+          "translationPrefix": "goal14.content.#14.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "quadrants",
+          "text": "In the plot, fish stocks fall within one of four quadrants depending on their levels of abundance and capture.",
+          "translationPrefix": "goal14.content.#14.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "perch",
+          "text": "In the United States, the Pacific ocean perch represents an example of effective management as its three fish stocks (Pacific Coast, Gulf of Alaska, and Bering Sea) fall in the <span class=\"highlighted-dark-text\" style=\"--highlight-color: #D6E2EA\">not overfished and currently not overfishing</span> quadrant.",
+          "translationPrefix": "goal14.content.#14.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "tuna",
+          "text": "Among the different tuna fish stocks, the Pacific Bluefin is one of the most commercially valuable and also the most overfished. Its abundance is estimated to be as low as 3 percent of its original stock size.[reference: Nickson, Amanda. 2016. [link: https://www.pewtrusts.org/en/research-and-analysis/articles/2016/04/25/new-science-puts-decline-of-pacific-bluefin-at-974-percent New Science Puts Decline of Pacific Bluefin at 97.4 Percent].] The Pacific Bluefin tuna stock is located in the <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEDCCB\">overfished and currently overfishing</span> quadrant.",
+          "translationPrefix": "goal14.content.#14.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "bluefin-trajectory",
+          "text": "The plot can also visualize whether a fish stock’s status has changed over time. The last three assessments of Pacific Bluefin tuna all locate this fish stock in the <span class=\"highlighted-dark-text\" style=\"--highlight-color: #EEDCCB\">overfished and currently overfishing</span> quadrant. The 2020 assessment shows a slight increase in abundance and a slight decrease in capture compared to the 2016 and 2018 assessments.",
+          "translationPrefix": "goal14.content.#14.scenes.#6"
+        }
+      ],
+      "translationPrefix": "goal14.content.#14"
+    },
+    {
+      "type": "text",
+      "text": "Overfishing can also lead to the extinction of the large marine predators that feed on these stocks. In 2021, the IUCN released its assessment of around 1,200 species of sharks and rays concluding that the proportion of these that are threatened has increased from a quarter to a third between 2014 and 2021, most likely due to overfishing.[reference: Dulvy, Nicholas K., et al. 2021. [link: https://www.sciencedirect.com/science/article/pii/S0960982221011982 \"Overfishing drives over one-third of all sharks and rays toward a global extinction crisis.\"] <i>Current Biology</i> 31 (21): 4773-4787.e8.]",
+      "translationPrefix": "goal14.content.#15"
+    },
+    {
+      "type": "vis",
+      "graphic": "endangered_sharks_rays",
+      "path": "data/goal14/goal14.sharksrays.json",
+      "title": "More than a third of shark and ray species are threatened",
+      "subtitle": "Status of assessed species of sharks and rays",
+      "visdescription": "Stacked bar chart that shows the status of assessed species of sharks and rays. The stacked bar indicates that 90 species are critically endangered, 121 species are endangered, and 180 species are vulnerable. Together, these three categories represent one third (391 out of 1199) of the total number of assessed species.",
+      "source": "Dulvy, Nicholas K., et al. 2021. [link: https://www.sciencedirect.com/science/article/pii/S0960982221011982 \"Overfishing drives over one-third of all sharks and rays toward a global extinction crisis.\"] <i>Current Biology</i> 31 (21): 4773-4787.e8.",
+      "size": "main",
+      "critically": "Critically endangered",
+      "endangered": "Endangered",
+      "vulnerable": "Vulnerable",
+      "near": "Near threatened",
+      "least": "Least concern",
+      "nei": "Data deficient",
+      "species": "species",
+      "translationPrefix": "goal14.content.#16"
+    },
+    {
+      "type": "subhed",
+      "text": "Fishing-vessel technology has made it easier to catch fish",
+      "translationPrefix": "goal14.content.#17"
+    },
+    {
+      "type": "text",
+      "text": "Global fishing capacity has more than doubled since 1950 and the number of fishing vessels reached 4.1 million in 2020. China has the world’s largest fishing fleet with over half a million ships.[reference: FAO. 2022. [link: https://doi.org/10.4060/cc0461en The State of World Fisheries and Aquaculture 2022. Towards Blue Transformation]. Rome.]",
+      "translationPrefix": "goal14.content.#18"
+    },
+    {
+      "type": "vis",
+      "graphic": "vessels",
+      "path": "data/goal14/goal14.vessels.json",
+      "title": "The size of the global fishing fleet is estimated at more than 4 million vessels",
+      "subtitle": "Total number of fishing vessels by region",
+      "visdescription": "Area chart of total number of fishing vessels by region from 1950 to 2017. The chart shows that the total number of fishing vessels has passed 4 million and that more than half of these are from the East Asia and Pacific region.",
+      "source": "Rousseau, Y., J. Blanchard, C. Novaglio, P. Kirsty, D. Tittensor, R. Watson, and Y. Ye. 2022. [link: https://doi.org/10.25959/MNGY-0Q43 Global Fishing Effort]. Institute for Marine and Antarctic Studies (IMAS). University of Tasmania (UTAS).",
+      "yaxisunits": "million vessels",
+      "size": "main",
+      "translationPrefix": "goal14.content.#19"
+    },
+    {
+      "type": "text",
+      "text": "Technology has vastly improved fishing efficiency. Unfortunately, in some instances, these vessels’ fishing methods also allow for the capture of non-target species (sometimes referred to as [emphasis: bycatch]).[reference: FAO. [link: https://www.fao.org/3/t4890e/T4890E03.htm Part I Estimates of Global Fishery Bycatch and Discards].] Bycatch may also include endangered sharks, rays, whales, dolphins, turtles, or birds.",
+      "translationPrefix": "goal14.content.#20"
+    },
+    {
+      "type": "vis",
+      "graphic": "image",
+      "title": "Reducing bycatch by fishing vessels is a challenge",
+      "subtitle": "",
+      "visdescription": "Visual shows a photograph of a turtle on a deck of a fishing trawler caught as bycatch.",
+      "source": "Tara Lambourne, Shutterstock. A turtle on deck of a fishing trawler caught as bycatch.",
+      "alt": "A turtle on deck of a fishing trawler caught as bycatch.",
+      "url": "goal14/shutterstock_2146549541.jpg",
+      "size": "main",
+      "translationPrefix": "goal14.content.#21"
+    },
+    {
+      "type": "text",
+      "text": "Shrimp trawling, for example, involves pulling a weighted net across the seafloor. This can result in the capture and discard of various fish and non-fish species in addition to shrimp.[reference: FAO. 2023. [link: https://www.fao.org/fishery/en/fishtech/1021/en Fishing Techniques. Shrimp otter trawling]. Technology Fact Sheets. Fisheries and Aquaculture Division [online]. Rome. Cited Tuesday, February 28th 2023.] A study of shrimp trawling in Northern Peru revealed that 4-6 kilograms of bycatch were caught for each kilogram of shrimp.[reference: Mendo, Jaime, et al. 2022. [link: https://doi.org/10.1371/journal.pone.0268128 \"Bycatch and discards in the artisanal shrimp trawl fishery in Northern Peru.\"] PLOS ONE (Public Library of Science) 17 (6): 1-13.] Out of the total catch, more than 80 percent was bycatch.",
+      "translationPrefix": "goal14.content.#22"
+    },
+    {
+      "type": "vis",
+      "graphic": "bycatch_alluvial",
+      "path": "data/goal14/goal14.bycatch.json",
+      "title": "Shrimp trawling may result in levels of bycatch that surpass 80 percent",
+      "subtitle": "Percentage of capture",
+      "visdescription": "Sankey diagram that shows the categorization of total catch from shrimp trawling into target catch (17.5 percent) and bycatch (82.5 percent). Bycatch is further divided into other commercial species such as perch and flounder (31.9 percent) and discarded species (not attractive to consumers) (50.6 percent).",
+      "source": "Mendo, Jaime, et al. 2022. [link: https://doi.org/10.1371/journal.pone.0268128 \"Bycatch and discards in the artisanal shrimp trawl fishery in Northern Peru.\"] PLOS ONE (Public Library of Science) 17 (6): 1-13.",
+      "size": "main",
+      "catched": "All catch",
+      "bycatch": "Bycatch",
+      "target": "Shrimp",
+      "commercial": "Other commercial species (perch, flounder)",
+      "discarded": "Discarded (not attractive to consumers)",
+      "intended": "Target catch",
+      "translationPrefix": "goal14.content.#23"
+    },
+    {
+      "type": "text",
+      "text": "Bycatch may include commercial species such as perch and flounder. Even though these results refer to Northern Peru, research on artisanal shrimp trawling in other countries shows similar results. The negative impact of trawling may be partially mitigated by using new technologies such as bycatch reduction and turtle excluder devices.",
+      "translationPrefix": "goal14.content.#24"
+    },
+    {
+      "type": "text",
+      "text": "Overfishing can be controlled when countries invest in and practice fisheries management (rules to prevent unsustainable fishing and to help depleted stocks rebound).[reference: Wilson, Douglas Clyde K., and Bonnie J. McCay. 2001. [link: https://www.sciencedirect.com/science/article/pii/B9780123744739004604 Fishery management, human dimension]. In Steele, J. H., editor, Encyclopedia of Ocean Sciences (Second Edition), pages 522–527. Academic Press, Oxford.] Fisheries management tools include quotas, seasonal closures, and restrictions on the size of fish that can be caught.[reference: FAO. 2021. [link: https://www.fao.org/fishery/en/topic/16200 Marine Protected Areas as a Tool for Fisheries Management (MPAs)].] However, fisheries management requires enforcement of such rules. A common method for implementing this type of regulation is the establishment of marine protected areas.",
+      "translationPrefix": "goal14.content.#25"
+    },
+    {
+      "type": "subhed",
+      "text": "Marine protected areas (MPAs) cover 8.2 percent of coastal waters and oceans",
+      "translationPrefix": "goal14.content.#26"
+    },
+    {
+      "type": "text",
+      "text": "Marine protected areas (MPAs) can be an effective conservation mechanism, especially when combined with other fisheries management tools. [target: 14.5] encourages the establishment of MPAs to cover at least [emphasis: 10 percent] of coastal waters and oceans as a strategy to conserve biodiversity, restore ocean productivity, and strengthen food security.[reference: FAO. 2022. [link: https://doi.org/10.4060/cc0461en The State of World Fisheries and Aquaculture 2022. Towards Blue Transformation]. Rome.]",
+      "translationPrefix": "goal14.content.#27"
+    },
+    {
+      "type": "factoid",
+      "title": "Worldwide",
+      "number": "8.2%",
+      "label": "covered by MPAs",
+      "text": "In 2022, about 8.2 percent of ocean waters were covered by MPAs (29.6 million km<sup>2</sup> out of 362.5 million km<sup>2</sup>).[reference: Protected Planet. 2023. [link: https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA Protected Areas (WDPA)].] This is below the [emphasis: 10 percent] target established in [target: 14.5].",
+      "color": "#D52F2F",
+      "translationPrefix": "goal14.content.#28"
+    },
+    {
+      "type": "factoid",
+      "title": "National waters",
+      "number": "18.7%",
+      "label": "covered by MPAs",
+      "text": "National waters, within jurisdiction of individual countries, represent almost 40 percent of the ocean.[reference: Protected Planet. 2023. [link: https://www.protectedplanet.net/en/thematic-areas/marine-protected-areas Marine Protected Areas].] The share of national waters currently protected by MPAs is 18.7 percent (26.4 million km<sup>2</sup> out of 141.2 million km<sup>2</sup>).",
+      "color": "#AE5A13",
+      "translationPrefix": "goal14.content.#29"
+    },
+    {
+      "type": "factoid",
+      "title": "International waters",
+      "number": "1.4%",
+      "label": "covered by MPAs",
+      "text": "International waters, also referred to as high seas or Areas Beyond National Jurisdiction (ABNJ), comprise around 60 percent of the ocean. The share of these waters protected by MPAs is only 1.4 percent (3.2 million km<sup>2</sup> out of 221.1 million km<sup>2</sup>).",
+      "color": "#477979",
+      "translationPrefix": "goal14.content.#30"
+    },
+    {
+      "type": "vis",
+      "graphic": "mpascatter",
+      "path": "data/goal14/goal14.marine_protected_areas.json",
+      "title": "44 countries protect more than 10 percent of their national waters",
+      "subtitle": "Percentage of total marine area covered by MPAs",
+      "visdescription": "Scatter plot that shows the size of each country’s total marine area in square kilometers on the horizontal axis and the percentage of this area that is protected on the vertical axis according to the latest measurements. The percentage of the area protected can be close to 0 percent in countries like Nigeria and as high as 100 percent in countries like Palau and Monaco.",
+      "source": "UNEP-WCMC and IUCN. 2022. [link: https://www.protectedplanet.net Protected Planet:] The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM) [Online], November 2022, Cambridge, UK: UNEP-WCMC and IUCN.",
+      "xaxistitle": "Total marine area (logarithmic scale)",
+      "xaxisunits": "km2",
+      "yaxistitle": "Percentage of total marine area covered by MPAs",
+      "yaxisunits": "%",
+      "size": "main",
+      "abnj": "International waters",
+      "translationPrefix": "goal14.content.#31"
+    },
+    {
+      "type": "text",
+      "text": "MPAs have different names across countries (no-take zones, sanctuaries, marine parks, etc.) and the level of protection they provide varies widely. However, MPAs can be broadly defined as marine geographical areas with greater protection from human activity than surrounding waters. Their establishment helps protect marine species and habitats, and when enforced, supports the sustainability of fish stocks.",
+      "translationPrefix": "goal14.content.#32"
+    },
+    {
+      "type": "text",
+      "text": "MPAs have limitations, which is why they work best when established as part of a mix of fisheries management tools.[reference: FAO. 2021. [link: https://www.fao.org/fishery/en/topic/16200 Marine Protected Areas as a Tool for Fisheries Management (MPAs)].] For example, they are unable to protect migratory species like tuna. In such cases, international cooperation may be more important than establishing geographic boundaries for conservation.[footnote: International fisheries management strategies are implemented by regional fisheries management organizations (RFMOs). For example, the [link: https://www.iattc.org/ Inter-American Tropical Tuna Commission (IATTC)] and the [link: https://www.wcpfc.int/ Western and Central Pacific Fisheries Commission (WCPFC)] bring countries together for the responsible management of tuna.]",
+      "translationPrefix": "goal14.content.#33"
+    },
+    {
+      "type": "wide_scroller",
+      "title": "MPA coverage is lower in international waters than in national waters",
+      "subtitle": "Marine Protected Areas in World Database on Protected Areas (WDPA)",
+      "visdescription": "Map of the globe that shows Marine Protected Areas as well as national and international waters.",
+      "source": "UNEP-WCMC and IUCN. 2022. [link: https://www.protectedplanet.net Protected Planet:] The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM) [Online], November 2022, Cambridge, UK: UNEP-WCMC and IUCN.",
+      "graphic": "oceansscroller",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "intro",
+          "text": "Protecting marine ecosystems from destructive fishing requires control and regulation. <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">Marine protected areas</span> can help control destructive activities and safeguard ocean biodiversity.[reference: Sala, Enric, Juan Mayorga, Darcy Bradley, Reniel B. Cabral, Trisha B. Atwood, Arnaud Auber, William Cheung, et al. 2021. [link: https://doi.org/10.1038/s41586-021-03371-z \"Protecting the global ocean for biodiversity, food and climate.\"] <i>Nature</i> 592 (7854): 397-402.]",
+          "translationPrefix": "goal14.content.#34.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "mpas1",
+          "text": "The world has 18,427 <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">marine protected areas</span> covering a surface of close to 30 million square kilometers.",
+          "translationPrefix": "goal14.content.#34.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "mpas2",
+          "text": "Even though <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">marine protected areas</span> cover 8.2 percent of ocean waters, enforcement is challenging. Only 2.9 percent of the ocean is considered to be [emphasis: highly protected].[reference: Marine Conservation Institute. 2023. [link: http://mpatlas.org The Marine Protection Atlas].]",
+          "translationPrefix": "goal14.content.#34.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "eez1",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">National waters</span> represent each country’s exclusive economic zone (EEZ) [footnote: An EEZ is defined as “a zone under national jurisdiction (up to 200-nautical miles wide) declared in line with the provisions of the 1982 United Nations Convention of the Law of the Sea, within which the coastal state has the right to explore and exploit, and the responsibility to conserve and manage, the living and non-living resources” ([link: https://www.fao.org/faoterm/en/ FAO Term Portal]).] where they have the sole right to fish. Within its EEZ, a country may establish <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">marine protected areas</span> to protect its ecosystems. A study estimates that 90 percent of the top 10 percent priority areas for biodiversity conservation are contained within EEZs.[reference: Sala, Enric, Juan Mayorga, Darcy Bradley, Reniel B. Cabral, Trisha B. Atwood, Arnaud Auber, William Cheung, et al. 2021. [link: https://doi.org/10.1038/s41586-021-03371-z \"Protecting the global ocean for biodiversity, food and climate.\"] <i>Nature</i> 592 (7854): 397-402.]",
+          "translationPrefix": "goal14.content.#34.scenes.#3"
+        },
+        {
+          "type": "scene",
+          "id": "eez2",
+          "text": "<span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">International waters</span>, officially known as “high seas”, consist of the marine areas outside EEZs where no country has sole authority to take legal decisions.[footnote: High seas are “all parts of the sea that are not included in the exclusive economic zone, in the territorial sea or in the internal waters of a state, or in the archipelagic waters of an archipelagic state” (See [link: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf United Nations Convention on the Law of the Sea (UNCLOS)]).] Establishing <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">marine protected areas</span> in these waters is challenging due to the lack of international legal mechanisms.",
+          "translationPrefix": "goal14.content.#34.scenes.#4"
+        },
+        {
+          "type": "scene",
+          "id": "mexico",
+          "text": "In Mexico, approximately 22 percent of about 3.3 million km<sup>2</sup> of <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">marine and coastal areas</span> is covered by <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">marine protected areas</span>.",
+          "translationPrefix": "goal14.content.#34.scenes.#5"
+        },
+        {
+          "type": "scene",
+          "id": "australia",
+          "text": "In Australia, about 44 percent of 7.4 million km<sup>2</sup> of <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">marine and coastal areas</span> is covered by <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">marine protected areas</span>.",
+          "translationPrefix": "goal14.content.#34.scenes.#6"
+        },
+        {
+          "type": "scene",
+          "id": "kiribati",
+          "text": "The Phoenix Islands Protected Area (PIPA) is an <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">MPA</span> located within Kiribati’s <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">national waters</span>. Establishing this MPA has allowed the government of Kiribati to protect fish in the area.[footnote: It is now the world’s largest and deepest UNESCO World Heritage Site.] Moreover, turning this MPA into a no-take area in 2015 drastically reduced fishing activity to protect 400,000 km<sup>2</sup> of habitat for species such as sharks, dolphins, and tuna, as well as corals.[reference: Oceana. 2016. [link: https://usa.oceana.org/reports/global-fishing-watch-reveals-fisheries-management-success-phoenix-islands/ Global Fishing Watch reveals a fisheries management success in the Phoenix Islands].] Fishing activity in PIPA was common before 2015, but stricter regulation led to greater protection along this tropical ecosystem of underwater volcanoes.[footnote: Recently, UNESCO expressed its concern over the lifting of regulations in PIPA. See: [link: https://whc.unesco.org/en/news/2370/ UNESCO expresses concern over the lifting of fishing no-take zones in Kiribati’s Phoenix Islands Protected Area].]",
+          "translationPrefix": "goal14.content.#34.scenes.#7"
+        },
+        {
+          "type": "scene",
+          "id": "nazcasalas",
+          "text": "PIPA is entirely located inside Kiribati’s EEZ. In contrast, the <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-pink300)\">Salas y Gómez ridge</span> and the <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-pink300)\">Nazca ridge</span> in the southeastern Pacific are two examples of areas with rich biodiversity located in <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">international waters</span>. These underwater mountain chains are home to many species of sharks, rays, birds, corals, marine mammals, and turtles. Marine life in these ridges, almost entirely in international waters, is under threat from unregulated overfishing.[reference: Wagner, Daniel, Liesbeth van der Meer, Matthias Gorny, Javier Sellanes, Carlos F. Gaymer, Eulogio H. Soto, Erin E. Easton, et al. 2021. [link: https://www.sciencedirect.com/science/article/pii/S0308597X20310289 \"The Salas y Gómez and Nazca ridges: A review of the importance, opportunities and challenges for protecting a global diversity hotspot on the high seas.\"] <i>Marine Policy</i> 126: 104377.]",
+          "translationPrefix": "goal14.content.#34.scenes.#8"
+        },
+        {
+          "type": "scene",
+          "id": "nazcasalas",
+          "text": "No single country can establish an MPA along these <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-pink300)\">ridges</span> because they are mostly located in <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-teal300)\">international waters</span> (outside Chile’s and Peru’s <span class=\"highlighted\" style=\"--highlight-color: var(--color-base-purple400)\">national waters</span>). Establishing an <span class=\"highlighted-dark-text\" style=\"--highlight-color: var(--color-base-green200)\">MPA</span> could mitigate the impact of human activities on the rich local marine life, but requires an international agreement.",
+          "translationPrefix": "goal14.content.#34.scenes.#9"
+        }
+      ],
+      "translationPrefix": "goal14.content.#34"
+    },
+    {
+      "type": "text",
+      "text": "The [link: https://www.un.org/bbnj/ United Nations General Assembly] has agreed to develop an international legally-binding instrument for the conservation and sustainable use of marine biological diversity in areas beyond national jurisdiction. In March 2023, the negotiations reached a promising agreement to protect 30 percent of the world's high seas by 2030.[footnote: See: [link: https://www.un.org/en/delegate/un-delegates-reach-historic-agreement-marine-biodiversity UN delegates reach historic agreement on marine biodiversity].]",
+      "translationPrefix": "goal14.content.#35"
+    },
+    {
+      "type": "subhed",
+      "text": "Fish stocks are also affected by climate change",
+      "translationPrefix": "goal14.content.#36"
+    },
+    {
+      "type": "text",
+      "text": "Fish stocks are experiencing the impacts of overfishing, and also of climate change (see [goal: 13]). In 2022, the [link: https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/ IPCC] released its report on climate change impacts, adaptation and vulnerability, looking particularly into ocean and coastal ecosystems. According to the report, [emphasis: acidification, warming, and deoxygenation] are all pushing marine ecosystems beyond their limits, which may lead to the collapse of regional fish stocks and aquaculture. A study estimates that the amount we can potentially fish could decline as much as 40 percent by 2050.[reference: Lam, Vicky W. Y., Edward H. Allison, Johann D. Bell, Jessica Blythe, William W. L. Cheung, Thomas L. Frölicher, Maria A. Gasalla, and U. Rashid Sumaila. 2020. [link: https://doi.org/10.1038/s43017-020-0071-9 \"Climate change, tropical fisheries and prospects for sustainable development.\"] <i>Nature Reviews Earth & Environment</i> 1 (9): 440--454.]",
+      "translationPrefix": "goal14.content.#37"
+    },
+    {
+      "type": "text",
+      "text": "How well fish can adapt to climate change may depend on the extent to which migratory patterns are affected.[reference: Dahlke, Flemming T., Sylke Wohlrab, Martin Butzin, and Hans-Otto Pörtner. 2020. [link: https://www.science.org/doi/abs/10.1126/science.aaz3658 \"Thermal bottlenecks in the life cycle define climate vulnerability of fish.\"] <i>Science</i> 369 (6499): 65-70.] Stocks may migrate toward the poles or into deeper waters as sea temperatures rise. Some species may adapt easily while others could find it difficult to cope with changing conditions. It is possible that climate change would benefit smaller fish that can maintain high activity in warm, oxygen-poor water, with negative consequences for larger fish.[reference: Salvatteci, Renato, Ralph R. Schneider, Eric Galbraith, David Field, Thomas Blanz, Thorsten Bauersachs, Xavier Crosta, et al. 2022. [link: https://www.science.org/doi/abs/10.1126/science.abj0270 \"Smaller fish species in a warm and oxygen-poor Humboldt Current system.\"] <i>Science</i> 375 (6576): 101-104.]",
+      "translationPrefix": "goal14.content.#38"
+    },
+    {
+      "type": "subhed",
+      "text": "The livelihood of fishing communities is threatened by overfishing",
+      "translationPrefix": "goal14.content.#39"
+    },
+    {
+      "type": "text",
+      "text": "Overfishing is undesirable for the fishing industry and workers in the long run. Approximately 60 million people are employed part or full-time in small-scale fisheries - about 90 percent of the total fishers’ workforce.[footnote: Small-scale fisheries can be distinguished from large-scale fisheries according to their gear, type of vessel, fishing trip duration, type of storage, number of employees, destination of catch, and area of operation.] Small-scale fisheries account for 40 percent of global catch, and represent one of the food production sectors most vulnerable to climate change.[reference: FAO, Duke University, and WorldFish. 2023. [link: https://doi.org/10.4060/cc4576en Illuminating Hidden Harvests – The contributions of small-scale fisheries to sustainable development]. Rome.] In comparison, large-scale fisheries employ 7.3 million people, about 10 percent of the workforce, and account for 60 percent of the global catch.",
+      "translationPrefix": "goal14.content.#40"
+    },
+    {
+      "type": "vis",
+      "graphic": "fishing_sectors",
+      "path": "data/goal14/goal14.fishing_sectors.json",
+      "title": "Large-scale fisheries account for 60 percent of the global catch from capture fisheries",
+      "subtitle": "Share of tonnage",
+      "visdescription": "Pie chart that shows that the percentage of global capture from large and small-scale fisheries is 60 and 40 percent respectively.",
+      "source": "FAO, Duke University, and WorldFish. 2023. [link: https://doi.org/10.4060/cc4576en Illuminating Hidden Harvests – The contributions of small-scale fisheries to sustainable development]. Rome.",
+      "largescale": "Large-scale fisheries",
+      "smallscale": "Small-scale fisheries",
+      "size": "main",
+      "translationPrefix": "goal14.content.#41"
+    },
+    {
+      "type": "text",
+      "text": "Small-scale fishing communities around the world are more vulnerable to the negative consequences of overfishing, pollution, habitat destruction, and climate change than large-scale fishers.[reference: Cisneros-Montemayor, Andrés M., Daniel Pauly, Lauren V. Weatherdon, and Yoshitaka Ota. 2016. [link: https://doi.org/10.1371/journal.pone.0166681 \"A Global Estimate of Seafood Consumption by Coastal Indigenous Peoples.\"] PLOS ONE (Public Library of Science) 11 (12): 1-16.] Indigenous peoples, for example, consume more marine resources than non-indigenous populations and are highly vulnerable to changes in marine ecosystems. A study estimates that the average annual fish consumption per capita among coastal indigenous populations is 74 kg compared to a global average of 19 kg.[reference: Cisneros-Montemayor, Andrés M., Daniel Pauly, Lauren V. Weatherdon, and Yoshitaka Ota. 2016. [link: https://doi.org/10.1371/journal.pone.0166681 \"A Global Estimate of Seafood Consumption by Coastal Indigenous Peoples.\"] PLOS ONE (Public Library of Science) 11 (12): 1-16.]",
+      "translationPrefix": "goal14.content.#42"
+    },
+    {
+      "type": "text",
+      "text": "It is hard to monitor where people fish and how much they fish. One way is to track fishing vessels using [link: https://globalfishingwatch.org/our-technology/ automatic identification system (AIS) data]. Such data can provide a proxy for fishing efforts by converting the location and time spent by vessels in an area into total fishing hours per square kilometer. Small-scale fishing is more difficult to track as these vessels sometimes lack the technology to share their location.[footnote: It is possible for fishing vessels to turn off their AIS positioning systems to cover up illegal activities.]",
+      "translationPrefix": "goal14.content.#43"
+    },
+    {
+      "type": "text_emphasis",
+      "text": "As much as 80 percent of the fishing that occurs in international waters is by fishing vessels that carry automatic identification systems (AIS).[reference: [link: https://globalfishingwatch.org/our-technology/ Global Fishing Watch]. Our Technology.]",
+      "translationPrefix": "goal14.content.#44"
+    },
+    {
+      "type": "text",
+      "text": "AIS data indicates that large fishing fleets from high-income and upper-middle-income countries account for 97 percent of trackable fishing. The analysis also reveals that these fleets are increasingly fishing in the national waters of low and lower-middle-income countries.[reference: McCauley, Douglas J., Caroline Jablonicky, Edward H. Allison, Christopher D. Golden, Francis H. Joyce, Juan Mayorga, and David Kroodsma. 2018. [link: https://www.science.org/doi/abs/10.1126/sciadv.aau2161 \"Wealthy countries dominate industrial fishing.\"] <i>Science Advances</i> 4 (8): eaau2161.] Less than 3 percent of apparent fishing hours were attributed to fishing vessels from low and lower-middle-income countries.[footnote: Fishing hours are “apparent” because they are an approximation of the actual fishing hours spent by a fishing vessel. Fishing hours are not reported, but estimated by Global Fishing Watch by identifying consecutive AIS positions over a period of time in a given area.]",
+      "translationPrefix": "goal14.content.#45"
+    },
+    {
+      "type": "wide_scroller",
+      "graphic": "fishinghours_income_scroller",
+      "title": "High and upper-middle-income countries are responsible for most trackable fishing",
+      "subtitle": "",
+      "visdescription": "Raster map of the globe that shows fishing effort (fishing hours) from Global Fishing Watch in 2021.",
+      "source": "Total apparent fishing hours for each 0.1° x 0.1° degree cell in 2021. [link: https://globalfishingwatch.org/dataset-and-code-fishing-effort/ Global Fishing Watch] vessel data was aggregated by the vessel's country of origin and then by the country's income level.",
+      "size": "content",
+      "scenes": [
+        {
+          "type": "scene",
+          "id": "HIC",
+          "subtitle": "Trackable fishing activity by high-income countries",
+          "text": "Trackable fishing activity by [emphasis: high-income countries] includes fishing carried out by the United States, Canada, Japan, South Korea, Australia, Chile, and most coastal countries in Europe.",
+          "translationPrefix": "goal14.content.#46.scenes.#0"
+        },
+        {
+          "type": "scene",
+          "id": "UMC",
+          "subtitle": "Trackable fishing activity by upper-middle-income countries",
+          "text": "Trackable fishing activity by [emphasis: upper-middle-income countries] is primarily carried out by China, Russia, Indonesia, Mexico, and most of the coastal countries in South America.",
+          "translationPrefix": "goal14.content.#46.scenes.#1"
+        },
+        {
+          "type": "scene",
+          "id": "LMC",
+          "subtitle": "Trackable fishing activity by lower-middle-income countries",
+          "text": "Among [emphasis: lower-middle-income countries], most trackable fishing is done by India, Bangladesh, Vietnam, and several coastal countries in Sub-Saharan Africa like Senegal, Ghana, Nigeria, Kenya, and Tanzania.",
+          "translationPrefix": "goal14.content.#46.scenes.#2"
+        },
+        {
+          "type": "scene",
+          "id": "LIC",
+          "subtitle": "Trackable fishing activity by low-income countries",
+          "text": "Trackable fishing activity by [emphasis: low-income countries] is limited. It includes countries such as Sierra Leone, Liberia, Mozambique, Madagascar, and Somalia.",
+          "translationPrefix": "goal14.content.#46.scenes.#3"
+        }
+      ],
+      "translationPrefix": "goal14.content.#46"
+    },
+    {
+      "type": "text",
+      "text": "In some cases, countries may sell fishing rights to other countries to generate revenue. For example, the [link: https://www.pnatuna.com/ Nauru Agreement] was signed by eight countries [footnote: The Federated States of Micronesia, Kiribati, the Marshall Islands, Nauru, Palau, Papua New Guinea, Solomon Islands, and Tuvalu.] in the Pacific that collectively control 25–30 percent of the world's tuna supply. Small island developing states such as these depend significantly on marine resources for food security and this agreement seeks to collectively control the fishing activities of foreign vessels in these countries' national waters.",
+      "translationPrefix": "goal14.content.#47"
+    },
+    {
+      "type": "text",
+      "text": "Achieving [goal: 14] involves bringing fish stocks under effective management, increasing consumer awareness, expanding MPA coverage, and removing subsidies that may be contributing to overfishing.[reference: FAO. 2022. [link: https://www.fao.org/documents/card/en/c/cc0459en/ Blue Transformation - Roadmap 2022–2030: A vision for FAO’s work on aquatic food systems]. Rome.] Once countries develop sufficient statistical capacity to measure and track their fish stocks, management plans can be implemented to replenish overfished stocks. However, the application of scientific methods remains a major challenge in many countries where data is limited and where fish stocks remain unassessed and unmanaged.[reference: Hilborn, Ray, Ricardo Oscar Amoroso, Christopher M. Anderson, Julia K. Baum, Trevor A. Branch, Christopher Costello, Carryn L. de Moor, et al. 2020. [link: https://www.pnas.org/doi/abs/10.1073/pnas.1909726116 \"Effective fisheries management instrumental in improving fish stock status.\"] <i>Proceedings of the National Academy of Sciences</i> 117 (4): 2218-2224.]",
+      "translationPrefix": "goal14.content.#48"
+    },
+    {
+      "type": "supplementary",
+      "charts": [
+        {
+          "title": "In 2021, the world’s average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%) was 45 percent, but coverage varies widely among countries.",
+          "shorttitle": "Protection of marine key biodiversity areas is still limited",
+          "subtitle": "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas by country, 2021 (map) and world level, 2000-2021 (bottom left)",
+          "note": "Key biodiversity areas meet certain criteria regarding threatened biodiversity, geographically restricted biodiversity, ecological integrity, biological processes, and irreplaceability.",
+          "source": "[link: https://unstats.un.org/sdgs/dataportal/SDMXMetadataPage?14.5.1-ER_MRN_MPA Global SDG Indicators Database]. United Nations Statistics Division (UNSD).",
+          "target": "14.5",
+          "image": "goal14/sdg14_kba_map_area.png",
+          "translationPrefix": "goal14.content.#49.charts.#0"
+        },
+        {
+          "title": "Many countries have taken important steps to combat illegal, unreported and unregulated fishing, but more concerted efforts are needed.",
+          "shorttitle": "More efforts are needed to combat IUU fishing",
+          "subtitle": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest), 2020-2022",
+          "note": "This chart only includes countries with reported data for 2020 and 2022. For a list of instruments please see metadata for indicator 14.6.1 in the UN SDG database.",
+          "source": "[link: https://unstats.un.org/sdgs/dataportal/SDMXMetadataPage?14.6.1-ER_REG_UNFCIM Global SDG Indicators Database]. United Nations Statistics Division (UNSD).",
+          "target": "14.6",
+          "image": "goal14/sdg14_fishing_inst.png",
+          "translationPrefix": "goal14.content.#49.charts.#1"
+        }
+      ],
+      "translationPrefix": "goal14.content.#49"
+    }
+  ]
+}

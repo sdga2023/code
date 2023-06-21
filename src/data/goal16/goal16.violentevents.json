@@ -1,0 +1,772 @@
+[
+  {
+    "country": "Afghanistan",
+    "iso3c": "AFG",
+    "acled": 2307
+  },
+  {
+    "country": "Albania",
+    "iso3c": "ALB",
+    "acled": 3
+  },
+  {
+    "country": "Algeria",
+    "iso3c": "DZA",
+    "acled": 17
+  },
+  {
+    "country": "Angola",
+    "iso3c": "AGO",
+    "acled": 21
+  },
+  {
+    "country": "Argentina",
+    "iso3c": "ARG",
+    "acled": 23
+  },
+  {
+    "country": "Armenia",
+    "iso3c": "ARM",
+    "acled": 145
+  },
+  {
+    "country": "Australia",
+    "iso3c": "AUS",
+    "acled": 1
+  },
+  {
+    "country": "Austria",
+    "iso3c": "AUT",
+    "acled": 1
+  },
+  {
+    "country": "Azerbaijan",
+    "iso3c": "AZE",
+    "acled": 385
+  },
+  {
+    "country": "Bahamas",
+    "iso3c": "BHS",
+    "acled": 1
+  },
+  {
+    "country": "Bahrain",
+    "iso3c": "BHR",
+    "acled": 8
+  },
+  {
+    "country": "Bangladesh",
+    "iso3c": "BGD",
+    "acled": 235
+  },
+  {
+    "country": "Belarus",
+    "iso3c": "BLR",
+    "acled": 42
+  },
+  {
+    "country": "Belgium",
+    "iso3c": "BEL",
+    "acled": 2
+  },
+  {
+    "country": "Belize",
+    "iso3c": "BLZ",
+    "acled": 20
+  },
+  {
+    "country": "Benin",
+    "iso3c": "BEN",
+    "acled": 129
+  },
+  {
+    "country": "Bolivia",
+    "iso3c": "BOL",
+    "acled": 6
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "acled": 4
+  },
+  {
+    "country": "Brazil",
+    "iso3c": "BRA",
+    "acled": 8873
+  },
+  {
+    "country": "Burkina Faso",
+    "iso3c": "BFA",
+    "acled": 1641
+  },
+  {
+    "country": "Burundi",
+    "iso3c": "BDI",
+    "acled": 327
+  },
+  {
+    "country": "Cambodia",
+    "iso3c": "KHM",
+    "acled": 5
+  },
+  {
+    "country": "Cameroon",
+    "iso3c": "CMR",
+    "acled": 675
+  },
+  {
+    "country": "Canada",
+    "iso3c": "CAN",
+    "acled": 1
+  },
+  {
+    "country": "Cape Verde",
+    "iso3c": "CPV",
+    "acled": 1
+  },
+  {
+    "country": "Central African Republic",
+    "iso3c": "CAF",
+    "acled": 256
+  },
+  {
+    "country": "Chad",
+    "iso3c": "TCD",
+    "acled": 111
+  },
+  {
+    "country": "Chile",
+    "iso3c": "CHL",
+    "acled": 134
+  },
+  {
+    "country": "China",
+    "iso3c": "CHN",
+    "acled": 168
+  },
+  {
+    "country": "Colombia",
+    "iso3c": "COL",
+    "acled": 2461
+  },
+  {
+    "country": "Comoros",
+    "iso3c": "COM",
+    "acled": 2
+  },
+  {
+    "country": "Costa Rica",
+    "iso3c": "CRI",
+    "acled": 5
+  },
+  {
+    "country": "Cuba",
+    "iso3c": "CUB",
+    "acled": 62
+  },
+  {
+    "country": "Cyprus",
+    "iso3c": "CYP",
+    "acled": 10
+  },
+  {
+    "country": "Czech Republic",
+    "iso3c": "CZE",
+    "acled": 1
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "iso3c": "COD",
+    "acled": 2823
+  },
+  {
+    "country": "Djibouti",
+    "iso3c": "DJI",
+    "acled": 3
+  },
+  {
+    "country": "Dominican Republic",
+    "iso3c": "DOM",
+    "acled": 19
+  },
+  {
+    "country": "East Timor",
+    "iso3c": "UNK",
+    "acled": 2
+  },
+  {
+    "country": "Ecuador",
+    "iso3c": "ECU",
+    "acled": 19
+  },
+  {
+    "country": "Egypt",
+    "iso3c": "EGY",
+    "acled": 186
+  },
+  {
+    "country": "El Salvador",
+    "iso3c": "SLV",
+    "acled": 273
+  },
+  {
+    "country": "Eritrea",
+    "iso3c": "ERI",
+    "acled": 4
+  },
+  {
+    "country": "eSwatini",
+    "iso3c": "SWZ",
+    "acled": 40
+  },
+  {
+    "country": "Ethiopia",
+    "iso3c": "ETH",
+    "acled": 1225
+  },
+  {
+    "country": "Fiji",
+    "iso3c": "FJI",
+    "acled": 1
+  },
+  {
+    "country": "Finland",
+    "iso3c": "FIN",
+    "acled": 2
+  },
+  {
+    "country": "France",
+    "iso3c": "FRA",
+    "acled": 31
+  },
+  {
+    "country": "Gabon",
+    "iso3c": "GAB",
+    "acled": 4
+  },
+  {
+    "country": "Gambia",
+    "iso3c": "GMB",
+    "acled": 4
+  },
+  {
+    "country": "Georgia",
+    "iso3c": "GEO",
+    "acled": 1
+  },
+  {
+    "country": "Germany",
+    "iso3c": "DEU",
+    "acled": 3
+  },
+  {
+    "country": "Ghana",
+    "iso3c": "GHA",
+    "acled": 99
+  },
+  {
+    "country": "Greece",
+    "iso3c": "GRC",
+    "acled": 48
+  },
+  {
+    "country": "Guatemala",
+    "iso3c": "GTM",
+    "acled": 724
+  },
+  {
+    "country": "Guinea",
+    "iso3c": "GIN",
+    "acled": 26
+  },
+  {
+    "country": "Guinea-Bissau",
+    "iso3c": "GNB",
+    "acled": 12
+  },
+  {
+    "country": "Guyana",
+    "iso3c": "GUY",
+    "acled": 5
+  },
+  {
+    "country": "Haiti",
+    "iso3c": "HTI",
+    "acled": 639
+  },
+  {
+    "country": "Honduras",
+    "iso3c": "HND",
+    "acled": 587
+  },
+  {
+    "country": "Hungary",
+    "iso3c": "HUN",
+    "acled": 1
+  },
+  {
+    "country": "India",
+    "iso3c": "IND",
+    "acled": 1026
+  },
+  {
+    "country": "Indonesia",
+    "iso3c": "IDN",
+    "acled": 124
+  },
+  {
+    "country": "Iran",
+    "iso3c": "IRN",
+    "acled": 235
+  },
+  {
+    "country": "Iraq",
+    "iso3c": "IRQ",
+    "acled": 5669
+  },
+  {
+    "country": "Israel",
+    "iso3c": "ISR",
+    "acled": 67
+  },
+  {
+    "country": "Italy",
+    "iso3c": "ITA",
+    "acled": 11
+  },
+  {
+    "country": "Ivory Coast",
+    "iso3c": "CIV",
+    "acled": 41
+  },
+  {
+    "country": "Jamaica",
+    "iso3c": "JAM",
+    "acled": 350
+  },
+  {
+    "country": "Japan",
+    "iso3c": "JPN",
+    "acled": 1
+  },
+  {
+    "country": "Jordan",
+    "iso3c": "JOR",
+    "acled": 5
+  },
+  {
+    "country": "Kazakhstan",
+    "iso3c": "KAZ",
+    "acled": 121
+  },
+  {
+    "country": "Kenya",
+    "iso3c": "KEN",
+    "acled": 438
+  },
+  {
+    "country": "Kosovo",
+    "iso3c": "XKX",
+    "acled": 19
+  },
+  {
+    "country": "Kyrgyzstan",
+    "iso3c": "KGZ",
+    "acled": 53
+  },
+  {
+    "country": "Lebanon",
+    "iso3c": "LBN",
+    "acled": 141
+  },
+  {
+    "country": "Lesotho",
+    "iso3c": "LSO",
+    "acled": 9
+  },
+  {
+    "country": "Liberia",
+    "iso3c": "LBR",
+    "acled": 9
+  },
+  {
+    "country": "Libya",
+    "iso3c": "LBY",
+    "acled": 112
+  },
+  {
+    "country": "Madagascar",
+    "iso3c": "MDG",
+    "acled": 156
+  },
+  {
+    "country": "Malawi",
+    "iso3c": "MWI",
+    "acled": 10
+  },
+  {
+    "country": "Malaysia",
+    "iso3c": "MYS",
+    "acled": 4
+  },
+  {
+    "country": "Mali",
+    "iso3c": "MLI",
+    "acled": 1342
+  },
+  {
+    "country": "Mauritania",
+    "iso3c": "MRT",
+    "acled": 5
+  },
+  {
+    "country": "Mauritius",
+    "iso3c": "MUS",
+    "acled": 15
+  },
+  {
+    "country": "Mayotte",
+    "iso3c": "UNK",
+    "acled": 3
+  },
+  {
+    "country": "Mexico",
+    "iso3c": "MEX",
+    "acled": 6779
+  },
+  {
+    "country": "Moldova",
+    "iso3c": "MDA",
+    "acled": 12
+  },
+  {
+    "country": "Montenegro",
+    "iso3c": "MNE",
+    "acled": 1
+  },
+  {
+    "country": "Morocco",
+    "iso3c": "MAR",
+    "acled": 46
+  },
+  {
+    "country": "Mozambique",
+    "iso3c": "MOZ",
+    "acled": 474
+  },
+  {
+    "country": "Myanmar",
+    "iso3c": "MMR",
+    "acled": 9286
+  },
+  {
+    "country": "Namibia",
+    "iso3c": "NAM",
+    "acled": 2
+  },
+  {
+    "country": "Nepal",
+    "iso3c": "NPL",
+    "acled": 39
+  },
+  {
+    "country": "Netherlands",
+    "iso3c": "NLD",
+    "acled": 1
+  },
+  {
+    "country": "Nicaragua",
+    "iso3c": "NIC",
+    "acled": 12
+  },
+  {
+    "country": "Niger",
+    "iso3c": "NER",
+    "acled": 565
+  },
+  {
+    "country": "Nigeria",
+    "iso3c": "NGA",
+    "acled": 3324
+  },
+  {
+    "country": "North Korea",
+    "iso3c": "PRK",
+    "acled": 17
+  },
+  {
+    "country": "North Macedonia",
+    "iso3c": "MKD",
+    "acled": 1
+  },
+  {
+    "country": "Norway",
+    "iso3c": "NOR",
+    "acled": 2
+  },
+  {
+    "country": "Oman",
+    "iso3c": "OMN",
+    "acled": 1
+  },
+  {
+    "country": "Pakistan",
+    "iso3c": "PAK",
+    "acled": 1006
+  },
+  {
+    "country": "Palestine",
+    "iso3c": "PSE",
+    "acled": 798
+  },
+  {
+    "country": "Panama",
+    "iso3c": "PAN",
+    "acled": 1
+  },
+  {
+    "country": "Papua New Guinea",
+    "iso3c": "PNG",
+    "acled": 89
+  },
+  {
+    "country": "Paraguay",
+    "iso3c": "PRY",
+    "acled": 30
+  },
+  {
+    "country": "Peru",
+    "iso3c": "PER",
+    "acled": 7
+  },
+  {
+    "country": "Philippines",
+    "iso3c": "PHL",
+    "acled": 820
+  },
+  {
+    "country": "Poland",
+    "iso3c": "POL",
+    "acled": 1
+  },
+  {
+    "country": "Puerto Rico",
+    "iso3c": "PRI",
+    "acled": 234
+  },
+  {
+    "country": "Republic of Congo",
+    "iso3c": "COG",
+    "acled": 6
+  },
+  {
+    "country": "Reunion",
+    "iso3c": "REU",
+    "acled": 3
+  },
+  {
+    "country": "Romania",
+    "iso3c": "ROM",
+    "acled": 4
+  },
+  {
+    "country": "Russia",
+    "iso3c": "RUS",
+    "acled": 410
+  },
+  {
+    "country": "Rwanda",
+    "iso3c": "RWA",
+    "acled": 21
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "iso3c": "STP",
+    "acled": 2
+  },
+  {
+    "country": "Saudi Arabia",
+    "iso3c": "SAU",
+    "acled": 41
+  },
+  {
+    "country": "Senegal",
+    "iso3c": "SEN",
+    "acled": 19
+  },
+  {
+    "country": "Serbia",
+    "iso3c": "SRB",
+    "acled": 2
+  },
+  {
+    "country": "Sierra Leone",
+    "iso3c": "SLE",
+    "acled": 6
+  },
+  {
+    "country": "Sint Maarten",
+    "iso3c": "SXM",
+    "acled": 2
+  },
+  {
+    "country": "Slovenia",
+    "iso3c": "SVN",
+    "acled": 1
+  },
+  {
+    "country": "Solomon Islands",
+    "iso3c": "SLB",
+    "acled": 1
+  },
+  {
+    "country": "Somalia",
+    "iso3c": "SOM",
+    "acled": 2930
+  },
+  {
+    "country": "South Africa",
+    "iso3c": "ZAF",
+    "acled": 146
+  },
+  {
+    "country": "South Sudan",
+    "iso3c": "SSD",
+    "acled": 597
+  },
+  {
+    "country": "Spain",
+    "iso3c": "ESP",
+    "acled": 4
+  },
+  {
+    "country": "Sri Lanka",
+    "iso3c": "LKA",
+    "acled": 2
+  },
+  {
+    "country": "Sudan",
+    "iso3c": "SDN",
+    "acled": 678
+  },
+  {
+    "country": "Suriname",
+    "iso3c": "SUR",
+    "acled": 3
+  },
+  {
+    "country": "Sweden",
+    "iso3c": "SWE",
+    "acled": 4
+  },
+  {
+    "country": "Switzerland",
+    "iso3c": "CHE",
+    "acled": 2
+  },
+  {
+    "country": "Syria",
+    "iso3c": "SYR",
+    "acled": 10483
+  },
+  {
+    "country": "Taiwan",
+    "iso3c": "TWN",
+    "acled": 2
+  },
+  {
+    "country": "Tajikistan",
+    "iso3c": "TJK",
+    "acled": 23
+  },
+  {
+    "country": "Tanzania",
+    "iso3c": "TZA",
+    "acled": 25
+  },
+  {
+    "country": "Thailand",
+    "iso3c": "THA",
+    "acled": 108
+  },
+  {
+    "country": "Togo",
+    "iso3c": "TGO",
+    "acled": 29
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "acled": 330
+  },
+  {
+    "country": "Tunisia",
+    "iso3c": "TUN",
+    "acled": 4
+  },
+  {
+    "country": "Turkey",
+    "iso3c": "TUR",
+    "acled": 324
+  },
+  {
+    "country": "Uganda",
+    "iso3c": "UGA",
+    "acled": 245
+  },
+  {
+    "country": "Ukraine",
+    "iso3c": "UKR",
+    "acled": 34631
+  },
+  {
+    "country": "United Arab Emirates",
+    "iso3c": "ARE",
+    "acled": 7
+  },
+  {
+    "country": "United Kingdom",
+    "iso3c": "GBR",
+    "acled": 5
+  },
+  {
+    "country": "United States",
+    "iso3c": "USA",
+    "acled": 94
+  },
+  {
+    "country": "Uruguay",
+    "iso3c": "URY",
+    "acled": 2
+  },
+  {
+    "country": "Uzbekistan",
+    "iso3c": "UZB",
+    "acled": 27
+  },
+  {
+    "country": "Venezuela",
+    "iso3c": "VEN",
+    "acled": 646
+  },
+  {
+    "country": "Yemen",
+    "iso3c": "YEM",
+    "acled": 6429
+  },
+  {
+    "country": "Zambia",
+    "iso3c": "ZMB",
+    "acled": 9
+  },
+  {
+    "country": "Zimbabwe",
+    "iso3c": "ZWE",
+    "acled": 38
+  },
+  {
+    "country": null,
+    "iso3c": "WLD",
+    "acled": 116723
+  }
+]

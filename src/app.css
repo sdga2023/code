@@ -1,0 +1,151 @@
+@charset "UTF-8";
+
+/*! loop v1.1.0 */
+/* Set default font family */
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese';
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1440,17,1.333,6,2,&s=0.75,1.5|2|3|4|6,s-l */
+
+:root {
+  --step--2: clamp(0.6rem, calc(0.72rem + -0.14vw), 0.69rem);
+  --step--1: clamp(0.8rem, calc(0.84rem + -0.05vw), 0.83rem);
+  --step-0: clamp(1rem, calc(0.98rem + 0.09vw), 1.06rem);
+  --step-1: clamp(1.2rem, calc(1.14rem + 0.31vw), 1.42rem);
+  --step-2: clamp(1.44rem, calc(1.31rem + 0.64vw), 1.89rem);
+  --step-3: clamp(1.73rem, calc(1.5rem + 1.13vw), 2.52rem);
+  --step-4: clamp(2.07rem, calc(1.71rem + 1.83vw), 3.35rem);
+  --step-5: clamp(2.49rem, calc(1.92rem + 2.83vw), 4.47rem);
+  --step-6: clamp(2.99rem, calc(2.14rem + 4.25vw), 5.96rem);
+}
+
+/* @link https://utopia.fyi/type/calculator?c=320,14,1.2,1440,16,1.333,6,2,&s=0.75,1.5|2|3|4|6,s-l */
+/*  old font sizes
+:root {
+  --step--2: clamp(0.56rem, calc(0.62rem + -0.06vw), 0.61rem);
+  --step--1: clamp(0.73rem, calc(0.72rem + 0.03vw), 0.75rem);
+  --step-0: clamp(0.88rem, calc(0.84rem + 0.18vw), 1rem);
+  --step-1: clamp(1.05rem, calc(0.97rem + 0.4vw), 1.33rem);
+  --step-2: clamp(1.26rem, calc(1.11rem + 0.74vw), 1.78rem);
+  --step-3: clamp(1.51rem, calc(1.27rem + 1.22vw), 2.37rem);
+  --step-4: clamp(1.81rem, calc(1.43rem + 1.92vw), 3.16rem);
+  --step-5: clamp(2.18rem, calc(1.6rem + 2.9vw), 4.21rem);
+  --step-6: clamp(2.61rem, calc(1.76rem + 4.28vw), 5.61rem);
+}*/
+
+/* @link https://utopia.fyi/space/calculator/?c=320,14,1.2,1440,16,1.333,6,2,&s=0.5|0.25|0.125,1.5|2|3|4|6|8,2xs-m|l-2xl|s-m */
+
+:root {
+  --space-3xs: clamp(0.13rem, calc(0.13rem + 0vw), 0.13rem);
+  --space-2xs: clamp(0.25rem, calc(0.25rem + 0vw), 0.25rem);
+  --space-xs: clamp(0.44rem, calc(0.42rem + 0.09vw), 0.5rem);
+  --space-s: clamp(0.88rem, calc(0.84rem + 0.18vw), 1rem);
+  --space-m: clamp(1.31rem, calc(1.26rem + 0.27vw), 1.5rem);
+  --space-l: clamp(1.75rem, calc(1.68rem + 0.36vw), 2rem);
+  --space-xl: clamp(2.63rem, calc(2.52rem + 0.54vw), 3rem);
+  --space-2xl: clamp(3.5rem, calc(3.36rem + 0.71vw), 4rem);
+  --space-3xl: clamp(5.25rem, calc(5.04rem + 1.07vw), 6rem);
+  --space-4xl: clamp(7rem, calc(6.71rem + 1.43vw), 8rem);
+
+  /* One-up pairs */
+  --space-3xs-2xs: clamp(0.13rem, calc(0.09rem + 0.18vw), 0.25rem);
+  --space-2xs-xs: clamp(0.25rem, calc(0.18rem + 0.36vw), 0.5rem);
+  --space-xs-s: clamp(0.44rem, calc(0.28rem + 0.8vw), 1rem);
+  --space-s-m: clamp(0.88rem, calc(0.7rem + 0.89vw), 1.5rem);
+  --space-m-l: clamp(1.31rem, calc(1.12rem + 0.98vw), 2rem);
+  --space-l-xl: clamp(1.75rem, calc(1.39rem + 1.79vw), 3rem);
+  --space-xl-2xl: clamp(2.63rem, calc(2.23rem + 1.96vw), 4rem);
+  --space-2xl-3xl: clamp(3.5rem, calc(2.79rem + 3.57vw), 6rem);
+  --space-3xl-4xl: clamp(5.25rem, calc(4.46rem + 3.93vw), 8rem);
+
+  /* Custom pairs */
+  --space-2xs-m: clamp(0.25rem, calc(-0.11rem + 1.79vw), 1.5rem);
+  --space-l-2xl: clamp(1.75rem, calc(1.11rem + 3.21vw), 4rem);
+  --space-s-m: clamp(0.88rem, calc(0.7rem + 0.89vw), 1.5rem);
+}
+
+/* easier variable names for dev convenience: */
+:root {
+  --font-size-5xl: var(--step-6);
+  --font-size-4xl: var(--step-5);
+  --font-size-3xl: var(--step-4);
+  --font-size-2xl: var(--step-3);
+  --font-size-xl: var(--step-2);
+  --font-size-l: var(--step-1);
+  --font-size-m: var(--step-0);
+  --font-size-s: var(--step--1);
+  --font-size-xs: var(--step--2);
+}
+
+/* responsiveness: */
+
+:root {
+  --loop-header-height: 50px;
+  --max-vis-height: 1024px;
+
+  /* desktop (> 1280): */
+  /* content-width is set to fixed value */
+
+  --content-width: 1104px;
+}
+
+/* content-width is full width with side navigation: */
+@media screen and (max-width: 1280px) {
+  :root {
+    --content-width: calc(100vw - 66px - var(--space-s-m) * 2);
+  }
+}
+
+/* grid: */
+:root {
+  --grid-gutter: 24px;
+  --col-1: calc((var(--content-width) - 11 * var(--grid-gutter)) / 12);
+  --col-2: calc(var(--col-1) * 2 + var(--grid-gutter));
+  --col-3: calc(var(--col-1) * 3 + var(--grid-gutter) * 2);
+  --col-4: calc(var(--col-1) * 4 + var(--grid-gutter) * 3);
+  --col-5: calc(var(--col-1) * 5 + var(--grid-gutter) * 4);
+  --col-6: calc(var(--col-1) * 6 + var(--grid-gutter) * 5);
+  --col-7: calc(var(--col-1) * 7 + var(--grid-gutter) * 6);
+  --col-8: calc(var(--col-1) * 8 + var(--grid-gutter) * 7);
+  --col-9: calc(var(--col-1) * 9 + var(--grid-gutter) * 8);
+  --col-10: calc(var(--col-1) * 10 + var(--grid-gutter) * 9);
+  --col-11: calc(var(--col-1) * 11 + var(--grid-gutter) * 10);
+  --col-12: calc(var(--col-1) * 12 + var(--grid-gutter) * 11);
+}
+
+.layout-main {
+  width: var(--col-8);
+  margin: 0 auto;
+}
+
+.layout-content {
+  width: var(--col-12);
+  margin: 0 auto;
+}
+
+.layout-full {
+  width: 100%;
+}
+
+/* 12-col layout with mobile navigation: */
+@media screen and (max-height: 599px) {
+  :root {
+    --content-width: calc(100vw - var(--space-s-m) * 2);
+  }
+}
+
+/* 6-col layout with mobile navigation: */
+@media screen and (max-width: 872px) {
+  :root {
+    --content-width: calc(100vw - var(--space-s-m) * 2);
+    --col-1: calc((var(--content-width) - 5 * var(--grid-gutter)) / 6);
+    --col-7: var(--col-6);
+    --col-8: var(--col-6);
+    --col-9: var(--col-6);
+    --col-10: var(--col-6);
+    --col-11: var(--col-6);
+    --col-12: var(--col-6);
+  }
+}

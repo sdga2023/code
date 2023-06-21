@@ -1,0 +1,22 @@
+[
+  {
+    "year": 2019,
+    "fragile_lic": 46.2,
+    "other_lic": 9.3
+  },
+  {
+    "year": 2020,
+    "fragile_lic": 62.9,
+    "other_lic": 11.1
+  },
+  {
+    "year": 2021,
+    "fragile_lic": 79.4,
+    "other_lic": 11.7
+  },
+  {
+    "year": 2022,
+    "fragile_lic": 90.7,
+    "other_lic": 14
+  }
+]

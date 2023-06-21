@@ -1,0 +1,1059 @@
+[
+  {
+    "code": "CHN",
+    "median": 0.1846902658,
+    "LCI": 0.09672115114,
+    "UCI": 0.3305030874,
+    "country": "China"
+  },
+  {
+    "code": "KHM",
+    "median": 0.1872170573,
+    "LCI": 0.1302079213,
+    "UCI": 0.2666220389,
+    "country": "Cambodia"
+  },
+  {
+    "code": "IDN",
+    "median": 0.2108447046,
+    "LCI": 0.1034089457,
+    "UCI": 0.3869460379,
+    "country": "Indonesia"
+  },
+  {
+    "code": "LAO",
+    "median": 0.175069944,
+    "LCI": 0.1005439459,
+    "UCI": 0.2899327367,
+    "country": "Lao People's Democratic Republic"
+  },
+  {
+    "code": "MYS",
+    "median": 0.1872572166,
+    "LCI": 0.09597274147,
+    "UCI": 0.3435394876,
+    "country": "Malaysia"
+  },
+  {
+    "code": "MDV",
+    "median": 0.1813267572,
+    "LCI": 0.1126112618,
+    "UCI": 0.2837747544,
+    "country": "Maldives"
+  },
+  {
+    "code": "MMR",
+    "median": 0.1874805094,
+    "LCI": 0.1050777387,
+    "UCI": 0.3166254136,
+    "country": "Myanmar"
+  },
+  {
+    "code": "PHL",
+    "median": 0.1327549334,
+    "LCI": 0.08985552244,
+    "UCI": 0.195210468,
+    "country": "Philippines"
+  },
+  {
+    "code": "LKA",
+    "median": 0.2310833434,
+    "LCI": 0.1224614391,
+    "UCI": 0.4021772814,
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "THA",
+    "median": 0.2215075439,
+    "LCI": 0.1043368774,
+    "UCI": 0.4163292808,
+    "country": "Thailand"
+  },
+  {
+    "code": "TLS",
+    "median": 0.3577705413,
+    "LCI": 0.2517706245,
+    "UCI": 0.4833235795,
+    "country": "Timor-Leste"
+  },
+  {
+    "code": "VNM",
+    "median": 0.251925653,
+    "LCI": 0.1525793133,
+    "UCI": 0.3878007566,
+    "country": "Viet Nam"
+  },
+  {
+    "code": "FSM",
+    "median": 0.3391979532,
+    "LCI": 0.2067767878,
+    "UCI": 0.5034687115,
+    "country": "Micronesia (Federated States of)"
+  },
+  {
+    "code": "FJI",
+    "median": 0.4970055262,
+    "LCI": 0.3316676244,
+    "UCI": 0.6658057437,
+    "country": "Fiji"
+  },
+  {
+    "code": "KIR",
+    "median": 0.5235817855,
+    "LCI": 0.3336175765,
+    "UCI": 0.710452611,
+    "country": "Kiribati"
+  },
+  {
+    "code": "MHL",
+    "median": 0.3764244003,
+    "LCI": 0.2454138878,
+    "UCI": 0.5327797719,
+    "country": "Marshall Islands"
+  },
+  {
+    "code": "PNG",
+    "median": 0.4812832667,
+    "LCI": 0.3343713969,
+    "UCI": 0.6324546415,
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "WSM",
+    "median": 0.4037121029,
+    "LCI": 0.2381127193,
+    "UCI": 0.5981008613,
+    "country": "Samoa"
+  },
+  {
+    "code": "SLB",
+    "median": 0.499395199,
+    "LCI": 0.3224838801,
+    "UCI": 0.6793748498,
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "TON",
+    "median": 0.3732310278,
+    "LCI": 0.21147142,
+    "UCI": 0.574448521,
+    "country": "Tonga"
+  },
+  {
+    "code": "VUT",
+    "median": 0.4854322378,
+    "LCI": 0.3123812184,
+    "UCI": 0.6629400946,
+    "country": "Vanuatu"
+  },
+  {
+    "code": "ARM",
+    "median": 0.1047385404,
+    "LCI": 0.06075925095,
+    "UCI": 0.1765458167,
+    "country": "Armenia"
+  },
+  {
+    "code": "AZE",
+    "median": 0.1400281326,
+    "LCI": 0.07812912371,
+    "UCI": 0.240939904,
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "GEO",
+    "median": 0.09413922506,
+    "LCI": 0.05164663187,
+    "UCI": 0.1679629551,
+    "country": "Georgia"
+  },
+  {
+    "code": "KAZ",
+    "median": 0.1574092808,
+    "LCI": 0.09163050992,
+    "UCI": 0.2563760539,
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "KGZ",
+    "median": 0.2143769179,
+    "LCI": 0.1226820613,
+    "UCI": 0.3508217372,
+    "country": "Kyrgyzstan"
+  },
+  {
+    "code": "MNG",
+    "median": 0.2438593827,
+    "LCI": 0.1502628283,
+    "UCI": 0.367591931,
+    "country": "Mongolia"
+  },
+  {
+    "code": "TJK",
+    "median": 0.2292920936,
+    "LCI": 0.1493249844,
+    "UCI": 0.3370385727,
+    "country": "Tajikistan"
+  },
+  {
+    "code": "ALB",
+    "median": 0.1306986103,
+    "LCI": 0.0951406326,
+    "UCI": 0.1762683947,
+    "country": "Albania"
+  },
+  {
+    "code": "BIH",
+    "median": 0.1309275001,
+    "LCI": 0.08387112597,
+    "UCI": 0.1987559222,
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "BGR",
+    "median": 0.1649024964,
+    "LCI": 0.0935326809,
+    "UCI": 0.2749201168,
+    "country": "Bulgaria"
+  },
+  {
+    "code": "HRV",
+    "median": 0.1375355779,
+    "LCI": 0.07625833915,
+    "UCI": 0.2348601917,
+    "country": "Croatia"
+  },
+  {
+    "code": "CZE",
+    "median": 0.1816322984,
+    "LCI": 0.1187686766,
+    "UCI": 0.2636749046,
+    "country": "Czech Republic"
+  },
+  {
+    "code": "HUN",
+    "median": 0.1509262884,
+    "LCI": 0.084650514,
+    "UCI": 0.2538348817,
+    "country": "Hungary"
+  },
+  {
+    "code": "MKD",
+    "median": 0.1168042308,
+    "LCI": 0.06696558172,
+    "UCI": 0.1957624005,
+    "country": "North Macedonia"
+  },
+  {
+    "code": "MNE",
+    "median": 0.1700762974,
+    "LCI": 0.1085617487,
+    "UCI": 0.255484776,
+    "country": "Montenegro"
+  },
+  {
+    "code": "POL",
+    "median": 0.1322015709,
+    "LCI": 0.08023398706,
+    "UCI": 0.2095447553,
+    "country": "Poland"
+  },
+  {
+    "code": "ROU",
+    "median": 0.1958744821,
+    "LCI": 0.1128081673,
+    "UCI": 0.3182596185,
+    "country": "Romania"
+  },
+  {
+    "code": "SRB",
+    "median": 0.1679611762,
+    "LCI": 0.10211635,
+    "UCI": 0.2638961296,
+    "country": "Serbia"
+  },
+  {
+    "code": "SVK",
+    "median": 0.1827459578,
+    "LCI": 0.1044173348,
+    "UCI": 0.300157749,
+    "country": "Slovakia"
+  },
+  {
+    "code": "SVN",
+    "median": 0.1669770129,
+    "LCI": 0.1007548875,
+    "UCI": 0.2609010655,
+    "country": "Slovenia"
+  },
+  {
+    "code": "BLR",
+    "median": 0.2181145719,
+    "LCI": 0.1305316171,
+    "UCI": 0.3405507791,
+    "country": "Belarus"
+  },
+  {
+    "code": "EST",
+    "median": 0.1731661001,
+    "LCI": 0.09770845413,
+    "UCI": 0.2866125359,
+    "country": "Estonia"
+  },
+  {
+    "code": "LVA",
+    "median": 0.241495667,
+    "LCI": 0.1411258289,
+    "UCI": 0.3813596656,
+    "country": "Latvia"
+  },
+  {
+    "code": "LTU",
+    "median": 0.2492846641,
+    "LCI": 0.1582577993,
+    "UCI": 0.3680360508,
+    "country": "Lithuania"
+  },
+  {
+    "code": "MDA",
+    "median": 0.283976878,
+    "LCI": 0.1854622345,
+    "UCI": 0.4063751168,
+    "country": "Republic of Moldova"
+  },
+  {
+    "code": "UKR",
+    "median": 0.1933240872,
+    "LCI": 0.1335392229,
+    "UCI": 0.271439917,
+    "country": "Ukraine"
+  },
+  {
+    "code": "JPN",
+    "median": 0.1859990502,
+    "LCI": 0.07791730214,
+    "UCI": 0.3923358283,
+    "country": "Japan"
+  },
+  {
+    "code": "SGP",
+    "median": 0.0941176649,
+    "LCI": 0.04701550237,
+    "UCI": 0.1805033394,
+    "country": "Singapore"
+  },
+  {
+    "code": "AUS",
+    "median": 0.1710755745,
+    "LCI": 0.1175649383,
+    "UCI": 0.240141518,
+    "country": "Australia"
+  },
+  {
+    "code": "NZL",
+    "median": 0.1940715199,
+    "LCI": 0.082936248,
+    "UCI": 0.4002580393,
+    "country": "New Zealand"
+  },
+  {
+    "code": "AUT",
+    "median": 0.1418715645,
+    "LCI": 0.07779957794,
+    "UCI": 0.2456627242,
+    "country": "Austria"
+  },
+  {
+    "code": "BEL",
+    "median": 0.1942315533,
+    "LCI": 0.1143207363,
+    "UCI": 0.3123908501,
+    "country": "Belgium"
+  },
+  {
+    "code": "CYP",
+    "median": 0.1617755675,
+    "LCI": 0.09840345972,
+    "UCI": 0.255255766,
+    "country": "Cyprus"
+  },
+  {
+    "code": "DNK",
+    "median": 0.2013061306,
+    "LCI": 0.1246883264,
+    "UCI": 0.3067606678,
+    "country": "Denmark"
+  },
+  {
+    "code": "FIN",
+    "median": 0.2118133744,
+    "LCI": 0.1307723818,
+    "UCI": 0.3240504795,
+    "country": "Finland"
+  },
+  {
+    "code": "FRA",
+    "median": 0.1919889055,
+    "LCI": 0.1092173713,
+    "UCI": 0.3161490366,
+    "country": "France"
+  },
+  {
+    "code": "GRC",
+    "median": 0.1782492624,
+    "LCI": 0.1003407767,
+    "UCI": 0.2978333895,
+    "country": "Greece"
+  },
+  {
+    "code": "ISL",
+    "median": 0.2052214669,
+    "LCI": 0.114202087,
+    "UCI": 0.3398596759,
+    "country": "Iceland"
+  },
+  {
+    "code": "IRL",
+    "median": 0.1350788891,
+    "LCI": 0.08135483447,
+    "UCI": 0.2168602924,
+    "country": "Ireland"
+  },
+  {
+    "code": "ITA",
+    "median": 0.1310763542,
+    "LCI": 0.08409601965,
+    "UCI": 0.1993309459,
+    "country": "Italy"
+  },
+  {
+    "code": "LUX",
+    "median": 0.1843276534,
+    "LCI": 0.1036142834,
+    "UCI": 0.3062757575,
+    "country": "Luxembourg"
+  },
+  {
+    "code": "MLT",
+    "median": 0.1245076246,
+    "LCI": 0.07333199552,
+    "UCI": 0.2034293013,
+    "country": "Malta"
+  },
+  {
+    "code": "NLD",
+    "median": 0.1932587181,
+    "LCI": 0.1103343126,
+    "UCI": 0.3185132258,
+    "country": "Netherlands"
+  },
+  {
+    "code": "NOR",
+    "median": 0.1904867225,
+    "LCI": 0.1056156745,
+    "UCI": 0.3215309449,
+    "country": "Norway"
+  },
+  {
+    "code": "PRT",
+    "median": 0.1888679245,
+    "LCI": 0.1067296005,
+    "UCI": 0.3108696965,
+    "country": "Portugal"
+  },
+  {
+    "code": "ESP",
+    "median": 0.1302341393,
+    "LCI": 0.08296357255,
+    "UCI": 0.1977839282,
+    "country": "Spain"
+  },
+  {
+    "code": "SWE",
+    "median": 0.2045204378,
+    "LCI": 0.1244361547,
+    "UCI": 0.3189801314,
+    "country": "Sweden"
+  },
+  {
+    "code": "CHE",
+    "median": 0.1074923138,
+    "LCI": 0.05687825242,
+    "UCI": 0.1949885294,
+    "country": "Switzerland"
+  },
+  {
+    "code": "GBR",
+    "median": 0.2220690307,
+    "LCI": 0.1302765552,
+    "UCI": 0.3530724121,
+    "country": "United Kingdom"
+  },
+  {
+    "code": "ARG",
+    "median": 0.2984517116,
+    "LCI": 0.203392608,
+    "UCI": 0.410717851,
+    "country": "Argentina"
+  },
+  {
+    "code": "CHL",
+    "median": 0.2138311073,
+    "LCI": 0.1430310909,
+    "UCI": 0.306391297,
+    "country": "Chile"
+  },
+  {
+    "code": "URY",
+    "median": 0.1848564994,
+    "LCI": 0.1003027998,
+    "UCI": 0.3153791818,
+    "country": "Uruguay"
+  },
+  {
+    "code": "USA",
+    "median": 0.2796905152,
+    "LCI": 0.1715103236,
+    "UCI": 0.4161505727,
+    "country": "United States of America"
+  },
+  {
+    "code": "BLZ",
+    "median": 0.2390261235,
+    "LCI": 0.1185533617,
+    "UCI": 0.4217946702,
+    "country": "Belize"
+  },
+  {
+    "code": "CUB",
+    "median": 0.1199016029,
+    "LCI": 0.06455978602,
+    "UCI": 0.2139780554,
+    "country": "Cuba"
+  },
+  {
+    "code": "DOM",
+    "median": 0.1790848644,
+    "LCI": 0.1160700795,
+    "UCI": 0.2704094927,
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "GRD",
+    "median": 0.2683531646,
+    "LCI": 0.1655436692,
+    "UCI": 0.4048999448,
+    "country": "Grenada"
+  },
+  {
+    "code": "GUY",
+    "median": 0.3232636809,
+    "LCI": 0.2063536019,
+    "UCI": 0.4669884402,
+    "country": "Guyana"
+  },
+  {
+    "code": "HTI",
+    "median": 0.2220744834,
+    "LCI": 0.1536485996,
+    "UCI": 0.3131979494,
+    "country": "Haiti"
+  },
+  {
+    "code": "JAM",
+    "median": 0.2315166608,
+    "LCI": 0.1506402879,
+    "UCI": 0.3421407035,
+    "country": "Jamaica"
+  },
+  {
+    "code": "SUR",
+    "median": 0.2735834751,
+    "LCI": 0.1719206035,
+    "UCI": 0.4079252166,
+    "country": "Suriname"
+  },
+  {
+    "code": "TTO",
+    "median": 0.2852241304,
+    "LCI": 0.1781971458,
+    "UCI": 0.4244457695,
+    "country": "Trinidad and Tobago"
+  },
+  {
+    "code": "BOL",
+    "median": 0.3991676743,
+    "LCI": 0.2976318253,
+    "UCI": 0.513757517,
+    "country": "Bolivia (Plurinational State of)"
+  },
+  {
+    "code": "ECU",
+    "median": 0.3169908248,
+    "LCI": 0.1962865571,
+    "UCI": 0.4720576968,
+    "country": "Ecuador"
+  },
+  {
+    "code": "PER",
+    "median": 0.4193477606,
+    "LCI": 0.3376794488,
+    "UCI": 0.5063677086,
+    "country": "Peru"
+  },
+  {
+    "code": "COL",
+    "median": 0.3112540993,
+    "LCI": 0.225893896,
+    "UCI": 0.4079520785,
+    "country": "Colombia"
+  },
+  {
+    "code": "CRI",
+    "median": 0.2778814254,
+    "LCI": 0.1646762147,
+    "UCI": 0.4275619799,
+    "country": "Costa Rica"
+  },
+  {
+    "code": "SLV",
+    "median": 0.2274711759,
+    "LCI": 0.1565668963,
+    "UCI": 0.3166987164,
+    "country": "El Salvador"
+  },
+  {
+    "code": "GTM",
+    "median": 0.2242129932,
+    "LCI": 0.1427862497,
+    "UCI": 0.332769056,
+    "country": "Guatemala"
+  },
+  {
+    "code": "HND",
+    "median": 0.1843229474,
+    "LCI": 0.1133231853,
+    "UCI": 0.285710727,
+    "country": "Honduras"
+  },
+  {
+    "code": "MEX",
+    "median": 0.2579865091,
+    "LCI": 0.1715300482,
+    "UCI": 0.368838554,
+    "country": "Mexico"
+  },
+  {
+    "code": "NIC",
+    "median": 0.2572187629,
+    "LCI": 0.1639062682,
+    "UCI": 0.3769636806,
+    "country": "Nicaragua"
+  },
+  {
+    "code": "PAN",
+    "median": 0.1721081965,
+    "LCI": 0.1025135015,
+    "UCI": 0.2756872529,
+    "country": "Panama"
+  },
+  {
+    "code": "VEN",
+    "median": 0.21500825,
+    "LCI": 0.1159458606,
+    "UCI": 0.360076408,
+    "country": "Venezuela, Bolivarian Republic of"
+  },
+  {
+    "code": "BRA",
+    "median": 0.2360865281,
+    "LCI": 0.1493528541,
+    "UCI": 0.3523659601,
+    "country": "Brazil"
+  },
+  {
+    "code": "PRY",
+    "median": 0.1855843289,
+    "LCI": 0.1067595784,
+    "UCI": 0.3075543041,
+    "country": "Paraguay"
+  },
+  {
+    "code": "AFG",
+    "median": 0.4808198697,
+    "LCI": 0.3339462304,
+    "UCI": 0.630854458,
+    "country": "Afghanistan"
+  },
+  {
+    "code": "EGY",
+    "median": 0.2791237767,
+    "LCI": 0.1958655931,
+    "UCI": 0.3830976124,
+    "country": "Egypt"
+  },
+  {
+    "code": "IRN",
+    "median": 0.3058146782,
+    "LCI": 0.1555487507,
+    "UCI": 0.5150802957,
+    "country": "Iran (Islamic Republic of)"
+  },
+  {
+    "code": "IRQ",
+    "median": 0.2624763972,
+    "LCI": 0.1609020938,
+    "UCI": 0.4042865956,
+    "country": "Iraq"
+  },
+  {
+    "code": "JOR",
+    "median": 0.2259769323,
+    "LCI": 0.1523267213,
+    "UCI": 0.3239049315,
+    "country": "Jordan"
+  },
+  {
+    "code": "PSE",
+    "median": 0.28468577,
+    "LCI": 0.1691063316,
+    "UCI": 0.4396597362,
+    "country": "Palestinian Territory, Occupied"
+  },
+  {
+    "code": "TUN",
+    "median": 0.2632009438,
+    "LCI": 0.1503072486,
+    "UCI": 0.4183573583,
+    "country": "Tunisia"
+  },
+  {
+    "code": "TUR",
+    "median": 0.3625505028,
+    "LCI": 0.24741883,
+    "UCI": 0.4974245329,
+    "country": "Turkey"
+  },
+  {
+    "code": "BGD",
+    "median": 0.5001247866,
+    "LCI": 0.3658857818,
+    "UCI": 0.6220978111,
+    "country": "Bangladesh"
+  },
+  {
+    "code": "BTN",
+    "median": 0.2176028393,
+    "LCI": 0.1355780556,
+    "UCI": 0.3291440416,
+    "country": "Bhutan"
+  },
+  {
+    "code": "IND",
+    "median": 0.3399653387,
+    "LCI": 0.2288562995,
+    "UCI": 0.466117539,
+    "country": "India"
+  },
+  {
+    "code": "NPL",
+    "median": 0.2755202802,
+    "LCI": 0.1756076291,
+    "UCI": 0.4016472722,
+    "country": "Nepal"
+  },
+  {
+    "code": "PAK",
+    "median": 0.2745818196,
+    "LCI": 0.1798357738,
+    "UCI": 0.3942024391,
+    "country": "Pakistan"
+  },
+  {
+    "code": "AGO",
+    "median": 0.37577059,
+    "LCI": 0.2411466957,
+    "UCI": 0.5317060609,
+    "country": "Angola"
+  },
+  {
+    "code": "CAF",
+    "median": 0.2745376679,
+    "LCI": 0.1595815746,
+    "UCI": 0.429589356,
+    "country": "Central African Republic"
+  },
+  {
+    "code": "COD",
+    "median": 0.4680135707,
+    "LCI": 0.3295663101,
+    "UCI": 0.6074916538,
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "GNQ",
+    "median": 0.4574557677,
+    "LCI": 0.2942955929,
+    "UCI": 0.6322866738,
+    "country": "Equatorial Guinea"
+  },
+  {
+    "code": "GAB",
+    "median": 0.4241493907,
+    "LCI": 0.2697094632,
+    "UCI": 0.5936705815,
+    "country": "Gabon"
+  },
+  {
+    "code": "BDI",
+    "median": 0.4074558505,
+    "LCI": 0.2721374304,
+    "UCI": 0.5585509795,
+    "country": "Burundi"
+  },
+  {
+    "code": "COM",
+    "median": 0.1589778492,
+    "LCI": 0.08200784429,
+    "UCI": 0.2852338576,
+    "country": "Comoros"
+  },
+  {
+    "code": "ETH",
+    "median": 0.3654322,
+    "LCI": 0.2465978032,
+    "UCI": 0.5027434192,
+    "country": "Ethiopia"
+  },
+  {
+    "code": "KEN",
+    "median": 0.388613771,
+    "LCI": 0.2790281042,
+    "UCI": 0.5103248879,
+    "country": "Kenya"
+  },
+  {
+    "code": "MWI",
+    "median": 0.2982526131,
+    "LCI": 0.2084513156,
+    "UCI": 0.4085749912,
+    "country": "Malawi"
+  },
+  {
+    "code": "MOZ",
+    "median": 0.2967865977,
+    "LCI": 0.2065159364,
+    "UCI": 0.4039692073,
+    "country": "Mozambique"
+  },
+  {
+    "code": "RWA",
+    "median": 0.3803205245,
+    "LCI": 0.2698202618,
+    "UCI": 0.5052983129,
+    "country": "Rwanda"
+  },
+  {
+    "code": "SSD",
+    "median": 0.4108773617,
+    "LCI": 0.2309656313,
+    "UCI": 0.6208339509,
+    "country": "South Sudan"
+  },
+  {
+    "code": "TZA",
+    "median": 0.3818587785,
+    "LCI": 0.2749108242,
+    "UCI": 0.5025650702,
+    "country": "United Republic of Tanzania"
+  },
+  {
+    "code": "UGA",
+    "median": 0.4593218657,
+    "LCI": 0.3455380352,
+    "UCI": 0.5773412384,
+    "country": "Uganda"
+  },
+  {
+    "code": "ZMB",
+    "median": 0.4100515631,
+    "LCI": 0.2878497321,
+    "UCI": 0.545322613,
+    "country": "Zambia"
+  },
+  {
+    "code": "BWA",
+    "median": 0.3476332278,
+    "LCI": 0.212030116,
+    "UCI": 0.513864434,
+    "country": "Botswana"
+  },
+  {
+    "code": "LSO",
+    "median": 0.4044645093,
+    "LCI": 0.2132206687,
+    "UCI": 0.6327432275,
+    "country": "Lesotho"
+  },
+  {
+    "code": "NAM",
+    "median": 0.2865225466,
+    "LCI": 0.1712258956,
+    "UCI": 0.4357631667,
+    "country": "Namibia"
+  },
+  {
+    "code": "ZAF",
+    "median": 0.2299802466,
+    "LCI": 0.1399499909,
+    "UCI": 0.3537879185,
+    "country": "South Africa"
+  },
+  {
+    "code": "ZWE",
+    "median": 0.3524662223,
+    "LCI": 0.2454174139,
+    "UCI": 0.4761348397,
+    "country": "Zimbabwe"
+  },
+  {
+    "code": "BEN",
+    "median": 0.2475488491,
+    "LCI": 0.1531442387,
+    "UCI": 0.3753931435,
+    "country": "Benin"
+  },
+  {
+    "code": "BFA",
+    "median": 0.1794202328,
+    "LCI": 0.1001943672,
+    "UCI": 0.3013499326,
+    "country": "Burkina Faso"
+  },
+  {
+    "code": "CMR",
+    "median": 0.3842666866,
+    "LCI": 0.2599392074,
+    "UCI": 0.5266626358,
+    "country": "Cameroon"
+  },
+  {
+    "code": "CPV",
+    "median": 0.1724763729,
+    "LCI": 0.106383274,
+    "UCI": 0.2732910264,
+    "country": "Cabo Verde"
+  },
+  {
+    "code": "TCD",
+    "median": 0.2773505817,
+    "LCI": 0.1729384186,
+    "UCI": 0.4157519229,
+    "country": "Chad"
+  },
+  {
+    "code": "CIV",
+    "median": 0.2656821229,
+    "LCI": 0.1598235553,
+    "UCI": 0.4102245745,
+    "country": "CÃ´te D'Ivoire"
+  },
+  {
+    "code": "GMB",
+    "median": 0.2342971452,
+    "LCI": 0.139759297,
+    "UCI": 0.3661408489,
+    "country": "Gambia (Republic of The)"
+  },
+  {
+    "code": "GHA",
+    "median": 0.2344263067,
+    "LCI": 0.1349923916,
+    "UCI": 0.3790232734,
+    "country": "Ghana"
+  },
+  {
+    "code": "GIN",
+    "median": 0.3456810375,
+    "LCI": 0.2238904649,
+    "UCI": 0.4949739917,
+    "country": "Guinea"
+  },
+  {
+    "code": "LBR",
+    "median": 0.4087177145,
+    "LCI": 0.2881082774,
+    "UCI": 0.5431461831,
+    "country": "Liberia"
+  },
+  {
+    "code": "MLI",
+    "median": 0.2750462637,
+    "LCI": 0.1950767848,
+    "UCI": 0.3773267182,
+    "country": "Mali"
+  },
+  {
+    "code": "NGA",
+    "median": 0.2323253516,
+    "LCI": 0.1636492992,
+    "UCI": 0.3214206779,
+    "country": "Nigeria"
+  },
+  {
+    "code": "STP",
+    "median": 0.2562856552,
+    "LCI": 0.1487571104,
+    "UCI": 0.4105838245,
+    "country": "Sao Tome and Principe"
+  },
+  {
+    "code": "SEN",
+    "median": 0.2292234146,
+    "LCI": 0.1392386418,
+    "UCI": 0.3552961436,
+    "country": "Senegal"
+  },
+  {
+    "code": "SLE",
+    "median": 0.3445566923,
+    "LCI": 0.2172026372,
+    "UCI": 0.5025444358,
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "TGO",
+    "median": 0.2434311053,
+    "LCI": 0.1452523054,
+    "UCI": 0.3791054176,
+    "country": "Togo"
+  },
+  {
+    "code": "PLW",
+    "median": 0.3094779511,
+    "LCI": 0.1829819043,
+    "UCI": 0.4734413944,
+    "country": "Palau"
+  },
+  {
+    "code": "NRU",
+    "median": 0.4284385561,
+    "LCI": 0.2631602335,
+    "UCI": 0.6129618916,
+    "country": "Nauru"
+  },
+  {
+    "code": "TUV",
+    "median": 0.3860003868,
+    "LCI": 0.2254665554,
+    "UCI": 0.580504464,
+    "country": "Tuvalu"
+  },
+  {
+    "code": "HKG",
+    "median": 0.1067719966,
+    "LCI": 0.05373205539,
+    "UCI": 0.204815621,
+    "country": "Hong Kong (S.A.R. China)"
+  }
+]

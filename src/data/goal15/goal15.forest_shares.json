@@ -1,0 +1,1424 @@
+[
+  {
+    "iso3c": "AFG",
+    "forests_2000": 1.9,
+    "forests_2020": 1.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "ALB",
+    "forests_2000": 28.1,
+    "forests_2020": 28.8,
+    "trend": 2.5
+  },
+  {
+    "iso3c": "DZA",
+    "forests_2000": 0.7,
+    "forests_2020": 0.8,
+    "trend": 14.3
+  },
+  {
+    "iso3c": "ASM",
+    "forests_2000": 88.7,
+    "forests_2020": 85.7,
+    "trend": -3.4
+  },
+  {
+    "iso3c": "AND",
+    "forests_2000": 34,
+    "forests_2020": 34,
+    "trend": 0
+  },
+  {
+    "iso3c": "AGO",
+    "forests_2000": 62.3,
+    "forests_2020": 53.4,
+    "trend": -14.3
+  },
+  {
+    "iso3c": "AIA",
+    "forests_2000": 61.1,
+    "forests_2020": 61.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "ATG",
+    "forests_2000": 21.5,
+    "forests_2020": 18.5,
+    "trend": -14
+  },
+  {
+    "iso3c": "ARG",
+    "forests_2000": 12.2,
+    "forests_2020": 10.4,
+    "trend": -14.8
+  },
+  {
+    "iso3c": "ARM",
+    "forests_2000": 11.7,
+    "forests_2020": 11.5,
+    "trend": -1.7
+  },
+  {
+    "iso3c": "ABW",
+    "forests_2000": 2.3,
+    "forests_2020": 2.3,
+    "trend": 0
+  },
+  {
+    "iso3c": "AUS",
+    "forests_2000": 17.2,
+    "forests_2020": 17.4,
+    "trend": 1.2
+  },
+  {
+    "iso3c": "AUT",
+    "forests_2000": 46.5,
+    "forests_2020": 47.3,
+    "trend": 1.7
+  },
+  {
+    "iso3c": "AZE",
+    "forests_2000": 12,
+    "forests_2020": 13.7,
+    "trend": 14.2
+  },
+  {
+    "iso3c": "BHS",
+    "forests_2000": 50.9,
+    "forests_2020": 50.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "BHR",
+    "forests_2000": 0.5,
+    "forests_2020": 0.9,
+    "trend": 80
+  },
+  {
+    "iso3c": "BGD",
+    "forests_2000": 14.8,
+    "forests_2020": 14.5,
+    "trend": -2
+  },
+  {
+    "iso3c": "BRB",
+    "forests_2000": 14.7,
+    "forests_2020": 14.7,
+    "trend": 0
+  },
+  {
+    "iso3c": "BLR",
+    "forests_2000": 40.8,
+    "forests_2020": 43.2,
+    "trend": 5.9
+  },
+  {
+    "iso3c": "BEL",
+    "forests_2000": 22,
+    "forests_2020": 22.8,
+    "trend": 3.6
+  },
+  {
+    "iso3c": "BLZ",
+    "forests_2000": 64,
+    "forests_2020": 56,
+    "trend": -12.5
+  },
+  {
+    "iso3c": "BEN",
+    "forests_2000": 36.7,
+    "forests_2020": 27.8,
+    "trend": -24.3
+  },
+  {
+    "iso3c": "BMU",
+    "forests_2000": 18.5,
+    "forests_2020": 18.5,
+    "trend": 0
+  },
+  {
+    "iso3c": "BTN",
+    "forests_2000": 65.5,
+    "forests_2020": 71.4,
+    "trend": 9
+  },
+  {
+    "iso3c": "BOL",
+    "forests_2000": 50.9,
+    "forests_2020": 46.9,
+    "trend": -7.9
+  },
+  {
+    "iso3c": "BES",
+    "forests_2000": 5.9,
+    "forests_2020": 5.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "BIH",
+    "forests_2000": 41.2,
+    "forests_2020": 42.7,
+    "trend": 3.6
+  },
+  {
+    "iso3c": "BWA",
+    "forests_2000": 31.1,
+    "forests_2020": 26.9,
+    "trend": -13.5
+  },
+  {
+    "iso3c": "BRA",
+    "forests_2000": 65.9,
+    "forests_2020": 59.4,
+    "trend": -9.9
+  },
+  {
+    "iso3c": "VGB",
+    "forests_2000": 24.5,
+    "forests_2020": 24.1,
+    "trend": -1.6
+  },
+  {
+    "iso3c": "BRN",
+    "forests_2000": 75.3,
+    "forests_2020": 72.1,
+    "trend": -4.2
+  },
+  {
+    "iso3c": "BGR",
+    "forests_2000": 30.5,
+    "forests_2020": 35.9,
+    "trend": 17.7
+  },
+  {
+    "iso3c": "BFA",
+    "forests_2000": 26.4,
+    "forests_2020": 22.7,
+    "trend": -14
+  },
+  {
+    "iso3c": "BDI",
+    "forests_2000": 7.6,
+    "forests_2020": 10.9,
+    "trend": 43.4
+  },
+  {
+    "iso3c": "CPV",
+    "forests_2000": 9.9,
+    "forests_2020": 11.3,
+    "trend": 14.1
+  },
+  {
+    "iso3c": "KHM",
+    "forests_2000": 61.1,
+    "forests_2020": 45.7,
+    "trend": -25.2
+  },
+  {
+    "iso3c": "CMR",
+    "forests_2000": 45.7,
+    "forests_2020": 43,
+    "trend": -5.9
+  },
+  {
+    "iso3c": "CAN",
+    "forests_2000": 38.8,
+    "forests_2020": 38.7,
+    "trend": -0.3
+  },
+  {
+    "iso3c": "CYM",
+    "forests_2000": 53.9,
+    "forests_2020": 53,
+    "trend": -1.7
+  },
+  {
+    "iso3c": "CAF",
+    "forests_2000": 36.8,
+    "forests_2020": 35.8,
+    "trend": -2.7
+  },
+  {
+    "iso3c": "TCD",
+    "forests_2000": 5,
+    "forests_2020": 3.4,
+    "trend": -32
+  },
+  {
+    "iso3c": "CHL",
+    "forests_2000": 21.3,
+    "forests_2020": 24.5,
+    "trend": 15
+  },
+  {
+    "iso3c": "CHN",
+    "forests_2000": 18.8,
+    "forests_2020": 23.3,
+    "trend": 23.9
+  },
+  {
+    "iso3c": "COL",
+    "forests_2000": 56.5,
+    "forests_2020": 53.3,
+    "trend": -5.7
+  },
+  {
+    "iso3c": "COM",
+    "forests_2000": 22.4,
+    "forests_2020": 17.7,
+    "trend": -21
+  },
+  {
+    "iso3c": "COG",
+    "forests_2000": 65,
+    "forests_2020": 64.3,
+    "trend": -1.1
+  },
+  {
+    "iso3c": "COK",
+    "forests_2000": 64.9,
+    "forests_2020": 65,
+    "trend": 0.2
+  },
+  {
+    "iso3c": "CRI",
+    "forests_2000": 56,
+    "forests_2020": 59.4,
+    "trend": 6.1
+  },
+  {
+    "iso3c": "CIV",
+    "forests_2000": 16,
+    "forests_2020": 8.9,
+    "trend": -44.4
+  },
+  {
+    "iso3c": "HRV",
+    "forests_2000": 33.7,
+    "forests_2020": 34.6,
+    "trend": 2.7
+  },
+  {
+    "iso3c": "CUB",
+    "forests_2000": 22.7,
+    "forests_2020": 31.2,
+    "trend": 37.4
+  },
+  {
+    "iso3c": "CUW",
+    "forests_2000": 0.2,
+    "forests_2020": 0.2,
+    "trend": 0
+  },
+  {
+    "iso3c": "CYP",
+    "forests_2000": 18.6,
+    "forests_2020": 18.7,
+    "trend": 0.5
+  },
+  {
+    "iso3c": "CZE",
+    "forests_2000": 34.1,
+    "forests_2020": 34.7,
+    "trend": 1.8
+  },
+  {
+    "iso3c": "PRK",
+    "forests_2000": 53.6,
+    "forests_2020": 50.1,
+    "trend": -6.5
+  },
+  {
+    "iso3c": "COD",
+    "forests_2000": 63.5,
+    "forests_2020": 55.6,
+    "trend": -12.4
+  },
+  {
+    "iso3c": "DNK",
+    "forests_2000": 14.3,
+    "forests_2020": 15.7,
+    "trend": 9.8
+  },
+  {
+    "iso3c": "DJI",
+    "forests_2000": 0.2,
+    "forests_2020": 0.3,
+    "trend": 50
+  },
+  {
+    "iso3c": "DMA",
+    "forests_2000": 63.8,
+    "forests_2020": 63.8,
+    "trend": 0
+  },
+  {
+    "iso3c": "DOM",
+    "forests_2000": 40.8,
+    "forests_2020": 44.4,
+    "trend": 8.8
+  },
+  {
+    "iso3c": "ECU",
+    "forests_2000": 55.3,
+    "forests_2020": 50.3,
+    "trend": -9
+  },
+  {
+    "iso3c": "EGY",
+    "forests_2000": 0.1,
+    "forests_2020": 0,
+    "trend": -100
+  },
+  {
+    "iso3c": "SLV",
+    "forests_2000": 32.5,
+    "forests_2020": 28.2,
+    "trend": -13.2
+  },
+  {
+    "iso3c": "GNQ",
+    "forests_2000": 93.2,
+    "forests_2020": 87.3,
+    "trend": -6.3
+  },
+  {
+    "iso3c": "ERI",
+    "forests_2000": 9.2,
+    "forests_2020": 8.7,
+    "trend": -5.4
+  },
+  {
+    "iso3c": "EST",
+    "forests_2000": 52.8,
+    "forests_2020": 56.1,
+    "trend": 6.3
+  },
+  {
+    "iso3c": "SWZ",
+    "forests_2000": 27.5,
+    "forests_2020": 28.9,
+    "trend": 5.1
+  },
+  {
+    "iso3c": "ETH",
+    "forests_2000": 16.4,
+    "forests_2020": 15.1,
+    "trend": -7.9
+  },
+  {
+    "iso3c": "FLK",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "FRO",
+    "forests_2000": 0.1,
+    "forests_2020": 0.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "FJI",
+    "forests_2000": 55.1,
+    "forests_2020": 62.4,
+    "trend": 13.2
+  },
+  {
+    "iso3c": "FIN",
+    "forests_2000": 73.7,
+    "forests_2020": 73.7,
+    "trend": 0
+  },
+  {
+    "iso3c": "FRA",
+    "forests_2000": 27.9,
+    "forests_2020": 31.5,
+    "trend": 12.9
+  },
+  {
+    "iso3c": "GUF",
+    "forests_2000": 97.7,
+    "forests_2020": 96.6,
+    "trend": -1.1
+  },
+  {
+    "iso3c": "PYF",
+    "forests_2000": 42.8,
+    "forests_2020": 43.1,
+    "trend": 0.7
+  },
+  {
+    "iso3c": "GAB",
+    "forests_2000": 92,
+    "forests_2020": 91.3,
+    "trend": -0.8
+  },
+  {
+    "iso3c": "GMB",
+    "forests_2000": 35.3,
+    "forests_2020": 24,
+    "trend": -32
+  },
+  {
+    "iso3c": "GEO",
+    "forests_2000": 39.7,
+    "forests_2020": 40.6,
+    "trend": 2.3
+  },
+  {
+    "iso3c": "DEU",
+    "forests_2000": 32.5,
+    "forests_2020": 32.7,
+    "trend": 0.6
+  },
+  {
+    "iso3c": "GHA",
+    "forests_2000": 38.9,
+    "forests_2020": 35.1,
+    "trend": -9.8
+  },
+  {
+    "iso3c": "GIB",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "GRC",
+    "forests_2000": 27.9,
+    "forests_2020": 30.3,
+    "trend": 8.6
+  },
+  {
+    "iso3c": "GRL",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "GRD",
+    "forests_2000": 52.1,
+    "forests_2020": 52.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "GLP",
+    "forests_2000": 42.8,
+    "forests_2020": 44.4,
+    "trend": 3.7
+  },
+  {
+    "iso3c": "GUM",
+    "forests_2000": 44.4,
+    "forests_2020": 51.9,
+    "trend": 16.9
+  },
+  {
+    "iso3c": "GTM",
+    "forests_2000": 39.3,
+    "forests_2020": 32.9,
+    "trend": -16.3
+  },
+  {
+    "iso3c": "GGY",
+    "forests_2000": 2.9,
+    "forests_2020": 5.4,
+    "trend": 86.2
+  },
+  {
+    "iso3c": "GIN",
+    "forests_2000": 28.2,
+    "forests_2020": 25.2,
+    "trend": -10.6
+  },
+  {
+    "iso3c": "GNB",
+    "forests_2000": 76.4,
+    "forests_2020": 70.4,
+    "trend": -7.9
+  },
+  {
+    "iso3c": "GUY",
+    "forests_2000": 94.3,
+    "forests_2020": 93.6,
+    "trend": -0.7
+  },
+  {
+    "iso3c": "HTI",
+    "forests_2000": 13.8,
+    "forests_2020": 12.6,
+    "trend": -8.7
+  },
+  {
+    "iso3c": "VAT",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "HND",
+    "forests_2000": 60.6,
+    "forests_2020": 56.8,
+    "trend": -6.3
+  },
+  {
+    "iso3c": "HUN",
+    "forests_2000": 21.4,
+    "forests_2020": 22.5,
+    "trend": 5.1
+  },
+  {
+    "iso3c": "ISL",
+    "forests_2000": 0.3,
+    "forests_2020": 0.5,
+    "trend": 66.7
+  },
+  {
+    "iso3c": "IND",
+    "forests_2000": 22.7,
+    "forests_2020": 24.3,
+    "trend": 7
+  },
+  {
+    "iso3c": "IDN",
+    "forests_2000": 53.9,
+    "forests_2020": 49.1,
+    "trend": -8.9
+  },
+  {
+    "iso3c": "IRN",
+    "forests_2000": 5.7,
+    "forests_2020": 6.6,
+    "trend": 15.8
+  },
+  {
+    "iso3c": "IRQ",
+    "forests_2000": 1.9,
+    "forests_2020": 1.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "IRL",
+    "forests_2000": 9.2,
+    "forests_2020": 11.4,
+    "trend": 23.9
+  },
+  {
+    "iso3c": "IMN",
+    "forests_2000": 6.1,
+    "forests_2020": 6.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "ISR",
+    "forests_2000": 7.1,
+    "forests_2020": 6.5,
+    "trend": -8.5
+  },
+  {
+    "iso3c": "ITA",
+    "forests_2000": 28.3,
+    "forests_2020": 32.3,
+    "trend": 14.1
+  },
+  {
+    "iso3c": "JAM",
+    "forests_2000": 48.1,
+    "forests_2020": 55.1,
+    "trend": 14.6
+  },
+  {
+    "iso3c": "JPN",
+    "forests_2000": 68.2,
+    "forests_2020": 68.4,
+    "trend": 0.3
+  },
+  {
+    "iso3c": "JEY",
+    "forests_2000": 5,
+    "forests_2020": 5,
+    "trend": 0
+  },
+  {
+    "iso3c": "JOR",
+    "forests_2000": 1.1,
+    "forests_2020": 1.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "KAZ",
+    "forests_2000": 1.2,
+    "forests_2020": 1.3,
+    "trend": 8.3
+  },
+  {
+    "iso3c": "KEN",
+    "forests_2000": 7,
+    "forests_2020": 6.3,
+    "trend": -10
+  },
+  {
+    "iso3c": "KIR",
+    "forests_2000": 1.5,
+    "forests_2020": 1.5,
+    "trend": 0
+  },
+  {
+    "iso3c": "KWT",
+    "forests_2000": 0.3,
+    "forests_2020": 0.4,
+    "trend": 33.3
+  },
+  {
+    "iso3c": "KGZ",
+    "forests_2000": 6.2,
+    "forests_2020": 6.9,
+    "trend": 11.3
+  },
+  {
+    "iso3c": "LAO",
+    "forests_2000": 75.5,
+    "forests_2020": 71.9,
+    "trend": -4.8
+  },
+  {
+    "iso3c": "LVA",
+    "forests_2000": 52.1,
+    "forests_2020": 54.8,
+    "trend": 5.2
+  },
+  {
+    "iso3c": "LBN",
+    "forests_2000": 13.5,
+    "forests_2020": 14,
+    "trend": 3.7
+  },
+  {
+    "iso3c": "LSO",
+    "forests_2000": 1.1,
+    "forests_2020": 1.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "LBR",
+    "forests_2000": 85.4,
+    "forests_2020": 79.1,
+    "trend": -7.4
+  },
+  {
+    "iso3c": "LBY",
+    "forests_2000": 0.1,
+    "forests_2020": 0.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "LIE",
+    "forests_2000": 41.9,
+    "forests_2020": 41.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "LTU",
+    "forests_2000": 32.2,
+    "forests_2020": 35.1,
+    "trend": 9
+  },
+  {
+    "iso3c": "LUX",
+    "forests_2000": 33.7,
+    "forests_2020": 34.5,
+    "trend": 2.4
+  },
+  {
+    "iso3c": "MDG",
+    "forests_2000": 22.4,
+    "forests_2020": 21.4,
+    "trend": -4.5
+  },
+  {
+    "iso3c": "MWI",
+    "forests_2000": 32.7,
+    "forests_2020": 23.8,
+    "trend": -27.2
+  },
+  {
+    "iso3c": "MYS",
+    "forests_2000": 59.9,
+    "forests_2020": 58.2,
+    "trend": -2.8
+  },
+  {
+    "iso3c": "MDV",
+    "forests_2000": 2.7,
+    "forests_2020": 2.7,
+    "trend": 0
+  },
+  {
+    "iso3c": "MLI",
+    "forests_2000": 10.9,
+    "forests_2020": 10.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "MLT",
+    "forests_2000": 1.1,
+    "forests_2020": 1.4,
+    "trend": 27.3
+  },
+  {
+    "iso3c": "MHL",
+    "forests_2000": 52.2,
+    "forests_2020": 52.2,
+    "trend": 0
+  },
+  {
+    "iso3c": "MTQ",
+    "forests_2000": 46,
+    "forests_2020": 49.3,
+    "trend": 7.2
+  },
+  {
+    "iso3c": "MRT",
+    "forests_2000": 0.4,
+    "forests_2020": 0.3,
+    "trend": -25
+  },
+  {
+    "iso3c": "MUS",
+    "forests_2000": 20.7,
+    "forests_2020": 19.1,
+    "trend": -7.7
+  },
+  {
+    "iso3c": "MYT",
+    "forests_2000": 41.9,
+    "forests_2020": 37.1,
+    "trend": -11.5
+  },
+  {
+    "iso3c": "MEX",
+    "forests_2000": 35.2,
+    "forests_2020": 33.8,
+    "trend": -4
+  },
+  {
+    "iso3c": "FSM",
+    "forests_2000": 91.2,
+    "forests_2020": 92,
+    "trend": 0.9
+  },
+  {
+    "iso3c": "MCO",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "MNG",
+    "forests_2000": 9.2,
+    "forests_2020": 9.1,
+    "trend": -1.1
+  },
+  {
+    "iso3c": "MNE",
+    "forests_2000": 46.5,
+    "forests_2020": 61.5,
+    "trend": 32.3
+  },
+  {
+    "iso3c": "MSR",
+    "forests_2000": 25,
+    "forests_2020": 25,
+    "trend": 0
+  },
+  {
+    "iso3c": "MAR",
+    "forests_2000": 12.3,
+    "forests_2020": 12.9,
+    "trend": 4.9
+  },
+  {
+    "iso3c": "MOZ",
+    "forests_2000": 52.4,
+    "forests_2020": 46.7,
+    "trend": -10.9
+  },
+  {
+    "iso3c": "MMR",
+    "forests_2000": 53.4,
+    "forests_2020": 43.7,
+    "trend": -18.2
+  },
+  {
+    "iso3c": "NAM",
+    "forests_2000": 9.8,
+    "forests_2020": 8.1,
+    "trend": -17.3
+  },
+  {
+    "iso3c": "NRU",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "NPL",
+    "forests_2000": 41.7,
+    "forests_2020": 41.6,
+    "trend": -0.2
+  },
+  {
+    "iso3c": "NLD",
+    "forests_2000": 10.6,
+    "forests_2020": 11,
+    "trend": 3.8
+  },
+  {
+    "iso3c": "NCL",
+    "forests_2000": 45.8,
+    "forests_2020": 45.8,
+    "trend": 0
+  },
+  {
+    "iso3c": "NZL",
+    "forests_2000": 37.4,
+    "forests_2020": 37.6,
+    "trend": 0.5
+  },
+  {
+    "iso3c": "NIC",
+    "forests_2000": 44.9,
+    "forests_2020": 28.3,
+    "trend": -37
+  },
+  {
+    "iso3c": "NER",
+    "forests_2000": 1,
+    "forests_2020": 0.9,
+    "trend": -10
+  },
+  {
+    "iso3c": "NGA",
+    "forests_2000": 27.3,
+    "forests_2020": 23.7,
+    "trend": -13.2
+  },
+  {
+    "iso3c": "NIU",
+    "forests_2000": 72.4,
+    "forests_2020": 72.6,
+    "trend": 0.3
+  },
+  {
+    "iso3c": "NFK",
+    "forests_2000": 12.2,
+    "forests_2020": 12.2,
+    "trend": 0
+  },
+  {
+    "iso3c": "MKD",
+    "forests_2000": 37.7,
+    "forests_2020": 39.7,
+    "trend": 5.3
+  },
+  {
+    "iso3c": "MNP",
+    "forests_2000": 69.5,
+    "forests_2020": 53,
+    "trend": -23.7
+  },
+  {
+    "iso3c": "NOR",
+    "forests_2000": 39.8,
+    "forests_2020": 40.1,
+    "trend": 0.8
+  },
+  {
+    "iso3c": "OMN",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "PAK",
+    "forests_2000": 5.9,
+    "forests_2020": 4.8,
+    "trend": -18.6
+  },
+  {
+    "iso3c": "PLW",
+    "forests_2000": 86,
+    "forests_2020": 90,
+    "trend": 4.7
+  },
+  {
+    "iso3c": "PAN",
+    "forests_2000": 59.8,
+    "forests_2020": 56.8,
+    "trend": -5
+  },
+  {
+    "iso3c": "PNG",
+    "forests_2000": 80.1,
+    "forests_2020": 79.2,
+    "trend": -1.1
+  },
+  {
+    "iso3c": "PRY",
+    "forests_2000": 57.9,
+    "forests_2020": 40.5,
+    "trend": -30.1
+  },
+  {
+    "iso3c": "PER",
+    "forests_2000": 58.8,
+    "forests_2020": 56.5,
+    "trend": -3.9
+  },
+  {
+    "iso3c": "PHL",
+    "forests_2000": 24.5,
+    "forests_2020": 24.1,
+    "trend": -1.6
+  },
+  {
+    "iso3c": "PCN",
+    "forests_2000": 74.5,
+    "forests_2020": 74.5,
+    "trend": 0
+  },
+  {
+    "iso3c": "POL",
+    "forests_2000": 29.6,
+    "forests_2020": 31,
+    "trend": 4.7
+  },
+  {
+    "iso3c": "PRT",
+    "forests_2000": 35.9,
+    "forests_2020": 36.2,
+    "trend": 0.8
+  },
+  {
+    "iso3c": "PRI",
+    "forests_2000": 48.4,
+    "forests_2020": 56,
+    "trend": 15.7
+  },
+  {
+    "iso3c": "QAT",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "KOR",
+    "forests_2000": 67.1,
+    "forests_2020": 64.4,
+    "trend": -4
+  },
+  {
+    "iso3c": "MDA",
+    "forests_2000": 10.5,
+    "forests_2020": 11.8,
+    "trend": 12.4
+  },
+  {
+    "iso3c": "REU",
+    "forests_2000": 36.4,
+    "forests_2020": 39.2,
+    "trend": 7.7
+  },
+  {
+    "iso3c": "ROU",
+    "forests_2000": 27.7,
+    "forests_2020": 30.1,
+    "trend": 8.7
+  },
+  {
+    "iso3c": "RUS",
+    "forests_2000": 49.4,
+    "forests_2020": 49.8,
+    "trend": 0.8
+  },
+  {
+    "iso3c": "RWA",
+    "forests_2000": 11.6,
+    "forests_2020": 11.2,
+    "trend": -3.4
+  },
+  {
+    "iso3c": "BLM",
+    "forests_2000": 8.5,
+    "forests_2020": 8.5,
+    "trend": 0
+  },
+  {
+    "iso3c": "SHN",
+    "forests_2000": 5.1,
+    "forests_2020": 5.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "KNA",
+    "forests_2000": 42.3,
+    "forests_2020": 42.3,
+    "trend": 0
+  },
+  {
+    "iso3c": "LCA",
+    "forests_2000": 34.4,
+    "forests_2020": 34,
+    "trend": -1.2
+  },
+  {
+    "iso3c": "MAF",
+    "forests_2000": 24.8,
+    "forests_2020": 24.8,
+    "trend": 0
+  },
+  {
+    "iso3c": "SPM",
+    "forests_2000": 7.3,
+    "forests_2020": 5.3,
+    "trend": -27.4
+  },
+  {
+    "iso3c": "VCT",
+    "forests_2000": 73.2,
+    "forests_2020": 73.2,
+    "trend": 0
+  },
+  {
+    "iso3c": "WSM",
+    "forests_2000": 60.5,
+    "forests_2020": 57.1,
+    "trend": -5.6
+  },
+  {
+    "iso3c": "SMR",
+    "forests_2000": 16.7,
+    "forests_2020": 16.7,
+    "trend": 0
+  },
+  {
+    "iso3c": "STP",
+    "forests_2000": 60.8,
+    "forests_2020": 54.1,
+    "trend": -11
+  },
+  {
+    "iso3c": "SAU",
+    "forests_2000": 0.5,
+    "forests_2020": 0.5,
+    "trend": 0
+  },
+  {
+    "iso3c": "SEN",
+    "forests_2000": 46,
+    "forests_2020": 41.9,
+    "trend": -8.9
+  },
+  {
+    "iso3c": "SRB",
+    "forests_2000": 28.1,
+    "forests_2020": 31.1,
+    "trend": 10.7
+  },
+  {
+    "iso3c": "SYC",
+    "forests_2000": 73.3,
+    "forests_2020": 73.3,
+    "trend": 0
+  },
+  {
+    "iso3c": "SLE",
+    "forests_2000": 40.6,
+    "forests_2020": 35.1,
+    "trend": -13.5
+  },
+  {
+    "iso3c": "SGP",
+    "forests_2000": 25.4,
+    "forests_2020": 21.7,
+    "trend": -14.6
+  },
+  {
+    "iso3c": "SXM",
+    "forests_2000": 10.9,
+    "forests_2020": 10.9,
+    "trend": 0
+  },
+  {
+    "iso3c": "SVK",
+    "forests_2000": 39.5,
+    "forests_2020": 40.1,
+    "trend": 1.5
+  },
+  {
+    "iso3c": "SVN",
+    "forests_2000": 61.2,
+    "forests_2020": 61.5,
+    "trend": 0.5
+  },
+  {
+    "iso3c": "SLB",
+    "forests_2000": 90.7,
+    "forests_2020": 90.1,
+    "trend": -0.7
+  },
+  {
+    "iso3c": "SOM",
+    "forests_2000": 12,
+    "forests_2020": 9.5,
+    "trend": -20.8
+  },
+  {
+    "iso3c": "ZAF",
+    "forests_2000": 14.7,
+    "forests_2020": 14.1,
+    "trend": -4.1
+  },
+  {
+    "iso3c": "SSD",
+    "forests_2000": 11.3,
+    "forests_2020": 11.3,
+    "trend": 0
+  },
+  {
+    "iso3c": "ESP",
+    "forests_2000": 34.3,
+    "forests_2020": 37.2,
+    "trend": 8.5
+  },
+  {
+    "iso3c": "LKA",
+    "forests_2000": 34.5,
+    "forests_2020": 34.2,
+    "trend": -0.9
+  },
+  {
+    "iso3c": "PSE",
+    "forests_2000": 1.5,
+    "forests_2020": 1.7,
+    "trend": 13.3
+  },
+  {
+    "iso3c": "SDN",
+    "forests_2000": 11.8,
+    "forests_2020": 9.9,
+    "trend": -16.1
+  },
+  {
+    "iso3c": "SUR",
+    "forests_2000": 98.3,
+    "forests_2020": 97.4,
+    "trend": -0.9
+  },
+  {
+    "iso3c": "SJM",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "SWE",
+    "forests_2000": 69.1,
+    "forests_2020": 68.7,
+    "trend": -0.6
+  },
+  {
+    "iso3c": "CHE",
+    "forests_2000": 30.3,
+    "forests_2020": 32.1,
+    "trend": 5.9
+  },
+  {
+    "iso3c": "SYR",
+    "forests_2000": 2.4,
+    "forests_2020": 2.8,
+    "trend": 16.7
+  },
+  {
+    "iso3c": "TJK",
+    "forests_2000": 2.9,
+    "forests_2020": 3.1,
+    "trend": 6.9
+  },
+  {
+    "iso3c": "THA",
+    "forests_2000": 37.2,
+    "forests_2020": 38.9,
+    "trend": 4.6
+  },
+  {
+    "iso3c": "TLS",
+    "forests_2000": 63.8,
+    "forests_2020": 61.9,
+    "trend": -3
+  },
+  {
+    "iso3c": "TGO",
+    "forests_2000": 23.3,
+    "forests_2020": 22.2,
+    "trend": -4.7
+  },
+  {
+    "iso3c": "TKL",
+    "forests_2000": 0,
+    "forests_2020": 0,
+    "trend": null
+  },
+  {
+    "iso3c": "TON",
+    "forests_2000": 12.4,
+    "forests_2020": 12.4,
+    "trend": 0
+  },
+  {
+    "iso3c": "TTO",
+    "forests_2000": 46.1,
+    "forests_2020": 44.5,
+    "trend": -3.5
+  },
+  {
+    "iso3c": "TUN",
+    "forests_2000": 4.3,
+    "forests_2020": 4.5,
+    "trend": 4.7
+  },
+  {
+    "iso3c": "TUR",
+    "forests_2000": 26.2,
+    "forests_2020": 28.9,
+    "trend": 10.3
+  },
+  {
+    "iso3c": "TKM",
+    "forests_2000": 8.8,
+    "forests_2020": 8.8,
+    "trend": 0
+  },
+  {
+    "iso3c": "TCA",
+    "forests_2000": 11.1,
+    "forests_2020": 11.1,
+    "trend": 0
+  },
+  {
+    "iso3c": "TUV",
+    "forests_2000": 33.3,
+    "forests_2020": 33.3,
+    "trend": 0
+  },
+  {
+    "iso3c": "UGA",
+    "forests_2000": 15.8,
+    "forests_2020": 11.7,
+    "trend": -25.9
+  },
+  {
+    "iso3c": "UKR",
+    "forests_2000": 16.4,
+    "forests_2020": 16.7,
+    "trend": 1.8
+  },
+  {
+    "iso3c": "ARE",
+    "forests_2000": 4.4,
+    "forests_2020": 4.5,
+    "trend": 2.3
+  },
+  {
+    "iso3c": "GBR",
+    "forests_2000": 12.2,
+    "forests_2020": 13.2,
+    "trend": 8.2
+  },
+  {
+    "iso3c": "TZA",
+    "forests_2000": 60.6,
+    "forests_2020": 51.6,
+    "trend": -14.9
+  },
+  {
+    "iso3c": "USA",
+    "forests_2000": 33.1,
+    "forests_2020": 33.9,
+    "trend": 2.4
+  },
+  {
+    "iso3c": "VIR",
+    "forests_2000": 58.5,
+    "forests_2020": 56.9,
+    "trend": -2.7
+  },
+  {
+    "iso3c": "URY",
+    "forests_2000": 7.8,
+    "forests_2020": 11.6,
+    "trend": 48.7
+  },
+  {
+    "iso3c": "UZB",
+    "forests_2000": 6.8,
+    "forests_2020": 8.4,
+    "trend": 23.5
+  },
+  {
+    "iso3c": "VUT",
+    "forests_2000": 36.3,
+    "forests_2020": 36.3,
+    "trend": 0
+  },
+  {
+    "iso3c": "VEN",
+    "forests_2000": 55.7,
+    "forests_2020": 52.4,
+    "trend": -5.9
+  },
+  {
+    "iso3c": "VNM",
+    "forests_2000": 37.9,
+    "forests_2020": 46.7,
+    "trend": 23.2
+  },
+  {
+    "iso3c": "WLF",
+    "forests_2000": 41.5,
+    "forests_2020": 41.6,
+    "trend": 0.2
+  },
+  {
+    "iso3c": "ESH",
+    "forests_2000": 2.5,
+    "forests_2020": 2.5,
+    "trend": 0
+  },
+  {
+    "iso3c": "WLD",
+    "forests_2000": 31.9,
+    "forests_2020": 31.2,
+    "trend": -2.2
+  },
+  {
+    "iso3c": "YEM",
+    "forests_2000": 1,
+    "forests_2020": 1,
+    "trend": 0
+  },
+  {
+    "iso3c": "ZMB",
+    "forests_2000": 63.3,
+    "forests_2020": 60.3,
+    "trend": -4.7
+  },
+  {
+    "iso3c": "ZWE",
+    "forests_2000": 47.5,
+    "forests_2020": 45.1,
+    "trend": -5.1
+  }
+]

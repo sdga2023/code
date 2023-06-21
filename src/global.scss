@@ -1,0 +1,226 @@
+@tailwind base;
+@tailwind utilities;
+
+body {
+  font-family: var(--font-families-open-sans);
+  font-size: var(--font-size-m);
+
+  background-color: var(--color-theme-light-bg);
+
+  margin: 0;
+
+  color: var(--color-theme-text);
+  overflow-x: hidden;
+}
+
+text {
+  fill: var(--color-theme-text);
+}
+
+hr {
+  border-top: 0.5px solid var(--color-grey-300);
+  margin: var(--space-2xs) 0;
+}
+
+a {
+  color: var(--color-theme-primary);
+  cursor: pointer;
+  pointer-events: all;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.banner a {
+  color: var(--color-theme-dark-primary);
+}
+
+button {
+  pointer-events: all;
+  text-transform: uppercase;
+  font-size: var(--font-size-s);
+  font-weight: var(--font-weights-semibold);
+  color: white;
+  background-color: var(--color-theme-primary);
+  padding: var(--space-xs) var(--space-m);
+  letter-spacing: var(--letter-spacing-5);
+  min-width: 100px;
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  justify-content: center;
+}
+
+button:hover {
+  background-color: var(--color-theme-primary-stronger);
+}
+
+button.compact {
+  padding: var(--space-2xs) var(--space-s);
+}
+
+/* footnotes and references: */
+.summary {
+  display: inline;
+  line-height: inherit;
+  position: relative;
+
+  pointer-events: all;
+
+  input {
+    opacity: 0;
+    width: 0;
+  }
+
+  .bg {
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--color-theme-primary);
+    color: var(--color-theme-primary);
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+  .bg:hover {
+    background-color: var(--color-theme-primary);
+    color: var(--color-theme-dark-text);
+  }
+  label {
+    white-space: nowrap;
+  }
+
+  label:not(.unstyled) {
+    font-family: var(--font-families-open-sans);
+    font-size: var(--font-size-s);
+    font-weight: var(--font-weights-semibold);
+    line-height: 0.75;
+    text-align: center;
+
+    cursor: pointer;
+    user-select: none;
+    display: block;
+    padding: 0.3em 0 0.2em 0;
+  }
+
+  .details {
+    overflow: hidden;
+    display: none;
+    max-height: 0;
+    font-size: 0;
+    padding: 0 0;
+    margin: 0 0;
+  }
+
+  input:checked ~ .details {
+    display: block;
+    max-height: 9999px;
+  }
+
+  input:checked ~ div.details,
+  input:checked ~ p.details {
+    border-top: 1px solid var(--color-grey-200);
+    border-bottom: 1px solid var(--color-grey-200);
+    font-style: italic;
+    font-size: unset;
+    padding: var(--space-s) 0;
+    margin: var(--space-m) 0;
+  }
+
+  input:checked ~ p.goal-details {
+    border-top: 2px solid var(--sdg-color);
+    border-bottom: 2px solid var(--sdg-color);
+  }
+
+  label.unstyled {
+    cursor: pointer;
+  }
+
+  .goal-target {
+    font-style: normal;
+    font-size: var(--font-size-m);
+    font-family: var(--font-families-open-sans);
+    border-radius: 20px;
+    margin: 0;
+    padding: 0 7px 0 6px;
+    border: 2.5px solid var(--sdg-color);
+    display: inline-block;
+    height: 26px;
+    text-align: center;
+    line-height: 1.25;
+    background-color: var(--color-theme-bg-weaker);
+  }
+  .goal-target:hover {
+    background-color: var(--sdg-color);
+    color: var(--sdg-text-color);
+  }
+
+  input:checked ~ .unstyled .goal-target {
+    background-color: var(--sdg-color);
+    color: var(--sdg-text-color);
+  }
+
+  .goal-target .goal,
+  .target {
+    font-weight: var(--font-weights-semibold);
+  }
+
+  .goal-details .target {
+    font-weight: var(--font-weights-regular);
+  }
+}
+
+.banner {
+  color: var(--color-theme-dark-text);
+  font-family: var(--font-families-open-sans);
+  font-size: var(--font-size-m);
+}
+
+.banner .intro {
+  font-family: var(--font-families-andes);
+  font-size: var(--font-size-m);
+}
+
+.banner .summary {
+  input:checked ~ p.details {
+    padding: var(--space-xs) 0;
+    margin: var(--space-xs) 0;
+  }
+
+  .goal-target {
+    background-color: var(--color-theme-dark-bg-weaker);
+    color: var(--color-theme-dark-text);
+  }
+
+  .goal-target:hover {
+    background-color: var(--sdg-color);
+    color: var(--sdg-text-color);
+  }
+}
+
+/* text highlighting */
+
+.highlighted {
+  background-color: var(--highlight-color);
+  color: white;
+  padding: 0 2px 0 2px;
+  font-weight: var(--font-weights-semibold);
+}
+
+.highlighted-dark-text {
+  background-color: var(--highlight-color);
+  padding: 0 2px 0 2px;
+  font-weight: var(--font-weights-semibold);
+}
+
+.emphasis {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 872px), (max-height: 599px) {
+  body {
+    overflow-x: hidden;
+  }
+}

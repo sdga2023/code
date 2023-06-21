@@ -1,0 +1,135 @@
+[
+  {
+    "lat": 0.4,
+    "lon": 141.9,
+    "name": "Pacific, Western Central",
+    "share_overfished_stocks": 20.4,
+    "zone": "pacificwc"
+  },
+  {
+    "lat": 53.4,
+    "lon": -57.5,
+    "name": "Atlantic, Northwest",
+    "share_overfished_stocks": 38.9,
+    "zone": "atlanticnw"
+  },
+  {
+    "lat": -63.8,
+    "lon": -21.4,
+    "name": "Atlantic, Antarctic",
+    "share_overfished_stocks": null,
+    "zone": "atlanticant"
+  },
+  {
+    "lat": 68.8,
+    "lon": 2.9,
+    "name": "Atlantic, Northeast",
+    "share_overfished_stocks": 27.3,
+    "zone": "atlanticne"
+  },
+  {
+    "lat": -25.2,
+    "lon": 0.8,
+    "name": "Atlantic, Southeast",
+    "share_overfished_stocks": 35.3,
+    "zone": "atlanticse"
+  },
+  {
+    "lat": 14.3,
+    "lon": -20.5,
+    "name": "Atlantic, Eastern Central",
+    "share_overfished_stocks": 40,
+    "zone": "atlanticec"
+  },
+  {
+    "lat": 38.1,
+    "lon": 19.7,
+    "name": "Mediterranean and Black Sea",
+    "share_overfished_stocks": 63.4,
+    "zone": "medblack"
+  },
+  {
+    "lat": 50.1,
+    "lon": -152.3,
+    "name": "Pacific, Northeast",
+    "share_overfished_stocks": 13.8,
+    "zone": "pacificne"
+  },
+  {
+    "lat": -35.5,
+    "lon": -39,
+    "name": "Atlantic, Southwest",
+    "share_overfished_stocks": 40,
+    "zone": "atlanticsw"
+  },
+  {
+    "lat": -27.2,
+    "lon": 104.9,
+    "name": "Indian Ocean, Eastern",
+    "share_overfished_stocks": 34.7,
+    "zone": "indiane"
+  },
+  {
+    "lat": 21.5,
+    "lon": -63.6,
+    "name": "Atlantic, Western Central",
+    "share_overfished_stocks": 37.7,
+    "zone": "atlanticwc"
+  },
+  {
+    "lat": -69.3,
+    "lon": -118.4,
+    "name": "Pacific, Antarctic",
+    "share_overfished_stocks": null,
+    "zone": "pacificant"
+  },
+  {
+    "lat": -58.4,
+    "lon": 79.8,
+    "name": "Indian Ocean, Antarctic",
+    "share_overfished_stocks": null,
+    "zone": "indianant"
+  },
+  {
+    "lat": -28.6,
+    "lon": -96.8,
+    "name": "Pacific, Southeast",
+    "share_overfished_stocks": 66.7,
+    "zone": "pacificse"
+  },
+  {
+    "lat": 38,
+    "lon": 149.8,
+    "name": "Pacific, Northwest",
+    "share_overfished_stocks": 45,
+    "zone": "pacificnw"
+  },
+  {
+    "lat": 8.4,
+    "lon": -141.8,
+    "name": "Pacific, Eastern Central",
+    "share_overfished_stocks": 14.3,
+    "zone": "pacificec"
+  },
+  {
+    "lat": -15.1,
+    "lon": 58.3,
+    "name": "Indian Ocean, Western",
+    "share_overfished_stocks": 37.5,
+    "zone": "indianw"
+  },
+  {
+    "lat": 80,
+    "lon": -9,
+    "name": "Arctic Sea",
+    "share_overfished_stocks": null,
+    "zone": "arctic"
+  },
+  {
+    "lat": -42.7,
+    "lon": -150,
+    "name": "Pacific, Southwest",
+    "share_overfished_stocks": 23.1,
+    "zone": "pacificsw"
+  }
+]

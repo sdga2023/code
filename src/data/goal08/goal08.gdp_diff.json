@@ -1,0 +1,394 @@
+[
+  {
+    "iso3c": "EAS",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2020,
+    "gdp": 101.2,
+    "gdp_forc20": 105.7,
+    "gap_dollars": -1185601265769,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2021,
+    "gdp": 108.79,
+    "gdp_forc20": 111.6192,
+    "gap_dollars": -745400689137,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2022,
+    "gdp": 112.59765,
+    "gdp_forc20": 117.8698752,
+    "gap_dollars": -1389057082342,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2023,
+    "gdp": 118.7905208,
+    "gdp_forc20": 124.4705882,
+    "gap_dollars": -1496510038145,
+    "gap_relative": -5
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2024,
+    "gdp": 124.2548847,
+    "gdp_forc20": 131.4409412,
+    "gap_dollars": -1893288359754,
+    "gap_relative": -5
+  },
+  {
+    "iso3c": "EAS",
+    "year": 2025,
+    "gdp": 129.8463545,
+    "gdp_forc20": 138.8016339,
+    "gap_dollars": -2359420115549,
+    "gap_relative": -6
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2020,
+    "gdp": 98.3,
+    "gdp_forc20": 102.6,
+    "gap_dollars": -960668506067,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2021,
+    "gdp": 105.2793,
+    "gdp_forc20": 105.5754,
+    "gap_dollars": -66152080150,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2022,
+    "gdp": 106.5426516,
+    "gdp_forc20": 108.6370866,
+    "gap_dollars": -467920405234,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2023,
+    "gdp": 108.0342487,
+    "gdp_forc20": 111.7875621,
+    "gap_dollars": -838532550282,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2024,
+    "gdp": 110.9511734,
+    "gdp_forc20": 115.0294014,
+    "gap_dollars": -911122133926,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "ECS",
+    "year": 2025,
+    "gdp": 113.9468551,
+    "gdp_forc20": 118.3652541,
+    "gap_dollars": -987120163267,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2020,
+    "gdp": 93.8,
+    "gdp_forc20": 101.8,
+    "gap_dollars": -447516985765,
+    "gap_relative": -8
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2021,
+    "gdp": 100.2722,
+    "gdp_forc20": 104.2432,
+    "gap_dollars": -222136243809,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2022,
+    "gdp": 103.9822714,
+    "gdp_forc20": 106.9535232,
+    "gap_dollars": -166210706186,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2023,
+    "gdp": 105.5420055,
+    "gdp_forc20": 109.7343148,
+    "gap_dollars": -234516204468,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2024,
+    "gdp": 107.6528456,
+    "gdp_forc20": 112.587407,
+    "gap_dollars": -276037505904,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "LCN",
+    "year": 2025,
+    "gdp": 110.4518196,
+    "gdp_forc20": 115.5146796,
+    "gap_dollars": -283214481057,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2020,
+    "gdp": 96.2,
+    "gdp_forc20": 102.4,
+    "gap_dollars": -214575207844,
+    "gap_relative": -6
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2021,
+    "gdp": 99.8556,
+    "gdp_forc20": 105.1648,
+    "gap_dollars": -183745595724,
+    "gap_relative": -5
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2022,
+    "gdp": 105.7470804,
+    "gdp_forc20": 108.1094144,
+    "gap_dollars": -81757791782,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2023,
+    "gdp": 108.0735162,
+    "gdp_forc20": 111.136478,
+    "gap_dollars": -106005753586,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2024,
+    "gdp": 111.6399422,
+    "gdp_forc20": 114.2482994,
+    "gap_dollars": -90272384691,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "MEA",
+    "year": 2025,
+    "gdp": 114.9891405,
+    "gdp_forc20": 117.4472518,
+    "gap_dollars": -85072539269,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2020,
+    "gdp": 95.9,
+    "gdp_forc20": 105.5,
+    "gap_dollars": -328877654400,
+    "gap_relative": -9
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2021,
+    "gdp": 103.8597,
+    "gdp_forc20": 111.7245,
+    "gap_dollars": -269433018367,
+    "gap_relative": -7
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2022,
+    "gdp": 110.091282,
+    "gdp_forc20": 118.42797,
+    "gap_dollars": -285598999469,
+    "gap_relative": -7
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2023,
+    "gdp": 116.5866676,
+    "gdp_forc20": 125.5336482,
+    "gap_dollars": -306506456374,
+    "gap_relative": -7
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2024,
+    "gdp": 122.5325877,
+    "gdp_forc20": 133.0656671,
+    "gap_dollars": -360843171682,
+    "gap_relative": -8
+  },
+  {
+    "iso3c": "SAS",
+    "year": 2025,
+    "gdp": 130.3746733,
+    "gdp_forc20": 141.0496071,
+    "gap_dollars": -365702832806,
+    "gap_relative": -8
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2020,
+    "gdp": 98,
+    "gdp_forc20": 102.9,
+    "gap_dollars": -90702804365,
+    "gap_relative": -5
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2021,
+    "gdp": 102.312,
+    "gdp_forc20": 106.0899,
+    "gap_dollars": -69931862165,
+    "gap_relative": -4
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2022,
+    "gdp": 106.097544,
+    "gdp_forc20": 109.5908667,
+    "gap_dollars": -64664115396,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2023,
+    "gdp": 109.4926654,
+    "gdp_forc20": 113.2073653,
+    "gap_dollars": -68761979118,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2024,
+    "gdp": 113.7628794,
+    "gdp_forc20": 116.9432084,
+    "gap_dollars": -58870358947,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "SSF",
+    "year": 2025,
+    "gdp": 118.3133945,
+    "gdp_forc20": 120.8023342,
+    "gap_dollars": -46072206235,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2019,
+    "gdp": 100,
+    "gdp_forc20": 100,
+    "gap_dollars": 0,
+    "gap_relative": 0
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2020,
+    "gdp": 96.9,
+    "gdp_forc20": 102.5,
+    "gap_dollars": -4741997519529,
+    "gap_relative": -5
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2021,
+    "gdp": 102.714,
+    "gdp_forc20": 105.165,
+    "gap_dollars": -2075470700065,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2022,
+    "gdp": 105.898134,
+    "gdp_forc20": 108.004455,
+    "gap_dollars": -1783601599524,
+    "gap_relative": -2
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2023,
+    "gdp": 108.1219948,
+    "gdp_forc20": 110.9205753,
+    "gap_dollars": -2369796723515,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2024,
+    "gdp": 110.7169227,
+    "gdp_forc20": 113.9154308,
+    "gap_dollars": -2708449573201,
+    "gap_relative": -3
+  },
+  {
+    "iso3c": "WLD",
+    "year": 2025,
+    "gdp": 114.0384304,
+    "gdp_forc20": 116.9911474,
+    "gap_dollars": -2500317333411,
+    "gap_relative": -3
+  }
+]

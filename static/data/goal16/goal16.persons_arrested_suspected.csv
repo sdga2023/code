@@ -1,0 +1,71 @@
+"Iso3_code","Country","Sex","Year","VALUE","region_iso3c","region","total","pct"
+"ALB","Albania","Female",2020,1,"ECS","Europe & Central Asia",70,0.014285714
+"ALB","Albania","Male",2020,69,"ECS","Europe & Central Asia",70,0.985714286
+"ATG","Antigua & Barb.","Female",2020,1,"LCN","Latin America & Caribbean",11,0.090909091
+"ATG","Antigua & Barb.","Male",2020,10,"LCN","Latin America & Caribbean",11,0.909090909
+"AUT","Austria","Female",2020,6,"ECS","Europe & Central Asia",57,0.105263158
+"AUT","Austria","Male",2020,51,"ECS","Europe & Central Asia",57,0.894736842
+"AZE","Azerbaijan","Female",2020,8,"ECS","Europe & Central Asia",224,0.035714286
+"AZE","Azerbaijan","Male",2020,216,"ECS","Europe & Central Asia",224,0.964285714
+"BEL","Belgium","Female",2020,6,"ECS","Europe & Central Asia",83,0.072289157
+"BEL","Belgium","Male",2020,77,"ECS","Europe & Central Asia",83,0.927710843
+"BGR","Bulgaria","Female",2020,10,"ECS","Europe & Central Asia",74,0.135135135
+"BGR","Bulgaria","Male",2020,64,"ECS","Europe & Central Asia",74,0.864864865
+"BIH","Bosnia & Herzeg.","Female",2020,3,"ECS","Europe & Central Asia",45,0.066666667
+"BIH","Bosnia & Herzeg.","Male",2020,42,"ECS","Europe & Central Asia",45,0.933333333
+"BLZ","Belize","Female",2020,0,"LCN","Latin America & Caribbean",55,0
+"BLZ","Belize","Male",2020,55,"LCN","Latin America & Caribbean",55,1
+"BRB","Barbados","Female",2020,5,"LCN","Latin America & Caribbean",46,0.108695652
+"BRB","Barbados","Male",2020,41,"LCN","Latin America & Caribbean",46,0.891304348
+"BTN","Bhutan","Female",2020,0,"SAS","South Asia",19,0
+"BTN","Bhutan","Male",2020,19,"SAS","South Asia",19,1
+"CAN","Canada","Female",2020,32,"NAC","North America",591,0.054145516
+"CAN","Canada","Male",2020,559,"NAC","North America",591,0.945854484
+"CHE","Switzerland","Female",2020,10,"ECS","Europe & Central Asia",49,0.204081633
+"CHE","Switzerland","Male",2020,39,"ECS","Europe & Central Asia",49,0.795918367
+"CZE","Czechia","Female",2020,7,"ECS","Europe & Central Asia",53,0.132075472
+"CZE","Czechia","Male",2020,46,"ECS","Europe & Central Asia",53,0.867924528
+"DEU","Germany","Female",2020,126,"ECS","Europe & Central Asia",715,0.176223776
+"DEU","Germany","Male",2020,589,"ECS","Europe & Central Asia",715,0.823776224
+"DMA","Dominica","Female",2020,0,"LCN","Latin America & Caribbean",8,0
+"DMA","Dominica","Male",2020,8,"LCN","Latin America & Caribbean",8,1
+"DNK","Denmark","Female",2020,11,"ECS","Europe & Central Asia",134,0.082089552
+"DNK","Denmark","Male",2020,123,"ECS","Europe & Central Asia",134,0.917910448
+"ESP","Spain","Female",2020,52,"ECS","Europe & Central Asia",407,0.127764128
+"ESP","Spain","Male",2020,355,"ECS","Europe & Central Asia",407,0.872235872
+"FRA","France","Female",2020,122,"ECS","Europe & Central Asia",962,0.126819127
+"FRA","France","Male",2020,840,"ECS","Europe & Central Asia",962,0.873180873
+"GRC","Greece","Female",2020,4,"ECS","Europe & Central Asia",59,0.06779661
+"GRC","Greece","Male",2020,55,"ECS","Europe & Central Asia",59,0.93220339
+"GUY","Guyana","Female",2020,4,"LCN","Latin America & Caribbean",112,0.035714286
+"GUY","Guyana","Male",2020,108,"LCN","Latin America & Caribbean",112,0.964285714
+"HRV","Croatia","Female",2020,1,"ECS","Europe & Central Asia",32,0.03125
+"HRV","Croatia","Male",2020,31,"ECS","Europe & Central Asia",32,0.96875
+"HUN","Hungary","Female",2020,17,"ECS","Europe & Central Asia",93,0.182795699
+"HUN","Hungary","Male",2020,76,"ECS","Europe & Central Asia",93,0.817204301
+"ISL","Iceland","Female",2020,0,"ECS","Europe & Central Asia",3,0
+"ISL","Iceland","Male",2020,3,"ECS","Europe & Central Asia",3,1
+"ITA","Italy","Female",2020,51,"ECS","Europe & Central Asia",832,0.061298077
+"ITA","Italy","Male",2020,781,"ECS","Europe & Central Asia",832,0.938701923
+"KNA","St.Kitts & Nev.","Female",2020,2,"LCN","Latin America & Caribbean",32,0.0625
+"KNA","St.Kitts & Nev.","Male",2020,30,"LCN","Latin America & Caribbean",32,0.9375
+"LCA","St. Lucia","Female",2020,0,"LCN","Latin America & Caribbean",15,0
+"LCA","St. Lucia","Male",2020,15,"LCN","Latin America & Caribbean",15,1
+"LTU","Lithuania","Female",2020,17,"ECS","Europe & Central Asia",99,0.171717172
+"LTU","Lithuania","Male",2020,82,"ECS","Europe & Central Asia",99,0.828282828
+"LVA","Latvia","Female",2020,24,"ECS","Europe & Central Asia",140,0.171428571
+"LVA","Latvia","Male",2020,116,"ECS","Europe & Central Asia",140,0.828571429
+"MNE","Montenegro","Female",2020,1,"ECS","Europe & Central Asia",16,0.0625
+"MNE","Montenegro","Male",2020,15,"ECS","Europe & Central Asia",16,0.9375
+"MNG","Mongolia","Female",2020,21,"EAS","East Asia & Pacific",211,0.099526066
+"MNG","Mongolia","Male",2020,190,"EAS","East Asia & Pacific",211,0.900473934
+"NOR","Norway","Female",2020,4,"ECS","Europe & Central Asia",28,0.142857143
+"NOR","Norway","Male",2020,24,"ECS","Europe & Central Asia",28,0.857142857
+"RUS","Russia","Female",2020,1279,"ECS","Europe & Central Asia",10939,0.116921108
+"RUS","Russia","Male",2020,9660,"ECS","Europe & Central Asia",10939,0.883078892
+"SRB","Serbia","Female",2020,10,"ECS","Europe & Central Asia",89,0.112359551
+"SRB","Serbia","Male",2020,79,"ECS","Europe & Central Asia",89,0.887640449
+"SVK","Slovakia","Female",2020,3,"ECS","Europe & Central Asia",55,0.054545455
+"SVK","Slovakia","Male",2020,52,"ECS","Europe & Central Asia",55,0.945454545
+"SVN","Slovenia","Female",2020,0,"ECS","Europe & Central Asia",8,0
+"SVN","Slovenia","Male",2020,8,"ECS","Europe & Central Asia",8,1

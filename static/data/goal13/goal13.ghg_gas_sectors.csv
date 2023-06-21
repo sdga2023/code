@@ -1,0 +1,32 @@
+"gas","sector","subsector","mtco2e","share"
+"CO2","Energy","Electricity/Heat",15761.94,31.7
+"CO2","Energy","Building",2794.16,5.6
+"CO2","Energy","Manufacturing/Construction",6254.47,12.6
+"CO2","Energy","Transportation",8222.07,16.5
+"CO2","Energy","Other Fuel Combustion",588.9,1.2
+"CO2","Energy","Fugitive Emissions",282.83,0.6
+"CO2","Non-Energy","Bunker Fuels",1302.61,2.6
+"CO2","Non-Energy","Industrial Processes",1608.5,3.2
+"CO2","Non-Energy","Land-Use Change and Forestry",1361.26,2.7
+"CH4","Energy","Electricity/Heat",12,0
+"CH4","Energy","Building",234.8,0.5
+"CH4","Energy","Manufacturing/Construction",16.36,0
+"CH4","Energy","Transportation",47.9,0.1
+"CH4","Energy","Other Fuel Combustion",10.75,0
+"CH4","Energy","Fugitive Emissions",3112.94,6.3
+"CH4","Non-Energy","Industrial Processes",9.19,0
+"CH4","Non-Energy","Agriculture",3492.34,7
+"CH4","Non-Energy","Waste",1486.2,3
+"CH4","Non-Energy","Bunker Fuels",1.67,0
+"CH4","Non-Energy","Land-Use Change and Forestry",187.44,0.4
+"Other","Other","Other",2969.9,6
+"Total","Non-energy","Industrial Processes",3055.98,6.1
+"Total","Non-energy","Agriculture",5794.61,11.6
+"Total","Non-energy","Waste",1629.87,3.3
+"Total","Non-energy","Land-Use Change and Forestry",1641.67,3.3
+"Total","Energy","Building",3065.31,6.2
+"Total","Energy","Electricity/Heat",15834.64,31.8
+"Total","Energy","Fugitive Emissions",3402.2,6.8
+"Total","Energy","Manufacturing/Construction",6297.09,12.7
+"Total","Energy","Other Fuel Combustion",601.9,1.2
+"Total","Energy","Transportation",8434.96,17

@@ -1,0 +1,27 @@
+[
+  {
+    "country": "Ukraine",
+    "year": 2018,
+    "fatalities": 873
+  },
+  {
+    "country": "Ukraine",
+    "year": 2019,
+    "fatalities": 389
+  },
+  {
+    "country": "Ukraine",
+    "year": 2020,
+    "fatalities": 113
+  },
+  {
+    "country": "Ukraine",
+    "year": 2021,
+    "fatalities": 149
+  },
+  {
+    "country": "Ukraine",
+    "year": 2022,
+    "fatalities": 32308
+  }
+]

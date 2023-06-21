@@ -1,0 +1,266 @@
+[
+  {
+    "year": 2021,
+    "commodity_code": 1,
+    "commodity": "Animals; live",
+    "value": 11777961
+  },
+  {
+    "year": 2021,
+    "commodity_code": 2,
+    "commodity": "Meat and edible meat offal",
+    "value": 215000000
+  },
+  {
+    "year": 2021,
+    "commodity_code": 3,
+    "commodity": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+    "value": 8865493
+  },
+  {
+    "year": 2021,
+    "commodity_code": 4,
+    "commodity": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "value": 89362885
+  },
+  {
+    "year": 2021,
+    "commodity_code": 5,
+    "commodity": "Animal originated products; not elsewhere specified or included",
+    "value": 7607389
+  },
+  {
+    "year": 2021,
+    "commodity_code": 6,
+    "commodity": "Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "value": 2129651
+  },
+  {
+    "year": 2021,
+    "commodity_code": 7,
+    "commodity": "Vegetables and certain roots and tubers; edible",
+    "value": 35910107
+  },
+  {
+    "year": 2021,
+    "commodity_code": 8,
+    "commodity": "Fruit and nuts, edible; peel of citrus fruit or melons",
+    "value": 53086831
+  },
+  {
+    "year": 2021,
+    "commodity_code": 9,
+    "commodity": "Coffee, tea, mate and spices",
+    "value": 3708115
+  },
+  {
+    "year": 2021,
+    "commodity_code": 10,
+    "commodity": "Cereals",
+    "value": 2490000000
+  },
+  {
+    "year": 2021,
+    "commodity_code": 11,
+    "commodity": "Products of the milling industry; malt, starches, inulin, wheat gluten",
+    "value": 34683158
+  },
+  {
+    "year": 2021,
+    "commodity_code": 12,
+    "commodity": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",
+    "value": 166000000
+  },
+  {
+    "year": 2021,
+    "commodity_code": 13,
+    "commodity": "Lac; gums, resins and other vegetable saps and extracts",
+    "value": 794008
+  },
+  {
+    "year": 2021,
+    "commodity_code": 14,
+    "commodity": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+    "value": 5102680
+  },
+  {
+    "year": 2021,
+    "commodity_code": 15,
+    "commodity": "Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes",
+    "value": 1750000000
+  },
+  {
+    "year": 2021,
+    "commodity_code": 16,
+    "commodity": "Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",
+    "value": 6167703
+  },
+  {
+    "year": 2021,
+    "commodity_code": 17,
+    "commodity": "Sugars and sugar confectionery",
+    "value": 56524921
+  },
+  {
+    "year": 2021,
+    "commodity_code": 18,
+    "commodity": "Cocoa and cocoa preparations",
+    "value": 52345799
+  },
+  {
+    "year": 2021,
+    "commodity_code": 19,
+    "commodity": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+    "value": 96373478
+  },
+  {
+    "year": 2021,
+    "commodity_code": 20,
+    "commodity": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "value": 38089933
+  },
+  {
+    "year": 2021,
+    "commodity_code": 21,
+    "commodity": "Miscellaneous edible preparations",
+    "value": 51029866
+  },
+  {
+    "year": 2021,
+    "commodity_code": 22,
+    "commodity": "Beverages, spirits and vinegar",
+    "value": 77661415
+  },
+  {
+    "year": 2022,
+    "commodity_code": 1,
+    "commodity": "Animals; live",
+    "value": 8902912
+  },
+  {
+    "year": 2022,
+    "commodity_code": 2,
+    "commodity": "Meat and edible meat offal",
+    "value": 202000000
+  },
+  {
+    "year": 2022,
+    "commodity_code": 3,
+    "commodity": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+    "value": 6255540
+  },
+  {
+    "year": 2022,
+    "commodity_code": 4,
+    "commodity": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "value": 82213749
+  },
+  {
+    "year": 2022,
+    "commodity_code": 5,
+    "commodity": "Animal originated products; not elsewhere specified or included",
+    "value": 3837231
+  },
+  {
+    "year": 2022,
+    "commodity_code": 6,
+    "commodity": "Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "value": 1660625
+  },
+  {
+    "year": 2022,
+    "commodity_code": 7,
+    "commodity": "Vegetables and certain roots and tubers; edible",
+    "value": 11246907
+  },
+  {
+    "year": 2022,
+    "commodity_code": 8,
+    "commodity": "Fruit and nuts, edible; peel of citrus fruit or melons",
+    "value": 69069763
+  },
+  {
+    "year": 2022,
+    "commodity_code": 9,
+    "commodity": "Coffee, tea, mate and spices",
+    "value": 2503132
+  },
+  {
+    "year": 2022,
+    "commodity_code": 10,
+    "commodity": "Cereals",
+    "value": 983000000
+  },
+  {
+    "year": 2022,
+    "commodity_code": 11,
+    "commodity": "Products of the milling industry; malt, starches, inulin, wheat gluten",
+    "value": 12597490
+  },
+  {
+    "year": 2022,
+    "commodity_code": 12,
+    "commodity": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",
+    "value": 445000000
+  },
+  {
+    "year": 2022,
+    "commodity_code": 13,
+    "commodity": "Lac; gums, resins and other vegetable saps and extracts",
+    "value": 881235
+  },
+  {
+    "year": 2022,
+    "commodity_code": 14,
+    "commodity": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+    "value": 2751007
+  },
+  {
+    "year": 2022,
+    "commodity_code": 15,
+    "commodity": "Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes",
+    "value": 830000000
+  },
+  {
+    "year": 2022,
+    "commodity_code": 16,
+    "commodity": "Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",
+    "value": 6787599
+  },
+  {
+    "year": 2022,
+    "commodity_code": 17,
+    "commodity": "Sugars and sugar confectionery",
+    "value": 31618540
+  },
+  {
+    "year": 2022,
+    "commodity_code": 18,
+    "commodity": "Cocoa and cocoa preparations",
+    "value": 23092689
+  },
+  {
+    "year": 2022,
+    "commodity_code": 19,
+    "commodity": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+    "value": 33161225
+  },
+  {
+    "year": 2022,
+    "commodity_code": 20,
+    "commodity": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "value": 45906226
+  },
+  {
+    "year": 2022,
+    "commodity_code": 21,
+    "commodity": "Miscellaneous edible preparations",
+    "value": 25556024
+  },
+  {
+    "year": 2022,
+    "commodity_code": 22,
+    "commodity": "Beverages, spirits and vinegar",
+    "value": 32257428
+  }
+]

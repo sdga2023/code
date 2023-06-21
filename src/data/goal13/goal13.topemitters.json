@@ -1,0 +1,362 @@
+[
+  {
+    "toprest": "top",
+    "year": 1990,
+    "value": 20599.7
+  },
+  {
+    "toprest": "top",
+    "year": 1991,
+    "value": 20648.5
+  },
+  {
+    "toprest": "top",
+    "year": 1992,
+    "value": 20556.8
+  },
+  {
+    "toprest": "top",
+    "year": 1993,
+    "value": 20607.7
+  },
+  {
+    "toprest": "top",
+    "year": 1994,
+    "value": 20686.3
+  },
+  {
+    "toprest": "top",
+    "year": 1995,
+    "value": 21241.1
+  },
+  {
+    "toprest": "top",
+    "year": 1996,
+    "value": 21401.3
+  },
+  {
+    "toprest": "top",
+    "year": 1997,
+    "value": 22487.3
+  },
+  {
+    "toprest": "top",
+    "year": 1998,
+    "value": 21858.7
+  },
+  {
+    "toprest": "top",
+    "year": 1999,
+    "value": 21766.8
+  },
+  {
+    "toprest": "top",
+    "year": 2000,
+    "value": 22156.5
+  },
+  {
+    "toprest": "top",
+    "year": 2001,
+    "value": 22084.2
+  },
+  {
+    "toprest": "top",
+    "year": 2002,
+    "value": 22806
+  },
+  {
+    "toprest": "top",
+    "year": 2003,
+    "value": 23385.3
+  },
+  {
+    "toprest": "top",
+    "year": 2004,
+    "value": 24733.3
+  },
+  {
+    "toprest": "top",
+    "year": 2005,
+    "value": 25256.8
+  },
+  {
+    "toprest": "top",
+    "year": 2006,
+    "value": 26392.8
+  },
+  {
+    "toprest": "top",
+    "year": 2007,
+    "value": 26735.5
+  },
+  {
+    "toprest": "top",
+    "year": 2008,
+    "value": 26813.7
+  },
+  {
+    "toprest": "top",
+    "year": 2009,
+    "value": 27016.1
+  },
+  {
+    "toprest": "top",
+    "year": 2010,
+    "value": 28188.3
+  },
+  {
+    "toprest": "top",
+    "year": 2011,
+    "value": 28092.8
+  },
+  {
+    "toprest": "top",
+    "year": 2012,
+    "value": 28383.4
+  },
+  {
+    "toprest": "top",
+    "year": 2013,
+    "value": 28893.1
+  },
+  {
+    "toprest": "top",
+    "year": 2014,
+    "value": 29327.4
+  },
+  {
+    "toprest": "top",
+    "year": 2015,
+    "value": 29216
+  },
+  {
+    "toprest": "top",
+    "year": 2016,
+    "value": 29386.9
+  },
+  {
+    "toprest": "top",
+    "year": 2017,
+    "value": 29696.7
+  },
+  {
+    "toprest": "top",
+    "year": 2018,
+    "value": 30451.2
+  },
+  {
+    "toprest": "top",
+    "year": 2020,
+    "value": 30451.2
+  },
+  {
+    "toprest": "top",
+    "year": 2025,
+    "value": 22158.3
+  },
+  {
+    "toprest": "top",
+    "year": 2030,
+    "value": 16758.4
+  },
+  {
+    "toprest": "top",
+    "year": 2035,
+    "value": 12173.3
+  },
+  {
+    "toprest": "top",
+    "year": 2040,
+    "value": 8396.8
+  },
+  {
+    "toprest": "top",
+    "year": 2045,
+    "value": 5380.9
+  },
+  {
+    "toprest": "top",
+    "year": 2050,
+    "value": 2697.7
+  },
+  {
+    "toprest": "rest",
+    "year": 1990,
+    "value": 11147.2
+  },
+  {
+    "toprest": "rest",
+    "year": 1991,
+    "value": 11269.8
+  },
+  {
+    "toprest": "rest",
+    "year": 1992,
+    "value": 11231.3
+  },
+  {
+    "toprest": "rest",
+    "year": 1993,
+    "value": 11271.4
+  },
+  {
+    "toprest": "rest",
+    "year": 1994,
+    "value": 11375.2
+  },
+  {
+    "toprest": "rest",
+    "year": 1995,
+    "value": 11513.9
+  },
+  {
+    "toprest": "rest",
+    "year": 1996,
+    "value": 11689.5
+  },
+  {
+    "toprest": "rest",
+    "year": 1997,
+    "value": 11885.9
+  },
+  {
+    "toprest": "rest",
+    "year": 1998,
+    "value": 12012.5
+  },
+  {
+    "toprest": "rest",
+    "year": 1999,
+    "value": 12070.8
+  },
+  {
+    "toprest": "rest",
+    "year": 2000,
+    "value": 12295.6
+  },
+  {
+    "toprest": "rest",
+    "year": 2001,
+    "value": 12488.2
+  },
+  {
+    "toprest": "rest",
+    "year": 2002,
+    "value": 12748.4
+  },
+  {
+    "toprest": "rest",
+    "year": 2003,
+    "value": 13041.9
+  },
+  {
+    "toprest": "rest",
+    "year": 2004,
+    "value": 13427.8
+  },
+  {
+    "toprest": "rest",
+    "year": 2005,
+    "value": 13719.7
+  },
+  {
+    "toprest": "rest",
+    "year": 2006,
+    "value": 14055.5
+  },
+  {
+    "toprest": "rest",
+    "year": 2007,
+    "value": 14473.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2008,
+    "value": 14757.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2009,
+    "value": 14654.7
+  },
+  {
+    "toprest": "rest",
+    "year": 2010,
+    "value": 15118.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2011,
+    "value": 15330.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2012,
+    "value": 15628.1
+  },
+  {
+    "toprest": "rest",
+    "year": 2013,
+    "value": 15725
+  },
+  {
+    "toprest": "rest",
+    "year": 2014,
+    "value": 15845
+  },
+  {
+    "toprest": "rest",
+    "year": 2015,
+    "value": 15990.1
+  },
+  {
+    "toprest": "rest",
+    "year": 2016,
+    "value": 16430
+  },
+  {
+    "toprest": "rest",
+    "year": 2017,
+    "value": 16640.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2018,
+    "value": 16809.5
+  },
+  {
+    "toprest": "rest",
+    "year": 2020,
+    "value": 16689
+  },
+  {
+    "toprest": "rest",
+    "year": 2025,
+    "value": 17553.4
+  },
+  {
+    "toprest": "rest",
+    "year": 2030,
+    "value": 18950.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2035,
+    "value": 20288.8
+  },
+  {
+    "toprest": "rest",
+    "year": 2040,
+    "value": 21202.3
+  },
+  {
+    "toprest": "rest",
+    "year": 2045,
+    "value": 22284.6
+  },
+  {
+    "toprest": "rest",
+    "year": 2050,
+    "value": 22912.1
+  }
+]

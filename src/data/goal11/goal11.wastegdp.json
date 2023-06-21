@@ -1,0 +1,1690 @@
+[
+  {
+    "iso3c": "ABW",
+    "gdp": 35563.3125,
+    "pop": 103187,
+    "waste": 88132.0167,
+    "sharepopurban": 43.697,
+    "wastepercap": 854.1
+  },
+  {
+    "iso3c": "AFG",
+    "gdp": 2057.062256,
+    "pop": 34656032,
+    "waste": 5628525.37,
+    "sharepopurban": 26.026,
+    "wastepercap": 162.4111315
+  },
+  {
+    "iso3c": "AGO",
+    "gdp": 8036.69043,
+    "pop": 25096150,
+    "waste": 4213643.585,
+    "sharepopurban": 66.825,
+    "wastepercap": 167.9
+  },
+  {
+    "iso3c": "ALB",
+    "gdp": 13724.05859,
+    "pop": 2854191,
+    "waste": 1087446.75,
+    "sharepopurban": 62.112,
+    "wastepercap": 380.9999926
+  },
+  {
+    "iso3c": "AND",
+    "gdp": 43711.80078,
+    "pop": 82431,
+    "waste": 43000,
+    "sharepopurban": 87.916,
+    "wastepercap": 521.648409
+  },
+  {
+    "iso3c": "ARE",
+    "gdp": 67119.13281,
+    "pop": 9770529,
+    "waste": 5617682,
+    "sharepopurban": 87.048,
+    "wastepercap": 574.9619084
+  },
+  {
+    "iso3c": "ARG",
+    "gdp": 23550.09961,
+    "pop": 42981516,
+    "waste": 17910550,
+    "sharepopurban": 92.111,
+    "wastepercap": 416.703543
+  },
+  {
+    "iso3c": "ARM",
+    "gdp": 11019.83887,
+    "pop": 2906220,
+    "waste": 492800,
+    "sharepopurban": 63.313,
+    "wastepercap": 169.5673418
+  },
+  {
+    "iso3c": "ASM",
+    "gdp": 11113.44238,
+    "pop": 55599,
+    "waste": 18989.49,
+    "sharepopurban": 87.153,
+    "wastepercap": 341.5437328
+  },
+  {
+    "iso3c": "ATG",
+    "gdp": 17965.50195,
+    "pop": 96777,
+    "waste": 30585,
+    "sharepopurban": 24.433,
+    "wastepercap": 316.035835
+  },
+  {
+    "iso3c": "AUS",
+    "gdp": 47784.17969,
+    "pop": 23789338,
+    "waste": 13345000,
+    "sharepopurban": 86.241,
+    "wastepercap": 560.9655889
+  },
+  {
+    "iso3c": "AUT",
+    "gdp": 56029.61328,
+    "pop": 8877067,
+    "waste": 5219715.5,
+    "sharepopurban": 58.748,
+    "wastepercap": 588.0000117
+  },
+  {
+    "iso3c": "AZE",
+    "gdp": 14853.91016,
+    "pop": 9649341,
+    "waste": 2930349,
+    "sharepopurban": 56.397,
+    "wastepercap": 303.6838474
+  },
+  {
+    "iso3c": "BDI",
+    "gdp": 839.7785034,
+    "pop": 6741569,
+    "waste": 1872016,
+    "sharepopurban": 13.708,
+    "wastepercap": 277.6825395
+  },
+  {
+    "iso3c": "BEL",
+    "gdp": 51914.91406,
+    "pop": 11484055,
+    "waste": 4765883,
+    "sharepopurban": 98.079,
+    "wastepercap": 415.0000152
+  },
+  {
+    "iso3c": "BEN",
+    "gdp": 2227.352295,
+    "pop": 5521763,
+    "waste": 685936.01,
+    "sharepopurban": 48.415,
+    "wastepercap": 124.2240947
+  },
+  {
+    "iso3c": "BFA",
+    "gdp": 1925.331177,
+    "pop": 18110624,
+    "waste": 2575251.11,
+    "sharepopurban": 30.607,
+    "wastepercap": 142.1956035
+  },
+  {
+    "iso3c": "BGD",
+    "gdp": 3195.737061,
+    "pop": 155727056,
+    "waste": 14778497.33,
+    "sharepopurban": 38.177,
+    "wastepercap": 94.89999817
+  },
+  {
+    "iso3c": "BGR",
+    "gdp": 22279.36133,
+    "pop": 7025037,
+    "waste": 2859190,
+    "sharepopurban": 75.686,
+    "wastepercap": 406.9999916
+  },
+  {
+    "iso3c": "BHR",
+    "gdp": 47937.77734,
+    "pop": 1425171,
+    "waste": 951942.9695,
+    "sharepopurban": 89.506,
+    "wastepercap": 667.95
+  },
+  {
+    "iso3c": "BHS",
+    "gdp": 35400.08203,
+    "pop": 386838,
+    "waste": 264000,
+    "sharepopurban": 83.245,
+    "wastepercap": 682.456222
+  },
+  {
+    "iso3c": "BIH",
+    "gdp": 12671.00781,
+    "pop": 3535961,
+    "waste": 1248718,
+    "sharepopurban": 49.02,
+    "wastepercap": 353.1481258
+  },
+  {
+    "iso3c": "BLR",
+    "gdp": 18307.51953,
+    "pop": 9489616,
+    "waste": 4280000,
+    "sharepopurban": 79.483,
+    "wastepercap": 451.0193036
+  },
+  {
+    "iso3c": "BLZ",
+    "gdp": 7259.024414,
+    "pop": 359288,
+    "waste": 101378.8303,
+    "sharepopurban": 46.025,
+    "wastepercap": 282.1659234
+  },
+  {
+    "iso3c": "BMU",
+    "gdp": 80982.36719,
+    "pop": 64798,
+    "waste": 82000,
+    "sharepopurban": 100,
+    "wastepercap": 1265.471157
+  },
+  {
+    "iso3c": "BOL",
+    "gdp": 7984.413574,
+    "pop": 10724705,
+    "waste": 2219052,
+    "sharepopurban": 70.123,
+    "wastepercap": 206.9103066
+  },
+  {
+    "iso3c": "BRA",
+    "gdp": 14596.24609,
+    "pop": 208494896,
+    "waste": 79069584,
+    "sharepopurban": 87.073,
+    "wastepercap": 379.2399024
+  },
+  {
+    "iso3c": "BRB",
+    "gdp": 15444.74609,
+    "pop": 280601,
+    "waste": 174815.4444,
+    "sharepopurban": 31.191,
+    "wastepercap": 623.00364
+  },
+  {
+    "iso3c": "BRN",
+    "gdp": 60865.98828,
+    "pop": 423196,
+    "waste": 216253.156,
+    "sharepopurban": 78.25,
+    "wastepercap": 511
+  },
+  {
+    "iso3c": "BTN",
+    "gdp": 6743.016113,
+    "pop": 686958,
+    "waste": 111314.05,
+    "sharepopurban": 42.316,
+    "wastepercap": 162.0390912
+  },
+  {
+    "iso3c": "BWA",
+    "gdp": 14126.38965,
+    "pop": 2014866,
+    "waste": 210854.4426,
+    "sharepopurban": 70.877,
+    "wastepercap": 104.6493626
+  },
+  {
+    "iso3c": "CAF",
+    "gdp": 822.6104736,
+    "pop": 4515392,
+    "waste": 1105983,
+    "sharepopurban": 42.198,
+    "wastepercap": 244.9362093
+  },
+  {
+    "iso3c": "CAN",
+    "gdp": 47672.07813,
+    "pop": 35544564,
+    "waste": 25103034,
+    "sharepopurban": 81.562,
+    "wastepercap": 706.2411569
+  },
+  {
+    "iso3c": "CHE",
+    "gdp": 68394.28906,
+    "pop": 8574832,
+    "waste": 6079556,
+    "sharepopurban": 73.915,
+    "wastepercap": 709.0000131
+  },
+  {
+    "iso3c": "CHI",
+    "gdp": 46672.59375,
+    "pop": 164541,
+    "waste": 178933,
+    "sharepopurban": 30.963,
+    "wastepercap": 1087.467561
+  },
+  {
+    "iso3c": "CHL",
+    "gdp": 20361.71484,
+    "pop": 16829442,
+    "waste": 6517000,
+    "sharepopurban": 87.727,
+    "wastepercap": 387.238032
+  },
+  {
+    "iso3c": "CHN",
+    "gdp": 16092.30078,
+    "pop": 1400050048,
+    "waste": 395081376,
+    "sharepopurban": 61.428,
+    "wastepercap": 282.1908949
+  },
+  {
+    "iso3c": "CIV",
+    "gdp": 3660.902832,
+    "pop": 20401332,
+    "waste": 4440814.27,
+    "sharepopurban": 51.706,
+    "wastepercap": 217.6727613
+  },
+  {
+    "iso3c": "CMR",
+    "gdp": 3262.763672,
+    "pop": 21655716,
+    "waste": 3270616.59,
+    "sharepopurban": 57.56,
+    "wastepercap": 151.0278667
+  },
+  {
+    "iso3c": "COD",
+    "gdp": 1055.572998,
+    "pop": 78736152,
+    "waste": 14385226.02,
+    "sharepopurban": 45.638,
+    "wastepercap": 182.7016644
+  },
+  {
+    "iso3c": "COG",
+    "gdp": 4899.57959,
+    "pop": 2648507,
+    "waste": 451200,
+    "sharepopurban": 67.829,
+    "wastepercap": 170.3601312
+  },
+  {
+    "iso3c": "COL",
+    "gdp": 12523.00684,
+    "pop": 46406648,
+    "waste": 12150120,
+    "sharepopurban": 81.425,
+    "wastepercap": 261.8185222
+  },
+  {
+    "iso3c": "COM",
+    "gdp": 2959.540039,
+    "pop": 777424,
+    "waste": 91013,
+    "sharepopurban": 29.38,
+    "wastepercap": 117.0699644
+  },
+  {
+    "iso3c": "CPV",
+    "gdp": 6353.783203,
+    "pop": 513979,
+    "waste": 132555,
+    "sharepopurban": 66.652,
+    "wastepercap": 257.8996418
+  },
+  {
+    "iso3c": "CRI",
+    "gdp": 18168.71484,
+    "pop": 4757575,
+    "waste": 1460000,
+    "sharepopurban": 80.771,
+    "wastepercap": 306.8790298
+  },
+  {
+    "iso3c": "CUB",
+    "gdp": 12984.71094,
+    "pop": 11303687,
+    "waste": 2692691.98,
+    "sharepopurban": 77.194,
+    "wastepercap": 238.2136006
+  },
+  {
+    "iso3c": "CUW",
+    "gdp": 27503.78906,
+    "pop": 153822,
+    "waste": 24703.8132,
+    "sharepopurban": 89.062,
+    "wastepercap": 160.6
+  },
+  {
+    "iso3c": "CYM",
+    "gdp": 66207.44531,
+    "pop": 59172,
+    "waste": 60000,
+    "sharepopurban": 100,
+    "wastepercap": 1013.993105
+  },
+  {
+    "iso3c": "CYP",
+    "gdp": 39544.68359,
+    "pop": 1198575,
+    "waste": 769485.125,
+    "sharepopurban": 66.821,
+    "wastepercap": 641.9999791
+  },
+  {
+    "iso3c": "DEU",
+    "gdp": 53784.78125,
+    "pop": 83132800,
+    "waste": 50627876,
+    "sharepopurban": 77.453,
+    "wastepercap": 609.0000096
+  },
+  {
+    "iso3c": "DJI",
+    "gdp": 6596.775391,
+    "pop": 746221,
+    "waste": 114997.249,
+    "sharepopurban": 78.062,
+    "wastepercap": 154.1061549
+  },
+  {
+    "iso3c": "DMA",
+    "gdp": 11708.63965,
+    "pop": 72400,
+    "waste": 13176,
+    "sharepopurban": 71.09,
+    "wastepercap": 181.9889503
+  },
+  {
+    "iso3c": "DNK",
+    "gdp": 57821.19922,
+    "pop": 5818553,
+    "waste": 4910858.5,
+    "sharepopurban": 88.116,
+    "wastepercap": 843.9999601
+  },
+  {
+    "iso3c": "DOM",
+    "gdp": 15328.35254,
+    "pop": 10528394,
+    "waste": 4063910,
+    "sharepopurban": 82.54,
+    "wastepercap": 385.995243
+  },
+  {
+    "iso3c": "DZA",
+    "gdp": 11826.16504,
+    "pop": 40606052,
+    "waste": 12378740,
+    "sharepopurban": 73.733,
+    "wastepercap": 304.8496318
+  },
+  {
+    "iso3c": "ECU",
+    "gdp": 11896.37695,
+    "pop": 16144368,
+    "waste": 5297211.143,
+    "sharepopurban": 64.166,
+    "wastepercap": 328.1151138
+  },
+  {
+    "iso3c": "EGY",
+    "gdp": 10301.10742,
+    "pop": 87813256,
+    "waste": 21000000,
+    "sharepopurban": 42.783,
+    "wastepercap": 239.1438486
+  },
+  {
+    "iso3c": "ERI",
+    "gdp": 1714.552368,
+    "pop": 4474690,
+    "waste": 726957.37,
+    "sharepopurban": 41.347,
+    "wastepercap": 162.4598285
+  },
+  {
+    "iso3c": "ESP",
+    "gdp": 40985.55859,
+    "pop": 47076780,
+    "waste": 22408548,
+    "sharepopurban": 80.81,
+    "wastepercap": 476.0000153
+  },
+  {
+    "iso3c": "EST",
+    "gdp": 36956.28516,
+    "pop": 1326590,
+    "waste": 489511.7188,
+    "sharepopurban": 69.229,
+    "wastepercap": 369.0000066
+  },
+  {
+    "iso3c": "ETH",
+    "gdp": 1779.083984,
+    "pop": 99873032,
+    "waste": 6532786.97,
+    "sharepopurban": 21.695,
+    "wastepercap": 65.41092064
+  },
+  {
+    "iso3c": "FIN",
+    "gdp": 48814.30859,
+    "pop": 5520314,
+    "waste": 3124497.75,
+    "sharepopurban": 85.517,
+    "wastepercap": 566.0000047
+  },
+  {
+    "iso3c": "FJI",
+    "gdp": 10787.68555,
+    "pop": 867086,
+    "waste": 189389.594,
+    "sharepopurban": 57.247,
+    "wastepercap": 218.4207726
+  },
+  {
+    "iso3c": "FRA",
+    "gdp": 46110.18359,
+    "pop": 67059888,
+    "waste": 36748820,
+    "sharepopurban": 80.975,
+    "wastepercap": 548.0000205
+  },
+  {
+    "iso3c": "FRO",
+    "gdp": 44402.87891,
+    "pop": 48842,
+    "waste": 61000,
+    "sharepopurban": 42.398,
+    "wastepercap": 1248.925105
+  },
+  {
+    "iso3c": "FSM",
+    "gdp": 3440.064209,
+    "pop": 104937,
+    "waste": 26039.57,
+    "sharepopurban": 22.933,
+    "wastepercap": 248.1447916
+  },
+  {
+    "iso3c": "GAB",
+    "gdp": 18514.65234,
+    "pop": 1086137,
+    "waste": 238102.31,
+    "sharepopurban": 90.092,
+    "wastepercap": 219.2194079
+  },
+  {
+    "iso3c": "GBR",
+    "gdp": 46290.12109,
+    "pop": 66460344,
+    "waste": 30771140,
+    "sharepopurban": 83.903,
+    "wastepercap": 463.000011
+  },
+  {
+    "iso3c": "GEO",
+    "gdp": 12605.13965,
+    "pop": 3717100,
+    "waste": 800000,
+    "sharepopurban": 59.453,
+    "wastepercap": 215.2215437
+  },
+  {
+    "iso3c": "GHA",
+    "gdp": 3092.596924,
+    "pop": 21542008,
+    "waste": 3538274.978,
+    "sharepopurban": 57.349,
+    "wastepercap": 164.2500076
+  },
+  {
+    "iso3c": "GIB",
+    "gdp": 43711.80078,
+    "pop": 33623,
+    "waste": 16954,
+    "sharepopurban": 100,
+    "wastepercap": 504.2381703
+  },
+  {
+    "iso3c": "GIN",
+    "gdp": 1622.776855,
+    "pop": 8132552,
+    "waste": 596911,
+    "sharepopurban": 36.875,
+    "wastepercap": 73.39774772
+  },
+  {
+    "iso3c": "GMB",
+    "gdp": 2180.855713,
+    "pop": 1311349,
+    "waste": 193440.54,
+    "sharepopurban": 62.582,
+    "wastepercap": 147.5126301
+  },
+  {
+    "iso3c": "GNB",
+    "gdp": 1800.068604,
+    "pop": 1770526,
+    "waste": 289514,
+    "sharepopurban": 44.196,
+    "wastepercap": 163.518638
+  },
+  {
+    "iso3c": "GNQ",
+    "gdp": 24827.07227,
+    "pop": 1221490,
+    "waste": 198443.06,
+    "sharepopurban": 73.1,
+    "wastepercap": 162.4598318
+  },
+  {
+    "iso3c": "GRC",
+    "gdp": 30465.44922,
+    "pop": 10716322,
+    "waste": 5615352.5,
+    "sharepopurban": 79.715,
+    "wastepercap": 523.9999787
+  },
+  {
+    "iso3c": "GRD",
+    "gdp": 13207.71191,
+    "pop": 105481,
+    "waste": 29536.11394,
+    "sharepopurban": 36.537,
+    "wastepercap": 280.0135943
+  },
+  {
+    "iso3c": "GRL",
+    "gdp": 43948.5625,
+    "pop": 56905,
+    "waste": 50000,
+    "sharepopurban": 87.282,
+    "wastepercap": 878.6574115
+  },
+  {
+    "iso3c": "GTM",
+    "gdp": 8125.364746,
+    "pop": 16252429,
+    "waste": 2756740.971,
+    "sharepopurban": 51.836,
+    "wastepercap": 169.6202439
+  },
+  {
+    "iso3c": "GUM",
+    "gdp": 59074.94141,
+    "pop": 159973,
+    "waste": 141500,
+    "sharepopurban": 94.938,
+    "wastepercap": 884.5242635
+  },
+  {
+    "iso3c": "GUY",
+    "gdp": 9812.089844,
+    "pop": 746556,
+    "waste": 179251.5,
+    "sharepopurban": 26.786,
+    "wastepercap": 240.1045601
+  },
+  {
+    "iso3c": "HKG",
+    "gdp": 57215.96875,
+    "pop": 7305700,
+    "waste": 5679816.465,
+    "sharepopurban": 100,
+    "wastepercap": 777.45
+  },
+  {
+    "iso3c": "HND",
+    "gdp": 5395.61377,
+    "pop": 9112867,
+    "waste": 2162027.696,
+    "sharepopurban": 58.359,
+    "wastepercap": 237.25
+  },
+  {
+    "iso3c": "HRV",
+    "gdp": 28829.35547,
+    "pop": 4067500,
+    "waste": 1810037.5,
+    "sharepopurban": 57.553,
+    "wastepercap": 445
+  },
+  {
+    "iso3c": "HTI",
+    "gdp": 2952.618652,
+    "pop": 10847334,
+    "waste": 2309852.455,
+    "sharepopurban": 57.088,
+    "wastepercap": 212.9419501
+  },
+  {
+    "iso3c": "HUN",
+    "gdp": 32643.49023,
+    "pop": 9769949,
+    "waste": 3780970.25,
+    "sharepopurban": 71.942,
+    "wastepercap": 386.9999987
+  },
+  {
+    "iso3c": "IDN",
+    "gdp": 10531.19824,
+    "pop": 261115456,
+    "waste": 65200000,
+    "sharepopurban": 56.641,
+    "wastepercap": 249.6979727
+  },
+  {
+    "iso3c": "IMN",
+    "gdp": 44203.62109,
+    "pop": 80759,
+    "waste": 50551,
+    "sharepopurban": 52.898,
+    "wastepercap": 625.9488107
+  },
+  {
+    "iso3c": "IND",
+    "gdp": 6496.807617,
+    "pop": 1352617344,
+    "waste": 189750000,
+    "sharepopurban": 34.926,
+    "wastepercap": 140.2835775
+  },
+  {
+    "iso3c": "IRL",
+    "gdp": 83388.71875,
+    "pop": 4867316,
+    "waste": 2910655,
+    "sharepopurban": 63.653,
+    "wastepercap": 598.0000066
+  },
+  {
+    "iso3c": "IRN",
+    "gdp": 14535.8623,
+    "pop": 80277424,
+    "waste": 17885000,
+    "sharepopurban": 75.874,
+    "wastepercap": 222.7899092
+  },
+  {
+    "iso3c": "IRQ",
+    "gdp": 10310.67969,
+    "pop": 36115648,
+    "waste": 13140000,
+    "sharepopurban": 70.893,
+    "wastepercap": 363.8312124
+  },
+  {
+    "iso3c": "ISL",
+    "gdp": 55274.1875,
+    "pop": 343400,
+    "waste": 225270.4063,
+    "sharepopurban": 93.898,
+    "wastepercap": 656.0000183
+  },
+  {
+    "iso3c": "ISR",
+    "gdp": 37687.74609,
+    "pop": 8380100,
+    "waste": 5400000,
+    "sharepopurban": 92.587,
+    "wastepercap": 644.3837186
+  },
+  {
+    "iso3c": "ITA",
+    "gdp": 42419.72266,
+    "pop": 60297396,
+    "waste": 30088400,
+    "sharepopurban": 71.039,
+    "wastepercap": 498.99999
+  },
+  {
+    "iso3c": "JAM",
+    "gdp": 9550.810547,
+    "pop": 2881355,
+    "waste": 1051694.575,
+    "sharepopurban": 56.311,
+    "wastepercap": 365
+  },
+  {
+    "iso3c": "JOR",
+    "gdp": 10413.17578,
+    "pop": 8413464,
+    "waste": 2529997,
+    "sharepopurban": 91.418,
+    "wastepercap": 300.7081269
+  },
+  {
+    "iso3c": "JPN",
+    "gdp": 41309.95703,
+    "pop": 126529104,
+    "waste": 42720000,
+    "sharepopurban": 91.782,
+    "wastepercap": 337.629831
+  },
+  {
+    "iso3c": "KAZ",
+    "gdp": 22702.58008,
+    "pop": 16791424,
+    "waste": 4659740,
+    "sharepopurban": 57.671,
+    "wastepercap": 277.507137
+  },
+  {
+    "iso3c": "KEN",
+    "gdp": 3329.854492,
+    "pop": 41350152,
+    "waste": 5595099,
+    "sharepopurban": 27.995,
+    "wastepercap": 135.3102402
+  },
+  {
+    "iso3c": "KGZ",
+    "gdp": 4805.141113,
+    "pop": 5956900,
+    "waste": 1113300,
+    "sharepopurban": 36.856,
+    "wastepercap": 186.8925112
+  },
+  {
+    "iso3c": "KHM",
+    "gdp": 3364.278809,
+    "pop": 15270790,
+    "waste": 1089000,
+    "sharepopurban": 24.232,
+    "wastepercap": 71.31261709
+  },
+  {
+    "iso3c": "KIR",
+    "gdp": 2249.768555,
+    "pop": 114395,
+    "waste": 35723.8275,
+    "sharepopurban": 55.594,
+    "wastepercap": 312.2848682
+  },
+  {
+    "iso3c": "KNA",
+    "gdp": 25569.35742,
+    "pop": 54288,
+    "waste": 32892.14,
+    "sharepopurban": 30.843,
+    "wastepercap": 605.8823313
+  },
+  {
+    "iso3c": "KOR",
+    "gdp": 42105.28125,
+    "pop": 51606632,
+    "waste": 20452776,
+    "sharepopurban": 81.414,
+    "wastepercap": 396.3206899
+  },
+  {
+    "iso3c": "KWT",
+    "gdp": 58810.30078,
+    "pop": 2998083,
+    "waste": 1750000,
+    "sharepopurban": 100,
+    "wastepercap": 583.7063217
+  },
+  {
+    "iso3c": "LAO",
+    "gdp": 6543.666992,
+    "pop": 6663967,
+    "waste": 351900,
+    "sharepopurban": 36.29,
+    "wastepercap": 52.80638395
+  },
+  {
+    "iso3c": "LBN",
+    "gdp": 16966.74023,
+    "pop": 5603279,
+    "waste": 2040000,
+    "sharepopurban": 88.925,
+    "wastepercap": 364.0725368
+  },
+  {
+    "iso3c": "LBR",
+    "gdp": 1333.422241,
+    "pop": 3512932,
+    "waste": 564466.7,
+    "sharepopurban": 52.089,
+    "wastepercap": 160.6825011
+  },
+  {
+    "iso3c": "LBY",
+    "gdp": 8479.946289,
+    "pop": 6193501,
+    "waste": 2147596.472,
+    "sharepopurban": 80.691,
+    "wastepercap": 346.75
+  },
+  {
+    "iso3c": "LCA",
+    "gdp": 14029.98242,
+    "pop": 177206,
+    "waste": 77616.228,
+    "sharepopurban": 18.841,
+    "wastepercap": 438
+  },
+  {
+    "iso3c": "LIE",
+    "gdp": 45726.98828,
+    "pop": 36545,
+    "waste": 32382,
+    "sharepopurban": 14.416,
+    "wastepercap": 886.0856478
+  },
+  {
+    "iso3c": "LKA",
+    "gdp": 12287.47266,
+    "pop": 21203000,
+    "waste": 2631650,
+    "sharepopurban": 18.713,
+    "wastepercap": 124.1168703
+  },
+  {
+    "iso3c": "LSO",
+    "gdp": 1978.608398,
+    "pop": 1965662,
+    "waste": 73457,
+    "sharepopurban": 29.028,
+    "wastepercap": 37.37010737
+  },
+  {
+    "iso3c": "LTU",
+    "gdp": 37278.30469,
+    "pop": 2786844,
+    "waste": 1315390.375,
+    "sharepopurban": 68.046,
+    "wastepercap": 472.0000025
+  },
+  {
+    "iso3c": "LUX",
+    "gdp": 114323.4063,
+    "pop": 619896,
+    "waste": 490337.75,
+    "sharepopurban": 91.453,
+    "wastepercap": 791.0000226
+  },
+  {
+    "iso3c": "LVA",
+    "gdp": 30982.17383,
+    "pop": 1912789,
+    "waste": 839714.375,
+    "sharepopurban": 68.315,
+    "wastepercap": 439.0000021
+  },
+  {
+    "iso3c": "MAC",
+    "gdp": 117335.5859,
+    "pop": 612167,
+    "waste": 377942,
+    "sharepopurban": 100,
+    "wastepercap": 617.3838185
+  },
+  {
+    "iso3c": "MAR",
+    "gdp": 6915.103027,
+    "pop": 34318080,
+    "waste": 6852000,
+    "sharepopurban": 63.532,
+    "wastepercap": 199.6615195
+  },
+  {
+    "iso3c": "MCO",
+    "gdp": 43711.80078,
+    "pop": 37783,
+    "waste": 46000,
+    "sharepopurban": 100,
+    "wastepercap": 1217.47876
+  },
+  {
+    "iso3c": "MDA",
+    "gdp": 10360.83008,
+    "pop": 3554108,
+    "waste": 3981200,
+    "sharepopurban": 42.849,
+    "wastepercap": 1120.168549
+  },
+  {
+    "iso3c": "MDG",
+    "gdp": 1565.866943,
+    "pop": 24894552,
+    "waste": 3768759.16,
+    "sharepopurban": 38.534,
+    "wastepercap": 151.3889127
+  },
+  {
+    "iso3c": "MDV",
+    "gdp": 17284.60938,
+    "pop": 409163,
+    "waste": 211505.78,
+    "sharepopurban": 40.669,
+    "wastepercap": 516.9230356
+  },
+  {
+    "iso3c": "MEX",
+    "gdp": 19332.07422,
+    "pop": 125890952,
+    "waste": 53100000,
+    "sharepopurban": 80.731,
+    "wastepercap": 421.7936171
+  },
+  {
+    "iso3c": "MHL",
+    "gdp": 3628.895264,
+    "pop": 52793,
+    "waste": 8614,
+    "sharepopurban": 77.794,
+    "wastepercap": 163.1655712
+  },
+  {
+    "iso3c": "MKD",
+    "gdp": 16147.72949,
+    "pop": 2082958,
+    "waste": 626970.375,
+    "sharepopurban": 58.482,
+    "wastepercap": 301.0000082
+  },
+  {
+    "iso3c": "MLI",
+    "gdp": 2007.80603,
+    "pop": 16006670,
+    "waste": 1937354.44,
+    "sharepopurban": 43.909,
+    "wastepercap": 121.0341964
+  },
+  {
+    "iso3c": "MLT",
+    "gdp": 43707.53906,
+    "pop": 502653,
+    "waste": 348841.1875,
+    "sharepopurban": 94.744,
+    "wastepercap": 694.0000109
+  },
+  {
+    "iso3c": "MMR",
+    "gdp": 1093.788086,
+    "pop": 46095464,
+    "waste": 4677306.529,
+    "sharepopurban": 31.141,
+    "wastepercap": 101.4699956
+  },
+  {
+    "iso3c": "MNE",
+    "gdp": 20752.62109,
+    "pop": 622227,
+    "waste": 329780.3125,
+    "sharepopurban": 67.488,
+    "wastepercap": 530.000004
+  },
+  {
+    "iso3c": "MNG",
+    "gdp": 10940.41504,
+    "pop": 3027398,
+    "waste": 2900000,
+    "sharepopurban": 68.657,
+    "wastepercap": 957.918318
+  },
+  {
+    "iso3c": "MNP",
+    "gdp": 60955.72656,
+    "pop": 54036,
+    "waste": 32761.4145,
+    "sharepopurban": 91.798,
+    "wastepercap": 606.2886687
+  },
+  {
+    "iso3c": "MOZ",
+    "gdp": 1217.09021,
+    "pop": 27212382,
+    "waste": 2500000,
+    "sharepopurban": 37.074,
+    "wastepercap": 91.86994362
+  },
+  {
+    "iso3c": "MRT",
+    "gdp": 4783.635742,
+    "pop": 3506288,
+    "waste": 454000,
+    "sharepopurban": 55.327,
+    "wastepercap": 129.4816627
+  },
+  {
+    "iso3c": "MUS",
+    "gdp": 20646.93359,
+    "pop": 1263473,
+    "waste": 438000,
+    "sharepopurban": 40.76,
+    "wastepercap": 346.6635219
+  },
+  {
+    "iso3c": "MWI",
+    "gdp": 999.4413452,
+    "pop": 16577147,
+    "waste": 1297844.48,
+    "sharepopurban": 17.427,
+    "wastepercap": 78.29118485
+  },
+  {
+    "iso3c": "MYS",
+    "gdp": 23906.26563,
+    "pop": 30228016,
+    "waste": 12982685,
+    "sharepopurban": 77.16,
+    "wastepercap": 429.4917999
+  },
+  {
+    "iso3c": "NAM",
+    "gdp": 6152.987305,
+    "pop": 1559983,
+    "waste": 256729,
+    "sharepopurban": 52.033,
+    "wastepercap": 164.5716652
+  },
+  {
+    "iso3c": "NCL",
+    "gdp": 57330.20313,
+    "pop": 278000,
+    "waste": 108157.384,
+    "sharepopurban": 71.518,
+    "wastepercap": 389.0553381
+  },
+  {
+    "iso3c": "NER",
+    "gdp": 1038.224121,
+    "pop": 8842415,
+    "waste": 1865645.67,
+    "sharepopurban": 16.626,
+    "wastepercap": 210.9882504
+  },
+  {
+    "iso3c": "NGA",
+    "gdp": 4690.379395,
+    "pop": 154402176,
+    "waste": 27614830.07,
+    "sharepopurban": 51.958,
+    "wastepercap": 178.8500058
+  },
+  {
+    "iso3c": "NIC",
+    "gdp": 4611.840332,
+    "pop": 5737723,
+    "waste": 1528816.293,
+    "sharepopurban": 59.012,
+    "wastepercap": 266.4499999
+  },
+  {
+    "iso3c": "NLD",
+    "gdp": 56849.375,
+    "pop": 17332850,
+    "waste": 8805088,
+    "sharepopurban": 92.236,
+    "wastepercap": 508.0000115
+  },
+  {
+    "iso3c": "NOR",
+    "gdp": 64962.26172,
+    "pop": 5347896,
+    "waste": 4149967.25,
+    "sharepopurban": 82.974,
+    "wastepercap": 775.9999914
+  },
+  {
+    "iso3c": "NPL",
+    "gdp": 2902.249268,
+    "pop": 28982772,
+    "waste": 1768977.49,
+    "sharepopurban": 20.576,
+    "wastepercap": 61.03548308
+  },
+  {
+    "iso3c": "NRU",
+    "gdp": 11167.31934,
+    "pop": 13049,
+    "waste": 6191.7505,
+    "sharepopurban": 100,
+    "wastepercap": 474.5
+  },
+  {
+    "iso3c": "NZL",
+    "gdp": 41857.47656,
+    "pop": 4692700,
+    "waste": 3405000,
+    "sharepopurban": 86.699,
+    "wastepercap": 725.5950732
+  },
+  {
+    "iso3c": "OMN",
+    "gdp": 30535.83398,
+    "pop": 3960925,
+    "waste": 1734885.15,
+    "sharepopurban": 86.276,
+    "wastepercap": 438
+  },
+  {
+    "iso3c": "PAK",
+    "gdp": 4571.414551,
+    "pop": 193203472,
+    "waste": 30760000,
+    "sharepopurban": 37.165,
+    "wastepercap": 159.2103893
+  },
+  {
+    "iso3c": "PAN",
+    "gdp": 28436.35938,
+    "pop": 3969249,
+    "waste": 1472262.215,
+    "sharepopurban": 68.414,
+    "wastepercap": 370.9170715
+  },
+  {
+    "iso3c": "PER",
+    "gdp": 11877.08398,
+    "pop": 30973354,
+    "waste": 8356711.13,
+    "sharepopurban": 78.297,
+    "wastepercap": 269.8032357
+  },
+  {
+    "iso3c": "PHL",
+    "gdp": 7705.04541,
+    "pop": 103320224,
+    "waste": 14631922.9,
+    "sharepopurban": 47.408,
+    "wastepercap": 141.6172201
+  },
+  {
+    "iso3c": "PLW",
+    "gdp": 18275.02539,
+    "pop": 21503,
+    "waste": 9426.7455,
+    "sharepopurban": 80.988,
+    "wastepercap": 438.3921081
+  },
+  {
+    "iso3c": "PNG",
+    "gdp": 3912.381104,
+    "pop": 7755785,
+    "waste": 1000000,
+    "sharepopurban": 13.345,
+    "wastepercap": 128.9360136
+  },
+  {
+    "iso3c": "POL",
+    "gdp": 33221.54297,
+    "pop": 37970872,
+    "waste": 12758213,
+    "sharepopurban": 60.043,
+    "wastepercap": 336.0000002
+  },
+  {
+    "iso3c": "PRI",
+    "gdp": 34311.03125,
+    "pop": 3473181,
+    "waste": 4170953,
+    "sharepopurban": 93.581,
+    "wastepercap": 1200.902861
+  },
+  {
+    "iso3c": "PRT",
+    "gdp": 34961.94531,
+    "pop": 10269417,
+    "waste": 5268211,
+    "sharepopurban": 66.31,
+    "wastepercap": 513.0000077
+  },
+  {
+    "iso3c": "PRY",
+    "gdp": 11810.42773,
+    "pop": 6639119,
+    "waste": 1818501.365,
+    "sharepopurban": 62.183,
+    "wastepercap": 273.9070297
+  },
+  {
+    "iso3c": "PSE",
+    "gdp": 5985.683105,
+    "pop": 4046901,
+    "waste": 1387000,
+    "sharepopurban": 76.719,
+    "wastepercap": 342.7313888
+  },
+  {
+    "iso3c": "PYF",
+    "gdp": 60955.72656,
+    "pop": 273528,
+    "waste": 147000,
+    "sharepopurban": 61.975,
+    "wastepercap": 537.4221286
+  },
+  {
+    "iso3c": "QAT",
+    "gdp": 96261.66406,
+    "pop": 2109568,
+    "waste": 1000990.016,
+    "sharepopurban": 99.235,
+    "wastepercap": 474.5
+  },
+  {
+    "iso3c": "ROU",
+    "gdp": 29983.55664,
+    "pop": 19356544,
+    "waste": 5419832.5,
+    "sharepopurban": 54.194,
+    "wastepercap": 280.0000093
+  },
+  {
+    "iso3c": "RUS",
+    "gdp": 26012.84961,
+    "pop": 143201680,
+    "waste": 60000000,
+    "sharepopurban": 74.754,
+    "wastepercap": 418.9894979
+  },
+  {
+    "iso3c": "RWA",
+    "gdp": 1950.528076,
+    "pop": 11917508,
+    "waste": 4384969,
+    "sharepopurban": 17.432,
+    "wastepercap": 367.9434493
+  },
+  {
+    "iso3c": "SAU",
+    "gdp": 48921.23047,
+    "pop": 31557144,
+    "waste": 16125700.58,
+    "sharepopurban": 84.287,
+    "wastepercap": 510.9999999
+  },
+  {
+    "iso3c": "SDN",
+    "gdp": 4191.823242,
+    "pop": 38647804,
+    "waste": 2831291,
+    "sharepopurban": 35.253,
+    "wastepercap": 73.25878076
+  },
+  {
+    "iso3c": "SEN",
+    "gdp": 3067.662598,
+    "pop": 15411614,
+    "waste": 2454059.25,
+    "sharepopurban": 48.122,
+    "wastepercap": 159.2344092
+  },
+  {
+    "iso3c": "SGP",
+    "gdp": 97341.46875,
+    "pop": 5703600,
+    "waste": 1870000,
+    "sharepopurban": 100,
+    "wastepercap": 327.863104
+  },
+  {
+    "iso3c": "SLB",
+    "gdp": 2596.452881,
+    "pop": 563513,
+    "waste": 179971.9644,
+    "sharepopurban": 24.67,
+    "wastepercap": 319.375
+  },
+  {
+    "iso3c": "SLE",
+    "gdp": 1237.630249,
+    "pop": 5439695,
+    "waste": 610222.09,
+    "sharepopurban": 42.923,
+    "wastepercap": 112.1794678
+  },
+  {
+    "iso3c": "SLV",
+    "gdp": 7328.713379,
+    "pop": 6164626,
+    "waste": 1648996.18,
+    "sharepopurban": 73.444,
+    "wastepercap": 267.4933045
+  },
+  {
+    "iso3c": "SMR",
+    "gdp": 58806.19922,
+    "pop": 33203,
+    "waste": 17174.68,
+    "sharepopurban": 97.499,
+    "wastepercap": 517.2628979
+  },
+  {
+    "iso3c": "SOM",
+    "gdp": 1862.614136,
+    "pop": 14317996,
+    "waste": 2326099.17,
+    "sharepopurban": 46.141,
+    "wastepercap": 162.4598282
+  },
+  {
+    "iso3c": "SRB",
+    "gdp": 18351.27344,
+    "pop": 6944975,
+    "waste": 2347401.5,
+    "sharepopurban": 56.446,
+    "wastepercap": 337.9999928
+  },
+  {
+    "iso3c": "SSD",
+    "gdp": 1795.991943,
+    "pop": 11177490,
+    "waste": 2680681,
+    "sharepopurban": 20.199,
+    "wastepercap": 239.8285304
+  },
+  {
+    "iso3c": "STP",
+    "gdp": 3720.786865,
+    "pop": 191266,
+    "waste": 25586.5,
+    "sharepopurban": 74.354,
+    "wastepercap": 133.7744293
+  },
+  {
+    "iso3c": "SUR",
+    "gdp": 16953.80273,
+    "pop": 526103,
+    "waste": 78619.79915,
+    "sharepopurban": 66.149,
+    "wastepercap": 149.4380362
+  },
+  {
+    "iso3c": "SVK",
+    "gdp": 31965.76172,
+    "pop": 5454073,
+    "waste": 2296164.75,
+    "sharepopurban": 53.76,
+    "wastepercap": 421.0000031
+  },
+  {
+    "iso3c": "SVN",
+    "gdp": 39037.93359,
+    "pop": 2087946,
+    "waste": 1052324.75,
+    "sharepopurban": 55.118,
+    "wastepercap": 503.9999837
+  },
+  {
+    "iso3c": "SWE",
+    "gdp": 52608.71094,
+    "pop": 10285453,
+    "waste": 4618168.5,
+    "sharepopurban": 87.977,
+    "wastepercap": 449.00001
+  },
+  {
+    "iso3c": "SWZ",
+    "gdp": 8321.106445,
+    "pop": 1343098,
+    "waste": 218199.47,
+    "sharepopurban": 24.171,
+    "wastepercap": 162.459828
+  },
+  {
+    "iso3c": "SYC",
+    "gdp": 23302.95313,
+    "pop": 88303,
+    "waste": 48000,
+    "sharepopurban": 57.546,
+    "wastepercap": 543.5828907
+  },
+  {
+    "iso3c": "SYR",
+    "gdp": 8587.050781,
+    "pop": 20824892,
+    "waste": 4500000,
+    "sharepopurban": 55.475,
+    "wastepercap": 216.0875552
+  },
+  {
+    "iso3c": "TCD",
+    "gdp": 1732.691284,
+    "pop": 11887202,
+    "waste": 1358850.53,
+    "sharepopurban": 23.52,
+    "wastepercap": 114.3120585
+  },
+  {
+    "iso3c": "TGO",
+    "gdp": 1404.132935,
+    "pop": 7228915,
+    "waste": 1109030.45,
+    "sharepopurban": 42.8,
+    "wastepercap": 153.415893
+  },
+  {
+    "iso3c": "THA",
+    "gdp": 16301.53809,
+    "pop": 68657600,
+    "waste": 26853366,
+    "sharepopurban": 51.43,
+    "wastepercap": 391.1200799
+  },
+  {
+    "iso3c": "TJK",
+    "gdp": 2616.475586,
+    "pop": 8177809,
+    "waste": 1787400,
+    "sharepopurban": 27.506,
+    "wastepercap": 218.5671003
+  },
+  {
+    "iso3c": "TKM",
+    "gdp": 11471.18652,
+    "pop": 5366277,
+    "waste": 500000,
+    "sharepopurban": 52.516,
+    "wastepercap": 93.17446714
+  },
+  {
+    "iso3c": "TLS",
+    "gdp": 3344.57373,
+    "pop": 1268671,
+    "waste": 63875,
+    "sharepopurban": 31.32,
+    "wastepercap": 50.34796255
+  },
+  {
+    "iso3c": "TON",
+    "gdp": 5636.418457,
+    "pop": 104951,
+    "waste": 17238.20175,
+    "sharepopurban": 23.099,
+    "wastepercap": 164.25
+  },
+  {
+    "iso3c": "TTO",
+    "gdp": 28910.9082,
+    "pop": 1328100,
+    "waste": 727874,
+    "sharepopurban": 53.214,
+    "wastepercap": 548.0566222
+  },
+  {
+    "iso3c": "TUN",
+    "gdp": 10505.2627,
+    "pop": 11143908,
+    "waste": 2700000,
+    "sharepopurban": 69.568,
+    "wastepercap": 242.284843
+  },
+  {
+    "iso3c": "TUR",
+    "gdp": 28289.08789,
+    "pop": 83429616,
+    "waste": 35374156,
+    "sharepopurban": 76.105,
+    "wastepercap": 423.9999858
+  },
+  {
+    "iso3c": "TUV",
+    "gdp": 3793.127686,
+    "pop": 11097,
+    "waste": 3989.4865,
+    "sharepopurban": 64.014,
+    "wastepercap": 359.5103632
+  },
+  {
+    "iso3c": "TZA",
+    "gdp": 2128.553955,
+    "pop": 49082996,
+    "waste": 9276995,
+    "sharepopurban": 35.227,
+    "wastepercap": 189.0062905
+  },
+  {
+    "iso3c": "UGA",
+    "gdp": 1972.301758,
+    "pop": 35093648,
+    "waste": 7045049.836,
+    "sharepopurban": 24.954,
+    "wastepercap": 200.75
+  },
+  {
+    "iso3c": "UKR",
+    "gdp": 11534.6377,
+    "pop": 45004644,
+    "waste": 15242025,
+    "sharepopurban": 69.608,
+    "wastepercap": 338.6767152
+  },
+  {
+    "iso3c": "URY",
+    "gdp": 20588.39258,
+    "pop": 3431552,
+    "waste": 1260139.509,
+    "sharepopurban": 95.515,
+    "wastepercap": 367.2214523
+  },
+  {
+    "iso3c": "USA",
+    "gdp": 61498.37109,
+    "pop": 326687488,
+    "waste": 265224528,
+    "sharepopurban": 82.664,
+    "wastepercap": 811.8600734
+  },
+  {
+    "iso3c": "UZB",
+    "gdp": 5164.274414,
+    "pop": 29774500,
+    "waste": 4000000,
+    "sharepopurban": 50.416,
+    "wastepercap": 134.343146
+  },
+  {
+    "iso3c": "VCT",
+    "gdp": 11971.99316,
+    "pop": 109455,
+    "waste": 31561.34925,
+    "sharepopurban": 53.032,
+    "wastepercap": 288.35
+  },
+  {
+    "iso3c": "VEN",
+    "gdp": 14269.67383,
+    "pop": 29893080,
+    "waste": 9779093.14,
+    "sharepopurban": 88.279,
+    "wastepercap": 327.1356829
+  },
+  {
+    "iso3c": "VGB",
+    "gdp": 24215.88281,
+    "pop": 20645,
+    "waste": 21099.19,
+    "sharepopurban": 48.515,
+    "wastepercap": 1022
+  },
+  {
+    "iso3c": "VIR",
+    "gdp": 30436.56445,
+    "pop": 105784,
+    "waste": 146500,
+    "sharepopurban": 95.939,
+    "wastepercap": 1384.897527
+  },
+  {
+    "iso3c": "VNM",
+    "gdp": 5089.411133,
+    "pop": 86932496,
+    "waste": 9570300,
+    "sharepopurban": 37.34,
+    "wastepercap": 110.0888671
+  },
+  {
+    "iso3c": "VUT",
+    "gdp": 3061.787354,
+    "pop": 270402,
+    "waste": 70225.489,
+    "sharepopurban": 25.525,
+    "wastepercap": 259.7077278
+  },
+  {
+    "iso3c": "WSM",
+    "gdp": 6210.983398,
+    "pop": 187665,
+    "waste": 27399.09,
+    "sharepopurban": 17.889,
+    "wastepercap": 146
+  },
+  {
+    "iso3c": "YEM",
+    "gdp": 8269.671875,
+    "pop": 27584212,
+    "waste": 4836820,
+    "sharepopurban": 37.908,
+    "wastepercap": 175.3474052
+  },
+  {
+    "iso3c": "ZAF",
+    "gdp": 12666.60742,
+    "pop": 51729344,
+    "waste": 18457232,
+    "sharepopurban": 67.354,
+    "wastepercap": 356.8039061
+  },
+  {
+    "iso3c": "ZMB",
+    "gdp": 3201.289307,
+    "pop": 14264756,
+    "waste": 2608268,
+    "sharepopurban": 44.629,
+    "wastepercap": 182.8470112
+  },
+  {
+    "iso3c": "ZWE",
+    "gdp": 3190.506592,
+    "pop": 12500525,
+    "waste": 1449752,
+    "sharepopurban": 32.242,
+    "wastepercap": 115.975289
+  }
+]

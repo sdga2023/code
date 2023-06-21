@@ -1,0 +1,2522 @@
+[
+  {
+    "iso3c": "ABW",
+    "country": "Aruba",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 28.5
+  },
+  {
+    "iso3c": "AFG",
+    "country": "Afghanistan",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 21.5
+  },
+  {
+    "iso3c": "AGO",
+    "country": "Angola",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 21.5
+  },
+  {
+    "iso3c": "ALB",
+    "country": "Albania",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 24.2
+  },
+  {
+    "iso3c": "ARG",
+    "country": "Argentina",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 24.6
+  },
+  {
+    "iso3c": "ARM",
+    "country": "Armenia",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 24.2
+  },
+  {
+    "iso3c": "AUS",
+    "country": "Australia",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 29.9
+  },
+  {
+    "iso3c": "AUT",
+    "country": "Austria",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 27.1
+  },
+  {
+    "iso3c": "AZE",
+    "country": "Azerbaijan",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 24.2
+  },
+  {
+    "iso3c": "BDI",
+    "country": "Burundi",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 22.8
+  },
+  {
+    "iso3c": "BEL",
+    "country": "Belgium",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 26.3
+  },
+  {
+    "iso3c": "BEN",
+    "country": "Benin",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 20.7
+  },
+  {
+    "iso3c": "BFA",
+    "country": "Burkina Faso",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 20
+  },
+  {
+    "iso3c": "BGD",
+    "country": "Bangladesh",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 18.8
+  },
+  {
+    "iso3c": "BGR",
+    "country": "Bulgaria",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.6
+  },
+  {
+    "iso3c": "BHR",
+    "country": "Bahrain",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 26.9
+  },
+  {
+    "iso3c": "BHS",
+    "country": "Bahamas, The",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 27.9
+  },
+  {
+    "iso3c": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 25.7
+  },
+  {
+    "iso3c": "BLR",
+    "country": "Belarus",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 22.5
+  },
+  {
+    "iso3c": "BLZ",
+    "country": "Belize",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 20.5
+  },
+  {
+    "iso3c": "BMU",
+    "country": "Bermuda",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 31.9
+  },
+  {
+    "iso3c": "BOL",
+    "country": "Bolivia",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 24
+  },
+  {
+    "iso3c": "BRA",
+    "country": "Brazil",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 23.9
+  },
+  {
+    "iso3c": "BRB",
+    "country": "Barbados",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 17
+  },
+  {
+    "iso3c": "BRN",
+    "country": "Brunei Darussalam",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 26.1
+  },
+  {
+    "iso3c": "BTN",
+    "country": "Bhutan",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 23.8
+  },
+  {
+    "iso3c": "BWA",
+    "country": "Botswana",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 22.9
+  },
+  {
+    "iso3c": "CAF",
+    "country": "Central African Republic",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 17.3
+  },
+  {
+    "iso3c": "CAN",
+    "country": "Canada",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 27.2
+  },
+  {
+    "iso3c": "CHE",
+    "country": "Switzerland",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 30.9
+  },
+  {
+    "iso3c": "CHL",
+    "country": "Chile",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 27.4
+  },
+  {
+    "iso3c": "CHN",
+    "country": "China",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 25.4
+  },
+  {
+    "iso3c": "CIV",
+    "country": "Cote d'Ivoire",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 23
+  },
+  {
+    "iso3c": "CMR",
+    "country": "Cameroon",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 22.2
+  },
+  {
+    "iso3c": "COD",
+    "country": "Congo, Dem. Rep.",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 20.9
+  },
+  {
+    "iso3c": "COG",
+    "country": "Congo, Rep.",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 21.9
+  },
+  {
+    "iso3c": "COL",
+    "country": "Colombia",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 22.7
+  },
+  {
+    "iso3c": "COM",
+    "country": "Comoros",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 22.6
+  },
+  {
+    "iso3c": "CRI",
+    "country": "Costa Rica",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 26.4
+  },
+  {
+    "iso3c": "CUB",
+    "country": "Cuba",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 22.1
+  },
+  {
+    "iso3c": "CYM",
+    "country": "Cayman Islands",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 28
+  },
+  {
+    "iso3c": "CYP",
+    "country": "Cyprus",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 26.4
+  },
+  {
+    "iso3c": "CZE",
+    "country": "Czech Republic",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.4
+  },
+  {
+    "iso3c": "DEU",
+    "country": "Germany",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 31.7
+  },
+  {
+    "iso3c": "DJI",
+    "country": "Djibouti",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 29.9
+  },
+  {
+    "iso3c": "DNK",
+    "country": "Denmark",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 31.9
+  },
+  {
+    "iso3c": "DOM",
+    "country": "Dominican Republic",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21.5
+  },
+  {
+    "iso3c": "DZA",
+    "country": "Algeria",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 28.2
+  },
+  {
+    "iso3c": "ECU",
+    "country": "Ecuador",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 21.8
+  },
+  {
+    "iso3c": "EGY",
+    "country": "Egypt, Arab Rep.",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 22.3
+  },
+  {
+    "iso3c": "ESP",
+    "country": "Spain",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 27.7
+  },
+  {
+    "iso3c": "EST",
+    "country": "Estonia",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 33.6
+  },
+  {
+    "iso3c": "ETH",
+    "country": "Ethiopia",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 21.3
+  },
+  {
+    "iso3c": "FIN",
+    "country": "Finland",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 30.7
+  },
+  {
+    "iso3c": "FRA",
+    "country": "France",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 32
+  },
+  {
+    "iso3c": "FRO",
+    "country": "Faroe Islands",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 31
+  },
+  {
+    "iso3c": "FSM",
+    "country": "Micronesia, Fed. Sts.",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 25.3
+  },
+  {
+    "iso3c": "GAB",
+    "country": "Gabon",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 22.9
+  },
+  {
+    "iso3c": "GBR",
+    "country": "United Kingdom",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 27
+  },
+  {
+    "iso3c": "GEO",
+    "country": "Georgia",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 22.8
+  },
+  {
+    "iso3c": "GHA",
+    "country": "Ghana",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 23.7
+  },
+  {
+    "iso3c": "GIB",
+    "country": "Gibraltar",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 29.1
+  },
+  {
+    "iso3c": "GIN",
+    "country": "Guinea",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 19.8
+  },
+  {
+    "iso3c": "GMB",
+    "country": "Gambia, The",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 21.5
+  },
+  {
+    "iso3c": "GNB",
+    "country": "Guinea-Bissau",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 24.1
+  },
+  {
+    "iso3c": "GNQ",
+    "country": "Equatorial Guinea",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 20.5
+  },
+  {
+    "iso3c": "GRC",
+    "country": "Greece",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 29.2
+  },
+  {
+    "iso3c": "GRL",
+    "country": "Greenland",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.9
+  },
+  {
+    "iso3c": "GTM",
+    "country": "Guatemala",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 22.7
+  },
+  {
+    "iso3c": "GUY",
+    "country": "Guyana",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 19.2
+  },
+  {
+    "iso3c": "HKG",
+    "country": "Hong Kong SAR, China",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 29.9
+  },
+  {
+    "iso3c": "HND",
+    "country": "Honduras",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 21.2
+  },
+  {
+    "iso3c": "HRV",
+    "country": "Croatia",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 27.4
+  },
+  {
+    "iso3c": "HTI",
+    "country": "Haiti",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 24.9
+  },
+  {
+    "iso3c": "HUN",
+    "country": "Hungary",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.9
+  },
+  {
+    "iso3c": "IDN",
+    "country": "Indonesia",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 22.4
+  },
+  {
+    "iso3c": "IMN",
+    "country": "Isle of Man",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 30.7
+  },
+  {
+    "iso3c": "IND",
+    "country": "India",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 21.4
+  },
+  {
+    "iso3c": "IRL",
+    "country": "Ireland",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 32.4
+  },
+  {
+    "iso3c": "IRN",
+    "country": "Iran, Islamic Rep.",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 23.1
+  },
+  {
+    "iso3c": "IRQ",
+    "country": "Iraq",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 22.7
+  },
+  {
+    "iso3c": "ISL",
+    "country": "Iceland",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.4
+  },
+  {
+    "iso3c": "ISR",
+    "country": "Israel",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 26.2
+  },
+  {
+    "iso3c": "ITA",
+    "country": "Italy",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.2
+  },
+  {
+    "iso3c": "JAM",
+    "country": "Jamaica",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 25.3
+  },
+  {
+    "iso3c": "JOR",
+    "country": "Jordan",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 24.6
+  },
+  {
+    "iso3c": "JPN",
+    "country": "Japan",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 29.2
+  },
+  {
+    "iso3c": "KAZ",
+    "country": "Kazakhstan",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 22.4
+  },
+  {
+    "iso3c": "KEN",
+    "country": "Kenya",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21.9
+  },
+  {
+    "iso3c": "KGZ",
+    "country": "Kyrgyz Republic",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21.2
+  },
+  {
+    "iso3c": "KHM",
+    "country": "Cambodia",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21.6
+  },
+  {
+    "iso3c": "KIR",
+    "country": "Kiribati",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 21.6
+  },
+  {
+    "iso3c": "KOR",
+    "country": "Korea, Rep.",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 31.5
+  },
+  {
+    "iso3c": "KWT",
+    "country": "Kuwait",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 25.7
+  },
+  {
+    "iso3c": "LAO",
+    "country": "Lao PDR",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 20.7
+  },
+  {
+    "iso3c": "LBR",
+    "country": "Liberia",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 22.6
+  },
+  {
+    "iso3c": "LCA",
+    "country": "St. Lucia",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 21.9
+  },
+  {
+    "iso3c": "LIE",
+    "country": "Liechtenstein",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 29.9
+  },
+  {
+    "iso3c": "LKA",
+    "country": "Sri Lanka",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 23.9
+  },
+  {
+    "iso3c": "LSO",
+    "country": "Lesotho",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 22.2
+  },
+  {
+    "iso3c": "LTU",
+    "country": "Lithuania",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.7
+  },
+  {
+    "iso3c": "LUX",
+    "country": "Luxembourg",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 30.7
+  },
+  {
+    "iso3c": "LVA",
+    "country": "Latvia",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 30.4
+  },
+  {
+    "iso3c": "MAC",
+    "country": "Macao SAR, China",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 30.3
+  },
+  {
+    "iso3c": "MAR",
+    "country": "Morocco",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 24.4
+  },
+  {
+    "iso3c": "MDA",
+    "country": "Moldova",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 25
+  },
+  {
+    "iso3c": "MDV",
+    "country": "Maldives",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 22.5
+  },
+  {
+    "iso3c": "MEX",
+    "country": "Mexico",
+    "date": 2019,
+    "variable": "age_first_marriage_female",
+    "value": 23.2
+  },
+  {
+    "iso3c": "MHL",
+    "country": "Marshall Islands",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 24.2
+  },
+  {
+    "iso3c": "MKD",
+    "country": "North Macedonia",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 25.5
+  },
+  {
+    "iso3c": "MLI",
+    "country": "Mali",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 18.8
+  },
+  {
+    "iso3c": "MLT",
+    "country": "Malta",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 28
+  },
+  {
+    "iso3c": "MMR",
+    "country": "Myanmar",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 22.9
+  },
+  {
+    "iso3c": "MNE",
+    "country": "Montenegro",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 26.3
+  },
+  {
+    "iso3c": "MNG",
+    "country": "Mongolia",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 23
+  },
+  {
+    "iso3c": "MNP",
+    "country": "Northern Mariana Islands",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 28.1
+  },
+  {
+    "iso3c": "MOZ",
+    "country": "Mozambique",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 18.7
+  },
+  {
+    "iso3c": "MRT",
+    "country": "Mauritania",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 21.8
+  },
+  {
+    "iso3c": "MUS",
+    "country": "Mauritius",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 23.9
+  },
+  {
+    "iso3c": "MWI",
+    "country": "Malawi",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 20.4
+  },
+  {
+    "iso3c": "MYS",
+    "country": "Malaysia",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 25.7
+  },
+  {
+    "iso3c": "NAM",
+    "country": "Namibia",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 30.3
+  },
+  {
+    "iso3c": "NCL",
+    "country": "New Caledonia",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 32.8
+  },
+  {
+    "iso3c": "NER",
+    "country": "Niger",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 17.2
+  },
+  {
+    "iso3c": "NGA",
+    "country": "Nigeria",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 21.2
+  },
+  {
+    "iso3c": "NIC",
+    "country": "Nicaragua",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 21.1
+  },
+  {
+    "iso3c": "NLD",
+    "country": "Netherlands",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.4
+  },
+  {
+    "iso3c": "NOR",
+    "country": "Norway",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 32.1
+  },
+  {
+    "iso3c": "NPL",
+    "country": "Nepal",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 20.1
+  },
+  {
+    "iso3c": "OMN",
+    "country": "Oman",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 25.6
+  },
+  {
+    "iso3c": "PAK",
+    "country": "Pakistan",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 23.2
+  },
+  {
+    "iso3c": "PAN",
+    "country": "Panama",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 21
+  },
+  {
+    "iso3c": "PER",
+    "country": "Peru",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 23.3
+  },
+  {
+    "iso3c": "PHL",
+    "country": "Philippines",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 23.4
+  },
+  {
+    "iso3c": "PLW",
+    "country": "Palau",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 28.5
+  },
+  {
+    "iso3c": "PNG",
+    "country": "Papua New Guinea",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 21.4
+  },
+  {
+    "iso3c": "POL",
+    "country": "Poland",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 26.6
+  },
+  {
+    "iso3c": "PRI",
+    "country": "Puerto Rico",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 29.2
+  },
+  {
+    "iso3c": "PRT",
+    "country": "Portugal",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 30.1
+  },
+  {
+    "iso3c": "PRY",
+    "country": "Paraguay",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 21.9
+  },
+  {
+    "iso3c": "PSE",
+    "country": "West Bank and Gaza",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 22.1
+  },
+  {
+    "iso3c": "PYF",
+    "country": "French Polynesia",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 33.8
+  },
+  {
+    "iso3c": "ROU",
+    "country": "Romania",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 25.9
+  },
+  {
+    "iso3c": "RUS",
+    "country": "Russian Federation",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 24.4
+  },
+  {
+    "iso3c": "RWA",
+    "country": "Rwanda",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 24.3
+  },
+  {
+    "iso3c": "SAU",
+    "country": "Saudi Arabia",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 26.6
+  },
+  {
+    "iso3c": "SDN",
+    "country": "Sudan",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21.9
+  },
+  {
+    "iso3c": "SEN",
+    "country": "Senegal",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 22.2
+  },
+  {
+    "iso3c": "SGP",
+    "country": "Singapore",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 27.9
+  },
+  {
+    "iso3c": "SLB",
+    "country": "Solomon Islands",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 22.4
+  },
+  {
+    "iso3c": "SLE",
+    "country": "Sierra Leone",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 23.1
+  },
+  {
+    "iso3c": "SLV",
+    "country": "El Salvador",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 22.6
+  },
+  {
+    "iso3c": "SMR",
+    "country": "San Marino",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 31.3
+  },
+  {
+    "iso3c": "SRB",
+    "country": "Serbia",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 26.6
+  },
+  {
+    "iso3c": "SSD",
+    "country": "South Sudan",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 18.4
+  },
+  {
+    "iso3c": "STP",
+    "country": "Sao Tome and Principe",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21
+  },
+  {
+    "iso3c": "SUR",
+    "country": "Suriname",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 29.3
+  },
+  {
+    "iso3c": "SVK",
+    "country": "Slovak Republic",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 31
+  },
+  {
+    "iso3c": "SVN",
+    "country": "Slovenia",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 34
+  },
+  {
+    "iso3c": "SWE",
+    "country": "Sweden",
+    "date": 2018,
+    "variable": "age_first_marriage_female",
+    "value": 31
+  },
+  {
+    "iso3c": "SWZ",
+    "country": "Eswatini",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 26.5
+  },
+  {
+    "iso3c": "SXM",
+    "country": "Sint Maarten (Dutch part)",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 28
+  },
+  {
+    "iso3c": "TCD",
+    "country": "Chad",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 18.8
+  },
+  {
+    "iso3c": "TGO",
+    "country": "Togo",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 21.3
+  },
+  {
+    "iso3c": "THA",
+    "country": "Thailand",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 22.5
+  },
+  {
+    "iso3c": "TJK",
+    "country": "Tajikistan",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 20.7
+  },
+  {
+    "iso3c": "TKM",
+    "country": "Turkmenistan",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 23.5
+  },
+  {
+    "iso3c": "TLS",
+    "country": "Timor-Leste",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 23
+  },
+  {
+    "iso3c": "TON",
+    "country": "Tonga",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 25.3
+  },
+  {
+    "iso3c": "TTO",
+    "country": "Trinidad and Tobago",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 29.2
+  },
+  {
+    "iso3c": "TUN",
+    "country": "Tunisia",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 28.2
+  },
+  {
+    "iso3c": "TUR",
+    "country": "Turkey",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 23.4
+  },
+  {
+    "iso3c": "TZA",
+    "country": "Tanzania",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 21
+  },
+  {
+    "iso3c": "UGA",
+    "country": "Uganda",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 20.7
+  },
+  {
+    "iso3c": "UKR",
+    "country": "Ukraine",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 23
+  },
+  {
+    "iso3c": "URY",
+    "country": "Uruguay",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 23
+  },
+  {
+    "iso3c": "USA",
+    "country": "United States",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 27.5
+  },
+  {
+    "iso3c": "VCT",
+    "country": "St. Vincent and the Grenadines",
+    "date": 2012,
+    "variable": "age_first_marriage_female",
+    "value": 21.2
+  },
+  {
+    "iso3c": "VEN",
+    "country": "Venezuela, RB",
+    "date": 2011,
+    "variable": "age_first_marriage_female",
+    "value": 22.9
+  },
+  {
+    "iso3c": "VIR",
+    "country": "Virgin Islands (U.S.)",
+    "date": 2010,
+    "variable": "age_first_marriage_female",
+    "value": 30.9
+  },
+  {
+    "iso3c": "VNM",
+    "country": "Vietnam",
+    "date": 2015,
+    "variable": "age_first_marriage_female",
+    "value": 22.8
+  },
+  {
+    "iso3c": "WSM",
+    "country": "Samoa",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 23.8
+  },
+  {
+    "iso3c": "YEM",
+    "country": "Yemen, Rep.",
+    "date": 2013,
+    "variable": "age_first_marriage_female",
+    "value": 22.8
+  },
+  {
+    "iso3c": "ZAF",
+    "country": "South Africa",
+    "date": 2016,
+    "variable": "age_first_marriage_female",
+    "value": 27.2
+  },
+  {
+    "iso3c": "ZMB",
+    "country": "Zambia",
+    "date": 2014,
+    "variable": "age_first_marriage_female",
+    "value": 21.8
+  },
+  {
+    "iso3c": "ZWE",
+    "country": "Zimbabwe",
+    "date": 2017,
+    "variable": "age_first_marriage_female",
+    "value": 21.1
+  },
+  {
+    "iso3c": "ABW",
+    "country": "Aruba",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 31.2
+  },
+  {
+    "iso3c": "AFG",
+    "country": "Afghanistan",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 24.7
+  },
+  {
+    "iso3c": "AGO",
+    "country": "Angola",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 25.8
+  },
+  {
+    "iso3c": "ALB",
+    "country": "Albania",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 30.8
+  },
+  {
+    "iso3c": "ARG",
+    "country": "Argentina",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 26.6
+  },
+  {
+    "iso3c": "ARM",
+    "country": "Armenia",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 28.5
+  },
+  {
+    "iso3c": "AUS",
+    "country": "Australia",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 31.2
+  },
+  {
+    "iso3c": "AUT",
+    "country": "Austria",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.8
+  },
+  {
+    "iso3c": "AZE",
+    "country": "Azerbaijan",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 28.1
+  },
+  {
+    "iso3c": "BDI",
+    "country": "Burundi",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 26.1
+  },
+  {
+    "iso3c": "BEL",
+    "country": "Belgium",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 28.6
+  },
+  {
+    "iso3c": "BEN",
+    "country": "Benin",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 25.7
+  },
+  {
+    "iso3c": "BFA",
+    "country": "Burkina Faso",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 26.4
+  },
+  {
+    "iso3c": "BGD",
+    "country": "Bangladesh",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 25.2
+  },
+  {
+    "iso3c": "BGR",
+    "country": "Bulgaria",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 35.7
+  },
+  {
+    "iso3c": "BHS",
+    "country": "Bahamas, The",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 30.6
+  },
+  {
+    "iso3c": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 29.4
+  },
+  {
+    "iso3c": "BLR",
+    "country": "Belarus",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 24.8
+  },
+  {
+    "iso3c": "BLZ",
+    "country": "Belize",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 22.5
+  },
+  {
+    "iso3c": "BMU",
+    "country": "Bermuda",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 32.5
+  },
+  {
+    "iso3c": "BOL",
+    "country": "Bolivia",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 26.6
+  },
+  {
+    "iso3c": "BRA",
+    "country": "Brazil",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 26.8
+  },
+  {
+    "iso3c": "BRB",
+    "country": "Barbados",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 34.5
+  },
+  {
+    "iso3c": "BRN",
+    "country": "Brunei Darussalam",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.3
+  },
+  {
+    "iso3c": "BTN",
+    "country": "Bhutan",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 26.4
+  },
+  {
+    "iso3c": "BWA",
+    "country": "Botswana",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.8
+  },
+  {
+    "iso3c": "CAF",
+    "country": "Central African Republic",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 21.7
+  },
+  {
+    "iso3c": "CAN",
+    "country": "Canada",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 28.7
+  },
+  {
+    "iso3c": "CHE",
+    "country": "Switzerland",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 33.1
+  },
+  {
+    "iso3c": "CHL",
+    "country": "Chile",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.3
+  },
+  {
+    "iso3c": "CHN",
+    "country": "China",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 27.1
+  },
+  {
+    "iso3c": "CIV",
+    "country": "Cote d'Ivoire",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 29.2
+  },
+  {
+    "iso3c": "CMR",
+    "country": "Cameroon",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 28.5
+  },
+  {
+    "iso3c": "COD",
+    "country": "Congo, Dem. Rep.",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 25.5
+  },
+  {
+    "iso3c": "COG",
+    "country": "Congo, Rep.",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 27.5
+  },
+  {
+    "iso3c": "COL",
+    "country": "Colombia",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 26.2
+  },
+  {
+    "iso3c": "COM",
+    "country": "Comoros",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 25.5
+  },
+  {
+    "iso3c": "CRI",
+    "country": "Costa Rica",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 29.2
+  },
+  {
+    "iso3c": "CUB",
+    "country": "Cuba",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 25.1
+  },
+  {
+    "iso3c": "CYM",
+    "country": "Cayman Islands",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 29.9
+  },
+  {
+    "iso3c": "CYP",
+    "country": "Cyprus",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.3
+  },
+  {
+    "iso3c": "CZE",
+    "country": "Czech Republic",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 34.8
+  },
+  {
+    "iso3c": "DEU",
+    "country": "Germany",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 33.9
+  },
+  {
+    "iso3c": "DJI",
+    "country": "Djibouti",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 33
+  },
+  {
+    "iso3c": "DNK",
+    "country": "Denmark",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 33.6
+  },
+  {
+    "iso3c": "DOM",
+    "country": "Dominican Republic",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 24.8
+  },
+  {
+    "iso3c": "DZA",
+    "country": "Algeria",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 32.4
+  },
+  {
+    "iso3c": "ECU",
+    "country": "Ecuador",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 25
+  },
+  {
+    "iso3c": "EGY",
+    "country": "Egypt, Arab Rep.",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 28.1
+  },
+  {
+    "iso3c": "ESP",
+    "country": "Spain",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 30.3
+  },
+  {
+    "iso3c": "EST",
+    "country": "Estonia",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 36.3
+  },
+  {
+    "iso3c": "ETH",
+    "country": "Ethiopia",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 25.8
+  },
+  {
+    "iso3c": "FIN",
+    "country": "Finland",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 32.6
+  },
+  {
+    "iso3c": "FRA",
+    "country": "France",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 33.7
+  },
+  {
+    "iso3c": "FRO",
+    "country": "Faroe Islands",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 34.1
+  },
+  {
+    "iso3c": "GAB",
+    "country": "Gabon",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 27.8
+  },
+  {
+    "iso3c": "GBR",
+    "country": "United Kingdom",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 28.7
+  },
+  {
+    "iso3c": "GEO",
+    "country": "Georgia",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 27.4
+  },
+  {
+    "iso3c": "GHA",
+    "country": "Ghana",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 27.8
+  },
+  {
+    "iso3c": "GIB",
+    "country": "Gibraltar",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 31.8
+  },
+  {
+    "iso3c": "GIN",
+    "country": "Guinea",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 28
+  },
+  {
+    "iso3c": "GMB",
+    "country": "Gambia, The",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 29.7
+  },
+  {
+    "iso3c": "GNB",
+    "country": "Guinea-Bissau",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 30.3
+  },
+  {
+    "iso3c": "GNQ",
+    "country": "Equatorial Guinea",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 26.1
+  },
+  {
+    "iso3c": "GRC",
+    "country": "Greece",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 32.8
+  },
+  {
+    "iso3c": "GRL",
+    "country": "Greenland",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 34.7
+  },
+  {
+    "iso3c": "GTM",
+    "country": "Guatemala",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 25
+  },
+  {
+    "iso3c": "GUY",
+    "country": "Guyana",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 21.3
+  },
+  {
+    "iso3c": "HKG",
+    "country": "Hong Kong SAR, China",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 32.1
+  },
+  {
+    "iso3c": "HND",
+    "country": "Honduras",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 24.1
+  },
+  {
+    "iso3c": "HRV",
+    "country": "Croatia",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 30.2
+  },
+  {
+    "iso3c": "HTI",
+    "country": "Haiti",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 28.7
+  },
+  {
+    "iso3c": "HUN",
+    "country": "Hungary",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 35
+  },
+  {
+    "iso3c": "IDN",
+    "country": "Indonesia",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 27.1
+  },
+  {
+    "iso3c": "IMN",
+    "country": "Isle of Man",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 32.8
+  },
+  {
+    "iso3c": "IND",
+    "country": "India",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 26
+  },
+  {
+    "iso3c": "IRL",
+    "country": "Ireland",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 33.4
+  },
+  {
+    "iso3c": "IRN",
+    "country": "Iran, Islamic Rep.",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 27.5
+  },
+  {
+    "iso3c": "IRQ",
+    "country": "Iraq",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 26.2
+  },
+  {
+    "iso3c": "ISL",
+    "country": "Iceland",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 33.7
+  },
+  {
+    "iso3c": "ISR",
+    "country": "Israel",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 29.2
+  },
+  {
+    "iso3c": "ITA",
+    "country": "Italy",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 35.3
+  },
+  {
+    "iso3c": "JOR",
+    "country": "Jordan",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 30.9
+  },
+  {
+    "iso3c": "JPN",
+    "country": "Japan",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 30.5
+  },
+  {
+    "iso3c": "KAZ",
+    "country": "Kazakhstan",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 26.3
+  },
+  {
+    "iso3c": "KEN",
+    "country": "Kenya",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 26.3
+  },
+  {
+    "iso3c": "KGZ",
+    "country": "Kyrgyz Republic",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 25.5
+  },
+  {
+    "iso3c": "KHM",
+    "country": "Cambodia",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 24.5
+  },
+  {
+    "iso3c": "KIR",
+    "country": "Kiribati",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 24.1
+  },
+  {
+    "iso3c": "KOR",
+    "country": "Korea, Rep.",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 33.9
+  },
+  {
+    "iso3c": "KWT",
+    "country": "Kuwait",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 27.8
+  },
+  {
+    "iso3c": "LAO",
+    "country": "Lao PDR",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 24.6
+  },
+  {
+    "iso3c": "LBR",
+    "country": "Liberia",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 26.4
+  },
+  {
+    "iso3c": "LIE",
+    "country": "Liechtenstein",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 32.4
+  },
+  {
+    "iso3c": "LKA",
+    "country": "Sri Lanka",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 27.2
+  },
+  {
+    "iso3c": "LSO",
+    "country": "Lesotho",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 28
+  },
+  {
+    "iso3c": "LTU",
+    "country": "Lithuania",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 35.3
+  },
+  {
+    "iso3c": "LUX",
+    "country": "Luxembourg",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 32.5
+  },
+  {
+    "iso3c": "LVA",
+    "country": "Latvia",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 33.1
+  },
+  {
+    "iso3c": "MAC",
+    "country": "Macao SAR, China",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 32.7
+  },
+  {
+    "iso3c": "MAR",
+    "country": "Morocco",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 31.3
+  },
+  {
+    "iso3c": "MDA",
+    "country": "Moldova",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 28.7
+  },
+  {
+    "iso3c": "MDV",
+    "country": "Maldives",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 25.5
+  },
+  {
+    "iso3c": "MEX",
+    "country": "Mexico",
+    "date": 2019,
+    "variable": "age_first_marriage_male",
+    "value": 25.9
+  },
+  {
+    "iso3c": "MHL",
+    "country": "Marshall Islands",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 25.7
+  },
+  {
+    "iso3c": "MLI",
+    "country": "Mali",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 25.8
+  },
+  {
+    "iso3c": "MLT",
+    "country": "Malta",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 30.3
+  },
+  {
+    "iso3c": "MMR",
+    "country": "Myanmar",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 25.4
+  },
+  {
+    "iso3c": "MNE",
+    "country": "Montenegro",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 29.7
+  },
+  {
+    "iso3c": "MNG",
+    "country": "Mongolia",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 25.1
+  },
+  {
+    "iso3c": "MNP",
+    "country": "Northern Mariana Islands",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 30.1
+  },
+  {
+    "iso3c": "MOZ",
+    "country": "Mozambique",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 23.4
+  },
+  {
+    "iso3c": "MRT",
+    "country": "Mauritania",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 29.2
+  },
+  {
+    "iso3c": "MUS",
+    "country": "Mauritius",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.2
+  },
+  {
+    "iso3c": "MWI",
+    "country": "Malawi",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 24.5
+  },
+  {
+    "iso3c": "MYS",
+    "country": "Malaysia",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 28
+  },
+  {
+    "iso3c": "NAM",
+    "country": "Namibia",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 34.3
+  },
+  {
+    "iso3c": "NCL",
+    "country": "New Caledonia",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 34.3
+  },
+  {
+    "iso3c": "NER",
+    "country": "Niger",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 24
+  },
+  {
+    "iso3c": "NGA",
+    "country": "Nigeria",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 28.6
+  },
+  {
+    "iso3c": "NLD",
+    "country": "Netherlands",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 34.3
+  },
+  {
+    "iso3c": "NOR",
+    "country": "Norway",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 34.1
+  },
+  {
+    "iso3c": "NPL",
+    "country": "Nepal",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 23.6
+  },
+  {
+    "iso3c": "OMN",
+    "country": "Oman",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 27.7
+  },
+  {
+    "iso3c": "PAK",
+    "country": "Pakistan",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 26.9
+  },
+  {
+    "iso3c": "PAN",
+    "country": "Panama",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 25.3
+  },
+  {
+    "iso3c": "PER",
+    "country": "Peru",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 27.5
+  },
+  {
+    "iso3c": "PHL",
+    "country": "Philippines",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 27.1
+  },
+  {
+    "iso3c": "PLW",
+    "country": "Palau",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 29.1
+  },
+  {
+    "iso3c": "PNG",
+    "country": "Papua New Guinea",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 26.2
+  },
+  {
+    "iso3c": "POL",
+    "country": "Poland",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 28.7
+  },
+  {
+    "iso3c": "PRI",
+    "country": "Puerto Rico",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 30.8
+  },
+  {
+    "iso3c": "PRT",
+    "country": "Portugal",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 32.2
+  },
+  {
+    "iso3c": "PSE",
+    "country": "West Bank and Gaza",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 26.5
+  },
+  {
+    "iso3c": "PYF",
+    "country": "French Polynesia",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 35.8
+  },
+  {
+    "iso3c": "ROU",
+    "country": "Romania",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 29.4
+  },
+  {
+    "iso3c": "RUS",
+    "country": "Russian Federation",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 27
+  },
+  {
+    "iso3c": "RWA",
+    "country": "Rwanda",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 27
+  },
+  {
+    "iso3c": "SAU",
+    "country": "Saudi Arabia",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 30
+  },
+  {
+    "iso3c": "SDN",
+    "country": "Sudan",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 28.9
+  },
+  {
+    "iso3c": "SEN",
+    "country": "Senegal",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 30.6
+  },
+  {
+    "iso3c": "SGP",
+    "country": "Singapore",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 30.4
+  },
+  {
+    "iso3c": "SLB",
+    "country": "Solomon Islands",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 26.4
+  },
+  {
+    "iso3c": "SLE",
+    "country": "Sierra Leone",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 27.9
+  },
+  {
+    "iso3c": "SMR",
+    "country": "San Marino",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 34
+  },
+  {
+    "iso3c": "SRB",
+    "country": "Serbia",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 30.4
+  },
+  {
+    "iso3c": "SSD",
+    "country": "South Sudan",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 25.6
+  },
+  {
+    "iso3c": "SUR",
+    "country": "Suriname",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 32.8
+  },
+  {
+    "iso3c": "SVK",
+    "country": "Slovak Republic",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 33.6
+  },
+  {
+    "iso3c": "SVN",
+    "country": "Slovenia",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 35.6
+  },
+  {
+    "iso3c": "SWE",
+    "country": "Sweden",
+    "date": 2018,
+    "variable": "age_first_marriage_male",
+    "value": 33.2
+  },
+  {
+    "iso3c": "SXM",
+    "country": "Sint Maarten (Dutch part)",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 32.3
+  },
+  {
+    "iso3c": "TCD",
+    "country": "Chad",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 24.7
+  },
+  {
+    "iso3c": "TGO",
+    "country": "Togo",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 27.6
+  },
+  {
+    "iso3c": "THA",
+    "country": "Thailand",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 28.5
+  },
+  {
+    "iso3c": "TJK",
+    "country": "Tajikistan",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 24.2
+  },
+  {
+    "iso3c": "TLS",
+    "country": "Timor-Leste",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 27.9
+  },
+  {
+    "iso3c": "TON",
+    "country": "Tonga",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 27.4
+  },
+  {
+    "iso3c": "TTO",
+    "country": "Trinidad and Tobago",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 31.8
+  },
+  {
+    "iso3c": "TUN",
+    "country": "Tunisia",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 32.9
+  },
+  {
+    "iso3c": "TUR",
+    "country": "Turkiye",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 27.9
+  },
+  {
+    "iso3c": "TZA",
+    "country": "Tanzania",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 25.2
+  },
+  {
+    "iso3c": "UGA",
+    "country": "Uganda",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 24.3
+  },
+  {
+    "iso3c": "URY",
+    "country": "Uruguay",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 26.5
+  },
+  {
+    "iso3c": "USA",
+    "country": "United States",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 29.2
+  },
+  {
+    "iso3c": "VCT",
+    "country": "St. Vincent and the Grenadines",
+    "date": 2012,
+    "variable": "age_first_marriage_male",
+    "value": 27.8
+  },
+  {
+    "iso3c": "VEN",
+    "country": "Venezuela, RB",
+    "date": 2011,
+    "variable": "age_first_marriage_male",
+    "value": 25.8
+  },
+  {
+    "iso3c": "VIR",
+    "country": "Virgin Islands (U.S.)",
+    "date": 2010,
+    "variable": "age_first_marriage_male",
+    "value": 32.5
+  },
+  {
+    "iso3c": "VNM",
+    "country": "Vietnam",
+    "date": 2015,
+    "variable": "age_first_marriage_male",
+    "value": 26.9
+  },
+  {
+    "iso3c": "WSM",
+    "country": "Samoa",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 27.3
+  },
+  {
+    "iso3c": "YEM",
+    "country": "Yemen, Rep.",
+    "date": 2013,
+    "variable": "age_first_marriage_male",
+    "value": 26.1
+  },
+  {
+    "iso3c": "ZAF",
+    "country": "South Africa",
+    "date": 2016,
+    "variable": "age_first_marriage_male",
+    "value": 30.7
+  },
+  {
+    "iso3c": "ZMB",
+    "country": "Zambia",
+    "date": 2014,
+    "variable": "age_first_marriage_male",
+    "value": 25.9
+  },
+  {
+    "iso3c": "ZWE",
+    "country": "Zimbabwe",
+    "date": 2017,
+    "variable": "age_first_marriage_male",
+    "value": 26
+  }
+]

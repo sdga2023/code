@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Girls: Aged 13-18",
+    "normal": 4.354588,
+    "drought": 5.597087
+  },
+  {
+    "category": "Women: Aged 19-59",
+    "normal": 3.958475,
+    "drought": 4.792208
+  },
+  {
+    "category": "Girls: Aged 5-12",
+    "normal": 3.224371,
+    "drought": 3.425036
+  },
+  {
+    "category": "Boys: Aged 13-18",
+    "normal": 3.556272,
+    "drought": 3.319249
+  },
+  {
+    "category": "Boys: Aged 5-12",
+    "normal": 2.765831,
+    "drought": 2.611429
+  },
+  {
+    "category": "Senior: Aged 60+",
+    "normal": 1.291304,
+    "drought": 1.461224
+  },
+  {
+    "category": "Men: Aged 19-59",
+    "normal": 1.171678,
+    "drought": 1.214376
+  }
+]

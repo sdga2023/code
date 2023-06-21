@@ -1,0 +1,237 @@
+[
+  {
+    "year": 2015,
+    "region": "East Asia & Pacific",
+    "fatalities": 1625
+  },
+  {
+    "year": 2015,
+    "region": "Middle East & North Africa",
+    "fatalities": 24490
+  },
+  {
+    "year": 2015,
+    "region": "South Asia",
+    "fatalities": 4733
+  },
+  {
+    "year": 2015,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 29933
+  },
+  {
+    "year": 2016,
+    "region": "East Asia & Pacific",
+    "fatalities": 5426
+  },
+  {
+    "year": 2016,
+    "region": "Europe & Central Asia",
+    "fatalities": 5116
+  },
+  {
+    "year": 2016,
+    "region": "Middle East & North Africa",
+    "fatalities": 78836
+  },
+  {
+    "year": 2016,
+    "region": "South Asia",
+    "fatalities": 3878
+  },
+  {
+    "year": 2016,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 25491
+  },
+  {
+    "year": 2017,
+    "region": "East Asia & Pacific",
+    "fatalities": 5970
+  },
+  {
+    "year": 2017,
+    "region": "Europe & Central Asia",
+    "fatalities": 2897
+  },
+  {
+    "year": 2017,
+    "region": "Middle East & North Africa",
+    "fatalities": 109278
+  },
+  {
+    "year": 2017,
+    "region": "South Asia",
+    "fatalities": 39464
+  },
+  {
+    "year": 2017,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 27023
+  },
+  {
+    "year": 2018,
+    "region": "East Asia & Pacific",
+    "fatalities": 2674
+  },
+  {
+    "year": 2018,
+    "region": "Europe & Central Asia",
+    "fatalities": 3044
+  },
+  {
+    "year": 2018,
+    "region": "Latin America & Caribbean",
+    "fatalities": 23055
+  },
+  {
+    "year": 2018,
+    "region": "Middle East & North Africa",
+    "fatalities": 74253
+  },
+  {
+    "year": 2018,
+    "region": "South Asia",
+    "fatalities": 46282
+  },
+  {
+    "year": 2018,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 25644
+  },
+  {
+    "year": 2019,
+    "region": "East Asia & Pacific",
+    "fatalities": 3533
+  },
+  {
+    "year": 2019,
+    "region": "Europe & Central Asia",
+    "fatalities": 1478
+  },
+  {
+    "year": 2019,
+    "region": "Latin America & Caribbean",
+    "fatalities": 22475
+  },
+  {
+    "year": 2019,
+    "region": "Middle East & North Africa",
+    "fatalities": 51309
+  },
+  {
+    "year": 2019,
+    "region": "South Asia",
+    "fatalities": 44381
+  },
+  {
+    "year": 2019,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 26123
+  },
+  {
+    "year": 2020,
+    "region": "East Asia & Pacific",
+    "fatalities": 2407
+  },
+  {
+    "year": 2020,
+    "region": "Europe & Central Asia",
+    "fatalities": 7873
+  },
+  {
+    "year": 2020,
+    "region": "Latin America & Caribbean",
+    "fatalities": 20038
+  },
+  {
+    "year": 2020,
+    "region": "Middle East & North Africa",
+    "fatalities": 33315
+  },
+  {
+    "year": 2020,
+    "region": "North America",
+    "fatalities": 53
+  },
+  {
+    "year": 2020,
+    "region": "South Asia",
+    "fatalities": 32946
+  },
+  {
+    "year": 2020,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 36882
+  },
+  {
+    "year": 2021,
+    "region": "East Asia & Pacific",
+    "fatalities": 11843
+  },
+  {
+    "year": 2021,
+    "region": "Europe & Central Asia",
+    "fatalities": 620
+  },
+  {
+    "year": 2021,
+    "region": "Latin America & Caribbean",
+    "fatalities": 20518
+  },
+  {
+    "year": 2021,
+    "region": "Middle East & North Africa",
+    "fatalities": 28053
+  },
+  {
+    "year": 2021,
+    "region": "North America",
+    "fatalities": 88
+  },
+  {
+    "year": 2021,
+    "region": "South Asia",
+    "fatalities": 44618
+  },
+  {
+    "year": 2021,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 44665
+  },
+  {
+    "year": 2022,
+    "region": "East Asia & Pacific",
+    "fatalities": 20568
+  },
+  {
+    "year": 2022,
+    "region": "Europe & Central Asia",
+    "fatalities": 30337
+  },
+  {
+    "year": 2022,
+    "region": "Latin America & Caribbean",
+    "fatalities": 21522
+  },
+  {
+    "year": 2022,
+    "region": "Middle East & North Africa",
+    "fatalities": 17836
+  },
+  {
+    "year": 2022,
+    "region": "North America",
+    "fatalities": 94
+  },
+  {
+    "year": 2022,
+    "region": "South Asia",
+    "fatalities": 6458
+  },
+  {
+    "year": 2022,
+    "region": "Sub-Saharan Africa",
+    "fatalities": 48982
+  }
+]
