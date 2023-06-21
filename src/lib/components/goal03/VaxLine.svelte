@@ -81,16 +81,6 @@
     <path d={lineGen(data)} class="bg" />
     <path d={lineGen(data)} style={`stroke: ${strokeColor}`} />
 
-    <!--   {#if has2020data}
-      <line
-        x1={xScale(2019)}
-        x2={xScale(2021)} 
-        y1={yScale(data.find((d) => d.year === 2019).value)}
-        y2={yScale(data.find((d) => d.year === 2021).value)}
-        class="highlight-2020"
-        style={`stroke: ${strokeColor}`}
-      />
-    {/if}-->
     {#each data.filter((d) => d.year === currentYear) as d}
       <rect x={xScale(d.year)} y={yScale(d.value)} width={1} height={hh} style:fill={strokeColor} />
       <circle cx={xScale(d.year)} cy={yScale(d.value)} r={LineChartCircleRadius} style:fill={strokeColor} />
@@ -104,11 +94,6 @@
 </div>
 
 <style>
-  line.highlight-2020 {
-    stroke-width: 6px;
-    stroke-linecap: round;
-  }
-
   .label {
     text-anchor: middle;
   }

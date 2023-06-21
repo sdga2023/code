@@ -13,12 +13,9 @@
   export let tb_incidence_worldwide = 'Tuberculosis incidence worldwide per 100k people';
   export let tb_cases_worldwide = 'Tuberculosis cases worldwide (estimated)';
 
-  //  export let tb_notifications = 'Tuberculosis notifications';
-
   let accessors = [
     { prop: 'per100k', label: tb_incidence, relative: true, digits: 1 },
     { prop: 'numerical', label: tb_cases, absolute: true, digits: 0 }
-    /* { prop: 'notifications', label: tb_notifications } */
   ];
 
   let forcedLabels = ['COD', 'ZAF'];

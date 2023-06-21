@@ -1,10 +1,9 @@
 <script>
   import { _ } from 'svelte-i18n';
-  import vars from '$lib/variables.js';
   import { referenceCountry } from '$lib/stores/referenceCountry.js';
 
   import * as topojson from 'topojson-client';
-  import { geoEqualEarth, geoPath, json, interpolateRgbBasis, scaleSequential, extent, color } from 'd3';
+  import { geoEqualEarth, geoPath, interpolateRgbBasis, scaleSequential, extent, color } from 'd3';
   import * as Colors from '$lib/styles/tokens.es6.js';
   import Legend from '$lib/components/general/Legend.svelte';
   import Tooltip from '$lib/components/general/Tooltip.svelte';

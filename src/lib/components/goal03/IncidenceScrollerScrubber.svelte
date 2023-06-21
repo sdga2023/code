@@ -18,17 +18,6 @@
 
   $: absoluteAccessor = accessors.find((a) => a.absolute);
 
-  // reset year to maxYear on scene change
-  // (currently disabled, since it breaks the transition logic of the TweenedPaths)
-  /*let lastYear, lastScene;
-  $: {
-    if (lastYear === currentYear && lastScene !== activeState) {
-      currentYear = maxYear;
-    }
-    lastYear = currentYear;
-    lastScene = activeState;
-  }*/
-
   const margins = {
     top: 10,
     left: 10,

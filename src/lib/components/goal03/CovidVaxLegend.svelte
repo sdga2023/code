@@ -2,16 +2,10 @@
   import { isMobile } from '$lib/stores/isMobile';
 
   export let circleRadius;
-
-  // export let covid_deaths;
-  // export let deaths_averted_short;
 </script>
 
 <div class="covidvax-legend">
-  <div class="text-container">
-    <!--   <p class="label small">{covid_deaths}</p>
-    <p class="label small">{deaths_averted_short}</p> -->
-  </div>
+  <div class="text-container" />
   <svg width={circleRadius * 4} height={($isMobile ? circleRadius * 3 : circleRadius * 2) + 2}>
     <mask id={`legend-leftmask`}><rect x={circleRadius - 2} y="0" width={circleRadius + 2} height={circleRadius * 4} fill="white" /></mask>
     <mask id={`legend-rightmask`}><rect x={circleRadius * 2} y="0" width={circleRadius + 2} height={circleRadius * 4} fill="white" /></mask>

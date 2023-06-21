@@ -156,42 +156,6 @@
               on:mouseover={(e) => hoverArea(e, stckDatum.key)}
             />
           {/each}
-          <!--
-          <rect x={xScale(currentYear)} y="0" width="1" height={h - margins.bottom} fill="white" />
-          {#each stckData as stckDatum}
-            {#each stckDatum as children}
-              {#if children.data.year === currentYear}
-                <circle
-                  cx={xScale(children.data.year)}
-                  cy={yScale(children[1])}
-                  r={LineChartCircleRadius}
-                  fill={ageColors[stckDatum.key]}
-                />
-              {/if}
-            {/each}
-          {/each}
-        {/if}
-       
-        {#each richData as label}
-          <text x={xScale(label.year)} y={yScale(0) + 12} class="label weaker small">{label.year}</text>
-        {/each}
-        
-        {#each [...ageGroups].reverse() as ageGroup, i}
-          <text x={w - labelWidth / 2} y={(i - ageGroups.length / 2) * 24 + h / 2} class="label age"
-            ><Number value={richData.find((d) => d.year === currentYear)[ageGroup]} /></text
-          >
-          <line
-            x1={w - labelWidth - 5}
-            y1={(i - ageGroups.length / 2) * 24 + h / 2 - 6}
-            x2={xScale.range()[1]}
-            y2={i === ageGroups.length - 1
-              ? (i - ageGroups.length / 2) * 24 + h / 2 - 6
-              : (yScale(stckData.find((d) => d.key === ageGroup)[3][1]) - yScale(stckData.find((d) => d.key === ageGroup)[3][0])) / 2 +
-                yScale(stckData.find((d) => d.key === ageGroup)[3][0])}
-            stroke={ageColors[ageGroup]}
-          />
-        {/each}
-        -->
         {/if}
       </g>
     </svg>
