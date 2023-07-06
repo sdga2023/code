@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      //RedRamp
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseBlue300,
+
+        colors.ColorBaseRed500,
+
+        colors.ColorBaseRed700,
+      ]);
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+
+        const closuresData = await fetch(
+          "./data/goal04.schoolclosures.json"
+        ).then((res) => res.json());
+
+        //console.log(closuresData);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorVisFilteredOut;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        let colorScale = d3.scaleSequential(ramp).domain([0, 392]);
+
+        closuresData.forEach(function (d) {
+          ctx.fillStyle =
+            d.unicef_total_closed || d.unicef_total_closed == 0
+              ? colorScale(d.unicef_total_closed)
+              : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.strokeStyle =
+            d.unicef_total_closed || d.unicef_total_closed == 0
+              ? colorScale(d.unicef_total_closed)
+              : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.fill();
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        });
+      }
+    </script>
+  </body>
+</html>

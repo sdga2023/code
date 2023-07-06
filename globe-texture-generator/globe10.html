@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="./circle-to-polygon.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseBlue200,
+        colors.ColorBasePurple300,
+        colors.ColorBasePink400,
+        colors.ColorBasePink500,
+        colors.ColorBasePink600,
+      ]);
+
+      /*
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow100,
+        colors.ColorUnSdg3,
+      ]);
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseDarkPurple100,
+
+        colors.ColorBaseGreen300,
+        colors.ColorBaseGreen500,
+        colors.ColorBaseGreen700,
+      ]);*/
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+        const centroidsJSON = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+        const centroids = centroidsJSON.features;
+
+        const giniData = await fetch("./data/goal10.global_gini.json").then(
+          (res) => res.json()
+        );
+
+        console.log(giniData);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        console.log(worldData);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorThemeBgWeaker;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        console.log(countryTopo);
+
+        const ex = d3.extent(giniData, (d) => d.gini);
+        const sizeScale = d3.scaleLinear().domain(ex).range([5000, 600000]);
+
+        let colorScale = d3.scaleSequential(ramp).domain(ex);
+
+        let circleScale = d3.scaleSqrt().domain(ex).range([5, 50]);
+
+        let heightScale = d3
+          .scaleLinear()
+          .domain(ex)
+          .range(["#000000", "#ffffff"]);
+
+        giniData
+          .sort((a, b) => b.gini - a.gini)
+          .forEach(function (d) {
+            ctx.fillStyle = d.gini
+              ? colorScale(d.gini)
+              : colors.ColorBaseDarkPurple200;
+            ctx.beginPath();
+            path(
+              countryTopo.features.find(
+                (ct) => d.country_code === ct.properties.ISO_A3
+              )
+            );
+            ctx.strokeStyle = d.gini
+              ? colorScale(d.gini)
+              : colors.ColorBaseDarkPurple200;
+            ctx.beginPath();
+            path(
+              countryTopo.features.find(
+                (ct) => d.country_code === ct.properties.ISO_A3
+              )
+            );
+            ctx.fill();
+            ctx.lineWidth = 1;
+            ctx.stroke();
+
+            /*
+            const centroid = centroids.find(
+              (c) => c.properties.iso_3c === d.country_code
+            );
+            if (centroid) {
+              console.log(centroid);
+              const pos = projection(centroid.geometry.coordinates);
+
+              var circle = circleToPolygon(
+                centroid.geometry.coordinates,
+                sizeScale(d.gini),
+                {
+                  numberOfEdges: 64,
+                  rightHandRule: true,
+                }
+              );
+
+              ctx.fillStyle = colorScale(d.gini);
+
+              const fillCol = d3.color(ctx.fillStyle);
+              ctx.strokeStyle = fillCol.darker(2);
+
+              ctx.lineWidth = 1;
+              ctx.beginPath();
+              path(circle);
+              ctx.globalAlpha = 0.9;
+              ctx.stroke();
+              ctx.fill();
+            }
+            */
+          });
+      }
+    </script>
+  </body>
+</html>

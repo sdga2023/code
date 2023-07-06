@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="./circle-to-polygon.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 3248;
+      const height = 1624;
+
+      const bg = colors.GlobeBG;
+
+      const r = d3.scaleSqrt().domain([0, 100]).range([10000, 500000]);
+
+      // const ramp = d3.piecewise(d3.interpolateLab, [
+      //   colors.ColorBaseRed200,
+      //   colors.ColorBaseBlue700,
+      // ]);
+
+      // let c = d3.scaleSequential(ramp).domain([0, 973]);
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow200,
+        colors.ColorBaseYellow300,
+        colors.ColorBaseYellow400,
+        colors.ColorBaseYellow500,
+        colors.ColorBaseYellow600,
+      ]);
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+
+        // const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+        //   res.json()
+        // );
+
+        const centroidData = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+
+        const data = (await d3.csv("./data/afford-healthy-diet-millions.csv"))
+          .filter(
+            (d) =>
+              d["Millions of people who cannot afford a healthy diet"] !== ""
+          )
+          .map((d) => ({
+            ...d,
+            value: +d["Millions of people who cannot afford a healthy diet"],
+            centroid: centroidData.features.find(
+              (c) => c.properties.iso_3c === d["Country Code"]
+            ).geometry.coordinates,
+          }));
+
+        console.log(worldData);
+        console.log(centroidData);
+        console.log(data.reduce((acc, cur) => acc + cur.value, 0));
+
+        let colorScale = d3.scaleSequential(ramp).domain([0, 100]).clamp(true);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorThemeBg;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+        console.log(countryTopo);
+
+        ctx.lineWidth = 0.5;
+        // ctx.strokeStyle = colors.ColorBaseBlue400;
+        ctx.strokeStyle = "#bac8d9";
+        ctx.beginPath();
+        path({
+          type: "FeatureCollection",
+          features: countryTopo.features,
+        });
+        ctx.stroke();
+
+        data
+          .sort((a, b) => b.value - a.value)
+          .forEach((d) => {
+            const x = projection(d.centroid)[0];
+            const y = projection(d.centroid)[1];
+            const radius = r(d.value);
+
+            var circle = circleToPolygon(d.centroid, r(d.value), {
+              numberOfEdges: 64,
+              rightHandRule: true,
+            });
+
+            ctx.fillStyle = colorScale(d.value);
+            ctx.strokeStyle = colors.ColorBaseYellow700;
+            ctx.lineWidth = 0.5;
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            path(circle);
+            ctx.globalAlpha = 0.8;
+            ctx.stroke();
+            ctx.fill();
+
+            // const gradient = ctx.createRadialGradient(x, y, 0, x, y, radius);
+            // gradient.addColorStop(1, colors.ColorGrey800);
+            // gradient.addColorStop(0, colors.ColorBaseRed500);
+
+            // ctx.fillStyle = c(d.value);
+            // ctx.fillStyle = colors.ColorBaseRed500;
+            // ctx.strokeStyle = gradient;
+
+            /*
+            ctx.fillStyle = colorScale(d.value);
+            ctx.strokeStyle = colors.ColorBaseYellow700;
+            ctx.lineWidth = 0.5;
+
+            ctx.beginPath();
+            ctx.arc(x, y, radius, 0, 2 * Math.PI);
+            ctx.globalAlpha = 0.8;
+            ctx.closePath();
+
+            ctx.fill();
+            ctx.stroke();*/
+          });
+      }
+    </script>
+  </body>
+</html>

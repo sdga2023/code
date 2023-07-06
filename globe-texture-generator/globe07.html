@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = "#3C3B4F";
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      //drawGlobeTexture("./data/BlackMarble_2016_01deg_2048.jpg");
+      drawGlobeTexture("./data/BlackMarble-lightsonly-brighter.png");
+
+      async function drawGlobeTexture(imageUrl) {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+
+        const image = new Image();
+        image.src = imageUrl;
+        image.onload = () => {
+          ctx.drawImage(image, 0, 0);
+        };
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorThemeDarkBg;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = bg;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        /*const riverTopo = topojson.feature(
+          riverData,
+          riverData.objects.rivers_world_47950
+        );
+
+        ctx.lineWidth = 0.5;
+        ctx.strokeStyle = colors.ColorBaseBlue400;
+        ctx.beginPath();
+        path({
+          type: "FeatureCollection",
+          features: riverTopo.features.filter(
+            (f) => f.properties.Regime === "P"
+          ),
+        });
+        ctx.stroke();
+
+        ctx.strokeStyle = colors.ColorBaseTeal400;
+        ctx.beginPath();
+        path({
+          type: "FeatureCollection",
+          features: riverTopo.features.filter(
+            (f) => f.properties.Regime !== "P"
+          ),
+        });
+        ctx.stroke();*/
+      }
+    </script>
+  </body>
+</html>

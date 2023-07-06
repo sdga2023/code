@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      const triangleWidth = 5;
+
+      //RedRamp
+      var ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow600,
+        colors.ColorBaseYellow500,
+        colors.ColorBaseYellow400,
+        colors.ColorBaseDarkPurple100,
+        colors.ColorBaseBlue400,
+        colors.ColorBaseBlue500,
+        colors.ColorBaseBlue600,
+      ]);
+
+      ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow600,
+        colors.ColorBaseYellow500,
+        colors.ColorBaseYellow400,
+        colors.ColorBaseYellow300,
+        "#dddddd",
+        colors.ColorBaseTeal300,
+        colors.ColorBaseTeal400,
+        colors.ColorBaseTeal500,
+        colors.ColorBaseBlue600,
+      ]);
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+        const centroidData = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+
+        const resourcesData = await fetch("./data/goal12.globe.json").then(
+          (res) => res.json()
+        );
+
+        //console.log(resourcesData);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorVisFilteredOut;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        // let colorScale = d3.scaleSequential(ramp).domain(d3.extent(resourcesData, (d) => d.growth_nca));
+
+        console.log(d3.extent(resourcesData, (d) => d.growth_nca));
+
+        let colorScale = d3
+          .scaleDiverging(ramp)
+          .domain([-100, 0, 200])
+          .clamp(true);
+
+        // let heightScale = d3.scaleLinear().domain([0, 100]).range([0, 27]);
+        let heightScale = d3.scaleLinear().domain([0, 100]).range([0, 4.7]);
+        console.log(centroidData);
+
+        resourcesData.forEach(function (d) {
+          ctx.fillStyle =
+            d.growth_nca || d.growth_nca == 0
+              ? colorScale(d.growth_nca)
+              : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.code === ct.properties.ISO_A3)
+          );
+          ctx.strokeStyle =
+            d.growth_nca || d.growth_nca == 0
+              ? colorScale(d.growth_nca)
+              : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.code === ct.properties.ISO_A3)
+          );
+          ctx.closePath();
+          ctx.globalAlpha = 0.5;
+          ctx.fill();
+
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        });
+
+        resourcesData.forEach(function (d) {
+          var centroid = centroidData.features.find(
+            (c) => c.properties.iso_3c === d.code
+          );
+          if (centroid) {
+            centroid = centroid.geometry.coordinates;
+
+            console.log();
+
+            const x = projection(centroid)[0];
+            const y = projection(centroid)[1];
+            ctx.globalAlpha = 1;
+            ctx.fillStyle =
+              d.growth_nca || d.growth_nca == 0
+                ? colorScale(d.growth_nca)
+                : colors.ColorBaseDarkPurple200;
+            ctx.strokeStyle = "#000000";
+            ctx.beginPath();
+            /*
+            ctx.moveTo(x - triangleWidth, y);
+            ctx.lineTo(x + triangleWidth, y);
+            ctx.lineTo(x, y - heightScale(d.growth_nca));
+            ctx.lineTo(x - triangleWidth, y);
+            */
+
+            const left = projection([centroid[0] - 1.2, centroid[1]]);
+            const right = projection([centroid[0] + 1.2, centroid[1]]);
+            const top = projection([
+              centroid[0],
+              centroid[1] + heightScale(d.growth_nca),
+            ]);
+
+            console.log(left);
+
+            ctx.moveTo(left[0], left[1]);
+            ctx.lineTo(right[0], right[1]);
+            ctx.lineTo(top[0], top[1]);
+            ctx.lineTo(left[0], left[1]);
+
+            ctx.closePath();
+            ctx.fill();
+            ctx.globalAlpha = 0.3;
+            ctx.stroke();
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

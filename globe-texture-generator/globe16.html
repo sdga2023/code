@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
+    <script src="./circle-to-polygon.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.ColorThemeDarkBg; //colors.GlobeBG; //
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseRed500,
+        colors.ColorBaseYellow200 + "dd",
+        colors.ColorBaseYellow100 + "44",
+      ]);
+
+      const countryramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorThemeDarkBgWeaker,
+        colors.ColorThemeDarkBgWeaker,
+        //colors.ColorUnSdg16,
+        //colors.ColorBaseOrange300,
+      ]);
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+        const centroidsJSON = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+        const centroids = centroidsJSON.features;
+
+        const data = await fetch(
+          "./data/goal16.violenteventlocations.json"
+        ).then((res) => res.json());
+
+        const data2 = await fetch("./data/goal16.violentevents.json").then(
+          (res) => res.json()
+        );
+
+        const binRadius = 0.9;
+
+        ctx.fillStyle = bg;
+        ctx.lineWidth = 0;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorThemeDarkBgWeaker; //colors.ColorBaseBlue800; //colors.ColorUnSdg16; //colors.ColorThemeBgWeaker; //
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = bg;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        console.log(countryTopo.features);
+
+        const ex = d3.extent(data2, (d) => d.acled);
+        const sizeScale = d3
+          .scaleSqrt()
+          .domain([1, 12000])
+          .range([28000, 200000]);
+
+        // const radiusScale = d3.scaleSqrt().domain([1, 12000]).range([2.5, 20]);
+        console.log(ex);
+
+        let colorScale = d3.scaleSequential(ramp).domain([1, 15000]);
+        let colorScaleCountries = d3.scaleSequential(countryramp).domain(ex);
+        var outline = d3.scaleLinear().domain(ex).range([0, 3]);
+
+        var projectedData = data.map((d) => {
+          var a = [];
+          var p = projection([d.longitude, d.latitude]);
+
+          a[0] = d.longitude;
+          a[1] = d.latitude;
+          a.count = 1;
+
+          return a;
+        });
+
+        console.log(projectedData);
+
+        var radius = d3.scaleSqrt().domain([0, 10]).range([0, 10]);
+
+        var hexbin = d3
+          .hexbin()
+          .extent([
+            [-180, -90],
+            [180, 90],
+          ])
+          .radius(binRadius);
+
+        console.log(data2);
+
+        data2.forEach(function (d) {
+          const centroid = centroids.find(
+            (c) => c.properties.iso_3c === d.iso3c
+          );
+
+          ctx.fillStyle = colors.ColorBaseBlue700;
+          ctx.strokeStyle = colors.ColorUnSdg16;
+          ctx.lineWidth = 2;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => ct.properties.ISO_A3 === d.iso3c)
+          );
+          ctx.closePath();
+          ctx.fill();
+          ctx.stroke();
+
+          /*
+
+          if (centroid) {
+            var circle = circleToPolygon(
+              centroid.geometry.coordinates,
+              sizeScale(d.acled),
+              { numberOfEdges: 32, rightHandRule: true }
+            );
+
+            ctx.strokeStyle = "#ffffff";
+            // ctx.fillStyle = colorScale(d.acled);
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            path(circle);
+            ctx.stroke();
+            ctx.globalAlpha = 0.5;
+            // ctx.fill();
+            ctx.globalAlpha = 1;
+
+            */
+
+          /*
+              var i = 0;
+
+              while (i < d.acled) {
+                circle = circleToPolygon(
+                  centroid.geometry.coordinates,
+                  sizeScale(i),
+                  { numberOfEdges: 32, rightHandRule: true }
+                );
+
+                ctx.strokeStyle = colorScale(i);
+                ctx.beginPath();
+                path(circle);
+                ctx.stroke();
+                i = i + 2500;
+              }
+              */
+          // }
+        });
+
+        hexbin(projectedData)
+          .sort(function (a, b) {
+            return a.length - b.length;
+          })
+          .forEach(function (b) {
+            var circle = circleToPolygon([b.x, b.y], sizeScale(b.length), {
+              numberOfEdges: 6,
+              rightHandRule: true,
+            });
+
+            ctx.fillStyle = colorScale(b.length);
+            ctx.strokeStyle = colorScale(b.length);
+            ctx.globalAlpha = 1;
+            ctx.beginPath();
+            path(circle);
+            ctx.fill();
+            ctx.globalAlpha = 1;
+            ctx.lineWidth = 1;
+            ctx.stroke();
+          });
+      }
+    </script>
+  </body>
+</html>

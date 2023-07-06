@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+      const hypotenuse = Math.sqrt(width * width + height * height);
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const segments = d3.scaleLinear().domain([0, hypotenuse]).range([1, 10]);
+      const nodeScale = d3.scaleSqrt().range([4, 18]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      //RedRamp
+      /*
+            const ramp = d3.piecewise(d3.interpolateLab, [
+              colors.ColorBaseRed200,
+              colors.ColorBasePink400,
+              colors.ColorBaseDarkPurple600,
+              colors.ColorBaseBlue400,
+              colors.ColorBaseBlue200,
+
+              //    colors.ColorBaseBlue800,
+            ]);*/
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseBlue700,
+        colors.ColorBaseBlue500,
+        colors.ColorGrey200,
+        colors.ColorBaseOrange500,
+        colors.ColorBaseOrange700,
+      ]);
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+
+        const odaData = await fetch("./data/goal17.globe.json").then((res) =>
+          res.json()
+        );
+        const regionFlows = await fetch("./data/goal17.globe_flows.json").then(
+          (res) => res.json()
+        );
+        const flows = await fetch("./data/goal17.bilateral.json").then((res) =>
+          res.json()
+        );
+
+        const centroidData = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+
+        console.log(regionFlows);
+
+        /*
+        const regionCentroids = [
+          {
+            r: "MEA",
+            centroid: centroidData.features.find(
+              (ct) => (ct.properties.iso3 = "DEU")
+            ),
+          },
+          {
+            r: "MEA",
+            centroid: centroidData.features.find(
+              (ct) => (ct.properties.iso3 = "DEU")
+            ),
+          },
+        ];*/
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorVisFilteredOut;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        let colorScale = d3
+          .scaleDivergingSqrt(ramp)
+          .domain([-500, 0, 500])
+          .clamp(true);
+
+        // calculate incoming and outgoing degree based on flights
+        // flights are given by airport iata code (not index)
+        /* flows.forEach(function (link) {
+                link.source = link.iso3_donor;
+                link.target = link.iso3_recipient;
+
+                link.source.outgoing += link.count;
+                link.target.incoming += link.count;
+              });*/
+
+        odaData
+          .filter((a) => a.oda_pcap != null)
+          .forEach(function (d) {
+            ctx.fillStyle =
+              d.oda_pcap || d.oda_pcap == 0
+                ? colorScale(d.oda_pcap)
+                : colors.ColorBaseDarkPurple700;
+            ctx.beginPath();
+            path(
+              countryTopo.features.find((ct) => d.iso3 === ct.properties.ISO_A3)
+            );
+            ctx.strokeStyle =
+              d.oda_pcap || d.oda_pcap == 0
+                ? colorScale(d.oda_pcap)
+                : colors.ColorBaseDarkPurple700;
+            ctx.beginPath();
+            path(
+              countryTopo.features.find((ct) => d.iso3 === ct.properties.ISO_A3)
+            );
+            ctx.fill();
+            ctx.lineWidth = 1;
+            ctx.stroke();
+          });
+
+        var nodes = [];
+        var links = [];
+
+        /*
+
+        flows.forEach(function (d) {
+          if (
+            odaData
+              .filter((a) => a.oda_pcap != null)
+              .filter((b, i) => i < 10)
+              .find(
+                (oda) =>
+                  oda.iso3 === d.iso3_donor || oda.iso3 === d.iso3_recipient
+              )
+          ) {
+            const dCentroid = centroidData.features.find(
+              (ct) => ct.properties.iso_3c === d.iso3_donor
+            )?.geometry.coordinates;
+
+            var n1;
+            if (dCentroid) {
+              n1 = {
+                x: projection(dCentroid)[0],
+                y: projection(dCentroid)[1],
+                iso: d.iso3_donor,
+              };
+            }
+
+            var index = nodes.findIndex((x) => x.iso == d.iso3_donor);
+            //node does not exist yet
+            if (index === -1 && dCentroid && n1) {
+              nodes.push(n1);
+            }
+
+            const rCentroid = centroidData.features.find(
+              (ct) => ct.properties.iso_3c === d.iso3_recipient
+            )?.geometry.coordinates;
+
+            var n2;
+            if (rCentroid) {
+              n2 = {
+                x: projection(rCentroid)[0],
+                y: projection(rCentroid)[1],
+                iso: d.iso3_recipient,
+              };
+            }
+
+            index = nodes.findIndex((x) => x.iso == d.iso3_recipient);
+
+            //node does not exist yet
+            if (index === -1 && rCentroid && n2) {
+              nodes.push(n2);
+            }
+
+            if (n1 && n2) {
+              links.push({ source: n1, target: n2, amount: d.value });
+            }
+          }
+        });
+
+        console.log(nodes, links);
+
+        let bundle = generateSegments(nodes, links);
+        console.log(bundle);
+
+        let line = d3
+          .line()
+          .curve(d3.curveBundle)
+          .x((a) => a.x)
+          .y((a) => a.y)
+          .context(ctx);
+
+        // https://github.com/d3/d3-force
+        let layout = d3
+          .forceSimulation()
+          // settle at a layout faster
+          .alphaDecay(0.1)
+          // nearby nodes attract each other
+          .force(
+            "charge",
+            d3
+              .forceManyBody()
+              .strength(10)
+              .distanceMax(nodeScale.range()[1] * 2)
+          )
+          // edges want to be as short as possible
+          // prevents too much stretching
+          //.force("link", d3.forceLink().strength(3).distance(1))
+          .on("tick", function (d) {
+            ctx.clearRect(0, 0, width, height);
+            bundle.paths.forEach(function (p) {
+              ctx.strokeStyle = "red";
+              ctx.globalAlpha = 0.2;
+              ctx.beginPath();
+              line(p);
+              ctx.closePath();
+              ctx.stroke();
+            });
+          })
+          .on("end", function (d) {
+            console.log("layout complete");
+          });
+
+        layout.nodes(bundle.nodes).force("link").links(bundle.links);
+
+        /*
+        bundle.paths.forEach(function (p) {
+          ctx.strokeStyle = "red";
+          ctx.globalAlpha = 0.1;
+          ctx.beginPath();
+          line(p);
+          ctx.closePath();
+          ctx.stroke();
+        });*/
+
+        /* 
+        straight lines  
+
+        flows.forEach(function (d) {
+          const dCentroid = centroidData.features.find(
+            (ct) => ct.properties.iso_3c === d.iso3_donor
+          )?.geometry.coordinates;
+
+          const rCentroid = centroidData.features.find(
+            (ct) => ct.properties.iso_3c === d.iso3_recipient
+          )?.geometry.coordinates;
+
+          if (dCentroid && rCentroid) {
+            const dx = projection(dCentroid)[0];
+            const dy = projection(dCentroid)[1];
+
+            const rx = projection(rCentroid)[0];
+            const ry = projection(rCentroid)[1];
+
+            ctx.strokeStyle = "white";
+            ctx.globalAlpha = 0.1;
+            ctx.beginPath();
+            ctx.moveTo(dx, dy);
+            ctx.lineTo(rx, ry);
+            ctx.closePath();
+            ctx.stroke();
+          }
+        });
+        */
+      }
+
+      function drawFlights(airports, flights) {
+        // break each flight between airports into multiple segments
+        let bundle = generateSegments(airports, flights);
+
+        // https://github.com/d3/d3-shape#curveBundle
+        let line = d3
+          .line()
+          .curve(d3.curveBundle)
+          .x((airport) => airport.x)
+          .y((airport) => airport.y);
+
+        let links = g.flights
+          .selectAll("path.flight")
+          .data(bundle.paths)
+          .enter()
+          .append("path")
+          .attr("d", line)
+          .attr("class", "flight")
+          .each(function (d) {
+            // adds the path object to our source airport
+            // makes it fast to select outgoing paths
+            d[0].flights.push(this);
+          });
+
+        // https://github.com/d3/d3-force
+        let layout = d3
+          .forceSimulation()
+          // settle at a layout faster
+          .alphaDecay(0.1)
+          // nearby nodes attract each other
+          .force(
+            "charge",
+            d3
+              .forceManyBody()
+              .strength(10)
+              .distanceMax(scales.airports.range()[1] * 2)
+          )
+          // edges want to be as short as possible
+          // prevents too much stretching
+          .force("link", d3.forceLink().strength(0.7).distance(0))
+          .on("tick", function (d) {
+            links.attr("d", line);
+          })
+          .on("end", function (d) {
+            console.log("layout complete");
+          });
+
+        layout.nodes(bundle.nodes).force("link").links(bundle.links);
+      }
+
+      function generateSegments(nodes, links) {
+        let bundle = { nodes: [], links: [], paths: [] };
+
+        bundle.nodes = nodes.map(function (d, i) {
+          d.fx = d.x;
+          d.fy = d.y;
+          return d;
+        });
+
+        links.forEach(function (d, i) {
+          let length = distance(d.source, d.target);
+          let total = Math.round(segments(length));
+
+          let xscale = d3
+            .scaleLinear()
+            .domain([0, total + 1])
+            .range([d.source.x, d.target.x]);
+
+          let yscale = d3
+            .scaleLinear()
+            .domain([0, total + 1])
+            .range([d.source.y, d.target.y]);
+
+          let source = d.source;
+          let target = null;
+          let local = [source];
+
+          for (let j = 1; j <= total; j++) {
+            target = { x: xscale(j), y: yscale(j) };
+            local.push(target);
+            bundle.nodes.push(target);
+            bundle.links.push({ source: source, target: target });
+            source = target;
+          }
+
+          local.push(d.target);
+          bundle.links.push({ source: target, target: d.target });
+          bundle.paths.push(local);
+        });
+
+        return bundle;
+      }
+      function distance(source, target) {
+        const dx2 = Math.pow(target.x - source.x, 2);
+        const dy2 = Math.pow(target.y - source.y, 2);
+
+        return Math.sqrt(dx2 + dy2);
+      }
+    </script>
+  </body>
+</html>

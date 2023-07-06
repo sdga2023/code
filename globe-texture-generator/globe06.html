@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      //https://www.hydrosheds.org/products/hydrorivers#downloads
+
+      //world_river_new : https://data.apps.fao.org/catalog/dataset/76e4aacc-b89e-4091-831f-63986fe029f9
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 3248;
+      const height = 1624;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      drawGlobeTexture();
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorUnSdg6,
+        colors.ColorBaseGreen400,
+        colors.ColorBaseYellow500,
+        colors.ColorBaseOrange600,
+      ]);
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+
+        const basinData = await fetch("./data/basin_level_topo.json").then(
+          (res) => res.json()
+        );
+
+        const riverData = await fetch(
+          "./data/rivers/rivers_world_new.json"
+        ).then((res) => res.json());
+
+        console.log(riverData);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const basinTopo = topojson.feature(
+          basinData,
+          basinData.objects["basin-level-simplified"]
+        );
+
+        // None (<25 percent), Low (25-50 percent), Medium (50-75 percent), High (75-100 percent), and Critical (>100 percent).
+
+        const c = d3.scaleSequential(ramp).domain([0, 100]).clamp(true);
+
+        basinTopo.features.forEach((feature) => {
+          ctx.fillStyle =
+            feature.properties.water_stress === 9999
+              ? colors.ColorGrey300
+              : c(feature.properties.water_stress);
+          ctx.beginPath();
+          ctx.strokeStyle = "white";
+          ctx.lineWidth = 0.3;
+          path(feature);
+
+          ctx.fill();
+          ctx.stroke();
+        });
+
+        const riverW = d3.scaleLog().range([6, 0.2]).domain([1, 7]);
+
+        riverData.features.forEach((feature) => {
+          ctx.strokeStyle = colors.ColorBaseTeal800;
+          ctx.beginPath();
+          // ctx.globalAlpha = 1 / feature.properties.A_Strahler;
+          ctx.lineWidth = riverW(feature.properties.A_Strahler);
+          path(feature);
+
+          ctx.stroke();
+        });
+
+        /*
+        river2Data.features.forEach((feature) => {
+          ctx.strokeStyle = colors.ColorBaseBlue800;
+          ctx.beginPath();
+          ctx.lineWidth = 1;
+          path(feature);
+
+          ctx.stroke();
+        });*/
+      }
+    </script>
+  </body>
+</html>

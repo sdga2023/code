@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      /*
+
+              const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow100,
+        colors.ColorBaseTeal300,
+        colors.ColorBaseGreen500,
+      ]);
+
+
+      ]);*/
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow100,
+        colors.ColorBaseYellow300,
+        colors.ColorBaseOrange500,
+        colors.ColorBaseOrange700,
+      ]);
+
+      /*
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseYellow100,
+        colors.ColorUnSdg3,
+      ]);
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseDarkPurple100,
+
+        colors.ColorBaseGreen300,
+        colors.ColorBaseGreen500,
+        colors.ColorBaseGreen700,
+      ]);*/
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+
+        const wasteData = await fetch("./data/goal11.globe.json").then((res) =>
+          res.json()
+        );
+
+        console.log(wasteData);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorVisFilteredOut;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        console.log(countryTopo);
+        const ex = d3.extent(wasteData, (d) => d.wastegen_pc);
+        let colorScale = d3.scaleSequential(ramp).domain([0, 1.4]);
+
+        wasteData.forEach(function (d) {
+          ctx.fillStyle = d.wastegen_pc
+            ? colorScale(d.wastegen_pc)
+            : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          ctx.strokeStyle = d.wastegen_pc
+            ? colorScale(d.wastegen_pc)
+            : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.fill();
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        });
+
+        // .style("stroke", (d,i) => d.properties.Regime === "P" ? "#000000" : "#333333")
+        //                     .style("stroke-width", "0.3px")
+
+        /*
+        const riverTopo = topojson.feature(
+          riverData,
+          riverData.objects.rivers_world_47950
+        );
+        console.log(riverTopo);
+
+        ctx.lineWidth = 0.5;
+        ctx.strokeStyle = colors.ColorBaseBlue700;
+        ctx.beginPath();
+        path({
+          type: "FeatureCollection",
+          features: riverTopo.features.filter(
+            (f) => f.properties.Regime === "P"
+          ),
+        });
+        ctx.stroke();
+
+        ctx.strokeStyle = colors.ColorBaseBlue500;
+        ctx.beginPath();
+        path({
+          type: "FeatureCollection",
+          features: riverTopo.features.filter(
+            (f) => f.properties.Regime !== "P"
+          ),
+        });
+        ctx.stroke();*/
+      }
+    </script>
+  </body>
+</html>

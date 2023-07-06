@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = "#087FB7"; //colors.ColorBaseBlue600; // "#3C3B4F";
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      //BlueRamp, reversed
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorThemeBgWeaker,
+        colors.ColorBaseYellow400,
+      ]);
+      let colorScale = d3
+        .scaleSequentialSqrt(ramp)
+        .domain([5, 1000])
+        .clamp(true);
+
+      const ramp2 = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseBlue500,
+        colors.ColorBaseBlue500,
+        colors.ColorUnSdg14,
+        colors.ColorBaseTeal300,
+        colors.ColorBaseYellow200,
+        colors.ColorBaseYellow100,
+      ]);
+
+      drawGlobeTexture("data/goal14_orange.png");
+
+      async function drawGlobeTexture(imageUrl) {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+        /*const oceanData = await fetch("./data/overfishing-zones.json").then((res) =>
+        res.json()
+        );*/
+
+        const fishing = await d3.csv("./data/apparent_fishing_hours.csv");
+        console.log(fishing);
+
+        let fishingScale = d3
+          .scaleSequentialLog(ramp2)
+          //.domain(d3.extent(fishing, (d) => +d.apparent_fishing_hours));
+          .domain([0.1, 300])
+          .clamp(true);
+        console.log(fishingScale.domain());
+
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+
+        const catchData = await fetch(
+          "./data/goal14.percapita_catch.json"
+        ).then((res) => res.json());
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorVisFilteredOut;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        /*ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 5;
+        ctx.stroke();*/
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        catchData.forEach(function (d) {
+          ctx.fillStyle =
+            d.percapita_catch || d.percapita_catch == 0
+              ? colorScale(d.percapita_catch)
+              : colors.ColorVisFilteredOut;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.strokeStyle =
+            d.percapita_catch || d.percapita_catch == 0
+              ? colorScale(d.percapita_catch)
+              : colors.ColorVisFilteredOut;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.fill();
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        });
+
+        fishing.forEach((d) => {
+          const { Lat, Lon, apparent_fishing_hours } = d;
+          ctx.fillStyle = fishingScale(+apparent_fishing_hours);
+          ctx.beginPath();
+          const pos = projection([+Lon, +Lat]);
+          ctx.arc(pos[0], pos[1], 1, 0, Math.PI * 2);
+          ctx.fill();
+        });
+
+        /*
+        ctx.fillStyle = colors.ColorThemeBg;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();*/
+
+        /*
+        const image = new Image();
+        image.src = imageUrl;
+        image.onload = () => {
+          ctx.drawImage(image, 0, 0);
+        };*/
+
+        /*const oceanTopo = topojson.feature(oceanData, oceanData.objects['overfishing-zones']);
+        oceanTopo.features.forEach(function (d) {
+            //console.log(d)
+          ctx.fillStyle = colorScale(d.properties.inverse_In)
+          ctx.beginPath();
+          path(d);
+          ctx.strokeStyle = "white";
+          ctx.beginPath();
+          path(d);
+          ctx.fill();
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        });*/
+      }
+    </script>
+  </body>
+</html>

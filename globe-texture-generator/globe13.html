@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      var ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseGreen600,
+        colors.ColorBaseGreen500,
+        colors.ColorBaseYellow400,
+        colors.ColorBaseYellow300,
+        colors.ColorBaseYellow200,
+      ]);
+
+      /* dark green for positive */
+      ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseTeal400,
+        colors.ColorBaseGreen300,
+        colors.ColorBaseGreen200,
+        colors.ColorBaseYellow200,
+        colors.ColorBaseYellow100,
+      ]);
+
+      /* light green for positive */
+      ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBaseGreen300,
+
+        colors.ColorBaseDarkPurple500,
+        colors.ColorBasePurple700,
+      ]);
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+
+        const emisData = await fetch(
+          "./data/goal13.emissions_globe-2.json"
+        ).then((res) => res.json());
+
+        const assetsData = await fetch("./data/goal13.TRACE_assets.json")
+          .then((res) => res.json())
+          .then((res) =>
+            res.sort((a, b) => b.emissions_quantity - a.emissions_quantity)
+          );
+
+        var mappedAssets = assetsData.map((d) => {
+          return [
+            projection([d.lon, d.lat])[0],
+            projection([d.lon, d.lat])[1],
+            d.emissions_quantity,
+          ];
+        });
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorVisFilteredOut;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const ex = d3.extent(assetsData, (d) => d.emissions_quantity);
+
+        console.log(ex);
+        const sizeScale = d3.scaleSqrt().domain(ex).range([1, 15]);
+
+        let opacityScale = d3
+          .scaleSqrt()
+          .domain(ex)
+          .range([
+            colors.ColorBaseYellow500 + "11",
+            colors.ColorBaseYellow500 + "ff",
+          ]);
+
+        let widthScale = d3.scaleLinear().domain(ex).range([0.05, 3]);
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        let colorScale = d3.scaleSequential(ramp).domain([0, 30]).clamp(true);
+
+        console.log(d3.extent(emisData, (d) => d.pcapemis));
+
+        emisData.forEach(function (d) {
+          ctx.fillStyle =
+            d.pcapemis || d.pcapemis == 0
+              ? colorScale(d.pcapemis)
+              : colors.ColorBaseDarkPurple700;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.strokeStyle =
+            d.pcapemis || d.pcapemis == 0
+              ? colorScale(d.pcapemis)
+              : colors.ColorBaseDarkPurple700;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.fill();
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        });
+
+        /*
+        console.log(assetsData);
+
+        assetsData.forEach(function (d) {
+          const pos = projection([d.lon, d.lat]);
+
+          //ctx.fillStyle = colorScale[d.sector];
+          ctx.fillStyle = opacityScale(d.emissions_quantity);
+
+          //const fillCol = d3.color(ctx.fillStyle);
+          // ctx.strokeStyle = fillCol.darker(2);
+          ctx.strokeStyle = colors.ColorGrey700; //opacityScale(d.emissions_quantity); //
+          ctx.lineWidth = widthScale(d.emissions_quantity);
+          ctx.beginPath();
+          ctx.ellipse(
+            pos[0],
+            pos[1],
+            sizeScale(d.emissions_quantity),
+            sizeScale(d.emissions_quantity),
+            // 1.2,
+            // 1.2,
+            0,
+            0,
+            Math.PI * 2
+          );
+          ctx.fill();
+          ctx.stroke();
+        });*/
+      }
+    </script>
+  </body>
+</html>

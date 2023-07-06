@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const path = d3
+        .geoPath()
+        .projection(projection)
+        .context(ctx)
+        .pointRadius(1);
+
+      const ramp = d3.piecewise(d3.interpolateLab, [
+        colors.ColorBasePurple600,
+        colors.ColorBasePurple400,
+        colors.ColorBasePurple300,
+        colors.ColorBasePurple200,
+        colors.ColorBasePurple100,
+        "#dddddd",
+        colors.ColorBaseYellow100,
+        colors.ColorBaseYellow200,
+        colors.ColorBaseOrange300,
+        colors.ColorBaseOrange400,
+        colors.ColorUnSdg5,
+      ]);
+
+      const triangleWidth = 5;
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+        const centroidsJSON = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+        const centroids = centroidsJSON.features;
+
+        const timeData = await fetch("./data/goal05.gender_time_use.json").then(
+          (res) => res.json()
+        );
+
+        console.log(timeData);
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorThemeBgWeaker;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        console.log(countryTopo);
+
+        const ex = d3.extent(timeData, (d) => d.gap);
+        const ex2 = d3.extent(timeData, (d) => d.female);
+        console.log(ex2);
+
+        const sizeScale = d3.scaleLinear().domain([0, 7]).range([0, 100]);
+
+        let colorScale = d3.scaleDiverging(ramp).domain([-5, 0, 5]);
+
+        let colorScaleF = d3.scaleDiverging(ramp).domain([-7, 0, 7]);
+
+        // let circleScale = d3.scaleSqrt().domain(ex2).range([5, 30]);
+
+        timeData.forEach(function (d) {
+          ctx.fillStyle = d.gap
+            ? colorScale(d.gap)
+            : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.strokeStyle = d.gap
+            ? colorScale(d.gap)
+            : colors.ColorBaseDarkPurple200;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.fill();
+          ctx.lineWidth = 1;
+          ctx.stroke();
+
+          /*
+          const centroid = centroids.find(
+            (c) => c.properties.iso_3c === d.iso3c
+          );
+          if (centroid) {
+            const pos = projection(centroid.geometry.coordinates);
+            const x = pos[0];
+            const y = pos[1];
+
+            ctx.fillStyle = d.gap
+              ? colorScale(d.gap)
+              : colors.ColorBaseDarkPurple200;
+
+            ctx.fillStyle = d.female
+              ? colors.ColorVisGenderFemale
+              : colors.ColorBaseDarkPurple200;
+
+            var fillCol = d3.color(ctx.fillStyle);
+            ctx.strokeStyle = fillCol.darker(2);
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+
+            ctx.moveTo(x - triangleWidth, y);
+            ctx.lineTo(x + triangleWidth, y);
+            ctx.lineTo(x, y - sizeScale(d.female));
+            ctx.lineTo(x - triangleWidth, y);
+
+            ctx.closePath();
+            ctx.fill();
+            ctx.stroke();
+
+            ctx.fillStyle = d.male
+              ? colors.ColorVisGenderMale
+              : colors.ColorBaseDarkPurple200;
+
+            fillCol = d3.color(ctx.fillStyle);
+            ctx.strokeStyle = fillCol.darker(2);
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+
+            ctx.beginPath();
+
+            ctx.moveTo(x - triangleWidth, y);
+            ctx.lineTo(x + triangleWidth, y);
+            ctx.lineTo(x, y + sizeScale(d.male));
+            ctx.lineTo(x - triangleWidth, y);
+
+            ctx.closePath();
+
+            // ctx.ellipse(pos[0],pos[1],  sizeScale(d.male + d.female),  sizeScale(d.male + d.female), 0,0,Math.PI * 2);
+
+            ctx.fill();
+            ctx.stroke();
+          }*/
+        });
+      }
+    </script>
+  </body>
+</html>

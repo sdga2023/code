@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="vars/_variables.css" />
+  </head>
+  <body>
+    <canvas />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://unpkg.com/geometric@2.5.0/build/geometric.js"></script>
+
+    <script type="module">
+      import * as colors from "./vars/tokens.es6.js";
+      import { hierarchy, pack } from "https://cdn.skypack.dev/d3-hierarchy@3";
+
+      const width = 2048;
+      const height = 1024;
+
+      const bg = colors.GlobeBG;
+
+      const can = document.querySelector("canvas");
+      const ctx = can.getContext("2d");
+      can.setAttribute("width", width);
+      can.setAttribute("height", height);
+
+      const proj = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .translate([width / 2, height / 2]);
+
+      const projection = d3
+        .geoEquirectangular()
+        .scale(height / Math.PI)
+        .rotate([-11.5, 0])
+        .translate([width / 2, height / 2]);
+
+      const path = d3.geoPath().projection(proj).context(ctx).pointRadius(1);
+
+      drawGlobeTexture();
+
+      async function drawGlobeTexture() {
+        const worldData = await fetch("./data/WB_Land_10m.json").then((res) =>
+          res.json()
+        );
+        const riverData = await fetch("./data/rivers_world2.json").then((res) =>
+          res.json()
+        );
+        const countries = await fetch("./data/wb_countries_topo.json").then(
+          (res) => res.json()
+        );
+        const centroidsJSON = await fetch("./data/country_centroids.json").then(
+          (res) => res.json()
+        );
+        const centroids = centroidsJSON.features;
+
+        const data = await fetch("./data/goal01.globe-2.json").then((res) =>
+          res.json()
+        );
+
+        const countryTopo = topojson.feature(
+          countries,
+          countries.objects.wb_countries
+        );
+
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, width, height);
+
+        const landTopo = topojson.feature(
+          worldData,
+          worldData.objects.WB_Land_10m
+        );
+        ctx.fillStyle = colors.ColorThemeBgWeaker;
+        ctx.beginPath();
+        path(landTopo);
+        ctx.fill();
+        ctx.strokeStyle = colors.GlobeBG;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+
+        data.forEach(function (d) {
+          ctx.fillStyle =
+            d.greyout == 1 ? colors.ColorGrey200 : colors.ColorThemeBgWeaker;
+          ctx.beginPath();
+          path(
+            countryTopo.features.find((ct) => d.iso3c === ct.properties.ISO_A3)
+          );
+          ctx.fill();
+        });
+
+        function calcPolygonArea(poly, w, h, x1, y1) {
+          //const can = new OffscreenCanvas(w, h);
+          const can = document.createElement("canvas");
+          can.setAttribute("width", w);
+          can.setAttribute("height", h);
+          const c = can.getContext("2d");
+
+          c.fillStyle = "black";
+          c.fillRect(0, 0, w, h);
+          c.fillStyle = "white";
+
+          var pixels = 0;
+
+          if (poly.length === 1) {
+            c.beginPath();
+            poly[0].forEach((v) => c.lineTo(v[0] - x1, v[1] - y1));
+            c.closePath();
+            c.fill();
+          } else {
+            poly.forEach((a) => {
+              c.beginPath();
+              a.forEach((v) => c.lineTo(v[0] - x1, v[1] - y1));
+              c.closePath();
+              c.fill();
+            });
+          }
+
+          console.log(w, h);
+          const imgd = c.getImageData(0, 0, w, h);
+
+          for (var i = 0; i < imgd.data.length; i += 4) {
+            if (imgd.data[i] == 255) {
+              pixels++;
+            }
+          }
+          return pixels;
+        }
+
+        const placeCircles = (polygons, n, poor = -1) => {
+          let circles = [];
+          let poorcircles = [];
+          let x1 = 99999999,
+            y1 = 99999999,
+            x2 = -99,
+            y2 = -99;
+
+          polygons.forEach((poly) => {
+            console.log(poly);
+            const [[px1, py1], [px2, py2]] = geometric.polygonBounds(poly);
+            x1 = Math.min(x1, px1);
+            y1 = Math.min(y1, py1);
+            x2 = Math.max(x2, px2);
+            y2 = Math.max(y2, py2);
+          });
+
+          //const [[x1, y1], [x2, y2]] = geometric.polygonBounds(polygon),
+          const width = x2 - x1,
+            height = y2 - y1;
+
+          let x = x1,
+            y = y1;
+
+          let countryArea = 0;
+
+          if (width >= 1 && height >= 1) {
+            countryArea = calcPolygonArea(polygons, width, height, x1, y1);
+          }
+
+          let pad = Math.ceil(Math.sqrt(countryArea / n));
+          let ratio = 1;
+
+          let iters = 0;
+
+          let i = 0;
+          while (y < y1 + height && i < n) {
+            x += pad;
+            if (x >= x1 + width) {
+              x = x1;
+              y += pad;
+              if (y >= y1 + height && i < n) {
+                i = 0;
+                x = x1;
+                y = y1;
+                circles = [];
+                pad = pad * 0.999;
+              }
+            }
+            const p = [x, y];
+            if (polygons.some((poly) => geometric.pointInPolygon(p, poly))) {
+              i++;
+              circles.push({ x, y });
+            }
+            iters++;
+            if (iters > 1000000) {
+              console.log("fail");
+              i = n;
+            }
+          }
+
+          if (poor > 0) {
+            ratio = Math.ceil(Math.sqrt(n / poor));
+            pad = pad * ratio;
+
+            (x = x1), (y = y1);
+
+            i = 0;
+            while (y < y1 + height && i < poor) {
+              x += pad;
+              if (x >= x1 + width) {
+                x = x1;
+                y += pad;
+                if (y >= y1 + height && i < poor) {
+                  i = 0;
+                  x = x1;
+                  y = y1;
+                  poorcircles = [];
+                  pad = pad * 0.999;
+                }
+              }
+              const p = [x, y];
+              if (polygons.some((poly) => geometric.pointInPolygon(p, poly))) {
+                i++;
+                poorcircles.push({ x, y });
+              }
+              iters++;
+              if (iters > 1000000) {
+                console.log("fail");
+                i = poor;
+              }
+            }
+          }
+
+          return { popCirc: circles, poorCirc: poorcircles };
+        };
+
+        const pack = (polygons, circles, rmin = 1, rmax = 20, pad = 1) => {
+          let x1 = 99999999,
+            y1 = 99999999,
+            x2 = -99,
+            y2 = -99;
+
+          polygons.forEach((poly) => {
+            const [[px1, py1], [px2, py2]] = geometric.polygonBounds(poly);
+            x1 = Math.min(x1, px1);
+            y1 = Math.min(y1, py1);
+            x2 = Math.max(x2, px2);
+            y2 = Math.max(y2, py2);
+          });
+
+          //const [[x1, y1], [x2, y2]] = geometric.polygonBounds(polygon),
+          const width = x2 - x1,
+            height = y2 - y1;
+
+          let r,
+            x = x1,
+            y = y1;
+
+          let safe = false,
+            iters = 0;
+
+          while (!safe) {
+            let intersection = false;
+            r = Math.max(rmin, Math.random() * rmax);
+            //  x = x1 + r + Math.random() * (width - r * 2);
+            //  y = y1 + r + Math.random() * (height - r * 2);
+            x += pad;
+            if (x >= x1 + width) {
+              x = x1;
+              y += pad;
+              if (y >= y1 + height) {
+                safe = true;
+                break;
+              }
+            }
+
+            const p = [x, y];
+
+            if (
+              polygons.some(
+                (poly) =>
+                  geometric.pointInPolygon(p, poly) &&
+                  circleInPolygon(x, y, r, poly)
+              )
+            ) {
+              for (let i = 0, l = circles.length; i < l; i++) {
+                const c = circles[i];
+                const l = geometric.lineLength([p, [c.x, c.y]]);
+                if (l < r + c.r + pad) {
+                  intersection = true;
+                  break;
+                }
+              }
+              safe = !intersection;
+            } else {
+              safe = false;
+            }
+
+            iters++;
+            if (iters > 1000000) {
+              console.log("fail");
+              safe = true;
+            }
+          }
+
+          if (safe) {
+            circles.push({ x, y, r, iters, index: circles.length });
+          }
+        };
+
+        function circleInPolygon(x, y, r, polygon) {
+          let inside = true;
+          for (let i = 0, l = polygon.length; i < l; i++) {
+            const line = [polygon[i], polygon[i + 1] || polygon[0]];
+            const point = [x, y];
+            if (geometric.lineLength([point, pointToLine(point, line)]) < r) {
+              inside = false;
+              break;
+            }
+          }
+          return inside;
+        }
+
+        // https://observablehq.com/@mbostock/closest-point-on-line
+        function pointToLine(point, line) {
+          const [[x1, y1], [x2, y2]] = line;
+          const [x3, y3] = point;
+          const x21 = x2 - x1;
+          const y21 = y2 - y1;
+          const x31 = x3 - x1;
+          const y31 = y3 - y1;
+          const t = Math.max(
+            0,
+            Math.min(1, (x31 * x21 + y31 * y21) / (x21 * x21 + y21 * y21))
+          );
+
+          return [x1 + (x2 - x1) * t, y1 + (y2 - y1) * t];
+        }
+
+        var rmin = 2;
+        var pad = 1;
+
+        for (let iso of data
+          .filter((d) => d.iso3c !== "AND" && d.iso3c !== "HKG")
+          .map((d) => d.iso3c)) {
+          console.log(iso);
+          const country = countryTopo.features.find(
+            (d) => d.properties.ISO_A3 === iso
+          );
+
+          if (!country || country.geometry.type === "Point") {
+            continue;
+          }
+
+          let countryProjected = country.geometry.coordinates
+            .map((d) => {
+              if (Array.isArray(d) && d.length === 1) {
+                return d[0].map((p) => projection(p));
+              } else {
+                return d
+                  .map((p) => projection(p))
+                  .filter((d) => !d.some((dd) => isNaN(dd)));
+              }
+              return result;
+            })
+            .filter((d) => Array.isArray(d) && d.length > 0);
+
+          /*
+              ctx.beginPath();
+              countryProjected.forEach((d) => {
+                ctx.beginPath();
+                d.forEach((p) => ctx.lineTo(p[0], p[1]));
+
+                ctx.strokeStyle = "black";
+                ctx.stroke();
+              });*/
+
+          //population in millions
+          const dataPoint = data.find((d) => d.iso3c === iso);
+
+          const n = dataPoint.population_in_millions;
+
+          const poor = dataPoint.poor_in_millions;
+
+          const uncertain = dataPoint.greyout;
+
+          console.log(dataPoint, n, poor, uncertain);
+
+          var circles = placeCircles(countryProjected, n, poor);
+
+          if (uncertain === 0) {
+            ctx.fillStyle = colors.ColorBaseBlue500;
+
+            ctx.strokeStyle = "white";
+            ctx.lineWidth = 1;
+
+            //console.log(circles);
+            circles.popCirc.forEach((d) => {
+              ctx.beginPath();
+              const ip = projection.invert([d.x, d.y]);
+              const [x, y] = proj(ip);
+              ctx.arc(x, y, 1.2, 0, Math.PI * 2);
+              ctx.fill();
+              // ctx.stroke();
+            });
+            ctx.fillStyle = colors.ColorBaseRed500;
+            ctx.strokeStyle = "white";
+            ctx.lineWidth = 1;
+
+            if (poor > 0) {
+              //for apron pattern
+
+              circles.poorCirc.forEach((d) => {
+                ctx.beginPath();
+                const ip = projection.invert([d.x, d.y]);
+                const [x, y] = proj(ip);
+                ctx.arc(x, y, 3.5, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.stroke();
+              });
+
+              //for fill from top
+              /* for (let i = 0; i < poor; i++) {
+                ctx.beginPath();
+                const ip = projection.invert([circles[i].x, circles[i].y]);
+                const [x, y] = proj(ip);
+                ctx.arc(x, y, 2.5, 0, Math.PI * 2);
+                ctx.fill();
+                ctx.stroke();
+              }*/
+            }
+          }
+
+          /*
+
+          for (let i = 0; i < Math.min(poor, circles.length); i += ratio) {
+            ctx.beginPath();
+            const ip = projection.invert([circles[i].x, circles[i].y]);
+            const [x, y] = proj(ip);
+            ctx.arc(x, y, 1.5, 0, Math.PI * 2);
+            ctx.fill();
+            //ctx.stroke();
+          }*/
+
+          console.log(
+            iso,
+            n,
+            poor,
+            circles.popCirc.length,
+            circles.poorCirc.length
+          );
+        }
+      }
+    </script>
+  </body>
+</html>
