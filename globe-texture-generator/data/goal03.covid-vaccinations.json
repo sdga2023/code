@@ -1,0 +1,2002 @@
+[
+  {
+    "ISO3": "ABW",
+    "country": null,
+    "coverage": 84.97,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "AFG",
+    "country": "Afghanistan",
+    "coverage": 41.74,
+    "deaths": 6520,
+    "averted": 5290,
+    "per10k": 1.36
+  },
+  {
+    "ISO3": "AGO",
+    "country": "Angola",
+    "coverage": 44.24,
+    "deaths": 1680,
+    "averted": 2280,
+    "per10k": 0.6945
+  },
+  {
+    "ISO3": "AIA",
+    "country": null,
+    "coverage": 68.36,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ALA",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ALB",
+    "country": "Albania",
+    "coverage": 47.44,
+    "deaths": 3210,
+    "averted": 4110,
+    "per10k": 14.29
+  },
+  {
+    "ISO3": "AND",
+    "country": null,
+    "coverage": 72.53,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ARE",
+    "country": "United Arab Emirates",
+    "coverage": 105.83,
+    "deaths": 2200,
+    "averted": 18210,
+    "per10k": 18.41
+  },
+  {
+    "ISO3": "ARG",
+    "country": "Argentina",
+    "coverage": 91.18,
+    "deaths": 123300,
+    "averted": 104700,
+    "per10k": 23.17
+  },
+  {
+    "ISO3": "ARM",
+    "country": "Armenia",
+    "coverage": 40.35,
+    "deaths": 8050,
+    "averted": 3290,
+    "per10k": 11.09
+  },
+  {
+    "ISO3": "ASM",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ATA",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ATF",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ATG",
+    "country": "Antigua & Barbuda",
+    "coverage": 68.56,
+    "deaths": 140,
+    "averted": 380,
+    "per10k": 38.67
+  },
+  {
+    "ISO3": "AUS",
+    "country": "Australia",
+    "coverage": 84.93,
+    "deaths": 2230,
+    "averted": 47860,
+    "per10k": 18.77
+  },
+  {
+    "ISO3": "AUT",
+    "country": "Austria",
+    "coverage": 77.18,
+    "deaths": 13570,
+    "averted": 41730,
+    "per10k": 46.34
+  },
+  {
+    "ISO3": "AZE",
+    "country": "Azerbaijan",
+    "coverage": 51.88,
+    "deaths": 8280,
+    "averted": 27250,
+    "per10k": 26.87
+  },
+  {
+    "ISO3": "BDI",
+    "country": "Burundi",
+    "coverage": 0.29,
+    "deaths": 10,
+    "averted": 0,
+    "per10k": 5.05e-13
+  },
+  {
+    "ISO3": "BEL",
+    "country": "Belgium",
+    "coverage": 79.5,
+    "deaths": 28180,
+    "averted": 124800,
+    "per10k": 107.7
+  },
+  {
+    "ISO3": "BEN",
+    "country": "Benin",
+    "coverage": 27.69,
+    "deaths": 170,
+    "averted": 20,
+    "per10k": 0.01559
+  },
+  {
+    "ISO3": "BES",
+    "country": null,
+    "coverage": 70.64,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "BFA",
+    "country": "Burkina Faso",
+    "coverage": 22.72,
+    "deaths": 300,
+    "averted": 50,
+    "per10k": 0.02625
+  },
+  {
+    "ISO3": "BGD",
+    "country": "Bangladesh",
+    "coverage": 88.43,
+    "deaths": 26440,
+    "averted": 21630,
+    "per10k": 1.314
+  },
+  {
+    "ISO3": "BGR",
+    "country": "Bulgaria",
+    "coverage": 31.09,
+    "deaths": 29500,
+    "averted": 18570,
+    "per10k": 26.73
+  },
+  {
+    "ISO3": "BHR",
+    "country": "Bahrain",
+    "coverage": 84.31,
+    "deaths": 1520,
+    "averted": 3430,
+    "per10k": 20.15
+  },
+  {
+    "ISO3": "BHS",
+    "country": "Bahamas",
+    "coverage": 42.64,
+    "deaths": 720,
+    "averted": 980,
+    "per10k": 24.85
+  },
+  {
+    "ISO3": "BIH",
+    "country": "Bosnia & Herzegovina",
+    "coverage": 29.18,
+    "deaths": 13060,
+    "averted": 6420,
+    "per10k": 19.57
+  },
+  {
+    "ISO3": "BLM",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "BLR",
+    "country": "Belarus",
+    "coverage": 67.53,
+    "deaths": 5480,
+    "averted": 3350,
+    "per10k": 3.54
+  },
+  {
+    "ISO3": "BLZ",
+    "country": "Belize",
+    "coverage": 63.78,
+    "deaths": 620,
+    "averted": 930,
+    "per10k": 23.42
+  },
+  {
+    "ISO3": "BMU",
+    "country": null,
+    "coverage": 75.62,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "BOL",
+    "country": "Bolivia",
+    "coverage": 60.22,
+    "deaths": 19540,
+    "averted": 10540,
+    "per10k": 9.031
+  },
+  {
+    "ISO3": "BRA",
+    "country": "Brazil",
+    "coverage": 88.08,
+    "deaths": 638400,
+    "averted": 884800,
+    "per10k": 41.63
+  },
+  {
+    "ISO3": "BRB",
+    "country": "Barbados",
+    "coverage": 58.17,
+    "deaths": 260,
+    "averted": 950,
+    "per10k": 33.18
+  },
+  {
+    "ISO3": "BRN",
+    "country": "Brunei",
+    "coverage": 100.45,
+    "deaths": 100,
+    "averted": 950,
+    "per10k": 21.75
+  },
+  {
+    "ISO3": "BTN",
+    "country": "Bhutan",
+    "coverage": 89.35,
+    "deaths": 2,
+    "averted": 970,
+    "per10k": 12.53
+  },
+  {
+    "ISO3": "BVT",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "BWA",
+    "country": "Botswana",
+    "coverage": 74.18,
+    "deaths": 2410,
+    "averted": 1950,
+    "per10k": 8.307
+  },
+  {
+    "ISO3": "CAF",
+    "country": "Central African Republic",
+    "coverage": 42.69,
+    "deaths": 100,
+    "averted": 5,
+    "per10k": 0.01122
+  },
+  {
+    "ISO3": "CAN",
+    "country": "Canada",
+    "coverage": 90.4,
+    "deaths": 28010,
+    "averted": 310400,
+    "per10k": 82.23
+  },
+  {
+    "ISO3": "CCK",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "CHE",
+    "country": "Switzerland",
+    "coverage": 69.75,
+    "deaths": 12410,
+    "averted": 27150,
+    "per10k": 31.38
+  },
+  {
+    "ISO3": "CHL",
+    "country": "Chile",
+    "coverage": 92.27,
+    "deaths": 39610,
+    "averted": 108100,
+    "per10k": 56.54
+  },
+  {
+    "ISO3": "CHN",
+    "country": null,
+    "coverage": 91.89,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "CIV",
+    "country": "Côte d’Ivoire",
+    "coverage": 48.18,
+    "deaths": 720,
+    "averted": 940,
+    "per10k": 0.3558
+  },
+  {
+    "ISO3": "CMR",
+    "country": "Cameroon",
+    "coverage": 13.1,
+    "deaths": 1840,
+    "averted": 520,
+    "per10k": 0.1945
+  },
+  {
+    "ISO3": "COD",
+    "country": "Congo - Kinshasa",
+    "coverage": 15.54,
+    "deaths": 980,
+    "averted": 2,
+    "per10k": 0.0001758
+  },
+  {
+    "ISO3": "COG",
+    "country": "Congo - Brazzaville",
+    "coverage": 11.65,
+    "deaths": 380,
+    "averted": 420,
+    "per10k": 0.757
+  },
+  {
+    "ISO3": "COK",
+    "country": null,
+    "coverage": 88.73,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "COL",
+    "country": "Colombia",
+    "coverage": 82.92,
+    "deaths": 132300,
+    "averted": 90430,
+    "per10k": 17.77
+  },
+  {
+    "ISO3": "COM",
+    "country": "Comoros",
+    "coverage": 52.44,
+    "deaths": 150,
+    "averted": 420,
+    "per10k": 4.797
+  },
+  {
+    "ISO3": "CPV",
+    "country": "Cape Verde",
+    "coverage": 60.14,
+    "deaths": 370,
+    "averted": 930,
+    "per10k": 16.77
+  },
+  {
+    "ISO3": "CRI",
+    "country": "Costa Rica",
+    "coverage": 89.6,
+    "deaths": 7690,
+    "averted": 20580,
+    "per10k": 40.4
+  },
+  {
+    "ISO3": "CUB",
+    "country": "Cuba",
+    "coverage": 95.96,
+    "deaths": 8810,
+    "averted": 35720,
+    "per10k": 31.54
+  },
+  {
+    "ISO3": "CUW",
+    "country": null,
+    "coverage": 56.81,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "CXR",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "CYM",
+    "country": null,
+    "coverage": 90.34,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "CYP",
+    "country": "Cyprus",
+    "coverage": 74.91,
+    "deaths": 600,
+    "averted": 4450,
+    "per10k": 36.89
+  },
+  {
+    "ISO3": "CZE",
+    "country": "Czechia",
+    "coverage": 66.48,
+    "deaths": 37160,
+    "averted": 68930,
+    "per10k": 64.37
+  },
+  {
+    "ISO3": "DEU",
+    "country": "Germany",
+    "coverage": 77.82,
+    "deaths": 100100,
+    "averted": 646600,
+    "per10k": 77.17
+  },
+  {
+    "ISO3": "DJI",
+    "country": "Djibouti",
+    "coverage": 33.2,
+    "deaths": 180,
+    "averted": 50,
+    "per10k": 0.4595
+  },
+  {
+    "ISO3": "DMA",
+    "country": null,
+    "coverage": 45.35,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "DNK",
+    "country": "Denmark",
+    "coverage": 81.12,
+    "deaths": 3210,
+    "averted": 24520,
+    "per10k": 42.33
+  },
+  {
+    "ISO3": "DOM",
+    "country": "Dominican Republic",
+    "coverage": 65.24,
+    "deaths": 4370,
+    "averted": 6400,
+    "per10k": 5.902
+  },
+  {
+    "ISO3": "DZA",
+    "country": "Algeria",
+    "coverage": 17.46,
+    "deaths": 6190,
+    "averted": 4150,
+    "per10k": 0.9461
+  },
+  {
+    "ISO3": "ECU",
+    "country": "Ecuador",
+    "coverage": 85.18,
+    "deaths": 33440,
+    "averted": 43470,
+    "per10k": 24.64
+  },
+  {
+    "ISO3": "EGY",
+    "country": "Egypt",
+    "coverage": 51.27,
+    "deaths": 21280,
+    "averted": 20480,
+    "per10k": 2.001
+  },
+  {
+    "ISO3": "ERI",
+    "country": "Eritrea",
+    "coverage": null,
+    "deaths": 70,
+    "averted": 0,
+    "per10k": 0
+  },
+  {
+    "ISO3": "ESH",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ESP",
+    "country": "Spain",
+    "coverage": 86.95,
+    "deaths": 85520,
+    "averted": 244800,
+    "per10k": 52.37
+  },
+  {
+    "ISO3": "EST",
+    "country": "Estonia",
+    "coverage": 65.56,
+    "deaths": 1740,
+    "averted": 7540,
+    "per10k": 56.88
+  },
+  {
+    "ISO3": "ETH",
+    "country": "Ethiopia",
+    "coverage": 35.72,
+    "deaths": 6620,
+    "averted": 2150,
+    "per10k": 0.1868
+  },
+  {
+    "ISO3": "FIN",
+    "country": "Finland",
+    "coverage": 81.66,
+    "deaths": 1540,
+    "averted": 30370,
+    "per10k": 54.81
+  },
+  {
+    "ISO3": "FJI",
+    "country": "Fiji",
+    "coverage": 76.58,
+    "deaths": 670,
+    "averted": 3850,
+    "per10k": 42.92
+  },
+  {
+    "ISO3": "FLK",
+    "country": null,
+    "coverage": 69.24,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "FRA",
+    "country": "France",
+    "coverage": 80.63,
+    "deaths": 124000,
+    "averted": 571100,
+    "per10k": 87.5
+  },
+  {
+    "ISO3": "FRO",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "FSM",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GAB",
+    "country": "Gabon",
+    "coverage": 13.03,
+    "deaths": 320,
+    "averted": 240,
+    "per10k": 1.076
+  },
+  {
+    "ISO3": "GBR",
+    "country": "United Kingdom",
+    "coverage": 79.71,
+    "deaths": 143900,
+    "averted": 427900,
+    "per10k": 63.03
+  },
+  {
+    "ISO3": "GEO",
+    "country": "Georgia",
+    "coverage": 44.19,
+    "deaths": 12980,
+    "averted": 11340,
+    "per10k": 28.42
+  },
+  {
+    "ISO3": "GGY",
+    "country": null,
+    "coverage": 85.62,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GHA",
+    "country": "Ghana",
+    "coverage": 39.5,
+    "deaths": 1360,
+    "averted": 1270,
+    "per10k": 0.408
+  },
+  {
+    "ISO3": "GIB",
+    "country": null,
+    "coverage": 129.07,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GIN",
+    "country": "Guinea",
+    "coverage": 55.41,
+    "deaths": 370,
+    "averted": 300,
+    "per10k": 0.228
+  },
+  {
+    "ISO3": "GLP",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GMB",
+    "country": "Gambia",
+    "coverage": 24.92,
+    "deaths": 300,
+    "averted": 260,
+    "per10k": 1.057
+  },
+  {
+    "ISO3": "GNB",
+    "country": "Guinea-Bissau",
+    "coverage": 34.83,
+    "deaths": 170,
+    "averted": 70,
+    "per10k": 0.3378
+  },
+  {
+    "ISO3": "GNQ",
+    "country": "Equatorial Guinea",
+    "coverage": 16.13,
+    "deaths": 210,
+    "averted": 670,
+    "per10k": 4.808
+  },
+  {
+    "ISO3": "GRC",
+    "country": "Greece",
+    "coverage": 76.41,
+    "deaths": 19270,
+    "averted": 66730,
+    "per10k": 64.02
+  },
+  {
+    "ISO3": "GRD",
+    "country": "Grenada",
+    "coverage": 35.26,
+    "deaths": 220,
+    "averted": 440,
+    "per10k": 39
+  },
+  {
+    "ISO3": "GRL",
+    "country": null,
+    "coverage": 72.98,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GTM",
+    "country": "Guatemala",
+    "coverage": 50.07,
+    "deaths": 16530,
+    "averted": 19200,
+    "per10k": 10.72
+  },
+  {
+    "ISO3": "GUF",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GUM",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "GUY",
+    "country": "Guyana",
+    "coverage": 61.24,
+    "deaths": 1090,
+    "averted": 2260,
+    "per10k": 28.74
+  },
+  {
+    "ISO3": "HKG",
+    "country": "Hong Kong SAR China",
+    "coverage": 92.36,
+    "deaths": 220,
+    "averted": 99870,
+    "per10k": 133.2
+  },
+  {
+    "ISO3": "HMD",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "HND",
+    "country": "Honduras",
+    "coverage": 63.23,
+    "deaths": 11140,
+    "averted": 10010,
+    "per10k": 10.11
+  },
+  {
+    "ISO3": "HRV",
+    "country": "Croatia",
+    "coverage": 57.6,
+    "deaths": 12400,
+    "averted": 19880,
+    "per10k": 48.42
+  },
+  {
+    "ISO3": "HTI",
+    "country": "Haiti",
+    "coverage": 4.5,
+    "deaths": 750,
+    "averted": 30,
+    "per10k": 0.02252
+  },
+  {
+    "ISO3": "HUN",
+    "country": "Hungary",
+    "coverage": 64.42,
+    "deaths": 37600,
+    "averted": 44240,
+    "per10k": 45.8
+  },
+  {
+    "ISO3": "IDN",
+    "country": "Indonesia",
+    "coverage": 73.99,
+    "deaths": 150300,
+    "averted": 215000,
+    "per10k": 7.859
+  },
+  {
+    "ISO3": "IMN",
+    "country": null,
+    "coverage": 82.29,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "IND",
+    "country": "India",
+    "coverage": 72.5,
+    "deaths": 460000,
+    "averted": 3422000,
+    "per10k": 24.8
+  },
+  {
+    "ISO3": "IOT",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "IRL",
+    "country": "Ireland",
+    "coverage": 81.79,
+    "deaths": 5570,
+    "averted": 32410,
+    "per10k": 65.64
+  },
+  {
+    "ISO3": "IRN",
+    "country": "Iran",
+    "coverage": 73.62,
+    "deaths": 133500,
+    "averted": 201000,
+    "per10k": 23.93
+  },
+  {
+    "ISO3": "IRQ",
+    "country": "Iraq",
+    "coverage": 25.47,
+    "deaths": 25290,
+    "averted": 13760,
+    "per10k": 3.422
+  },
+  {
+    "ISO3": "ISL",
+    "country": "Iceland",
+    "coverage": 83.07,
+    "deaths": 30,
+    "averted": 950,
+    "per10k": 27.75
+  },
+  {
+    "ISO3": "ISR",
+    "country": "Israel",
+    "coverage": 71.15,
+    "deaths": 8120,
+    "averted": 33070,
+    "per10k": 38.21
+  },
+  {
+    "ISO3": "ITA",
+    "country": "Italy",
+    "coverage": 86.24,
+    "deaths": 142300,
+    "averted": 372100,
+    "per10k": 61.54
+  },
+  {
+    "ISO3": "JAM",
+    "country": "Jamaica",
+    "coverage": 30.36,
+    "deaths": 2410,
+    "averted": 1980,
+    "per10k": 6.686
+  },
+  {
+    "ISO3": "JEY",
+    "country": null,
+    "coverage": 76.14,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "JOR",
+    "country": "Jordan",
+    "coverage": 42.72,
+    "deaths": 12860,
+    "averted": 21900,
+    "per10k": 21.46
+  },
+  {
+    "ISO3": "JPN",
+    "country": "Japan",
+    "coverage": 84.47,
+    "deaths": 18000,
+    "averted": 33390,
+    "per10k": 2.64
+  },
+  {
+    "ISO3": "KAZ",
+    "country": "Kazakhstan",
+    "coverage": 55.98,
+    "deaths": 19800,
+    "averted": 39130,
+    "per10k": 20.84
+  },
+  {
+    "ISO3": "KEN",
+    "country": "Kenya",
+    "coverage": 26.83,
+    "deaths": 5340,
+    "averted": 3120,
+    "per10k": 0.5804
+  },
+  {
+    "ISO3": "KGZ",
+    "country": "Kyrgyzstan",
+    "coverage": 25.66,
+    "deaths": 2970,
+    "averted": 550,
+    "per10k": 0.8376
+  },
+  {
+    "ISO3": "KHM",
+    "country": "Cambodia",
+    "coverage": 91.19,
+    "deaths": 2730,
+    "averted": 66680,
+    "per10k": 39.88
+  },
+  {
+    "ISO3": "KIR",
+    "country": null,
+    "coverage": 76.88,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "KNA",
+    "country": null,
+    "coverage": 70.88,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "KOR",
+    "country": "South Korea",
+    "coverage": 86.43,
+    "deaths": 3830,
+    "averted": 427400,
+    "per10k": 83.36
+  },
+  {
+    "ISO3": "KWT",
+    "country": "Kuwait",
+    "coverage": 80.98,
+    "deaths": 2640,
+    "averted": 7750,
+    "per10k": 18.14
+  },
+  {
+    "ISO3": "LAO",
+    "country": "Laos",
+    "coverage": 78.21,
+    "deaths": 280,
+    "averted": 36450,
+    "per10k": 50.1
+  },
+  {
+    "ISO3": "LBN",
+    "country": "Lebanon",
+    "coverage": 49.92,
+    "deaths": 9030,
+    "averted": 12840,
+    "per10k": 18.82
+  },
+  {
+    "ISO3": "LBR",
+    "country": "Liberia",
+    "coverage": 73.62,
+    "deaths": 290,
+    "averted": 130,
+    "per10k": 0.2581
+  },
+  {
+    "ISO3": "LBY",
+    "country": "Libya",
+    "coverage": 34,
+    "deaths": 5680,
+    "averted": 6800,
+    "per10k": 9.898
+  },
+  {
+    "ISO3": "LCA",
+    "country": "St. Lucia",
+    "coverage": 33.43,
+    "deaths": 310,
+    "averted": 370,
+    "per10k": 20.31
+  },
+  {
+    "ISO3": "LIE",
+    "country": null,
+    "coverage": 68.02,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "LKA",
+    "country": "Sri Lanka",
+    "coverage": 78.53,
+    "deaths": 14310,
+    "averted": 92440,
+    "per10k": 43.17
+  },
+  {
+    "ISO3": "LSO",
+    "country": "Lesotho",
+    "coverage": 43.98,
+    "deaths": 680,
+    "averted": 1000,
+    "per10k": 4.674
+  },
+  {
+    "ISO3": "LTU",
+    "country": "Lithuania",
+    "coverage": 71.17,
+    "deaths": 7050,
+    "averted": 20280,
+    "per10k": 74.48
+  },
+  {
+    "ISO3": "LUX",
+    "country": "Luxembourg",
+    "coverage": 74.42,
+    "deaths": 950,
+    "averted": 3530,
+    "per10k": 56.4
+  },
+  {
+    "ISO3": "LVA",
+    "country": "Latvia",
+    "coverage": 72.74,
+    "deaths": 4310,
+    "averted": 13710,
+    "per10k": 72.68
+  },
+  {
+    "ISO3": "MAC",
+    "country": null,
+    "coverage": 97.77,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MAF",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MAR",
+    "country": "Morocco",
+    "coverage": 66.8,
+    "deaths": 15630,
+    "averted": 165000,
+    "per10k": 44.71
+  },
+  {
+    "ISO3": "MCO",
+    "country": null,
+    "coverage": 79.13,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MDA",
+    "country": "Moldova",
+    "coverage": 33.88,
+    "deaths": 8980,
+    "averted": 7170,
+    "per10k": 17.78
+  },
+  {
+    "ISO3": "MDG",
+    "country": "Madagascar",
+    "coverage": 8.71,
+    "deaths": 910,
+    "averted": 20,
+    "per10k": 0.007582
+  },
+  {
+    "ISO3": "MDV",
+    "country": "Maldives",
+    "coverage": 76.23,
+    "deaths": 270,
+    "averted": 1810,
+    "per10k": 33.51
+  },
+  {
+    "ISO3": "MEX",
+    "country": "Mexico",
+    "coverage": 76.22,
+    "deaths": 302400,
+    "averted": 290900,
+    "per10k": 22.56
+  },
+  {
+    "ISO3": "MHL",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MKD",
+    "country": "North Macedonia",
+    "coverage": 40.82,
+    "deaths": 7870,
+    "averted": 7880,
+    "per10k": 37.8
+  },
+  {
+    "ISO3": "MLI",
+    "country": "Mali",
+    "coverage": 19.27,
+    "deaths": 640,
+    "averted": 110,
+    "per10k": 0.05305
+  },
+  {
+    "ISO3": "MLT",
+    "country": "Malta",
+    "coverage": 89.78,
+    "deaths": 470,
+    "averted": 4750,
+    "per10k": 107.6
+  },
+  {
+    "ISO3": "MMR",
+    "country": "Myanmar (Burma)",
+    "coverage": 64.19,
+    "deaths": 21970,
+    "averted": 21890,
+    "per10k": 4.024
+  },
+  {
+    "ISO3": "MNE",
+    "country": "Montenegro",
+    "coverage": 46.69,
+    "deaths": 2450,
+    "averted": 2020,
+    "per10k": 32.2
+  },
+  {
+    "ISO3": "MNG",
+    "country": "Mongolia",
+    "coverage": 66.88,
+    "deaths": 2190,
+    "averted": 11430,
+    "per10k": 34.86
+  },
+  {
+    "ISO3": "MNP",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MOZ",
+    "country": "Mozambique",
+    "coverage": 60.48,
+    "deaths": 1870,
+    "averted": 580,
+    "per10k": 0.185
+  },
+  {
+    "ISO3": "MRT",
+    "country": "Mauritania",
+    "coverage": 44.37,
+    "deaths": 910,
+    "averted": 1000,
+    "per10k": 2.148
+  },
+  {
+    "ISO3": "MSR",
+    "country": null,
+    "coverage": 47.68,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MTQ",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "MUS",
+    "country": "Mauritius",
+    "coverage": 86.48,
+    "deaths": 820,
+    "averted": 5970,
+    "per10k": 46.97
+  },
+  {
+    "ISO3": "MWI",
+    "country": "Malawi",
+    "coverage": 25.65,
+    "deaths": 2310,
+    "averted": 2100,
+    "per10k": 1.095
+  },
+  {
+    "ISO3": "MYS",
+    "country": "Malaysia",
+    "coverage": 82.91,
+    "deaths": 32450,
+    "averted": 152700,
+    "per10k": 47.19
+  },
+  {
+    "ISO3": "MYT",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "NAM",
+    "country": "Namibia",
+    "coverage": 24.01,
+    "deaths": 3800,
+    "averted": 1940,
+    "per10k": 7.648
+  },
+  {
+    "ISO3": "NCL",
+    "country": null,
+    "coverage": 66.35,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "NER",
+    "country": "Niger",
+    "coverage": 23.72,
+    "deaths": 290,
+    "averted": 180,
+    "per10k": 0.07514
+  },
+  {
+    "ISO3": "NFK",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "NGA",
+    "country": "Nigeria",
+    "coverage": 37.67,
+    "deaths": 3240,
+    "averted": 1210,
+    "per10k": 0.05879
+  },
+  {
+    "ISO3": "NIC",
+    "country": "Nicaragua",
+    "coverage": 90.1,
+    "deaths": 210,
+    "averted": 30,
+    "per10k": 0.05072
+  },
+  {
+    "ISO3": "NIU",
+    "country": null,
+    "coverage": 83.91,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "NLD",
+    "country": "Netherlands",
+    "coverage": 72.74,
+    "deaths": 22040,
+    "averted": 91030,
+    "per10k": 53.13
+  },
+  {
+    "ISO3": "NOR",
+    "country": "Norway",
+    "coverage": 79.99,
+    "deaths": 1210,
+    "averted": 23810,
+    "per10k": 43.92
+  },
+  {
+    "ISO3": "NPL",
+    "country": "Nepal",
+    "coverage": 91.02,
+    "deaths": 12040,
+    "averted": 13410,
+    "per10k": 4.604
+  },
+  {
+    "ISO3": "NRU",
+    "country": null,
+    "coverage": 103.27,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "NZL",
+    "country": "New Zealand",
+    "coverage": 82.96,
+    "deaths": 60,
+    "averted": 3650,
+    "per10k": 7.565
+  },
+  {
+    "ISO3": "OMN",
+    "country": "Oman",
+    "coverage": 71.18,
+    "deaths": 4330,
+    "averted": 4790,
+    "per10k": 9.384
+  },
+  {
+    "ISO3": "PAK",
+    "country": "Pakistan",
+    "coverage": 70.2,
+    "deaths": 28830,
+    "averted": 27370,
+    "per10k": 1.239
+  },
+  {
+    "ISO3": "PAN",
+    "country": "Panama",
+    "coverage": 80.15,
+    "deaths": 7660,
+    "averted": 8580,
+    "per10k": 19.88
+  },
+  {
+    "ISO3": "PCN",
+    "country": null,
+    "coverage": 100,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "PER",
+    "country": "Peru",
+    "coverage": 89.58,
+    "deaths": 203900,
+    "averted": 43840,
+    "per10k": 13.29
+  },
+  {
+    "ISO3": "PHL",
+    "country": "Philippines",
+    "coverage": 71.55,
+    "deaths": 51020,
+    "averted": 237300,
+    "per10k": 21.66
+  },
+  {
+    "ISO3": "PLW",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "PNG",
+    "country": "Papua New Guinea",
+    "coverage": 3.77,
+    "deaths": 600,
+    "averted": 360,
+    "per10k": 0.3991
+  },
+  {
+    "ISO3": "POL",
+    "country": "Poland",
+    "coverage": 57.4,
+    "deaths": 86040,
+    "averted": 211000,
+    "per10k": 55.74
+  },
+  {
+    "ISO3": "PRI",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "PRK",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "PRT",
+    "country": "Portugal",
+    "coverage": 95.28,
+    "deaths": 18790,
+    "averted": 65750,
+    "per10k": 64.48
+  },
+  {
+    "ISO3": "PRY",
+    "country": "Paraguay",
+    "coverage": 58.9,
+    "deaths": 17510,
+    "averted": 11470,
+    "per10k": 16.08
+  },
+  {
+    "ISO3": "PSE",
+    "country": "Palestinian Territories",
+    "coverage": 38.34,
+    "deaths": 4580,
+    "averted": 8580,
+    "per10k": 16.81
+  },
+  {
+    "ISO3": "PYF",
+    "country": null,
+    "coverage": 62.33,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "QAT",
+    "country": "Qatar",
+    "coverage": 105.83,
+    "deaths": 680,
+    "averted": 13730,
+    "per10k": 47.64
+  },
+  {
+    "ISO3": "REU",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "ROU",
+    "country": "Romania",
+    "coverage": 41.65,
+    "deaths": 58430,
+    "averted": 64300,
+    "per10k": 33.42
+  },
+  {
+    "ISO3": "RUS",
+    "country": "Russia",
+    "coverage": 61.37,
+    "deaths": 293900,
+    "averted": 465000,
+    "per10k": 31.87
+  },
+  {
+    "ISO3": "RWA",
+    "country": "Rwanda",
+    "coverage": 76.75,
+    "deaths": 1330,
+    "averted": 3380,
+    "per10k": 2.606
+  },
+  {
+    "ISO3": "SAU",
+    "country": "Saudi Arabia",
+    "coverage": 74.27,
+    "deaths": 9100,
+    "averted": 82130,
+    "per10k": 23.59
+  },
+  {
+    "ISO3": "SDN",
+    "country": "Sudan",
+    "coverage": 32.44,
+    "deaths": 3070,
+    "averted": 540,
+    "per10k": 0.1228
+  },
+  {
+    "ISO3": "SEN",
+    "country": "Senegal",
+    "coverage": 15.5,
+    "deaths": 1940,
+    "averted": 1400,
+    "per10k": 0.8368
+  },
+  {
+    "ISO3": "SGP",
+    "country": "Singapore",
+    "coverage": 91.55,
+    "deaths": 800,
+    "averted": 80820,
+    "per10k": 138.1
+  },
+  {
+    "ISO3": "SGS",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SHN",
+    "country": null,
+    "coverage": 80.74,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SJM",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SLB",
+    "country": null,
+    "coverage": 47.47,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SLE",
+    "country": "Sierra Leone",
+    "coverage": 61.03,
+    "deaths": 120,
+    "averted": 20,
+    "per10k": 0.02294
+  },
+  {
+    "ISO3": "SLV",
+    "country": "El Salvador",
+    "coverage": 73.43,
+    "deaths": 3880,
+    "averted": 11410,
+    "per10k": 17.59
+  },
+  {
+    "ISO3": "SMR",
+    "country": null,
+    "coverage": 78.23,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SOM",
+    "country": "Somalia",
+    "coverage": 47.57,
+    "deaths": 1330,
+    "averted": 250,
+    "per10k": 0.1547
+  },
+  {
+    "ISO3": "SPM",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SRB",
+    "country": "Serbia",
+    "coverage": 48.81,
+    "deaths": 11690,
+    "averted": 30370,
+    "per10k": 34.76
+  },
+  {
+    "ISO3": "SSD",
+    "country": "South Sudan",
+    "coverage": 39.06,
+    "deaths": 140,
+    "averted": 6,
+    "per10k": 0.005406
+  },
+  {
+    "ISO3": "STP",
+    "country": "São Tomé & Príncipe",
+    "coverage": 61.68,
+    "deaths": 70,
+    "averted": 300,
+    "per10k": 13.85
+  },
+  {
+    "ISO3": "SUR",
+    "country": "Suriname",
+    "coverage": 43.33,
+    "deaths": 1290,
+    "averted": 2060,
+    "per10k": 35.03
+  },
+  {
+    "ISO3": "SVK",
+    "country": "Slovakia",
+    "coverage": 46,
+    "deaths": 15280,
+    "averted": 25070,
+    "per10k": 45.91
+  },
+  {
+    "ISO3": "SVN",
+    "country": "Slovenia",
+    "coverage": 59.71,
+    "deaths": 5450,
+    "averted": 10200,
+    "per10k": 49.07
+  },
+  {
+    "ISO3": "SWE",
+    "country": "Sweden",
+    "coverage": 73.71,
+    "deaths": 16490,
+    "averted": 39920,
+    "per10k": 39.52
+  },
+  {
+    "ISO3": "SWZ",
+    "country": "Eswatini",
+    "coverage": 43.78,
+    "deaths": 1290,
+    "averted": 1280,
+    "per10k": 11.07
+  },
+  {
+    "ISO3": "SXM",
+    "country": null,
+    "coverage": 67.41,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "SYC",
+    "country": "Seychelles",
+    "coverage": 82.62,
+    "deaths": 150,
+    "averted": 470,
+    "per10k": 47.68
+  },
+  {
+    "ISO3": "SYR",
+    "country": "Syria",
+    "coverage": 14.9,
+    "deaths": 2690,
+    "averted": 550,
+    "per10k": 0.3164
+  },
+  {
+    "ISO3": "TCA",
+    "country": null,
+    "coverage": 71.76,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "TCD",
+    "country": "Chad",
+    "coverage": 35.29,
+    "deaths": 180,
+    "averted": 0,
+    "per10k": 4.51e-8
+  },
+  {
+    "ISO3": "TGO",
+    "country": "Togo",
+    "coverage": 25.39,
+    "deaths": 270,
+    "averted": 290,
+    "per10k": 0.355
+  },
+  {
+    "ISO3": "THA",
+    "country": "Thailand",
+    "coverage": 79.51,
+    "deaths": 22480,
+    "averted": 124600,
+    "per10k": 17.85
+  },
+  {
+    "ISO3": "TJK",
+    "country": "Tajikistan",
+    "coverage": 53.37,
+    "deaths": 120,
+    "averted": 5,
+    "per10k": 0.005441
+  },
+  {
+    "ISO3": "TKL",
+    "country": null,
+    "coverage": 116.38,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "TKM",
+    "country": null,
+    "coverage": 52.24,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "TLS",
+    "country": "Timor-Leste",
+    "coverage": null,
+    "deaths": 130,
+    "averted": 2030,
+    "per10k": 15.42
+  },
+  {
+    "ISO3": "TON",
+    "country": null,
+    "coverage": 81.73,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "TTO",
+    "country": "Trinidad & Tobago",
+    "coverage": 49.22,
+    "deaths": 2350,
+    "averted": 4170,
+    "per10k": 29.79
+  },
+  {
+    "ISO3": "TUN",
+    "country": "Tunisia",
+    "coverage": 58.42,
+    "deaths": 26090,
+    "averted": 21670,
+    "per10k": 18.33
+  },
+  {
+    "ISO3": "TUR",
+    "country": "Turkey",
+    "coverage": 67.89,
+    "deaths": 82640,
+    "averted": 256400,
+    "per10k": 30.4
+  },
+  {
+    "ISO3": "TUV",
+    "country": null,
+    "coverage": 86.13,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "TWN",
+    "country": "Taiwan",
+    "coverage": 91.63,
+    "deaths": 890,
+    "averted": 340,
+    "per10k": 0.1446
+  },
+  {
+    "ISO3": "TZA",
+    "country": "Tanzania",
+    "coverage": 52.57,
+    "deaths": 60,
+    "averted": 6,
+    "per10k": 0.001017
+  },
+  {
+    "ISO3": "UGA",
+    "country": "Uganda",
+    "coverage": 41.25,
+    "deaths": 2740,
+    "averted": 3220,
+    "per10k": 0.7037
+  },
+  {
+    "ISO3": "UKR",
+    "country": "Ukraine",
+    "coverage": 39.73,
+    "deaths": 95250,
+    "averted": 67050,
+    "per10k": 15.33
+  },
+  {
+    "ISO3": "UMI",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "URY",
+    "country": "Uruguay",
+    "coverage": 87.94,
+    "deaths": 6540,
+    "averted": 16320,
+    "per10k": 46.97
+  },
+  {
+    "ISO3": "USA",
+    "country": "United States",
+    "coverage": 81.39,
+    "deaths": 863500,
+    "averted": 1763000,
+    "per10k": 53.25
+  },
+  {
+    "ISO3": "UZB",
+    "country": "Uzbekistan",
+    "coverage": 62.72,
+    "deaths": 1560,
+    "averted": 4810,
+    "per10k": 1.439
+  },
+  {
+    "ISO3": "VAT",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "VCT",
+    "country": "St. Vincent & Grenadines",
+    "coverage": 36.1,
+    "deaths": 80,
+    "averted": 110,
+    "per10k": 9.511
+  },
+  {
+    "ISO3": "VEN",
+    "country": "Venezuela",
+    "coverage": 78.29,
+    "deaths": 5450,
+    "averted": 3370,
+    "per10k": 1.186
+  },
+  {
+    "ISO3": "VGB",
+    "country": null,
+    "coverage": 62.13,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "VIR",
+    "country": null,
+    "coverage": null,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "VNM",
+    "country": "Vietnam",
+    "coverage": 91.94,
+    "deaths": 30520,
+    "averted": 371800,
+    "per10k": 38.19
+  },
+  {
+    "ISO3": "VUT",
+    "country": "Vanuatu",
+    "coverage": 54.06,
+    "deaths": 3,
+    "averted": 20,
+    "per10k": 0.6191
+  },
+  {
+    "ISO3": "WLD",
+    "country": "World",
+    "coverage": 70.08,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "WLF",
+    "country": null,
+    "coverage": 61.66,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "WSM",
+    "country": null,
+    "coverage": 86.07,
+    "deaths": null,
+    "averted": null,
+    "per10k": null
+  },
+  {
+    "ISO3": "YEM",
+    "country": "Yemen",
+    "coverage": 3.06,
+    "deaths": 1960,
+    "averted": 380,
+    "per10k": 0.1289
+  },
+  {
+    "ISO3": "ZAF",
+    "country": "South Africa",
+    "coverage": 40.42,
+    "deaths": 90030,
+    "averted": 44220,
+    "per10k": 7.456
+  },
+  {
+    "ISO3": "ZMB",
+    "country": "Zambia",
+    "coverage": 58.14,
+    "deaths": 3330,
+    "averted": 980,
+    "per10k": 0.5357
+  },
+  {
+    "ISO3": "ZWE",
+    "country": "Zimbabwe",
+    "coverage": 39.45,
+    "deaths": 4810,
+    "averted": 5710,
+    "per10k": 3.84
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "iso3c": "WLD",
+    "transport_road": 706,
+    "gdppcap": 17110.46554
+  },
+  {
+    "iso3c": "CAN",
+    "transport_road": 3419,
+    "gdppcap": 46572.13743
+  },
+  {
+    "iso3c": "CHL",
+    "transport_road": 1198,
+    "gdppcap": 24849.70664
+  },
+  {
+    "iso3c": "COL",
+    "transport_road": 535,
+    "gdppcap": 14854.52172
+  },
+  {
+    "iso3c": "CRI",
+    "transport_road": 972,
+    "gdppcap": 22117.92711
+  },
+  {
+    "iso3c": "MEX",
+    "transport_road": 816,
+    "gdppcap": 19165.35778
+  },
+  {
+    "iso3c": "USA",
+    "transport_road": 3902,
+    "gdppcap": 63027.67953
+  },
+  {
+    "iso3c": "AUS",
+    "transport_road": 3047,
+    "gdppcap": 53358.20808
+  },
+  {
+    "iso3c": "ISR",
+    "transport_road": 1745,
+    "gdppcap": 39489.28078
+  },
+  {
+    "iso3c": "JPN",
+    "transport_road": 1315,
+    "gdppcap": 42100.25769
+  },
+  {
+    "iso3c": "KOR",
+    "transport_road": 1830,
+    "gdppcap": 45403.03259
+  },
+  {
+    "iso3c": "NZL",
+    "transport_road": 2499,
+    "gdppcap": 44657.77372
+  },
+  {
+    "iso3c": "AUT",
+    "transport_road": 2351,
+    "gdppcap": 55685.97029
+  },
+  {
+    "iso3c": "BEL",
+    "transport_road": 1753,
+    "gdppcap": 53096.14142
+  },
+  {
+    "iso3c": "DNK",
+    "transport_road": 1783,
+    "gdppcap": 60229.91477
+  },
+  {
+    "iso3c": "EST",
+    "transport_road": 1648,
+    "gdppcap": 37644.00382
+  },
+  {
+    "iso3c": "FIN",
+    "transport_road": 1777,
+    "gdppcap": 50937.16075
+  },
+  {
+    "iso3c": "FRA",
+    "transport_road": 1497,
+    "gdppcap": 46858.21592
+  },
+  {
+    "iso3c": "DEU",
+    "transport_road": 1669,
+    "gdppcap": 54844.54597
+  },
+  {
+    "iso3c": "GRC",
+    "transport_road": 1205,
+    "gdppcap": 27953.76213
+  },
+  {
+    "iso3c": "HUN",
+    "transport_road": 1234,
+    "gdppcap": 33274.34766
+  },
+  {
+    "iso3c": "ISL",
+    "transport_road": 2205,
+    "gdppcap": 53616.68471
+  },
+  {
+    "iso3c": "IRL",
+    "transport_road": 1904,
+    "gdppcap": 93355.55516
+  },
+  {
+    "iso3c": "ITA",
+    "transport_road": 1300,
+    "gdppcap": 41995.35753
+  },
+  {
+    "iso3c": "LVA",
+    "transport_road": 1548,
+    "gdppcap": 31424.90221
+  },
+  {
+    "iso3c": "LTU",
+    "transport_road": 2100,
+    "gdppcap": 38880.54527
+  },
+  {
+    "iso3c": "LUX",
+    "transport_road": 7383,
+    "gdppcap": 117846.1365
+  },
+  {
+    "iso3c": "NLD",
+    "transport_road": 1438,
+    "gdppcap": 59266.90858
+  },
+  {
+    "iso3c": "NOR",
+    "transport_road": 1534,
+    "gdppcap": 62644.84574
+  },
+  {
+    "iso3c": "POL",
+    "transport_road": 1572,
+    "gdppcap": 34449.32341
+  },
+  {
+    "iso3c": "PRT",
+    "transport_road": 1344,
+    "gdppcap": 34177.08571
+  },
+  {
+    "iso3c": "SVK",
+    "transport_road": 1228,
+    "gdppcap": 31356.45828
+  },
+  {
+    "iso3c": "SVN",
+    "transport_road": 2130,
+    "gdppcap": 39725.25919
+  },
+  {
+    "iso3c": "ESP",
+    "transport_road": 1442,
+    "gdppcap": 37754.56863
+  },
+  {
+    "iso3c": "SWE",
+    "transport_road": 1404,
+    "gdppcap": 55064.88501
+  },
+  {
+    "iso3c": "CHE",
+    "transport_road": 1643,
+    "gdppcap": 71731.96058
+  },
+  {
+    "iso3c": "GBR",
+    "transport_road": 1346,
+    "gdppcap": 46526.91187
+  },
+  {
+    "iso3c": "ALB",
+    "transport_road": 501,
+    "gdppcap": 13759.54243
+  },
+  {
+    "iso3c": "ARM",
+    "transport_road": 763,
+    "gdppcap": 14089.23938
+  },
+  {
+    "iso3c": "AZE",
+    "transport_road": 622,
+    "gdppcap": 14478.52445
+  },
+  {
+    "iso3c": "BLR",
+    "transport_road": 1000,
+    "gdppcap": 20278.47395
+  },
+  {
+    "iso3c": "BIH",
+    "transport_road": 1108,
+    "gdppcap": 15336.9107
+  },
+  {
+    "iso3c": "BGR",
+    "transport_road": 1271,
+    "gdppcap": 24799.07454
+  },
+  {
+    "iso3c": "HRV",
+    "transport_road": 1364,
+    "gdppcap": 29106.58772
+  },
+  {
+    "iso3c": "CYP",
+    "transport_road": 2014,
+    "gdppcap": 40611.70313
+  },
+  {
+    "iso3c": "GEO",
+    "transport_road": 916,
+    "gdppcap": 14731.20059
+  },
+  {
+    "iso3c": "KAZ",
+    "transport_road": 1100,
+    "gdppcap": 26750.44623
+  },
+  {
+    "iso3c": "XKX",
+    "transport_road": 727,
+    "gdppcap": 11292.86265
+  },
+  {
+    "iso3c": "KGZ",
+    "transport_road": 206,
+    "gdppcap": 4985.029555
+  },
+  {
+    "iso3c": "MLT",
+    "transport_road": 1017,
+    "gdppcap": 43711.5058
+  },
+  {
+    "iso3c": "MDA",
+    "transport_road": 757,
+    "gdppcap": 12870.01602
+  },
+  {
+    "iso3c": "MNE",
+    "transport_road": 1104,
+    "gdppcap": 20107.69856
+  },
+  {
+    "iso3c": "MKD",
+    "transport_road": 944,
+    "gdppcap": 16984.36046
+  },
+  {
+    "iso3c": "ROU",
+    "transport_road": 903,
+    "gdppcap": 32680.99374
+  },
+  {
+    "iso3c": "RUS",
+    "transport_road": 1013,
+    "gdppcap": 29936.92969
+  },
+  {
+    "iso3c": "SRB",
+    "transport_road": 942,
+    "gdppcap": 19173.19609
+  },
+  {
+    "iso3c": "TJK",
+    "transport_road": 177,
+    "gdppcap": 3851.942913
+  },
+  {
+    "iso3c": "UKR",
+    "transport_road": 450,
+    "gdppcap": 13087.30957
+  },
+  {
+    "iso3c": "UZB",
+    "transport_road": 419,
+    "gdppcap": 7746.430969
+  },
+  {
+    "iso3c": "DZA",
+    "transport_road": 872,
+    "gdppcap": 11438.69116
+  },
+  {
+    "iso3c": "AGO",
+    "transport_road": 170,
+    "gdppcap": 6362.636076
+  },
+  {
+    "iso3c": "BEN",
+    "transport_road": 509,
+    "gdppcap": 3360.987416
+  },
+  {
+    "iso3c": "BWA",
+    "transport_road": 895,
+    "gdppcap": 14287.51059
+  },
+  {
+    "iso3c": "CMR",
+    "transport_road": 129,
+    "gdppcap": 3866.254472
+  },
+  {
+    "iso3c": "COG",
+    "transport_road": 190,
+    "gdppcap": 3570.016965
+  },
+  {
+    "iso3c": "CIV",
+    "transport_road": 149,
+    "gdppcap": 5377.785528
+  },
+  {
+    "iso3c": "COD",
+    "transport_road": 22,
+    "gdppcap": 1101.250402
+  },
+  {
+    "iso3c": "EGY",
+    "transport_road": 488,
+    "gdppcap": 12004.12593
+  },
+  {
+    "iso3c": "GNQ",
+    "transport_road": 297,
+    "gdppcap": 15961.11386
+  },
+  {
+    "iso3c": "SWZ",
+    "transport_road": 612,
+    "gdppcap": 8744.438693
+  },
+  {
+    "iso3c": "ETH",
+    "transport_road": 64,
+    "gdppcap": 2376.635601
+  },
+  {
+    "iso3c": "GAB",
+    "transport_road": 82,
+    "gdppcap": 14664.71093
+  },
+  {
+    "iso3c": "GHA",
+    "transport_road": 275,
+    "gdppcap": 5551.786802
+  },
+  {
+    "iso3c": "KEN",
+    "transport_road": 187,
+    "gdppcap": 4744.739268
+  },
+  {
+    "iso3c": "LBY",
+    "transport_road": 2425,
+    "gdppcap": 17851.01172
+  },
+  {
+    "iso3c": "MDG",
+    "transport_road": 40,
+    "gdppcap": 1514.861688
+  },
+  {
+    "iso3c": "MUS",
+    "transport_road": 765,
+    "gdppcap": 21331.81412
+  },
+  {
+    "iso3c": "MAR",
+    "transport_road": 449,
+    "gdppcap": 7959.256348
+  },
+  {
+    "iso3c": "MOZ",
+    "transport_road": 101,
+    "gdppcap": 1300.510773
+  },
+  {
+    "iso3c": "NAM",
+    "transport_road": 696,
+    "gdppcap": 9543.712734
+  },
+  {
+    "iso3c": "NER",
+    "transport_road": 46,
+    "gdppcap": 1281.061929
+  },
+  {
+    "iso3c": "NGA",
+    "transport_road": 243,
+    "gdppcap": 5131.526238
+  },
+  {
+    "iso3c": "RWA",
+    "transport_road": 45,
+    "gdppcap": 2180.877349
+  },
+  {
+    "iso3c": "SEN",
+    "transport_road": 160,
+    "gdppcap": 3569.209139
+  },
+  {
+    "iso3c": "ZAF",
+    "transport_road": 697,
+    "gdppcap": 13517.78059
+  },
+  {
+    "iso3c": "SDN",
+    "transport_road": 233,
+    "gdppcap": 4087.006104
+  },
+  {
+    "iso3c": "TZA",
+    "transport_road": 110,
+    "gdppcap": 2690.924561
+  },
+  {
+    "iso3c": "TGO",
+    "transport_road": 131,
+    "gdppcap": 2180.16961
+  },
+  {
+    "iso3c": "TUN",
+    "transport_road": 571,
+    "gdppcap": 10571.90084
+  },
+  {
+    "iso3c": "UGA",
+    "transport_road": 69,
+    "gdppcap": 2363.192032
+  },
+  {
+    "iso3c": "ZMB",
+    "transport_road": 135,
+    "gdppcap": 3358.005322
+  },
+  {
+    "iso3c": "ZWE",
+    "transport_road": 131,
+    "gdppcap": 2099.320459
+  },
+  {
+    "iso3c": "BGD",
+    "transport_road": 47,
+    "gdppcap": 5897.588948
+  },
+  {
+    "iso3c": "BRN",
+    "transport_road": 2753,
+    "gdppcap": 64977.30631
+  },
+  {
+    "iso3c": "KHM",
+    "transport_road": 334,
+    "gdppcap": 4510.372357
+  },
+  {
+    "iso3c": "IND",
+    "transport_road": 183,
+    "gdppcap": 6448.870196
+  },
+  {
+    "iso3c": "IDN",
+    "transport_road": 415,
+    "gdppcap": 12146.40679
+  },
+  {
+    "iso3c": "LAO",
+    "transport_road": 335,
+    "gdppcap": 8189.14621
+  },
+  {
+    "iso3c": "MYS",
+    "transport_road": 1822,
+    "gdppcap": 27245.62042
+  },
+  {
+    "iso3c": "MNG",
+    "transport_road": 605,
+    "gdppcap": 12305.71791
+  },
+  {
+    "iso3c": "MMR",
+    "transport_road": 80,
+    "gdppcap": 5218.024537
+  },
+  {
+    "iso3c": "NPL",
+    "transport_road": 181,
+    "gdppcap": 3967.820179
+  },
+  {
+    "iso3c": "PAK",
+    "transport_road": 199,
+    "gdppcap": 5278.418602
+  },
+  {
+    "iso3c": "PHL",
+    "transport_road": 233,
+    "gdppcap": 8198.967501
+  },
+  {
+    "iso3c": "SGP",
+    "transport_road": 1033,
+    "gdppcap": 99681.29415
+  },
+  {
+    "iso3c": "LKA",
+    "transport_road": 391,
+    "gdppcap": 13812.95748
+  },
+  {
+    "iso3c": "THA",
+    "transport_road": 1007,
+    "gdppcap": 17771.30717
+  },
+  {
+    "iso3c": "VNM",
+    "transport_road": 323,
+    "gdppcap": 11022.957
+  },
+  {
+    "iso3c": "CHN",
+    "transport_road": 515,
+    "gdppcap": 17189.28179
+  },
+  {
+    "iso3c": "HKG",
+    "transport_road": 1045,
+    "gdppcap": 58949.46595
+  },
+  {
+    "iso3c": "ARG",
+    "transport_road": 758,
+    "gdppcap": 20763.28855
+  },
+  {
+    "iso3c": "BOL",
+    "transport_road": 735,
+    "gdppcap": 8100.529346
+  },
+  {
+    "iso3c": "BRA",
+    "transport_road": 789,
+    "gdppcap": 14789.87856
+  },
+  {
+    "iso3c": "CUW",
+    "transport_road": 6638,
+    "gdppcap": 20681.24467
+  },
+  {
+    "iso3c": "DOM",
+    "transport_road": 509,
+    "gdppcap": 17686.75904
+  },
+  {
+    "iso3c": "ECU",
+    "transport_road": 848,
+    "gdppcap": 10924.18012
+  },
+  {
+    "iso3c": "SLV",
+    "transport_road": 492,
+    "gdppcap": 8720.011997
+  },
+  {
+    "iso3c": "GTM",
+    "transport_road": 507,
+    "gdppcap": 8849.717743
+  },
+  {
+    "iso3c": "GUY",
+    "transport_road": 1102,
+    "gdppcap": 19439.93098
+  },
+  {
+    "iso3c": "HTI",
+    "transport_road": 124,
+    "gdppcap": 3121.145757
+  },
+  {
+    "iso3c": "HND",
+    "transport_road": 189,
+    "gdppcap": 5303.514499
+  },
+  {
+    "iso3c": "JAM",
+    "transport_road": 551,
+    "gdppcap": 9701.890533
+  },
+  {
+    "iso3c": "NIC",
+    "transport_road": 299,
+    "gdppcap": 5465.507439
+  },
+  {
+    "iso3c": "PAN",
+    "transport_road": 849,
+    "gdppcap": 26907.35892
+  },
+  {
+    "iso3c": "PRY",
+    "transport_road": 965,
+    "gdppcap": 14046.65222
+  },
+  {
+    "iso3c": "PER",
+    "transport_road": 589,
+    "gdppcap": 11789.02928
+  },
+  {
+    "iso3c": "SUR",
+    "transport_road": 704,
+    "gdppcap": 16168.69082
+  },
+  {
+    "iso3c": "TTO",
+    "transport_road": 1549,
+    "gdppcap": 24672.3557
+  },
+  {
+    "iso3c": "URY",
+    "transport_road": 999,
+    "gdppcap": 23024.09891
+  },
+  {
+    "iso3c": "BHR",
+    "transport_road": 1887,
+    "gdppcap": 50468.2538
+  },
+  {
+    "iso3c": "IRN",
+    "transport_road": 1500,
+    "gdppcap": 15222.75974
+  },
+  {
+    "iso3c": "IRQ",
+    "transport_road": 714,
+    "gdppcap": 9408.295527
+  },
+  {
+    "iso3c": "JOR",
+    "transport_road": 696,
+    "gdppcap": 9707.404182
+  },
+  {
+    "iso3c": "KWT",
+    "transport_road": 3044,
+    "gdppcap": 46328.07946
+  },
+  {
+    "iso3c": "LBN",
+    "transport_road": 925,
+    "gdppcap": 14535.68092
+  },
+  {
+    "iso3c": "OMN",
+    "transport_road": 1963,
+    "gdppcap": 34910.85327
+  },
+  {
+    "iso3c": "QAT",
+    "transport_road": 4099,
+    "gdppcap": 93894.25275
+  },
+  {
+    "iso3c": "SAU",
+    "transport_road": 3472,
+    "gdppcap": 45240.67609
+  },
+  {
+    "iso3c": "ARE",
+    "transport_road": 3006,
+    "gdppcap": 71374.18105
+  }
+]

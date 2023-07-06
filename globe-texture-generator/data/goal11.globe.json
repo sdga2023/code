@@ -1,0 +1,1738 @@
+[
+  {
+    "iso3c": "ABW",
+    "region_id": "LCN",
+    "country_name": "Aruba",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 88132.02,
+    "wastegen_pc": 0.8541
+  },
+  {
+    "iso3c": "AFG",
+    "region_id": "SAS",
+    "country_name": "Afghanistan",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 5628525,
+    "wastegen_pc": 0.162411
+  },
+  {
+    "iso3c": "AGO",
+    "region_id": "SSF",
+    "country_name": "Angola",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 4213644,
+    "wastegen_pc": 0.1679
+  },
+  {
+    "iso3c": "ALB",
+    "region_id": "ECS",
+    "country_name": "Albania",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 1087447,
+    "wastegen_pc": 0.381
+  },
+  {
+    "iso3c": "AND",
+    "region_id": "ECS",
+    "country_name": "Andorra",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 43000,
+    "wastegen_pc": 0.521648
+  },
+  {
+    "iso3c": "ARE",
+    "region_id": "MEA",
+    "country_name": "United Arab Emirates",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5617682,
+    "wastegen_pc": 0.574962
+  },
+  {
+    "iso3c": "ARG",
+    "region_id": "LCN",
+    "country_name": "Argentina",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 17910550,
+    "wastegen_pc": 0.416704
+  },
+  {
+    "iso3c": "ARM",
+    "region_id": "ECS",
+    "country_name": "Armenia",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 492800,
+    "wastegen_pc": 0.169567
+  },
+  {
+    "iso3c": "ASM",
+    "region_id": "EAS",
+    "country_name": "American Samoa",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 18989.49,
+    "wastegen_pc": 0.341544
+  },
+  {
+    "iso3c": "ATG",
+    "region_id": "LCN",
+    "country_name": "Antigua and Barbuda",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 30585,
+    "wastegen_pc": 0.316036
+  },
+  {
+    "iso3c": "AUS",
+    "region_id": "EAS",
+    "country_name": "Australia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 13345000,
+    "wastegen_pc": 0.560966
+  },
+  {
+    "iso3c": "AUT",
+    "region_id": "ECS",
+    "country_name": "Austria",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5219716,
+    "wastegen_pc": 0.588
+  },
+  {
+    "iso3c": "AZE",
+    "region_id": "ECS",
+    "country_name": "Azerbaijan",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2930349,
+    "wastegen_pc": 0.303684
+  },
+  {
+    "iso3c": "BDI",
+    "region_id": "SSF",
+    "country_name": "Burundi",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1872016,
+    "wastegen_pc": 0.277683
+  },
+  {
+    "iso3c": "BEL",
+    "region_id": "ECS",
+    "country_name": "Belgium",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 4765883,
+    "wastegen_pc": 0.415
+  },
+  {
+    "iso3c": "BEN",
+    "region_id": "SSF",
+    "country_name": "Benin",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 685936,
+    "wastegen_pc": 0.124224
+  },
+  {
+    "iso3c": "BFA",
+    "region_id": "SSF",
+    "country_name": "Burkina Faso",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 2575251,
+    "wastegen_pc": 0.142196
+  },
+  {
+    "iso3c": "BGD",
+    "region_id": "SAS",
+    "country_name": "Bangladesh",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 14778497,
+    "wastegen_pc": 0.0949
+  },
+  {
+    "iso3c": "BGR",
+    "region_id": "ECS",
+    "country_name": "Bulgaria",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2859190,
+    "wastegen_pc": 0.407
+  },
+  {
+    "iso3c": "BHR",
+    "region_id": "MEA",
+    "country_name": "Bahrain",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 951943,
+    "wastegen_pc": 0.66795
+  },
+  {
+    "iso3c": "BHS",
+    "region_id": "LCN",
+    "country_name": "Bahamas, The",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 264000,
+    "wastegen_pc": 0.682456
+  },
+  {
+    "iso3c": "BIH",
+    "region_id": "ECS",
+    "country_name": "Bosnia and Herzegovina",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 1248718,
+    "wastegen_pc": 0.353148
+  },
+  {
+    "iso3c": "BLR",
+    "region_id": "ECS",
+    "country_name": "Belarus",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 4280000,
+    "wastegen_pc": 0.451019
+  },
+  {
+    "iso3c": "BLZ",
+    "region_id": "LCN",
+    "country_name": "Belize",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 101378.8,
+    "wastegen_pc": 0.282166
+  },
+  {
+    "iso3c": "BMU",
+    "region_id": "NAC",
+    "country_name": "Bermuda",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 82000,
+    "wastegen_pc": 1.265471
+  },
+  {
+    "iso3c": "BOL",
+    "region_id": "LCN",
+    "country_name": "Bolivia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2219052,
+    "wastegen_pc": 0.20691
+  },
+  {
+    "iso3c": "BRA",
+    "region_id": "LCN",
+    "country_name": "Brazil",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 79069584,
+    "wastegen_pc": 0.37924
+  },
+  {
+    "iso3c": "BRB",
+    "region_id": "LCN",
+    "country_name": "Barbados",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 174815.4,
+    "wastegen_pc": 0.623004
+  },
+  {
+    "iso3c": "BRN",
+    "region_id": "EAS",
+    "country_name": "Brunei Darussalam",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 216253.2,
+    "wastegen_pc": 0.511
+  },
+  {
+    "iso3c": "BTN",
+    "region_id": "SAS",
+    "country_name": "Bhutan",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 111314.1,
+    "wastegen_pc": 0.162039
+  },
+  {
+    "iso3c": "BWA",
+    "region_id": "SSF",
+    "country_name": "Botswana",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 210854.4,
+    "wastegen_pc": 0.104649
+  },
+  {
+    "iso3c": "CAF",
+    "region_id": "SSF",
+    "country_name": "Central African Republic",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1105983,
+    "wastegen_pc": 0.244936
+  },
+  {
+    "iso3c": "CAN",
+    "region_id": "NAC",
+    "country_name": "Canada",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 25103034,
+    "wastegen_pc": 0.706241
+  },
+  {
+    "iso3c": "CHE",
+    "region_id": "ECS",
+    "country_name": "Switzerland",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 6079556,
+    "wastegen_pc": 0.709
+  },
+  {
+    "iso3c": "CHI",
+    "region_id": "ECS",
+    "country_name": "Channel Islands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 178933,
+    "wastegen_pc": 1.087468
+  },
+  {
+    "iso3c": "CHL",
+    "region_id": "LCN",
+    "country_name": "Chile",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 6517000,
+    "wastegen_pc": 0.387238
+  },
+  {
+    "iso3c": "CHN",
+    "region_id": "EAS",
+    "country_name": "China",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 395000000,
+    "wastegen_pc": 0.282191
+  },
+  {
+    "iso3c": "CIV",
+    "region_id": "SSF",
+    "country_name": "CÃ´te dâ€™Ivoire",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 4440814,
+    "wastegen_pc": 0.217673
+  },
+  {
+    "iso3c": "CMR",
+    "region_id": "SSF",
+    "country_name": "Cameroon",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 3270617,
+    "wastegen_pc": 0.151028
+  },
+  {
+    "iso3c": "COD",
+    "region_id": "SSF",
+    "country_name": "Congo, Dem. Rep.",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 14385226,
+    "wastegen_pc": 0.182702
+  },
+  {
+    "iso3c": "COG",
+    "region_id": "SSF",
+    "country_name": "Congo, Rep.",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 451200,
+    "wastegen_pc": 0.17036
+  },
+  {
+    "iso3c": "COL",
+    "region_id": "LCN",
+    "country_name": "Colombia",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 12150120,
+    "wastegen_pc": 0.261819
+  },
+  {
+    "iso3c": "COM",
+    "region_id": "SSF",
+    "country_name": "Comoros",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 91013,
+    "wastegen_pc": 0.11707
+  },
+  {
+    "iso3c": "CPV",
+    "region_id": "SSF",
+    "country_name": "Cabo Verde",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 132555,
+    "wastegen_pc": 0.2579
+  },
+  {
+    "iso3c": "CRI",
+    "region_id": "LCN",
+    "country_name": "Costa Rica",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 1460000,
+    "wastegen_pc": 0.306879
+  },
+  {
+    "iso3c": "CUB",
+    "region_id": "LCN",
+    "country_name": "Cuba",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2692692,
+    "wastegen_pc": 0.238214
+  },
+  {
+    "iso3c": "CUW",
+    "region_id": "LCN",
+    "country_name": "Curacao",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 24703.81,
+    "wastegen_pc": 0.1606
+  },
+  {
+    "iso3c": "CYM",
+    "region_id": "LCN",
+    "country_name": "Cayman Islands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 60000,
+    "wastegen_pc": 1.013993
+  },
+  {
+    "iso3c": "CYP",
+    "region_id": "ECS",
+    "country_name": "Cyprus",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 769485.1,
+    "wastegen_pc": 0.642
+  },
+  {
+    "iso3c": "CZE",
+    "region_id": "ECS",
+    "country_name": "Czech Republic",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5334855,
+    "wastegen_pc": 0.5
+  },
+  {
+    "iso3c": "DEU",
+    "region_id": "ECS",
+    "country_name": "Germany",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 50627876,
+    "wastegen_pc": 0.609
+  },
+  {
+    "iso3c": "DJI",
+    "region_id": "MEA",
+    "country_name": "Djibouti",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 114997.2,
+    "wastegen_pc": 0.154106
+  },
+  {
+    "iso3c": "DMA",
+    "region_id": "LCN",
+    "country_name": "Dominica",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 13176,
+    "wastegen_pc": 0.181989
+  },
+  {
+    "iso3c": "DNK",
+    "region_id": "ECS",
+    "country_name": "Denmark",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 4910859,
+    "wastegen_pc": 0.844
+  },
+  {
+    "iso3c": "DOM",
+    "region_id": "LCN",
+    "country_name": "Dominican Republic",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 4063910,
+    "wastegen_pc": 0.385995
+  },
+  {
+    "iso3c": "DZA",
+    "region_id": "MEA",
+    "country_name": "Algeria",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 12378740,
+    "wastegen_pc": 0.30485
+  },
+  {
+    "iso3c": "ECU",
+    "region_id": "LCN",
+    "country_name": "Ecuador",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 5297211,
+    "wastegen_pc": 0.328115
+  },
+  {
+    "iso3c": "EGY",
+    "region_id": "MEA",
+    "country_name": "Egypt, Arab Rep.",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 21000000,
+    "wastegen_pc": 0.239144
+  },
+  {
+    "iso3c": "ERI",
+    "region_id": "SSF",
+    "country_name": "Eritrea",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 726957.4,
+    "wastegen_pc": 0.16246
+  },
+  {
+    "iso3c": "ESP",
+    "region_id": "ECS",
+    "country_name": "Spain",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 22408548,
+    "wastegen_pc": 0.476
+  },
+  {
+    "iso3c": "EST",
+    "region_id": "ECS",
+    "country_name": "Estonia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 489511.7,
+    "wastegen_pc": 0.369
+  },
+  {
+    "iso3c": "ETH",
+    "region_id": "SSF",
+    "country_name": "Ethiopia",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 6532787,
+    "wastegen_pc": 0.065411
+  },
+  {
+    "iso3c": "FIN",
+    "region_id": "ECS",
+    "country_name": "Finland",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 3124498,
+    "wastegen_pc": 0.566
+  },
+  {
+    "iso3c": "FJI",
+    "region_id": "EAS",
+    "country_name": "Fiji",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 189389.6,
+    "wastegen_pc": 0.218421
+  },
+  {
+    "iso3c": "FRA",
+    "region_id": "ECS",
+    "country_name": "France",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 36748820,
+    "wastegen_pc": 0.548
+  },
+  {
+    "iso3c": "FRO",
+    "region_id": "ECS",
+    "country_name": "Faeroe Islands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 61000,
+    "wastegen_pc": 1.248925
+  },
+  {
+    "iso3c": "FSM",
+    "region_id": "EAS",
+    "country_name": "Micronesia, Fed. Sts.",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 26039.57,
+    "wastegen_pc": 0.248145
+  },
+  {
+    "iso3c": "GAB",
+    "region_id": "SSF",
+    "country_name": "Gabon",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 238102.3,
+    "wastegen_pc": 0.219219
+  },
+  {
+    "iso3c": "GBR",
+    "region_id": "ECS",
+    "country_name": "United Kingdom",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 30771140,
+    "wastegen_pc": 0.463
+  },
+  {
+    "iso3c": "GEO",
+    "region_id": "ECS",
+    "country_name": "Georgia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 800000,
+    "wastegen_pc": 0.215222
+  },
+  {
+    "iso3c": "GHA",
+    "region_id": "SSF",
+    "country_name": "Ghana",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 3538275,
+    "wastegen_pc": 0.16425
+  },
+  {
+    "iso3c": "GIB",
+    "region_id": "ECS",
+    "country_name": "Gibraltar",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 16954,
+    "wastegen_pc": 0.504238
+  },
+  {
+    "iso3c": "GIN",
+    "region_id": "SSF",
+    "country_name": "Guinea",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 596911,
+    "wastegen_pc": 0.073398
+  },
+  {
+    "iso3c": "GMB",
+    "region_id": "SSF",
+    "country_name": "Gambia, The",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 193440.5,
+    "wastegen_pc": 0.147513
+  },
+  {
+    "iso3c": "GNB",
+    "region_id": "SSF",
+    "country_name": "Guinea-Bissau",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 289514,
+    "wastegen_pc": 0.163519
+  },
+  {
+    "iso3c": "GNQ",
+    "region_id": "SSF",
+    "country_name": "Equatorial Guinea",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 198443.1,
+    "wastegen_pc": 0.16246
+  },
+  {
+    "iso3c": "GRC",
+    "region_id": "ECS",
+    "country_name": "Greece",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5615353,
+    "wastegen_pc": 0.524
+  },
+  {
+    "iso3c": "GRD",
+    "region_id": "LCN",
+    "country_name": "Grenada",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 29536.11,
+    "wastegen_pc": 0.280014
+  },
+  {
+    "iso3c": "GRL",
+    "region_id": "ECS",
+    "country_name": "Greenland",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 50000,
+    "wastegen_pc": 0.878657
+  },
+  {
+    "iso3c": "GTM",
+    "region_id": "LCN",
+    "country_name": "Guatemala",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2756741,
+    "wastegen_pc": 0.16962
+  },
+  {
+    "iso3c": "GUM",
+    "region_id": "EAS",
+    "country_name": "Guam",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 141500,
+    "wastegen_pc": 0.884524
+  },
+  {
+    "iso3c": "GUY",
+    "region_id": "LCN",
+    "country_name": "Guyana",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 179251.5,
+    "wastegen_pc": 0.240105
+  },
+  {
+    "iso3c": "HKG",
+    "region_id": "EAS",
+    "country_name": "Hong Kong SAR, China",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5679816,
+    "wastegen_pc": 0.77745
+  },
+  {
+    "iso3c": "HND",
+    "region_id": "LCN",
+    "country_name": "Honduras",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2162028,
+    "wastegen_pc": 0.23725
+  },
+  {
+    "iso3c": "HRV",
+    "region_id": "ECS",
+    "country_name": "Croatia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1810038,
+    "wastegen_pc": 0.445
+  },
+  {
+    "iso3c": "HTI",
+    "region_id": "LCN",
+    "country_name": "Haiti",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 2309852,
+    "wastegen_pc": 0.212942
+  },
+  {
+    "iso3c": "HUN",
+    "region_id": "ECS",
+    "country_name": "Hungary",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 3780970,
+    "wastegen_pc": 0.387
+  },
+  {
+    "iso3c": "IDN",
+    "region_id": "EAS",
+    "country_name": "Indonesia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 65200000,
+    "wastegen_pc": 0.249698
+  },
+  {
+    "iso3c": "IMN",
+    "region_id": "ECS",
+    "country_name": "Isle of Man",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 50551,
+    "wastegen_pc": 0.625949
+  },
+  {
+    "iso3c": "IND",
+    "region_id": "SAS",
+    "country_name": "India",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 190000000,
+    "wastegen_pc": 0.140284
+  },
+  {
+    "iso3c": "IRL",
+    "region_id": "ECS",
+    "country_name": "Ireland",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 2910655,
+    "wastegen_pc": 0.598
+  },
+  {
+    "iso3c": "IRN",
+    "region_id": "MEA",
+    "country_name": "Iran, Islamic Rep.",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 17885000,
+    "wastegen_pc": 0.22279
+  },
+  {
+    "iso3c": "IRQ",
+    "region_id": "MEA",
+    "country_name": "Iraq",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 13140000,
+    "wastegen_pc": 0.363831
+  },
+  {
+    "iso3c": "ISL",
+    "region_id": "ECS",
+    "country_name": "Iceland",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 225270.4,
+    "wastegen_pc": 0.656
+  },
+  {
+    "iso3c": "ISR",
+    "region_id": "MEA",
+    "country_name": "Israel",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5400000,
+    "wastegen_pc": 0.644384
+  },
+  {
+    "iso3c": "ITA",
+    "region_id": "ECS",
+    "country_name": "Italy",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 30088400,
+    "wastegen_pc": 0.499
+  },
+  {
+    "iso3c": "JAM",
+    "region_id": "LCN",
+    "country_name": "Jamaica",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 1051695,
+    "wastegen_pc": 0.365
+  },
+  {
+    "iso3c": "JOR",
+    "region_id": "MEA",
+    "country_name": "Jordan",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2529997,
+    "wastegen_pc": 0.300708
+  },
+  {
+    "iso3c": "JPN",
+    "region_id": "EAS",
+    "country_name": "Japan",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 42720000,
+    "wastegen_pc": 0.33763
+  },
+  {
+    "iso3c": "KAZ",
+    "region_id": "ECS",
+    "country_name": "Kazakhstan",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 4659740,
+    "wastegen_pc": 0.277507
+  },
+  {
+    "iso3c": "KEN",
+    "region_id": "SSF",
+    "country_name": "Kenya",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 5595099,
+    "wastegen_pc": 0.13531
+  },
+  {
+    "iso3c": "KGZ",
+    "region_id": "ECS",
+    "country_name": "Kyrgyz Republic",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 1113300,
+    "wastegen_pc": 0.186893
+  },
+  {
+    "iso3c": "KHM",
+    "region_id": "EAS",
+    "country_name": "Cambodia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 1089000,
+    "wastegen_pc": 0.071313
+  },
+  {
+    "iso3c": "KIR",
+    "region_id": "EAS",
+    "country_name": "Kiribati",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 35723.83,
+    "wastegen_pc": 0.312285
+  },
+  {
+    "iso3c": "KNA",
+    "region_id": "LCN",
+    "country_name": "St. Kitts and Nevis",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 32892.14,
+    "wastegen_pc": 0.605882
+  },
+  {
+    "iso3c": "KOR",
+    "region_id": "EAS",
+    "country_name": "Korea, Rep.",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 20452776,
+    "wastegen_pc": 0.396321
+  },
+  {
+    "iso3c": "KWT",
+    "region_id": "MEA",
+    "country_name": "Kuwait",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1750000,
+    "wastegen_pc": 0.583706
+  },
+  {
+    "iso3c": "LAO",
+    "region_id": "EAS",
+    "country_name": "Lao PDR",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 351900,
+    "wastegen_pc": 0.052806
+  },
+  {
+    "iso3c": "LBN",
+    "region_id": "MEA",
+    "country_name": "Lebanon",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2040000,
+    "wastegen_pc": 0.364073
+  },
+  {
+    "iso3c": "LBR",
+    "region_id": "SSF",
+    "country_name": "Liberia",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 564466.7,
+    "wastegen_pc": 0.160683
+  },
+  {
+    "iso3c": "LBY",
+    "region_id": "MEA",
+    "country_name": "Libya",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2147596,
+    "wastegen_pc": 0.34675
+  },
+  {
+    "iso3c": "LCA",
+    "region_id": "LCN",
+    "country_name": "St. Lucia",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 77616.23,
+    "wastegen_pc": 0.438
+  },
+  {
+    "iso3c": "LIE",
+    "region_id": "ECS",
+    "country_name": "Liechtenstein",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 32382,
+    "wastegen_pc": 0.886086
+  },
+  {
+    "iso3c": "LKA",
+    "region_id": "SAS",
+    "country_name": "Sri Lanka",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2631650,
+    "wastegen_pc": 0.124117
+  },
+  {
+    "iso3c": "LSO",
+    "region_id": "SSF",
+    "country_name": "Lesotho",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 73457,
+    "wastegen_pc": 0.03737
+  },
+  {
+    "iso3c": "LTU",
+    "region_id": "ECS",
+    "country_name": "Lithuania",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1315390,
+    "wastegen_pc": 0.472
+  },
+  {
+    "iso3c": "LUX",
+    "region_id": "ECS",
+    "country_name": "Luxembourg",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 490337.8,
+    "wastegen_pc": 0.791
+  },
+  {
+    "iso3c": "LVA",
+    "region_id": "ECS",
+    "country_name": "Latvia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 839714.4,
+    "wastegen_pc": 0.439
+  },
+  {
+    "iso3c": "MAC",
+    "region_id": "EAS",
+    "country_name": "Macao SAR, China",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 377942,
+    "wastegen_pc": 0.617384
+  },
+  {
+    "iso3c": "MAF",
+    "region_id": "LCN",
+    "country_name": "St. Martin (French part)",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 15479.5,
+    "wastegen_pc": 0.5
+  },
+  {
+    "iso3c": "MAR",
+    "region_id": "MEA",
+    "country_name": "Morocco",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 6852000,
+    "wastegen_pc": 0.199662
+  },
+  {
+    "iso3c": "MCO",
+    "region_id": "ECS",
+    "country_name": "Monaco",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 46000,
+    "wastegen_pc": 1.217479
+  },
+  {
+    "iso3c": "MDA",
+    "region_id": "ECS",
+    "country_name": "Moldova",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 3981200,
+    "wastegen_pc": 1.120169
+  },
+  {
+    "iso3c": "MDG",
+    "region_id": "SSF",
+    "country_name": "Madagascar",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 3768759,
+    "wastegen_pc": 0.151389
+  },
+  {
+    "iso3c": "MDV",
+    "region_id": "SAS",
+    "country_name": "Maldives",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 211505.8,
+    "wastegen_pc": 0.516923
+  },
+  {
+    "iso3c": "MEX",
+    "region_id": "LCN",
+    "country_name": "Mexico",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 53100000,
+    "wastegen_pc": 0.421794
+  },
+  {
+    "iso3c": "MHL",
+    "region_id": "EAS",
+    "country_name": "Marshall Islands",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 8614,
+    "wastegen_pc": 0.163166
+  },
+  {
+    "iso3c": "MKD",
+    "region_id": "ECS",
+    "country_name": "Macedonia, FYR",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 626970.4,
+    "wastegen_pc": 0.301
+  },
+  {
+    "iso3c": "MLI",
+    "region_id": "SSF",
+    "country_name": "Mali",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1937354,
+    "wastegen_pc": 0.121034
+  },
+  {
+    "iso3c": "MLT",
+    "region_id": "MEA",
+    "country_name": "Malta",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 348841.2,
+    "wastegen_pc": 0.694
+  },
+  {
+    "iso3c": "MMR",
+    "region_id": "EAS",
+    "country_name": "Myanmar",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 4677307,
+    "wastegen_pc": 0.10147
+  },
+  {
+    "iso3c": "MNE",
+    "region_id": "ECS",
+    "country_name": "Montenegro",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 329780.3,
+    "wastegen_pc": 0.53
+  },
+  {
+    "iso3c": "MNG",
+    "region_id": "EAS",
+    "country_name": "Mongolia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2900000,
+    "wastegen_pc": 0.957918
+  },
+  {
+    "iso3c": "MNP",
+    "region_id": "EAS",
+    "country_name": "Northern Mariana Islands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 32761.41,
+    "wastegen_pc": 0.606289
+  },
+  {
+    "iso3c": "MOZ",
+    "region_id": "SSF",
+    "country_name": "Mozambique",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 2500000,
+    "wastegen_pc": 0.09187
+  },
+  {
+    "iso3c": "MRT",
+    "region_id": "SSF",
+    "country_name": "Mauritania",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 454000,
+    "wastegen_pc": 0.129482
+  },
+  {
+    "iso3c": "MUS",
+    "region_id": "SSF",
+    "country_name": "Mauritius",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 438000,
+    "wastegen_pc": 0.346664
+  },
+  {
+    "iso3c": "MWI",
+    "region_id": "SSF",
+    "country_name": "Malawi",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1297844,
+    "wastegen_pc": 0.078291
+  },
+  {
+    "iso3c": "MYS",
+    "region_id": "EAS",
+    "country_name": "Malaysia",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 12982685,
+    "wastegen_pc": 0.429492
+  },
+  {
+    "iso3c": "NAM",
+    "region_id": "SSF",
+    "country_name": "Namibia",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 256729,
+    "wastegen_pc": 0.164572
+  },
+  {
+    "iso3c": "NCL",
+    "region_id": "EAS",
+    "country_name": "New Caledonia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 108157.4,
+    "wastegen_pc": 0.389055
+  },
+  {
+    "iso3c": "NER",
+    "region_id": "SSF",
+    "country_name": "Niger",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1865646,
+    "wastegen_pc": 0.210988
+  },
+  {
+    "iso3c": "NGA",
+    "region_id": "SSF",
+    "country_name": "Nigeria",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 27614830,
+    "wastegen_pc": 0.17885
+  },
+  {
+    "iso3c": "NIC",
+    "region_id": "LCN",
+    "country_name": "Nicaragua",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 1528816,
+    "wastegen_pc": 0.26645
+  },
+  {
+    "iso3c": "NLD",
+    "region_id": "ECS",
+    "country_name": "Netherlands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 8805088,
+    "wastegen_pc": 0.508
+  },
+  {
+    "iso3c": "NOR",
+    "region_id": "ECS",
+    "country_name": "Norway",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 4149967,
+    "wastegen_pc": 0.776
+  },
+  {
+    "iso3c": "NPL",
+    "region_id": "SAS",
+    "country_name": "Nepal",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1768977,
+    "wastegen_pc": 0.061035
+  },
+  {
+    "iso3c": "NRU",
+    "region_id": "EAS",
+    "country_name": "Nauru",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 6191.751,
+    "wastegen_pc": 0.4745
+  },
+  {
+    "iso3c": "NZL",
+    "region_id": "EAS",
+    "country_name": "New Zealand",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 3405000,
+    "wastegen_pc": 0.725595
+  },
+  {
+    "iso3c": "OMN",
+    "region_id": "MEA",
+    "country_name": "Oman",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1734885,
+    "wastegen_pc": 0.438
+  },
+  {
+    "iso3c": "PAK",
+    "region_id": "SAS",
+    "country_name": "Pakistan",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 30760000,
+    "wastegen_pc": 0.15921
+  },
+  {
+    "iso3c": "PAN",
+    "region_id": "LCN",
+    "country_name": "Panama",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1472262,
+    "wastegen_pc": 0.370917
+  },
+  {
+    "iso3c": "PER",
+    "region_id": "LCN",
+    "country_name": "Peru",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 8356711,
+    "wastegen_pc": 0.269803
+  },
+  {
+    "iso3c": "PHL",
+    "region_id": "EAS",
+    "country_name": "Philippines",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 14631923,
+    "wastegen_pc": 0.141617
+  },
+  {
+    "iso3c": "PLW",
+    "region_id": "EAS",
+    "country_name": "Palau",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 9426.746,
+    "wastegen_pc": 0.438392
+  },
+  {
+    "iso3c": "PNG",
+    "region_id": "EAS",
+    "country_name": "Papua New Guinea",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 1000000,
+    "wastegen_pc": 0.128936
+  },
+  {
+    "iso3c": "POL",
+    "region_id": "ECS",
+    "country_name": "Poland",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 12758213,
+    "wastegen_pc": 0.336
+  },
+  {
+    "iso3c": "PRI",
+    "region_id": "LCN",
+    "country_name": "Puerto Rico",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 4170953,
+    "wastegen_pc": 1.200903
+  },
+  {
+    "iso3c": "PRT",
+    "region_id": "ECS",
+    "country_name": "Portugal",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 5268211,
+    "wastegen_pc": 0.513
+  },
+  {
+    "iso3c": "PRY",
+    "region_id": "LCN",
+    "country_name": "Paraguay",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 1818501,
+    "wastegen_pc": 0.273907
+  },
+  {
+    "iso3c": "PSE",
+    "region_id": "MEA",
+    "country_name": "West Bank and Gaza",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 1387000,
+    "wastegen_pc": 0.342731
+  },
+  {
+    "iso3c": "PYF",
+    "region_id": "EAS",
+    "country_name": "French Polynesia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 147000,
+    "wastegen_pc": 0.537422
+  },
+  {
+    "iso3c": "QAT",
+    "region_id": "MEA",
+    "country_name": "Qatar",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1000990,
+    "wastegen_pc": 0.4745
+  },
+  {
+    "iso3c": "ROU",
+    "region_id": "ECS",
+    "country_name": "Romania",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 5419833,
+    "wastegen_pc": 0.28
+  },
+  {
+    "iso3c": "RUS",
+    "region_id": "ECS",
+    "country_name": "Russian Federation",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 60000000,
+    "wastegen_pc": 0.418989
+  },
+  {
+    "iso3c": "RWA",
+    "region_id": "SSF",
+    "country_name": "Rwanda",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 4384969,
+    "wastegen_pc": 0.367943
+  },
+  {
+    "iso3c": "SAU",
+    "region_id": "MEA",
+    "country_name": "Saudi Arabia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 16125701,
+    "wastegen_pc": 0.511
+  },
+  {
+    "iso3c": "SDN",
+    "region_id": "SSF",
+    "country_name": "Sudan",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2831291,
+    "wastegen_pc": 0.073259
+  },
+  {
+    "iso3c": "SEN",
+    "region_id": "SSF",
+    "country_name": "Senegal",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 2454059,
+    "wastegen_pc": 0.159234
+  },
+  {
+    "iso3c": "SGP",
+    "region_id": "EAS",
+    "country_name": "Singapore",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1870000,
+    "wastegen_pc": 0.327863
+  },
+  {
+    "iso3c": "SLB",
+    "region_id": "EAS",
+    "country_name": "Solomon Islands",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 179972,
+    "wastegen_pc": 0.319375
+  },
+  {
+    "iso3c": "SLE",
+    "region_id": "SSF",
+    "country_name": "Sierra Leone",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 610222.1,
+    "wastegen_pc": 0.112179
+  },
+  {
+    "iso3c": "SLV",
+    "region_id": "LCN",
+    "country_name": "El Salvador",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 1648996,
+    "wastegen_pc": 0.267493
+  },
+  {
+    "iso3c": "SMR",
+    "region_id": "ECS",
+    "country_name": "San Marino",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 17174.68,
+    "wastegen_pc": 0.517263
+  },
+  {
+    "iso3c": "SOM",
+    "region_id": "SSF",
+    "country_name": "Somalia",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 2326099,
+    "wastegen_pc": 0.16246
+  },
+  {
+    "iso3c": "SRB",
+    "region_id": "ECS",
+    "country_name": "Serbia",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 2347402,
+    "wastegen_pc": 0.338
+  },
+  {
+    "iso3c": "SSD",
+    "region_id": "SSF",
+    "country_name": "South Sudan",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 2680681,
+    "wastegen_pc": 0.239829
+  },
+  {
+    "iso3c": "STP",
+    "region_id": "SSF",
+    "country_name": "SÃ£o TomÃ© and PrÃ­ncipe",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 25586.5,
+    "wastegen_pc": 0.133774
+  },
+  {
+    "iso3c": "SUR",
+    "region_id": "LCN",
+    "country_name": "Suriname",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 78619.8,
+    "wastegen_pc": 0.149438
+  },
+  {
+    "iso3c": "SVK",
+    "region_id": "ECS",
+    "country_name": "Slovak Republic",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 2296165,
+    "wastegen_pc": 0.421
+  },
+  {
+    "iso3c": "SVN",
+    "region_id": "ECS",
+    "country_name": "Slovenia",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1052325,
+    "wastegen_pc": 0.504
+  },
+  {
+    "iso3c": "SWE",
+    "region_id": "ECS",
+    "country_name": "Sweden",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 4618169,
+    "wastegen_pc": 0.449
+  },
+  {
+    "iso3c": "SWZ",
+    "region_id": "SSF",
+    "country_name": "Eswatini",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 218199.5,
+    "wastegen_pc": 0.16246
+  },
+  {
+    "iso3c": "SXM",
+    "region_id": "LCN",
+    "country_name": "Sint Maarten (Dutch part)",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": "NA",
+    "wastegen_pc": "NA"
+  },
+  {
+    "iso3c": "SYC",
+    "region_id": "SSF",
+    "country_name": "Seychelles",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 48000,
+    "wastegen_pc": 0.543583
+  },
+  {
+    "iso3c": "SYR",
+    "region_id": "MEA",
+    "country_name": "Syrian Arab Republic",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 4500000,
+    "wastegen_pc": 0.216088
+  },
+  {
+    "iso3c": "TCA",
+    "region_id": "LCN",
+    "country_name": "Turks and Caicos Islands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": "NA",
+    "wastegen_pc": "NA"
+  },
+  {
+    "iso3c": "TCD",
+    "region_id": "SSF",
+    "country_name": "Chad",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1358851,
+    "wastegen_pc": 0.114312
+  },
+  {
+    "iso3c": "TGO",
+    "region_id": "SSF",
+    "country_name": "Togo",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1109030,
+    "wastegen_pc": 0.153416
+  },
+  {
+    "iso3c": "THA",
+    "region_id": "EAS",
+    "country_name": "Thailand",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 26853366,
+    "wastegen_pc": 0.39112
+  },
+  {
+    "iso3c": "TJK",
+    "region_id": "ECS",
+    "country_name": "Tajikistan",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1787400,
+    "wastegen_pc": 0.218567
+  },
+  {
+    "iso3c": "TKM",
+    "region_id": "ECS",
+    "country_name": "Turkmenistan",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 500000,
+    "wastegen_pc": 0.093174
+  },
+  {
+    "iso3c": "TLS",
+    "region_id": "EAS",
+    "country_name": "Timor-Leste",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 63875,
+    "wastegen_pc": 0.050348
+  },
+  {
+    "iso3c": "TON",
+    "region_id": "EAS",
+    "country_name": "Tonga",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 17238.2,
+    "wastegen_pc": 0.16425
+  },
+  {
+    "iso3c": "TTO",
+    "region_id": "LCN",
+    "country_name": "Trinidad and Tobago",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 727874,
+    "wastegen_pc": 0.548057
+  },
+  {
+    "iso3c": "TUN",
+    "region_id": "MEA",
+    "country_name": "Tunisia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2700000,
+    "wastegen_pc": 0.242285
+  },
+  {
+    "iso3c": "TUR",
+    "region_id": "ECS",
+    "country_name": "Turkey",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 35374156,
+    "wastegen_pc": 0.424
+  },
+  {
+    "iso3c": "TUV",
+    "region_id": "EAS",
+    "country_name": "Tuvalu",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 3989.487,
+    "wastegen_pc": 0.35951
+  },
+  {
+    "iso3c": "TWN",
+    "region_id": "EAS",
+    "country_name": "NA",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 7336000,
+    "wastegen_pc": 0.313049
+  },
+  {
+    "iso3c": "TZA",
+    "region_id": "SSF",
+    "country_name": "Tanzania",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 9276995,
+    "wastegen_pc": 0.189006
+  },
+  {
+    "iso3c": "UGA",
+    "region_id": "SSF",
+    "country_name": "Uganda",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 7045050,
+    "wastegen_pc": 0.20075
+  },
+  {
+    "iso3c": "UKR",
+    "region_id": "ECS",
+    "country_name": "Ukraine",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 15242025,
+    "wastegen_pc": 0.338677
+  },
+  {
+    "iso3c": "URY",
+    "region_id": "LCN",
+    "country_name": "Uruguay",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 1260140,
+    "wastegen_pc": 0.367221
+  },
+  {
+    "iso3c": "USA",
+    "region_id": "NAC",
+    "country_name": "United States",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 265000000,
+    "wastegen_pc": 0.81186
+  },
+  {
+    "iso3c": "UZB",
+    "region_id": "ECS",
+    "country_name": "Uzbekistan",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 4000000,
+    "wastegen_pc": 0.134343
+  },
+  {
+    "iso3c": "VCT",
+    "region_id": "LCN",
+    "country_name": "St. Vincent and the Grenadines",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 31561.35,
+    "wastegen_pc": 0.28835
+  },
+  {
+    "iso3c": "VEN",
+    "region_id": "LCN",
+    "country_name": "Venezuela, RB",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 9779093,
+    "wastegen_pc": 0.327136
+  },
+  {
+    "iso3c": "VGB",
+    "region_id": "LCN",
+    "country_name": "British Virgin Islands",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 21099.19,
+    "wastegen_pc": 1.022
+  },
+  {
+    "iso3c": "VIR",
+    "region_id": "LCN",
+    "country_name": "Virgin Islands (U.S.)",
+    "income_id": "HIC",
+    "total_msw_total_msw_generated_tons_year": 146500,
+    "wastegen_pc": 1.384898
+  },
+  {
+    "iso3c": "VNM",
+    "region_id": "EAS",
+    "country_name": "Vietnam",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 9570300,
+    "wastegen_pc": 0.110089
+  },
+  {
+    "iso3c": "VUT",
+    "region_id": "EAS",
+    "country_name": "Vanuatu",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 70225.49,
+    "wastegen_pc": 0.259708
+  },
+  {
+    "iso3c": "WSM",
+    "region_id": "EAS",
+    "country_name": "Samoa",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 27399.09,
+    "wastegen_pc": 0.146
+  },
+  {
+    "iso3c": "XKX",
+    "region_id": "ECS",
+    "country_name": "Kosovo",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 319000,
+    "wastegen_pc": 0.177045
+  },
+  {
+    "iso3c": "YEM",
+    "region_id": "MEA",
+    "country_name": "Yemen, Rep.",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 4836820,
+    "wastegen_pc": 0.175347
+  },
+  {
+    "iso3c": "ZAF",
+    "region_id": "SSF",
+    "country_name": "South Africa",
+    "income_id": "UMC",
+    "total_msw_total_msw_generated_tons_year": 18457232,
+    "wastegen_pc": 0.356804
+  },
+  {
+    "iso3c": "ZMB",
+    "region_id": "SSF",
+    "country_name": "Zambia",
+    "income_id": "LMC",
+    "total_msw_total_msw_generated_tons_year": 2608268,
+    "wastegen_pc": 0.182847
+  },
+  {
+    "iso3c": "ZWE",
+    "region_id": "SSF",
+    "country_name": "Zimbabwe",
+    "income_id": "LIC",
+    "total_msw_total_msw_generated_tons_year": 1449752,
+    "wastegen_pc": 0.115975
+  }
+]

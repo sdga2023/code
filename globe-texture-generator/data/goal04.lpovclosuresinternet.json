@@ -1,0 +1,1091 @@
+[
+  {
+    "iso3c": "AFG",
+    "gni_per_capita": 500,
+    "learning_poverty": 93.44799805,
+    "unicef_full_closed": 115,
+    "internet_users": 18.4,
+    "EG.ELC.ACCS.ZS": 97.69999695,
+    "population": 38928341
+  },
+  {
+    "iso3c": "ALB",
+    "gni_per_capita": 5260,
+    "learning_poverty": 16.47864151,
+    "unicef_full_closed": 41,
+    "internet_users": 72.24,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2837849
+  },
+  {
+    "iso3c": "ARE",
+    "gni_per_capita": 39410,
+    "learning_poverty": 32.83292389,
+    "unicef_full_closed": 168,
+    "internet_users": 100,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 9890400
+  },
+  {
+    "iso3c": "ARG",
+    "gni_per_capita": 9080,
+    "learning_poverty": 53.83637238,
+    "unicef_full_closed": 111,
+    "internet_users": 85.5,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 45376763
+  },
+  {
+    "iso3c": "ARM",
+    "gni_per_capita": 4220,
+    "learning_poverty": 27.24114609,
+    "unicef_full_closed": 45,
+    "internet_users": 76.51,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2963234
+  },
+  {
+    "iso3c": "AUS",
+    "gni_per_capita": 53680,
+    "learning_poverty": 8.56343174,
+    "unicef_full_closed": 0,
+    "internet_users": 89.6,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 25693267
+  },
+  {
+    "iso3c": "AUT",
+    "gni_per_capita": 48360,
+    "learning_poverty": 13.26862621,
+    "unicef_full_closed": 71,
+    "internet_users": 87.52942813,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 8916864
+  },
+  {
+    "iso3c": "AZE",
+    "gni_per_capita": 4480,
+    "learning_poverty": 23.28103256,
+    "unicef_full_closed": 111,
+    "internet_users": 84.59999573,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 10093121
+  },
+  {
+    "iso3c": "BDI",
+    "gni_per_capita": 230,
+    "learning_poverty": 95.81885529,
+    "unicef_full_closed": 0,
+    "internet_users": 9.4,
+    "EG.ELC.ACCS.ZS": 11.73555565,
+    "population": 11890781
+  },
+  {
+    "iso3c": "BEL",
+    "gni_per_capita": 45810,
+    "learning_poverty": 6.368309021,
+    "unicef_full_closed": 36,
+    "internet_users": 91.52641629,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 11544241
+  },
+  {
+    "iso3c": "BEN",
+    "gni_per_capita": 1280,
+    "learning_poverty": 55.77610397,
+    "unicef_full_closed": 21,
+    "internet_users": 25.8,
+    "EG.ELC.ACCS.ZS": 41.41095734,
+    "population": 12123198
+  },
+  {
+    "iso3c": "BFA",
+    "gni_per_capita": 770,
+    "learning_poverty": 73.8611908,
+    "unicef_full_closed": 48,
+    "internet_users": 22,
+    "EG.ELC.ACCS.ZS": 18.95723915,
+    "population": 20903278
+  },
+  {
+    "iso3c": "BGD",
+    "gni_per_capita": 2340,
+    "learning_poverty": 58.21909714,
+    "unicef_full_closed": 198,
+    "internet_users": 24.8,
+    "EG.ELC.ACCS.ZS": 96.19999695,
+    "population": 164689383
+  },
+  {
+    "iso3c": "BGR",
+    "gni_per_capita": 9630,
+    "learning_poverty": 15.20261288,
+    "unicef_full_closed": 80,
+    "internet_users": 70.16,
+    "EG.ELC.ACCS.ZS": 99.69999695,
+    "population": 6934015
+  },
+  {
+    "iso3c": "BHR",
+    "gni_per_capita": 19930,
+    "learning_poverty": 32.08821869,
+    "unicef_full_closed": 108,
+    "internet_users": 99.67,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 1701583
+  },
+  {
+    "iso3c": "BLZ",
+    "gni_per_capita": 3930,
+    "learning_poverty": 76.41403961,
+    "unicef_full_closed": 70,
+    "internet_users": 50.8,
+    "EG.ELC.ACCS.ZS": 97.11333466,
+    "population": 397621
+  },
+  {
+    "iso3c": "BRA",
+    "gni_per_capita": 7800,
+    "learning_poverty": 48.36721039,
+    "unicef_full_closed": 191,
+    "internet_users": 81.34269353,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 212559409
+  },
+  {
+    "iso3c": "BWA",
+    "gni_per_capita": 6500,
+    "learning_poverty": 50.8376503,
+    "unicef_full_closed": 34,
+    "internet_users": 64,
+    "EG.ELC.ACCS.ZS": 71.99475861,
+    "population": 2351625
+  },
+  {
+    "iso3c": "CAN",
+    "gni_per_capita": 43540,
+    "learning_poverty": 4.301857471,
+    "unicef_full_closed": 66,
+    "internet_users": 96.97,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 38037204
+  },
+  {
+    "iso3c": "CHL",
+    "gni_per_capita": 13120,
+    "learning_poverty": 34.66139984,
+    "unicef_full_closed": 67,
+    "internet_users": 88.3,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 19116209
+  },
+  {
+    "iso3c": "CHN",
+    "gni_per_capita": 10530,
+    "learning_poverty": 18.20000076,
+    "unicef_full_closed": 33,
+    "internet_users": 70.40477542,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 1411100000
+  },
+  {
+    "iso3c": "CIV",
+    "gni_per_capita": 2280,
+    "learning_poverty": 82.61730194,
+    "unicef_full_closed": 34,
+    "internet_users": 36.28895457,
+    "EG.ELC.ACCS.ZS": 69.67912292,
+    "population": 26378275
+  },
+  {
+    "iso3c": "CMR",
+    "gni_per_capita": 1520,
+    "learning_poverty": 71.93261719,
+    "unicef_full_closed": 40,
+    "internet_users": 37.8,
+    "EG.ELC.ACCS.ZS": 64.72136688,
+    "population": 26545864
+  },
+  {
+    "iso3c": "COD",
+    "gni_per_capita": 560,
+    "learning_poverty": 96.60150146,
+    "unicef_full_closed": 107,
+    "internet_users": 13.6,
+    "EG.ELC.ACCS.ZS": 19.10000038,
+    "population": 89561404
+  },
+  {
+    "iso3c": "COG",
+    "gni_per_capita": 1820,
+    "learning_poverty": 70.0140152,
+    "unicef_full_closed": 30,
+    "internet_users": 8.65,
+    "EG.ELC.ACCS.ZS": 49.51710129,
+    "population": 5518092
+  },
+  {
+    "iso3c": "COL",
+    "gni_per_capita": 5830,
+    "learning_poverty": 48.70722961,
+    "unicef_full_closed": 115,
+    "internet_users": 69.79,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 50882884
+  },
+  {
+    "iso3c": "COM",
+    "gni_per_capita": 1410,
+    "learning_poverty": 86.02334595,
+    "unicef_full_closed": 128,
+    "internet_users": 8.478170295,
+    "EG.ELC.ACCS.ZS": 86.73713684,
+    "population": 869595
+  },
+  {
+    "iso3c": "CRI",
+    "gni_per_capita": 11580,
+    "learning_poverty": 32.45553589,
+    "unicef_full_closed": 189,
+    "internet_users": 80.53018608,
+    "EG.ELC.ACCS.ZS": 99.90000153,
+    "population": 5094114
+  },
+  {
+    "iso3c": "CUB",
+    "gni_per_capita": null,
+    "learning_poverty": 27.93891907,
+    "unicef_full_closed": 77,
+    "internet_users": 74,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 11326616
+  },
+  {
+    "iso3c": "CYP",
+    "gni_per_capita": 26490,
+    "learning_poverty": 9.938192368,
+    "unicef_full_closed": 48,
+    "internet_users": 90.80194723,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 1207361
+  },
+  {
+    "iso3c": "CZE",
+    "gni_per_capita": 22130,
+    "learning_poverty": 13.82490158,
+    "unicef_full_closed": 68,
+    "internet_users": 81.33889705,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 10697858
+  },
+  {
+    "iso3c": "DEU",
+    "gni_per_capita": 47520,
+    "learning_poverty": 14.35341263,
+    "unicef_full_closed": 42,
+    "internet_users": 89.81294133,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 83160871
+  },
+  {
+    "iso3c": "DNK",
+    "gni_per_capita": 63010,
+    "learning_poverty": 3.574493647,
+    "unicef_full_closed": 37,
+    "internet_users": 96.54914573,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5831404
+  },
+  {
+    "iso3c": "DOM",
+    "gni_per_capita": 7270,
+    "learning_poverty": 80.74254608,
+    "unicef_full_closed": 171,
+    "internet_users": 76.9,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 10847904
+  },
+  {
+    "iso3c": "DZA",
+    "gni_per_capita": 3570,
+    "learning_poverty": 67.90348053,
+    "unicef_full_closed": 67,
+    "internet_users": 62.9,
+    "EG.ELC.ACCS.ZS": 99.80413055,
+    "population": 43851043
+  },
+  {
+    "iso3c": "ECU",
+    "gni_per_capita": 5540,
+    "learning_poverty": 62.80477905,
+    "unicef_full_closed": 169,
+    "internet_users": 64.6,
+    "EG.ELC.ACCS.ZS": 98.84999847,
+    "population": 17643060
+  },
+  {
+    "iso3c": "EGY",
+    "gni_per_capita": 3000,
+    "learning_poverty": 69.57327271,
+    "unicef_full_closed": 71,
+    "internet_users": 71.91420097,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 102334403
+  },
+  {
+    "iso3c": "ESP",
+    "gni_per_capita": 27360,
+    "learning_poverty": 4.536696434,
+    "unicef_full_closed": 50,
+    "internet_users": 93.20564892,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 47363419
+  },
+  {
+    "iso3c": "ETH",
+    "gni_per_capita": 890,
+    "learning_poverty": 90.38964081,
+    "unicef_full_closed": 151,
+    "internet_users": 24,
+    "EG.ELC.ACCS.ZS": 51.0939827,
+    "population": 114963583
+  },
+  {
+    "iso3c": "FIN",
+    "gni_per_capita": 50080,
+    "learning_poverty": 2.574587822,
+    "unicef_full_closed": 42,
+    "internet_users": 92.17,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5529543
+  },
+  {
+    "iso3c": "FRA",
+    "gni_per_capita": 39500,
+    "learning_poverty": 6.870605469,
+    "unicef_full_closed": 30,
+    "internet_users": 84.8,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 67379908
+  },
+  {
+    "iso3c": "GAB",
+    "gni_per_capita": 7030,
+    "learning_poverty": 30.67756081,
+    "unicef_full_closed": 80,
+    "internet_users": 62,
+    "EG.ELC.ACCS.ZS": 91.57156372,
+    "population": 2225728
+  },
+  {
+    "iso3c": "GBR",
+    "gni_per_capita": 39970,
+    "learning_poverty": 3.512510061,
+    "unicef_full_closed": 62,
+    "internet_users": 94.81820132,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 67081000
+  },
+  {
+    "iso3c": "GEO",
+    "gni_per_capita": 4260,
+    "learning_poverty": 15.2939539,
+    "unicef_full_closed": 76,
+    "internet_users": 72.53158402,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 3722716
+  },
+  {
+    "iso3c": "GIN",
+    "gni_per_capita": 960,
+    "learning_poverty": 82.67482758,
+    "unicef_full_closed": 109,
+    "internet_users": 26,
+    "EG.ELC.ACCS.ZS": 44.66867828,
+    "population": 13132792
+  },
+  {
+    "iso3c": "GRC",
+    "gni_per_capita": 17950,
+    "learning_poverty": 7.686419487,
+    "unicef_full_closed": 61,
+    "internet_users": 78.11584474,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 10700556
+  },
+  {
+    "iso3c": "GTM",
+    "gni_per_capita": 4490,
+    "learning_poverty": 67.28295898,
+    "unicef_full_closed": 165,
+    "internet_users": 49.97,
+    "EG.ELC.ACCS.ZS": 97.05526733,
+    "population": 16858333
+  },
+  {
+    "iso3c": "HKG",
+    "gni_per_capita": 48560,
+    "learning_poverty": 4.188119888,
+    "unicef_full_closed": null,
+    "internet_users": 92.41313602,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 7481000
+  },
+  {
+    "iso3c": "HND",
+    "gni_per_capita": 2190,
+    "learning_poverty": 75.5062561,
+    "unicef_full_closed": 147,
+    "internet_users": 42.05,
+    "EG.ELC.ACCS.ZS": 93.20671082,
+    "population": 9904608
+  },
+  {
+    "iso3c": "HRV",
+    "gni_per_capita": 14810,
+    "learning_poverty": 4.462029457,
+    "unicef_full_closed": 40,
+    "internet_users": 78.32093274,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 4047680
+  },
+  {
+    "iso3c": "HUN",
+    "gni_per_capita": 15950,
+    "learning_poverty": 5.903298378,
+    "unicef_full_closed": 73,
+    "internet_users": 84.77115202,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 9750149
+  },
+  {
+    "iso3c": "IDN",
+    "gni_per_capita": 3870,
+    "learning_poverty": 52.82275391,
+    "unicef_full_closed": 102,
+    "internet_users": 53.72649449,
+    "EG.ELC.ACCS.ZS": 96.94999695,
+    "population": 273523621
+  },
+  {
+    "iso3c": "IND",
+    "gni_per_capita": 1910,
+    "learning_poverty": 56.07056046,
+    "unicef_full_closed": 146,
+    "internet_users": 43,
+    "EG.ELC.ACCS.ZS": 99,
+    "population": 1380004385
+  },
+  {
+    "iso3c": "IRL",
+    "gni_per_capita": 65750,
+    "learning_poverty": 2.344146967,
+    "unicef_full_closed": 90,
+    "internet_users": 91.99989097,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 4985674
+  },
+  {
+    "iso3c": "IRN",
+    "gni_per_capita": 3370,
+    "learning_poverty": 35.2363205,
+    "unicef_full_closed": 69,
+    "internet_users": 84.11087002,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 83992953
+  },
+  {
+    "iso3c": "ISL",
+    "gni_per_capita": 62410,
+    "learning_poverty": 9.323390961,
+    "unicef_full_closed": 0,
+    "internet_users": 99,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 366463
+  },
+  {
+    "iso3c": "ISR",
+    "gni_per_capita": 42610,
+    "learning_poverty": 11.66234398,
+    "unicef_full_closed": 65,
+    "internet_users": 90.12734091,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 9215100
+  },
+  {
+    "iso3c": "ITA",
+    "gni_per_capita": 32380,
+    "learning_poverty": 4.391714573,
+    "unicef_full_closed": 66,
+    "internet_users": 70.48342785,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 59449527
+  },
+  {
+    "iso3c": "JOR",
+    "gni_per_capita": 4310,
+    "learning_poverty": 62.54821396,
+    "unicef_full_closed": 148,
+    "internet_users": 66.1,
+    "EG.ELC.ACCS.ZS": 99.90000153,
+    "population": 10203140
+  },
+  {
+    "iso3c": "JPN",
+    "gni_per_capita": 40810,
+    "learning_poverty": 3.560506344,
+    "unicef_full_closed": 11,
+    "internet_users": 90.21945812,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 126261000
+  },
+  {
+    "iso3c": "KAZ",
+    "gni_per_capita": 8710,
+    "learning_poverty": 2.186121225,
+    "unicef_full_closed": 46,
+    "internet_users": 85.94259898,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 18755666
+  },
+  {
+    "iso3c": "KGZ",
+    "gni_per_capita": 1180,
+    "learning_poverty": 64.49124908,
+    "unicef_full_closed": 74,
+    "internet_users": 51,
+    "EG.ELC.ACCS.ZS": 99.98104858,
+    "population": 6579900
+  },
+  {
+    "iso3c": "KHM",
+    "gni_per_capita": 1510,
+    "learning_poverty": 90.0033493,
+    "unicef_full_closed": 77,
+    "internet_users": 32.90027854,
+    "EG.ELC.ACCS.ZS": 86.40000153,
+    "population": 16718971
+  },
+  {
+    "iso3c": "KOR",
+    "gni_per_capita": 32930,
+    "learning_poverty": 3.230080605,
+    "unicef_full_closed": 50,
+    "internet_users": 96.50505968,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 51836239
+  },
+  {
+    "iso3c": "KWT",
+    "gni_per_capita": null,
+    "learning_poverty": 51.08253098,
+    "unicef_full_closed": 181,
+    "internet_users": 99.10587967,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 4270563
+  },
+  {
+    "iso3c": "LAO",
+    "gni_per_capita": 2490,
+    "learning_poverty": 97.71728516,
+    "unicef_full_closed": 42,
+    "internet_users": 33.8,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 7275556
+  },
+  {
+    "iso3c": "LKA",
+    "gni_per_capita": 3720,
+    "learning_poverty": 14.80606651,
+    "unicef_full_closed": 141,
+    "internet_users": 35,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 21919000
+  },
+  {
+    "iso3c": "LTU",
+    "gni_per_capita": 19620,
+    "learning_poverty": 2.983212709,
+    "unicef_full_closed": 72,
+    "internet_users": 83.05555096,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2794885
+  },
+  {
+    "iso3c": "LUX",
+    "gni_per_capita": 81110,
+    "learning_poverty": 2.950478077,
+    "unicef_full_closed": 45,
+    "internet_users": 98.82242384,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 630419
+  },
+  {
+    "iso3c": "LVA",
+    "gni_per_capita": 17900,
+    "learning_poverty": 3.984968901,
+    "unicef_full_closed": 43,
+    "internet_users": 88.9,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 1900449
+  },
+  {
+    "iso3c": "MAC",
+    "gni_per_capita": 46730,
+    "learning_poverty": 5.55470705,
+    "unicef_full_closed": null,
+    "internet_users": 88.1,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 649342
+  },
+  {
+    "iso3c": "MAR",
+    "gni_per_capita": 3020,
+    "learning_poverty": 64.9004364,
+    "unicef_full_closed": 87,
+    "internet_users": 84.12036305,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 36910558
+  },
+  {
+    "iso3c": "MDA",
+    "gni_per_capita": 4520,
+    "learning_poverty": 11.01008987,
+    "unicef_full_closed": 80,
+    "internet_users": 76.12451989,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2620495
+  },
+  {
+    "iso3c": "MDG",
+    "gni_per_capita": 470,
+    "learning_poverty": 93.93574524,
+    "unicef_full_closed": 12,
+    "internet_users": 15,
+    "EG.ELC.ACCS.ZS": 33.7350769,
+    "population": 27691019
+  },
+  {
+    "iso3c": "MEX",
+    "gni_per_capita": 8530,
+    "learning_poverty": 42.78256989,
+    "unicef_full_closed": 180,
+    "internet_users": 71.96819405,
+    "EG.ELC.ACCS.ZS": 99.40000153,
+    "population": 128932753
+  },
+  {
+    "iso3c": "MKD",
+    "gni_per_capita": 5690,
+    "learning_poverty": 40.86146164,
+    "unicef_full_closed": 102,
+    "internet_users": 81.40553811,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2072531
+  },
+  {
+    "iso3c": "MLI",
+    "gni_per_capita": 830,
+    "learning_poverty": 90.43836212,
+    "unicef_full_closed": 62,
+    "internet_users": 27.4,
+    "EG.ELC.ACCS.ZS": 50.56141663,
+    "population": 20250834
+  },
+  {
+    "iso3c": "MLT",
+    "gni_per_capita": 26410,
+    "learning_poverty": 27.96039391,
+    "unicef_full_closed": 68,
+    "internet_users": 86.85876416,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 515332
+  },
+  {
+    "iso3c": "MMR",
+    "gni_per_capita": 1340,
+    "learning_poverty": 89.46794128,
+    "unicef_full_closed": 177,
+    "internet_users": 35.1,
+    "EG.ELC.ACCS.ZS": 70.39719391,
+    "population": 54409794
+  },
+  {
+    "iso3c": "MNE",
+    "gni_per_capita": 7910,
+    "learning_poverty": 27.1038456,
+    "unicef_full_closed": 63,
+    "internet_users": 77.60879306,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 621306
+  },
+  {
+    "iso3c": "MNG",
+    "gni_per_capita": 3740,
+    "learning_poverty": 39.46482849,
+    "unicef_full_closed": 73,
+    "internet_users": 62.50002848,
+    "EG.ELC.ACCS.ZS": 98.09999847,
+    "population": 3278292
+  },
+  {
+    "iso3c": "MRT",
+    "gni_per_capita": 1670,
+    "learning_poverty": 94.76531982,
+    "unicef_full_closed": 92,
+    "internet_users": 40.8,
+    "EG.ELC.ACCS.ZS": 47.34841919,
+    "population": 4649660
+  },
+  {
+    "iso3c": "MUS",
+    "gni_per_capita": 10230,
+    "learning_poverty": 40.45787811,
+    "unicef_full_closed": 33,
+    "internet_users": 64.88490358,
+    "EG.ELC.ACCS.ZS": 99.66165161,
+    "population": 1265740
+  },
+  {
+    "iso3c": "MYS",
+    "gni_per_capita": 10570,
+    "learning_poverty": 42.02563477,
+    "unicef_full_closed": 99,
+    "internet_users": 89.55501192,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 32365998
+  },
+  {
+    "iso3c": "NER",
+    "gni_per_capita": 550,
+    "learning_poverty": 90.43682098,
+    "unicef_full_closed": 83,
+    "internet_users": 10.22431156,
+    "EG.ELC.ACCS.ZS": 19.25190926,
+    "population": 24206636
+  },
+  {
+    "iso3c": "NIC",
+    "gni_per_capita": 1770,
+    "learning_poverty": 70.44197845,
+    "unicef_full_closed": 0,
+    "internet_users": 45.2,
+    "EG.ELC.ACCS.ZS": 88.90737915,
+    "population": 6624554
+  },
+  {
+    "iso3c": "NLD",
+    "gni_per_capita": 51070,
+    "learning_poverty": 2.268576622,
+    "unicef_full_closed": 56,
+    "internet_users": 91.33333333,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 17441500
+  },
+  {
+    "iso3c": "NOR",
+    "gni_per_capita": 77880,
+    "learning_poverty": 5.970429897,
+    "unicef_full_closed": 22,
+    "internet_users": 97,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5379475
+  },
+  {
+    "iso3c": "NZL",
+    "gni_per_capita": 41480,
+    "learning_poverty": 11.35290718,
+    "unicef_full_closed": 14,
+    "internet_users": 91.5,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5090200
+  },
+  {
+    "iso3c": "OMN",
+    "gni_per_capita": 15030,
+    "learning_poverty": 41.76449203,
+    "unicef_full_closed": 41,
+    "internet_users": 95.23,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5106622
+  },
+  {
+    "iso3c": "PAK",
+    "gni_per_capita": 1460,
+    "learning_poverty": 76.98406219,
+    "unicef_full_closed": 112,
+    "internet_users": 25,
+    "EG.ELC.ACCS.ZS": 75.37969208,
+    "population": 220892331
+  },
+  {
+    "iso3c": "PAN",
+    "gni_per_capita": 12420,
+    "learning_poverty": 66.579422,
+    "unicef_full_closed": 211,
+    "internet_users": 64.25,
+    "EG.ELC.ACCS.ZS": 96.70463562,
+    "population": 4314768
+  },
+  {
+    "iso3c": "PER",
+    "gni_per_capita": 6060,
+    "learning_poverty": 55.37745285,
+    "unicef_full_closed": 77,
+    "internet_users": 65.25,
+    "EG.ELC.ACCS.ZS": 99.31181335,
+    "population": 32971846
+  },
+  {
+    "iso3c": "PHL",
+    "gni_per_capita": 3430,
+    "learning_poverty": 90.91326141,
+    "unicef_full_closed": 141,
+    "internet_users": 49.8,
+    "EG.ELC.ACCS.ZS": 96.84238434,
+    "population": 109581085
+  },
+  {
+    "iso3c": "POL",
+    "gni_per_capita": 15260,
+    "learning_poverty": 4.776032925,
+    "unicef_full_closed": 96,
+    "internet_users": 83.18488715,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 37899070
+  },
+  {
+    "iso3c": "PRT",
+    "gni_per_capita": 21810,
+    "learning_poverty": 6.01780653,
+    "unicef_full_closed": 34,
+    "internet_users": 78.26166044,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 10297081
+  },
+  {
+    "iso3c": "PRY",
+    "gni_per_capita": 5150,
+    "learning_poverty": 74.7693634,
+    "unicef_full_closed": 158,
+    "internet_users": 73.95751114,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 7132530
+  },
+  {
+    "iso3c": "QAT",
+    "gni_per_capita": 55920,
+    "learning_poverty": 35.65247345,
+    "unicef_full_closed": 68,
+    "internet_users": 99.65284913,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2881060
+  },
+  {
+    "iso3c": "ROU",
+    "gni_per_capita": 12630,
+    "learning_poverty": 17.86032867,
+    "unicef_full_closed": 108,
+    "internet_users": 78.45526741,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 19257520
+  },
+  {
+    "iso3c": "RUS",
+    "gni_per_capita": 10740,
+    "learning_poverty": 3.534235716,
+    "unicef_full_closed": 0,
+    "internet_users": 84.99467026,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 144073139
+  },
+  {
+    "iso3c": "SAU",
+    "gni_per_capita": 22270,
+    "learning_poverty": 38.22376633,
+    "unicef_full_closed": 163,
+    "internet_users": 97.86,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 34813867
+  },
+  {
+    "iso3c": "SEN",
+    "gni_per_capita": 1430,
+    "learning_poverty": 68.56822968,
+    "unicef_full_closed": 63,
+    "internet_users": 42.6,
+    "EG.ELC.ACCS.ZS": 70.36894226,
+    "population": 16743930
+  },
+  {
+    "iso3c": "SGP",
+    "gni_per_capita": 55010,
+    "learning_poverty": 2.757375479,
+    "unicef_full_closed": 19,
+    "internet_users": 92.00434653,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5685807
+  },
+  {
+    "iso3c": "SLV",
+    "gni_per_capita": 3630,
+    "learning_poverty": 54.96239471,
+    "unicef_full_closed": 205,
+    "internet_users": 54.60137027,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 6486201
+  },
+  {
+    "iso3c": "SRB",
+    "gni_per_capita": 7430,
+    "learning_poverty": 9.844299316,
+    "unicef_full_closed": 77,
+    "internet_users": 78.36804077,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 6899126
+  },
+  {
+    "iso3c": "SVK",
+    "gni_per_capita": 18920,
+    "learning_poverty": 23.17461205,
+    "unicef_full_closed": 51,
+    "internet_users": 89.9209082,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 5458827
+  },
+  {
+    "iso3c": "SVN",
+    "gni_per_capita": 25340,
+    "learning_poverty": 5.432384014,
+    "unicef_full_closed": 83,
+    "internet_users": 86.60130109,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 2102419
+  },
+  {
+    "iso3c": "SWE",
+    "gni_per_capita": 54290,
+    "learning_poverty": 2.313278675,
+    "unicef_full_closed": 0,
+    "internet_users": 94.53943122,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 10353442
+  },
+  {
+    "iso3c": "TCD",
+    "gni_per_capita": 630,
+    "learning_poverty": 94.41054535,
+    "unicef_full_closed": 119,
+    "internet_users": 10.4,
+    "EG.ELC.ACCS.ZS": 11.08011723,
+    "population": 16425859
+  },
+  {
+    "iso3c": "TGO",
+    "gni_per_capita": 920,
+    "learning_poverty": 81.65792084,
+    "unicef_full_closed": 52,
+    "internet_users": 24,
+    "EG.ELC.ACCS.ZS": 53.99743271,
+    "population": 8278737
+  },
+  {
+    "iso3c": "THA",
+    "gni_per_capita": 7070,
+    "learning_poverty": 23.4157753,
+    "unicef_full_closed": 64,
+    "internet_users": 77.84374066,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 69799978
+  },
+  {
+    "iso3c": "TTO",
+    "gni_per_capita": 15910,
+    "learning_poverty": 20.64458275,
+    "unicef_full_closed": 90,
+    "internet_users": 70.6,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 1399491
+  },
+  {
+    "iso3c": "TUN",
+    "gni_per_capita": 3300,
+    "learning_poverty": 65.5328598,
+    "unicef_full_closed": 75,
+    "internet_users": 71.9,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 11818618
+  },
+  {
+    "iso3c": "TUR",
+    "gni_per_capita": 9040,
+    "learning_poverty": 14.50302601,
+    "unicef_full_closed": 129,
+    "internet_users": 77.67,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 84339067
+  },
+  {
+    "iso3c": "UGA",
+    "gni_per_capita": 800,
+    "learning_poverty": 81.92336273,
+    "unicef_full_closed": 149,
+    "internet_users": 19.9,
+    "EG.ELC.ACCS.ZS": 42.07441711,
+    "population": 45741000
+  },
+  {
+    "iso3c": "UKR",
+    "gni_per_capita": 3570,
+    "learning_poverty": 27.88031006,
+    "unicef_full_closed": 89,
+    "internet_users": 75.03790912,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 44132049
+  },
+  {
+    "iso3c": "URY",
+    "gni_per_capita": 15740,
+    "learning_poverty": 41.55545425,
+    "unicef_full_closed": 20,
+    "internet_users": 86.1,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 3473727
+  },
+  {
+    "iso3c": "USA",
+    "gni_per_capita": 64140,
+    "learning_poverty": 4.251830101,
+    "unicef_full_closed": 0,
+    "internet_users": 90.9,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 331501080
+  },
+  {
+    "iso3c": "VNM",
+    "gni_per_capita": 3390,
+    "learning_poverty": 18.12091637,
+    "unicef_full_closed": 24,
+    "internet_users": 70.3,
+    "EG.ELC.ACCS.ZS": 100,
+    "population": 97338583
+  },
+  {
+    "iso3c": "YEM",
+    "gni_per_capita": 670,
+    "learning_poverty": 94.66005707,
+    "unicef_full_closed": 70,
+    "internet_users": 26.71835477,
+    "EG.ELC.ACCS.ZS": 73.75792694,
+    "population": 29825968
+  },
+  {
+    "iso3c": "ZAF",
+    "gni_per_capita": 6010,
+    "learning_poverty": 78.90949249,
+    "unicef_full_closed": 54,
+    "internet_users": 70,
+    "EG.ELC.ACCS.ZS": 84.38553619,
+    "population": 59308690
+  }
+]

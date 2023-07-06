@@ -1,0 +1,870 @@
+[
+  {
+    "iso3c": "WLD",
+    "percapita_catch": 11.6
+  },
+  {
+    "iso3c": "ABW",
+    "percapita_catch": 1.5
+  },
+  {
+    "iso3c": "AFG",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "AGO",
+    "percapita_catch": 15.3
+  },
+  {
+    "iso3c": "ALB",
+    "percapita_catch": 3.4
+  },
+  {
+    "iso3c": "AND",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "ARE",
+    "percapita_catch": 6.5
+  },
+  {
+    "iso3c": "ARG",
+    "percapita_catch": 18.6
+  },
+  {
+    "iso3c": "ARM",
+    "percapita_catch": 0.3
+  },
+  {
+    "iso3c": "ASM",
+    "percapita_catch": 23.5
+  },
+  {
+    "iso3c": "ATG",
+    "percapita_catch": 34.4
+  },
+  {
+    "iso3c": "AUS",
+    "percapita_catch": 6.6
+  },
+  {
+    "iso3c": "AUT",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "AZE",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "BDI",
+    "percapita_catch": 1.6
+  },
+  {
+    "iso3c": "BEL",
+    "percapita_catch": 1.5
+  },
+  {
+    "iso3c": "BEN",
+    "percapita_catch": 5.7
+  },
+  {
+    "iso3c": "BFA",
+    "percapita_catch": 1.3
+  },
+  {
+    "iso3c": "BGD",
+    "percapita_catch": 11.7
+  },
+  {
+    "iso3c": "BGR",
+    "percapita_catch": 1.3
+  },
+  {
+    "iso3c": "BHR",
+    "percapita_catch": 10.7
+  },
+  {
+    "iso3c": "BHS",
+    "percapita_catch": 20.6
+  },
+  {
+    "iso3c": "BIH",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "BLR",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "BLZ",
+    "percapita_catch": 479
+  },
+  {
+    "iso3c": "BMU",
+    "percapita_catch": 6.6
+  },
+  {
+    "iso3c": "BOL",
+    "percapita_catch": 0.6
+  },
+  {
+    "iso3c": "BRA",
+    "percapita_catch": 3.5
+  },
+  {
+    "iso3c": "BRB",
+    "percapita_catch": 3
+  },
+  {
+    "iso3c": "BRN",
+    "percapita_catch": 34.3
+  },
+  {
+    "iso3c": "BTN",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "BWA",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "CAF",
+    "percapita_catch": 5.1
+  },
+  {
+    "iso3c": "CAN",
+    "percapita_catch": 19.4
+  },
+  {
+    "iso3c": "CHE",
+    "percapita_catch": 0.2
+  },
+  {
+    "iso3c": "CHI",
+    "percapita_catch": 12.7
+  },
+  {
+    "iso3c": "CHL",
+    "percapita_catch": 102.4
+  },
+  {
+    "iso3c": "CHN",
+    "percapita_catch": 9.2
+  },
+  {
+    "iso3c": "CIV",
+    "percapita_catch": 3.8
+  },
+  {
+    "iso3c": "CMR",
+    "percapita_catch": 10.7
+  },
+  {
+    "iso3c": "COD",
+    "percapita_catch": 2.4
+  },
+  {
+    "iso3c": "COG",
+    "percapita_catch": 11.9
+  },
+  {
+    "iso3c": "COL",
+    "percapita_catch": 2.5
+  },
+  {
+    "iso3c": "COM",
+    "percapita_catch": 23.6
+  },
+  {
+    "iso3c": "CPV",
+    "percapita_catch": 19.8
+  },
+  {
+    "iso3c": "CRI",
+    "percapita_catch": 5.7
+  },
+  {
+    "iso3c": "CUB",
+    "percapita_catch": 1.6
+  },
+  {
+    "iso3c": "CUW",
+    "percapita_catch": 164.3
+  },
+  {
+    "iso3c": "CYM",
+    "percapita_catch": 1.8
+  },
+  {
+    "iso3c": "CYP",
+    "percapita_catch": 1.1
+  },
+  {
+    "iso3c": "CZE",
+    "percapita_catch": 0.3
+  },
+  {
+    "iso3c": "DEU",
+    "percapita_catch": 2.3
+  },
+  {
+    "iso3c": "DJI",
+    "percapita_catch": 2.8
+  },
+  {
+    "iso3c": "DMA",
+    "percapita_catch": 4
+  },
+  {
+    "iso3c": "DNK",
+    "percapita_catch": 79.7
+  },
+  {
+    "iso3c": "DOM",
+    "percapita_catch": 1.6
+  },
+  {
+    "iso3c": "DZA",
+    "percapita_catch": 1.8
+  },
+  {
+    "iso3c": "ECU",
+    "percapita_catch": 48.5
+  },
+  {
+    "iso3c": "EGY",
+    "percapita_catch": 3.9
+  },
+  {
+    "iso3c": "ERI",
+    "percapita_catch": 1.3
+  },
+  {
+    "iso3c": "ESP",
+    "percapita_catch": 17
+  },
+  {
+    "iso3c": "EST",
+    "percapita_catch": 54.1
+  },
+  {
+    "iso3c": "ETH",
+    "percapita_catch": 0.5
+  },
+  {
+    "iso3c": "FIN",
+    "percapita_catch": 22.6
+  },
+  {
+    "iso3c": "FJI",
+    "percapita_catch": 35.4
+  },
+  {
+    "iso3c": "FRA",
+    "percapita_catch": 6.7
+  },
+  {
+    "iso3c": "FRO",
+    "percapita_catch": 10221.5
+  },
+  {
+    "iso3c": "FSM",
+    "percapita_catch": 1469
+  },
+  {
+    "iso3c": "GAB",
+    "percapita_catch": 12.8
+  },
+  {
+    "iso3c": "GBR",
+    "percapita_catch": 9.4
+  },
+  {
+    "iso3c": "GEO",
+    "percapita_catch": 58.7
+  },
+  {
+    "iso3c": "GHA",
+    "percapita_catch": 12
+  },
+  {
+    "iso3c": "GIB",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "GIN",
+    "percapita_catch": 24
+  },
+  {
+    "iso3c": "GMB",
+    "percapita_catch": 19.9
+  },
+  {
+    "iso3c": "GNB",
+    "percapita_catch": 30.7
+  },
+  {
+    "iso3c": "GNQ",
+    "percapita_catch": 3.9
+  },
+  {
+    "iso3c": "GRC",
+    "percapita_catch": 5.6
+  },
+  {
+    "iso3c": "GRD",
+    "percapita_catch": 8.2
+  },
+  {
+    "iso3c": "GRL",
+    "percapita_catch": 4784
+  },
+  {
+    "iso3c": "GTM",
+    "percapita_catch": 0.6
+  },
+  {
+    "iso3c": "GUM",
+    "percapita_catch": 0.2
+  },
+  {
+    "iso3c": "GUY",
+    "percapita_catch": 42.5
+  },
+  {
+    "iso3c": "HKG",
+    "percapita_catch": 15.5
+  },
+  {
+    "iso3c": "HND",
+    "percapita_catch": 1.6
+  },
+  {
+    "iso3c": "HRV",
+    "percapita_catch": 16
+  },
+  {
+    "iso3c": "HTI",
+    "percapita_catch": 1.4
+  },
+  {
+    "iso3c": "HUN",
+    "percapita_catch": 0.5
+  },
+  {
+    "iso3c": "IDN",
+    "percapita_catch": 26.1
+  },
+  {
+    "iso3c": "IMN",
+    "percapita_catch": 36.1
+  },
+  {
+    "iso3c": "IND",
+    "percapita_catch": 3.5
+  },
+  {
+    "iso3c": "IRL",
+    "percapita_catch": 41
+  },
+  {
+    "iso3c": "IRN",
+    "percapita_catch": 8.9
+  },
+  {
+    "iso3c": "IRQ",
+    "percapita_catch": 1
+  },
+  {
+    "iso3c": "ISL",
+    "percapita_catch": 2791.9
+  },
+  {
+    "iso3c": "ISR",
+    "percapita_catch": 0.2
+  },
+  {
+    "iso3c": "ITA",
+    "percapita_catch": 2.5
+  },
+  {
+    "iso3c": "JAM",
+    "percapita_catch": 3.9
+  },
+  {
+    "iso3c": "JOR",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "JPN",
+    "percapita_catch": 24.6
+  },
+  {
+    "iso3c": "KAZ",
+    "percapita_catch": 2.2
+  },
+  {
+    "iso3c": "KEN",
+    "percapita_catch": 2.5
+  },
+  {
+    "iso3c": "KGZ",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "KHM",
+    "percapita_catch": 30.6
+  },
+  {
+    "iso3c": "KIR",
+    "percapita_catch": 1483.4
+  },
+  {
+    "iso3c": "KNA",
+    "percapita_catch": 7.8
+  },
+  {
+    "iso3c": "KOR",
+    "percapita_catch": 25.3
+  },
+  {
+    "iso3c": "KWT",
+    "percapita_catch": 0.8
+  },
+  {
+    "iso3c": "LAO",
+    "percapita_catch": 9.6
+  },
+  {
+    "iso3c": "LBN",
+    "percapita_catch": 0.5
+  },
+  {
+    "iso3c": "LBR",
+    "percapita_catch": 4.8
+  },
+  {
+    "iso3c": "LBY",
+    "percapita_catch": 4.7
+  },
+  {
+    "iso3c": "LCA",
+    "percapita_catch": 7.9
+  },
+  {
+    "iso3c": "LIE",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "LKA",
+    "percapita_catch": 17.1
+  },
+  {
+    "iso3c": "LSO",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "LTU",
+    "percapita_catch": 34.3
+  },
+  {
+    "iso3c": "LUX",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "LVA",
+    "percapita_catch": 32.7
+  },
+  {
+    "iso3c": "MAC",
+    "percapita_catch": 2.2
+  },
+  {
+    "iso3c": "MAF",
+    "percapita_catch": 2.8
+  },
+  {
+    "iso3c": "MAR",
+    "percapita_catch": 38.1
+  },
+  {
+    "iso3c": "MCO",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "MDA",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "MDG",
+    "percapita_catch": 3.9
+  },
+  {
+    "iso3c": "MDV",
+    "percapita_catch": 278.1
+  },
+  {
+    "iso3c": "MEX",
+    "percapita_catch": 12.8
+  },
+  {
+    "iso3c": "MHL",
+    "percapita_catch": 2281.4
+  },
+  {
+    "iso3c": "MKD",
+    "percapita_catch": 0.2
+  },
+  {
+    "iso3c": "MLI",
+    "percapita_catch": 4.9
+  },
+  {
+    "iso3c": "MLT",
+    "percapita_catch": 4.8
+  },
+  {
+    "iso3c": "MMR",
+    "percapita_catch": 31
+  },
+  {
+    "iso3c": "MNE",
+    "percapita_catch": 1.3
+  },
+  {
+    "iso3c": "MNG",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "MNP",
+    "percapita_catch": 3.8
+  },
+  {
+    "iso3c": "MOZ",
+    "percapita_catch": 11.6
+  },
+  {
+    "iso3c": "MRT",
+    "percapita_catch": 186.4
+  },
+  {
+    "iso3c": "MUS",
+    "percapita_catch": 24.2
+  },
+  {
+    "iso3c": "MWI",
+    "percapita_catch": 8.6
+  },
+  {
+    "iso3c": "MYS",
+    "percapita_catch": 39.7
+  },
+  {
+    "iso3c": "NAM",
+    "percapita_catch": 162.4
+  },
+  {
+    "iso3c": "NCL",
+    "percapita_catch": 12.2
+  },
+  {
+    "iso3c": "NER",
+    "percapita_catch": 1.9
+  },
+  {
+    "iso3c": "NGA",
+    "percapita_catch": 3.8
+  },
+  {
+    "iso3c": "NIC",
+    "percapita_catch": 8.1
+  },
+  {
+    "iso3c": "NLD",
+    "percapita_catch": 17.1
+  },
+  {
+    "iso3c": "NOR",
+    "percapita_catch": 443
+  },
+  {
+    "iso3c": "NPL",
+    "percapita_catch": 0.7
+  },
+  {
+    "iso3c": "NRU",
+    "percapita_catch": 9624.3
+  },
+  {
+    "iso3c": "NZL",
+    "percapita_catch": 66.8
+  },
+  {
+    "iso3c": "OMN",
+    "percapita_catch": 204
+  },
+  {
+    "iso3c": "PAK",
+    "percapita_catch": 2.1
+  },
+  {
+    "iso3c": "PAN",
+    "percapita_catch": 40.7
+  },
+  {
+    "iso3c": "PER",
+    "percapita_catch": 193.6
+  },
+  {
+    "iso3c": "PHL",
+    "percapita_catch": 16.2
+  },
+  {
+    "iso3c": "PLW",
+    "percapita_catch": 43.6
+  },
+  {
+    "iso3c": "PNG",
+    "percapita_catch": 18.9
+  },
+  {
+    "iso3c": "POL",
+    "percapita_catch": 5.3
+  },
+  {
+    "iso3c": "PRI",
+    "percapita_catch": 0.5
+  },
+  {
+    "iso3c": "PRK",
+    "percapita_catch": 8
+  },
+  {
+    "iso3c": "PRT",
+    "percapita_catch": 17.2
+  },
+  {
+    "iso3c": "PRY",
+    "percapita_catch": 2.6
+  },
+  {
+    "iso3c": "PSE",
+    "percapita_catch": 0.9
+  },
+  {
+    "iso3c": "PYF",
+    "percapita_catch": 43.5
+  },
+  {
+    "iso3c": "QAT",
+    "percapita_catch": 6.2
+  },
+  {
+    "iso3c": "ROU",
+    "percapita_catch": 0.3
+  },
+  {
+    "iso3c": "RUS",
+    "percapita_catch": 36
+  },
+  {
+    "iso3c": "RWA",
+    "percapita_catch": 2.4
+  },
+  {
+    "iso3c": "SAU",
+    "percapita_catch": 1.9
+  },
+  {
+    "iso3c": "SDN",
+    "percapita_catch": 0.8
+  },
+  {
+    "iso3c": "SEN",
+    "percapita_catch": 30.5
+  },
+  {
+    "iso3c": "SGP",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "SLB",
+    "percapita_catch": 70.4
+  },
+  {
+    "iso3c": "SLE",
+    "percapita_catch": 24.3
+  },
+  {
+    "iso3c": "SLV",
+    "percapita_catch": 9.3
+  },
+  {
+    "iso3c": "SMR",
+    "percapita_catch": 0
+  },
+  {
+    "iso3c": "SOM",
+    "percapita_catch": 1.8
+  },
+  {
+    "iso3c": "SRB",
+    "percapita_catch": 0.3
+  },
+  {
+    "iso3c": "SSD",
+    "percapita_catch": 3
+  },
+  {
+    "iso3c": "STP",
+    "percapita_catch": 27
+  },
+  {
+    "iso3c": "SUR",
+    "percapita_catch": 52.4
+  },
+  {
+    "iso3c": "SVK",
+    "percapita_catch": 0.3
+  },
+  {
+    "iso3c": "SVN",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "SWE",
+    "percapita_catch": 15.4
+  },
+  {
+    "iso3c": "SWZ",
+    "percapita_catch": 0.1
+  },
+  {
+    "iso3c": "SXM",
+    "percapita_catch": 5.9
+  },
+  {
+    "iso3c": "SYC",
+    "percapita_catch": 1402.1
+  },
+  {
+    "iso3c": "SYR",
+    "percapita_catch": 0.2
+  },
+  {
+    "iso3c": "TCA",
+    "percapita_catch": 50.5
+  },
+  {
+    "iso3c": "TCD",
+    "percapita_catch": 6
+  },
+  {
+    "iso3c": "TGO",
+    "percapita_catch": 2.1
+  },
+  {
+    "iso3c": "THA",
+    "percapita_catch": 19.7
+  },
+  {
+    "iso3c": "TJK",
+    "percapita_catch": 0.2
+  },
+  {
+    "iso3c": "TKM",
+    "percapita_catch": 2.4
+  },
+  {
+    "iso3c": "TLS",
+    "percapita_catch": 3.7
+  },
+  {
+    "iso3c": "TON",
+    "percapita_catch": 11
+  },
+  {
+    "iso3c": "TTO",
+    "percapita_catch": 8.6
+  },
+  {
+    "iso3c": "TUN",
+    "percapita_catch": 10.1
+  },
+  {
+    "iso3c": "TUR",
+    "percapita_catch": 3.9
+  },
+  {
+    "iso3c": "TUV",
+    "percapita_catch": 2775.4
+  },
+  {
+    "iso3c": "TZA",
+    "percapita_catch": 7.5
+  },
+  {
+    "iso3c": "UGA",
+    "percapita_catch": 13.6
+  },
+  {
+    "iso3c": "UKR",
+    "percapita_catch": 1.4
+  },
+  {
+    "iso3c": "URY",
+    "percapita_catch": 19.4
+  },
+  {
+    "iso3c": "USA",
+    "percapita_catch": 12.9
+  },
+  {
+    "iso3c": "UZB",
+    "percapita_catch": 1.5
+  },
+  {
+    "iso3c": "VCT",
+    "percapita_catch": 15.2
+  },
+  {
+    "iso3c": "VEN",
+    "percapita_catch": 7.9
+  },
+  {
+    "iso3c": "VGB",
+    "percapita_catch": 36.4
+  },
+  {
+    "iso3c": "VIR",
+    "percapita_catch": 4
+  },
+  {
+    "iso3c": "VNM",
+    "percapita_catch": 36.3
+  },
+  {
+    "iso3c": "VUT",
+    "percapita_catch": 175.2
+  },
+  {
+    "iso3c": "WSM",
+    "percapita_catch": 41.9
+  },
+  {
+    "iso3c": "YEM",
+    "percapita_catch": 4
+  },
+  {
+    "iso3c": "ZAF",
+    "percapita_catch": 8.2
+  },
+  {
+    "iso3c": "ZMB",
+    "percapita_catch": 5.4
+  },
+  {
+    "iso3c": "ZWE",
+    "percapita_catch": 1.4
+  }
+]

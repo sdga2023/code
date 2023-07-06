@@ -1,0 +1,1409 @@
+[
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Guyana",
+    "iso3c": "GUY",
+    "GDP_growth_rate": 43.47955594
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Timor-Leste",
+    "iso3c": "TLS",
+    "GDP_growth_rate": 10.37185524
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Ethiopia",
+    "iso3c": "ETH",
+    "GDP_growth_rate": 6.059530886
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Ireland",
+    "iso3c": "IRL",
+    "GDP_growth_rate": 5.866975509
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Guinea",
+    "iso3c": "GIN",
+    "GDP_growth_rate": 4.637277536
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Tajikistan",
+    "iso3c": "TJK",
+    "GDP_growth_rate": 4.400049702
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "American Samoa",
+    "iso3c": "ASM",
+    "GDP_growth_rate": 3.921568627
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Benin",
+    "iso3c": "BEN",
+    "GDP_growth_rate": 3.8487924
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Niger",
+    "iso3c": "NER",
+    "GDP_growth_rate": 3.580006403
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Egypt, Arab Rep.",
+    "iso3c": "EGY",
+    "GDP_growth_rate": 3.569669475
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bangladesh",
+    "iso3c": "BGD",
+    "GDP_growth_rate": 3.448021455
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Myanmar",
+    "iso3c": "MMR",
+    "GDP_growth_rate": 3.1737744
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Sao Tome and Principe",
+    "iso3c": "STP",
+    "GDP_growth_rate": 3.089725555
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Uganda",
+    "iso3c": "UGA",
+    "GDP_growth_rate": 2.951306422
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Vietnam",
+    "iso3c": "VNM",
+    "GDP_growth_rate": 2.94
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Somalia",
+    "iso3c": "SOM",
+    "GDP_growth_rate": 2.440210973
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "China",
+    "iso3c": "CHN",
+    "GDP_growth_rate": 2.239701857
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Tanzania",
+    "iso3c": "TZA",
+    "GDP_growth_rate": 1.996343506
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cote d'Ivoire",
+    "iso3c": "CIV",
+    "GDP_growth_rate": 1.958332479
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Burkina Faso",
+    "iso3c": "BFA",
+    "GDP_growth_rate": 1.93032489
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Uzbekistan",
+    "iso3c": "UZB",
+    "GDP_growth_rate": 1.886245259
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Turkiye",
+    "iso3c": "TUR",
+    "GDP_growth_rate": 1.793551396
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Iran, Islamic Rep.",
+    "iso3c": "IRN",
+    "GDP_growth_rate": 1.761797091
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Togo",
+    "iso3c": "TGO",
+    "GDP_growth_rate": 1.752824967
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Congo, Dem. Rep.",
+    "iso3c": "COD",
+    "GDP_growth_rate": 1.735422764
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Tuvalu",
+    "iso3c": "TUV",
+    "GDP_growth_rate": 1.515151515
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Senegal",
+    "iso3c": "SEN",
+    "GDP_growth_rate": 1.325505141
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Djibouti",
+    "iso3c": "DJI",
+    "GDP_growth_rate": 1.202022033
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Nauru",
+    "iso3c": "NRU",
+    "GDP_growth_rate": 1.149425287
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Brunei Darussalam",
+    "iso3c": "BRN",
+    "GDP_growth_rate": 1.13357335
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Central African Republic",
+    "iso3c": "CAF",
+    "GDP_growth_rate": 0.899999997
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Malawi",
+    "iso3c": "MWI",
+    "GDP_growth_rate": 0.799998331
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Tonga",
+    "iso3c": "TON",
+    "GDP_growth_rate": 0.654698596
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Ghana",
+    "iso3c": "GHA",
+    "GDP_growth_rate": 0.513941648
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Lao PDR",
+    "iso3c": "LAO",
+    "GDP_growth_rate": 0.50303183
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cameroon",
+    "iso3c": "CMR",
+    "GDP_growth_rate": 0.491914742
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Greenland",
+    "iso3c": "GRL",
+    "GDP_growth_rate": 0.35653166
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Burundi",
+    "iso3c": "BDI",
+    "GDP_growth_rate": 0.327156893
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Australia",
+    "iso3c": "AUS",
+    "GDP_growth_rate": -0.003836559
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Lithuania",
+    "iso3c": "LTU",
+    "GDP_growth_rate": -0.132431461
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Gambia, The",
+    "iso3c": "GMB",
+    "GDP_growth_rate": -0.201822911
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Kenya",
+    "iso3c": "KEN",
+    "GDP_growth_rate": -0.250155705
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Comoros",
+    "iso3c": "COM",
+    "GDP_growth_rate": -0.293049624
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Kiribati",
+    "iso3c": "KIR",
+    "GDP_growth_rate": -0.546986884
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Norway",
+    "iso3c": "NOR",
+    "GDP_growth_rate": -0.717182669
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Paraguay",
+    "iso3c": "PRY",
+    "GDP_growth_rate": -0.819785391
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Korea, Rep.",
+    "iso3c": "KOR",
+    "GDP_growth_rate": -0.852031429
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Belarus",
+    "iso3c": "BLR",
+    "GDP_growth_rate": -0.9
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Serbia",
+    "iso3c": "SRB",
+    "GDP_growth_rate": -0.944596516
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Mozambique",
+    "iso3c": "MOZ",
+    "GDP_growth_rate": -1.233905711
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Mali",
+    "iso3c": "MLI",
+    "GDP_growth_rate": -1.235450447
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "New Zealand",
+    "iso3c": "NZL",
+    "GDP_growth_rate": -1.252664529
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Pakistan",
+    "iso3c": "PAK",
+    "GDP_growth_rate": -1.329519732
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Guatemala",
+    "iso3c": "GTM",
+    "GDP_growth_rate": -1.519330035
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Jordan",
+    "iso3c": "JOR",
+    "GDP_growth_rate": -1.551384466
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Chad",
+    "iso3c": "TCD",
+    "GDP_growth_rate": -1.600006737
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Mauritania",
+    "iso3c": "MRT",
+    "GDP_growth_rate": -1.763321794
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Micronesia, Fed. Sts.",
+    "iso3c": "FSM",
+    "GDP_growth_rate": -1.765397518
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Luxembourg",
+    "iso3c": "LUX",
+    "GDP_growth_rate": -1.776240229
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Nicaragua",
+    "iso3c": "NIC",
+    "GDP_growth_rate": -1.789407999
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Nigeria",
+    "iso3c": "NGA",
+    "GDP_growth_rate": -1.794253082
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Gabon",
+    "iso3c": "GAB",
+    "GDP_growth_rate": -1.83776093
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Eswatini",
+    "iso3c": "SWZ",
+    "GDP_growth_rate": -1.85052471
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Sierra Leone",
+    "iso3c": "SLE",
+    "GDP_growth_rate": -1.96894782
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Denmark",
+    "iso3c": "DNK",
+    "GDP_growth_rate": -2.062124959
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Indonesia",
+    "iso3c": "IDN",
+    "GDP_growth_rate": -2.065004941
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Virgin Islands (U.S.)",
+    "iso3c": "VIR",
+    "GDP_growth_rate": -2.14700682
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Israel",
+    "iso3c": "ISR",
+    "GDP_growth_rate": -2.153428489
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Marshall Islands",
+    "iso3c": "MHL",
+    "GDP_growth_rate": -2.207605402
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Finland",
+    "iso3c": "FIN",
+    "GDP_growth_rate": -2.299256085
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Afghanistan",
+    "iso3c": "AFG",
+    "GDP_growth_rate": -2.351100673
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Nepal",
+    "iso3c": "NPL",
+    "GDP_growth_rate": -2.369620627
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Switzerland",
+    "iso3c": "CHE",
+    "GDP_growth_rate": -2.392826042
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Guinea-Bissau",
+    "iso3c": "GNB",
+    "GDP_growth_rate": -2.399999999
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Kazakhstan",
+    "iso3c": "KAZ",
+    "GDP_growth_rate": -2.5
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Poland",
+    "iso3c": "POL",
+    "GDP_growth_rate": -2.540658682
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Samoa",
+    "iso3c": "WSM",
+    "GDP_growth_rate": -2.589889873
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Russian Federation",
+    "iso3c": "RUS",
+    "GDP_growth_rate": -2.683296216
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Zambia",
+    "iso3c": "ZMB",
+    "GDP_growth_rate": -2.785055065
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Sweden",
+    "iso3c": "SWE",
+    "GDP_growth_rate": -2.94418192
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Estonia",
+    "iso3c": "EST",
+    "GDP_growth_rate": -2.951069313
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Liberia",
+    "iso3c": "LBR",
+    "GDP_growth_rate": -2.98249215
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cambodia",
+    "iso3c": "KHM",
+    "GDP_growth_rate": -3.096006731
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bosnia and Herzegovina",
+    "iso3c": "BIH",
+    "GDP_growth_rate": -3.119290497
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Oman",
+    "iso3c": "OMN",
+    "GDP_growth_rate": -3.20093599
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Haiti",
+    "iso3c": "HTI",
+    "GDP_growth_rate": -3.343372612
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Rwanda",
+    "iso3c": "RWA",
+    "GDP_growth_rate": -3.35885332
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "United States",
+    "iso3c": "USA",
+    "GDP_growth_rate": -3.404589652
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Albania",
+    "iso3c": "ALB",
+    "GDP_growth_rate": -3.481630373
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Papua New Guinea",
+    "iso3c": "PNG",
+    "GDP_growth_rate": -3.499999987
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Sri Lanka",
+    "iso3c": "LKA",
+    "GDP_growth_rate": -3.615191389
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Sudan",
+    "iso3c": "SDN",
+    "GDP_growth_rate": -3.629805626
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Qatar",
+    "iso3c": "QAT",
+    "GDP_growth_rate": -3.640449805
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Romania",
+    "iso3c": "ROU",
+    "GDP_growth_rate": -3.747907695
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Ukraine",
+    "iso3c": "UKR",
+    "GDP_growth_rate": -3.7528041
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Latvia",
+    "iso3c": "LVA",
+    "GDP_growth_rate": -3.7690784
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Netherlands",
+    "iso3c": "NLD",
+    "GDP_growth_rate": -3.798635993
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Brazil",
+    "iso3c": "BRA",
+    "GDP_growth_rate": -3.878676334
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Puerto Rico",
+    "iso3c": "PRI",
+    "GDP_growth_rate": -3.903305193
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Costa Rica",
+    "iso3c": "CRI",
+    "GDP_growth_rate": -4.050908171
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Saudi Arabia",
+    "iso3c": "SAU",
+    "GDP_growth_rate": -4.137670376
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Singapore",
+    "iso3c": "SGP",
+    "GDP_growth_rate": -4.143105621
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Slovenia",
+    "iso3c": "SVN",
+    "GDP_growth_rate": -4.229261389
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Equatorial Guinea",
+    "iso3c": "GNQ",
+    "GDP_growth_rate": -4.241478166
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Azerbaijan",
+    "iso3c": "AZE",
+    "GDP_growth_rate": -4.300000102
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Solomon Islands",
+    "iso3c": "SLB",
+    "GDP_growth_rate": -4.319699119
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Slovak Republic",
+    "iso3c": "SVK",
+    "GDP_growth_rate": -4.358753808
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bulgaria",
+    "iso3c": "BGR",
+    "GDP_growth_rate": -4.387149834
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Hungary",
+    "iso3c": "HUN",
+    "GDP_growth_rate": -4.46322087
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Japan",
+    "iso3c": "JPN",
+    "GDP_growth_rate": -4.506904542
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Mongolia",
+    "iso3c": "MNG",
+    "GDP_growth_rate": -4.557751973
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Germany",
+    "iso3c": "DEU",
+    "GDP_growth_rate": -4.569616717
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bahrain",
+    "iso3c": "BHR",
+    "GDP_growth_rate": -4.935854979
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cyprus",
+    "iso3c": "CYP",
+    "GDP_growth_rate": -4.984292657
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Algeria",
+    "iso3c": "DZA",
+    "GDP_growth_rate": -5.1
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Canada",
+    "iso3c": "CAN",
+    "GDP_growth_rate": -5.233024303
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "St. Vincent and the Grenadines",
+    "iso3c": "VCT",
+    "GDP_growth_rate": -5.312647581
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Kosovo",
+    "iso3c": "XKX",
+    "GDP_growth_rate": -5.340275302
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Vanuatu",
+    "iso3c": "VUT",
+    "GDP_growth_rate": -5.401921061
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Angola",
+    "iso3c": "AGO",
+    "GDP_growth_rate": -5.500000003
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Malaysia",
+    "iso3c": "MYS",
+    "GDP_growth_rate": -5.646939932
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Belgium",
+    "iso3c": "BEL",
+    "GDP_growth_rate": -5.680733655
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cayman Islands",
+    "iso3c": "CYM",
+    "GDP_growth_rate": -5.683975212
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Czech Republic",
+    "iso3c": "CZE",
+    "GDP_growth_rate": -5.797813877
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Chile",
+    "iso3c": "CHL",
+    "GDP_growth_rate": -5.978224062
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "North Macedonia",
+    "iso3c": "MKD",
+    "GDP_growth_rate": -6.110886711
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Uruguay",
+    "iso3c": "URY",
+    "GDP_growth_rate": -6.121476278
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "United Arab Emirates",
+    "iso3c": "ARE",
+    "GDP_growth_rate": -6.134500803
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Thailand",
+    "iso3c": "THA",
+    "GDP_growth_rate": -6.19548916
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Congo, Rep.",
+    "iso3c": "COG",
+    "GDP_growth_rate": -6.239319632
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Zimbabwe",
+    "iso3c": "ZWE",
+    "GDP_growth_rate": -6.248748224
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Morocco",
+    "iso3c": "MAR",
+    "GDP_growth_rate": -6.29325316
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "South Africa",
+    "iso3c": "ZAF",
+    "GDP_growth_rate": -6.431974826
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Hong Kong SAR, China",
+    "iso3c": "HKG",
+    "GDP_growth_rate": -6.496562376
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Iceland",
+    "iso3c": "ISL",
+    "GDP_growth_rate": -6.50391225
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "India",
+    "iso3c": "IND",
+    "GDP_growth_rate": -6.596080522
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "San Marino",
+    "iso3c": "SMR",
+    "GDP_growth_rate": -6.64791226
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Dominican Republic",
+    "iso3c": "DOM",
+    "GDP_growth_rate": -6.720239373
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Austria",
+    "iso3c": "AUT",
+    "GDP_growth_rate": -6.734514076
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Georgia",
+    "iso3c": "GEO",
+    "GDP_growth_rate": -6.760439817
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bermuda",
+    "iso3c": "BMU",
+    "GDP_growth_rate": -6.853458192
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Colombia",
+    "iso3c": "COL",
+    "GDP_growth_rate": -7.048151208
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Madagascar",
+    "iso3c": "MDG",
+    "GDP_growth_rate": -7.14061
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Trinidad and Tobago",
+    "iso3c": "TTO",
+    "GDP_growth_rate": -7.374285265
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Moldova",
+    "iso3c": "MDA",
+    "GDP_growth_rate": -7.380182154
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Armenia",
+    "iso3c": "ARM",
+    "GDP_growth_rate": -7.4
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Lesotho",
+    "iso3c": "LSO",
+    "GDP_growth_rate": -7.556733624
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "French Polynesia",
+    "iso3c": "PYF",
+    "GDP_growth_rate": -7.600011731
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Seychelles",
+    "iso3c": "SYC",
+    "GDP_growth_rate": -7.723517801
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Ecuador",
+    "iso3c": "ECU",
+    "GDP_growth_rate": -7.787607091
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "France",
+    "iso3c": "FRA",
+    "GDP_growth_rate": -7.855256037
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Namibia",
+    "iso3c": "NAM",
+    "GDP_growth_rate": -7.865936625
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Croatia",
+    "iso3c": "HRV",
+    "GDP_growth_rate": -8.099761252
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Mexico",
+    "iso3c": "MEX",
+    "GDP_growth_rate": -8.16735801
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Malta",
+    "iso3c": "MLT",
+    "GDP_growth_rate": -8.348798176
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Kyrgyz Republic",
+    "iso3c": "KGZ",
+    "GDP_growth_rate": -8.398364296
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Portugal",
+    "iso3c": "PRT",
+    "GDP_growth_rate": -8.442455971
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Yemen, Rep.",
+    "iso3c": "YEM",
+    "GDP_growth_rate": -8.500000016
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "El Salvador",
+    "iso3c": "SLV",
+    "GDP_growth_rate": -8.581312158
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Botswana",
+    "iso3c": "BWA",
+    "GDP_growth_rate": -8.726410346
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Tunisia",
+    "iso3c": "TUN",
+    "GDP_growth_rate": -8.73497573
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bolivia",
+    "iso3c": "BOL",
+    "GDP_growth_rate": -8.737884358
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Kuwait",
+    "iso3c": "KWT",
+    "GDP_growth_rate": -8.855278923
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Honduras",
+    "iso3c": "HND",
+    "GDP_growth_rate": -8.964760184
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Greece",
+    "iso3c": "GRC",
+    "GDP_growth_rate": -9.019129085
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Italy",
+    "iso3c": "ITA",
+    "GDP_growth_rate": -9.025668928
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "United Kingdom",
+    "iso3c": "GBR",
+    "GDP_growth_rate": -9.270410835
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Philippines",
+    "iso3c": "PHL",
+    "GDP_growth_rate": -9.518294741
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Palau",
+    "iso3c": "PLW",
+    "GDP_growth_rate": -9.737417943
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Argentina",
+    "iso3c": "ARG",
+    "GDP_growth_rate": -9.895268964
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Jamaica",
+    "iso3c": "JAM",
+    "GDP_growth_rate": -10
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bhutan",
+    "iso3c": "BTN",
+    "GDP_growth_rate": -10.07634116
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Spain",
+    "iso3c": "ESP",
+    "GDP_growth_rate": -10.82288649
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cuba",
+    "iso3c": "CUB",
+    "GDP_growth_rate": -10.94834097
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Peru",
+    "iso3c": "PER",
+    "GDP_growth_rate": -10.95269893
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Andorra",
+    "iso3c": "AND",
+    "GDP_growth_rate": -11.18393994
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "West Bank and Gaza",
+    "iso3c": "PSE",
+    "GDP_growth_rate": -11.31846611
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Iraq",
+    "iso3c": "IRQ",
+    "GDP_growth_rate": -11.32419926
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Monaco",
+    "iso3c": "MCO",
+    "GDP_growth_rate": -11.75277338
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Guam",
+    "iso3c": "GUM",
+    "GDP_growth_rate": -11.85001769
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Grenada",
+    "iso3c": "GRD",
+    "GDP_growth_rate": -13.7555278
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Barbados",
+    "iso3c": "BRB",
+    "GDP_growth_rate": -13.98134966
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "St. Kitts and Nevis",
+    "iso3c": "KNA",
+    "GDP_growth_rate": -14.40984867
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Cabo Verde",
+    "iso3c": "CPV",
+    "GDP_growth_rate": -14.78340501
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Mauritius",
+    "iso3c": "MUS",
+    "GDP_growth_rate": -14.89467567
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Fiji",
+    "iso3c": "FJI",
+    "GDP_growth_rate": -15.15081665
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Montenegro",
+    "iso3c": "MNE",
+    "GDP_growth_rate": -15.30689376
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Suriname",
+    "iso3c": "SUR",
+    "GDP_growth_rate": -15.90795119
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Dominica",
+    "iso3c": "DMA",
+    "GDP_growth_rate": -16.60491154
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Belize",
+    "iso3c": "BLZ",
+    "GDP_growth_rate": -16.75012951
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Panama",
+    "iso3c": "PAN",
+    "GDP_growth_rate": -17.9448641
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Curacao",
+    "iso3c": "CUW",
+    "GDP_growth_rate": -18.43847035
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Antigua and Barbuda",
+    "iso3c": "ATG",
+    "GDP_growth_rate": -20.19237057
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "St. Lucia",
+    "iso3c": "LCA",
+    "GDP_growth_rate": -20.37364193
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Aruba",
+    "iso3c": "ABW",
+    "GDP_growth_rate": -22.31894795
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Bahamas, The",
+    "iso3c": "BHS",
+    "GDP_growth_rate": -23.82260759
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Libya",
+    "iso3c": "LBY",
+    "GDP_growth_rate": -23.92978245
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Lebanon",
+    "iso3c": "LBN",
+    "GDP_growth_rate": -25.90773167
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Turks and Caicos Islands",
+    "iso3c": "TCA",
+    "GDP_growth_rate": -26.78287693
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Maldives",
+    "iso3c": "MDV",
+    "GDP_growth_rate": -33.4999021
+  },
+  {
+    "Series Name": "GDP growth (annual %)",
+    "Series Code": "NY.GDP.MKTP.KD.ZG",
+    "Country Name": "Macao SAR, China",
+    "iso3c": "MAC",
+    "GDP_growth_rate": -54.01140215
+  }
+]

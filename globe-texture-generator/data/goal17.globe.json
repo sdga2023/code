@@ -1,0 +1,1304 @@
+[
+  {
+    "iso3": "LUX",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -759.9486
+  },
+  {
+    "iso3": "NOR",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -727.1627
+  },
+  {
+    "iso3": "SWE",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -572.4739
+  },
+  {
+    "iso3": "DNK",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -456.2034
+  },
+  {
+    "iso3": "CHE",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -413.1236
+  },
+  {
+    "iso3": "NLD",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -323.46
+  },
+  {
+    "iso3": "DEU",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -316.9675
+  },
+  {
+    "iso3": "GBR",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -284.4191
+  },
+  {
+    "iso3": "FIN",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -221.3592
+  },
+  {
+    "iso3": "BEL",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -204.4513
+  },
+  {
+    "iso3": "IRL",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -191.7862
+  },
+  {
+    "iso3": "FRA",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -190.7714
+  },
+  {
+    "iso3": "ISL",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -165.2349
+  },
+  {
+    "iso3": "AUT",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -158.5693
+  },
+  {
+    "iso3": "CAN",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -124.5383
+  },
+  {
+    "iso3": "AUS",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -124.0099
+  },
+  {
+    "iso3": "USA",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -109.7756
+  },
+  {
+    "iso3": "NZL",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -104.591
+  },
+  {
+    "iso3": "JPN",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -97.23593
+  },
+  {
+    "iso3": "ITA",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -84.50616
+  },
+  {
+    "iso3": "TUR",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -76.25049
+  },
+  {
+    "iso3": "ESP",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -60.75577
+  },
+  {
+    "iso3": "KOR",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -45.10699
+  },
+  {
+    "iso3": "SVN",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -42.12134
+  },
+  {
+    "iso3": "PRT",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -38.15153
+  },
+  {
+    "iso3": "CZE",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -28.84238
+  },
+  {
+    "iso3": "HUN",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -28.82802
+  },
+  {
+    "iso3": "GRC",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -28.72295
+  },
+  {
+    "iso3": "SVK",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -23.22475
+  },
+  {
+    "iso3": "POL",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -19.49102
+  },
+  {
+    "iso3": "THA",
+    "year": 2021,
+    "donor": 1,
+    "oda_pcap": -1.737563
+  },
+  {
+    "iso3": "MYS",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 0
+  },
+  {
+    "iso3": "CHN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 0
+  },
+  {
+    "iso3": "ARG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 1.011157
+  },
+  {
+    "iso3": "IDN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 1.050719
+  },
+  {
+    "iso3": "IND",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 2.072648
+  },
+  {
+    "iso3": "IRN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 2.173728
+  },
+  {
+    "iso3": "BRA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 3.039187
+  },
+  {
+    "iso3": "KAZ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 3.464862
+  },
+  {
+    "iso3": "DZA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 3.932917
+  },
+  {
+    "iso3": "PRK",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 4.380176
+  },
+  {
+    "iso3": "TKM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 4.569634
+  },
+  {
+    "iso3": "MEX",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 5.138813
+  },
+  {
+    "iso3": "VEN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 5.703391
+  },
+  {
+    "iso3": "CHL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 5.851297
+  },
+  {
+    "iso3": "AGO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 6.336713
+  },
+  {
+    "iso3": "PHL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 7.290861
+  },
+  {
+    "iso3": "URY",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 8.6291
+  },
+  {
+    "iso3": "AZE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 8.814198
+  },
+  {
+    "iso3": "LKA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 9.935634
+  },
+  {
+    "iso3": "PER",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 10.58917
+  },
+  {
+    "iso3": "GNQ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 10.6981
+  },
+  {
+    "iso3": "BLR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 11.29331
+  },
+  {
+    "iso3": "PAK",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 11.83984
+  },
+  {
+    "iso3": "PAN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 14.69357
+  },
+  {
+    "iso3": "NGA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 15.87632
+  },
+  {
+    "iso3": "ZAF",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 19.93152
+  },
+  {
+    "iso3": "ECU",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 19.99451
+  },
+  {
+    "iso3": "VNM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 20.2588
+  },
+  {
+    "iso3": "DOM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 21.83325
+  },
+  {
+    "iso3": "CRI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 22.08782
+  },
+  {
+    "iso3": "PRY",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 23.84146
+  },
+  {
+    "iso3": "BGD",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 23.9108
+  },
+  {
+    "iso3": "GTM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 25.03479
+  },
+  {
+    "iso3": "JAM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 25.79925
+  },
+  {
+    "iso3": "EGY",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 26.00914
+  },
+  {
+    "iso3": "COG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 27.08055
+  },
+  {
+    "iso3": "UZB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 28.23362
+  },
+  {
+    "iso3": "COL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 28.63755
+  },
+  {
+    "iso3": "ERI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 29.45927
+  },
+  {
+    "iso3": "MDG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 31.99988
+  },
+  {
+    "iso3": "COD",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 32.10614
+  },
+  {
+    "iso3": "MMR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 34.25502
+  },
+  {
+    "iso3": "SLV",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 34.3116
+  },
+  {
+    "iso3": "BWA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 35.22527
+  },
+  {
+    "iso3": "SUR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 35.94038
+  },
+  {
+    "iso3": "UKR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 36.02002
+  },
+  {
+    "iso3": "SDN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 38.33691
+  },
+  {
+    "iso3": "ETH",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 39.792
+  },
+  {
+    "iso3": "CIV",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 41.72849
+  },
+  {
+    "iso3": "GAB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 42.20711
+  },
+  {
+    "iso3": "TZA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 42.45416
+  },
+  {
+    "iso3": "TGO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 42.56274
+  },
+  {
+    "iso3": "MAR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 43.04686
+  },
+  {
+    "iso3": "CMR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 44.38655
+  },
+  {
+    "iso3": "LBY",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 45.15135
+  },
+  {
+    "iso3": "BDI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 45.9915
+  },
+  {
+    "iso3": "GHA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 46.31414
+  },
+  {
+    "iso3": "GIN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 47.81974
+  },
+  {
+    "iso3": "TCD",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 48.2321
+  },
+  {
+    "iso3": "NPL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 49.07965
+  },
+  {
+    "iso3": "TJK",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 50.90414
+  },
+  {
+    "iso3": "UGA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 52.39433
+  },
+  {
+    "iso3": "IRQ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 55.10926
+  },
+  {
+    "iso3": "ZWE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 55.71546
+  },
+  {
+    "iso3": "ZMB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 56.00664
+  },
+  {
+    "iso3": "BEN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 56.99372
+  },
+  {
+    "iso3": "KEN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 58.24064
+  },
+  {
+    "iso3": "BOL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 59.91786
+  },
+  {
+    "iso3": "BFA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 60.84097
+  },
+  {
+    "iso3": "NER",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 60.88705
+  },
+  {
+    "iso3": "KHM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 61.24826
+  },
+  {
+    "iso3": "HND",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 64.02405
+  },
+  {
+    "iso3": "LSO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 65.37172
+  },
+  {
+    "iso3": "MOZ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 67.33539
+  },
+  {
+    "iso3": "MWI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 70.2815
+  },
+  {
+    "iso3": "NAM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 71.45816
+  },
+  {
+    "iso3": "TUN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 71.61423
+  },
+  {
+    "iso3": "MLI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 73.95457
+  },
+  {
+    "iso3": "SEN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 74.01378
+  },
+  {
+    "iso3": "LAO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 74.88367
+  },
+  {
+    "iso3": "GNB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 74.96925
+  },
+  {
+    "iso3": "NIC",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 75.2236
+  },
+  {
+    "iso3": "CUB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 77.10244
+  },
+  {
+    "iso3": "PNG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 80.81857
+  },
+  {
+    "iso3": "KGZ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 81.67315
+  },
+  {
+    "iso3": "GMB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 86.29359
+  },
+  {
+    "iso3": "HTI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 88.55526
+  },
+  {
+    "iso3": "SLE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 88.92555
+  },
+  {
+    "iso3": "ARM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 93.58192
+  },
+  {
+    "iso3": "MRT",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 96.70435
+  },
+  {
+    "iso3": "ALB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 98.40882
+  },
+  {
+    "iso3": "MUS",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 98.93257
+  },
+  {
+    "iso3": "MKD",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 101.1645
+  },
+  {
+    "iso3": "RWA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 101.2614
+  },
+  {
+    "iso3": "GUY",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 101.9511
+  },
+  {
+    "iso3": "SWZ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 102.5432
+  },
+  {
+    "iso3": "SYC",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 104.6132
+  },
+  {
+    "iso3": "SRB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 111.6794
+  },
+  {
+    "iso3": "AFG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 114.7556
+  },
+  {
+    "iso3": "COM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 118.4532
+  },
+  {
+    "iso3": "BLZ",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 118.9322
+  },
+  {
+    "iso3": "SOM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 119.8371
+  },
+  {
+    "iso3": "YEM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 120.1935
+  },
+  {
+    "iso3": "CAF",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 122.6581
+  },
+  {
+    "iso3": "BIH",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 130.6998
+  },
+  {
+    "iso3": "MDA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 135.2979
+  },
+  {
+    "iso3": "MNG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 136.6183
+  },
+  {
+    "iso3": "ATG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 139.8986
+  },
+  {
+    "iso3": "LBR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 149.4891
+  },
+  {
+    "iso3": "GEO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 165.704
+  },
+  {
+    "iso3": "BTN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 168.5795
+  },
+  {
+    "iso3": "SSD",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 171.3876
+  },
+  {
+    "iso3": "TLS",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 183.4097
+  },
+  {
+    "iso3": "DJI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 190.5807
+  },
+  {
+    "iso3": "MNE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 208.2978
+  },
+  {
+    "iso3": "MDV",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 213.2892
+  },
+  {
+    "iso3": "FJI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 215.172
+  },
+  {
+    "iso3": "LBN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 216.1146
+  },
+  {
+    "iso3": "LCA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 226.924
+  },
+  {
+    "iso3": "XKX",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 235.5097
+  },
+  {
+    "iso3": "CPV",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 242.2846
+  },
+  {
+    "iso3": "GRD",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 260.4896
+  },
+  {
+    "iso3": "JOR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 275.4996
+  },
+  {
+    "iso3": "STP",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 277.2965
+  },
+  {
+    "iso3": "SLB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 311.0978
+  },
+  {
+    "iso3": "SYR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 419.9626
+  },
+  {
+    "iso3": "VCT",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 458.3789
+  },
+  {
+    "iso3": "PSE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 483.4989
+  },
+  {
+    "iso3": "VUT",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 494.7179
+  },
+  {
+    "iso3": "DMA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 524.7182
+  },
+  {
+    "iso3": "KIR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 548.8319
+  },
+  {
+    "iso3": "WSM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 562.4696
+  },
+  {
+    "iso3": "FSM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 948.5671
+  },
+  {
+    "iso3": "TON",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 978.587
+  },
+  {
+    "iso3": "MHL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 1742.197
+  },
+  {
+    "iso3": "PLW",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 2273.704
+  },
+  {
+    "iso3": "NRU",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 2780.997
+  },
+  {
+    "iso3": "TUV",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": 3238.053
+  },
+  {
+    "iso3": "TTO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "NCL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "MLT",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "ABW",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "GUM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "MNP",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "IMN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "GRL",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "CYP",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "AND",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "MAC",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "TCA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "BRB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "EST",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "CUW",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "ASM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "KNA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "VGB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "BGR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "ARE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "FRO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "SAU",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "KWT",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "CHI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "MAF",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "LIE",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "BHR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "LVA",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "GIB",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "ISR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "ROU",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "RUS",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "BHS",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "BMU",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "SMR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "OMN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "QAT",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "PYF",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "SGP",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "SXM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "HRV",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "MCO",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "LTU",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "HKG",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "VIR",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "PRI",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "BRN",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  },
+  {
+    "iso3": "CYM",
+    "year": 2021,
+    "donor": 0,
+    "oda_pcap": null
+  }
+]

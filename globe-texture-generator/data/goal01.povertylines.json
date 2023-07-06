@@ -1,0 +1,920 @@
+[
+  {
+    "countrycode": "BDI",
+    "incomegroup": "LIC",
+    "povertyline": 2.143249087,
+    "gdp": 2.4034874
+  },
+  {
+    "countrycode": "COD",
+    "incomegroup": "LIC",
+    "povertyline": 1.898853819,
+    "gdp": 2.5391448
+  },
+  {
+    "countrycode": "CAF",
+    "incomegroup": "LIC",
+    "povertyline": 2.164140527,
+    "gdp": 2.973809
+  },
+  {
+    "countrycode": "NER",
+    "incomegroup": "LIC",
+    "povertyline": 1.871222714,
+    "gdp": 3.0871382
+  },
+  {
+    "countrycode": "MOZ",
+    "incomegroup": "LIC",
+    "povertyline": 1.494647873,
+    "gdp": 3.3344901
+  },
+  {
+    "countrycode": "MWI",
+    "incomegroup": "LIC",
+    "povertyline": 1.684936508,
+    "gdp": 3.9829516
+  },
+  {
+    "countrycode": "MDG",
+    "incomegroup": "LIC",
+    "povertyline": 1.643309275,
+    "gdp": 4.2151141
+  },
+  {
+    "countrycode": "LBR",
+    "incomegroup": "LIC",
+    "povertyline": 3.134714543,
+    "gdp": 4.2880473
+  },
+  {
+    "countrycode": "SLE",
+    "incomegroup": "LIC",
+    "povertyline": 3.244704519,
+    "gdp": 4.5331502
+  },
+  {
+    "countrycode": "TCD",
+    "incomegroup": "LIC",
+    "povertyline": 2.662032448,
+    "gdp": 4.5938888
+  },
+  {
+    "countrycode": "GNB",
+    "incomegroup": "LIC",
+    "povertyline": 2.277011585,
+    "gdp": 4.786952
+  },
+  {
+    "countrycode": "ETH",
+    "incomegroup": "LIC",
+    "povertyline": 2.036781588,
+    "gdp": 4.8742032
+  },
+  {
+    "countrycode": "BFA",
+    "incomegroup": "LIC",
+    "povertyline": 2.162022231,
+    "gdp": 5.2272582
+  },
+  {
+    "countrycode": "TGO",
+    "incomegroup": "LIC",
+    "povertyline": 2.168935384,
+    "gdp": 5.26156
+  },
+  {
+    "countrycode": "RWA",
+    "incomegroup": "LIC",
+    "povertyline": 1.729578057,
+    "gdp": 5.3439074
+  },
+  {
+    "countrycode": "GIN",
+    "incomegroup": "LIC",
+    "povertyline": 3.40071993,
+    "gdp": 5.4858127
+  },
+  {
+    "countrycode": "MLI",
+    "incomegroup": "LIC",
+    "povertyline": 1.95249824,
+    "gdp": 5.5926857
+  },
+  {
+    "countrycode": "GMB",
+    "incomegroup": "LIC",
+    "povertyline": 3.868932848,
+    "gdp": 5.6401596
+  },
+  {
+    "countrycode": "UGA",
+    "incomegroup": "LIC",
+    "povertyline": 1.488135347,
+    "gdp": 5.722322
+  },
+  {
+    "countrycode": "KIR",
+    "incomegroup": "LMC",
+    "povertyline": 2.727561899,
+    "gdp": 5.7615914
+  },
+  {
+    "countrycode": "TZA",
+    "incomegroup": "LIC",
+    "povertyline": 1.623130406,
+    "gdp": 6.9331598
+  },
+  {
+    "countrycode": "SLB",
+    "incomegroup": "LMC",
+    "povertyline": 1.612953149,
+    "gdp": 6.9335866
+  },
+  {
+    "countrycode": "LSO",
+    "incomegroup": "LMC",
+    "povertyline": 3.217914896,
+    "gdp": 7.3103876
+  },
+  {
+    "countrycode": "NPL",
+    "incomegroup": "LIC",
+    "povertyline": 2.926354306,
+    "gdp": 7.4066157
+  },
+  {
+    "countrycode": "SEN",
+    "incomegroup": "LMC",
+    "povertyline": 2.356230567,
+    "gdp": 7.5536423
+  },
+  {
+    "countrycode": "COM",
+    "incomegroup": "LIC",
+    "povertyline": 4.176062322,
+    "gdp": 7.6822023
+  },
+  {
+    "countrycode": "BEN",
+    "incomegroup": "LIC",
+    "povertyline": 1.774617089,
+    "gdp": 8.0711517
+  },
+  {
+    "countrycode": "HTI",
+    "incomegroup": "LIC",
+    "povertyline": 3.670317589,
+    "gdp": 8.1478605
+  },
+  {
+    "countrycode": "TJK",
+    "incomegroup": "LMC",
+    "povertyline": 4.009359606,
+    "gdp": 8.1766987
+  },
+  {
+    "countrycode": "SDN",
+    "incomegroup": "LMC",
+    "povertyline": 3.58033006,
+    "gdp": 8.3956137
+  },
+  {
+    "countrycode": "VUT",
+    "incomegroup": "LMC",
+    "povertyline": 2.043225448,
+    "gdp": 8.4629555
+  },
+  {
+    "countrycode": "PNG",
+    "incomegroup": "LMC",
+    "povertyline": 2.162672405,
+    "gdp": 8.6714888
+  },
+  {
+    "countrycode": "UZB",
+    "incomegroup": "LIC",
+    "povertyline": 0.9050669799,
+    "gdp": 8.8488979
+  },
+  {
+    "countrycode": "TLS",
+    "incomegroup": "LMC",
+    "povertyline": 3.59414414,
+    "gdp": 8.9499502
+  },
+  {
+    "countrycode": "TUV",
+    "incomegroup": "LMC",
+    "povertyline": 4.155820023,
+    "gdp": 8.9904165
+  },
+  {
+    "countrycode": "ZMB",
+    "incomegroup": "LMC",
+    "povertyline": 1.779351968,
+    "gdp": 9.434392
+  },
+  {
+    "countrycode": "FSM",
+    "incomegroup": "LMC",
+    "povertyline": 3.659898234,
+    "gdp": 9.5018263
+  },
+  {
+    "countrycode": "CMR",
+    "incomegroup": "LMC",
+    "povertyline": 2.909364029,
+    "gdp": 9.5090017
+  },
+  {
+    "countrycode": "ZWE",
+    "incomegroup": "LIC",
+    "povertyline": 2.014217555,
+    "gdp": 10.39902
+  },
+  {
+    "countrycode": "BGD",
+    "incomegroup": "LMC",
+    "povertyline": 2.572487202,
+    "gdp": 10.740122
+  },
+  {
+    "countrycode": "STP",
+    "incomegroup": "LMC",
+    "povertyline": 4.554199132,
+    "gdp": 10.829988
+  },
+  {
+    "countrycode": "KEN",
+    "incomegroup": "LMC",
+    "povertyline": 2.414777829,
+    "gdp": 11.165759
+  },
+  {
+    "countrycode": "MMR",
+    "incomegroup": "LMC",
+    "povertyline": 3.963136106,
+    "gdp": 11.574096
+  },
+  {
+    "countrycode": "PAK",
+    "incomegroup": "LMC",
+    "povertyline": 2.988531436,
+    "gdp": 11.721498
+  },
+  {
+    "countrycode": "AZE",
+    "incomegroup": "LIC",
+    "povertyline": 4.878053453,
+    "gdp": 11.946465
+  },
+  {
+    "countrycode": "IND",
+    "incomegroup": "LMC",
+    "povertyline": 2.167800926,
+    "gdp": 12.054488
+  },
+  {
+    "countrycode": "CIV",
+    "incomegroup": "LMC",
+    "povertyline": 2.583912315,
+    "gdp": 12.101782
+  },
+  {
+    "countrycode": "GHA",
+    "incomegroup": "LMC",
+    "povertyline": 2.042462956,
+    "gdp": 13.253529
+  },
+  {
+    "countrycode": "DJI",
+    "incomegroup": "LMC",
+    "povertyline": 2.334455337,
+    "gdp": 13.384124
+  },
+  {
+    "countrycode": "MRT",
+    "incomegroup": "LMC",
+    "povertyline": 3.948635759,
+    "gdp": 13.446871
+  },
+  {
+    "countrycode": "KGZ",
+    "incomegroup": "LMC",
+    "povertyline": 4.076123403,
+    "gdp": 13.826551
+  },
+  {
+    "countrycode": "TON",
+    "incomegroup": "LMC",
+    "povertyline": 5.008327573,
+    "gdp": 14.054496
+  },
+  {
+    "countrycode": "COG",
+    "incomegroup": "LMC",
+    "povertyline": 2.45115369,
+    "gdp": 14.075649
+  },
+  {
+    "countrycode": "NGA",
+    "incomegroup": "LMC",
+    "povertyline": 2.518138173,
+    "gdp": 14.123496
+  },
+  {
+    "countrycode": "NIC",
+    "incomegroup": "LMC",
+    "povertyline": 5.273547729,
+    "gdp": 14.912975
+  },
+  {
+    "countrycode": "HND",
+    "incomegroup": "LMC",
+    "povertyline": 6.660132245,
+    "gdp": 15.238341
+  },
+  {
+    "countrycode": "WSM",
+    "incomegroup": "LMC",
+    "povertyline": 4.732832301,
+    "gdp": 15.975605
+  },
+  {
+    "countrycode": "CPV",
+    "incomegroup": "LMC",
+    "povertyline": 5.085580413,
+    "gdp": 17.169538
+  },
+  {
+    "countrycode": "PSE",
+    "incomegroup": "LMC",
+    "povertyline": 8.112209111,
+    "gdp": 17.640913
+  },
+  {
+    "countrycode": "MAR",
+    "incomegroup": "LMC",
+    "povertyline": 2.91261337,
+    "gdp": 18.70746
+  },
+  {
+    "countrycode": "AGO",
+    "incomegroup": "LMC",
+    "povertyline": 2.225615353,
+    "gdp": 18.99589
+  },
+  {
+    "countrycode": "VNM",
+    "incomegroup": "LMC",
+    "povertyline": 4.020712548,
+    "gdp": 20.783407
+  },
+  {
+    "countrycode": "LAO",
+    "incomegroup": "LMC",
+    "povertyline": 2.845496793,
+    "gdp": 20.802273
+  },
+  {
+    "countrycode": "GTM",
+    "incomegroup": "LMC",
+    "povertyline": 7.379955504,
+    "gdp": 21.751711
+  },
+  {
+    "countrycode": "SWZ",
+    "incomegroup": "LMC",
+    "povertyline": 3.72097828,
+    "gdp": 22.797327
+  },
+  {
+    "countrycode": "BOL",
+    "incomegroup": "LMC",
+    "povertyline": 10.46069109,
+    "gdp": 23.078623
+  },
+  {
+    "countrycode": "SLV",
+    "incomegroup": "LMC",
+    "povertyline": 5.967965868,
+    "gdp": 23.161785
+  },
+  {
+    "countrycode": "PHL",
+    "incomegroup": "LMC",
+    "povertyline": 3.013638808,
+    "gdp": 23.331881
+  },
+  {
+    "countrycode": "IRQ",
+    "incomegroup": "UMC",
+    "povertyline": 6.258799375,
+    "gdp": 26.917284
+  },
+  {
+    "countrycode": "JAM",
+    "incomegroup": "LMC",
+    "povertyline": 5.121833401,
+    "gdp": 27.080097
+  },
+  {
+    "countrycode": "XKX",
+    "incomegroup": "LMC",
+    "povertyline": 6.350940755,
+    "gdp": 28.592243
+  },
+  {
+    "countrycode": "NAM",
+    "incomegroup": "UMC",
+    "povertyline": 2.318059777,
+    "gdp": 29.213234
+  },
+  {
+    "countrycode": "IDN",
+    "incomegroup": "LMC",
+    "povertyline": 2.41274661,
+    "gdp": 29.960634
+  },
+  {
+    "countrycode": "EGY",
+    "incomegroup": "LMC",
+    "povertyline": 4.157091779,
+    "gdp": 30.176676
+  },
+  {
+    "countrycode": "DZA",
+    "incomegroup": "UMC",
+    "povertyline": 3.908124027,
+    "gdp": 30.351311
+  },
+  {
+    "countrycode": "TUN",
+    "incomegroup": "LMC",
+    "povertyline": 6.461420721,
+    "gdp": 30.446175
+  },
+  {
+    "countrycode": "BTN",
+    "incomegroup": "LMC",
+    "povertyline": 3.494527903,
+    "gdp": 30.527328
+  },
+  {
+    "countrycode": "BIH",
+    "incomegroup": "UMC",
+    "povertyline": 10.28052038,
+    "gdp": 30.621578
+  },
+  {
+    "countrycode": "ALB",
+    "incomegroup": "UMC",
+    "povertyline": 4.897559685,
+    "gdp": 30.761568
+  },
+  {
+    "countrycode": "JOR",
+    "incomegroup": "UMC",
+    "povertyline": 7.923623534,
+    "gdp": 31.001377
+  },
+  {
+    "countrycode": "FJI",
+    "incomegroup": "UMC",
+    "povertyline": 6.419757549,
+    "gdp": 31.313242
+  },
+  {
+    "countrycode": "ECU",
+    "incomegroup": "UMC",
+    "povertyline": 5.940432913,
+    "gdp": 31.829897
+  },
+  {
+    "countrycode": "MDA",
+    "incomegroup": "LMC",
+    "povertyline": 5.912056454,
+    "gdp": 31.921417
+  },
+  {
+    "countrycode": "UKR",
+    "incomegroup": "LMC",
+    "povertyline": 4.806232212,
+    "gdp": 32.523628
+  },
+  {
+    "countrycode": "MNG",
+    "incomegroup": "LMC",
+    "povertyline": 5.8689063,
+    "gdp": 32.955166
+  },
+  {
+    "countrycode": "ARM",
+    "incomegroup": "UMC",
+    "povertyline": 5.123629414,
+    "gdp": 33.192162
+  },
+  {
+    "countrycode": "LKA",
+    "incomegroup": "LMC",
+    "povertyline": 2.661270444,
+    "gdp": 33.66431
+  },
+  {
+    "countrycode": "BWA",
+    "incomegroup": "UMC",
+    "povertyline": 2.273638329,
+    "gdp": 33.695431
+  },
+  {
+    "countrycode": "PER",
+    "incomegroup": "UMC",
+    "povertyline": 5.178258356,
+    "gdp": 34.264465
+  },
+  {
+    "countrycode": "PRY",
+    "incomegroup": "UMC",
+    "povertyline": 7.82039542,
+    "gdp": 34.494656
+  },
+  {
+    "countrycode": "CHN",
+    "incomegroup": "UMC",
+    "povertyline": 3.068238554,
+    "gdp": 36.709965
+  },
+  {
+    "countrycode": "GEO",
+    "incomegroup": "LMC",
+    "povertyline": 3.795605389,
+    "gdp": 37.232075
+  },
+  {
+    "countrycode": "ZAF",
+    "incomegroup": "UMC",
+    "povertyline": 5.608950514,
+    "gdp": 38.468018
+  },
+  {
+    "countrycode": "COL",
+    "incomegroup": "UMC",
+    "povertyline": 5.811494931,
+    "gdp": 38.825535
+  },
+  {
+    "countrycode": "LCA",
+    "incomegroup": "UMC",
+    "povertyline": 6.757796586,
+    "gdp": 39.71944
+  },
+  {
+    "countrycode": "GAB",
+    "incomegroup": "UMC",
+    "povertyline": 7.160034922,
+    "gdp": 41.114639
+  },
+  {
+    "countrycode": "MKD",
+    "incomegroup": "UMC",
+    "povertyline": 6.667885768,
+    "gdp": 43.031403
+  },
+  {
+    "countrycode": "BRA",
+    "incomegroup": "UMC",
+    "povertyline": 7.036855439,
+    "gdp": 43.301979
+  },
+  {
+    "countrycode": "SRB",
+    "incomegroup": "UMC",
+    "povertyline": 7.27856806,
+    "gdp": 45.509636
+  },
+  {
+    "countrycode": "DOM",
+    "incomegroup": "UMC",
+    "povertyline": 6.854870422,
+    "gdp": 45.850315
+  },
+  {
+    "countrycode": "THA",
+    "incomegroup": "UMC",
+    "povertyline": 5.724104054,
+    "gdp": 47.734119
+  },
+  {
+    "countrycode": "MDV",
+    "incomegroup": "UMC",
+    "povertyline": 7.753761299,
+    "gdp": 48.174213
+  },
+  {
+    "countrycode": "BLR",
+    "incomegroup": "UMC",
+    "povertyline": 7.670311226,
+    "gdp": 50.290688
+  },
+  {
+    "countrycode": "LBN",
+    "incomegroup": "UMC",
+    "povertyline": 18.73674173,
+    "gdp": 51.307522
+  },
+  {
+    "countrycode": "MNE",
+    "incomegroup": "UMC",
+    "povertyline": 8.440147652,
+    "gdp": 51.501099
+  },
+  {
+    "countrycode": "MEX",
+    "incomegroup": "UMC",
+    "povertyline": 8.959679075,
+    "gdp": 54.598347
+  },
+  {
+    "countrycode": "CRI",
+    "incomegroup": "UMC",
+    "povertyline": 8.617850388,
+    "gdp": 55.7453
+  },
+  {
+    "countrycode": "MUS",
+    "incomegroup": "UMC",
+    "povertyline": 6.241455903,
+    "gdp": 58.671547
+  },
+  {
+    "countrycode": "BGR",
+    "incomegroup": "UMC",
+    "povertyline": 10.87162766,
+    "gdp": 58.821751
+  },
+  {
+    "countrycode": "URY",
+    "incomegroup": "HIC",
+    "povertyline": 8.294982422,
+    "gdp": 63.040752
+  },
+  {
+    "countrycode": "ARG",
+    "incomegroup": "HIC",
+    "povertyline": 13.30969083,
+    "gdp": 64.649635
+  },
+  {
+    "countrycode": "CHL",
+    "incomegroup": "HIC",
+    "povertyline": 7.148966487,
+    "gdp": 67.043022
+  },
+  {
+    "countrycode": "MYS",
+    "incomegroup": "UMC",
+    "povertyline": 8.002602798,
+    "gdp": 67.91185
+  },
+  {
+    "countrycode": "KAZ",
+    "incomegroup": "UMC",
+    "povertyline": 4.58607829,
+    "gdp": 68.117714
+  },
+  {
+    "countrycode": "RUS",
+    "incomegroup": "UMC",
+    "povertyline": 9.0362345,
+    "gdp": 71.031349
+  },
+  {
+    "countrycode": "ROU",
+    "incomegroup": "UMC",
+    "povertyline": 8.727990897,
+    "gdp": 74.361427
+  },
+  {
+    "countrycode": "HRV",
+    "incomegroup": "HIC",
+    "povertyline": 13.78962134,
+    "gdp": 74.394753
+  },
+  {
+    "countrycode": "SYC",
+    "incomegroup": "HIC",
+    "povertyline": 12.92940016,
+    "gdp": 75.423279
+  },
+  {
+    "countrycode": "TUR",
+    "incomegroup": "UMC",
+    "povertyline": 7.631603354,
+    "gdp": 76.476212
+  },
+  {
+    "countrycode": "GRC",
+    "incomegroup": "HIC",
+    "povertyline": 12.19436548,
+    "gdp": 78.369484
+  },
+  {
+    "countrycode": "LVA",
+    "incomegroup": "HIC",
+    "povertyline": 15.22250803,
+    "gdp": 78.557709
+  },
+  {
+    "countrycode": "PAN",
+    "incomegroup": "UMC",
+    "povertyline": 9.699173603,
+    "gdp": 80.362679
+  },
+  {
+    "countrycode": "HUN",
+    "incomegroup": "HIC",
+    "povertyline": 11.13241759,
+    "gdp": 80.824989
+  },
+  {
+    "countrycode": "POL",
+    "incomegroup": "HIC",
+    "povertyline": 10.02423775,
+    "gdp": 82.368507
+  },
+  {
+    "countrycode": "SVK",
+    "incomegroup": "HIC",
+    "povertyline": 13.18992531,
+    "gdp": 85.367188
+  },
+  {
+    "countrycode": "PRT",
+    "incomegroup": "HIC",
+    "povertyline": 15.40818814,
+    "gdp": 90.533463
+  },
+  {
+    "countrycode": "LTU",
+    "incomegroup": "HIC",
+    "povertyline": 16.55337176,
+    "gdp": 92.498276
+  },
+  {
+    "countrycode": "EST",
+    "incomegroup": "HIC",
+    "povertyline": 21.42080042,
+    "gdp": 92.662834
+  },
+  {
+    "countrycode": "SVN",
+    "incomegroup": "HIC",
+    "povertyline": 22.74051324,
+    "gdp": 100.0207
+  },
+  {
+    "countrycode": "CYP",
+    "incomegroup": "HIC",
+    "povertyline": 23.6159881,
+    "gdp": 104.24893
+  },
+  {
+    "countrycode": "ISR",
+    "incomegroup": "HIC",
+    "povertyline": 17.03177086,
+    "gdp": 104.69722
+  },
+  {
+    "countrycode": "CZE",
+    "incomegroup": "HIC",
+    "povertyline": 19.17344054,
+    "gdp": 106.36955
+  },
+  {
+    "countrycode": "ESP",
+    "incomegroup": "HIC",
+    "povertyline": 22.09634266,
+    "gdp": 108.29842
+  },
+  {
+    "countrycode": "KOR",
+    "incomegroup": "HIC",
+    "povertyline": 25.09441846,
+    "gdp": 109.08126
+  },
+  {
+    "countrycode": "ITA",
+    "incomegroup": "HIC",
+    "povertyline": 22.85422369,
+    "gdp": 113.92088
+  },
+  {
+    "countrycode": "MLT",
+    "incomegroup": "HIC",
+    "povertyline": 26.13413065,
+    "gdp": 116.83302
+  },
+  {
+    "countrycode": "FRA",
+    "incomegroup": "HIC",
+    "povertyline": 27.39215582,
+    "gdp": 122.12895
+  },
+  {
+    "countrycode": "GBR",
+    "incomegroup": "HIC",
+    "povertyline": 25.76764396,
+    "gdp": 127.04764
+  },
+  {
+    "countrycode": "AUS",
+    "incomegroup": "HIC",
+    "povertyline": 33.56455507,
+    "gdp": 129.40514
+  },
+  {
+    "countrycode": "FIN",
+    "incomegroup": "HIC",
+    "povertyline": 30.84648127,
+    "gdp": 130.32913
+  },
+  {
+    "countrycode": "CAN",
+    "incomegroup": "HIC",
+    "povertyline": 32.19562023,
+    "gdp": 132.37561
+  },
+  {
+    "countrycode": "BEL",
+    "incomegroup": "HIC",
+    "povertyline": 30.90585244,
+    "gdp": 138.198
+  },
+  {
+    "countrycode": "DEU",
+    "incomegroup": "HIC",
+    "povertyline": 29.77012582,
+    "gdp": 142.13609
+  },
+  {
+    "countrycode": "SWE",
+    "incomegroup": "HIC",
+    "povertyline": 30.72699594,
+    "gdp": 142.32317
+  },
+  {
+    "countrycode": "AUT",
+    "incomegroup": "HIC",
+    "povertyline": 31.23785488,
+    "gdp": 148.41914
+  },
+  {
+    "countrycode": "NLD",
+    "incomegroup": "HIC",
+    "povertyline": 31.09812698,
+    "gdp": 150.92776
+  },
+  {
+    "countrycode": "DNK",
+    "incomegroup": "HIC",
+    "povertyline": 32.24915036,
+    "gdp": 151.66214
+  },
+  {
+    "countrycode": "ISL",
+    "incomegroup": "HIC",
+    "povertyline": 31.04083208,
+    "gdp": 152.43422
+  },
+  {
+    "countrycode": "USA",
+    "incomegroup": "HIC",
+    "povertyline": 34.78694957,
+    "gdp": 164.68399
+  },
+  {
+    "countrycode": "NOR",
+    "incomegroup": "HIC",
+    "povertyline": 37.79594895,
+    "gdp": 175.48152
+  },
+  {
+    "countrycode": "CHE",
+    "incomegroup": "HIC",
+    "povertyline": 36.27917991,
+    "gdp": 189.32484
+  },
+  {
+    "countrycode": "IRL",
+    "incomegroup": "HIC",
+    "povertyline": 26.45381941,
+    "gdp": 213.01152
+  },
+  {
+    "countrycode": "LUX",
+    "incomegroup": "HIC",
+    "povertyline": 36.33379784,
+    "gdp": 315.02972
+  }
+]

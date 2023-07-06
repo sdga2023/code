@@ -1,0 +1,662 @@
+[
+  {
+    "iso3c": "ALB",
+    "country": "Albania",
+    "date": 2011,
+    "male%": 3.47222,
+    "female%": 21.73611,
+    "male": 0.8333328,
+    "female": 5.2166664,
+    "gap": 4.3833336
+  },
+  {
+    "iso3c": "ARG",
+    "country": "Argentina",
+    "date": 2013,
+    "male%": 9.2486,
+    "female%": 23.41864,
+    "male": 2.219664,
+    "female": 5.6204736,
+    "gap": 3.4008096
+  },
+  {
+    "iso3c": "BEL",
+    "country": "Belgium",
+    "date": 2013,
+    "male%": 10.06944,
+    "female%": 15.90278,
+    "male": 2.4166656,
+    "female": 3.8166672,
+    "gap": 1.4000016
+  },
+  {
+    "iso3c": "BGR",
+    "country": "Bulgaria",
+    "date": 2010,
+    "male%": 9.23611,
+    "female%": 18.47222,
+    "male": 2.2166664,
+    "female": 4.4333328,
+    "gap": 2.2166664
+  },
+  {
+    "iso3c": "BLR",
+    "country": "Belarus",
+    "date": 2015,
+    "male%": 9.51389,
+    "female%": 19.16667,
+    "male": 2.2833336,
+    "female": 4.6000008,
+    "gap": 2.3166672
+  },
+  {
+    "iso3c": "BRA",
+    "country": "Brazil",
+    "date": 2017,
+    "male%": 5.13276,
+    "female%": 11.60814,
+    "male": 1.2318624,
+    "female": 2.7859536,
+    "gap": 1.5540912
+  },
+  {
+    "iso3c": "BTN",
+    "country": "Bhutan",
+    "date": 2015,
+    "male%": 5.90278,
+    "female%": 15,
+    "male": 1.4166672,
+    "female": 3.6,
+    "gap": 2.1833328
+  },
+  {
+    "iso3c": "CAN",
+    "country": "Canada",
+    "date": 2016,
+    "male%": 9.58333,
+    "female%": 14.58333,
+    "male": 2.2999992,
+    "female": 3.4999992,
+    "gap": 1.2
+  },
+  {
+    "iso3c": "CHE",
+    "country": "Switzerland",
+    "date": 2016,
+    "male%": 10.80417,
+    "female%": 16.83333,
+    "male": 2.5930008,
+    "female": 4.0399992,
+    "gap": 1.4469984
+  },
+  {
+    "iso3c": "CHL",
+    "country": "Chile",
+    "date": 2015,
+    "male%": 9.85396,
+    "female%": 22.10355,
+    "male": 2.3649504,
+    "female": 5.304852,
+    "gap": 2.9399016
+  },
+  {
+    "iso3c": "CHN",
+    "country": "China",
+    "date": 2018,
+    "male%": 5.90278,
+    "female%": 15.34722,
+    "male": 1.4166672,
+    "female": 3.6833328,
+    "gap": 2.2666656
+  },
+  {
+    "iso3c": "CMR",
+    "country": "Cameroon",
+    "date": 2014,
+    "male%": 4.56784,
+    "female%": 15.82086,
+    "male": 1.0962816,
+    "female": 3.7970064,
+    "gap": 2.7007248
+  },
+  {
+    "iso3c": "COL",
+    "country": "Colombia",
+    "date": 2017,
+    "male%": 2.92763,
+    "female%": 5.02051,
+    "male": 0.7026312,
+    "female": 1.2049224,
+    "gap": 0.5022912
+  },
+  {
+    "iso3c": "CRI",
+    "country": "Costa Rica",
+    "date": 2017,
+    "male%": 8.37858,
+    "female%": 22.14571,
+    "male": 2.0108592,
+    "female": 5.3149704,
+    "gap": 3.3041112
+  },
+  {
+    "iso3c": "CUB",
+    "country": "Cuba",
+    "date": 2016,
+    "male%": 12.47024,
+    "female%": 21,
+    "male": 2.9928576,
+    "female": 5.04,
+    "gap": 2.0471424
+  },
+  {
+    "iso3c": "DEU",
+    "country": "Germany",
+    "date": 2013,
+    "male%": 10.4,
+    "female%": 16.4,
+    "male": 2.496,
+    "female": 3.936,
+    "gap": 1.44
+  },
+  {
+    "iso3c": "DOM",
+    "country": "Dominican Republic",
+    "date": 2016,
+    "male%": 3.78561,
+    "female%": 16.70887,
+    "male": 0.9085464,
+    "female": 4.0101288,
+    "gap": 3.1015824
+  },
+  {
+    "iso3c": "DZA",
+    "country": "Algeria",
+    "date": 2012,
+    "male%": 3.75,
+    "female%": 21.66667,
+    "male": 0.9,
+    "female": 5.2000008,
+    "gap": 4.3000008
+  },
+  {
+    "iso3c": "ECU",
+    "country": "Ecuador",
+    "date": 2012,
+    "male%": 4.72192,
+    "female%": 19.74505,
+    "male": 1.1332608,
+    "female": 4.738812,
+    "gap": 3.6055512
+  },
+  {
+    "iso3c": "EGY",
+    "country": "Egypt, Arab Rep.",
+    "date": 2015,
+    "male%": 2.43056,
+    "female%": 22.36111,
+    "male": 0.5833344,
+    "female": 5.3666664,
+    "gap": 4.783332
+  },
+  {
+    "iso3c": "ESP",
+    "country": "Spain",
+    "date": 2010,
+    "male%": 8.61111,
+    "female%": 18.95833,
+    "male": 2.0666664,
+    "female": 4.5499992,
+    "gap": 2.4833328
+  },
+  {
+    "iso3c": "EST",
+    "country": "Estonia",
+    "date": 2010,
+    "male%": 10.76389,
+    "female%": 17.22222,
+    "male": 2.5833336,
+    "female": 4.1333328,
+    "gap": 1.5499992
+  },
+  {
+    "iso3c": "ETH",
+    "country": "Ethiopia",
+    "date": 2013,
+    "male%": 6.59722,
+    "female%": 19.30556,
+    "male": 1.5833328,
+    "female": 4.6333344,
+    "gap": 3.0500016
+  },
+  {
+    "iso3c": "FIN",
+    "country": "Finland",
+    "date": 2010,
+    "male%": 10.49167,
+    "female%": 15.20417,
+    "male": 2.5180008,
+    "female": 3.6490008,
+    "gap": 1.131
+  },
+  {
+    "iso3c": "FJI",
+    "country": "Fiji",
+    "date": 2016,
+    "male%": 5.19476,
+    "female%": 15.15812,
+    "male": 1.2467424,
+    "female": 3.6379488,
+    "gap": 2.3912064
+  },
+  {
+    "iso3c": "FRA",
+    "country": "France",
+    "date": 2010,
+    "male%": 9.49464,
+    "female%": 15.77314,
+    "male": 2.2787136,
+    "female": 3.7855536,
+    "gap": 1.50684
+  },
+  {
+    "iso3c": "GBR",
+    "country": "United Kingdom",
+    "date": 2015,
+    "male%": 6.96528,
+    "female%": 12.65278,
+    "male": 1.6716672,
+    "female": 3.0366672,
+    "gap": 1.365
+  },
+  {
+    "iso3c": "GRC",
+    "country": "Greece",
+    "date": 2014,
+    "male%": 7.01389,
+    "female%": 18.125,
+    "male": 1.6833336,
+    "female": 4.35,
+    "gap": 2.6666664
+  },
+  {
+    "iso3c": "GTM",
+    "country": "Guatemala",
+    "date": 2017,
+    "male%": 2.60537,
+    "female%": 19.48273,
+    "male": 0.6252888,
+    "female": 4.6758552,
+    "gap": 4.0505664
+  },
+  {
+    "iso3c": "HKG",
+    "country": "Hong Kong SAR, China",
+    "date": 2013,
+    "male%": 3.33333,
+    "female%": 10.83333,
+    "male": 0.7999992,
+    "female": 2.5999992,
+    "gap": 1.8
+  },
+  {
+    "iso3c": "HUN",
+    "country": "Hungary",
+    "date": 2010,
+    "male%": 7.9796,
+    "female%": 17.27674,
+    "male": 1.915104,
+    "female": 4.1464176,
+    "gap": 2.2313136
+  },
+  {
+    "iso3c": "ITA",
+    "country": "Italy",
+    "date": 2014,
+    "male%": 8.4,
+    "female%": 20.4,
+    "male": 2.016,
+    "female": 4.896,
+    "gap": 2.88
+  },
+  {
+    "iso3c": "JPN",
+    "country": "Japan",
+    "date": 2016,
+    "male%": 3.125,
+    "female%": 15.13889,
+    "male": 0.75,
+    "female": 3.6333336,
+    "gap": 2.8833336
+  },
+  {
+    "iso3c": "KAZ",
+    "country": "Kazakhstan",
+    "date": 2018,
+    "male%": 6.25,
+    "female%": 18.95833,
+    "male": 1.5,
+    "female": 4.5499992,
+    "gap": 3.0499992
+  },
+  {
+    "iso3c": "KGZ",
+    "country": "Kyrgyz Republic",
+    "date": 2015,
+    "male%": 9.51389,
+    "female%": 16.80556,
+    "male": 2.2833336,
+    "female": 4.0333344,
+    "gap": 1.7500008
+  },
+  {
+    "iso3c": "KOR",
+    "country": "Korea, Rep.",
+    "date": 2019,
+    "male%": 4.375,
+    "female%": 14.09722,
+    "male": 1.05,
+    "female": 3.3833328,
+    "gap": 2.3333328
+  },
+  {
+    "iso3c": "LAO",
+    "country": "Lao PDR",
+    "date": 2017,
+    "male%": 10.06278,
+    "female%": 13.6038,
+    "male": 2.4150672,
+    "female": 3.264912,
+    "gap": 0.8498448
+  },
+  {
+    "iso3c": "LBR",
+    "country": "Liberia",
+    "date": 2010,
+    "male%": 2.57656,
+    "female%": 6.29234,
+    "male": 0.6183744,
+    "female": 1.5101616,
+    "gap": 0.8917872
+  },
+  {
+    "iso3c": "LUX",
+    "country": "Luxembourg",
+    "date": 2014,
+    "male%": 7.08333,
+    "female%": 14.44444,
+    "male": 1.6999992,
+    "female": 3.4666656,
+    "gap": 1.7666664
+  },
+  {
+    "iso3c": "MAR",
+    "country": "Morocco",
+    "date": 2012,
+    "male%": 2.98611,
+    "female%": 20.83333,
+    "male": 0.7166664,
+    "female": 4.9999992,
+    "gap": 4.2833328
+  },
+  {
+    "iso3c": "MDA",
+    "country": "Moldova",
+    "date": 2012,
+    "male%": 11.2725,
+    "female%": 20.13841,
+    "male": 2.7054,
+    "female": 4.8332184,
+    "gap": 2.1278184
+  },
+  {
+    "iso3c": "MEX",
+    "country": "Mexico",
+    "date": 2019,
+    "male%": 11.11167,
+    "female%": 27.76825,
+    "male": 2.6668008,
+    "female": 6.66438,
+    "gap": 3.9975792
+  },
+  {
+    "iso3c": "MKD",
+    "country": "North Macedonia",
+    "date": 2015,
+    "male%": 5.41667,
+    "female%": 15.41667,
+    "male": 1.3000008,
+    "female": 3.7000008,
+    "gap": 2.4
+  },
+  {
+    "iso3c": "MNG",
+    "country": "Mongolia",
+    "date": 2019,
+    "male%": 7.59633,
+    "female%": 19.29129,
+    "male": 1.8231192,
+    "female": 4.6299096,
+    "gap": 2.8067904
+  },
+  {
+    "iso3c": "NLD",
+    "country": "Netherlands",
+    "date": 2012,
+    "male%": 9.23611,
+    "female%": 14.72222,
+    "male": 2.2166664,
+    "female": 3.5333328,
+    "gap": 1.3166664
+  },
+  {
+    "iso3c": "NOR",
+    "country": "Norway",
+    "date": 2011,
+    "male%": 12.33333,
+    "female%": 15.30833,
+    "male": 2.9599992,
+    "female": 3.6739992,
+    "gap": 0.714
+  },
+  {
+    "iso3c": "NZL",
+    "country": "New Zealand",
+    "date": 2010,
+    "male%": 10.55556,
+    "female%": 18.05556,
+    "male": 2.5333344,
+    "female": 4.3333344,
+    "gap": 1.8
+  },
+  {
+    "iso3c": "PAN",
+    "country": "Panama",
+    "date": 2011,
+    "male%": 7.57184,
+    "female%": 17.95164,
+    "male": 1.8172416,
+    "female": 4.3083936,
+    "gap": 2.491152
+  },
+  {
+    "iso3c": "PER",
+    "country": "Peru",
+    "date": 2010,
+    "male%": 8.94605,
+    "female%": 23.56031,
+    "male": 2.147052,
+    "female": 5.6544744,
+    "gap": 3.5074224
+  },
+  {
+    "iso3c": "POL",
+    "country": "Poland",
+    "date": 2013,
+    "male%": 9.92917,
+    "female%": 18.2625,
+    "male": 2.3830008,
+    "female": 4.383,
+    "gap": 1.9999992
+  },
+  {
+    "iso3c": "PRT",
+    "country": "Portugal",
+    "date": 2015,
+    "male%": 10.2414,
+    "female%": 17.81135,
+    "male": 2.457936,
+    "female": 4.274724,
+    "gap": 1.816788
+  },
+  {
+    "iso3c": "PRY",
+    "country": "Paraguay",
+    "date": 2016,
+    "male%": 4.27041,
+    "female%": 14.52502,
+    "male": 1.0248984,
+    "female": 3.4860048,
+    "gap": 2.4611064
+  },
+  {
+    "iso3c": "PSE",
+    "country": "West Bank and Gaza",
+    "date": 2013,
+    "male%": 2.98611,
+    "female%": 20.13889,
+    "male": 0.7166664,
+    "female": 4.8333336,
+    "gap": 4.1166672
+  },
+  {
+    "iso3c": "QAT",
+    "country": "Qatar",
+    "date": 2013,
+    "male%": 2.22222,
+    "female%": 8.19444,
+    "male": 0.5333328,
+    "female": 1.9666656,
+    "gap": 1.4333328
+  },
+  {
+    "iso3c": "ROU",
+    "country": "Romania",
+    "date": 2012,
+    "male%": 9.375,
+    "female%": 19.02778,
+    "male": 2.25,
+    "female": 4.5666672,
+    "gap": 2.3166672
+  },
+  {
+    "iso3c": "RUS",
+    "country": "Russian Federation",
+    "date": 2014,
+    "male%": 8.125,
+    "female%": 18.40278,
+    "male": 1.95,
+    "female": 4.4166672,
+    "gap": 2.4666672
+  },
+  {
+    "iso3c": "SLV",
+    "country": "El Salvador",
+    "date": 2017,
+    "male%": 7.02928,
+    "female%": 20.21275,
+    "male": 1.6870272,
+    "female": 4.85106,
+    "gap": 3.1640328
+  },
+  {
+    "iso3c": "SRB",
+    "country": "Serbia",
+    "date": 2015,
+    "male%": 8.69038,
+    "female%": 19.16756,
+    "male": 2.0856912,
+    "female": 4.6002144,
+    "gap": 2.5145232
+  },
+  {
+    "iso3c": "SWE",
+    "country": "Sweden",
+    "date": 2011,
+    "male%": 12.82797,
+    "female%": 16.04201,
+    "male": 3.0787128,
+    "female": 3.8500824,
+    "gap": 0.7713696
+  },
+  {
+    "iso3c": "THA",
+    "country": "Thailand",
+    "date": 2015,
+    "male%": 3.75,
+    "female%": 11.83333,
+    "male": 0.9,
+    "female": 2.8399992,
+    "gap": 1.9399992
+  },
+  {
+    "iso3c": "TUR",
+    "country": "Turkiye",
+    "date": 2015,
+    "male%": 3.70575,
+    "female%": 19.15117,
+    "male": 0.88938,
+    "female": 4.5962808,
+    "gap": 3.7069008
+  },
+  {
+    "iso3c": "TZA",
+    "country": "Tanzania",
+    "date": 2014,
+    "male%": 4.23611,
+    "female%": 16.45833,
+    "male": 1.0166664,
+    "female": 3.9499992,
+    "gap": 2.9333328
+  },
+  {
+    "iso3c": "UGA",
+    "country": "Uganda",
+    "date": 2018,
+    "male%": 7.5,
+    "female%": 14.58333,
+    "male": 1.8,
+    "female": 3.4999992,
+    "gap": 1.6999992
+  },
+  {
+    "iso3c": "URY",
+    "country": "Uruguay",
+    "date": 2013,
+    "male%": 8.37738,
+    "female%": 19.87475,
+    "male": 2.0105712,
+    "female": 4.76994,
+    "gap": 2.7593688
+  },
+  {
+    "iso3c": "USA",
+    "country": "United States",
+    "date": 2019,
+    "male%": 9.66667,
+    "female%": 15.33333,
+    "male": 2.3200008,
+    "female": 3.6799992,
+    "gap": 1.3599984
+  },
+  {
+    "iso3c": "ZAF",
+    "country": "South Africa",
+    "date": 2010,
+    "male%": 6.45833,
+    "female%": 15.55556,
+    "male": 1.5499992,
+    "female": 3.7333344,
+    "gap": 2.1833352
+  }
+]

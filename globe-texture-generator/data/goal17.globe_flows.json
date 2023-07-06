@@ -1,0 +1,247 @@
+[
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "MEA",
+    "value": 1361.31
+  },
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "ECS",
+    "value": 18.41
+  },
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "EAS",
+    "value": 16.7
+  },
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "SSF",
+    "value": 399.99
+  },
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "LCN",
+    "value": 67.97
+  },
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "SAS",
+    "value": 283.2
+  },
+  {
+    "iso3_donor": "MEA",
+    "iso3_recipient": "NAC",
+    "value": 0
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "MEA",
+    "value": 11895.75
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "ECS",
+    "value": 2854.96
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "EAS",
+    "value": 2188.66
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "SSF",
+    "value": 12338.24
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "LCN",
+    "value": 3218.08
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "SAS",
+    "value": 3571.25
+  },
+  {
+    "iso3_donor": "ECS",
+    "iso3_recipient": "NAC",
+    "value": 0
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "MEA",
+    "value": 1274.94
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "ECS",
+    "value": 413.25
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "EAS",
+    "value": 3446.34
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "SSF",
+    "value": 2071.21
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "LCN",
+    "value": 761.77
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "SAS",
+    "value": 5382.66
+  },
+  {
+    "iso3_donor": "EAS",
+    "iso3_recipient": "NAC",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "MEA",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "ECS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "EAS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "SSF",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "LCN",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "SAS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SSF",
+    "iso3_recipient": "NAC",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "MEA",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "ECS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "EAS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "SSF",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "LCN",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "SAS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "LCN",
+    "iso3_recipient": "NAC",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "MEA",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "ECS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "EAS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "SSF",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "LCN",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "SAS",
+    "value": 0
+  },
+  {
+    "iso3_donor": "SAS",
+    "iso3_recipient": "NAC",
+    "value": 0
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "MEA",
+    "value": 4388.69
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "ECS",
+    "value": 885.36
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "EAS",
+    "value": 1126.41
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "SSF",
+    "value": 12553.34
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "LCN",
+    "value": 2379.73
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "SAS",
+    "value": 2640.15
+  },
+  {
+    "iso3_donor": "NAC",
+    "iso3_recipient": "NAC",
+    "value": 0
+  }
+]

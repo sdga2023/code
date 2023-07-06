@@ -1,0 +1,1310 @@
+[
+  {
+    "iso3c": "ABW",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "AFG",
+    "population_in_millions": 38,
+    "poor_in_millions": 3,
+    "greyout": 1
+  },
+  {
+    "iso3c": "AGO",
+    "population_in_millions": 32,
+    "poor_in_millions": 10,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ALB",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "AND",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "ARE",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ARG",
+    "population_in_millions": 45,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ARM",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ASM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "ATG",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "AUS",
+    "population_in_millions": 25,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "AUT",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "AZE",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BDI",
+    "population_in_millions": 12,
+    "poor_in_millions": 8,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BEL",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BEN",
+    "population_in_millions": 12,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BFA",
+    "population_in_millions": 20,
+    "poor_in_millions": 6,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BGD",
+    "population_in_millions": 163,
+    "poor_in_millions": 11,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BGR",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BHR",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "BHS",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "BIH",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BLR",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BLZ",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BMU",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "BOL",
+    "population_in_millions": 12,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BRA",
+    "population_in_millions": 211,
+    "poor_in_millions": 11,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BRB",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "BRN",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "BTN",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "BWA",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CAF",
+    "population_in_millions": 5,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CAN",
+    "population_in_millions": 38,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CHE",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CHI",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "CHL",
+    "population_in_millions": 19,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CHN",
+    "population_in_millions": 1408,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CIV",
+    "population_in_millions": 26,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CMR",
+    "population_in_millions": 26,
+    "poor_in_millions": 6,
+    "greyout": 0
+  },
+  {
+    "iso3c": "COD",
+    "population_in_millions": 87,
+    "poor_in_millions": 54,
+    "greyout": 0
+  },
+  {
+    "iso3c": "COG",
+    "population_in_millions": 5,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "COL",
+    "population_in_millions": 50,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "COM",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CPV",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CRI",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CUB",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "CUW",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "CYM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "CYP",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "CZE",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "DEU",
+    "population_in_millions": 83,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "DJI",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "DMA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "DNK",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "DOM",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "DZA",
+    "population_in_millions": 43,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ECU",
+    "population_in_millions": 17,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "EGY",
+    "population_in_millions": 100,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ERI",
+    "population_in_millions": 3,
+    "poor_in_millions": 1,
+    "greyout": 1
+  },
+  {
+    "iso3c": "ESP",
+    "population_in_millions": 47,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "EST",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ETH",
+    "population_in_millions": 112,
+    "poor_in_millions": 20,
+    "greyout": 0
+  },
+  {
+    "iso3c": "FIN",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "FJI",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "FRA",
+    "population_in_millions": 67,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "FRO",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "FSM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GAB",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GBR",
+    "population_in_millions": 67,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GEO",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GHA",
+    "population_in_millions": 30,
+    "poor_in_millions": 7,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GIB",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "GIN",
+    "population_in_millions": 13,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GMB",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GNB",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GNQ",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "GRC",
+    "population_in_millions": 11,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GRD",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "GRL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "GTM",
+    "population_in_millions": 17,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "GUM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "GUY",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "HKG",
+    "population_in_millions": 8,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "HND",
+    "population_in_millions": 10,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "HRV",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "HTI",
+    "population_in_millions": 11,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "HUN",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "IDN",
+    "population_in_millions": 271,
+    "poor_in_millions": 12,
+    "greyout": 0
+  },
+  {
+    "iso3c": "IMN",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "IND",
+    "population_in_millions": 1366,
+    "poor_in_millions": 129,
+    "greyout": 0
+  },
+  {
+    "iso3c": "IRL",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "IRN",
+    "population_in_millions": 83,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "IRQ",
+    "population_in_millions": 39,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ISL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ISR",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ITA",
+    "population_in_millions": 60,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "JAM",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "JOR",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "JPN",
+    "population_in_millions": 126,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "KAZ",
+    "population_in_millions": 19,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "KEN",
+    "population_in_millions": 53,
+    "poor_in_millions": 13,
+    "greyout": 0
+  },
+  {
+    "iso3c": "KGZ",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "KHM",
+    "population_in_millions": 16,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "KIR",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "KNA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "KOR",
+    "population_in_millions": 52,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "KWT",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "LAO",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LBN",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LBR",
+    "population_in_millions": 5,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LBY",
+    "population_in_millions": 7,
+    "poor_in_millions": 1,
+    "greyout": 1
+  },
+  {
+    "iso3c": "LCA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LIE",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "LKA",
+    "population_in_millions": 22,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LSO",
+    "population_in_millions": 2,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LTU",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LUX",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "LVA",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MAC",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "MAF",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "MAR",
+    "population_in_millions": 36,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MCO",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "MDA",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MDG",
+    "population_in_millions": 27,
+    "poor_in_millions": 21,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MDV",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MEX",
+    "population_in_millions": 128,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MHL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MKD",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MLI",
+    "population_in_millions": 20,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MLT",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MMR",
+    "population_in_millions": 54,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MNE",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MNG",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MNP",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "MOZ",
+    "population_in_millions": 30,
+    "poor_in_millions": 19,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MRT",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MUS",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MWI",
+    "population_in_millions": 19,
+    "poor_in_millions": 13,
+    "greyout": 0
+  },
+  {
+    "iso3c": "MYS",
+    "population_in_millions": 32,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NAM",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NCL",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "NER",
+    "population_in_millions": 23,
+    "poor_in_millions": 12,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NGA",
+    "population_in_millions": 201,
+    "poor_in_millions": 62,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NIC",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NLD",
+    "population_in_millions": 17,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NOR",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NPL",
+    "population_in_millions": 29,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NRU",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "NZL",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "OMN",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "PAK",
+    "population_in_millions": 217,
+    "poor_in_millions": 11,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PAN",
+    "population_in_millions": 4,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PER",
+    "population_in_millions": 33,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PHL",
+    "population_in_millions": 108,
+    "poor_in_millions": 4,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PLW",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "PNG",
+    "population_in_millions": 9,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "POL",
+    "population_in_millions": 38,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PRI",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "PRK",
+    "population_in_millions": 26,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "PRT",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PRY",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PSE",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "PYF",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "QAT",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "ROU",
+    "population_in_millions": 19,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "RUS",
+    "population_in_millions": 144,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "RWA",
+    "population_in_millions": 13,
+    "poor_in_millions": 6,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SAU",
+    "population_in_millions": 34,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "SDN",
+    "population_in_millions": 43,
+    "poor_in_millions": 9,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SEN",
+    "population_in_millions": 16,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SGP",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "SLB",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SLE",
+    "population_in_millions": 8,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SLV",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SMR",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "SOM",
+    "population_in_millions": 15,
+    "poor_in_millions": 10,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SRB",
+    "population_in_millions": 7,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SSD",
+    "population_in_millions": 11,
+    "poor_in_millions": 8,
+    "greyout": 0
+  },
+  {
+    "iso3c": "STP",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SUR",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SVK",
+    "population_in_millions": 5,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SVN",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SWE",
+    "population_in_millions": 10,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SWZ",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SXM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "SYC",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "SYR",
+    "population_in_millions": 17,
+    "poor_in_millions": 11,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TCA",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "TCD",
+    "population_in_millions": 16,
+    "poor_in_millions": 5,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TGO",
+    "population_in_millions": 8,
+    "poor_in_millions": 2,
+    "greyout": 0
+  },
+  {
+    "iso3c": "THA",
+    "population_in_millions": 70,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TJK",
+    "population_in_millions": 9,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TKM",
+    "population_in_millions": 6,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TLS",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TON",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TTO",
+    "population_in_millions": 1,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TUN",
+    "population_in_millions": 12,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TUR",
+    "population_in_millions": 83,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TUV",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TWN",
+    "population_in_millions": 24,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "TZA",
+    "population_in_millions": 58,
+    "poor_in_millions": 25,
+    "greyout": 0
+  },
+  {
+    "iso3c": "UGA",
+    "population_in_millions": 44,
+    "poor_in_millions": 18,
+    "greyout": 0
+  },
+  {
+    "iso3c": "UKR",
+    "population_in_millions": 44,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "URY",
+    "population_in_millions": 3,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "USA",
+    "population_in_millions": 328,
+    "poor_in_millions": 3,
+    "greyout": 0
+  },
+  {
+    "iso3c": "UZB",
+    "population_in_millions": 34,
+    "poor_in_millions": 10,
+    "greyout": 0
+  },
+  {
+    "iso3c": "VCT",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "VEN",
+    "population_in_millions": 29,
+    "poor_in_millions": 1,
+    "greyout": 1
+  },
+  {
+    "iso3c": "VGB",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "VIR",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 1
+  },
+  {
+    "iso3c": "VNM",
+    "population_in_millions": 96,
+    "poor_in_millions": 1,
+    "greyout": 0
+  },
+  {
+    "iso3c": "VUT",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "WSM",
+    "population_in_millions": 0,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "XKX",
+    "population_in_millions": 2,
+    "poor_in_millions": 0,
+    "greyout": 0
+  },
+  {
+    "iso3c": "YEM",
+    "population_in_millions": 29,
+    "poor_in_millions": 17,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ZAF",
+    "population_in_millions": 59,
+    "poor_in_millions": 12,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ZMB",
+    "population_in_millions": 18,
+    "poor_in_millions": 11,
+    "greyout": 0
+  },
+  {
+    "iso3c": "ZWE",
+    "population_in_millions": 15,
+    "poor_in_millions": 6,
+    "greyout": 0
+  }
+]

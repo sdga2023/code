@@ -1,0 +1,218 @@
+"iso3c","region_id","country_name","income_id","total_msw_total_msw_generated_tons_year","wastegen_pc"
+"ABW","LCN","Aruba","HIC",88132.02,0.8541
+"AFG","SAS","Afghanistan","LIC",5628525,0.162411
+"AGO","SSF","Angola","LMC",4213644,0.1679
+"ALB","ECS","Albania","UMC",1087447,0.381
+"AND","ECS","Andorra","HIC",43000,0.521648
+"ARE","MEA","United Arab Emirates","HIC",5617682,0.574962
+"ARG","LCN","Argentina","HIC",17910550,0.416704
+"ARM","ECS","Armenia","UMC",492800,0.169567
+"ASM","EAS","American Samoa","UMC",18989.49,0.341544
+"ATG","LCN","Antigua and Barbuda","HIC",30585,0.316036
+"AUS","EAS","Australia","HIC",13345000,0.560966
+"AUT","ECS","Austria","HIC",5219716,0.588
+"AZE","ECS","Azerbaijan","UMC",2930349,0.303684
+"BDI","SSF","Burundi","LIC",1872016,0.277683
+"BEL","ECS","Belgium","HIC",4765883,0.415
+"BEN","SSF","Benin","LIC",685936,0.124224
+"BFA","SSF","Burkina Faso","LIC",2575251,0.142196
+"BGD","SAS","Bangladesh","LMC",14778497,0.0949
+"BGR","ECS","Bulgaria","UMC",2859190,0.407
+"BHR","MEA","Bahrain","HIC",951943,0.66795
+"BHS","LCN","Bahamas, The","HIC",264000,0.682456
+"BIH","ECS","Bosnia and Herzegovina","UMC",1248718,0.353148
+"BLR","ECS","Belarus","UMC",4280000,0.451019
+"BLZ","LCN","Belize","UMC",101378.8,0.282166
+"BMU","NAC","Bermuda","HIC",82000,1.265471
+"BOL","LCN","Bolivia","LMC",2219052,0.20691
+"BRA","LCN","Brazil","UMC",79069584,0.37924
+"BRB","LCN","Barbados","HIC",174815.4,0.623004
+"BRN","EAS","Brunei Darussalam","HIC",216253.2,0.511
+"BTN","SAS","Bhutan","LMC",111314.1,0.162039
+"BWA","SSF","Botswana","UMC",210854.4,0.104649
+"CAF","SSF","Central African Republic","LIC",1105983,0.244936
+"CAN","NAC","Canada","HIC",25103034,0.706241
+"CHE","ECS","Switzerland","HIC",6079556,0.709
+"CHI","ECS","Channel Islands","HIC",178933,1.087468
+"CHL","LCN","Chile","HIC",6517000,0.387238
+"CHN","EAS","China","UMC",395000000,0.282191
+"CIV","SSF","CÃ´te dâ€™Ivoire","LMC",4440814,0.217673
+"CMR","SSF","Cameroon","LMC",3270617,0.151028
+"COD","SSF","Congo, Dem. Rep.","LIC",14385226,0.182702
+"COG","SSF","Congo, Rep.","LMC",451200,0.17036
+"COL","LCN","Colombia","UMC",12150120,0.261819
+"COM","SSF","Comoros","LIC",91013,0.11707
+"CPV","SSF","Cabo Verde","LMC",132555,0.2579
+"CRI","LCN","Costa Rica","UMC",1460000,0.306879
+"CUB","LCN","Cuba","UMC",2692692,0.238214
+"CUW","LCN","Curacao","HIC",24703.81,0.1606
+"CYM","LCN","Cayman Islands","HIC",60000,1.013993
+"CYP","ECS","Cyprus","HIC",769485.1,0.642
+"CZE","ECS","Czech Republic","HIC",5334855,0.5
+"DEU","ECS","Germany","HIC",50627876,0.609
+"DJI","MEA","Djibouti","LMC",114997.2,0.154106
+"DMA","LCN","Dominica","UMC",13176,0.181989
+"DNK","ECS","Denmark","HIC",4910859,0.844
+"DOM","LCN","Dominican Republic","UMC",4063910,0.385995
+"DZA","MEA","Algeria","UMC",12378740,0.30485
+"ECU","LCN","Ecuador","UMC",5297211,0.328115
+"EGY","MEA","Egypt, Arab Rep.","LMC",21000000,0.239144
+"ERI","SSF","Eritrea","LIC",726957.4,0.16246
+"ESP","ECS","Spain","HIC",22408548,0.476
+"EST","ECS","Estonia","HIC",489511.7,0.369
+"ETH","SSF","Ethiopia","LIC",6532787,0.065411
+"FIN","ECS","Finland","HIC",3124498,0.566
+"FJI","EAS","Fiji","UMC",189389.6,0.218421
+"FRA","ECS","France","HIC",36748820,0.548
+"FRO","ECS","Faeroe Islands","HIC",61000,1.248925
+"FSM","EAS","Micronesia, Fed. Sts.","LMC",26039.57,0.248145
+"GAB","SSF","Gabon","UMC",238102.3,0.219219
+"GBR","ECS","United Kingdom","HIC",30771140,0.463
+"GEO","ECS","Georgia","LMC",800000,0.215222
+"GHA","SSF","Ghana","LMC",3538275,0.16425
+"GIB","ECS","Gibraltar","HIC",16954,0.504238
+"GIN","SSF","Guinea","LIC",596911,0.073398
+"GMB","SSF","Gambia, The","LIC",193440.5,0.147513
+"GNB","SSF","Guinea-Bissau","LIC",289514,0.163519
+"GNQ","SSF","Equatorial Guinea","UMC",198443.1,0.16246
+"GRC","ECS","Greece","HIC",5615353,0.524
+"GRD","LCN","Grenada","UMC",29536.11,0.280014
+"GRL","ECS","Greenland","HIC",50000,0.878657
+"GTM","LCN","Guatemala","UMC",2756741,0.16962
+"GUM","EAS","Guam","HIC",141500,0.884524
+"GUY","LCN","Guyana","UMC",179251.5,0.240105
+"HKG","EAS","Hong Kong SAR, China","HIC",5679816,0.77745
+"HND","LCN","Honduras","LMC",2162028,0.23725
+"HRV","ECS","Croatia","HIC",1810038,0.445
+"HTI","LCN","Haiti","LIC",2309852,0.212942
+"HUN","ECS","Hungary","HIC",3780970,0.387
+"IDN","EAS","Indonesia","LMC",65200000,0.249698
+"IMN","ECS","Isle of Man","HIC",50551,0.625949
+"IND","SAS","India","LMC",190000000,0.140284
+"IRL","ECS","Ireland","HIC",2910655,0.598
+"IRN","MEA","Iran, Islamic Rep.","UMC",17885000,0.22279
+"IRQ","MEA","Iraq","UMC",13140000,0.363831
+"ISL","ECS","Iceland","HIC",225270.4,0.656
+"ISR","MEA","Israel","HIC",5400000,0.644384
+"ITA","ECS","Italy","HIC",30088400,0.499
+"JAM","LCN","Jamaica","UMC",1051695,0.365
+"JOR","MEA","Jordan","UMC",2529997,0.300708
+"JPN","EAS","Japan","HIC",42720000,0.33763
+"KAZ","ECS","Kazakhstan","UMC",4659740,0.277507
+"KEN","SSF","Kenya","LMC",5595099,0.13531
+"KGZ","ECS","Kyrgyz Republic","LMC",1113300,0.186893
+"KHM","EAS","Cambodia","LMC",1089000,0.071313
+"KIR","EAS","Kiribati","LMC",35723.83,0.312285
+"KNA","LCN","St. Kitts and Nevis","HIC",32892.14,0.605882
+"KOR","EAS","Korea, Rep.","HIC",20452776,0.396321
+"KWT","MEA","Kuwait","HIC",1750000,0.583706
+"LAO","EAS","Lao PDR","LMC",351900,0.052806
+"LBN","MEA","Lebanon","UMC",2040000,0.364073
+"LBR","SSF","Liberia","LIC",564466.7,0.160683
+"LBY","MEA","Libya","UMC",2147596,0.34675
+"LCA","LCN","St. Lucia","UMC",77616.23,0.438
+"LIE","ECS","Liechtenstein","HIC",32382,0.886086
+"LKA","SAS","Sri Lanka","LMC",2631650,0.124117
+"LSO","SSF","Lesotho","LMC",73457,0.03737
+"LTU","ECS","Lithuania","HIC",1315390,0.472
+"LUX","ECS","Luxembourg","HIC",490337.8,0.791
+"LVA","ECS","Latvia","HIC",839714.4,0.439
+"MAC","EAS","Macao SAR, China","HIC",377942,0.617384
+"MAF","LCN","St. Martin (French part)","HIC",15479.5,0.5
+"MAR","MEA","Morocco","LMC",6852000,0.199662
+"MCO","ECS","Monaco","HIC",46000,1.217479
+"MDA","ECS","Moldova","LMC",3981200,1.120169
+"MDG","SSF","Madagascar","LIC",3768759,0.151389
+"MDV","SAS","Maldives","UMC",211505.8,0.516923
+"MEX","LCN","Mexico","UMC",53100000,0.421794
+"MHL","EAS","Marshall Islands","UMC",8614,0.163166
+"MKD","ECS","Macedonia, FYR","UMC",626970.4,0.301
+"MLI","SSF","Mali","LIC",1937354,0.121034
+"MLT","MEA","Malta","HIC",348841.2,0.694
+"MMR","EAS","Myanmar","LMC",4677307,0.10147
+"MNE","ECS","Montenegro","UMC",329780.3,0.53
+"MNG","EAS","Mongolia","LMC",2900000,0.957918
+"MNP","EAS","Northern Mariana Islands","HIC",32761.41,0.606289
+"MOZ","SSF","Mozambique","LIC",2500000,0.09187
+"MRT","SSF","Mauritania","LMC",454000,0.129482
+"MUS","SSF","Mauritius","UMC",438000,0.346664
+"MWI","SSF","Malawi","LIC",1297844,0.078291
+"MYS","EAS","Malaysia","UMC",12982685,0.429492
+"NAM","SSF","Namibia","UMC",256729,0.164572
+"NCL","EAS","New Caledonia","HIC",108157.4,0.389055
+"NER","SSF","Niger","LIC",1865646,0.210988
+"NGA","SSF","Nigeria","LMC",27614830,0.17885
+"NIC","LCN","Nicaragua","LMC",1528816,0.26645
+"NLD","ECS","Netherlands","HIC",8805088,0.508
+"NOR","ECS","Norway","HIC",4149967,0.776
+"NPL","SAS","Nepal","LIC",1768977,0.061035
+"NRU","EAS","Nauru","UMC",6191.751,0.4745
+"NZL","EAS","New Zealand","HIC",3405000,0.725595
+"OMN","MEA","Oman","HIC",1734885,0.438
+"PAK","SAS","Pakistan","LMC",30760000,0.15921
+"PAN","LCN","Panama","HIC",1472262,0.370917
+"PER","LCN","Peru","UMC",8356711,0.269803
+"PHL","EAS","Philippines","LMC",14631923,0.141617
+"PLW","EAS","Palau","HIC",9426.746,0.438392
+"PNG","EAS","Papua New Guinea","LMC",1000000,0.128936
+"POL","ECS","Poland","HIC",12758213,0.336
+"PRI","LCN","Puerto Rico","HIC",4170953,1.200903
+"PRT","ECS","Portugal","HIC",5268211,0.513
+"PRY","LCN","Paraguay","UMC",1818501,0.273907
+"PSE","MEA","West Bank and Gaza","LMC",1387000,0.342731
+"PYF","EAS","French Polynesia","HIC",147000,0.537422
+"QAT","MEA","Qatar","HIC",1000990,0.4745
+"ROU","ECS","Romania","UMC",5419833,0.28
+"RUS","ECS","Russian Federation","UMC",60000000,0.418989
+"RWA","SSF","Rwanda","LIC",4384969,0.367943
+"SAU","MEA","Saudi Arabia","HIC",16125701,0.511
+"SDN","SSF","Sudan","LMC",2831291,0.073259
+"SEN","SSF","Senegal","LIC",2454059,0.159234
+"SGP","EAS","Singapore","HIC",1870000,0.327863
+"SLB","EAS","Solomon Islands","LMC",179972,0.319375
+"SLE","SSF","Sierra Leone","LIC",610222.1,0.112179
+"SLV","LCN","El Salvador","LMC",1648996,0.267493
+"SMR","ECS","San Marino","HIC",17174.68,0.517263
+"SOM","SSF","Somalia","LIC",2326099,0.16246
+"SRB","ECS","Serbia","UMC",2347402,0.338
+"SSD","SSF","South Sudan","LIC",2680681,0.239829
+"STP","SSF","SÃ£o TomÃ© and PrÃ­ncipe","LMC",25586.5,0.133774
+"SUR","LCN","Suriname","UMC",78619.8,0.149438
+"SVK","ECS","Slovak Republic","HIC",2296165,0.421
+"SVN","ECS","Slovenia","HIC",1052325,0.504
+"SWE","ECS","Sweden","HIC",4618169,0.449
+"SWZ","SSF","Eswatini","LMC",218199.5,0.16246
+"SXM","LCN","Sint Maarten (Dutch part)","HIC","NA","NA"
+"SYC","SSF","Seychelles","HIC",48000,0.543583
+"SYR","MEA","Syrian Arab Republic","LIC",4500000,0.216088
+"TCA","LCN","Turks and Caicos Islands","HIC","NA","NA"
+"TCD","SSF","Chad","LIC",1358851,0.114312
+"TGO","SSF","Togo","LIC",1109030,0.153416
+"THA","EAS","Thailand","UMC",26853366,0.39112
+"TJK","ECS","Tajikistan","LIC",1787400,0.218567
+"TKM","ECS","Turkmenistan","UMC",500000,0.093174
+"TLS","EAS","Timor-Leste","LMC",63875,0.050348
+"TON","EAS","Tonga","UMC",17238.2,0.16425
+"TTO","LCN","Trinidad and Tobago","HIC",727874,0.548057
+"TUN","MEA","Tunisia","LMC",2700000,0.242285
+"TUR","ECS","Turkey","UMC",35374156,0.424
+"TUV","EAS","Tuvalu","UMC",3989.487,0.35951
+"TWN","EAS","NA","HIC",7336000,0.313049
+"TZA","SSF","Tanzania","LIC",9276995,0.189006
+"UGA","SSF","Uganda","LIC",7045050,0.20075
+"UKR","ECS","Ukraine","LMC",15242025,0.338677
+"URY","LCN","Uruguay","HIC",1260140,0.367221
+"USA","NAC","United States","HIC",265000000,0.81186
+"UZB","ECS","Uzbekistan","LMC",4000000,0.134343
+"VCT","LCN","St. Vincent and the Grenadines","UMC",31561.35,0.28835
+"VEN","LCN","Venezuela, RB","UMC",9779093,0.327136
+"VGB","LCN","British Virgin Islands","HIC",21099.19,1.022
+"VIR","LCN","Virgin Islands (U.S.)","HIC",146500,1.384898
+"VNM","EAS","Vietnam","LMC",9570300,0.110089
+"VUT","EAS","Vanuatu","LMC",70225.49,0.259708
+"WSM","EAS","Samoa","UMC",27399.09,0.146
+"XKX","ECS","Kosovo","LMC",319000,0.177045
+"YEM","MEA","Yemen, Rep.","LIC",4836820,0.175347
+"ZAF","SSF","South Africa","UMC",18457232,0.356804
+"ZMB","SSF","Zambia","LMC",2608268,0.182847
+"ZWE","SSF","Zimbabwe","LIC",1449752,0.115975
